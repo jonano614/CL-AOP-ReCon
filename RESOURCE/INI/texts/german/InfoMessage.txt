@@ -1,0 +1,92 @@
+InfoMessage_Title {Informationsblatt „Persönliche Anker“!}
+InfoMessage_Text_0
+{
+"Wild Caribbean"
+Dieses kostenlose Perk – „Wild Caribbean“ – verwandelt einige „normale“ Zufallsbegegnungen in völlig verrückte und unglaubliche Erlebnisse! Wähle dieses Perk nicht, wenn du nicht möchtest, dass deine Abenteuer ein wenig durchgeknallt werden. Aber sei vorsichtig: Hast du dich einmal dafür entschieden, kannst du es nicht mehr deaktivieren!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+„Wild Caribbean“ beinhaltet:
+- Auftauchen von Skelett-Sphären;
+- Skelett-Spawns beim Öffnen von Schatztruhen, wie in Höhlen;
+- Verfügbarkeit der Quest „Ghost Ship“;
+- Bekämpfung von Untoten statt Indianern in der Quest „Church needs help“;
+- Veränderung des visuellen Teils einiger Quests.
+}
+InfoMessage_Text_1
+{
+Es wurde eine Dash-Mechanik hinzugefügt – damit kannst du Schaden ausweichen:
+- Bei richtigem Timing beträgt die Chance, einem Pistolenschuss oder Hieb auszuweichen, 100 %;
+- Es werden nicht 3, sondern 2 Basiseinheiten Energie für einen Dash in jede Richtung benötigt;
+- Der Energiebedarf für einen Dash richtet sich nach dem Gewicht deiner Ausrüstung (2 Basiseinheiten + 0,1*Gewicht in Pfund);
+- Bei unzureichender Energie sinkt deine Chance auf einen Dash – ein erschöpfter Spieler kann zwar dashen, aber die Chance, Schaden zu entgehen, ist halbiert;
+- Alle erfahrenen Kämpfer, Veteranen und Offiziere haben eine 25%ige Chance, den Dash zu nutzen;
+- Normale Gegner dashen nicht.
+}
+InfoMessage_Text_2
+{
+Neue Ballistik und Schaden an der Crew
+-
+Die Ballistik für Schiffe und Forts wurde überarbeitet:
+Wenn der Feind nahe ist, schießt man in einer geraden Linie, sodass Wellen dich oder dein Ziel vor Treffern schützen können (außer wenn der Schütze über den Wellen steht, wie bei manchen Forts).
+-
+Erhöhter Streuwinkel beim Feuern aus folgenden Gründen:
+1. Um das Überleben kleinerer Schiffe gegen Großkampfschiffe zu verbessern – sie sind nun schwerer zu treffen, wenn sie manövrieren.
+2. Um den Wert eines guten Kanonier-Offiziers mit hoher Genauigkeit und Kanonenwerten zu steigern.
+3. Um die Qualität der Seeschlachten zu erhöhen, sodass sie – wie bisher – nicht nach wenigen Salven der größeren Schiffe entschieden werden.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Überarbeitete Mechanik für den Schaden an der Schiffscrew: Nun muss zuerst das Schiff beschädigt und seine Haltbarkeit verringert werden, bevor der Crew ernsthafter Schaden zugefügt werden kann. Diese Mechanik gilt selbstverständlich auch für das Schiff des Spielers.
+-
+Der Kartätschenschaden an der Crew wird nun abhängig vom % der Haltbarkeit des Rumpfs berechnet. Details findest du im Logbuch unter dem Reiter Enzyklopädie (Seeschlachten auf Schiffen).
+Weitere Informationen findest du unter „Dokumentation“ – „Handbuch“ – „Seeschlachten auf Schiffen“.
+}
+InfoMessage_Text_3
+{
+In der aktuellen Version wurden viele Städte und sogar Inseln für die Erkundung verändert und hinzugefügt:
+Fort-de-France, Le Francois, Willemstad, Fort Orange, La Vega, Santo Domingo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Neue Insel – Old Providence! Eine Pirateninsel und Basis auf der Welt- und der lokalen Karte.
+- Anlegen ist nur unter Piratenflagge möglich.
+- Piratenschiffe in diesem Gebiet greifen den Spieler unter Piratenflagge nicht an.
+
+Neue Stadt – Providencia! Eine befestigte Operationsbasis für Piraten und Freibeuter, geleitet von Edward Collier, Morgans rechte Hand.
+- Diese Stadt bietet: eine Piratenresidenz, eine Taverne, ein Bordell und einen Laden (Verbesserungen geplant).
+- Die Insel Old Providence hat ihren eigenen Dschungel und zwei Buchten: Morgan’s Head und Playa Manzanillo.
+- Schatzsuche auf der Insel Old Providence hinzugefügt: in einer Grotte gegenüber der Playa Manzanillo.
+}
+InfoMessage_Text_4
+{
+Schnelles Plündern
+\n\n
+Wenn der Kapitän eines geenterten Schiffs kapituliert, wird das Beute-Team sicher seine Kajüte durchsuchen und nach versteckten Gegenständen suchen – das gilt auch für die Taschen.
+\n\n
+Wenn du die Option gewählt hast, alle Trophäen in die Truhe im Laderaum zu übertragen, vergiss nicht, sie regelmäßig zu überprüfen. Die Truhe füllt sich schnell bei häufigen Entermanövern, da die Matrosen alles einsammeln, was sie finden.
+\n\n
+Hat der Kapitän oder der Bootsmann den „Diamantauge“-Perk, ist die Crew deutlich aufmerksamer und wählerischer und lässt offensichtlichen Müll zugunsten nützlicherer Dinge liegen.
+\n\n
+Wie effektiv diese „Wählerischkeit“ auf See ist, hängt vom „Boarding“-Wert deines Bootsmanns ab:
+- keine Anforderungen für Schiffe Rang 7 und 6
+- 15 bis 29 Punkte für Schiffe Rang 5
+- 30 bis 44 Punkte für Schiffe Rang 4
+- 45 bis 59 Punkte für Schiffe Rang 3
+- 60 bis 74 Punkte für Schiffe Rang 2
+- 75+ Punkte für Schiffe Rang 1
+- an Land keine Anforderungen
+\n\n
+Fehlen Bootsmann und/oder Crew, ist diese Option nicht verfügbar.
+}
+InfoMessage_Text_5
+{
+Es wurden technische Verbesserungen im musikalischen Bereich des Spiels vorgenommen.
+\n\n
+Das endlose Wiederholen eines einzelnen Tracks gehört der Vergangenheit an – jetzt wechselt die Musik nach dem Ende eines Stücks.
+Mit der F10-Taste kann der aktuell laufende Track sofort beendet und der nächste abgespielt werden (mit einer fairen Zufallsauswahl).
+\n\n
+Es gibt jetzt die Möglichkeit, eigene Musik hinzuzufügen, indem man einfach mp3-Dateien in die Musikordner legt.
+Details dazu finden Sie in der Datei readmekz (custommusic).txt
+Achtung!
+Die Originalmusik muss nicht in den CUSTOM-Ordner verschoben werden – diese Tracks werden ohnehin abgespielt.
+\n\n
+Eine neue Option sorgt dafür, dass die Musik beim Wechsel zwischen Orten desselben Typs nicht wechselt.
+Diese Einstellung finden Sie unter der F4-Taste.
+}

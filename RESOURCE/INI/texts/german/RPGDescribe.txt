@@ -1,0 +1,395 @@
+_info
+{
+Datei – Beschreibung des RPG-Systems  
+Erstellt: ALexusB 17.08.05 // geändert von Tymofei 12.12.2012 // überarbeitet von Konstrush 16.09.2024
+}
+Strength_hint
+{
+Power: Ermöglicht kräftige Schläge, hilft Verletzungen zu überstehen und viel zu tragen.
+Bestimmendes Attribut für Fertigkeiten, die große körperliche Kraft erfordern: „Schwere“ und „Mittlere Waffen“ sowie „Kanonen“.
+~
+Beeinflusst das Anfangs-LP und das maximale Tragegewicht.
+}
+Perception_hint
+{
+Wahrnehmung: die Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu riechen und zu bemerken.
+Bestimmendes Attribut für Fertigkeiten wie: „Genauigkeit“ und „Tarnung“.
+~
+Beeinflusst die Segeldistanz des Schiffs und die Interaktion auf der Weltkarte.
+}
+Agility_hint
+{
+Reaktion: Koordination der Bewegungen und Geschicklichkeit der Hände.
+Bestimmendes Attribut für Fertigkeiten wie: 'Leichte Waffen', 'Mittlere Waffen', 'Feuerwaffen' sowie 'Entern'.
+~
+Beeinflusst die maximale Energie.
+}
+Charisma_hint
+{
+Ausstrahlung: eine Mischung aus äußerem Erscheinungsbild und redegewandter Zunge. Ein hoher Charisma-Wert ist wichtig für Charaktere, die andere mit Worten beeinflussen wollen.
+Eine Schlüssel-Eigenschaft für Fertigkeiten wie: 'Führung' und 'Handel'.
+~
+Bestimmt, wie viele Offiziere du anwerben kannst (A*2).
+}
+Intellect_hint
+{
+Talent: Wissen, Klugheit und die Fähigkeit, schnell die richtigen Entscheidungen zu treffen.
+
+Bestimmendes Attribut für Fertigkeiten wie: „Commerce“, „Cannons“ und „Navigation“.
+~
+Bestimmt, wie schnell der Charakter Stufen und Perks erhält.
+}
+Endurance_hint
+{
+Ausdauer: Überlebensfähigkeit, Belastbarkeit und körperliche Widerstandskraft.
+Bestimmendes Attribut für Fertigkeiten wie: „Reparieren“ und „Verteidigung“.
+~
+Beeinflusst den Anstieg der HP und das Traggewicht pro Rang.
+}
+Luck_hint
+{
+Erfolg: hilft dort, wo sonst nichts nützt. Ein zu hoher oder zu niedriger Wert wirkt sich in jedem Fall auf den Charakter aus.
+Der entscheidende Wert für Fertigkeiten wie: 'Feuerwaffen', 'Glück' und 'Tarnung'.
+~
+Beeinflusst verschiedene Spielereignisse und die Menge der Beute.
+}
+FencingLight_hint
+{
+Fertigkeit im Umgang mit leichten Klingen, Degen und ähnlichen Waffen.
+~
+Hängt von Reflexe und Wahrnehmung ab (R*0.9+I*0.1).
+}
+Fencing_hint
+{
+Fertigkeit im Umgang mit mittleren, vielseitig ausgewogenen Klingen wie Säbeln, die sowohl Kraft als auch Geschicklichkeit erfordern.
+~
+Hängt von Stärke und Reflexen ab (P*0.6+R*0.4).
+}
+FencingHeavy_hint
+{
+Fähigkeit im Umgang mit schweren Waffen wie Breitschwertern und Äxten. Erfordert viel körperliche Kraft.
+~
+Hängt von Stärke und Ausdauer ab (P*0.9+E*0.1).
+}
+Pistol_hint
+{
+Fähigkeit, alle Arten von Feuerwaffen effektiv einzusetzen.
+~
+Hängt von Reaktion und Erfolg ab (R*0.5+S*0.5).
+}
+Fortune_hint
+{
+Fortuna. Nützlich in allen Situationen, besonders aber beim Glücksspiel.
+~
+Hängt von Erfolg (S) ab.
+}
+Leadership_hint
+{
+Die Fähigkeit, Menschen zu begeistern. Wenn andere sehen, dass du jede Lage meisterst, beginnen sie, an dich zu glauben. Nun sind die Tavernen voller Leute, die sich dir anschließen wollen, und feindliche Schiffe ergeben sich, sobald sie deine Flagge erblicken.
+~
+Hängt von Ausstrahlung und Talent ab (A*0,9+T*0,1).
+}
+Commerce_hint
+{
+Spielt eine entscheidende Rolle in bestimmten Handelsdialogen, beeinflusst sowohl Verkaufs- als auch Einkaufspreise und wirkt sich auf die Gesamtkosten der Schiffsverwaltung aus.
+~
+Hängt von Talent und Ausstrahlung ab (T*0,8+A*0,2).
+}
+Accuracy_hint
+{
+Eine der wichtigsten Fertigkeiten für alle, die auf hoher See unterwegs sind. Ein guter Kapitän verschwendet kein Pulver und keine Kugeln, nur um die Fische zu erschrecken: Jeder Schuss sitzt!
+~
+Hängt von Wahrnehmung und Glück ab (I*0,8+S*0,2).
+}
+Cannons_hint
+{
+Die Kanone flink laden, heranrollen, und während das Echo der Salve noch zwischen den Schotten dröhnt, reinigen, laden, zielen, Wasser über die Kanone gießen, damit sie nicht überhitzt ... Im Gefecht zählt nur das Nötigste: laden, heranrollen, feuern!
+~
+Hängt von Talent und Power ab (T*0.8+A*0.2).
+}
+Sailing_hint
+{
+Die Fähigkeit, ein Schiff sicher durch Sturm und Nebel in den Hafen zu bringen; das Geschick, Navigationsinstrumente zu nutzen und die Flotte zu führen. Selbst das größte und furchterregendste Schiff folgt der ruhigen Hand eines erfahrenen Navigators wie ein Vogel.
+~
+Hängt von Wahrnehmung und Lernfähigkeit ab (I*0.2+T*0.8).
+~
+Fehlende Navigation führt zu Abzügen bei allen Fertigkeiten und Attributen.
+1. Klasse erfordert 95
+2. Klasse erfordert 80
+3. Klasse erfordert 65
+4. Klasse erfordert 45
+5. Klasse erfordert 25
+6. Klasse erfordert 1
+~
+Fehlende Navigation führt zu einem Malus auf alle Fertigkeiten und Attribute des Charakters (es erscheinen negative Maluspunkte in den Eigenschaften `P`I`R`A`T`E`S`).
+~
+Der Maluswert ergibt sich aus der Differenz zwischen aktuellem und erforderlichem Navigationswert der Klasse.
+}
+Repair_hint
+{
+Wenn der Feind dein Schiff mit einer Salve von Geschossen überzieht, die Bordwände zersplittern und die Segel durchlöchern; wenn der Rumpf im Sturm kracht und der Wind das Rigg Faden für Faden zerreißt, wird die Reparatur zu einer der wichtigsten Fähigkeiten auf See.
+~
+Hängt von Ausdauer und Wahrnehmung ab (E*0,8+I*0,2).
+}
+Grappling_hint
+{
+Ein feindliches Schiff auszumanövrieren, die Enterhaken zu werfen, das zitternde Ziel zu entern, die Decks zu stürmen und das Schiff als wohlverdiente Beute zu übernehmen – all das verlangt große Geschicklichkeit und Erfahrung, doch die reiche Beute macht jede Mühe wett.
+~
+Hängt von Reaktion und Talent ab (R*0,7+T*0,3).
+}
+Defence_hint
+{
+Die Fähigkeit, die eigene Mannschaft im Gefecht zu schützen und sie nicht sinnlos sterben zu lassen, ist Aufgabe des Kapitäns und eines erfahrenen Arztes. Eine erhöhte Überlebensrate der Crew sorgt dafür, dass jeder Matrose zehn wert ist.
+~
+Hängt von Ausdauer und Ausstrahlung ab (E*0.5+A*0.5).
+}
+Sneak_hint
+{
+Die Fähigkeit, unbemerkt an Feinden vorbeizuschlüpfen, auf offener See Verfolgern zu entkommen oder wie aus heiterem Himmel einen unachtsamen Gegner zu überfallen.
+~
+Hängt von Success und Insight ab (S*0.5+I*0.5).
+}
+Loyality_hint
+{
+Deine Handlungen beeinflussen die Loyalität der Offiziere. Offiziere mit gutem Ruf werden nicht lange für einen Schurken arbeiten, und Gauner halten ein ehrliches Leben nicht lange aus.
+~
+Je höher die Führungskraft deines Helden, desto langsamer sinkt die Loyalität seiner Offiziere, wenn ihre Taten ihrer Weltanschauung widersprechen.
+~
+Je näher der Ruf des Charakters an den Extremwerten liegt, desto stärker reagiert er auf die Handlungen des Spielers. Sobald die Loyalität untragbar niedrig wird, verlässt der Offizier die Schiffscrew.
+}
+Attention_abilities
+{
+Achtung!
+Einige Skills sind für den aktuell gewählten Protagonisten- oder Offizierstyp möglicherweise nicht verfügbar.
+
+!NOCH NICHT VERWENDET!
+}
+Personal_abilities_hint
+{
+Perks, die auf den Charakter ausgerichtet sind.
+~
+Die Zahl zeigt die verfügbaren Perkpunkte an.
+}
+Ship_abilities_hint
+{
+Perks, die sich auf das Schiff beziehen.
+Angestellte Offiziere können die meisten davon übernehmen, sodass der Kapitän Prioritäten setzen kann.
+~
+Die Zahl zeigt die verfügbaren Perk-Punkte an.
+}
+Static_traits_hint {Statische Merkmale sind dauerhaft und werden vom Charakter für immer erworben.}
+Dynamic_traits_hint {Dynamische Merkmale ändern sich je nach den Handlungen des Charakters.}
+Rank_hint
+{
+Der Rang zeigt den Fortschritt des Charakters im Spiel an. Er steigt mit der Erfahrung des Helden.
+~
+Mit steigendem Rang des Charakters können sich auch einige Parameter erhöhen.
+~
+Mit zunehmendem Rang trifft er häufiger auf stärkere Gegner und findet bessere Gegenstände.
+}
+Life_hint
+{
+Die Gesundheit zeigt an, wie viel Schaden eine Figur erleiden kann, bevor sie besiegt oder getötet wird. Auch bekannt als Trefferpunkte (TP).
+~
+Mit jedem Rangaufstieg erhöht sich die Gesundheit – abhängig von ihrer Ausdauer.
+}
+Health_hint
+{
+Vitalität ist ein Indikator für den allgemeinen körperlichen Zustand der Figur: Je schlechter sie ist, desto schlechter werden alle Werte der Figur. Vitalität verschlechtert sich, wenn die Figur viele Wunden erleidet oder zu oft verschiedene minderwertige Tränke trinkt, und wird wiederhergestellt, wenn sie nicht an Nahkämpfen teilnimmt. Fällt sie unter „Ausgezeichnet“, erhält die Figur Abzüge auf Fertigkeiten und Attribute.
+~
+Vitalität kann in eine der folgenden Gruppen eingeteilt werden:
+Schrecklich – Schlecht – Schwach – Durchschnittlich – Gut – Ausgezeichnet
+~
+Die goldene Farbe des Indikators bedeutet, dass der aktuelle Zustand das Maximum für die Figur erreicht hat und sich nicht mehr von selbst verbessert. Weiße Farbe bedeutet, dass der Vitalitätszustand wiederhergestellt werden kann.
+~
+Vitalität regeneriert sich von selbst, allerdings recht langsam, besonders beim Segeln auf der Weltkarte. Liebesnächte stellen sie am schnellsten wieder her. Schlafen in einer Taverne hilft etwas weniger. Die Fähigkeit „Ausgezeichnete Vitalität“ verdoppelt die Regeneration. Gerüchten zufolge kann man die Vitalität durch einen seltenen Spezialtrank verbessern.
+~
+Priester in Kirchen können die maximale Vitalität wiederherstellen, aber nicht oft, nicht viel und nur sehr teuer. Manchmal sind 2–3 Priesterbesuche nötig, damit aus „Gold“ wieder „Weiß“ wird und sich der Zustand verbessern kann. Danach muss man trotzdem warten, bis sich die Vitalität von selbst wieder auf „Ausgezeichnet“ (Gold) erholt.
+}
+Energy_hint
+{
+Energie ist ein Wert, der die Ausdauerreserve deines Charakters anzeigt.
+~
+Alle Angriffsaktionen im Nahkampf verbrauchen Energie; im Kampf ermüdet dein Charakter und braucht eine Pause, um seine Kräfte wiederherzustellen.
+~
+Reaktion (R) bestimmt die maximale Energiemenge.
+}
+Money_hint {Geld regiert die Welt. Ob beliebte spanische Piaster, vielleicht auch seltene französische Ecu, englische Kronen oder vielgestaltige Taler... was macht das schon für einen Unterschied? All diese Vielfalt ist pures Silber, das keine Grenzen kennt!}
+Reputation_hint
+{
+Der Ruf zeigt an, wie die Gesellschaft den Charakter behandelt.
+~
+Der Ruf kann hoch (positiv), neutral oder niedrig (negativ) sein. Er verändert sich je nach den Taten des Charakters und bestimmt, wie andere Figuren im Spiel dich wahrnehmen.
+~
+Der Ruf gewöhnlicher Charaktere bleibt während des gesamten Spiels unverändert: Ihr Wesen gilt als gefestigt und ihr Verhalten als recht einheitlich.
+~
+Der Ruhm des Helden verblasst mit der Zeit, seine Taten oder Misserfolge geraten in Vergessenheit. Schlechte Taten werden weniger leicht vergessen als gute. Wenn ein Held keine Partei ergreift oder keine bedeutenden Taten vollbringt, wird sein Ruf schließlich zu „gewöhnlicher Seemann“.
+}
+weight_hint
+{
+Das maximale Gewicht, das eine Figur tragen kann, ohne an Bewegungsgeschwindigkeit zu verlieren oder andere Abzüge auf ihre Fertigkeiten zu erhalten. Überladene Figuren bewegen sich extrem langsam und erleiden Abzüge.
+~
+Hängt von Stärke und Ausdauer ab.
+}
+Title_hint {Titel – ein Ehrentitel, der sowohl den erreichten Rang als auch die Verdienste des Charakters für das Reich, dem er dient, anzeigt.}
+NextExp_hint
+{
+Der Erfahrungsschwellenwert zeigt an, wie viele Punkte dem aktuellen Skill, Rang und der Fähigkeit zugewiesen sind und wie viel Erfahrung benötigt wird, um einen weiteren Punkt zu erhalten.
+~
+Skills entwickeln sich, wenn du die entsprechenden Aktionen ausführst. Zum Beispiel erhältst du für jeden präzisen Pistolenschuss Erfahrungspunkte für den Skill "Feuerwaffen". Diese Skillpunkte werden auf die Rangerfahrung und persönliche/Schiffs-Fähigkeiten angerechnet (abhängig vom Skilltyp).
+~
+Sobald die Rangerfahrungsschwelle überschritten wird, steigt der Held einen Rang auf und erhält dadurch mehr Lebens- und Fähigkeitspunkte, die der Spieler nach Belieben verteilen kann.
+}
+TABLE_PERKS {Charakterfähigkeiten}
+TABLE_PERKS_desc
+{
+Perks sind zusätzliche Charakterfähigkeiten, die dir neue Vorteile verschaffen oder zuvor unzugängliche Spielfunktionen freischalten. Mit diesen Fähigkeiten kann dein Charakter entweder zum Experten in einem bestimmten Bereich werden oder sich als Allrounder aufstellen, der von vielem ein wenig versteht.
+~
+Doppelklicke auf den ausgewählten Perk, um die Beschreibung und eventuelle Voraussetzungen zu sehen.
+~
+Bestimmte Perks können nicht sofort erlernt werden, da sie zuerst andere Voraussetzungen im Baum erfordern.
+~
+Das Erlernen von Perks wird möglich, wenn du durch den Fortschritt bei persönlichen oder Schiffs-Skills freie Punkte erhältst.
+}
+PERK_TABLE_NEED {Erforderliche Fähigkeiten}
+PERK_TABLE_NEED_desc {Um diese Fähigkeit zu wählen, muss der Held zuerst alle anderen Fähigkeiten in diesem Baum aktiviert haben.}
+Nation_hint
+{
+Die Nation des Helden ist die Nation, die der Held zu Beginn des Spiels gewählt hat, oder die Nation des aktuell ausgestellten Kaperbriefs (Held im Dienst). Im Porträt des Hauptcharakters wird die Flagge seiner Nation angezeigt.
+~
+Die Nation ist im „Charakter“-Fenster sichtbar. Im „Nation“-Fenster siehst du die aktuelle Flagge deines Schiffs – diese kannst du nur auf See wechseln, um deine wahre Identität zu verbergen. Beachte, dass Schiffe auf offener See und Wachen im Hafen deine Tarnung durchschauen können. Die Heimlichkeit des Helden beeinflusst die Erfolgschance der Verkleidung.
+~
+Die Feinderkennung berücksichtigt die offiziellen Beziehungen zwischen den Staaten sowie Kopfgelder, die auf dich ausgesetzt sind. Hat der Held ein Kopfgeld von seiner eigenen Nation, gilt er auch für sie als Feind. Eine feindliche Nation kann jedoch bei Bewunderung ein Auge zudrücken.
+~
+Schnellreise funktioniert in feindlichen Städten nicht.
+}
+Drunk_hint {Alkohol beeinflusst deine Fertigkeiten. Ein Betrunkener spürt vielleicht einen Kraftschub, doch für präzise Arbeit taugt er nicht mehr.}
+England_descr {England. Britannia wird erst in einem Jahrhundert wirklich „die Wellen beherrschen“, doch wenn es eine aufstrebende Seemacht gibt, die Spaniens Stärke herausfordert, dann ist es England. Während Frankreich die spanische Macht in Europa angreift, machen englische Freibeuter und Marinepatrouillen Jagd auf ungeschützte spanische Schiffe – auf dem Weg zur Vorherrschaft in der Karibik.}
+France_descr {Frankreich. Mit dem Amtsantritt von Ludwig XIV. auf dem französischen Thron wird die militärische Präsenz in der Neuen Welt aktiv ausgebaut. Neue Armeereformen, wenn auch nicht so umfangreich wie die englischen, bringen bereits neue Uniformen und Waffen mit sich. In den Werften werden neue Schiffe auf Kiel gelegt, und Manufakturen gießen moderne Kanonen. Eine große Kolonialmacht, die nur ihre eigenen Interessen kennt.}
+Holland_descr {Holland. Die Vereinigten Provinzen der Niederlande sind eine junge Nation, die sich erst kürzlich von Spanien nach einem achtzigjährigen Unabhängigkeitskrieg befreit hat. Die Niederländer sind ein sparsames und fleißiges Volk mit einem ausgeprägten Drang nach Handelsvorherrschaft. Momentan konkurriert Holland mit England, strebt jedoch insgesamt danach, eine neutrale Macht zu sein, die mit jedem Kunden handeln (oder ihn übervorteilen) kann!}
+Spain_descr {Spanien. Eine große, aber schwindende Kolonialmacht. Spanien hält derzeit den Großteil der Karibikinseln und des spanischen Festlands, steht jedoch unter ständigem Druck von England und Frankreich, die darauf aus sind, sich den unermesslichen Reichtum der Neuen Welt selbst zu sichern.}
+Pirate_descr
+{
+Piraten. Diese Männer segeln unter keiner Flagge und leben nach dem Piratencode der Bruderschaft der Küste (der eher als Richtlinie dient). Das hindert sie nicht daran, ihre Beute in englischen oder französischen Kolonien wie Port Royal und Tortuga zu verkaufen, wo der Gouverneur gerne ein Auge zudrückt. Je nach Lage kämpfen Piraten auch „offiziell“ für jede Macht, die ihnen einen Kaperbrief ausstellt – doch am Ende ist ihr Ziel das gleiche wie das der englischen und französischen Freibeuter: ein prall gefülltes spanisches Schatzschiff.
+~
+Für jede Marinepatrouille ist der Anblick einer Piratenflagge am Horizont wie ein Festmahl für einen ausgehungerten Wolf. Für die meisten Piraten gibt es nur zwei Enden – den Galgen oder die Schlinge des Henkers.
+}
+Hunter_hint
+{
+Die Einstellung einer Nation, ihrer Bürger und Soldaten dir gegenüber. Gute Taten zugunsten des Landes verbessern deinen Ruf; schlechte können sogar dazu führen, dass ein Kopfgeld auf dich ausgesetzt wird. Das bedeutet ständige Verfolgung zu Land und zu Wasser.
+~
+Das Kopfgeld kann durch gute Taten für das jeweilige Land oder sogar durch Bestechung verringert werden. Mit genügend Einsatz lässt sich ein neutrales Verhältnis wiederherstellen.
+}
+LevelComplexity_hint {Schwierigkeit}
+LevelComplexity_desc
+{
+Dieser Parameter beeinflusst die Geschwindigkeit des Erfahrungsgewinns des Helden, den Fortschritt, die Stärke der Gegner, das Einkommen und viele weitere Faktoren. Der Schwierigkeitsgrad reicht von „Schiffsjungen“ bis „Unmöglich“.
+Weitere Optionen unten helfen, das Spiel individuell anzupassen (Rechtsklick für Beschreibung).
+}
+RechargePistolOnLine_hint {Pistolen nachladen}
+RechargePistolOnLine_desc
+{
+In diesem Modus werden Pistolen während des Kampfes nachgeladen, andernfalls nur, wenn die Klinge eingesteckt ist.
+~
+Der Modus gilt ausschließlich für Pistolen (Gewehre und Musketen benötigen diese Option nicht) und für alle Spielfiguren.
+}
+HardcoreGame_hint {HardcoreGame}
+HardcoreGame_desc
+{
+Nicht genug Adrenalin? Willst du dich wie ein echter Seebär fühlen und die volle Wirkung deiner Taten auf die Welt um dich herum spüren?
+~
+In diesem Modus kannst du das Spiel nur an heiligen Orten speichern – in der Kirche oder, wenn du als Pirat spielst, in Tavernen.
+~
+Du musst alles beim ersten Versuch richtig machen, ohne die Möglichkeit, ständig einen Spielstand neu zu laden. Fehler sind nicht erlaubt.
+}
+WildCaribbean_desc
+{
+Das „Wilde Karibik“-Perk verwandelt einige „normale“ Zufallsbegegnungen in der Karibik in seltsame und unglaubliche Erlebnisse! Wähle dieses Feature nicht, wenn du nicht möchtest, dass deine Abenteuer ein wenig verrückt werden. Sei vorsichtig – dieses Perk lässt sich später nicht mehr deaktivieren!
+
+„Wilde Karibik“ beinhaltet:
+- Sphären zur Beschwörung von Skeletten;
+- Skelette beim Auffinden von Schätzen;
+- Die Anwesenheit der Flying Dutchman;
+- Skelette in der Höhle während der Kirchenhilfe;
+- Untote Affen nachts im Dschungel.
+}
+ArcadeSailMode_desc
+{
+Geschwindigkeit und Dynamik der Seekämpfe.
+Dynamisches Gefecht – schnelles Segeln und Manövrieren der Schiffe, spontane Entscheidungen und rasante Ereignisabläufe.
+Taktisches Gefecht – überlegte Handlungen aller Beteiligten, ruhiges Nachdenken und gemächliche Ausführung der Befehle.
+~
+Man kann nicht sagen, dass einer dieser Modi klare Vorteile gegenüber dem anderen hat. Es ist vielmehr eine Frage des persönlichen Spielkomforts bei einem der wichtigsten Spielelemente.
+}
+EncountersRate_desc {Häufigkeit von Spielereignissen, insbesondere die Anzahl der Schiffe auf der Weltkarte.}
+WorldAlivePause_hint {Nationen-Quests}
+WorldAlivePause_desc
+{
+In diesem Modus kannst du eine der Szenario-Questreihen für die Nationen spielen, aber bis zum Abschluss wird die „lebendige Welt“ des Spiels angehalten – der Gouverneur-General reist nicht zwischen den Städten, Städte werden nicht von anderen Nationen erobert, und es ist nicht möglich, eine Stadt für den Helden einzunehmen.
+~
+Die lebendige Welt wird erst nach Abschluss der Szenario-Geschichte aktiviert.
+}
+Prisoner_hint {Gefangene}
+Prisoner_desc
+{
+Ein Gefangener ist eine Figur, die gegen ihren Willen auf deinem Schiff festgehalten wird. Jeder Gefangene kann im Laderaum deines Schiffs verhört werden.
+~
+Meistens kannst du ein Lösegeld für ihn erhalten, und wenn es sich um einen Piraten handelt, ihn für die Crew des Helden anwerben. Du kannst auch einen Passagier gefangen nehmen, den du transportierst, wenn er sich wegen der langen Reise zu seinem Ziel beschwert. Kapitäne werden zu Gefangenen, wenn sie sich dir beim Entern ergeben oder von dir auf See aus einem Boot aufgenommen werden. Die höchste Lösegeldsumme zahlt der Gouverneur derselben Nation wie der Gefangene, aber sie schwankt, ebenso wie die Einschätzung der Gouverneure über den Wert des Gefangenen.
+~
+Gefangene Kapitäne können sich mit verschiedenen Bitten an deinen Helden wenden. Meide den Kontakt zu Gefangenen nicht: Er könnte dir unerwarteten Nutzen bringen.
+}
+shipChoose_hint
+{
+Doppelklicken Sie mit der Maus (oder drücken Sie die 'Enter'-Taste) auf das Bild des Begleiterschiffs, um außerhalb des Kampfes einen Austausch zu beginnen.
+~
+Sie können einen Austausch starten, indem Sie nahe an ein Begleiterschiff segeln und den Schnellbefehl 'Austausch' drücken.
+Dies ist im Kampf und außerhalb des Kampfes möglich.
+}
+GoodsCargo_hint
+{
+Ladung an Bord des Schiffs: Munition, Waren und Geräte im Laderaum.
+~
+Um die Gegenstände zu sehen, die nicht in das vorgesehene Fenster passen, benutze den Schieberegler auf der rechten Seite der Liste.
+~
+Drücke die 'Enter'-Taste oder doppelklicke auf einen Eintrag in der Liste, um die Beschreibung des Produkts anzusehen, eine unerwünschte Menge über Bord zu werfen oder eine Mine zu legen.
+}
+EXP_SLIDE {Erfahrungsgewinnrate}
+EXP_SLIDE_desc {Mit dieser Einstellung legst du fest, wie schnell der Hauptcharakter und seine Offiziere Erfahrung sammeln. Je höher die Rate, desto schneller erhalten sie neue Fertigkeitspunkte, Stufen und Fähigkeiten.}
+Partition_hint
+{
+Die Anteile der Crew müssen spätestens am 1. jedes Monats ausgezahlt werden. Folgende Zahlungen sind zu leisten:
+~
+Monatlicher Unterhalt – umfasst die kombinierten Löhne der Matrosen und Offiziere, Entschädigungen für Verletzte sowie den Unterhalt für Schiff und Ausrüstung.
+~
+Beuteanteil – Aufteilung der erbeuteten Wertgegenstände und Verteilung der Anteile unter den Crewmitgliedern.
+~
+Alle erbeuteten Schiffe und Waren werden aufgeteilt. Nach den Gesetzen der Bruderschaft der Küste geht der Anteil eines verstorbenen Matrosen oder Offiziers an dessen Angehörige und Freunde.
+~
+Die Anteile für die Crewmitglieder sind wie folgt:
+- Matrose – 1 Anteil
+- Offizier – 10 Anteile
+- Begleiter – 30 Anteile
+- Kapitän – 200–650 Anteile
+Zusätzlich erhält der Kapitän als Eigentümer der Schiffe seiner Flottille für jedes Schiff weitere 20–120 Anteile (je nach Schiffsklasse) und trägt alle Kosten für Unterhalt und möglichen Verlust der Schiffe.
+Hat ein Kapitän ein Patent, werden 10 % der Beute an die Staatskasse abgeführt.
+~
+Eine verspätete Zahlung für den laufenden Monat führt bis Monatsende zu Unruhe in der Crew, während eine Vorauszahlung die Moral steigert.
+~
+Eine verspätete Zahlung für den vergangenen Monat senkt die Moral der Crew und die Loyalität der Offiziere und Begleiter erheblich.
+}
+SPECIAL_desc
+{
+P – Power. Notwendig für Fertigkeiten wie „Heavy“ und „Medium Weapons“, „Cannons“. Beeinflusst das Traggewicht und die anfängliche Menge an Trefferpunkten.
+~
+I – Insight. Notwendig für Fertigkeiten wie „Accuracy“ und „Stealth“. Beeinflusst die Segeldistanz des Schiffs und die Interaktion auf der Weltkarte.
+~
+R – Reaction. Notwendig für Fertigkeiten wie „Light“, „Medium“ und „Firearms“, „Boarding“. Beeinflusst die maximale Energiemenge.
+~
+A – Allure. Notwendig für Fertigkeiten wie „Leadership“ und „Commerce“. Beeinflusst die maximale Anzahl an Offizieren.
+~
+T – Talent. Notwendig für Fertigkeiten wie „Commerce“, „Weapons“, „Navigation“. Beeinflusst die Geschwindigkeit des Stufenaufstiegs des Helden und das Erlernen neuer Fähigkeiten.
+~
+E – Endurance. Notwendig für Fertigkeiten wie „Repair“ und „Defense“. Beeinflusst das Wachstum der Trefferpunkte und das Traggewicht.
+~
+S – Success. Notwendig für Fertigkeiten wie „Firearms“, „Luck“, „Stealth“. Beeinflusst alles ein wenig.
+}

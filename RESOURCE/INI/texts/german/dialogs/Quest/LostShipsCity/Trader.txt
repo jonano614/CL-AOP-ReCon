@@ -1,0 +1,405 @@
+Trader_1_m {
+Verdammter Sturm! Aber er lässt schon nach... Ich nehme an, Sie sind der neue Bürger der Stadt.
+}
+Trader_1_f {
+Verdammter Sturm! Aber er lässt schon nach... Ich nehme an, Sie sind der neue Bürger der Stadt.
+}
+Trader_2 {
+Kapitän @<GetFullName> persönlich. Und ein Sturm? Das ist doch nichts!
+}
+Trader_3_m {
+Ah, also bist du endlich gekommen, um mich zu sehen. Dann bist du wohl der neue Bürger der Stadt.
+}
+Trader_3_f {
+Ah, also bist du endlich gekommen, um mich zu sehen. Ich nehme an, du bist der neue Bürger der Stadt.
+}
+Trader_4 {
+Kapitän @<GetFullName> persönlich.
+}
+Trader_5 {
+Möchten Sie etwas kaufen oder verkaufen?
+}
+Trader_6 {
+Zeig mir, was du da hast.
+}
+Trader_7_m {
+Kumpel, ich habe gehört, du hast den Stadtplan. Weißt du, ich könnte ihn gerade echt gut gebrauchen. Ich laufe hier herum wie ein blindes Kätzchen und habe mich immer noch nicht zurechtgefunden…
+}
+Trader_7_f {
+Kumpel, ich habe gehört, du hast eine Karte der Stadt. Weißt du, die könnte ich gerade echt gut gebrauchen. Ich laufe hier herum wie ein blindes Kätzchen und habe mich immer noch nicht zurechtgefunden...
+}
+Trader_8 {
+Bist du verrückt geworden, Kumpel? So viel Geld für ein lausiges Stück Papier, das stolz als Stadtkarte bezeichnet wird?
+}
+Trader_9 {
+Hör zu, Kumpel, @<npchar> hat mich gebeten, noch einmal mit dir über die Stadtkarte zu sprechen.
+}
+Trader_10 {
+Danke, ich bin nicht interessiert.
+}
+Trader_11 {
+Hören Sie, ich möchte etwas Besonderes von Ihnen kaufen.
+}
+Trader_12 {
+Ich bin wegen der Waren hier, die du mir versprochen hast.
+}
+Trader_13 {
+Hör zu, ich habe etwas Wichtiges zu besprechen. Ich stelle eine Mannschaft zusammen.
+}
+Trader_14 {
+Haben Sie zufällig eine gute Flasche Wein?
+}
+Trader_15 {
+Suche einen festen Lieferanten für Kerzen für die Gemeinde!
+}
+Trader_16 {
+Und woher willst du wissen, was Ärger macht und was nicht?.. Egal, ich bin heute schlecht gelaunt. Mein Name ist @<GetFullName>, ich bin der Inhaber dieses Ladens. Freut mich, dich kennenzulernen.
+}
+Trader_17 {
+Das werden wir.
+}
+Trader_18 {
+Ausgezeichnet! Und mein Name ist @<GetFullName>, ich bin der Inhaber dieses Ladens. Freut mich, Sie kennenzulernen.
+}
+Trader_19 {
+Das werden wir.
+}
+Trader_20 {
+Was zum Teufel machst du da und durchwühlst meine Truhe! Kennst du das Gesetz der Stadt nicht? Das wirst du gleich erfahren…
+}
+Trader_21_m {
+He, Bürger, was hast du da vor? Das ist gesetzlich verboten! Dafür wirst du bezahlen...
+}
+Trader_21_f {
+He, Fräulein, was haben Sie da vor? Das ist gesetzlich verboten! Ich muss Sie bestrafen...
+}
+Trader_22_m {
+Halt, wo willst du denn hin? In der Stadt treibt ein Dieb sein Unwesen! Pass jetzt besser gut auf…
+}
+Trader_22_f {
+Halt, wo willst du denn hin? In der Stadt treibt ein Dieb sein Unwesen! Pass jetzt besser auf...
+}
+Trader_23 {
+@<LinkRandPhrase>
+}
+Trader_24 {
+Teufel!!
+}
+Trader_25 {
+Caramba!!
+}
+Trader_26 {
+Ach, verdammt!
+}
+Trader_27 {
+@<LinkRandPhrase>
+}
+Trader_28 {
+Ach, so ist das also?! Du hast dich also entschieden, in den Truhen zu wühlen, was?! Jetzt werden die Stadtbewohner und die Miliz dich in Stücke reißen wie altes Gerede!
+}
+Trader_29 {
+Was für ein Narr!
+}
+Trader_30_m {
+Hör zu, du solltest deine Waffe wegstecken. Du machst mich ein wenig nervös...
+}
+Trader_30_f {
+Hör zu, vielleicht solltest du deine Waffe wegstecken. Du machst mich ein wenig nervös...
+}
+Trader_31 {
+Weißt du, hier fuchteln wir nicht einfach mit Schwertern herum. Steck deine Waffe weg.
+}
+Trader_32_m {
+Hey, warum rennst du hier herum wie d’Artagnan und fuchtelst mit deinem Schwert? Steck deine Waffe weg, das gehört sich nicht für einen ernsthaften Mann…
+}
+Trader_32_f {
+Hey, warum rennst du hier wie d’Artagnan herum und fuchtelst mit deinem Schwert? Steck deine Waffe weg, so benimmt sich eine Dame nicht…
+}
+Trader_33 {
+@<LinkRandPhrase>
+}
+Trader_34 {
+In Ordnung.
+}
+Trader_35 {
+In Ordnung.
+}
+Trader_36 {
+Wie du sagst...
+}
+Trader_37 {
+@<LinkRandPhrase>
+}
+Trader_38_m {
+Hören Sie, als Bürger dieser Stadt bitte ich Sie, hier nicht mit gezogenem Degen herumzulaufen.
+}
+Trader_38_f {
+Wissen Sie, als Bürger dieser Stadt bitte ich Sie, hier nicht mit gezogenem Degen herumzulaufen.
+}
+Trader_39 {
+In Ordnung.
+}
+Trader_40 {
+In Ordnung.
+}
+Trader_41 {
+Wie du willst ...
+}
+Trader_42 {
+@<LinkRandPhrase>
+}
+Trader_43_m {
+Sei vorsichtig an den Ecken, wenn du mit einer Waffe in der Hand läufst. Ich könnte leicht zusammenzucken...
+}
+Trader_43_f {
+Ich mag es nicht, wenn Leute mit gezogenen Waffen vor mir herumlaufen. Das macht mir Angst...
+}
+Trader_44_m {
+Verstanden.
+}
+Trader_44_f {
+Verstanden.
+}
+Trader_45 {
+Ich lege es weg.
+}
+Trader_46 {
+@<RandPhraseSimple>
+}
+Trader_47 {
+Stehe immer zu Ihren Diensten. Sagen Sie einfach Bescheid!
+}
+Trader_48_m {
+Hör zu, solche Waren habe ich in deinem Sortiment noch nie gesehen. Bomben, Kettenkugeln, Schießpulver, Vorräte, Segeltuch, Planken, Medizin ...
+}
+Trader_48_f {
+Hören Sie, solche Waren habe ich in Ihrem Sortiment noch nie gesehen. Bomben, Kettenkugeln, Schießpulver, Vorräte, Segeltuch, Planken, Medikamente...
+}
+Trader_49_m {
+Nun, von dem, was du aufgezählt hast, sind hier nur Proviant, Segeltuch, Planken und Medizin etwas wert. Den Rest braucht niemand.
+}
+Trader_49_f {
+Nun, von dem, was du aufgezählt hast, sind hier nur Proviant, Segeltuch, Planken und Medizin etwas wert. Den Rest braucht niemand.
+}
+Trader_50 {
+Hast du etwas bei dir?
+}
+Trader_51 {
+Ich kann Ihnen Vorräte verkaufen. Sie sind allerdings ziemlich teuer.
+}
+Trader_52 {
+Ich brauche 20 Zentner. Was wird das kosten?
+}
+Trader_53 {
+Fünfunddreißigtausend Münzen.
+}
+Trader_54 {
+Wie viel?! Und mit Rabatt?
+}
+Trader_55 {
+Tut mir leid, aber es gibt keine Rabatte. Ich lege als Bonus etwas Segeltuch und Planken für fünftausend Piaster dazu. Wenn du also alles kaufen willst, musst du vierzigtausend bezahlen.
+}
+Trader_56_m {
+Ich bin bereit zu zahlen.
+}
+Trader_56_f {
+Ich bin bereit zu zahlen.
+}
+Trader_57 {
+So viel Geld habe ich nicht.
+}
+Trader_58 {
+Komm einfach vorbei, wenn du sie hast.
+}
+Trader_59 {
+In Ordnung.
+}
+Trader_60 {
+Gut. Wo soll das alles abgeladen werden?
+}
+Trader_61 {
+Hör zu, schick das alles zur 'San Gabriel'. Die 'Kaspers' sind übrigens nicht mehr dort, falls du es nicht wusstest...
+}
+Trader_62 {
+Ich weiß. Ich kümmere mich darum.
+}
+Trader_63 {
+Danke, mein Freund.
+}
+Trader_64_m {
+Hast du das Geld?
+}
+Trader_64_f {
+Hast du das Geld bekommen?
+}
+Trader_65_m {
+Ja. Und ich bin bereit zu zahlen.
+}
+Trader_65_f {
+Ja. Und ich bin bereit zu zahlen.
+}
+Trader_66 {
+Noch nicht...
+}
+Trader_67 {
+Na, hat der, der mit Gott spricht, endlich beschlossen, das Geld lockerzumachen? Hat er genug davon, im Dunkeln zu sitzen? Ist wohl schwer, die Messe ohne Kerzen zu halten, was? Hättest sie früher bei mir kaufen sollen – jetzt ist der Preis gestiegen! Fünfhundert Kirchenkerzen kosten dich 25.000 Piaster!
+}
+Trader_68 {
+Eigentlich brauche ich nur vierhundert... Na gut, abgemacht. Schick die ganze Lieferung zur 'Gloria'.
+}
+Trader_69 {
+Hör zu, das sind nicht einfach nur Kerzen – viele Menschen an diesem gottverlassenen Ort hungern nach Glauben und Hoffnung... Die dankbaren Gemeindemitglieder werden jede Unterstützung für ihr geistliches Leben zu schätzen wissen! Aber wenn sie herausfinden, wer für die verschwundenen Kerzen verantwortlich ist...
+}
+Trader_70 {
+Wie viel? Bist du verrückt?
+}
+Trader_71 {
+Ich schicke nichts irgendwohin! Leg das Geld auf den Tisch und nimm deine Ware!
+}
+Trader_72 {
+Unglaublich...
+}
+Trader_73 {
+Kein Geld, keine Kerzen.
+}
+Trader_74 {
+Nun, die Lage sieht nicht besonders gut aus ...
+}
+Trader_75 {
+Da ist etwas Wahres an deinen Worten. Zufriedene Stadtbewohner sind großzügige Stadtbewohner. Und diese Kerzen taugen wirklich nur für den Gottesdienst, sonst nichts. Hm. Na gut, einverstanden, nimm vierhundert, aber nicht fünfhundert. Aber das ist das erste und letzte Mal! Und ich liefere nichts aus!
+}
+Trader_76 {
+Da hast du recht – nach dem Geistigen sehnt man sich immer nach dem Materiellen! Vielen Dank!
+}
+Trader_77 {
+Ich mache Geschäfte, keine Wohltätigkeit. Also frag gar nicht erst – es hat keinen Sinn.
+}
+Trader_78 {
+Na gut, du Geizhals, Abmachung ist Abmachung. Schick die ganze Lieferung zur 'Gloria'.
+}
+Trader_79 {
+Bah... Ich finde Kerzen auch ohne deine Handelstricks.
+}
+Trader_80 {
+Welche Mannschaft?
+}
+Trader_81 {
+Darüber haben wir schon gesprochen.
+}
+Trader_82 {
+Das wurde bereits besprochen, ich sage es dir zum zweiten Mal.
+}
+Trader_83_m {
+Genug, du ermüdest mich...
+}
+Trader_83_f {
+Genug, du ermüdest mich...
+}
+Trader_84 {
+Zu meinem Schiff. Ich verlasse die Stadt.
+}
+Trader_85_m {
+Ja... Tut mir leid, das ist mir entfallen.
+}
+Trader_85_f {
+Ja... Tut mir leid, das ist mir entfallen.
+}
+Trader_86 {
+Wie du willst...
+}
+Trader_87 {
+Na gut...
+}
+Trader_88 {
+Heh, du wirst es weit bringen... Aber dir ist schon klar, dass du damit das Gesetz der Stadt brichst, oder?
+}
+Trader_89 {
+Ich weiß. Aber ich rette mein eigenes Leben. Die Sache ist die: Die Stadt wird von dem herannahenden Sturm zerstört werden.
+}
+Trader_90 {
+Ja, dafür braucht man wirklich keinen Wahrsager...
+}
+Trader_91 {
+Du glaubst mir nicht?
+}
+Trader_92 {
+Nein, ich glaube das nicht. Und ich möchte nicht mehr darüber sprechen.
+}
+Trader_93 {
+Hm... Na gut, wie du willst.
+}
+Trader_94 {
+Hier in der Nähe gab es mal einen guten, ich stelle ihn jetzt zum Verkauf.
+}
+Trader_95 {
+Danke!
+}
+Trader_96 {
+Ich verstehe, mit neuen Bürgern ist es immer so...
+}
+Trader_97 {
+Also, hast du die Karte?
+}
+Trader_98 {
+Ja, man hat dich nicht belogen.
+}
+Trader_99 {
+Sir, ich brauche es wirklich!
+}
+Trader_100 {
+Dann kauf es doch. Wie immer findest du es zusammen mit den anderen Waren auf dem Tresen.
+}
+Trader_101_m {
+Verstanden!
+}
+Trader_101_f {
+Verstanden!
+}
+Trader_102_m {
+Du verstehst es nicht. Es geht nicht um das Papier, sondern um das, was darauf gezeichnet ist.\nWenn es dir nicht gefällt, dann kauf es eben nicht. Wo ist das Problem?
+}
+Trader_102_f {
+Du verstehst es nicht. Es geht nicht um das Papier, sondern um das, was darauf gezeichnet ist.\nWenn es dir nicht gefällt, dann kauf es eben nicht. Wo ist das Problem?
+}
+Trader_103 {
+Ich brauche diese Karte. Aber sie ist zu teuer!
+}
+Trader_104_m {
+Sir, ich feilsche nicht. Wenn Sie wie ein Narr durch die Stadt laufen wollen, nur zu. Andernfalls zahlen Sie.\nDazu habe ich Ihnen nichts weiter zu sagen.
+}
+Trader_104_f {
+Mein Lieber, ich feilsche nicht. Wenn du wie ein Narr durch die Stadt rennen willst, nur zu. Wenn nicht – bezahl.\nDazu habe ich dir nichts weiter zu sagen.
+}
+Trader_105 {
+Aber ich brauche diese Karte wirklich! Bitte, machen Sie mir einen besseren Preis.
+}
+Trader_106_m {
+Freund, Almosen gibt’s in der Kirche. Ich bin hier wegen Geschäften. Heul deine Geschichten jemand anderem vor. Frag mich gar nicht erst – das bringt nichts.
+}
+Trader_106_f {
+Schätzchen, Wohltätigkeit ist Sache der Kirche – ich mache Geschäfte. Such dir jemanden, dem du dein Leid klagen kannst. Und frag mich gar nicht erst – das hat keinen Sinn.
+}
+Trader_107 {
+Na, da könnte ich mich glatt beschweren!
+}
+Trader_108 {
+Na gut, wie du willst ...
+}
+Trader_109 {
+In Ordnung, ich senke den Preis, aber nur dieses eine Mal...
+}
+Trader_110 {
+Danke! Und wie viel verlangst du jetzt für sie?
+}
+Trader_111 {
+Keine Ahnung. @<npchar> hat mir bisher nichts gesagt.
+}
+Trader_112 {
+Wahrscheinlich hatte er noch keine Gelegenheit dazu. Ich komme später vorbei, dann sprechen wir darüber.
+}
+Trader_113 {
+Lassen Sie uns den Kauf und Verkauf wie vereinbart abwickeln.
+}
+Trader_114 {
+In Ordnung, wie du meinst.
+}

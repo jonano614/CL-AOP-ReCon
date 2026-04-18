@@ -1,0 +1,395 @@
+_info
+{
+Plik – opis systemu RPG  
+Utworzony: ALexusB 17.08.05 // zmieniony przez Tymofei 12.12.2012 // zmodyfikowany przez Konstrush 16.09.2024
+}
+Strength_hint
+{
+Siła: pozwala mocno uderzać, przetrwać rany lub nosić dużo rzeczy.
+Atrybut kluczowy dla umiejętności wymagających dużego wysiłku fizycznego: 'Broń Ciężka', 'Broń Wyważona' oraz 'Działa'.
+~
+Wpływa na początkową liczbę punktów życia i maksymalny udźwig.
+}
+Perception_hint
+{
+Intuicja: zdolność widzenia, słyszenia, wyczuwania i dostrzegania niezwykłych rzeczy.
+Atrybut kluczowy dla takich umiejętności jak: 'Celność' i 'Skradanie'.
+~
+Wpływa na zasięg żeglugi statku i interakcje na mapie globalnej.
+}
+Agility_hint
+{
+Reakcja: koordynacja ruchów i zręczność manualna.
+Atrybut kluczowy dla umiejętności takich jak: 'Broń Lekka' i 'Broń Wyważona', 'Broń Palna', a także 'Przyciąganie'.
+~
+Wpływa na maksymalną ilość Energii.
+}
+Charisma_hint
+{
+Urok: połączenie wyglądu i daru przekonywania. Wysoki poziom uroku jest ważny dla postaci, które chcą wpływać na innych słowami.
+Kluczowy atrybut dla umiejętności takich jak: 'Dowodzenie' i 'Handel'.
+~
+Określa, ilu oficerów możesz zatrudnić (A*2).
+}
+Intellect_hint
+{
+Talent: wiedza, mądrość i umiejętność szybkiego podejmowania właściwych decyzji.
+
+Atrybut kluczowy dla takich umiejętności jak: 'Handel', 'Działa' i 'Nawigacja'.
+~
+Określa, jak szybko postać zdobywa poziomy i perki.
+}
+Endurance_hint
+{
+Wytrzymałość: przeżywalność, odporność i fizyczna wytrwałość.
+Kluczowy atrybut dla umiejętności takich jak: „Naprawy” i „Obrona”.
+~
+Wpływa na wzrost punktów życia oraz udźwig na każdy poziom.
+}
+Luck_hint
+{
+Sukces: pomaga tam, gdzie nic innego nie zdaje egzaminu. Zbyt wysoki lub zbyt niski atrybut wpłynie na postać w taki czy inny sposób.
+Atrybut kluczowy dla takich umiejętności jak: 'Firearms', 'Luck' i 'Stealth'.
+~
+Wpływa na różne wydarzenia w grze oraz ilość łupów.
+}
+FencingLight_hint
+{
+Umiejętność posługiwania się lekką bronią białą, taką jak rapier czy szpada.
+~
+Zależy od Reagowania i Intuicji (R*0.9+I*0.1).
+}
+Fencing_hint
+{
+Umiejętność posługiwania się wyważonymi, średnimi ostrzami, takimi jak szable, które wymagają zarówno siły, jak i zręczności.
+~
+Zależy od Siły i Reakcji (P*0.6+R*0.4).
+}
+FencingHeavy_hint
+{
+Umiejętność posługiwania się ciężką bronią, taką jak pałasze i topory. Wymaga dużej siły fizycznej.
+~
+Zależy od Siły i Wytrzymałości (P*0.9+E*0.1).
+}
+Pistol_hint
+{
+Umiejętność skutecznego używania wszystkich rodzajów broni palnej.
+~
+Zależy od Reagowania i Sukcesu (R*0.5+S*0.5).
+}
+Fortune_hint
+{
+Fortuna. Przydatna w każdej sytuacji, szczególnie podczas gry w hazard.
+~
+Zależy od Sukcesu (S).
+}
+Leadership_hint
+{
+Umiejętność porywania ludzi za sobą. Gdy inni widzą, że potrafisz wyjść cało z każdej opresji, zaczynają w ciebie wierzyć. Teraz tawerny są pełne chętnych do przyłączenia się, a wrogie okręty poddają się na widok twojej bandery.
+~
+Zależy od Uroku i Intelektu (A*0.9+T*0.1).
+}
+Commerce_hint
+{
+Odgrywa kluczową rolę w określonych dialogach handlowych, wpływając zarówno na ceny sprzedaży i zakupu, jak i na ogólne koszty zarządzania statkiem.
+~
+Zależy od Talentu i Uroku (T*0.8+A*0.2).
+}
+Accuracy_hint
+{
+Jedna z najważniejszych umiejętności dla tych, którzy żeglują po otwartym morzu. Porządny kapitan nie marnuje prochu i kul armatnich tylko po to, by płoszyć ryby — każdy salwa trafia w cel!
+~
+Zależy od Intuicji i Sukcesu (I*0.8+S*0.2).
+}
+Cannons_hint
+{
+Załaduj działo szybko, przetocz je i gdy echo salwy wciąż dudni między grodziami, oczyść, załaduj, wyceluj, polej wodą, by się nie przegrzało... W ogniu walki nie ma miejsca na zbędne ruchy: załaduj, przetocz, strzelaj!
+~
+Zależy od Talentu i Siły (T*0.8+A*0.2).
+}
+Sailing_hint
+{
+Umiejętność bezpiecznego doprowadzenia statku do portu przez burzę i mgłę; biegłość w korzystaniu z przyrządów nawigacyjnych i dowodzeniu flotą. Największy i najbardziej przerażający okręt popłynie jak ptak, posłuszny pewnej ręce doświadczonego Nawigatora.
+~
+Zależy od Intuicji i Intelektu (I*0.2+T*0.8).
+~
+Brak nawigacji nakłada kary na każdą umiejętność i cechę.
+Okręty 1 klasy wymagają 95
+2 klasy wymagają 80
+3 klasy wymagają 65
+4 klasy wymagają 45
+5 klasy wymagają 25
+6 klasy wymagają 1
+~
+Brak Nawigacji powoduje karę do wszystkich umiejętności i atrybutów postaci (pojawienie się ujemnych punktów karnych w cechach `P`I`R`A`T`E`S`).
+~
+Wartość kary jest określana jako różnica między aktualnym a wymaganym poziomem Nawigacji dla danej klasy.
+}
+Repair_hint
+{
+Gdy wróg zasypuje twój okręt gradem pocisków, roztrzaskując burty i zamieniając żagle w sito; gdy kadłub pęka podczas sztormu, a wiatr rozrywa olinowanie nitka po nitce, naprawa staje się jedną z najważniejszych umiejętności na morzu.
+~
+Zależy od Wytrzymałości i Intuicji (E*0.8+I*0.2).
+}
+Grappling_hint
+{
+Ustawienie statku w jednej linii z wrogiem, zarzucenie haków na drżący okręt przeciwnika, błyskawiczny szturm na pokład i zdobycie statku jako zasłużonej nagrody – to wymaga dużej zręczności i doświadczenia, ale łup z pewnością wynagrodzi cały trud.
+~
+Zależy od Reakcji i Intelektu (R*0.7+T*0.3).
+}
+Defence_hint
+{
+Umiejętność ochrony swoich ludzi podczas bitwy, niedopuszczenie do ich bezsensownej śmierci – to zadanie dla kapitana i doświadczonego lekarza. Zwiększona przeżywalność załogi sprawia, że każdy marynarz jest wart dziesięciu.
+~
+Zależy od Wytrzymałości i Uroku (E*0.5+A*0.5).
+}
+Sneak_hint
+{
+Umiejętność wymknięcia się wrogowi, ucieczki przed pościgiem na otwartym oceanie lub, niczym grom z jasnego nieba, zaskoczenia nieuważnego przeciwnika.
+~
+Zależy od Sukcesu i Intuicji (S*0.5+I*0.5).
+}
+Loyality_hint
+{
+Twoje działania wpływają na lojalność oficerów. Oficerowie o dobrej reputacji nie będą długo służyć łajdakowi, a oszuści nie wytrzymają długo uczciwego życia.
+~
+Im wyższe Dowodzenie Twojego bohatera, tym wolniej spada Lojalność jego oficerów, jeśli ich działania są sprzeczne z ich światopoglądem.
+~
+Im bliżej reputacja postaci znajduje się skrajnych wartości, tym silniejsza jest jego reakcja na działania gracza. Gdy Lojalność stanie się zbyt niska, oficer opuści załogę statku.
+}
+Attention_abilities
+{
+Uwaga!
+Niektóre umiejętności mogą być niedostępne dla wybranego typu bohatera lub oficerów.
+
+!JESZCZE NIE UŻYWANE!
+}
+Personal_abilities_hint
+{
+Umiejętności skupione na postaci.
+~
+Liczba oznacza wolne punkty umiejętności.
+}
+Ship_abilities_hint
+{
+Perki związane z okrętem.
+Zatrudnieni oficerowie mogą przejąć większość z nich, pozwalając Kapitanowi skupić się na innych zadaniach.
+~
+Liczba oznacza wolną pulę punktów perków.
+}
+Static_traits_hint {Statyczne cechy są trwałe i postać zdobywa je na zawsze.}
+Dynamic_traits_hint {Cechy dynamiczne zmieniają się w zależności od działań postaci.}
+Rank_hint
+{
+Ranga wskazuje poziom rozwoju postaci w grze. Wzrasta wraz ze zdobywanym doświadczeniem bohatera.
+~
+Wraz ze wzrostem rangi postaci niektóre parametry również mogą się zwiększać.
+~
+Wraz ze wzrostem rangi bohater będzie częściej napotykał silniejszych przeciwników i znajdował lepsze przedmioty.
+}
+Life_hint
+{
+Zdrowie określa, ile obrażeń postać może przyjąć, zanim zostanie pokonana lub zabita. Tak zwane Punkty Życia (HP).
+~
+Każdy awans na wyższy rang zwiększa długość paska Zdrowia, zależnie od Wytrzymałości.
+}
+Health_hint
+{
+Witalność to wskaźnik ogólnej kondycji fizycznej postaci: im gorsza witalność, tym gorsze stają się wszystkie parametry. Witalność pogarsza się, gdy postać odnosi wiele ran lub zbyt często pije różne niskiej jakości mikstury, a regeneruje się, gdy nie bierze udziału w walce wręcz. Jeśli spadnie poniżej poziomu doskonałego, postać otrzymuje kary do umiejętności i atrybutów.
+~
+Witalność można zaklasyfikować do jednej z następujących grup:
+Straszna - Zła - Słaba - Przeciętna - Dobra - Doskonała
+~
+Złoty kolor wskaźnika oznacza, że obecny stan stał się maksymalnym dla postaci i nie poprawi się samoczynnie. Biały kolor oznacza, że stan Witalności może zostać przywrócony.
+~
+Witalność regeneruje się sama, dość powoli, zwłaszcza podczas żeglugi na mapie globalnej. Najszybciej przywraca ją miłość. Sen w tawernie pomaga nieco mniej. Umiejętność 'Doskonała Witalność' podwaja tempo regeneracji. Według plotek, można poprawić Witalność, pijąc rzadką, specjalistyczną miksturę.
+~
+Kapłani w kościołach mogą przywrócić maksymalną Witalność, ale rzadko, niewiele i za wysoką opłatą. Czasem trzeba odwiedzić 2-3 kapłanów, by 'złoto' znów stało się 'białe' i mogło się poprawić. Jednak nawet wtedy trzeba poczekać, aż Witalność sama wróci do poziomu Doskonałego 'złota'.
+}
+Energy_hint
+{
+Energia to parametr określający zapas wytrzymałości postaci.
+~
+Wszystkie ataki w walce wręcz wymagają zużycia Energii; podczas walki postać się męczy i potrzebuje przerwy, by odzyskać siły.
+~
+Reagowanie (R) określa maksymalną ilość Energii.
+}
+Money_hint {Pieniądze rządzą światem. Najpopularniejsze hiszpańskie piasty, a może wśród nich znajdą się rzadkie francuskie ecu, angielskie korony, wielorakie talary... jaka to różnica? Całe to bogactwo to pełnowartościowe srebro, które nie zna granic!}
+Reputation_hint
+{
+Reputacja to wskaźnik tego, jak społeczeństwo traktuje postać.
+~
+Reputacja może być wysoka (pozytywna), neutralna lub niska (negatywna). Zmienia się w zależności od czynów postaci i decyduje o tym, jak inni bohaterowie gry cię postrzegają.
+~
+Reputacja zwykłych postaci pozostaje niezmienna przez całą grę: uznaje się, że ich charakter już się ukształtował i są dość jednolici w swoim zachowaniu.
+~
+Sława bohatera z czasem przemija, a jego osiągnięcia lub porażki zacierają się w pamięci ludzi. Złe uczynki trudniej ulegają zapomnieniu niż dobre. Jeśli bohater nie opowiada się po żadnej stronie ani nie dokonuje znaczących czynów, jego reputacja z czasem stanie się „zwykły marynarz”.
+}
+weight_hint
+{
+Maksymalna waga, jaką postać może unieść bez utraty szybkości ruchu i innych kar do swoich umiejętności. Przeciążona postać porusza się bardzo wolno i otrzymuje kary.
+~
+Zależy od Siły i Wytrzymałości.
+}
+Title_hint {Tytuł – honorowe wyróżnienie przyznawane za awans, będące oznaką zdobytego autorytetu oraz zasług wniesionych przez postać dla imperium, któremu służy.}
+NextExp_hint
+{
+Próg doświadczenia pokazuje, ile punktów zostało przypisanych do bieżącej umiejętności, rangi i zdolności oraz ile doświadczenia potrzeba, by zdobyć kolejny punkt.
+~
+Umiejętności rozwijają się podczas wykonywania odpowiednich czynności. Na przykład za każdy celny strzał z pistoletu otrzymasz punkty doświadczenia do umiejętności 'Broń Palna'. Te punkty umiejętności są zaliczane do doświadczenia rangi oraz osobistych/okrętowych zdolności (w zależności od typu umiejętności).
+~
+Po przekroczeniu progu doświadczenia rangi bohater zdobywa nową rangę, a wraz z nią więcej punktów życia i zdolności, które gracz może rozdzielić według własnego uznania.
+}
+TABLE_PERKS {Umiejętności postaci}
+TABLE_PERKS_desc
+{
+Perki to dodatkowe zdolności postaci, które pozwalają zdobyć nowe korzyści lub odblokować wcześniej niedostępne funkcje gry. Umiejętności mogą umożliwić specjalizację w wybranej dziedzinie albo uczynić z postaci wszechstronnego gracza, który zna się po trochu na wszystkim.
+~
+Kliknij dwukrotnie wybrany perk, aby przeczytać jego opis i poznać wymagania wstępne (jeśli występują)
+~
+Niektórych perków nie można nauczyć się od razu – najpierw trzeba zdobyć wymagane zdolności w drzewku.
+~
+Nauka perków staje się dostępna po otrzymaniu wolnych punktów za postępy w umiejętnościach osobistych lub okrętowych.
+}
+PERK_TABLE_NEED {Wymagane umiejętności}
+PERK_TABLE_NEED_desc {Aby wybrać tę umiejętność, bohater musi najpierw aktywować wszystkie pozostałe umiejętności z tego drzewa.}
+Nation_hint
+{
+Naród bohatera to naród wybrany przez bohatera na początku gry lub naród patentu wydanego w danym momencie (bohater na służbie). Na portrecie głównego bohatera wyświetlana jest flaga odpowiadająca jego narodowi.
+~
+Naród można zobaczyć w oknie „Postać”. W oknie „Naród” widoczna jest aktualna flaga twojego statku – możesz ją zmienić tylko na morzu, aby ukryć swoją prawdziwą tożsamość. Pamiętaj, że statki na otwartym morzu i strażnicy w porcie mogą rozpoznać twój kamuflaż. Skradanie się bohatera wpływa na szansę powodzenia przebrania.
+~
+Rozpoznanie wroga odbywa się z uwzględnieniem oficjalnych relacji między państwami oraz nagród wyznaczonych za twoją głowę. Jeśli bohater ma wyznaczoną nagrodę za głowę przez własny naród, jest uznawany za wroga także przez niego. Jednak wroga nacja może przymknąć oko na pozytywne nastawienie.
+~
+Szybka podróż nie działa w miastach wrogich nacji.
+}
+Drunk_hint {Alkohol wpływa na twoje umiejętności. Pijany może poczuć przypływ sił, ale precyzyjna praca nie jest już dla niego.}
+England_descr {Anglia. Brytania potrzebuje jeszcze stulecia, by naprawdę „zapanować nad falami”, ale jeśli jakaś potęga morska ma rzucić wyzwanie Hiszpanii, to właśnie Anglia. Gdy Francja osłabia wpływy Hiszpanii w Europie, angielscy korsarze i patrole morskie łupią niechronione hiszpańskie statki, torując sobie drogę do panowania nad Karaibami.}
+France_descr {Francja. Wraz z objęciem tronu przez Ludwika XIV, obecność militarna w Nowym Świecie szybko rośnie. Nowe reformy armii, choć nie tak szeroko zakrojone jak angielskie, już przynoszą nowe mundury i broń. W stoczniach powstają nowe okręty, a manufaktury odlewają nowoczesne armaty. Wielka potęga kolonialna, która nie liczy się z żadnymi interesami poza własnymi.}
+Holland_descr {Holandia. Zjednoczone Prowincje Niderlandów to młode państwo, które niedawno wywalczyło niepodległość po osiemdziesięcioletniej wojnie ze Hiszpanią. Holendrzy są oszczędni i pracowici, a ich ambicją jest dominacja w handlu. Obecnie Holandia rywalizuje z Anglią, lecz przede wszystkim dąży do neutralności, by móc handlować (lub oszukiwać) każdego klienta!}
+Spain_descr {Hiszpania. Wielkie, lecz słabnące mocarstwo kolonialne. Obecnie kontroluje większość wysp karaibskich i hiszpańskie wybrzeże, lecz nieustannie znajduje się pod presją Anglii i Francji, które pragną zagarnąć niewyczerpane bogactwa Nowego Świata dla siebie.}
+Pirate_descr
+{
+Piraci. To ludzie, którzy nie uznają żadnej bandery i żyją według Kodeksu Piratów (choć to raczej wskazówki) Bractwa Wybrzeża. Nie przeszkadza im to sprzedawać łupów w angielskich lub francuskich koloniach, takich jak Port Royal czy Tortuga, gdzie gubernator przymyka oko. W zależności od sytuacji piraci mogą „legalnie” walczyć dla każdej potęgi, która wystawi im list kaperski, ale ostatecznie ich łup jest taki sam jak u angielskich i francuskich korsarzy – tłusta hiszpańska galeona pełna skarbów.
+~
+Dla każdego patrolu morskiego widok pirackiej bandery na horyzoncie to jak rzut bekonem do wygłodniałego wilka. Dla większości piratów są tylko dwa zakończenia – szubienica lub stryczek.
+}
+Hunter_hint
+{
+Stosunek państwa, jego obywateli i żołnierzy do ciebie. Dobre uczynki na rzecz kraju podnoszą twoją reputację; złe mogą nawet sprawić, że wyznaczona zostanie nagroda za twoją głowę. To oznacza nieustanny pościg zarówno na lądzie, jak i na morzu.
+~
+Cenę za twoją głowę można obniżyć dobrymi uczynkami na rzecz danego kraju lub nawet łapówką. Przy odpowiednim wysiłku można przywrócić neutralne stosunki.
+}
+LevelComplexity_hint {Poziom trudności}
+LevelComplexity_desc
+{
+Ten parametr wpływa na tempo zdobywania doświadczenia przez bohatera, szybkość postępów, siłę przeciwników, dochody i wiele innych czynników. Poziom trudności waha się od "Majtków" do "Niemożliwy".
+Dodatkowe opcje poniżej pozwolą dostosować grę "pod siebie" (kliknij prawym przyciskiem, aby zobaczyć opis).
+}
+RechargePistolOnLine_hint {Przeładowanie pistoletu}
+RechargePistolOnLine_desc
+{
+W tym trybie pistolety są przeładowywane podczas walki, w przeciwnym razie – tylko gdy broń biała jest schowana.
+~
+Tryb dotyczy wyłącznie pistoletów (strzelby i muszkiety nie wymagają aktywacji tej opcji) oraz wszystkich postaci w grze.
+}
+HardcoreGame_hint {HardcoreGame}
+HardcoreGame_desc
+{
+Za mało adrenaliny? Chcesz poczuć się jak prawdziwy korsarz i naprawdę zobaczyć, jak twoje czyny wpływają na świat wokół ciebie?
+~
+W tym trybie zapisywanie gry jest możliwe tylko na świętej ziemi – w kościele, a grając piratem – w tawernach.
+~
+Musisz zrobić wszystko dobrze za pierwszym razem, bez możliwości wielokrotnego wczytywania zapisów. Nie ma miejsca na błędy.
+}
+WildCaribbean_desc
+{
+Perk „Dzikie Karaiby” zamienia kilka „zwykłych” losowych spotkań na Karaibach w dziwaczne i niesamowite! Nie wybieraj tej cechy, jeśli nie chcesz, by twoje przygody stały się trochę szalone. Uważaj – nie będzie można wyłączyć tego perka!
+
+„Dzikie Karaiby” obejmują:
+- Kule przyzywające szkielety;
+- Szkielety pojawiające się przy odkryciu skarbu;
+- Obecność Latającego Holendra;
+- Szkielety w jaskini podczas Pomocy Kościołowi;
+- Nocą w dżungli nieumarłe małpy.
+}
+ArcadeSailMode_desc
+{
+Szybkość i dynamika walk morskich.
+Dynamiczna walka – szybkie żeglowanie i manewrowanie okrętami, błyskawiczne decyzje i gwałtowny rozwój wydarzeń.
+Taktyczna walka – wyważone działania wszystkich uczestników, spokojne rozważanie i niespieszne wykonywanie rozkazów.
+~
+Nie można powiedzieć, że któryś z tych trybów ma wyraźną przewagę nad drugim. To raczej kwestia wyboru wygody podczas rozgrywania jednego z głównych elementów gry.
+}
+EncountersRate_desc {Częstotliwość zdarzeń w grze, zwłaszcza liczby statków na mapie świata.}
+WorldAlivePause_hint {Zadania narodowe}
+WorldAlivePause_desc
+{
+Ten tryb pozwala rozegrać jedną ze scenariuszowych linii fabularnych dla Narodów, ale zanim się ona zakończy, „żywy świat” gry zostaje wstrzymany: gubernatorzy generalni nie przemieszczają się między miastami, miasta nie są zdobywane przez inne państwa, a bohater nie może przejmować miast.
+~
+Żywy świat zacznie działać dopiero po ukończeniu scenariusza.
+}
+Prisoner_hint {Więzień}
+Prisoner_desc
+{
+Więzień to postać, która została pojmana i przetrzymywana na twoim statku wbrew swojej woli. Każdego więźnia możesz przesłuchać w ładowni statku.
+~
+Najczęściej możesz otrzymać za niego okup, a jeśli to pirat, zwerbować go do załogi bohatera. Możesz uwięzić pasażera, którego miałeś dostarczyć, jeśli zacznie się buntować z powodu długiej podróży do miejsca przeznaczenia. Kapitanami są ci, którzy poddali się podczas abordażu lub zostali przez ciebie podniesieni z łodzi na otwartym morzu. Najwyższą kwotę okupu oferuje gubernator tej samej nacji co więzień, ale suma ta się waha, podobnie jak opinia gubernatorów o wartości więźnia.
+~
+Pojmani kapitanowie mogą zwracać się do twojego bohatera z różnymi prośbami. Nie unikaj rozmów z więźniami – może przynieść ci to niespodziewane korzyści.
+}
+shipChoose_hint
+{
+Kliknij dwukrotnie myszką (lub naciśnij klawisz 'Enter') na obrazie statku kompana, aby rozpocząć wymianę poza walką.
+~
+Możesz rozpocząć wymianę, podpływając blisko statku kompana i wybierając szybką komendę 'Wymiana'.
+Możliwe zarówno w walce, jak i poza nią.
+}
+GoodsCargo_hint
+{
+Ładunek na pokładzie statku: amunicja, towary i sprzęt w ładowni.
+~
+Aby zobaczyć przedmioty, które nie mieszczą się w wyznaczonym oknie, użyj suwaka po prawej stronie listy.
+~
+Naciśnij klawisz 'Enter' lub kliknij dwukrotnie na przedmiot na liście, aby zobaczyć opis produktu, wyrzucić niepotrzebną ilość za burtę lub zrzucić minę.
+}
+EXP_SLIDE {Tempo zdobywania doświadczenia}
+EXP_SLIDE_desc {To ustawienie reguluje tempo, w jakim główny bohater i jego oficerowie zdobywają doświadczenie. Im wyższe tempo, tym szybciej zdobywają nowe punkty umiejętności, poziomy i zdolności.}
+Partition_hint
+{
+Udziały dla załogi muszą być wypłacone najpóźniej do 1. dnia każdego miesiąca. Wypłaty obejmują:
+~
+Miesięczne utrzymanie – łączna pensja marynarzy i oficerów, rekompensata dla rannych oraz koszty utrzymania statku i wyposażenia.
+~
+Podział łupów – rozdzielenie zdobytych kosztowności i przydzielenie udziałów członkom załogi.
+~
+Wszystkie zdobyte statki i towary podlegają podziałowi. Zgodnie z prawami Braci Wybrzeża, udział zmarłego marynarza lub oficera przypada jego rodzinie i przyjaciołom.
+~
+Udziały dla członków załogi przedstawiają się następująco:
+- marynarz – 1 udział
+- oficer – 10 udziałów
+- kompan – 30 udziałów
+- kapitan – 200-650 udziałów
+Dodatkowo kapitan, jako właściciel statków swojej eskadry, otrzymuje dodatkowo 20-120 udziałów z każdego statku (w zależności od klasy jednostki) i ponosi wszelkie koszty związane z utrzymaniem oraz ewentualną utratą statków.
+Jeśli kapitan posiada patent, 10% łupów trafia do skarbca Narodu.
+~
+Opóźnienie wypłaty za bieżący miesiąc wywoła niezadowolenie wśród załogi do końca miesiąca, natomiast wypłata z góry podniesie morale.
+~
+Opóźnienie wypłaty za poprzedni miesiąc znacząco obniży morale załogi oraz lojalność oficerów i kompanów.
+}
+SPECIAL_desc
+{
+P – Siła. Niezbędna do takich umiejętności jak „Broń Ciężka”, „Broń Wyważona” i „Działa”. Wpływa na udźwig oraz początkową liczbę Punktów Życia.
+~
+I – Intuicja. Niezbędna do takich umiejętności jak „Celność” i „Skradanie”. Wpływa na zasięg żeglugi statku oraz interakcje na mapie globalnej.
+~
+R – Reagowanie. Niezbędne do takich umiejętności jak „Broń Lekka”, „Broń Wyważona”, „Broń Palna” i „Przyciąganie”. Wpływa na maksymalną ilość energii.
+~
+A – Urok. Niezbędny do takich umiejętności jak „Dowodzenie” i „Handel”. Wpływa na maksymalną liczbę oficerów.
+~
+T – Intelekt. Niezbędny do takich umiejętności jak „Handel”, „Broń” i „Nawigacja”. Wpływa na tempo awansu bohatera i zdobywanie nowych zdolności.
+~
+E – Wytrzymałość. Niezbędna do umiejętności takich jak „Naprawy” i „Obrona”. Wpływa na przyrost Punktów Życia i udźwig.
+~
+S – Sukces. Niezbędny do umiejętności takich jak „Broń Palna”, „Szczęście” i „Skradanie”. Wpływa po trochu na wszystko.
+}

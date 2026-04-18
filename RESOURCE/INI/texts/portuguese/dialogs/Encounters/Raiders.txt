@@ -1,0 +1,564 @@
+Raiders_1 {
+Ficou sabendo? O bandido local @<GetFullName> fez mais uma vítima. Um capitão perdeu a coragem e acabou pagando. Dizem que ele desembolsou @<FindMoneyString>, heh-heh...
+}
+Raiders_2 {
+Sim, Capitão @<GetFullName>, já soube que você teve que entregar @<FindMoneyString> para subornar o bandido local @<GetFullName>. Fazer o quê—foi azar! Ha-ha-ha!
+}
+Raiders_3 {
+Você soube que alguns bandidos locais atacaram um capitão? Roubaram dele nada menos que @<FindMoneyString>!
+}
+Raiders_4 {
+@<LinkRandPhrase>
+}
+Raiders_5_m {
+Ficou sabendo? Finalmente acharam um jeito de lidar com aquele bandido @<GetFullName>. Ele e os comparsas tentaram roubar um capitão, mas acabaram enfrentando mais do que podiam aguentar. No fim, o nosso valente ladrão acabou se borrando de medo, ha-ha! Bem feito — assaltar um capitão de verdade não é como tirar trocados dos fazendeiros da região.
+}
+Raiders_5_f {
+Ficou sabendo? Finalmente acharam um jeito de lidar com aquele bandido @<GetFullName>. Ele e os comparsas tentaram assaltar uma marinheira, mas ela acabou sendo mais do que eles podiam enfrentar. No fim, nosso valente ladrão acabou se borrando, ha-ha! Bem feito — extorquir uns trocados dos fazendeiros daqui é uma coisa, mas isso aí foi diferente.
+}
+Raiders_6 {
+Obrigado, Capitão @<GetFullName>, por finalmente expulsar aquele bandido @<GetFullName> e sua gangue. A vida tinha se tornado insuportável com aqueles canalhas por perto. Às vezes eu até tinha medo de mandar um mensageiro à fazenda buscar leite — vai saber, poderiam encontrá-los e perder todo o dinheiro.
+}
+Raiders_7 {
+@<RandPhraseSimple>
+}
+Raiders_8_m {
+Ficou sabendo? Finalmente, algum capitão deu uma boa surra naquele facínora @<GetFullName>—aquele que estava aterrorizando as selvas e assustando os fazendeiros locais. Será que isso vai afastá-lo da bandidagem por muito tempo?
+}
+Raiders_8_f {
+Ficou sabendo? Uma marinheira deu uma bela surra naquele bandido @<GetFullName>—aquele que estava aterrorizando os fazendeiros e rondando a selva. Será que isso vai impedir eles de voltarem à bandidagem por muito tempo?
+}
+Raiders_9_m {
+Você soube que o bandido local @<GetFullName> e seus comparsas tentaram assaltar um capitão? Pois é, não saiu como eles esperavam — o capitão era mais difícil do que parecia. Dizem que ele perseguiu aqueles ladrões pela selva como um tubarão atrás de um cardume de sardinhas. Graças a Deus ainda existem pessoas que sabem nos defender em tempos assim, quando as autoridades não fazem nada, ocupadas demais com seus próprios interesses...
+}
+Raiders_9_f {
+Você não ficou sabendo que o bandido local @<GetFullName> e seus capangas tentaram assaltar uma capitã? Pois é, não saiu como eles esperavam — a capitã mostrou que não se intimida fácil. Dizem que ela perseguiu aqueles ladrões pela selva como um tubarão atrás de um cardume de sardinhas. Graças a Deus ainda existem pessoas que sabem nos defender em tempos como estes, quando as autoridades estão ocupadas demais com seus próprios interesses para fazer qualquer coisa...
+}
+Raiders_10 {
+@<LinkRandPhrase>
+}
+Raiders_11 {
+Pare! Largue sua arma! Entregue o ouro ou vai morrer aqui mesmo!
+}
+Raiders_12_m {
+Não se mexa, viajante! Mantenha as mãos longe da arma e nem pense em fazer piadas, se valoriza sua vida!
+}
+Raiders_12_f {
+Não se mexa, garota! Mantenha as mãos longe das armas e nem pense em fazer graça se valoriza a sua vida!
+}
+Raiders_13_m {
+Pare aí, viajante! Esta é uma estrada pedagiada! Se quiser passar, pague a taxa.
+}
+Raiders_13_f {
+Pare aí, moça! Esta estrada tem pedágio! Se quiser passar, pague a taxa.
+}
+Raiders_14 {
+@<LinkRandPhrase>
+}
+Raiders_15_m {
+Ei, camarada! Calma aí! Quero ver se sua bolsa não está pesada demais.
+}
+Raiders_15_f {
+Ei, moça! Calma aí! Quero ver se sua bolsa não está pesada demais.
+}
+Raiders_16_m {
+Chegue mais perto, amigo. Quero ouvir o tilintar do ouro na sua bolsa.
+}
+Raiders_16_f {
+Chegue mais perto, querido(a). Quero ouvir o tilintar do ouro na sua bolsa.
+}
+Raiders_17_m {
+Calma aí, amigo. Eu e meus colegas fizemos uma aposta—queremos ver quanto ouro cabe na sua bolsa. Então, é melhor a gente conferir antes que as coisas piorem.
+}
+Raiders_17_f {
+Espere aí, moça. Meus companheiros e eu fizemos uma aposta — quanto ouro caberia na sua bolsa. Melhor descobrirmos agora, antes que as coisas piorem.
+}
+Raiders_18 {
+@<LinkRandPhrase>
+}
+Raiders_19_m {
+Não vá embora tão rápido, estranho! Quero ter uma conversa franca com você.
+}
+Raiders_19_f {
+Sem pressa, querida! Quero ter uma conversa sincera com você.
+}
+Raiders_20 {
+@<LinkRandPhrase>
+}
+Raiders_21 {
+Do que você está falando?
+}
+Raiders_22 {
+O que houve?
+}
+Raiders_23 {
+Do que você está falando?
+}
+Raiders_24 {
+@<LinkRandPhrase>
+}
+Raiders_25 {
+Como assim?
+}
+Raiders_26 {
+O que você quer dizer com isso?
+}
+Raiders_27 {
+@<LinkRandPhrase>
+}
+Raiders_28 {
+Bandidos, é? Muito bem, vamos ver do que vocês são capazes!
+}
+Raiders_29 {
+Bandidos, é isso? Fugindo da justiça, aposto. Pois é, parece que a justiça encontrou vocês...
+}
+Raiders_30_m {
+Ninguém nunca te ensinou que é falta de educação incomodar estranhos com bobagens? Parece que você precisa de uma lição...
+}
+Raiders_30_f {
+Ninguém nunca te ensinou que é falta de educação incomodar uma dama com bobagens? Parece que você precisa de uma lição...
+}
+Raiders_31 {
+@<LinkRandPhrase>
+}
+Raiders_32 {
+Ah, seu canalha! Espero que sua lâmina seja tão afiada quanto sua língua.
+}
+Raiders_33 {
+Vejo que você tem a língua afiada. Espero que saiba manejar uma lâmina tão bem quanto.
+}
+Raiders_34 {
+Ah, pequenos bandidos! Continuam enforcando vocês, mas mesmo assim nunca desistem...
+}
+Raiders_35 {
+@<LinkRandPhrase>
+}
+Raiders_36 {
+Ah, bandidos! Não perco meu tempo falando com gente como vocês!
+}
+Raiders_37_m {
+Ora, você tem coragem mesmo! Dá pra sentir seu cheiro de longe, e ainda assim entra aqui querendo conversar com uma pessoa decente.
+}
+Raiders_37_f {
+Ora, você tem coragem, hein! Dá pra sentir seu cheiro de longe, e mesmo assim vem incomodar uma moça decente com essa conversa.
+}
+Raiders_38 {
+@<RandPhraseSimple>
+}
+Raiders_39 {
+Com gente como você, normalmente é minha pistola que fala!
+}
+Raiders_40 {
+Bandidos de novo! Olha, não posso prometer a forca, mas com certeza posso fazer uns buracos na sua barriga!
+}
+Raiders_41 {
+@<LinkRandPhrase>
+}
+Raiders_42 {
+@<LinkRandPhrase>
+}
+Raiders_43 {
+Você sabe que tem uma patrulha no meu encalço? Basta eu assobiar, e vocês estão mortos.
+}
+Raiders_44 {
+Não tem medo de eu chamar a patrulha? Eles estão por perto, procurando por você neste momento.
+}
+Raiders_45 {
+Uma patrulha já foi enviada atrás de você — eles podem chegar a qualquer momento, então você está correndo um grande risco.
+}
+Raiders_46 {
+@<RandPhraseSimple>
+}
+Raiders_47_m {
+É melhor você sair daqui rápido. Uma patrulha está a caminho—acabei de falar com o oficial deles.
+}
+Raiders_47_f {
+É melhor você sair daqui rápido. Uma patrulha está a caminho — acabei de falar com o oficial deles.
+}
+Raiders_48_m {
+Eu adoraria continuar nossa conversa, mas receio que a patrulha que acabei de encontrar não vai deixar nossa amizade se aprofundar.
+}
+Raiders_48_f {
+Eu adoraria continuar nossa conversa, mas receio que a patrulha que acabei de encontrar não vai permitir que nossa amizade se aprofunde.
+}
+Raiders_49 {
+@<RandPhraseSimple>
+}
+Raiders_50 {
+@<LinkRandPhrase>
+}
+Raiders_51 {
+Não se faça de bobo! Entregue seu ouro, e talvez eu deixe você ir!
+}
+Raiders_52_m {
+Nunca ouviu falar em despesas de viagem? Se não quiser abrir mão do seu ouro, vai perder a cabeça!
+}
+Raiders_52_f {
+Nunca ouviu falar em despesas de viagem? Se não quiser abrir mão do seu ouro, vai acabar perdendo a cabeça!
+}
+Raiders_53 {
+Heh, isso aqui é só uma aventura comum de beira de estrada que vai te custar a bolsa... a menos que eu fique irritado.
+}
+Raiders_54 {
+@<LinkRandPhrase>
+}
+Raiders_55 {
+É bem simples — você entrega seu ouro e vai embora, ou fica aqui e a gente sai com o seu ouro. Mas pode acreditar, você não vai gostar da segunda opção, heh-heh.
+}
+Raiders_56 {
+Não se faça de bobo. Entregue sua bolsa! A menos que queira que eu a pegue do seu cadáver!
+}
+Raiders_57 {
+@<RandPhraseSimple>
+}
+Raiders_58_m {
+Vou explicar bem claro, já que você é tão lento—entregue todo o seu dinheiro se quiser continuar vivo!
+}
+Raiders_58_f {
+Vou explicar de uma vez, já que você é tão lerdo—entregue todo o seu dinheiro se quiser continuar vivo!
+}
+Raiders_59 {
+@<LinkRandPhrase>
+}
+Raiders_60 {
+Droga! Canalha! Eu só tenho @<FindMoneyString> comigo.
+}
+Raiders_61 {
+Está procurando dinheiro, é? Então venha pegar, e vamos ver quanto você realmente vale.
+}
+Raiders_62 {
+Como você ousa, seu grosseiro! Parece que está precisando aprender boas maneiras!
+}
+Raiders_63_m {
+Quanta arrogância! Muito bem, vamos ver se um oficial da marinha é demais para vocês, marujos de terra firme!
+}
+Raiders_63_f {
+Quanta arrogância! Muito bem, vamos ver se esses ratos de terra conseguem enfrentar uma loba do mar!
+}
+Raiders_64 {
+@<LinkRandPhrase>
+}
+Raiders_65 {
+Você merece ser açoitado por tamanha insolência!
+}
+Raiders_66 {
+Ah, seus canalhas! Pois bem, rezem para os seus demônios!
+}
+Raiders_67 {
+Seus canalhas deviam ter sido enforcados na praça! Mas parece que vou ter que sujar minha lâmina em vez disso!
+}
+Raiders_68 {
+@<LinkRandPhrase>
+}
+Raiders_69 {
+E o que te faz pensar que vou sair balançando minha bolsa na sua frente?
+}
+Raiders_70_m {
+Não te incomoda que eu esteja bem armado e não tenha simplesmente entrado na selva meio adormecido?
+}
+Raiders_70_f {
+Não te incomoda que eu esteja bem armado e não tenha simplesmente entrado na selva meio adormecido?
+}
+Raiders_71 {
+@<RandPhraseSimple>
+}
+Raiders_72 {
+@<LinkRandPhrase>
+}
+Raiders_73 {
+Droga! Tudo bem, adeus. E nem pense em causar confusão.
+}
+Raiders_74_m {
+Dessa vez você teve sorte, mas da próxima vai me dever o dobro! Não esqueça de me lembrar, hein.
+}
+Raiders_74_f {
+Dessa vez você teve sorte, mas da próxima vai me dever o dobro! Não se esqueça de me lembrar, heh-heh.
+}
+Raiders_75 {
+@<RandPhraseSimple>
+}
+Raiders_76 {
+Como você pôde?
+}
+Raiders_77 {
+Vai, corre enquanto ainda pode.
+}
+Raiders_78 {
+@<RandPhraseSimple>
+}
+Raiders_79 {
+E vamos cortar sua garganta tão silenciosamente que você nem vai ter tempo de reagir.
+}
+Raiders_80_m {
+Droga! Vou ter que acabar com você rápido, antes que você dê o alarme.
+}
+Raiders_80_f {
+Droga! Vou ter que acabar com você rápido, antes que você dê o alarme.
+}
+Raiders_81 {
+@<RandPhraseSimple>
+}
+Raiders_82_m {
+Bem, como quiser. Eu avisei.
+}
+Raiders_82_f {
+Bem, como quiser. Eu avisei.
+}
+Raiders_83 {
+Por que eu deveria me importar com a sua patrulha? Aqui está tudo sob controle, e todo mundo já foi pago. Então entregue sua bolsa e fique quieto.
+}
+Raiders_84_m {
+Quem você acha que está tentando assustar?! Nesta floresta, eu sou a patrulha para gente como você. Ninguém jamais saiu daqui sem pagar o pedágio!
+}
+Raiders_84_f {
+Quem você acha que está tentando assustar?! Nesta floresta, eu sou a patrulha para gente como você. Ninguém jamais saiu daqui sem pagar o pedágio!
+}
+Raiders_85 {
+@<RandPhraseSimple>
+}
+Raiders_86 {
+Droga! Canalha! Eu só tenho @<FindMoneyString> comigo.
+}
+Raiders_87 {
+Hmm, não cabe a você me dar ordens.
+}
+Raiders_88 {
+Por tamanha insolência, vou fazer alguns buracos no seu crânio. Deixe seu cérebro tomar um pouco de ar fresco.
+}
+Raiders_89 {
+Tal audácia não pode ficar impune!
+}
+Raiders_90 {
+@<LinkRandPhrase>
+}
+Raiders_91 {
+Ah, você escolheu a briga errada...
+}
+Raiders_92 {
+@<RandPhraseSimple>
+}
+Raiders_93_m {
+Ei, não fique tão nervoso, amigo! Eu só estava brincando! Pode seguir seu caminho!
+}
+Raiders_93_f {
+Ei, não fique assim, moça! Eu só estava brincando! Pode seguir seu caminho!
+}
+Raiders_94_m {
+Tudo bem, mudei de ideia. Pode ir, já que é tão durão.
+}
+Raiders_94_f {
+Tudo bem, mudei de ideia. Pode ir, já que é tão valente.
+}
+Raiders_95 {
+@<RandPhraseSimple>
+}
+Raiders_96_m {
+O quê, “bravo capitão” de novo? Tudo bem, vá em paz...
+}
+Raiders_96_f {
+O quê, “a garota brigona” de novo? Tudo bem, vá em paz...
+}
+Raiders_97_m {
+Calma, amigo. Não percebe que foi um engano? Achamos que você era um mercador. É melhor seguir seu caminho e evitar problemas.
+}
+Raiders_97_f {
+Calma, moça. Não percebe que cometemos um engano? É melhor você ir embora antes que arrume problemas.
+}
+Raiders_98 {
+@<LinkRandPhrase>
+}
+Raiders_99 {
+Muito bem, até a próxima!
+}
+Raiders_100 {
+É melhor você largar esse assunto antes que acabe se dando mal.
+}
+Raiders_101 {
+Só cuide para não cruzar meu caminho de novo.
+}
+Raiders_102 {
+@<LinkRandPhrase>
+}
+Raiders_103 {
+Da próxima vez, preste atenção para quem você está respondendo.
+}
+Raiders_104_m {
+Agradeça à sua sorte que hoje estou de bom humor.
+}
+Raiders_104_f {
+Agradeça à sua sorte por eu estar de bom humor hoje.
+}
+Raiders_105 {
+@<RandPhraseSimple>
+}
+Raiders_106 {
+Esse tipo de comércio só vai te trazer problemas. Adeus.
+}
+Raiders_107 {
+Bem, essa é uma decisão sensata. Adeus!
+}
+Raiders_108 {
+@<RandPhraseSimple>
+}
+Raiders_109 {
+@<LinkRandPhrase>
+}
+Raiders_110 {
+De jeito nenhum, camarada. Parece que você precisa aprender um pouco de respeito.
+}
+Raiders_111 {
+Perdeu a coragem, foi?! Mas você tem que responder pelos seus atos! Não é mesmo?
+}
+Raiders_112 {
+De jeito nenhum! Não vou descansar até te dar uma boa surra.
+}
+Raiders_113 {
+@<LinkRandPhrase>
+}
+Raiders_114_m {
+Você poderia ter ido embora em paz! Agora a culpa é só sua!
+}
+Raiders_114_f {
+Você poderia ter ido embora em paz! Agora a culpa é só sua!
+}
+Raiders_115_m {
+Você não devia ter começado com isso, seu canalha! Agora vai morrer como um cachorro!
+}
+Raiders_115_f {
+Você não devia ter começado com isso, seu canalha! Agora vai morrer como um cachorro!
+}
+Raiders_116 {
+Ah, é mesmo! Vou te despedaçar! Arrancar seu fígado e dar para os cães!
+}
+Raiders_117 {
+@<LinkRandPhrase>
+}
+Raiders_118 {
+Vou enfiar essas palavras goela abaixo de você!
+}
+Raiders_119 {
+Com quem você pensa que está mexendo, seu verme?!
+}
+Raiders_120 {
+@<RandPhraseSimple>
+}
+Raiders_121 {
+Muito bem! Entregue-os e suma daqui!
+}
+Raiders_122 {
+Não é muito, mas é melhor do que nada. É bom negociar com alguém inteligente! Pode ir.
+}
+Raiders_123 {
+@<RandPhraseSimple>
+}
+Raiders_124 {
+Agora sim, isso é melhor! Como um velho amigo meu costumava dizer — é um prazer ouvir uma pessoa inteligente, mas com um tolo, pelo menos dá para bater um papo — heh-heh.
+}
+Raiders_125_m {
+Em troca do seu ouro, aqui vai um conselho — não vá se aventurar pela selva se você é tão fraco assim! É melhor ficar na taverna do porto bebendo seu rum — assim você vive mais.
+}
+Raiders_125_f {
+Em troca do seu ouro, aqui vai um conselho — não vá se aventurar pela selva, moça. Você pode acabar perdendo mais do que só a bolsa.
+}
+Raiders_126 {
+@<LinkRandPhrase>
+}
+Raiders_127 {
+Malditos carrascos!
+}
+Raiders_128 {
+Parece que você está tentando me enganar! Mas tudo bem, vou cutucar você um pouco—vamos ver o que acontece.
+}
+Raiders_129 {
+Droga!
+}
+Raiders_130 {
+Você de novo? Vai, corre pra casa da mamãe! Ou posso acabar perdendo a paciência.
+}
+Raiders_131_m {
+O quê? Não entregou todo o ouro? Ha-ha-ha!
+}
+Raiders_131_f {
+O quê? Não entregou todo o ouro? Ha-ha-ha!
+}
+Raiders_132_m {
+Escuta aqui, camarada, já cansei de você! Saia da minha frente enquanto ainda pode!
+}
+Raiders_132_f {
+Escute, moça, já tive o bastante de você! Saia da minha frente enquanto ainda pode!
+}
+Raiders_133 {
+@<LinkRandPhrase>
+}
+Raiders_134 {
+Sim, já estou indo embora.
+}
+Raiders_135_m {
+Achei que isso não seria justo. Então, resolvi equilibrar as coisas...
+}
+Raiders_135_f {
+Achei que não seria justo de outro jeito. Então, resolvi equilibrar as coisas...
+}
+Raiders_136 {
+O que você quer? Combinamos que você iria embora!
+}
+Raiders_137_m {
+Me deixe em paz, garoto. Eu cuido dos meus assuntos, você cuida dos seus—é melhor não nos conhecermos mais do que isso!
+}
+Raiders_137_f {
+Me deixe em paz, garota. Eu cuido dos meus assuntos, você dos seus — é melhor não nos conhecermos mais do que isso!
+}
+Raiders_138_m {
+Cai fora daqui, camarada! Droga, você quer mesmo entregar seu dinheiro no final das contas?
+}
+Raiders_138_f {
+Saia daqui, moça! Droga, você quer mesmo entregar seu dinheiro?
+}
+Raiders_139 {
+@<LinkRandPhrase>
+}
+Raiders_140 {
+Sim, já estou indo embora.
+}
+Raiders_141_m {
+Lembrei que você não se despediu! Então vá em frente... diga seu adeus!
+}
+Raiders_141_f {
+Lembrei que você não se despediu! Então vá em frente... diga seu adeus!
+}
+Raiders_142 {
+Me deixe em paz! Saia daqui! Eu quero viver!
+}
+Raiders_143_m {
+Socorro! Ele é um louco! Não me mate!
+}
+Raiders_143_f {
+Socorro! Ela é uma maníaca! Não me mate!
+}
+Raiders_144 {
+Me poupe! Sou apenas um bandido humilde! Sou jovem demais para morrer!
+}
+Raiders_145 {
+@<LinkRandPhrase>
+}
+Raiders_146 {
+Era melhor ter ficado em casa — teria vivido mais!
+}
+Raiders_147 {
+Você devia ter pensado nisso antes!
+}
+Raiders_148 {
+Você sabia no que estava se metendo!
+}
+Raiders_149 {
+@<LinkRandPhrase>
+}
+Raiders_150 {
+Cedo ou tarde, isso ia acontecer.
+}
+Raiders_151 {
+Tarde demais para arrependimentos—defendam-se!
+}
+Raiders_152 {
+@<LinkRandPhrase>
+}

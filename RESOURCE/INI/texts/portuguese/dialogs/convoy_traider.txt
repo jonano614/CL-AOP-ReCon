@@ -1,0 +1,69 @@
+convoy_traider_1_m {
+Ah, droga!! Eu sei quem você é! Só um completo idiota contrataria você para escoltar o navio deles. Adeus!
+}
+convoy_traider_1_f {
+Ah, droga!! Eu sei quem você é! Só um completo idiota contrataria você para escoltar o navio deles. Adeus!
+}
+convoy_traider_2 {
+Ah, eu sei quem você é! Me contratar como escolta?! Procure outro tolo...
+}
+convoy_traider_3 {
+@<RandPhraseSimple>
+}
+convoy_traider_4 {
+Hein, que medroso...
+}
+convoy_traider_5 {
+Como as pessoas ficaram inquietas!
+}
+convoy_traider_6 {
+@<RandPhraseSimple>
+}
+convoy_traider_7 {
+@<TimeGreeting>, @<GetAddress_Form>! Sou @<GetFullName>, um comerciante. Ouvi dizer que você está procurando trabalho?
+}
+convoy_traider_8_m {
+Algo assim. E você, pelo que ouvi, está procurando um capitão para escoltar você e seu navio até o destino?
+}
+convoy_traider_8_f {
+Algo assim. E você, pelo que ouvi, está procurando um capitão para escoltar você e seu navio até o seu destino?
+}
+convoy_traider_9 {
+Exatamente isso. Além disso, acho que você seria uma ótima companhia para mim. O que me diz?
+}
+convoy_traider_10 {
+Vou dizer o seguinte: diga seu preço e talvez possamos chegar a um acordo.
+}
+convoy_traider_11 {
+Preciso de escolta até @<XI_ConvertString> em @<XI_ConvertString>, dentro de @<FindDaysString>, e pago @<FindMoneyString> por isso. O que me diz?
+}
+convoy_traider_12_m {
+Concordo.
+}
+convoy_traider_12_f {
+Concordo.
+}
+convoy_traider_13 {
+Acho que isso não me interessa.
+}
+convoy_traider_14 {
+Oh! Obrigada. Com você me protegendo, me senti mais segura do que nunca. Aqui está sua recompensa.
+}
+convoy_traider_15 {
+Obrigado.
+}
+convoy_traider_16 {
+Um certo capitão mercante chamado @<GetFullName> diz que @<GetMainCharacterNameDat> é confiável quando se trata de escoltar navios mercantes.
+}
+convoy_traider_17_m {
+Um comerciante chamado @<GetFullName> diz que o Capitão @<GetMainCharacterNameDat> é confiável. Ele defendeu seu navio com coragem enquanto o escoltava até @<XI_ConvertString>.
+}
+convoy_traider_17_f {
+Um comerciante chamado @<GetFullName> diz que a Capitã @<GetMainCharacterNameDat> é confiável. Ela defendeu o navio dele com coragem enquanto o escoltava até @<XI_ConvertString>.
+}
+convoy_traider_18 {
+Ouvi dizer que você cumpre sua palavra quando se trata de escoltar navios para capitães mercantes. Um certo comerciante chamado @<GetFullName> fala muito bem de você.
+}
+convoy_traider_19 {
+@<LinkRandPhrase>
+}

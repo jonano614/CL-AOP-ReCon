@@ -1,0 +1,336 @@
+void InitInterface_gm(string iniName)
+{
+	GameInterface.title = "titleGameMenu";
+
+//	locCameraSleep(true);
+	StartAboveForm(true); // для рестарта Land Interface
+	EngineLayersOffOn(false);
+
+	SendMessage(&GameInterface,"ls",MSG_INTERFACE_INIT,iniName);
+
+	SetEventHandler("InterfaceBreak","ProcessCancelExit",0);
+	SetEventHandler("exitCancel","ProcessCancelExit",0);
+	SetEventHandler("ievnt_command","ProcessCommandExecute",0);
+	SetEventHandler("frame","IProcessFrame",0);
+
+	SetEventHandler("NewClick","NewClick",0);
+	SetEventHandler("LoadClick","LoadClick",0);
+	SetEventHandler("SaveClick","SaveClick",0);
+	SetEventHandler("ResumeClick","ResumeClick",0);
+	SetEventHandler("OptionsClick","OptionsClick",0);
+	SetEventHandler("QuitClick","QuitClick",0);
+	SetEventHandler("QuitProcess","QuitProcess",0);
+
+	SetEventHandler("ConfirmExitClick","ConfirmExitClick",0);
+	SetEventHandler("ConfirmExitCancel","ConfirmExitCancel",0);
+
+	InterfaceStates.showGameMenuOnExit = true;
+
+	if(CheckAttribute(&InterfaceStates,"Buttons.Resume.enable") && sti(InterfaceStates.Buttons.Resume.enable) == true)
+	{
+		SetSelectable("MB_RESUME", true);
+	} else {
+
+		SetSelectable("MB_RESUME", false);
+	}
+
+	if (QuickSaveGameEnabledHardcore()) // boal 09.07.06
+	{
+		SetSelectable("MB_SAVE", true);
+	}
+	else
+	{
+		SetSelectable("MB_SAVE", false);
+	}
+
+	if (!CheckSaveGameEnabled())
+	{
+		SetSelectable("MB_SAVE", false);
+	}
+
+	if (LanguageGetLanguage() != "Russian")
+	    SetNewPicture("LOGO", "INTERFACES\Recon\logo_" + LanguageGetLanguage() + ".tga");
+
+	string text4 = XI_ConvertString("GameMenuHelper_1");
+    SetFormatedText("STARTINFO_TITLE", text4);
+	SetFormatedText("VERSION_TEXT", GetConvertStr("Version", "interface_strings.txt") + VERSION_NUMBER1 + FindStringBeforeChar(GetVerNum(), "+") + "\n" + FindStringAfterChar(GetVerNum(), "+"));
+	string text = XI_ConvertString("GameMenuHelper_2")+pchar.model.animation;
+	string text3;
+	if (pchar.BaseNation == ENGLAND) text3 = XI_ConvertString("England");
+	if (pchar.BaseNation == FRANCE) text3 = XI_ConvertString("France");
+	if (pchar.BaseNation == HOLLAND) text3 = XI_ConvertString("Holland");
+	if (pchar.BaseNation == SPAIN) text3 = XI_ConvertString("Spain");
+	if (pchar.BaseNation == PIRATE) text3 = XI_ConvertString("Pirate");
+	string text5;
+	if (pchar.HeroParam.HeroType == "Merchant") text5 = XI_ConvertString("Merchant");
+	if (pchar.HeroParam.HeroType == "Adventurer") text5 = XI_ConvertString("Adventurer");
+	if (pchar.HeroParam.HeroType == "Corsair") text5 = XI_ConvertString("Corsair");
+
+	XI_RegistryExitKey("IExit_F1");
+
+	string sRechargePistolOnLine = "";
+	string sEncountersRate = "";
+	string sHardcoreGame = "";
+	string sPartitionSet = "";
+	
+	switch (bRechargePistolOnLine)
+	{
+	case true:
+		sRechargePistolOnLine = XI_ConvertString("GameMenuOn");
+		break;
+	case false:
+		sRechargePistolOnLine = XI_ConvertString("GameMenuOff");
+		break;
+	}
+	
+	switch (iEncountersRate)
+	{
+	case 1:
+		sEncountersRate = XI_ConvertString("LowEncounter");
+		break;
+	case 2:
+		sEncountersRate = XI_ConvertString("MiddleEncounter");
+		break;
+	case 3:
+		sEncountersRate = XI_ConvertString("HiEncounter");
+		break;
+	}
+	
+	switch (bHardcoreGame)
+	{
+	case true:
+		sHardcoreGame = XI_ConvertString("Yes");
+		break;
+	case false:
+		sHardcoreGame = XI_ConvertString("No");
+		break;
+	}
+	
+	switch (bPartitionSet)
+	{
+	case true:
+		sPartitionSet = XI_ConvertString("Yes");
+		break;
+	case false:
+		sPartitionSet = XI_ConvertString("No");
+		break;
+	}
+	
+	string text2 = XI_ConvertString("GameMenuPersonality") + ": " + text5 + "\n" + XI_ConvertString("m_Complexity") + ": "+GetLevelComplexity(MOD_SKILL_ENEMY_RATE) + "\n" + XI_ConvertString("nation") + ": " + text3 + "\n" + XI_ConvertString("Exp_Rate_Speed") + ": " + MOD_EXP_RATE + "\n" + XI_ConvertString("GameMenuReloadingPistols") + ": " + sRechargePistolOnLine +  "\n" + XI_ConvertString("GameMenuHardcoreMode") + ": " + sHardcoreGame + "\n" + XI_ConvertString("Partition") + ": " + sPartitionSet + "\n" + XI_ConvertString("EncountersRate") + ": " + sEncountersRate;
+	string text6 = XI_ConvertString("GameMenuHelper_3");
+
+	SetFormatedText("STARTINFO_TEXT1", text+"\n"+text2+"\n"+text6);
+	
+	//XI_RegistryExitKey("IExit_Escape");
+	//XI_RegistryExitKey("IExit_F1");
+}
+
+
+void IProcessFrame()
+{
+}
+
+void ProcessCancelExit()
+{
+	if(CheckAttribute(&InterfaceStates,"Buttons.Resume.enable") && sti(InterfaceStates.Buttons.Resume.enable) == true)
+	IDoExit(RC_INTERFACE_DO_RESUME_GAME, true);
+}
+
+void IDoExit(int exitCode, bool bClear)
+{
+	DelEventHandler("InterfaceBreak","ProcessCancelExit");
+	DelEventHandler("exitCancel","ProcessCancelExit");
+	DelEventHandler("ievnt_command","ProcessCommandExecute");
+	DelEventHandler("frame","IProcessFrame");
+
+	DelEventHandler("NewClick","NewClick");
+	DelEventHandler("LoadClick","LoadClick");
+	DelEventHandler("SaveClick","SaveClick");
+	DelEventHandler("ResumeClick","ResumeClick");
+	DelEventHandler("OptionsClick","OptionsClick");
+	DelEventHandler("QuitClick","QuitClick");
+    DelEventHandler("QuitProcess","QuitProcess");
+    
+	DelEventHandler("ConfirmExitClick","ConfirmExitClick");
+	DelEventHandler("ConfirmExitCancel","ConfirmExitCancel");
+
+//	SetTimeScale(1.0);
+//	TimeScaleCounter = 0;
+//	DelPerkFromActiveList("TimeSpeed");
+//	locCameraSleep(false);
+//	DeleteAttribute(pchar, "pause");
+	EndAboveForm(true); // для рестарта Land Interface
+
+	interfaceResultCommand = exitCode;
+
+	if( interfaceResultCommand == RC_INTERFACE_DO_RESUME_GAME ) {
+		DeleteEntitiesByType("scrshoter");
+	}
+	EndCancelInterface(bClear);
+}
+
+void ProcessCommandExecute()
+{
+	string comName = GetEventData();
+	string nodName = GetEventData();
+
+	switch(nodName)
+	{
+		case "MB_NEW":
+
+			if (comName == "click" || comName == "activate"){
+
+				if(CheckAttribute(&InterfaceStates,"Buttons.Resume.enable") && sti(InterfaceStates.Buttons.Resume.enable) == true)
+				{
+					ShowConfirmWindow(true);
+				} else {
+
+					NewClick();
+				}
+			}
+
+			break;
+
+		case "CONFIRM_WINDOW_MB_YES":
+
+			if (comName == "click" || comName == "activate"){
+
+				//ShowConfirmWindow(false);
+				NewClick();
+			}
+
+			if (comName == "deactivate"){
+
+				ShowConfirmWindow(false);
+			}
+
+			break;
+
+		case "CONFIRM_WINDOW_MB_NO":
+
+			if (comName == "click" || comName == "activate"){
+				ShowConfirmWindow(false);
+			}
+
+			if (comName == "deactivate"){
+
+				ShowConfirmWindow(false);
+			}
+
+			break;
+			
+		case "MB_STARTINFO_OPEN":
+			if (comName == "click" || comName == "activate")
+			{
+				XI_WindowDisable("MAIN_WINDOW",true);
+				XI_WindowShow("MAIN_WINDOW", false);
+				XI_WindowDisable("STARTINFO_WINDOW",false);
+				XI_WindowShow("STARTINFO_WINDOW", true);
+				SetNodeUsing("FRAME_COPYRIGHTS", false);
+				SetNodeUsing("CIRCLE1", true);
+				SetNodeUsing("CIRCLE2", true);
+				SetNodeUsing("CIRCLE3", true);
+			}
+			break;
+
+		case "STARTINFO_EXIT":
+			if (comName == "click" || comName == "activate")
+			{
+				XI_WindowDisable("MAIN_WINDOW",false);
+				XI_WindowShow("MAIN_WINDOW", true);
+				XI_WindowDisable("STARTINFO_WINDOW",true);
+				XI_WindowShow("STARTINFO_WINDOW", false);
+				SetNodeUsing("FRAME_COPYRIGHTS", true);
+			}
+			break;
+	}
+
+}
+
+void NewClick()
+{
+	InterfaceStates.showGameMenuOnExit = false;
+	IDoExit( RC_INTERFACE_DO_NEW_GAME, true);
+}
+
+void LoadClick()
+{
+	IDoExit( RC_INTERFACE_DO_LOAD_GAME, true);
+}
+
+void SaveClick()
+{
+	IDoExit( RC_INTERFACE_DO_SAVE_GAME, true);
+}
+
+void ResumeClick()
+{
+	IDoExit(RC_INTERFACE_DO_RESUME_GAME, true);
+}
+
+
+void OptionsClick()
+{
+	IDoExit(RC_INTERFACE_DO_OPTIONS, true);
+}
+
+void QuitClick()
+{
+	XI_WindowDisable("MAIN_WINDOW",true);
+	XI_WindowDisable("CONFIRM_EXIT_WINDOW",false);
+	XI_WindowShow("CONFIRM_EXIT_WINDOW", true);
+	SetCurrentNode("CONFIRM_EXIT_NO");
+}
+
+void ConfirmExitClick()
+{
+    PauseParticles(true); //fix вылета у форта
+	EngineLayersOffOn(false);
+	QuitProcess();
+	//IDoExit(-1, false); // fix
+	//ExitProgram();
+}
+
+void ConfirmExitCancel()
+{
+    XI_WindowDisable("CONFIRM_EXIT_WINDOW",true);
+	XI_WindowShow("CONFIRM_EXIT_WINDOW",false);
+	XI_WindowDisable("MAIN_WINDOW",false);
+	SetCurrentNode("MB_EXITGAME");
+}
+
+void ShowConfirmWindow(bool show)
+{
+	if (show){
+
+		SetCurrentNode("CONFIRM_WINDOW_MB_NO");
+
+		XI_WindowDisable("MAIN_WINDOW", true);
+		XI_WindowDisable("CONFIRM_WINDOW", false);
+		XI_WindowShow("CONFIRM_WINDOW", true);
+		EI_CreateFrame("CONFIRM_WINDOW_BORDER",190,190,610,360);
+
+	} else {
+
+		XI_WindowDisable("CONFIRM_WINDOW", true);
+		XI_WindowShow("CONFIRM_WINDOW", false);
+		XI_WindowDisable("MAIN_WINDOW", false);
+
+		if(GetSelectable("MB_RESUME")) 
+			SetCurrentNode("MB_RESUME");
+		else
+			SetCurrentNode("MB_NEW");
+	}
+}
+
+void QuitProcess()
+{
+    // вылетам у форта НЕТ -->
+    if (bSeaActive && !bAbordageStarted)
+    {
+		SendMessage(&AIBalls, "l", MSG_MODEL_RELEASE);
+	}
+	// вылетам у форта НЕТ <--
+	IDoExit(-1, false);
+	ExitProgram();
+}

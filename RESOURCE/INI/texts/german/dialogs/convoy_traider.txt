@@ -1,0 +1,69 @@
+convoy_traider_1_m {
+Verdammt noch mal! Ich weiß, wer du bist! Nur ein kompletter Narr würde dich anheuern, um sein Schiff zu eskortieren. Leb wohl!
+}
+convoy_traider_1_f {
+Verdammt!! Ich weiß, wer du bist! Nur ein kompletter Narr würde dich anheuern, um sein Schiff zu eskortieren. Leb wohl!
+}
+convoy_traider_2 {
+Ah, ich weiß, wer du bist! Dich als Eskorte anheuern?! Such dir einen anderen Dummen...
+}
+convoy_traider_3 {
+@<RandPhraseSimple>
+}
+convoy_traider_4 {
+Heh, so ein Angsthase ...
+}
+convoy_traider_5 {
+Was für ein schreckhaftes Völkchen die Leute geworden sind!
+}
+convoy_traider_6 {
+@<RandPhraseSimple>
+}
+convoy_traider_7 {
+@<TimeGreeting>, @<GetAddress_Form>! Ich bin @<GetFullName>, ein Händler. Ich habe gehört, Sie suchen Arbeit?
+}
+convoy_traider_8_m {
+So ähnlich. Und du suchst, wie ich gehört habe, einen Kapitän, der dich und dein Schiff zu deinem Ziel bringt?
+}
+convoy_traider_8_f {
+So ähnlich. Und du suchst, wie ich gehört habe, einen Kapitän, der dich und dein Schiff zu deinem Ziel begleitet?
+}
+convoy_traider_9 {
+Ganz genau. Außerdem denke ich, dass du eine ausgezeichnete Begleitung für mich wärst. Was meinst du?
+}
+convoy_traider_10 {
+Ich sag’s mal so – nenn deinen Preis, und vielleicht werden wir uns einig.
+}
+convoy_traider_11 {
+Ich brauche eine Eskorte nach @<XI_ConvertString> auf @<XI_ConvertString> innerhalb von @<FindDaysString> und zahle dir dafür @<FindMoneyString>. Was meinst du?
+}
+convoy_traider_12_m {
+Ich stimme zu.
+}
+convoy_traider_12_f {
+Ich stimme zu.
+}
+convoy_traider_13 {
+Ich glaube nicht, dass mich das interessiert.
+}
+convoy_traider_14 {
+Oh! Danke. Mit dir als meinem Beschützer habe ich mich sicherer gefühlt als je zuvor. Hier ist deine Belohnung.
+}
+convoy_traider_15 {
+Danke.
+}
+convoy_traider_16 {
+Ein gewisser Händlerkapitän namens @<GetFullName> sagt, dass man @<GetMainCharacterNameDat> beim Eskortieren von Handelsschiffen vertrauen kann.
+}
+convoy_traider_17_m {
+Ein Händler namens @<GetFullName> sagt, dass man Captain @<GetMainCharacterNameDat> vertrauen kann. Er hat sein Schiff beim Geleit nach @<XI_ConvertString> hervorragend verteidigt.
+}
+convoy_traider_17_f {
+Ein Händler namens @<GetFullName> sagt, dass man Captain @<GetMainCharacterNameDat> vertrauen kann. Sie hat sein Schiff beim Geleit nach @<XI_ConvertString> hervorragend verteidigt.
+}
+convoy_traider_18 {
+Ich habe gehört, dass Sie Ihr Wort halten, wenn es darum geht, Handelsschiffe für Kapitäne zu eskortieren. Ein gewisser Händler namens @<GetFullName> spricht sehr gut von Ihnen.
+}
+convoy_traider_19 {
+@<LinkRandPhrase>
+}

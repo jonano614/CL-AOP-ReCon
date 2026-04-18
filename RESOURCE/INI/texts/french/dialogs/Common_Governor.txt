@@ -1,0 +1,396 @@
+Common_Governor_1 {
+Vous avez osé vous présenter devant le Gouverneur général? Voilà qui est audacieux...
+}
+Common_Governor_2 {
+Comment ces fainéants ont-ils laissé l’ennemi me tomber dessus? Incroyable…
+}
+Common_Governor_3_m {
+Eh bien, mes gardes ne valent pas grand-chose si un fainéant peut simplement se promener dans ma résidence…
+}
+Common_Governor_3_f {
+Eh bien, mes gardes ne valent pas grand-chose si un fainéant peut se promener librement dans ma résidence...
+}
+Common_Governor_4 {
+@<LinkRandPhrase>
+}
+Common_Governor_5_m {
+Qu’est-ce que tu veux, vaurien?! Mes soldats sont déjà à tes trousses — tu n’iras pas loin, joli garçon. Allez, monte à l’étage!
+}
+Common_Governor_5_f {
+Que veux-tu, misérable?! Mes soldats sont déjà à tes trousses — tu n’iras pas loin, vaurien!
+}
+Common_Governor_6_m {
+Assassin immonde, sors de chez moi! À l’aide, gardes!
+}
+Common_Governor_6_f {
+Assassin immonde, sors de chez moi! Gardes!!
+}
+Common_Governor_7_m {
+Je n’ai pas peur de toi, vaurien! Bientôt tu te balanceras à la potence du fort—tu n’iras pas loin…
+}
+Common_Governor_7_f {
+Je n’ai pas peur de toi, fille! On te pendra bientôt au fort—tu n’iras pas loin…
+}
+Common_Governor_8 {
+@<LinkRandPhrase>
+}
+Common_Governor_9 {
+Les soldats ne valent pas grand-chose...
+}
+Common_Governor_10 {
+Ils ne m’attraperont jamais.
+}
+Common_Governor_11 {
+@<RandPhraseSimple>
+}
+Common_Governor_12 {
+Ferme-la, l’ami, ou je t’arrache ta sale langue!
+}
+Common_Governor_13 {
+Écoute-moi bien : fais profil bas, et tu t’en sortiras…
+}
+Common_Governor_14 {
+@<RandPhraseSimple>
+}
+Common_Governor_15 {
+Il paraît que vous avez été particulièrement insistant pour obtenir une audience. Je me présente : @<GetFullName>. Je suis le gouverneur général des colonies @<NationNameGenitive>, représentant de la couronne de @<NationKingsName> dans ces eaux. Maintenant, veuillez exposer le motif de votre visite, @<GetAddress_Form>.
+}
+Common_Governor_16 {
+Je m'appelle @<GetFullName>.
+}
+Common_Governor_17 {
+Ah, c’est encore vous? Qu’est-ce qui vous amène chez le gouverneur général de @<NationNameGenitive> cette fois-ci?
+}
+Common_Governor_18 {
+Encore une fois, vous m’arrachez à des affaires d’État importantes? Que voulez-vous, @<GetAddress_Form>?
+}
+Common_Governor_19 {
+@<RandPhraseSimple>
+}
+Common_Governor_20 {
+Je souhaite parler du service des intérêts de la Couronne de @<NationNameGenitive>
+}
+Common_Governor_21 {
+Je dois te parler de quelque chose.
+}
+Common_Governor_22 {
+Veuillez m’excuser, mais j’ai des affaires à régler.
+}
+Common_Governor_23 {
+Alors, qu’est-ce qui t’amène ici, me détournant de questions d’État importantes?
+}
+Common_Governor_24 {
+Je souhaite parler de servir les intérêts de la Couronne de @<NationNameGenitive>
+}
+Common_Governor_25 {
+Je dois te parler de quelque chose.
+}
+Common_Governor_26 {
+Ceci n’est qu’une visite de courtoisie, rien de plus, @<GetAddress_FormToNPC>
+}
+Common_Governor_27 {
+Dans ce cas, je dois vous demander de quitter mon bureau et de me laisser reprendre mon travail.
+}
+Common_Governor_28_m {
+Oui, oui, bien sûr, désolé de vous avoir dérangé.
+}
+Common_Governor_28_f {
+Oui, oui, bien sûr, désolé de vous avoir dérangé.
+}
+Common_Governor_29 {
+Je ne vous connais pas du tout, @<GetAddress_Form>. Quittez mon bureau. Je ne traite qu’avec ceux qui sont au service de @<NationKingsName>.
+}
+Common_Governor_30 {
+Désolé de vous déranger. Dès que j’aurai une lettre de marque @<NationNameGenitive>, je reviendrai.
+}
+Common_Governor_31 {
+J’ai une bonne nouvelle pour vous, @<GetAddress_Form>. Votre demande de promotion a été signée au bureau de @<NationKingsName>. Vous obtenez désormais le grade de @<GetAddress_FormTitle> de la flotte de @<NationNameGenitive>.
+}
+Common_Governor_32 {
+Merci! Je promets de continuer à servir @<NationKingsCrown> avec honneur.
+}
+Common_Governor_33 {
+Avez-vous des questions à me poser, @<GetAddress_FormTitle>?
+}
+Common_Governor_34 {
+Je vous écoute, @<GetAddress_Form>.
+}
+Common_Governor_35 {
+Parle, je t’écoute.
+}
+Common_Governor_36 {
+@<LinkRandPhrase>
+}
+Common_Governor_37 {
+Du travail pour un corsaire sous lettre de marque?
+}
+Common_Governor_38 {
+Du travail pour un corsaire sous lettre de marque?
+}
+Common_Governor_39_m {
+Je viens pour une affaire directement liée à vos missions.
+}
+Common_Governor_39_f {
+Je viens pour une affaire directement liée à vos missions.
+}
+Common_Governor_40 {
+À propos de vos tâches...
+}
+Common_Governor_41 {
+@<RandPhraseSimple>
+}
+Common_Governor_42 {
+Du travail pour un corsaire avec une lettre de marque?
+}
+Common_Governor_43 {
+Je veux placer la colonie que j’ai capturée sous le drapeau de @<XI_ConvertString>.
+}
+Common_Governor_44 {
+Désolé, je reviendrai plus tard.
+}
+Common_Governor_45 {
+Rien de grave, @<GetAddress_FormToNPC>. C’est simplement une visite de courtoisie.
+}
+Common_Governor_46 {
+@<RandPhraseSimple>
+}
+Common_Governor_47 {
+Hmm... J’ai entendu dire que vous avez accompli des missions secrètes pour @<NationNameGenitive>, alors je ne peux plus vous confier quoi que ce soit de confidentiel.
+}
+Common_Governor_48 {
+C'est dommage.
+}
+Common_Governor_49 {
+On dit que vous êtes assez proche des chefs des Frères de la Côte. Je ne pense donc pas pouvoir vous confier une mission pour le bien de @<NationNameGenitive>.
+}
+Common_Governor_50 {
+Hmm... Eh bien, c'est dommage.
+}
+Common_Governor_51 {
+Malheureusement pour vous, et heureusement pour moi, je n’ai pas de mission risquée et bien payée pour un corsaire en ce moment.
+}
+Common_Governor_52 {
+Très bien, je repasserai plus tard.
+}
+Common_Governor_53 {
+De quelle ville parlez-vous?
+}
+Common_Governor_54_m {
+Je me suis trompé, il s’agissait d’autre chose.
+}
+Common_Governor_54_f {
+Je me suis trompé, il s'agissait d'autre chose.
+}
+Common_Governor_55 {
+Excellente nouvelle, @<GetAddress_FormTitle>! Votre assiduité ne passera pas inaperçue, et bien sûr, vous serez récompensé. Voici @<FindMoneyString> en signe de reconnaissance pour votre service envers @<NationNameInstrumental>. Maintenant, si vous voulez bien m’excuser, j’ai beaucoup à faire.
+}
+Common_Governor_56 {
+Dans ce cas, @<GetAddress_FormToNPC>, je ne vous retiens pas plus longtemps. Bonne continuation.
+}
+Common_Governor_57 {
+Vous avez osé vous présenter devant le Gouverneur général? Voilà qui est audacieux...
+}
+Common_Governor_58 {
+Comment ces fainéants ont-ils laissé l’ennemi m’atteindre? Incroyable…
+}
+Common_Governor_59_m {
+Eh bien, mes gardes ne valent pas grand-chose si un fainéant peut simplement se promener dans ma résidence…
+}
+Common_Governor_59_f {
+Eh bien, mes gardes ne valent pas grand-chose si un fainéant se promène dans ma résidence...
+}
+Common_Governor_60 {
+@<LinkRandPhrase>
+}
+Common_Governor_61_m {
+Qu’est-ce que tu veux, vaurien?! Mes soldats sont déjà à tes trousses — tu n’iras pas loin, joli garçon. Allez, monte à l’étage!
+}
+Common_Governor_61_f {
+Que veux-tu, misérable? Mes soldats sont déjà à tes trousses — tu n’iras pas loin, vaurien!
+}
+Common_Governor_62_m {
+Assassin immonde, sors de chez moi! Gardes!!
+}
+Common_Governor_62_f {
+Sale meurtrière, sors de chez moi! À l’aide, gardes!
+}
+Common_Governor_63_m {
+Je n’ai pas peur de toi, vaurien! Bientôt, tu pendras dans le fort—ils ne te laisseront pas aller bien loin…
+}
+Common_Governor_63_f {
+Je n’ai pas peur de toi, fille! On te pendra bientôt au fort, tu n’iras pas loin...
+}
+Common_Governor_64 {
+@<LinkRandPhrase>
+}
+Common_Governor_65 {
+Les soldats ne valent pas grand-chose...
+}
+Common_Governor_66 {
+Ils ne m’attraperont jamais.
+}
+Common_Governor_67 {
+@<RandPhraseSimple>
+}
+Common_Governor_68 {
+Ferme-la, l’ami, ou je t’arrache cette sale langue!
+}
+Common_Governor_69 {
+Écoute-moi bien : fais profil bas, et tu t’en sortiras…
+}
+Common_Governor_70 {
+@<RandPhraseSimple>
+}
+Common_Governor_71 {
+Je vous écoute, capitaine.
+}
+Common_Governor_72_m {
+Je viens de la part de Henry Morgan avec pour instruction de vous remettre cette lettre...
+}
+Common_Governor_72_f {
+Je viens de la part de Henry Morgan avec pour instruction de vous remettre cette lettre...
+}
+Common_Governor_73 {
+Vous m’arrachez à des affaires d’État importantes, n’est-ce pas? Que voulez-vous, @<GetAddress_Form>?
+}
+Common_Governor_74 {
+Ceci n’est qu’une visite de courtoisie, rien de plus, @<GetAddress_FormToNPC>.
+}
+Common_Governor_75 {
+Hmm... de la part de Morgan? Voyons voir... Très bien, donne-moi ta lettre de Henry Morgan.
+}
+Common_Governor_76 {
+Je vous en prie...
+}
+Common_Governor_77_m {
+Quoi?! Abandonner Fort Orange?! Ah, ces chiens d’Anglais! Port Royal ne leur suffisait pas, maintenant ils veulent toute l’île! Attrapez ce vaurien!
+}
+Common_Governor_77_f {
+Quoi?! Abandonner Fort Orange?! Ah, ces chiens d’Anglais! Prendre Port Royal ne leur suffisait pas—ils veulent toute l’île maintenant! Attrapez cette fille!
+}
+Common_Governor_78_m {
+Minheer! Je ne fais que transmettre le message, je ne peux pas répondre du contenu de la lettre!
+}
+Common_Governor_78_f {
+Mynheer! Je ne fais que transmettre le message, je ne peux pas répondre du contenu de la lettre!
+}
+Common_Governor_79_m {
+Tu fais partie des hommes de Morgan, donc tu sers ces chiens d’Anglais. C’est tout ce que j’ai besoin de savoir! Jetez-le aux fers!
+}
+Common_Governor_79_f {
+Tu fais partie des hommes de Morgan, donc tu travailles pour ces chiens d’Anglais. C’est tout ce que j’ai besoin de savoir! Mettez-la aux fers!
+}
+Common_Governor_80_m {
+Eh bien, je suis contraint de me rendre aux autorités! Mais je le répète : ma conscience est tranquille, et je n'ai rien fait contre la Hollande, ni comploté quoi que ce soit pour lequel je pourrais être poursuivi!
+}
+Common_Governor_80_f {
+Eh bien, je suis contraint de me rendre aux autorités! Mais je le répète : ma conscience est tranquille, et je n’ai rien fait ni rien comploté contre la Hollande qui puisse me valoir des poursuites!
+}
+Common_Governor_81 {
+Tu devrais soigner tes nerfs!
+}
+Common_Governor_82_m {
+Monsieur le Gouverneur général, pourquoi m’envoyer directement en prison? Je suis certain que nous pourrions trouver un arrangement bien plus avantageux...
+}
+Common_Governor_82_f {
+Gouverneur général, pourquoi m’envoyer directement en prison? Je suis certain que nous pourrions trouver un arrangement bien plus satisfaisant…
+}
+Common_Governor_83_m {
+Comment oses-tu, vaurien! Tuez-le immédiatement!
+}
+Common_Governor_83_f {
+Comment oses-tu, misérable! Tuez-la immédiatement!
+}
+Common_Governor_84 {
+Très bien, gardes, préparez-vous!..
+}
+Common_Governor_85_m {
+Que ta conscience soit tranquille ou non… nous le saurons bien assez tôt. Emmenez-le!
+}
+Common_Governor_85_f {
+Que ta conscience soit tranquille ou non, nous le saurons bien assez tôt... Emmenez-la!
+}
+Common_Governor_86 {
+Renseigne-toi, mais ne traîne pas. Je n’ai pas beaucoup de temps...
+}
+Common_Governor_87 {
+Faire un marché? Hmm... eh bien, si on parle d’une somme de, disons, @<FindMoneyString>, alors je suis prêt à continuer la discussion.
+}
+Common_Governor_88_m {
+Excellent! Je t’avais bien dit que ce serait facile.
+}
+Common_Governor_88_f {
+Excellent! Je t’avais bien dit que ce serait facile.
+}
+Common_Governor_89_m {
+Ah, si seulement j'avais une telle somme! Je la donnerais sans hésiter... Mais hélas, tout ce que je possède, c'est une vieille boussole et trente piastres.
+}
+Common_Governor_89_f {
+Ah, si seulement j'avais une telle somme! Je la donnerais sans hésiter... Mais hélas, tout ce que je possède, c'est une vieille boussole et trente piastres.
+}
+Common_Governor_90 {
+Quoi?! Tu as perdu la tête?! Pour une somme pareille, je ne me contenterais pas d’éliminer tes gardes... J’anéantirais tout Curaçao, chevaux sur les quais et singes dans la jungle compris!
+}
+Common_Governor_91 {
+Très bien, parfait alors. Vous pouvez y aller… Mais ne revenez plus me voir pour ce genre de corvées! Ma générosité a ses limites.
+}
+Common_Governor_92 {
+Mais bien sûr! Au revoir, alors...
+}
+Common_Governor_93 {
+Sors d’ici.
+}
+Common_Governor_94 {
+Je pars déjà.
+}
+Common_Governor_95 {
+Et pourquoi devrais-je m’en soucier?
+}
+Common_Governor_96_m {
+Si on y réfléchit bien, je n’ai même pas ouvert cette lettre. Donc, techniquement, je ne suis coupable de rien. À part peut-être d’être un peu trop pointilleux…
+}
+Common_Governor_96_f {
+Si on y réfléchit bien, je n’ai même pas ouvert cette lettre. Donc, techniquement, je ne suis coupable de rien. À part peut-être d’être un peu trop méticuleux…
+}
+Common_Governor_97 {
+C’est une blague ou quoi?
+}
+Common_Governor_98_m {
+Une plaisanterie? Non, non, je suis tout à fait sérieux... Par exemple, je crois vraiment que Morgan a envoyé cette lettre avec votre messager préféré—c’est-à-dire moi—exprès. Parce qu’il savait que vous ne pourriez pas résister. Mais si vous m’attrapez par le col maintenant, il aura l’excuse parfaite pour vous traiter de... comment dire... quelqu’un sans aucun sens de l’humour.
+}
+Common_Governor_98_f {
+Une plaisanterie? Non, non, je suis tout à fait sérieux... Par exemple, je crois vraiment que Morgan a envoyé cette lettre avec votre messager préféré—c’est-à-dire moi—exprès. Parce qu’il savait que vous ne pourriez pas résister. Mais si vous m’attrapez par le col maintenant, il aura l’excuse parfaite pour vous traiter de... comment dire... quelqu’un sans aucun sens de l’humour.
+}
+Common_Governor_99 {
+Vous n’êtes pas un bouffon de cour — vous remettez une correspondance très importante à des personnes influentes. Et vous pouvez dire à Morgan qu’il ne rira pas longtemps s’il continue à agir ainsi.
+}
+Common_Governor_100_m {
+Oh! Voilà qui devient intéressant! Maintenant, je suis obligé de remettre ce message à l’amiral Henry Morgan. Et puis, un messager ne devrait pas être puni pour de mauvaises nouvelles, non? De toute évidence, il s’agit d’une provocation maladroite. Soyons raisonnables : faisons comme si cette conversation n’avait jamais eu lieu, et que vous n’aviez jamais lu la lettre. Et ensuite...
+}
+Common_Governor_100_f {
+Oh! Voilà qui devient intéressant! Je dois absolument remettre ce message à l’amiral Henry Morgan. Et puis, un messager n’est pas censé être puni pour de mauvaises nouvelles, n’est-ce pas? De toute évidence, c’est une provocation maladroite. Soyons raisonnables : faisons comme si cette conversation n’avait jamais eu lieu, et que vous n’aviez jamais lu la lettre. Et ensuite...
+}
+Common_Governor_101 {
+J’en ai assez de ces paroles creuses pour aujourd’hui. Ça me redonne mal à la tête. Sors d’ici!
+}
+Common_Governor_102 {
+Jusqu'à notre prochaine rencontre, Votre Excellence! Je vous souhaite une bonne journée.
+}
+Common_Governor_103_m {
+Bien tenté. Emmenez-le!
+}
+Common_Governor_103_f {
+Bien tenté. Emmenez-la!
+}
+Common_Governor_104 {
+Oh, splendide! Maintenant, je serai le sujet principal des récits de vos gardes : « Comment nous avons héroïquement arrêté le messager avec la lettre. »
+}
+Common_Governor_105 {
+Heureusement, mon habileté à l'épée m'a sauvé une fois de plus
+}
+Common_Governor_106 {
+Heureusement, l'argent m'a sauvé une fois de plus
+}
+Common_Governor_107 {
+Heureusement, mon charme naturel et mon éloquence m'ont sauvé une fois de plus
+}

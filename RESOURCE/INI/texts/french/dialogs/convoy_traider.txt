@@ -1,0 +1,69 @@
+convoy_traider_1_m {
+Oh, bon sang! Je sais qui tu es! Seul un parfait idiot engagerait quelqu’un comme toi pour escorter son navire. Adieu!
+}
+convoy_traider_1_f {
+Oh, bon sang! Je sais qui tu es! Seul un parfait idiot engagerait quelqu’un comme toi pour escorter son navire. Adieu!
+}
+convoy_traider_2 {
+Ah, je sais qui vous êtes! Vous engager comme escorte? Trouvez quelqu’un d’autre pour ça...
+}
+convoy_traider_3 {
+@<RandPhraseSimple>
+}
+convoy_traider_4 {
+Hé, quel froussard...
+}
+convoy_traider_5 {
+Comme les gens sont devenus nerveux!
+}
+convoy_traider_6 {
+@<RandPhraseSimple>
+}
+convoy_traider_7 {
+@<TimeGreeting>, @<GetAddress_Form>! Je suis @<GetFullName>, marchand. J’ai entendu dire que vous cherchez du travail?
+}
+convoy_traider_8_m {
+Quelque chose comme ça. Et vous, d’après ce que j’ai entendu, cherchez un capitaine pour vous escorter, vous et votre navire, jusqu’à votre destination?
+}
+convoy_traider_8_f {
+Quelque chose comme ça. Et vous, d’après ce que j’ai entendu, cherchez un capitaine pour vous escorter, vous et votre navire, jusqu’à votre destination?
+}
+convoy_traider_9 {
+Exactement. De plus, je pense que tu ferais un excellent compagnon pour moi. Qu’en dis-tu?
+}
+convoy_traider_10 {
+Je vais dire ceci : donnez votre prix, et peut-être que nous pourrons conclure un accord.
+}
+convoy_traider_11 {
+J’ai besoin d’une escorte jusqu’à @<XI_ConvertString> sur @<XI_ConvertString>, dans un délai de @<FindDaysString>, et je vous paierai @<FindMoneyString> pour cela. Qu’en dites-vous?
+}
+convoy_traider_12_m {
+Je suis d’accord.
+}
+convoy_traider_12_f {
+Je suis d’accord.
+}
+convoy_traider_13 {
+Je ne pense pas que ça m’intéresse.
+}
+convoy_traider_14 {
+Oh! Merci. Avec vous pour me protéger, je me suis senti(e) plus en sécurité que jamais. Voici votre récompense.
+}
+convoy_traider_15 {
+Merci.
+}
+convoy_traider_16 {
+Un certain capitaine marchand nommé @<GetFullName> affirme qu’on peut faire confiance à @<GetMainCharacterNameDat> pour escorter des navires marchands.
+}
+convoy_traider_17_m {
+Un marchand nommé @<GetFullName> affirme que le capitaine @<GetMainCharacterNameDat> est digne de confiance. Il a défendu son navire avec brio lors de l’escorte vers @<XI_ConvertString>.
+}
+convoy_traider_17_f {
+Un marchand nommé @<GetFullName> affirme que le capitaine @<GetMainCharacterNameDat> est digne de confiance. Elle a défendu son navire avec brio en l’escortant jusqu’à @<XI_ConvertString>.
+}
+convoy_traider_18 {
+J’ai entendu dire que vous tenez toujours parole lorsqu’il s’agit d’escorter des navires pour les capitaines marchands. Un certain commerçant du nom de @<GetFullName> parle de vous en des termes élogieux.
+}
+convoy_traider_19 {
+@<LinkRandPhrase>
+}

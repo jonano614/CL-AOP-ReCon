@@ -1,0 +1,92 @@
+InfoMessage_Title {¡Folleto informativo 'Anclas Personales'!}
+InfoMessage_Text_0
+{
+"Caribe Salvaje"
+Esta ventaja gratuita, «Caribe Salvaje», convierte varios encuentros «normales» al azar en situaciones insólitas e increíbles. No elijas esta ventaja si no quieres que tus aventuras se vuelvan un poco locas. ¡Ten cuidado, porque no podrás desactivarla una vez que la selecciones!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ "Caribe Salvaje" incluye:
+- presencia de esferas esqueléticas;
+- aparición de esqueletos al abrir cofres del tesoro, como en las cuevas;
+- disponibilidad de la misión "Ghost Ship";
+- eliminación de no-muertos, no de indios, en la misión "Church needs help";
+- cambios visuales en algunas misiones.
+}
+InfoMessage_Text_1
+{
+Se ha añadido la mecánica de dashes: puedes esquivar daño con ellos:
+- la probabilidad de esquivar daño de una pistola o un golpe con el tiempo correcto es del 100%;
+- requiere 2 de energía base en cualquier dirección, no 3;
+- el requisito de energía para hacer dash depende del peso de tu equipo (2 de energía base + 0.1*peso en libras);
+- si no tienes suficiente energía, tu probabilidad de hacer dash disminuye; si el jugador está exhausto, puede hacer dash, pero la probabilidad de esquivar daño se reduce a la mitad;
+- todos los luchadores expertos, veteranos y oficiales tienen un 25% de probabilidad de usar dash;
+- los enemigos normales no hacen dash.
+}
+InfoMessage_Text_2
+{
+Nueva balística y daño a la tripulación
+-
+Se ha rediseñado la balística para barcos y fuertes:
+Cuando el enemigo está cerca, disparas en línea recta, por lo que las olas pueden protegerte a ti o a tu objetivo del daño (excepto en los casos en que quien dispara está por encima de las olas, como algunos fuertes).
+-
+Se ha aumentado la dispersión al disparar para:
+1. mejorar la supervivencia de los barcos pequeños frente a los de clase alta; ahora son más difíciles de alcanzar mientras maniobran.
+2. aumentar el valor de un buen oficial artillero con alta precisión y estadísticas de cañones.
+3. mejorar la calidad de las batallas navales para que, como antes, no terminen solo con un par de andanadas de los barcos de mayor rango.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mecánica actualizada para infligir daño a la tripulación de un barco: ahora es necesario dañar primero el casco, reduciendo su durabilidad, antes de poder infligir daño significativo a la tripulación. Esta mecánica también se aplica al barco del jugador.
+-
+Ahora el daño de la metralla se calcula según el % de durabilidad del casco. Puedes encontrar más detalles en el Diario de Bitácora, en la pestaña Enciclopedia (Batallas navales en barcos).
+Los detalles se pueden consultar en 'Documentación' - 'Libro de referencia' - pestaña 'Batallas navales en barcos'.
+}
+InfoMessage_Text_3
+{
+En la versión actual, se han cambiado y añadido muchas ciudades e incluso islas para fomentar la exploración:
+Fort-de-France, Le Francois, Willemstad, Fort Orange, La Vega, Santo Domingo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+¡Nueva isla: Old Providence! Una isla pirata y base en el mapa global y local.
+- Solo es posible atracar bajo bandera pirata.
+- Los barcos piratas en esta zona no atacarán al jugador si navega bajo bandera pirata.
+
+Nueva ciudad: Providencia. Una base fortificada de piratas y corsarios, dirigida por Edward Collier, la mano derecha de Morgan.
+- Esta ciudad cuenta con: residencia pirata, taberna, burdel y tienda (se esperan mejoras).
+- La isla Old Providence tiene su propia jungla y dos bahías: Morgan's Head y playa Manzanillo.
+- Se ha añadido soporte de tesoros en la isla Old Providence: en una gruta frente a la playa Manzanillo.
+}
+InfoMessage_Text_4
+{
+Saqueo rápido
+\n\n
+Si el capitán de un barco abordado se rinde, el equipo de trofeos sin duda registrará su camarote y buscará cualquier objeto oculto, lo mismo ocurre con los bolsillos.
+\n\n
+Si eliges la opción de transferir todos los trofeos al cofre en la bodega del barco, no olvides revisarlo de vez en cuando. El cofre se llena rápidamente con abordajes frecuentes, ya que los marineros recogen todo lo que encuentran.
+\n\n
+Si el capitán o el contramaestre tienen la habilidad 'Ojo de Diamante', la tripulación será mucho más atenta y selectiva, ignorando por completo la basura y quedándose solo con objetos útiles.
+\n\n
+La eficacia de ser tan 'selectivo' en el mar depende de la habilidad de 'Abordaje' de tu contramaestre:
+- sin requisitos para barcos de rango 7 y 6
+- de 15 a 29 puntos para barcos de rango 5
+- de 30 a 44 puntos para barcos de rango 4
+- de 45 a 59 puntos para barcos de rango 3
+- de 60 a 74 puntos para barcos de rango 2
+- 75+ puntos para barcos de rango 1
+- sin requisitos en tierra
+\n\n
+Si el contramaestre y/o la tripulación están ausentes, esta opción no está disponible.
+}
+InfoMessage_Text_5
+{
+Se han realizado mejoras técnicas en la parte musical del juego.
+\n\n
+Repetir una sola pista ya es cosa del pasado: ahora la música cambiará al terminar una pista.
+Al presionar la tecla F10, la pista que suena en ese momento terminará y comenzará la siguiente (con bastante aleatoriedad).
+\n\n
+Ahora puedes añadir tu propia música colocando archivos mp3 en las carpetas de música.
+Lee los detalles en el archivo readmekz (custommusic).txt
+¡Atención!
+No es necesario poner la música original del juego en la carpeta CUSTOM: esas pistas se reproducirán de todos modos.
+\n\n
+Se ha añadido una opción para que la canción no cambie al moverse entre ubicaciones del mismo tipo.
+Está en la configuración bajo la tecla F4.
+}

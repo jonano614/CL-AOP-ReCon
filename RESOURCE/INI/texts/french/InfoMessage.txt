@@ -1,0 +1,92 @@
+InfoMessage_Title {Feuillet d'information « Ancres personnelles » !}
+InfoMessage_Text_0
+{
+"Wild Caribbean"
+Ce perk gratuit - « Wild Caribbean » - transforme plusieurs rencontres aléatoires « normales » en événements complètement fous et incroyables ! Ne choisissez pas ce perk si vous ne voulez pas que vos aventures deviennent un peu déjantées. Mais attention, une fois activé, il sera impossible de le désactiver !
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ "Wild Caribbean" inclut :
+- présence de sphères squelettiques ;
+- apparition de squelettes lors de l’ouverture de coffres au trésor, comme dans les grottes ;
+- disponibilité de la quête "Ghost Ship" ;
+- élimination des morts-vivants, et non des Indiens, dans la quête "Church needs help" ;
+- modification de l’aspect visuel de certaines quêtes.
+}
+InfoMessage_Text_1
+{
+Ajout d’une mécanique de dash permettant d’esquiver les dégâts :
+- la chance d’éviter les dégâts d’un tir ou d’un coup avec le bon timing est de 100 % ;
+- le dash nécessite 2 points d’énergie dans n’importe quelle direction, au lieu de 3 auparavant ;
+- le coût en énergie dépend du poids de votre équipement (2 points de base + 0,1*poids en livres) ;
+- si vous manquez d’énergie, vos chances de dash diminuent : un joueur épuisé dash tout de même, mais la probabilité d’esquiver les dégâts est deux fois plus faible ;
+- tous les bons combattants, vétérans et officiers ont 25 % de chance d’utiliser le dash ;
+- les ennemis ordinaires ne dashent pas.
+}
+InfoMessage_Text_2
+{
+Nouvelle balistique et dégâts à l’équipage
+-
+La balistique des navires et des forts a été revue :
+Lorsque l’ennemi est proche, vous tirez en ligne droite, ce qui fait que les vagues peuvent protéger aussi bien vous que votre cible des tirs (sauf si le tireur se trouve au-dessus des vagues, comme certains forts).
+-
+La dispersion des tirs a été augmentée afin de :
+1. améliorer la survie des petits navires face aux navires de haut rang — ils sont désormais plus difficiles à toucher en manœuvrant ;
+2. renforcer l’importance d’un bon officier canonnier avec des statistiques élevées en Précision et en Canons ;
+3. rendre les batailles navales plus intéressantes, pour qu’elles ne se terminent plus en quelques salves de navires puissants.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mécanique mise à jour pour infliger des dégâts à l’équipage d’un navire : il faut d’abord endommager le navire et réduire sa durabilité avant de pouvoir infliger des pertes importantes à l’équipage. Cette mécanique s’applique évidemment aussi au navire du joueur.
+-
+Les dégâts de la mitraille sont désormais calculés en fonction du pourcentage de durabilité de la coque. Les détails se trouvent dans le Journal de bord, onglet Encyclopédie (Batailles navales sur les navires).
+Les détails se trouvent dans « Documentation » – « Livre de référence » – onglet « Batailles navales sur les navires ».
+}
+InfoMessage_Text_3
+{
+Dans la version actuelle, de nombreuses villes, et même des îles, ont été modifiées ou ajoutées pour enrichir l’exploration :
+Fort-de-France, Le Francois, Willemstad, Fort Orange, La Vega, Santo Domingo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nouvelle île – Old Providence ! Une île pirate servant de base sur la carte globale et locale.
+- L’amarrage n’est possible que sous pavillon pirate.
+- Les navires pirates de cette zone n’attaqueront pas le joueur sous pavillon pirate.
+
+Nouvelle ville – Providencia ! Une base fortifiée de pirates et de corsaires, dirigée par Edward Collier, le bras droit de Morgan.
+- Cette ville propose : une résidence pirate, une taverne, un bordel et une boutique (améliorations à venir).
+- L’île Old Providence possède sa propre jungle et deux baies : la tête de Morgan et la playa Manzanillo.
+- Ajout de la possibilité de trouver des trésors sur l’île d’Old Providence : dans une grotte, en face de la playa Manzanillo.
+}
+InfoMessage_Text_4
+{
+Pillage rapide
+\n\n
+Si le capitaine d’un navire abordé se rend, l’équipe de prise ne manquera pas de fouiller sa cabine à la recherche d’objets cachés, et ses poches n’y échapperont pas non plus.
+\n\n
+Si vous choisissez de transférer tous les trophées dans le coffre de la cale, pensez à le vérifier de temps en temps. Avec des abordages fréquents, le coffre se remplit vite, car les marins ramassent tout ce qu’ils trouvent.
+\n\n
+Si le capitaine ou le boatswain possède l’avantage « Œil de diamant », l’équipage sera bien plus attentif et sélectif, ignorant complètement les déchets pour ne garder que ce qui est utile.
+\n\n
+L’efficacité de cette « sélection » en mer dépend de l’Abordage de votre boatswain :
+- aucune exigence pour les navires de rang 7 et 6
+- de 15 à 29 points pour les navires de rang 5
+- de 30 à 44 points pour les navires de rang 4
+- de 45 à 59 points pour les navires de rang 3
+- de 60 à 74 points pour les navires de rang 2
+- 75 points ou plus pour les navires de rang 1
+- aucune exigence à terre
+\n\n
+Si le boatswain et/ou l’équipage sont absents, cette option n’est pas disponible.
+}
+InfoMessage_Text_5
+{
+Des améliorations techniques ont été apportées à la partie musicale du jeu.
+\n\n
+La répétition d’un seul morceau appartient désormais au passé : la musique change à la fin de chaque piste.
+Appuyer sur la touche F10 force l’arrêt du morceau en cours et lance le suivant (avec une bonne dose d’aléatoire).
+\n\n
+Vous pouvez désormais ajouter votre propre musique en plaçant simplement des fichiers mp3 dans les dossiers de musique.
+Lisez les détails dans le fichier readmekz (custommusic).txt
+Attention !
+Il n’est pas nécessaire de mettre la musique originale du jeu dans le dossier CUSTOM — ces morceaux seront lus de toute façon.
+\n\n
+Une option a été ajoutée pour empêcher le changement de morceau lors du passage entre des lieux du même type.
+Elle se trouve dans les paramètres sous la touche F4.
+}

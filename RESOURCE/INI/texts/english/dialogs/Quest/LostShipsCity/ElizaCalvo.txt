@@ -1,0 +1,612 @@
+ElizaCalvo_1 {
+That was quite a storm, @<GetAddress_Form>. You’re lucky you made it here... My name is @<GetFullName>, and I’m the mistress of this house.
+}
+ElizaCalvo_2 {
+That was a fierce storm, @<GetAddress_Form>. You’re lucky you made it to us... My name is @<GetFullName>.
+}
+ElizaCalvo_3 {
+@<GetFullName> at your service, señora. Tell me, how long did that storm last?
+}
+ElizaCalvo_4_m {
+Hello! If I’m not mistaken, you were the last one to make it out alive.
+}
+ElizaCalvo_4_f {
+Hello! If I’m not mistaken, you were the last one to make it out alive.
+}
+ElizaCalvo_5 {
+@<GetFullName> at your service, señora. Yes, that's me.
+}
+ElizaCalvo_6 {
+What do you want in my house, @<GetAddress_Form>?
+}
+ElizaCalvo_7 {
+I’m listening, @<GetAddress_Form>.
+}
+ElizaCalvo_8 {
+You know, I'm looking for someone. Could you help me?
+}
+ElizaCalvo_9_m {
+I wanted to ask you a question.
+}
+ElizaCalvo_9_f {
+I wanted to ask you a question.
+}
+ElizaCalvo_10 {
+Will you tell me anything interesting, señora?
+}
+ElizaCalvo_11 {
+What's new in town?
+}
+ElizaCalvo_12_m {
+Ah, I’d love to hear the latest gossip...
+}
+ElizaCalvo_12_f {
+Ah, I’d love to hear the latest gossip...
+}
+ElizaCalvo_13 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_14 {
+You know, I'm looking for some goods. Could you help me out?
+}
+ElizaCalvo_15 {
+I'm here about the bombs.
+}
+ElizaCalvo_16 {
+You have no idea how greedy and selfish Erik Jost truly is!
+}
+ElizaCalvo_17 {
+It’s so dull here. If only I knew how to play the lute... Did you want something?
+}
+ElizaCalvo_18 {
+You know, I’m putting together a crew to get out of here. I’m offering you a chance to come with me to the Mainland.
+}
+ElizaCalvo_19 {
+Nothing...
+}
+ElizaCalvo_20 {
+About a week, give or take. Hard to say for sure. You know, when things like this are happening all around, you lose track of time.
+}
+ElizaCalvo_21 {
+Yes, I understand.
+}
+ElizaCalvo_22 {
+By the way, everyone who arrives in the City must report to Admiral Chad Capper and receive citizenship. If you haven’t done that yet, I suggest you hurry.
+}
+ElizaCalvo_23 {
+And where is he, this Chad Capper?
+}
+ElizaCalvo_24_m {
+Yes, I’m already acquainted with your admiral...
+}
+ElizaCalvo_24_f {
+Yes, I’m already acquainted with your admiral...
+}
+ElizaCalvo_25 {
+In the city residence, aboard the ship 'San Augustin'.
+}
+ElizaCalvo_26 {
+Thank you.
+}
+ElizaCalvo_27 {
+And my name is @<GetFullName>. I’m the mistress of this cabin—or this house, if you prefer to call this refuge that.
+}
+ElizaCalvo_28 {
+Perhaps “home” would be more fitting.
+}
+ElizaCalvo_29 {
+I think so too. Well then, welcome to my home.
+}
+ElizaCalvo_30 {
+Thank you.
+}
+ElizaCalvo_31_m {
+You're a thief! That's a violation of the City Law!
+}
+ElizaCalvo_31_f {
+You're a thief!!! Breaking the City Law!
+}
+ElizaCalvo_32 {
+Well, would you look at that! I turn my back for a moment, and you’re already headfirst into the chest! He broke the Law!
+}
+ElizaCalvo_33_m {
+Militia! Robbery!!! Grab him, he broke the Law!
+}
+ElizaCalvo_33_f {
+Militia! Robbery!!! Stop them, she broke the Law!
+}
+ElizaCalvo_34 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_35 {
+A-argh, damn it!!!
+}
+ElizaCalvo_36 {
+Oh, so that’s how it is?! Decided to go rummaging through chests, did you?! Now the townsfolk and the guards will tear you apart like an old rag!
+}
+ElizaCalvo_37 {
+What a fool!
+}
+ElizaCalvo_38_m {
+Hey, maybe put your weapon away. You're making me a bit nervous...
+}
+ElizaCalvo_38_f {
+Listen, maybe you should put your weapon away. You're making me a bit nervous...
+}
+ElizaCalvo_39 {
+You know, waving your saber around isn’t exactly welcome here. Put your weapon away.
+}
+ElizaCalvo_40_m {
+Hey, why are you running around like the Three Musketeers, waving your sword? Put your weapon away, it doesn’t suit a serious man...
+}
+ElizaCalvo_40_f {
+Hey, why are you running around like the three musketeers, waving your sword? Put your weapon away, that doesn’t suit a lady...
+}
+ElizaCalvo_41 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_42 {
+Alright.
+}
+ElizaCalvo_43 {
+Alright.
+}
+ElizaCalvo_44 {
+As you say...
+}
+ElizaCalvo_45 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_46_m {
+Listen, as a citizen of this town, I ask you not to walk around here with your blade drawn.
+}
+ElizaCalvo_46_f {
+You know, as a citizen of this town, I ask you not to walk around here with a drawn blade.
+}
+ElizaCalvo_47 {
+Alright.
+}
+ElizaCalvo_48 {
+Alright.
+}
+ElizaCalvo_49 {
+As you wish...
+}
+ElizaCalvo_50 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_51_m {
+Careful on the turns when you’re running with a weapon in your hands. I might just get a bit jumpy...
+}
+ElizaCalvo_51_f {
+I don’t like it when people walk around in front of me with weapons at the ready. It scares me...
+}
+ElizaCalvo_52_m {
+Understood.
+}
+ElizaCalvo_52_f {
+Got it.
+}
+ElizaCalvo_53 {
+I'm putting it away.
+}
+ElizaCalvo_54 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_55 {
+I’ll be glad to help you if I can, of course. So, who are you looking for?
+}
+ElizaCalvo_56 {
+Sorry, but I have no idea who you’re talking about. To help you, I’ll need a first and last name.
+}
+ElizaCalvo_57 {
+Hmm. Let me try naming them again.
+}
+ElizaCalvo_58_m {
+Thank you, but I’d rather look myself.
+}
+ElizaCalvo_58_f {
+Thank you, but I’d rather look for it myself.
+}
+ElizaCalvo_59 {
+Hm, pardon me, but I’m the one you’re looking for. That’s me.
+}
+ElizaCalvo_60 {
+Well, would you look at that!
+}
+ElizaCalvo_61 {
+@<GetFullName>, do you mean him?
+}
+ElizaCalvo_62 {
+That’s the one.
+}
+ElizaCalvo_63 {
+No, I meant someone else.
+}
+ElizaCalvo_64 {
+@<GetFullName>, were you talking about her?
+}
+ElizaCalvo_65 {
+Exactly, about her.
+}
+ElizaCalvo_66 {
+No, not about her. Maybe I should try naming it again?
+}
+ElizaCalvo_67 {
+You know, thank you, but I don’t want to ask about anyone else anymore.
+}
+ElizaCalvo_68 {
+Then you'll have to state your first and last name again.
+}
+ElizaCalvo_69 {
+I have no idea where he is.
+}
+ElizaCalvo_70 {
+I haven't the slightest idea where he is now.
+}
+ElizaCalvo_71 {
+I haven’t seen him for quite some time. So I can’t say.
+}
+ElizaCalvo_72 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_73 {
+Understood.
+}
+ElizaCalvo_74 {
+I see... Well, thank you.
+}
+ElizaCalvo_75 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_76 {
+I have no idea where she is.
+}
+ElizaCalvo_77 {
+I haven't the slightest idea where he is now.
+}
+ElizaCalvo_78 {
+I haven’t seen her in quite a while. So I can’t say.
+}
+ElizaCalvo_79 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_80 {
+Understood.
+}
+ElizaCalvo_81 {
+I see... Well, thank you.
+}
+ElizaCalvo_82 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_83 {
+He’s here, on this ship. Please, look more carefully.
+}
+ElizaCalvo_84 {
+Hmm, but he's on this ship right now...
+}
+ElizaCalvo_85 {
+He’s on this ship—strange you haven’t met yet.
+}
+ElizaCalvo_86 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_87 {
+I saw him just recently, @<npchar>.
+}
+ElizaCalvo_88 {
+You know, I met him recently, @<npchar>. So look for him there.
+}
+ElizaCalvo_89 {
+As far as I know, right now he’s at @<npchar>.
+}
+ElizaCalvo_90 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_91 {
+Sorry, but he's right here, @<npchar>. You need to pay attention.
+}
+ElizaCalvo_92 {
+Hmm, he's here, among us!
+}
+ElizaCalvo_93 {
+If you’d looked around more carefully, you’d have spotted him by now...
+}
+ElizaCalvo_94 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_95 {
+I saw him just recently, @<npchar>.
+}
+ElizaCalvo_96 {
+I met him recently at @<npchar>. So you’ll be able to find him there.
+}
+ElizaCalvo_97 {
+As far as I know, right now he’s at @<npchar>.
+}
+ElizaCalvo_98 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_99 {
+Ah, I see. Thank you!
+}
+ElizaCalvo_100 {
+Thank you so much.
+}
+ElizaCalvo_101 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_102 {
+She’s here, on this ship. Please, look more carefully.
+}
+ElizaCalvo_103 {
+Hmm, but she’s on this ship right now...
+}
+ElizaCalvo_104 {
+She’s on this ship—strange you haven’t met yet.
+}
+ElizaCalvo_105 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_106 {
+I saw her just recently, @<npchar>.
+}
+ElizaCalvo_107 {
+You know, I met her recently at @<npchar>. So look for her there.
+}
+ElizaCalvo_108 {
+As far as I know, she is currently at @<npchar>.
+}
+ElizaCalvo_109 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_110 {
+Sorry, but she’s right here, @<npchar>. You need to pay attention.
+}
+ElizaCalvo_111 {
+Hmm, she's here, among us!
+}
+ElizaCalvo_112 {
+If you’d taken a closer look around, you’d have surely spotted her by now...
+}
+ElizaCalvo_113 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_114 {
+I saw her just recently, @<npchar>.
+}
+ElizaCalvo_115 {
+I ran into her recently at @<npchar>. So you’ll be able to find her there.
+}
+ElizaCalvo_116 {
+As far as I know, she’s currently at @<npchar>.
+}
+ElizaCalvo_117 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_118 {
+Ah, I see. Thank you!
+}
+ElizaCalvo_119 {
+Thank you so much.
+}
+ElizaCalvo_120 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_121 {
+I'm listening to you closely.
+}
+ElizaCalvo_122 {
+Listen, what is this island?
+}
+ElizaCalvo_123 {
+Do storms come here often?
+}
+ElizaCalvo_124 {
+Tell me, have you been living here long?
+}
+ElizaCalvo_125 {
+I have no questions for you, sorry.
+}
+ElizaCalvo_126 {
+This island is called the City of Lost Ships. And let me tell you, the name fits it perfectly.
+}
+ElizaCalvo_127 {
+Understood.
+}
+ElizaCalvo_128 {
+Quite often. It’s terrifying, of course, but we’ve gotten used to it...
+}
+ElizaCalvo_129 {
+Yeah, well, there’s nowhere else to go!
+}
+ElizaCalvo_130 {
+Quite a while ago, about three years. Why do you ask?
+}
+ElizaCalvo_131 {
+Oh, nothing much. Was the late Hill Brunner already here when you arrived?
+}
+ElizaCalvo_132 {
+Yes, of course he was. He was an old-timer in the Town. It's a pity he died...
+}
+ElizaCalvo_133 {
+Yes, a pity...
+}
+ElizaCalvo_134 {
+If I can, of course I'll help.
+}
+ElizaCalvo_135 {
+You’ve already asked about that.
+}
+ElizaCalvo_136 {
+Already asked...
+}
+ElizaCalvo_137 {
+You’ve already asked me about these goods. I don’t know anything!
+}
+ElizaCalvo_138 {
+I'm looking for cannonballs, bombs, grapeshot, chain shot, provisions, medicine...
+}
+ElizaCalvo_139_m {
+Yeah... Sorry, slipped my mind.
+}
+ElizaCalvo_139_f {
+Yes... Sorry, I forgot.
+}
+ElizaCalvo_140 {
+Ah, right.
+}
+ElizaCalvo_141_m {
+Got it, got it...
+}
+ElizaCalvo_141_f {
+Got it, got it...
+}
+ElizaCalvo_142 {
+Bombs... I think I have something like that... Yes, that's right! How many do you need?
+}
+ElizaCalvo_143 {
+A hundred will be more than enough.
+}
+ElizaCalvo_144 {
+That much can be arranged. But you’ll have to do something for me in return.
+}
+ElizaCalvo_145 {
+Always at your service.
+}
+ElizaCalvo_146 {
+Bring me 10 bunches of grapes, three bottles of wine, and a lute. I'm in a good mood—I’ll sing and learn to play.
+}
+ElizaCalvo_147 {
+And is there someone to teach you?
+}
+ElizaCalvo_148_m {
+Are you hinting at yourself? Don’t bother, the spot’s already taken...
+}
+ElizaCalvo_148_f {
+Aye, don’t worry.
+}
+ElizaCalvo_149_m {
+Not at all, I was just asking. I think if you eat that many grapes and drink that much wine, you’re not likely to learn how to play.
+}
+ElizaCalvo_149_f {
+Yeah... I think if you eat that much grapes and drink that much wine, you’re not likely to learn how to play.
+}
+ElizaCalvo_150 {
+Now that’s none of your business. Bring what I told you, and that’s that.
+}
+ElizaCalvo_151 {
+Alright, alright, as you say.
+}
+ElizaCalvo_152 {
+Did you bring what I asked for?
+}
+ElizaCalvo_153 {
+Yes, I have everything. Here you go.
+}
+ElizaCalvo_154 {
+Not yet, I can't find it. Maybe you've lost interest in learning to play?
+}
+ElizaCalvo_155 {
+No...
+}
+ElizaCalvo_156 {
+Understood.
+}
+ElizaCalvo_157 {
+Alright. You can take your bombs.
+}
+ElizaCalvo_158 {
+Thank you. Is there any way to get it delivered to the 'San Gabriel'? I’m begging you.
+}
+ElizaCalvo_159_m {
+On the 'San Gabriel'... All right, handsome. For your effort, I'll arrange it. I'll ask my chosen one, they'll take care of everything.
+}
+ElizaCalvo_159_f {
+On the 'San Gabriel'... All right then, beauty. For your effort, I’ll arrange it. I’ll ask my chosen one, they’ll take care of everything.
+}
+ElizaCalvo_160 {
+Magnificent! Many thanks to you and your chosen one. He’s very lucky...
+}
+ElizaCalvo_161_m {
+Thank you... Oh, you flatterer, I see!
+}
+ElizaCalvo_161_f {
+Thank you...
+}
+ElizaCalvo_162_m {
+Sometimes... Well, all the best.
+}
+ElizaCalvo_162_f {
+Well, all the best.
+}
+ElizaCalvo_163 {
+How bold of you! And you break the Law so casually?
+}
+ElizaCalvo_164 {
+I have no choice, I’m saving my own life. I can save yours too.
+}
+ElizaCalvo_165 {
+Hmm, explain yourself.
+}
+ElizaCalvo_166 {
+The thing is, the coming storm is highly likely to destroy the town. The Mechanic calculated it.
+}
+ElizaCalvo_167 {
+I see... Well then, I agree to come aboard your ship. What should I do?
+}
+ElizaCalvo_168 {
+Head to the 'San Gabriel'. Malcolm Fawn will ferry you to my ship. And don’t delay!
+}
+ElizaCalvo_169 {
+Alright, I’ll be at the San Gabriel soon.
+}
+ElizaCalvo_170 {
+Please, hurry...
+}
+ElizaCalvo_171 {
+So what?
+}
+ElizaCalvo_172 {
+We’ve already talked about this.
+}
+ElizaCalvo_173 {
+This has already been discussed, I'm telling you for the second time.
+}
+ElizaCalvo_174 {
+Enough, stop it!..
+}
+ElizaCalvo_175 {
+He’s asking an outrageous price for the City map, can you imagine! Highway robbery!
+}
+ElizaCalvo_176_m {
+Yeah... Sorry, slipped my mind.
+}
+ElizaCalvo_176_f {
+Yeah... Sorry, I forgot.
+}
+ElizaCalvo_177 {
+Exactly...
+}
+ElizaCalvo_178 {
+Alright then...
+}
+ElizaCalvo_179 {
+Oh, heavens... I couldn't care less. Go bother someone else with your complaints.
+}
+ElizaCalvo_180 {
+Aha... I see...
+}
+ElizaCalvo_181 {
+At last, @<GetAddress_Form>, you’re back. I was so tired of waiting... I was going through my things and found some drawings of bombs. Take them—you know more about this than I do. By the way! I heard we’ll be taken to the ship soon? Will someone help me with my luggage?
+}
+ElizaCalvo_182 {
+Drop anything you can't carry. We don't have the space or time for all your belongings.
+}
+ElizaCalvo_183 {
+Oh, that’s it! Take this parchment, captain. I’m ready to be transported, but only if those bombs I gave you don’t decide to give me a ‘booming’ farewell from the City. I mean, I do love a good spectacle, but not at the cost of my own life! Then again, I still have a bit of wine left... Maybe if something happens, I’ll just drink up and not even notice when I go up in flames!
+}
+ElizaCalvo_184 {
+Eliza, the bombs are quiet for now, but you aren’t! If you don’t get upstairs this instant, explosions will be the least of your worries. The storm’s already here, and soon the City will be your own private aquarium. Run to Malcolm before it’s too late!
+}

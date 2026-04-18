@@ -1,0 +1,560 @@
+
+CameraControl_title {Ahoy!}
+CameraControl_descr
+{
+Witamy na Karaibach, Kapitanie!
+~
+Sterujesz grą za pomocą klawiszy ruchu i myszy. Twoja postać może chodzić i biegać we wszystkich kierunkach, a także sprintować, by zwiększyć prędkość.
+Menu akcji jest również bardzo przydatne—sprawdź je, znajdziesz tam wiele użytecznych opcji.
+~
+Możesz swobodnie rozglądać się myszką—odkrywaj ukryte przedmioty, kontroluj przebieg walki lub po prostu podziwiaj widoki.
+}
+CameraControl_controlsimg1 {ChrForward}
+CameraControl_controlsimg2 {ChrStrafeLeft}
+CameraControl_controlsimg3 {ChrBackward}
+CameraControl_controlsimg4 {ChrStrafeRight}
+CameraControl_controlsimg5 {ChrRun}
+CameraControl_controlsimg6 {LICommandsActivate}
+Rest_title {Pora dnia}
+Rest_descr
+{
+Wszystko w grze zależy od czasu: nocą strażnicy opuszczają doki i bramy miasta, załogę w tawernach można wynająć tylko w dzień, a niektórzy bohaterowie są bardzo wyczuleni na porę, zwłaszcza jeśli dla nich pracujesz.
+~
+Aby zmienić porę dnia, użyj opcji „Odpoczynek”. Możesz z niej swobodnie korzystać na morzu i na dzikich terenach, ale w miastach najlepiej nocować w tawernie.
+}
+Rest_controlsimg1 {LICommandsActivate}
+GuideFight_title {Walka lądowa}
+GuideFight_descr
+{
+Opanowanie walki w tej grze wymaga czasu. Jeśli podpowiedzi są włączone, skróty klawiszowe pojawią się w prawym dolnym rogu ekranu.
+Tryb walki aktywujesz klawiszem 'E' (domyślnie).
+~
+Na początek naucz się kombinacji 'Blok - Cięcie'. Po skutecznym zablokowaniu ataku przeciwnika spróbuj odpowiedzieć ciosem.
+Jeśli widzisz, że wróg atakuje jako pierwszy, zablokuj, aby przerwać własny atak.
+~
+Obrażenia zależą od umiejętności postaci, jakości broni i rodzaju ataku.
+}
+GuideFight_controlsimg1 {ChrAttackChoseBase}
+GuideFight_controlsimg2 {ChrAltAttackBase}
+LandTimeScaleDown_title {Spowolnienie czasu}
+LandTimeScaleDown_descr
+{
+W trudnych walkach warto spowolnić czas. Nie ma w tym nic złego—Caribbean Legend to wymagająca gra.
+~
+Sterowanie: + i -
+}
+LandTimeScaleDown_controlsimg1 {TimeScaleFasterBA}
+LandTimeScaleDown_controlsimg2 {TimeScaleSlowerBA}
+Collision_title {Zmiana pozycji}
+Collision_descr
+{
+Czasem w walce trzeba zmienić pozycję—przebić się przez szeregi wroga lub ominąć sojuszników.
+~
+Twój bohater automatycznie przepycha się przez sojuszników, ale by przejść przez wrogów, musi sprintować lub robić uniki.
+Sprint w walce zużywa energię, więc korzystaj z niego rozważnie.
+}
+Collision_controlsimg1 {ChrFightMode}
+Collision_controlsimg2 {ChrSprint}
+Stashes_title {Skarbce}
+Stashes_video {BloodPrologue_Stashes}
+Stashes_descr
+{
+Wielu mieszkańców miast przechowuje swoje kosztowności nie w skrzyniach na widoku, lecz w ukrytych miejscach — w skrytkach.
+~
+Trzymaj się ścian i miej się na baczności; może dopisze ci szczęście i znajdziesz naprawdę cenne przedmioty.
+}
+Stealth_title {Skradanie}
+Stealth_descr
+{
+Musisz się przyzwyczaić do tego, że w niektórych karaibskich osadach nie będziesz mile widziany.
+~
+Do wrogiego miasta możesz dostać się na dwa sposoby: przez port lub przez bramę.
+~
+Bezpieczne zacumowanie w nieprzyjaznym porcie wymaga solidnego przygotowania. Potrzebujesz wywiesić neutralną flagę i mieć wysoki poziom umiejętności Skrytność.
+~
+Wejście przez bramę najlepiej zaplanować nocą, gdy nie ma straży. Unikaj żołnierzy i przenocuj w tawernie. Jeśli zostanie wszczęty alarm, znajdź dom i przeczekaj tam kilka godzin. Plusem tej metody jest to, że nie musisz wydawać cennego punktu perka na odblokowanie flag.
+~
+Wszystkich tych problemów możesz uniknąć, kupując licencję handlową w pirackich osadach i wydając punkt morskiego perka na neutralną flagę.
+}
+Mushket_title {Muszkiety}
+Mushket_descr
+{
+Broń palna z długą lufą jest zabójcza w walce. Może jej używać tylko główny bohater z perkiem "Szkolenie muszkieterskie" oraz niektórzy unikalni oficerowie.
+~
+W przeciwieństwie do broni białej, każda broń palna jest bardzo wszechstronna — używaj różnych rodzajów amunicji, by odmienić losy walki.
+}
+Health_title {Spadek witalności}
+Health_descr
+{
+Twoja „Witalność” spadła! Ten parametr odzwierciedla ogólną kondycję postaci i wpływa na wszystkie atrybuty.
+~
+„Witalność” obniża się przez używanie podstawowego leczenia, wydarzenia fabularne, picie alkoholu i przeciążenie.
+~
+Możesz ją przywrócić za pomocą specjalnych mikstur, romansu, odpoczynku w tawernie lub po prostu z czasem. W trudnych przypadkach pomogą kapłani.
+~
+Unikalni oficerowie również tracą „Witalność”, jeśli zostaną ciężko ranni w walce. Na szczęście sami ją odzyskują.
+}
+Fighters_title {Gwardziści}
+Fighters_descr
+{
+Gwardziści to twoi najbardziej zaufani oficerowie, ochroniarze i pierwsza linia. Pójdą za tobą w sam środek walki, a spędzisz z nimi dużo czasu.
+~
+Możesz mieć przy sobie maksymalnie trzech gwardzistów. Oprócz ochrony kapitana na lądzie, gwardziści zwiększają skuteczność abordażu i pomagają przenosić ciężkie skarby.
+~
+Niektórych unikalnych oficerów można znaleźć tylko podczas zadań. Nie wszyscy są świetnymi wojownikami, ale każdy z nich wpływa na fabułę i nie może zginąć w zwykłej walce.
+~
+Nie zapomnij wyposażyć swoich ludzi w środki lecznicze, broń i amunicję. Przedmioty możesz wymieniać przez menu akcji lub w dowolnej skrzyni.
+~
+Gwardzistom możesz rozkazać trzymać pozycję, podążać za tobą lub atakować, używając skrótów klawiszowych lub dialogu.
+}
+Fighters_controlsimg1 {Interface}
+Fighters_controlsimg2 {OfficersFollow}
+Fighters_controlsimg3 {OfficersCharge}
+Fighters_controlsimg4 {OfficersHold}
+Box_title {Przechowywanie przedmiotów}
+Box_descr
+{
+W skrzyniach w kajucie kapitana możesz przechowywać nieograniczoną liczbę osobistych przedmiotów.
+~
+Sprzedawaj nadmiar, ale zawsze trzymaj zapas klejnotów, broni, amunicji i składników alchemicznych w swojej kajucie.
+~
+Poza głównym wyposażeniem warto mieć przy sobie tylko zestaw mikstur i kul do broni palnej.
+~
+Inni kapitanowie robią to samo, więc zawsze przeszukuj skrzynie w kajucie zdobytego statku.
+}
+Encyclopedia_title {Encyklopedia}
+Encyclopedia_descr
+{
+Znalazłeś jedną ze stron Encyklopedii!
+~
+Encyklopedia podzielona jest na 12 tomów, z których każdy zawiera 5 stron. Każdy tom poświęcony jest jednej umiejętności, a znalezienie dowolnej strony zwiększa odpowiednią umiejętność o jeden punkt.
+~
+Każda znaleziona strona zapewnia ci bonusy do jednego z perków. Więcej informacji znajdziesz w samej Encyklopedii.
+~
+Duplikaty stron możesz wymieniać u dyplomatów w pirackich osadach.
+}
+Encyclopedia_controlsimg1 {ItemsMenu}
+Cure_title {Leczenie}
+Cure_descr
+{
+Straciłeś dużo zdrowia. Użyj mikstury leczniczej, naciskając 'C' (domyślnie).
+~
+Zdrowie będzie się stopniowo regenerować. Śledź użycie mikstur w lewym dolnym rogu ekranu.
+}
+Cure_controlsimg1 {BOAL_UsePotion}
+ShipControl_title {Sterowanie statkiem}
+ShipControl_descr
+{
+Witamy na Morzu Karaibskim!
+~
+Obracaj swój statek klawiszami sterowania. Żaglami i prędkością steruj za pomocą klawiszy trybu żagli.
+~
+Są trzy tryby żagli: pełne, bojowe i opuszczone. Pełne żagle dają największą prędkość, bojowe ułatwiają skręcanie, a opuszczone pozwalają łagodnie się zatrzymać.
+~
+Duża strzałka na mini-mapie pokazuje kierunek wiatru, w którym Twój statek osiągnie maksymalną prędkość.
+}
+ShipControl_controlsimg1 {Ship_SailUp}
+ShipControl_controlsimg2 {Ship_TurnLeft}
+ShipControl_controlsimg3 {Ship_SailDown}
+ShipControl_controlsimg4 {Ship_TurnRight}
+SeaBattle_title {Bitwa morska}
+SeaBattle_descr
+{
+Witamy w bitwie morskiej, Kapitanie!
+Twój główny cel: przetrwać i zatopić wrogie okręty.
+~
+Każdy statek ma trzy główne statystyki: kadłub, żagle i załogę. Gdy kadłub spadnie do zera, statek tonie. Uszkodzone żagle spowalniają okręt, a utrata załogi ułatwia abordaż i spowalnia wszystkie działania na statku.
+~
+Każda statystyka ma najlepszy rodzaj amunicji: kartacz na załogę, łańcuchy na żagle i maszty, bomby na kadłub. Kule armatnie są uniwersalne i mają największy zasięg. Obrażenia zależą zarówno od rodzaju amunicji, jak i działa — im większe działo, tym większe obrażenia.
+~
+Aby strzelać do wroga, użyj lewego przycisku myszy, gdy wrogi okręt znajdzie się w twoim sektorze ostrzału.
+~
+Jeśli walka wydaje się zbyt wolna, możesz ją przyspieszyć za pomocą klawiszy kontroli czasu ('+' i '-').
+}
+SeaBattle_controlsimg1 {hk_charge1}
+SeaBattle_controlsimg2 {hk_charge2}
+SeaBattle_controlsimg3 {hk_charge3}
+SeaBattle_controlsimg4 {hk_charge4}
+SeaBattle_controlsimg5 {Ship_Fire}
+BoardingTactics_title {Przyciąganie}
+BoardingTactics_descr
+{
+Przed abordażem oddaj kilka salw kartaczami, by osłabić załogę wroga—nie narażając się na ogień zwrotny. Gdy zyskasz przewagę, podpłyń jak najbliżej, wyrównaj prędkość i ruszaj do abordażu!
+~
+Im wyższy masz poziom umiejętności "Abordaż", tym łatwiej będzie ci zaczepić się o wrogi okręt.
+~
+Sukces abordażu zależy od liczebności, umiejętności i morale twojej załogi. Doświadczony bosman, gwardziści i wysokie umiejętności walki kapitana mogą zrównoważyć przewagę liczebną przeciwnika.
+}
+BoardingTactics_Advanced_title {Abordaż dużych okrętów}
+BoardingTactics_Advanced_descr
+{
+Aby osłabić załogę dużego okrętu wroga, same salwy kartaczami mogą nie wystarczyć.
+~
+Taki okręt musi najpierw otrzymać poważne uszkodzenia kadłuba. Dopiero wtedy kartacze będą skuteczne.
+~
+Okręt 3 rangi otrzyma pełne obrażenia załogi, jeśli pozostanie mu 55% kadłuba.
+~
+Więcej informacji znajdziesz w Dzienniku. Sekcja Dokumenty. Odnośnik: Bitwy morskie.
+}
+BoardingTactics_Advanced_controlsimg1 {LogbookMenu}
+SeaFastTravel_title {Szybka podróż}
+SeaFastTravel_video {BloodPrologue_FastTravel}
+SeaFastTravel_descr
+{
+Menu akcji daje dostęp do wielu przydatnych funkcji zarówno na lądzie, jak i na morzu.
+~
+Funkcja "Płyń do" pozwala natychmiast przenieść się w pobliże sojuszniczego statku lub punktu orientacyjnego. Zasięg zależy od twojej cechy Intuicja.
+~
+Funkcja "Mapa" umożliwia podróżowanie między wyspami.
+~
+Koniecznie odwiedź swoją kajutę — możesz tam przechowywać cenne przedmioty. W ładowni możesz porozmawiać z więźniami, jeśli są na twoim statku.
+}
+SeaFastTravel_controlsimg1 {BICommandsActivate}
+SeaFastTravel_Advanced_title {Opuścić łodzie!}
+SeaFastTravel_Advanced_descr
+{
+Możesz użyć menu akcji, aby wejść na pokład innego statku, na przykład by porozmawiać z jego kapitanem.
+~
+Gdy zbliżysz się wystarczająco do statku, użyj polecenia „Wyślij szalupę”.
+}
+SeaFastTravel_Advanced_controlsimg1 {BICommandsActivate}
+SeaStorm_title {Sztorm}
+SeaStorm_descr
+{
+Wpadłeś w sztorm!
+~
+Przebywanie w sztormie uszkadza twoje żagle i kadłub. Opuść żagle, by je ochronić.
+~
+Unikaj też tornad. Zderzenie z tornadem poważnie uszkodzi twój statek.
+}
+SeaStorm_controlsimg1 {Ship_SailDown}
+Perk_title {Punkty Perków}
+Perk_descr
+{
+Właśnie zdobyłeś swój pierwszy Punkt Perka (PP)! To najważniejszy element rozwoju postaci, podzielony na perki morskie i osobiste.
+~
+Perki morskie wzmacniają cię na morzu, a osobiste pomagają na lądzie i w rozmowach.
+~
+Oba typy PP rozwijają się osobno wraz ze wzrostem twoich umiejętności osobistych i okrętowych. Średnio każde 30 punktów w grupie umiejętności daje jeden PP.
+~
+Aby szybciej zdobywać morskie PP, wykonuj kontrakty i czartery statków. Osobiste PP rosną szybciej, jeśli walczysz różnymi rodzajami broni i spędzasz czas w tawernach.
+~
+Osobiste PP są znacznie cenniejsze, ponieważ większość perków morskich mogą zapewnić oficerowie.
+}
+Perk_controlsimg1 {Interface}
+Salary_title {Utrzymanie statku}
+Salary_descr
+{
+Co miesiąc wypłacasz pensje swoim oficerom i załodze, co bywa nie lada wyzwaniem dla kapitana.
+~
+Całkowita kwota zależy od twoich umiejętności Handlu i Dowodzenia, klasy okrętu oraz poziomu trudności. Nawet na małych statkach warto mieć Kwatermistrza na pokładzie, a duży okręt wojenny może zrujnować całe państwo.
+~
+Jeśli podział łupów jest włączony, wypłaty mogą być jeszcze wyższe.
+~
+Jeśli masz zaległości w płatnościach, możesz spłacić dług w menu „Statki” za pomocą przycisku „Dług”.
+}
+Salary_controlsimg1 {CharacterShipMenu}
+Navigation_title {Nawigacja}
+Navigation_descr
+{
+Otrzymałeś kary z powodu niewystarczającej umiejętności Nawigacja!
+~
+Nawigacja przede wszystkim określa, jak dużymi statkami może dowodzić postać.
+~
+Na przykład statki 5. rangi wymagają 25 punktów, a 4. rangi już 40. Przekroczenie tych limitów powoduje kary do wszystkich cech postaci.
+~
+Wymagania dla każdej rangi możesz zobaczyć, klikając prawym przyciskiem myszy ikonę umiejętności w oknie postaci.
+~
+Aby usunąć kary, przydziel oficera z odpowiednią umiejętnością Nawigacja na stanowisko Nawigatora.
+}
+WorldMap_title {Mapa świata}
+WorldMap_video {BloodPrologue_WorldMap}
+WorldMap_descr
+{
+Mapa świata pozwala podróżować drogą morską po całym świecie gry. Nie musisz dopływać do każdego miasta czy zatoki — wystarczy opuścić mapę świata w pobliżu celu i użyć opcji „Płyń do”.
+~
+Sprytne korzystanie z „Płyń do” pozwala zaoszczędzić sporo czasu. Na przykład możesz opuścić mapę świata po jednej stronie wyspy, szybko przenieść się do zatoki po drugiej stronie, a następnie wrócić stamtąd na mapę świata.
+~
+Używaj skrótów klawiszowych, aby przybliżać mapę i otwierać atlas.
+}
+WorldMap_controlsimg1 {WMapCameraSwitch}
+WorldMap_controlsimg2 {WMapForward}
+WorldMap_controlsimg3 {MapView}
+Logbook_title {Dziennik pokładowy i dokumenty}
+Logbook_descr
+{
+Każde zadanie, które podejmujesz, jest zapisywane w "Dzienniku". Warto uważnie czytać dialogi i wpisy w dzienniku — często zawierają kluczowe informacje i wskazówki.
+~
+Aby otworzyć dziennik, wybierz zakładkę "Dziennik" w menu postaci.
+~
+Koniecznie zapoznaj się z wpisami w "Dzienniku".
+}
+Logbook_controlsimg1 {LogbookMenu}
+Alchemy_title {Alchemia}
+Alchemy_descr
+{
+Aby wytworzyć przedmiot, musisz znaleźć lub kupić przepis. Użyj strzałek poniżej, aby określić wymaganą liczbę przedmiotów i kliknij przycisk „Stwórz”.
+~
+Nie musisz nosić składników przy sobie—wystarczy, że schowasz je w skrzyni w swojej kajucie. Przebywając w kajucie, masz dostęp do wszystkich komponentów i narzędzi znajdujących się w skrzyniach.
+~
+Lista dostępnych komponentów nie uwzględnia wyposażonych przedmiotów.
+}
+Alchemy_controlsimg1 {AlchemyKey}
+BloodPrologue_CameraControl_title {Ahoy!}
+BloodPrologue_CameraControl_descr
+{
+Witamy w posiadłości Oglethorpe’a, doktorze Blood! Czeka tu na ciebie krótka przygoda na początek.
+~
+Na lądzie sterujesz grą za pomocą klawiszy ruchu i myszy. Twoja postać może chodzić i biegać we wszystkich kierunkach, a także sprintować, by zwiększyć prędkość.
+}
+BloodPrologue_CameraControl_controlsimg1 {ChrForward}
+BloodPrologue_CameraControl_controlsimg2 {ChrStrafeLeft}
+BloodPrologue_CameraControl_controlsimg3 {ChrBackward}
+BloodPrologue_CameraControl_controlsimg4 {ChrStrafeRight}
+BloodPrologue_CameraControl_controlsimg5 {ChrForward1}
+BloodPrologue_CameraControl_controlsimg6 {ChrRun}
+BloodPrologue_LocItems_title {Podnoszenie przedmiotów}
+BloodPrologue_LocItems_descr
+{
+Czasami znajdziesz przedmioty potrzebne do postępu w zadaniu. Jednak częściej będą to mikstury, broń lub inne mniej przydatne rzeczy.
+~
+Użyj klawisza „Szybka akcja”, aby podnieść przedmiot.
+~
+Weź klucz ze stołu i idź na balkon na drugim piętrze. Pośpiesz się!
+}
+BloodPrologue_LocItems_controlsimg1 {BIFastCommand}
+BloodPrologue_Equipment_title {Ekwipunek}
+BloodPrologue_Equipment_descr
+{
+Menu "Przedmioty" pozwala zarządzać ekwipunkiem twojej postaci.
+~
+Użyj klawisza 'I', aby przejść do menu "Przedmioty".
+~
+Wybierz broń, a następnie wyposaż ją za pomocą przycisku „Wyposaż”.
+}
+BloodPrologue_Equipment_controlsimg1 {ItemsMenu}
+BloodPrologue_GuideFight_title {Walka lądowa}
+BloodPrologue_GuideFight_descr
+{
+Opanowanie walki w tej grze wymaga czasu. Jeśli podpowiedzi są włączone, skróty klawiszowe pojawią się w prawym dolnym rogu ekranu.
+Tryb walki aktywujesz klawiszem 'E' (domyślnie).
+~
+Na początek naucz się kombinacji 'Blok – Cięcie'. Po udanym zablokowaniu ataku przeciwnika spróbuj odpowiedzieć ciosem.
+Jeśli widzisz, że wróg atakuje pierwszy, zablokuj, by przerwać własny atak.
+~
+Obrażenia zależą od umiejętności postaci, jakości broni i rodzaju ataku.
+}
+BloodPrologue_GuideFight_controlsimg1 {ChrBlock}
+BloodPrologue_GuideFight_controlsimg2 {ChrAltAttackBase}
+BloodPrologue_Parry_title {Parowanie. Ciężki atak}
+BloodPrologue_Parry_descr
+{
+Wróg zaczyna zamach, co oznacza, że wykonuje atak ciężki. Tego ataku nie da się zablokować.
+Istnieje kilka sposobów, by uniknąć obrażeń.
+~
+Najskuteczniejszy to parowanie. Przed ciosem przeciwnika przytrzymaj klawisz "Przełącz atak" i naciśnij "Atak wypadem / Parowanie".
+Udane parowanie ogłusza wroga i odbiera mu energię, dając ci bezpieczną okazję do kontrataku.
+~
+Jeśli widzisz, że przeciwnik blokuje, możesz wykonać atak ciężki. Przebije on jego blok.
+}
+BloodPrologue_Parry_controlsimg1 {ChrAttackChoseBase}
+BloodPrologue_Parry_controlsimg2 {ChrAttackBase}
+BloodPrologue_Marksmanship_title {Strzelectwo}
+BloodPrologue_Marksmanship_descr
+{
+Możesz celować z dowolnej broni palnej, by zwiększyć celność. Przytrzymaj przycisk celowania, aby wejść w ten tryb. Puść go, by wyjść bez strzału.
+~
+Im dłużej celujesz, tym większe zadasz obrażenia. Strzały w głowę są jeszcze skuteczniejsze.
+~
+Aby wykonać szybki strzał, naciśnij przycisk celowania raz. Mniejsza siła ognia to cena za szybkość.
+}
+BloodPrologue_Marksmanship_controlsimg1 {ChrAiming}
+BloodPrologue_Marksmanship_controlsimg2 {ChrAimingShot}
+BloodPrologue_TimeScale_title {Kontrola czasu}
+BloodPrologue_TimeScale_descr
+{
+Podróżowanie po lądzie może zająć sporo czasu.
+~
+Użyj przyspieszenia czasu. Naciśnij 'R', aby przyspieszyć czas x2. Ponowne naciśnięcie przywróci normalne tempo.
+Możesz też użyć klawiszy "+" i "-", aby precyzyjnie regulować tempo.
+}
+BloodPrologue_TimeScale_controlsimg1 {TimeScale}
+BloodPrologue_TimeScale_controlsimg2 {TimeScaleFasterBA}
+BloodPrologue_TimeScale_controlsimg3 {TimeScaleSlowerBA}
+BloodPrologue_Alchemy_title {Alchemia}
+BloodPrologue_Alchemy_descr
+{
+Wytwarzanie przedmiotów, zwłaszcza mikstur i amunicji, może znacznie ułatwić ci życie.
+~
+Aby wytworzyć przedmiot, musisz znaleźć lub kupić przepis. Składniki znajdziesz w otwartym świecie lub kupisz u kupców.
+~
+Użyj zdobytego przepisu, aby się go nauczyć. Rośliny potrzebne do stworzenia „Mikstury na migrenę” znajdziesz w dżungli tuż za bramą miasta.
+}
+BloodPrologue_Alchemy_controlsimg1 {AlchemyKey}
+BloodPrologue_Stashes_title {Skarbce}
+BloodPrologue_Stashes_descr
+{
+Wielu mieszkańców miasta przechowuje swoje kosztowności nie w skrzyniach na widoku, lecz w ukrytych miejscach — w skrytkach.
+~
+Trzymaj się ścian i miej oczy szeroko otwarte; może dopisze ci szczęście i znajdziesz coś naprawdę cennego.
+~
+Znajdź skrytkę w domu kupca.
+}
+BloodPrologue_Dash_title {Obrona w walce. Uniki}
+BloodPrologue_Dash_descr
+{
+Oprócz blokowania lub parowania istnieje jeszcze jeden sposób uniknięcia obrażeń — uniki.
+~
+Unik wykonuje się, przytrzymując klawisz "Przełącz atak" i naciskając jeden z klawiszy ruchu w trybie walki.
+~
+Unik pozwala zmienić pozycję, by uchylić się przed silnym atakiem lub strzałem z broni palnej.
+~
+Użyj uniku w ostatniej chwili przed strzałem przeciwnika. Dzięki temu unikniesz obrażeń.
+}
+BloodPrologue_Dash_controlsimg1 {ChrAttackChoseBase}
+BloodPrologue_Dash_controlsimg2 {ChrStrafeLeft}
+BloodPrologue_Dash_controlsimg3 {ChrBackward}
+BloodPrologue_Dash_controlsimg4 {ChrStrafeRight}
+BloodPrologue_DeadSearch_title {Plądrowanie}
+BloodPrologue_DeadSearch_descr
+{
+Po każdej walce nadchodzi czas na zbieranie łupów.
+Możesz przeszukać każdego poległego wroga (lub sojusznika), naciskając przycisk łupów – '1' (domyślnie).
+}
+BloodPrologue_DeadSearch_controlsimg1 {BOAL_DeadSearch}
+BloodPrologue_Officers_title {Oficerowie}
+BloodPrologue_Officers_descr
+{
+Samodzielne prowadzenie fregaty to trudne zadanie. Dlatego warto skorzystać z pomocy oficerów.
+Każdy oficer powinien mieć wyznaczoną funkcję; nie powinni po prostu siedzieć bezczynnie.
+~
+Przydziel Jeremy’ego Pitta jako nawigatora. A Neda Ogle’a mianuj kanonierem.
+Nawigator pozwoli ci lepiej kontrolować statek na morzu. Doświadczony kanonier z kolei pomoże celniej strzelać z dział.
+~
+Równie ważne są stanowiska bosmana, cieśli i kwatermistrza.
+Zdolny bosman ułatwia abordaż. Cieśla okrętowy pomoże utrzymać statek na powierzchni w krytycznym momencie. A kwatermistrz znacząco obniży koszty utrzymania statku.
+}
+BloodPrologue_Officers_controlsimg1 {Interface}
+BloodPrologue_ShipControl_title {Sterowanie statkiem}
+BloodPrologue_ShipControl_descr
+{
+Witamy na Morzu Karaibskim!
+~
+Obracaj swój statek za pomocą klawiszy sterowania. Żaglami i prędkością steruj klawiszami zmiany trybu żagli.
+~
+Są trzy tryby żagli: pełne, bojowe i opuszczone. Pełne żagle dają największą prędkość, bojowe ułatwiają skręcanie, a opuszczone pozwalają łagodnie się zatrzymać.
+~
+Duża strzałka na mini-mapie pokazuje kierunek wiatru, w którym Twój statek osiągnie maksymalną prędkość.
+}
+BloodPrologue_ShipControl_controlsimg1 {Ship_SailUp}
+BloodPrologue_ShipControl_controlsimg2 {Ship_TurnLeft}
+BloodPrologue_ShipControl_controlsimg3 {Ship_SailDown}
+BloodPrologue_ShipControl_controlsimg4 {Ship_TurnRight}
+BloodPrologue_SeaBattle_title {Bitwa morska}
+BloodPrologue_SeaBattle_descr
+{
+Każdy statek ma trzy główne statystyki: kadłub, żagle i załogę. Jeśli kadłub spadnie do zera, statek tonie. Uszkodzone żagle spowalniają statek.
+~
+Zwróć uwagę na wskaźnik liczby załogi. Masz za mało ludzi — obsługa żagli będzie znacznie spowolniona. Wszystkie zasoby są obecnie skierowane do obsługi dział.
+~
+Każda statystyka ma najlepszy rodzaj amunicji: kartacz na załogę, łańcuchy na żagle i maszty, bomby na kadłub. Kule armatnie są uniwersalne i mają największy zasięg.
+~
+Aby strzelać do wroga, użyj lewego przycisku myszy, gdy wrogi statek znajdzie się w sektorze ostrzału.
+~
+Jeśli bitwa wydaje się zbyt wolna, możesz ją przyspieszyć za pomocą klawiszy kontroli czasu ('+' i '-').
+}
+BloodPrologue_SeaBattle_controlsimg1 {hk_charge1}
+BloodPrologue_SeaBattle_controlsimg2 {hk_charge2}
+BloodPrologue_SeaBattle_controlsimg3 {hk_charge3}
+BloodPrologue_SeaBattle_controlsimg4 {hk_charge4}
+BloodPrologue_SeaBattle_controlsimg5 {Ship_Fire}
+BloodPrologue_SeaEscape_title {Wycofaj się}
+BloodPrologue_SeaEscape_descr
+{
+Wygląda na to, że Hiszpanie się wycofują. Nie są w stanie wytrzymać takiej siły ognia!
+~
+Wycofaj się z walki, zwiększając dystans do okrętu wroga. Odległość do statku możesz sprawdzić przez lunetę.
+~
+Aby użyć lunety, przejdź na pokład (domyślnie 'Tab') i przytrzymaj klawisz 'Ctrl' (domyślnie).
+~
+Gdy odległość do wroga osiągnie 1000, możesz bezpiecznie opuścić pole bitwy.
+}
+BloodPrologue_SeaEscape_controlsimg1 {Sea_CameraSwitch}
+BloodPrologue_SeaEscape_controlsimg2 {TelescopeIn}
+BloodPrologue_EnterMap_title {Wejdź na mapę globalną}
+BloodPrologue_EnterMap_descr
+{
+Aby dotrzeć na Tortugę, przejdź na mapę globalną.
+~
+Mapa globalna pozwala podróżować między wyspami.
+~
+Aby przejść na mapę globalną, użyj szybkiego polecenia lub otwórz menu poleceń (domyślnie 'Enter') i wybierz 'Mapa'.
+}
+BloodPrologue_EnterMap_controlsimg1 {BIFastCommand}
+BloodPrologue_EnterMap_controlsimg2 {BICommandsActivate}
+BloodPrologue_WorldMap_title {Mapa świata}
+BloodPrologue_WorldMap_descr
+{
+Mapa świata pozwala podróżować drogą morską po całym świecie gry. Nie musisz dopływać do każdego miasta czy zatoki — wystarczy opuścić mapę świata w pobliżu celu.
+~
+Aby ruszyć, naciśnij raz 'W', a żeby się zatrzymać — raz 'S'.
+~
+Aby rozejrzeć się po okolicy, naciśnij 'Tab'. Tortuga leży na północny zachód od ciebie; sprawdź mapę archipelagu (naciśnij 'M').
+~
+Będąc blisko wyspy, użyj "Szybkiej akcji" lub menu dowodzenia, aby wypłynąć na morze.
+}
+BloodPrologue_WorldMap_controlsimg1 {WMapCameraSwitch}
+BloodPrologue_WorldMap_controlsimg2 {WMapForward}
+BloodPrologue_WorldMap_controlsimg3 {MapView}
+BloodPrologue_FastTravel_title {Szybka podróż}
+BloodPrologue_FastTravel_descr
+{
+Twoim celem jest port Tortuga. Użyj opcji „Płyń do” w menu dowodzenia, aby przyspieszyć podróż.
+~
+Funkcja „Płyń do” pozwala natychmiast przenieść się w pobliże sojuszniczego statku lub punktu orientacyjnego. Zasięg zależy od twojej cechy Intuicja.
+~
+Będąc blisko portu, użyj „Szybkiej akcji” lub menu dowodzenia, aby zacumować.
+}
+BloodPrologue_FastTravel_controlsimg1 {BICommandsActivate}
+BloodPrologue_Navigation_title {Nawigacja}
+BloodPrologue_Navigation_descr
+{
+Obecnie otrzymujesz kary do statystyk z powodu niewystarczającej umiejętności Nawigacja!
+~
+Nawigacja przede wszystkim określa, jak dużymi statkami może dowodzić postać.
+~
+Na przykład statki 5. rangi wymagają 25 punktów, a 4. ranga już 40. Wymagania dla każdej rangi możesz sprawdzić, klikając prawym przyciskiem myszy ikonę umiejętności w oknie postaci.
+~
+Aby pozbyć się tych kar, potrzebujesz bardzo doświadczonego nawigatora. Jednak na początku gry znalezienie takiego nawigatora jest niemożliwe.
+~
+Jedynym rozwiązaniem jest odstawienie statku do portu i przejęcie dowództwa nad statkiem niższej rangi.
+}
+BloodPrologue_BuyShip_title {Kupno statku}
+BloodPrologue_BuyShip_descr
+{
+Aby kupić dodatkowy statek, wybierz wolne miejsce w kolumnie po lewej, następnie wybierz statek z listy i kliknij „Kup”.
+~
+Następnie przydziel jednego z dostępnych oficerów jako kapitana nowego statku.
+}
+BloodPrologue_ShipChange_title {Wymiana między statkami}
+BloodPrologue_ShipChange_descr
+{
+Aby objąć dowództwo nad nowym statkiem, w menu "Statki" wybierz slot w lewej kolumnie i kliknij go, aby przejść do menu wymiany statków.
+Następnie w menu wymiany kliknij "Zamień statek".
+~
+Nie zapomnij przenieść załogi i ładunku, korzystając z "Zarządzania załogą" i "Przenieś cały ładunek".
+~
+Dla wygodnego przemieszczania używaj klawiszy strzałek razem z modyfikatorami 'Shift' i 'Ctrl'.
+}
+BloodPrologue_ShipChange_controlsimg1 {CharacterShipMenu}
+BloodPrologue_SandBox_title {Swobodna gra}
+BloodPrologue_SandBox_descr
+{
+Gratulacje z okazji ukończenia swojej pierwszej przygody!
+~
+Rozpocznij swobodną eksplorację. Wykonuj zlecenia gubernatora.
+Dostarczaj towary do innych kolonii, jeśli sklepikarz uzna twój statek za odpowiedni.
+Podejmuj się zadań dla miejscowych lub zajmij się handlem. Wszystko zależy od ciebie.
+~
+Albo rusz w dżunglę lub na morze. Pozwól, by przygoda sama cię odnalazła.
+}

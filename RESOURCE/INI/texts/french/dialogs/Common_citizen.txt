@@ -1,0 +1,1020 @@
+Common_citizen_1_m {
+On dit que c’est vous qui possédez cette ville, @<GetAddress_Form>.
+}
+Common_citizen_1_f {
+Il paraît que vous êtes le propriétaire de cette ville, @<GetAddress_Form>.
+}
+Common_citizen_2_m {
+Quelle agréable rencontre—le gouverneur en personne vient me poser une question.
+}
+Common_citizen_2_f {
+Quelle agréable surprise, la gouverneure en personne vient me poser une question.
+}
+Common_citizen_3 {
+@<RandPhraseSimple>
+}
+Common_citizen_4_m {
+J’ai changé d’avis. Bonne chance!
+}
+Common_citizen_4_f {
+J’ai changé d’avis. Bonne chance!
+}
+Common_citizen_5 {
+Je fais juste un tour en ville. Au revoir.
+}
+Common_citizen_6 {
+@<RandPhraseSimple>
+}
+Common_citizen_7 {
+J'ai une question pour vous.
+}
+Common_citizen_8 {
+J’ai besoin d’informations.
+}
+Common_citizen_9 {
+@<RandPhraseSimple>
+}
+Common_citizen_10 {
+Je souhaite discuter de questions financières.
+}
+Common_citizen_11 {
+À propos des finances...
+}
+Common_citizen_12 {
+@<RandPhraseSimple>
+}
+Common_citizen_13 {
+Qu’est-ce que tu veux? Circule.
+}
+Common_citizen_14 {
+Arrête de bloquer le passage, dégage.
+}
+Common_citizen_15 {
+@<RandPhraseSimple>
+}
+Common_citizen_16 {
+Tu sais quoi? Arrête de jacasser!
+}
+Common_citizen_17 {
+Calme-toi. Sinon, je vais vite éteindre ce feu!
+}
+Common_citizen_18 {
+@<RandPhraseSimple>
+}
+Common_citizen_19 {
+Je voudrais te demander quelque chose.
+}
+Common_citizen_20 {
+Un instant de votre attention, juste une question.
+}
+Common_citizen_21 {
+@<RandPhraseSimple>
+}
+Common_citizen_22 {
+Je souhaite discuter de questions financières.
+}
+Common_citizen_23 {
+Concernant les finances...
+}
+Common_citizen_24 {
+@<RandPhraseSimple>
+}
+Common_citizen_25 {
+Salutations, @<GetAddress_Form>. Je vois que vous êtes le capitaine de votre propre navire. J’aimerais vous demander une faveur...
+}
+Common_citizen_26 {
+Je vous écoute, @<GetAddress_FormToNPC>. Qu'est-ce qui vous amène ici?
+}
+Common_citizen_27 {
+Désolé, @<GetAddress_FormToNPC>, mais je suis vraiment pressé.
+}
+Common_citizen_28 {
+Je m'appelle
+}
+Common_citizen_29 {
+Mon nom
+}
+Common_citizen_30 {
+Vous pouvez m’appeler
+}
+Common_citizen_31 {
+Que veux-tu?
+}
+Common_citizen_32_mm {
+Je ne vous ai jamais vu ici auparavant. Qui êtes-vous?
+}
+Common_citizen_32_fm {
+Je ne vous ai jamais vu ici auparavant. Qui êtes-vous?
+}
+Common_citizen_32_mf {
+Je ne vous ai jamais vu ici auparavant. Qui êtes-vous?
+}
+Common_citizen_32_ff {
+Je ne vous ai jamais vu ici. Qui êtes-vous?
+}
+Common_citizen_33 {
+Qui êtes-vous, et que me voulez-vous?
+}
+Common_citizen_34 {
+@<LinkRandPhrase> @<GetFullName>. @<LinkRandPhrase>
+}
+Common_citizen_35 {
+Bonjour, @<GetAddress_Form>. Je m'appelle @<GetFullName>. Et vous, comment vous appelez-vous?
+}
+Common_citizen_36 {
+Bonjour, @<GetAddress_Form>! Je suis @<GetFullName>. Puis-je vous demander votre nom?
+}
+Common_citizen_37 {
+Oui, @<GetAddress_Form>. Que vouliez-vous? Au fait, je m'appelle @<GetFullName>. Et vous?
+}
+Common_citizen_38 {
+@<LinkRandPhrase>
+}
+Common_citizen_39 {
+Ça alors!
+}
+Common_citizen_40 {
+Tonnerre de Brest!
+}
+Common_citizen_41 {
+Que le vide t’emporte!
+}
+Common_citizen_42_m {
+Tu n’as donc jamais entendu parler de moi, vaurien?
+}
+Common_citizen_42_f {
+Tu n’as pas entendu parler de moi?
+}
+Common_citizen_43_m {
+et le pirate le plus redouté de ces eaux!
+}
+Common_citizen_43_f {
+et la femme pirate la plus célèbre de ces eaux!
+}
+Common_citizen_44 {
+Et que je coule sur-le-champ si ce n’est pas vrai!
+}
+Common_citizen_45 {
+@<LinkRandPhrase> Oui, c’est moi le capitaine @<GetFullName>@<LinkRandPhrase>
+}
+Common_citizen_46 {
+Je suis @<GetFullName>, le capitaine.
+}
+Common_citizen_47 {
+Je m'appelle @<GetFullName>.
+}
+Common_citizen_48 {
+Vous pouvez m’appeler Capitaine @<GetFullName>.
+}
+Common_citizen_49 {
+@<LinkRandPhrase>
+}
+Common_citizen_50 {
+Capitaine, pourriez-vous m'aider avec quelque chose?
+}
+Common_citizen_51 {
+Désolé, mais non. Je n'ai pas beaucoup de temps en ce moment.
+}
+Common_citizen_52 {
+Désolé, je ne peux pas. J'ai des choses à faire...
+}
+Common_citizen_53 {
+Non, je ne peux pas. J'ai beaucoup de choses importantes à faire en ce moment.
+}
+Common_citizen_54 {
+@<LinkRandPhrase>
+}
+Common_citizen_55 {
+Bien sûr. Qu’est-ce qu’il y a?
+}
+Common_citizen_56 {
+Oui, je vais aider. Dis-moi de quoi il s'agit...
+}
+Common_citizen_57 {
+Parlez-moi davantage de cette affaire...
+}
+Common_citizen_58 {
+@<LinkRandPhrase>
+}
+Common_citizen_59 {
+Oui, capitaine, je vous écoute.
+}
+Common_citizen_60_m {
+@<NPChar>, j’ai retrouvé votre alliance.
+}
+Common_citizen_60_f {
+@<NPChar>, j’ai retrouvé votre alliance.
+}
+Common_citizen_61_m {
+Je voulais en savoir un peu plus sur cette petite ville!
+}
+Common_citizen_61_f {
+Je voulais en savoir un peu plus sur cette petite ville!
+}
+Common_citizen_62_m {
+Je voulais te demander quelque chose à propos de la ville.
+}
+Common_citizen_62_f {
+Je voulais te demander quelque chose à propos de la ville.
+}
+Common_citizen_63 {
+J'ai une question à vous poser.
+}
+Common_citizen_64 {
+J’ai besoin d’informations.
+}
+Common_citizen_65 {
+@<RandPhraseSimple>
+}
+Common_citizen_66 {
+Je souhaite discuter de questions financières.
+}
+Common_citizen_67 {
+Concernant les finances...
+}
+Common_citizen_68 {
+@<RandPhraseSimple>
+}
+Common_citizen_69 {
+Attends, arrête! Dis-moi qui tu es, tout de suite!
+}
+Common_citizen_70 {
+, attends un instant!
+}
+Common_citizen_71 {
+Attends, attends! Il faut qu’on parle!
+}
+Common_citizen_72 {
+Je cherche un espion ennemi sur ordre du gouverneur @<XI_ConvertString>!
+}
+Common_citizen_73 {
+J’agis dans l’intérêt de la ville de @<XI_ConvertString> sur ordre du gouverneur. Je cherche un agent ennemi en ville.
+}
+Common_citizen_74 {
+Le gouverneur local @<GetCharacterIndex> est impatient de retrouver l’espion en ville...
+}
+Common_citizen_75_m {
+Homme @<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_citizen_75_f {
+Femme @<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_citizen_76 {
+En es-tu conscient
+}
+Common_citizen_77 {
+Tu sais
+}
+Common_citizen_78 {
+Est-ce que tu sais quelque chose à ce sujet
+}
+Common_citizen_79 {
+@<LinkRandPhrase>, tu as entendu que l’église du coin a été cambriolée récemment?
+}
+Common_citizen_80_m {
+Ah, c’est toi, @<GetFullName>—sacré vaurien
+}
+Common_citizen_80_f {
+Ah, c’est toi, @<GetFullName>—la courageuse.
+}
+Common_citizen_81_m {
+Content de te voir, mon vieil ami @<Pchar>
+}
+Common_citizen_81_f {
+Ravi de te voir, belle @<Pchar>
+}
+Common_citizen_82_m {
+Tiens donc, voilà le capitaine @<GetFullName> en personne.
+}
+Common_citizen_82_f {
+Eh bien, si ce n’est pas @<GetFullName> en personne
+}
+Common_citizen_83 {
+Je croyais que tu avais disparu de ce monde depuis longtemps!
+}
+Common_citizen_84_m {
+Et sans doute ivre, comme toujours.
+}
+Common_citizen_84_f {
+Et probablement déjà un peu éméché.
+}
+Common_citizen_85 {
+Et, à ce que je vois, toujours une âme libre!
+}
+Common_citizen_86 {
+Eh bien, parle, que veux-tu?
+}
+Common_citizen_87 {
+Qu’est-ce que tu veux cette fois-ci?
+}
+Common_citizen_88 {
+Tu viens encore m’ennuyer pour rien?
+}
+Common_citizen_89 {
+@<LinkRandPhrase>. @<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_citizen_90 {
+@<TimeGreeting>, Capitaine
+}
+Common_citizen_91 {
+Bonjour, @<GetAddress_Form>
+}
+Common_citizen_92 {
+Salutations à vous, capitaine
+}
+Common_citizen_93_m {
+Qu’est-ce qu’une personne respectable comme vous pourrait bien vouloir de moi?
+}
+Common_citizen_93_f {
+Qu’est-ce qu’une fille aussi audacieuse que toi pourrait bien me vouloir?
+}
+Common_citizen_94 {
+Pourquoi es-tu venu?
+}
+Common_citizen_95 {
+Qu’est-ce que tu veux savoir cette fois-ci?
+}
+Common_citizen_96 {
+@<LinkRandPhrase> @<GetFullName>. @<LinkRandPhrase>
+}
+Common_citizen_97 {
+Bonjour, Capitaine
+}
+Common_citizen_98 {
+Salutations, ah, c’est vous @<GetAddress_Form>
+}
+Common_citizen_99 {
+Ah, capitaine
+}
+Common_citizen_100_m {
+Je pensais que nous ne nous reverrions pas,
+}
+Common_citizen_100_f {
+Je pensais que nos chemins ne se croiseraient plus.
+}
+Common_citizen_101_m {
+, je ne peux pas dire que je sois ravi de te voir, mais
+}
+Common_citizen_101_f {
+, je ne peux pas dire que je sois ravi de te voir, mais
+}
+Common_citizen_102 {
+Ah, je vois que tu es toujours en vie—quel dommage, non?
+}
+Common_citizen_103 {
+Qu’est-ce que tu veux?
+}
+Common_citizen_104 {
+pourquoi es-tu venu?
+}
+Common_citizen_105_m {
+Comment puis-je vous aider?
+}
+Common_citizen_105_f {
+Comment puis-je vous aider?
+}
+Common_citizen_106 {
+@<LinkRandPhrase> @<GetFullName>@<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_citizen_107 {
+@<TimeGreeting>, capitaine @<GetFullName>. Comment puis-je vous aider?
+}
+Common_citizen_108_m {
+Oh, mais voilà le capitaine @<GetFullName> en personne! Qu’est-ce que vous voulez savoir cette fois-ci?
+}
+Common_citizen_108_f {
+Oh, mais ne serait-ce pas la capitaine @<GetFullName> en personne! Qu’est-ce qui vous amène cette fois-ci?
+}
+Common_citizen_109 {
+Bonjour, @<GetAddress_Form> @<Pchar>. Vous aviez besoin de quelque chose?
+}
+Common_citizen_110 {
+@<LinkRandPhrase>
+}
+Common_citizen_111 {
+Tu as dû l’imaginer. Je vais y aller.
+}
+Common_citizen_112_m {
+Non, rien — je vais juste à la taverne.
+}
+Common_citizen_112_f {
+Non, ce n’est rien — je me rendais simplement à la taverne.
+}
+Common_citizen_113 {
+@<RandPhraseSimple>
+}
+Common_citizen_114 {
+Très bien, laisse tomber. Bonne chance!
+}
+Common_citizen_115 {
+Je fais juste un tour en ville. Au revoir.
+}
+Common_citizen_116 {
+@<RandPhraseSimple>
+}
+Common_citizen_117 {
+Je suis censé être votre bureau d’information? Je n’en sais rien. Aucune idée.
+}
+Common_citizen_118 {
+Quel imbécile! Au revoir.
+}
+Common_citizen_119 {
+Alors, une autre question.
+}
+Common_citizen_120 {
+Où souhaitez-vous aller?
+}
+Common_citizen_121 {
+Très bien, je t’écoute.
+}
+Common_citizen_122 {
+@<TEV>? Je pense que je peux t’y emmener.
+}
+Common_citizen_123 {
+Oui, oui, c’est bien là que je dois aller.
+}
+Common_citizen_124 {
+Non, vous m’avez mal compris.
+}
+Common_citizen_125_m {
+J’ai changé d’avis, je dois y aller.
+}
+Common_citizen_125_f {
+J’ai changé d’avis, je dois y aller.
+}
+Common_citizen_126 {
+Je crains de ne pas connaître un tel endroit dans notre ville.
+}
+Common_citizen_127 {
+Je vois. Laissez-moi reformuler...
+}
+Common_citizen_128 {
+Alors, une autre question.
+}
+Common_citizen_129 {
+Bonne continuation, je dois y aller.
+}
+Common_citizen_130 {
+Suivez-moi.
+}
+Common_citizen_131 {
+D’accord.
+}
+Common_citizen_132 {
+Nous sommes arrivés. Mais @<TEV> est fermé pour le moment et ouvrira à 6 h.
+}
+Common_citizen_133 {
+Ça fait mal.
+}
+Common_citizen_134 {
+Alors, une autre question.
+}
+Common_citizen_135 {
+Je n’irai pas plus loin, mais tu dois continuer tout droit sur la route et tu arriveras à la plantation.
+}
+Common_citizen_136 {
+Nous sommes arrivés. Voici @<TEV> devant vous.
+}
+Common_citizen_137 {
+Merci!
+}
+Common_citizen_138 {
+Attendez, j’ai une autre question.
+}
+Common_citizen_139 {
+Quelles questions?
+}
+Common_citizen_140 {
+Ce nom sur ces documents vous dit-il quelque chose?
+}
+Common_citizen_141 {
+Je n’ai aucun intérêt pour des papiers bizarres, et de toute façon je ne sais pas lire. Va voir le prêteur — on dit qu’il a même appris l’écriture du diable.
+}
+Common_citizen_142 {
+Je n’ai aucune idée de ce dont vous parlez. Demandez donc aux autres habitants, capitaine @<GetFullName>.
+}
+Common_citizen_143 {
+Je ne suis pas sûr de pouvoir vous aider, capitaine @<GetFullName>. Essayez peut-être de demander au prêteur sur gages — il sait peut-être quelque chose?
+}
+Common_citizen_144 {
+@<LinkRandPhrase>
+}
+Common_citizen_145 {
+Je suivrai volontiers ton conseil!
+}
+Common_citizen_146 {
+Vous ne mentez pas, capitaine @<GetFullName>, n’est-ce pas?
+}
+Common_citizen_147 {
+Et alors, @<PChar>?
+}
+Common_citizen_148 {
+Je me souviendrai de vous, @<GetFullName>.
+}
+Common_citizen_149 {
+@<LinkRandPhrase> Maintenant, dis-moi, que veux-tu?
+}
+Common_citizen_150 {
+Ravi de vous rencontrer, capitaine @<PChar>
+}
+Common_citizen_151_m {
+Ravi de faire votre connaissance, @<GetAddress_Form> @<PChar>
+}
+Common_citizen_151_f {
+Ravi de faire votre connaissance, @<GetAddress_Form> @<PChar>
+}
+Common_citizen_152 {
+Ravi de vous rencontrer, Capitaine @<PChar>
+}
+Common_citizen_153 {
+@<LinkRandPhrase>. Mais je doute que vous vouliez seulement connaître mon nom, n’est-ce pas?
+}
+Common_citizen_154_m {
+Je voulais en savoir un peu plus sur cette petite ville!
+}
+Common_citizen_154_f {
+Je voulais en savoir un peu plus sur cette petite ville!
+}
+Common_citizen_155_m {
+Je voulais poser quelques questions sur la ville.
+}
+Common_citizen_155_f {
+Je voulais te demander quelque chose à propos de la ville.
+}
+Common_citizen_156 {
+J'ai une question à vous poser.
+}
+Common_citizen_157 {
+J’ai besoin d’informations.
+}
+Common_citizen_158 {
+@<RandPhraseSimple>
+}
+Common_citizen_159 {
+Je souhaite discuter de questions financières.
+}
+Common_citizen_160 {
+Concernant les finances...
+}
+Common_citizen_161 {
+@<RandPhraseSimple>
+}
+Common_citizen_162 {
+, arrêtez! Dites-moi qui vous êtes, tout de suite!
+}
+Common_citizen_163 {
+, attends un instant!
+}
+Common_citizen_164 {
+, attends! Il faut qu’on parle!
+}
+Common_citizen_165 {
+Je cherche un espion ennemi sur ordre du gouverneur, @<XI_ConvertString>!
+}
+Common_citizen_166 {
+J’agis dans l’intérêt de la ville de @<XI_ConvertString> sur ordre du gouverneur. Je cherche un agent ennemi en ville.
+}
+Common_citizen_167 {
+Le gouverneur local @<GetCharacterIndex> est impatient de retrouver l'espion en ville...
+}
+Common_citizen_168_m {
+Homme@<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_citizen_168_f {
+Femme@<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_citizen_169 {
+En es-tu conscient
+}
+Common_citizen_170 {
+Est-ce que tu sais quelque chose à ce sujet
+}
+Common_citizen_171 {
+Est-ce que tu sais quelque chose à ce sujet
+}
+Common_citizen_172 {
+@<LinkRandPhrase>, tu as entendu que l’église du coin a été cambriolée récemment?
+}
+Common_citizen_173 {
+Tu as dû l’imaginer, je m’en vais.
+}
+Common_citizen_174_m {
+Non, rien—je vais juste à la taverne.
+}
+Common_citizen_174_f {
+Non, ce n’est rien — je me rendais simplement à la taverne.
+}
+Common_citizen_175 {
+@<RandPhraseSimple>
+}
+Common_citizen_176 {
+Très bien, laisse tomber. Bonne chance!
+}
+Common_citizen_177 {
+Je fais juste un tour en ville. Au revoir.
+}
+Common_citizen_178 {
+@<RandPhraseSimple>
+}
+Common_citizen_179_m {
+Oh, je suis aussi content de te voir que de voir une bouteille — demande ce que tu veux.
+}
+Common_citizen_179_f {
+Oh, je suis aussi content de te voir que de savourer un bon verre — demande ce que tu veux.
+}
+Common_citizen_180 {
+Vous aimez discuter, capitaine? Eh bien, moi aussi... Surtout autour d’une chope de rhum.
+}
+Common_citizen_181 {
+Oui, @<PChar>?
+}
+Common_citizen_182 {
+@<LinkRandPhrase>
+}
+Common_citizen_183 {
+Eh bien, qu'est-ce que tu veux de plus?
+}
+Common_citizen_184_m {
+Je vois, Capitaine @<PChar>, avez-vous envie de discuter?
+}
+Common_citizen_184_f {
+Je vois, Capitaine @<PChar>, avez-vous envie de discuter, chasseuse?
+}
+Common_citizen_185_m {
+Vous m’épuisez avec toutes ces questions, Capitaine—ne vaudrait-il pas mieux partager un verre de rhum?
+}
+Common_citizen_185_f {
+Vous m’épuisez avec toutes ces questions, Capitaine. J’aurais préféré que vous m’offriez un peu de rhum.
+}
+Common_citizen_186 {
+@<LinkRandPhrase>
+}
+Common_citizen_187 {
+Qu’est-ce que vous vouliez savoir, @<GetAddress_Form>?
+}
+Common_citizen_188 {
+Je vous écoute, capitaine.
+}
+Common_citizen_189 {
+Je dois partir, alors dépêchez-vous de poser vos questions, Capitaine.
+}
+Common_citizen_190 {
+@<LinkRandPhrase>
+}
+Common_citizen_191_m {
+Toujours heureux d’avoir une agréable compagnie, @<GetAddress_Form> @<PChar>. Parlez.
+}
+Common_citizen_191_f {
+Toujours heureux d’avoir une agréable compagnie, @<GetAddress_Form> @<PChar>. Parlez.
+}
+Common_citizen_192 {
+Oui, @<GetAddress_Form>?
+}
+Common_citizen_193 {
+Vous aimez discuter, capitaine? Eh bien, moi aussi...
+}
+Common_citizen_194 {
+@<LinkRandPhrase>
+}
+Common_citizen_195 {
+Quelles histoires circulent dans cette taverne?
+}
+Common_citizen_196 {
+Quoi de neuf par ici?
+}
+Common_citizen_197 {
+Comment la vie te traite-t-elle sur la terre ferme?
+}
+Common_citizen_198 {
+@<LinkRandPhrase>
+}
+Common_citizen_199 {
+Pourriez-vous m’indiquer le chemin?
+}
+Common_citizen_200 {
+Je n’arrive tout simplement pas à trouver mon chemin quelque part...
+}
+Common_citizen_201 {
+Pourriez-vous m’indiquer le chemin...
+}
+Common_citizen_202 {
+@<LinkRandPhrase>
+}
+Common_citizen_203 {
+Je veux savoir ce que les gens disent ici à propos de quelqu’un.
+}
+Common_citizen_204 {
+Tu sais ce que les gens d’ici racontent à propos d’une certaine personne?
+}
+Common_citizen_205 {
+J’aimerais en apprendre un peu plus sur les habitants.
+}
+Common_citizen_206 {
+@<LinkRandPhrase>
+}
+Common_citizen_207 {
+Parlez-moi de votre colonie.
+}
+Common_citizen_208 {
+Il y a une affaire importante!
+}
+Common_citizen_209 {
+J'ai affaire à vous.
+}
+Common_citizen_210 {
+@<RandPhraseSimple>
+}
+Common_citizen_211 {
+Tu as dû l’imaginer, je m’en vais.
+}
+Common_citizen_212_m {
+Non, ce n’est rien — je vais juste à la taverne.
+}
+Common_citizen_212_f {
+Non, ce n’est rien — je me rendais simplement à la taverne.
+}
+Common_citizen_213 {
+@<RandPhraseSimple>
+}
+Common_citizen_214 {
+Très bien, laisse tomber. Bonne chance!
+}
+Common_citizen_215 {
+Je fais juste un tour en ville. Au revoir.
+}
+Common_citizen_216 {
+@<RandPhraseSimple>
+}
+Common_citizen_217 {
+De quel résident voulez-vous en savoir plus?
+}
+Common_citizen_218 {
+À propos du gouverneur.
+}
+Common_citizen_219 {
+À propos du tenancier de la taverne locale.
+}
+Common_citizen_220 {
+À propos du propriétaire du chantier naval.
+}
+Common_citizen_221 {
+À propos du commerçant local.
+}
+Common_citizen_222 {
+Personne. Laisse tomber.
+}
+Common_citizen_223 {
+Merci.
+}
+Common_citizen_224 {
+Pour être honnête, je n’en sais pas vraiment beaucoup à ce sujet. Mais je peux quand même vous dire deux ou trois choses.
+}
+Common_citizen_225 {
+Qu’est-ce qui vous amène dans notre colonie?
+}
+Common_citizen_226 {
+Je vous en prie. De quoi voulez-vous parler?
+}
+Common_citizen_227 {
+@<LinkRandPhrase>
+}
+Common_citizen_228 {
+Comment s’appelle cette colonie?
+}
+Common_citizen_229 {
+Que savez-vous du fort qui protège la ville?
+}
+Common_citizen_230 {
+Parlons d’autre chose.
+}
+Common_citizen_231 {
+@<UpperFirst>, notre colonie s'appelle @<XI_ConvertString>.
+}
+Common_citizen_232 {
+Merci.
+}
+Common_citizen_233 {
+Je n’en sais rien.
+}
+Common_citizen_234 {
+Dommage.
+}
+Common_citizen_235_m {
+Eh bien, qu’est-ce que ça a à voir avec moi? Je suis d’ici!
+}
+Common_citizen_235_f {
+Eh bien, qu’est-ce que ça a à voir avec moi? Je vis dans cette ville et je ne veux rien avoir à faire avec tout ça!
+}
+Common_citizen_236_m {
+Qu’est-ce que tu veux de moi cette fois? Je t’ai déjà dit, je ne suis pas un espion!
+}
+Common_citizen_236_f {
+Je t’ai déjà dit, je suis d’ici!
+}
+Common_citizen_237_m {
+Oh, allez! Laissez-moi tranquille, je suis d’ici!
+}
+Common_citizen_237_f {
+Pourquoi viens-tu encore m’ennuyer avec tes questions stupides?
+}
+Common_citizen_238_m {
+Quoi, encore?! C’est vraiment inadmissible!
+}
+Common_citizen_238_f {
+Écoutez, je vous en prie, laissez-moi tranquille maintenant, je vous supplie!
+}
+Common_citizen_239 {
+Qui peut se porter garant de vos paroles?
+}
+Common_citizen_240_m {
+Oh, pardon, je vous ai déjà interrogé...
+}
+Common_citizen_240_f {
+Oh, pardon, je vous ai déjà interrogé...
+}
+Common_citizen_241 {
+Désolé, il y a tellement de monde autour...
+}
+Common_citizen_242 {
+D’accord, d’accord…
+}
+Common_citizen_243 {
+N’importe qui! Écoutez, pourquoi vous m’importunez? Si vous avez un problème, allons voir le gouverneur et réglons ça!
+}
+Common_citizen_244 {
+Hmm... peut-être qu’on ne devrait pas le déranger pour rien. Je te crois…
+}
+Common_citizen_245_m {
+N’importe qui dans cette ville! @<AppealThirdPerson> peut le faire sans difficulté, c’est tout près d’ici.
+}
+Common_citizen_245_f {
+N’importe qui dans cette ville! @<AppealThirdPerson> peut le faire sans difficulté, puisqu’elle est juste à côté.
+}
+Common_citizen_246 {
+Oh Seigneur, eh bien, au moins @<AppealThirdPerson> le peut.
+}
+Common_citizen_247 {
+@<RandPhraseSimple>
+}
+Common_citizen_248 {
+Eh bien, allons-y, je t’écoute...
+}
+Common_citizen_249_m {
+Voilà, hier je me promenais hors de la ville et j’ai perdu mon alliance… Capitaine, pourriez-vous m’aider à la retrouver?
+}
+Common_citizen_249_f {
+Voilà ce qui s’est passé : je me promenais hors de la ville hier et j’ai perdu mon alliance... Mademoiselle, s’il vous plaît, aidez-moi à la retrouver!
+}
+Common_citizen_250_m {
+Bien sûr que je peux! Pour une si charmante dame, je ferais n’importe quoi!
+}
+Common_citizen_250_f {
+Bien sûr, je vais aider. L’Église nous enseigne à aider notre prochain.
+}
+Common_citizen_251 {
+Non, je ne peux pas. Désolé. J'ai beaucoup à faire.
+}
+Common_citizen_252_m {
+Désolé, je ne peux pas. Je viens de me rappeler que j’ai encore des affaires à régler...
+}
+Common_citizen_252_f {
+Désolé, je ne peux pas. Je viens de me rappeler que j’ai encore des affaires à régler…
+}
+Common_citizen_253 {
+Je n’ai pas beaucoup de temps en ce moment, donc je ne pourrai pas t’aider…
+}
+Common_citizen_254 {
+@<LinkRandPhrase>
+}
+Common_citizen_255_m {
+Capitaine, c’est merveilleux! Je vous en prie, retrouvez cette bague—mon mari arrive dans @<sti> jours, et je ne voudrais pas qu’il me voie sans mon alliance.
+}
+Common_citizen_255_f {
+Mademoiselle, c’est merveilleux! S’il vous plaît, retrouvez cette bague pour moi — mon mari arrive dans @<sti> jours, et je ne voudrais pas qu’il me voie sans mon alliance.
+}
+Common_citizen_256 {
+Où as-tu dit que tu l’avais perdu?
+}
+Common_citizen_257 {
+Alors, où l’as-tu perdu?
+}
+Common_citizen_258 {
+@<RandPhraseSimple>
+}
+Common_citizen_259 {
+Juste au-delà des portes de la ville...
+}
+Common_citizen_260_m {
+Eh bien, je vais aller voir, alors...
+}
+Common_citizen_260_f {
+Eh bien, je vais aller voir...
+}
+Common_citizen_261 {
+Oui, vas-y. Et fais vite. N'oublie pas, tu n'as que @<sti> jours.
+}
+Common_citizen_262 {
+Je me souviens.
+}
+Common_citizen_263_m {
+Capitaine! Je suis tellement heureux(se)! Comment pourrais-je jamais vous remercier?
+}
+Common_citizen_263_f {
+Mademoiselle! Je suis tellement heureux! Comment pourrais-je jamais vous remercier?
+}
+Common_citizen_264_m {
+Pas besoin de me remercier, je l’ai fait uniquement par bonté de cœur.
+}
+Common_citizen_264_f {
+Pas besoin de me remercier, je l’ai fait uniquement par bonté de cœur.
+}
+Common_citizen_265 {
+Je ne dirais pas non à cent ou deux cents pièces de huit en plus...
+}
+Common_citizen_266_m {
+Ah, capitaine, quelle personne admirable vous êtes! Je prierai pour vous à l’église, c’est promis! Adieu...
+}
+Common_citizen_266_f {
+Ah, mademoiselle, vous êtes si noble! Je prierai pour vous à l’église! Adieu...
+}
+Common_citizen_267 {
+Adieu, @<NPChar>.
+}
+Common_citizen_268 {
+Ah, oui, bien sûr. Voici votre @<FindMoneyString>. C’est tout ce que j’ai. Prenez-le... Et adieu.
+}
+Common_citizen_269 {
+Au revoir, @<GetFullName>.
+}
+Common_citizen_270 {
+Non, je n’en sais rien.
+}
+Common_citizen_271 {
+Je n’en sais rien.
+}
+Common_citizen_272 {
+Je ne sais rien.
+}
+Common_citizen_273 {
+@<LinkRandPhrase>
+}
+Common_citizen_274 {
+D’accord, très bien.
+}
+Common_citizen_275 {
+Compris, merci.
+}
+Common_citizen_276 {
+D’accord, désolé.
+}
+Common_citizen_277 {
+@<LinkRandPhrase>
+}
+Common_citizen_278 {
+Je n’en sais rien, mais tu peux demander aux habitués de la taverne… Ils auront sûrement quelque chose à te dire.
+}
+Common_citizen_279 {
+Je ne peux rien vous dire, demandez plutôt à quelqu’un à la taverne.
+}
+Common_citizen_280 {
+Je n’en sais rien avec certitude, mais j’ai entendu des gens en parler à la taverne.
+}
+Common_citizen_281 {
+@<LinkRandPhrase>
+}
+Common_citizen_282 {
+Merci pour ça, au moins.
+}
+Common_citizen_283 {
+Capitaine, j’ai besoin de me rendre à la colonie de @<XI_ConvertString>, sur @<XI_ConvertString>, dans @<FindDaysString>. Votre navire semble rapide et fiable. Je suis prêt à payer @<FindMoneyString> pour le voyage. Qu’en dites-vous?
+}
+Common_citizen_284_m {
+Je suppose que je suis d’accord. Un peu d’argent en plus ne fait jamais de mal.
+}
+Common_citizen_284_f {
+Je suppose que je suis d’accord. Un peu d’argent en plus ne fait jamais de mal.
+}
+Common_citizen_285 {
+Désolé, @<GetAddress_FormToNPC>, mais je pars dans une toute autre direction. Je ne peux pas vous aider.
+}
+Common_citizen_286 {
+Dommage. Eh bien, j’attendrai un autre navire. Adieu!
+}
+Common_citizen_287 {
+Bonne continuation.
+}
+Common_citizen_288 {
+Je suis très heureux que vous ayez accepté. Nous réglerons cela une fois arrivés, si cela vous convient?
+}
+Common_citizen_289 {
+Non, ça ne me dérange pas. Rendez-vous sur mon navire, @<GetAddress_FormToNPC>. Nous prendrons la mer bientôt.
+}
+Common_citizen_290 {
+@<XI_ConvertString>, celui sur @<XI_ConvertString>.
+}
+Common_citizen_291 {
+Vous avez tenu votre part du marché, je vais tenir la mienne. Voici votre argent, capitaine, et merci pour ce voyage agréable!
+}
+Common_citizen_292 {
+Je vous en prie, @<GetAddress_FormToNPC>! Tous mes vœux.
+}

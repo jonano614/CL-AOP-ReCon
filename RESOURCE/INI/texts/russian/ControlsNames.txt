@@ -1,0 +1,217 @@
+;//Обновлено. (20.07.2024)
+
+;<=============================[ Control Groups ]=============================>
+
+HelpChooser {Выбор раздела помощи}
+MainInterface {Управление в интерфейсах}
+DialogControls {Диалог}
+WorldMapControls {Карта мира}
+BattleInterfaceControls {Управление в интерфейсах}
+Sailing1Pers {Море от 1го лица}
+Sailing3Pers {Море от 3го лица}
+FightModeControls {Режим боя}
+PrimaryLand {Управление на земле}
+
+;<================[ Море от 1го лица ] и [ Море от 3го лица ]=================>
+
+ShipCamera_Forward {Приближение камеры к кораблю}
+ShipCamera_Backward {Удаление камеры от корабля}
+DeckCamera_Turn_V {Вертикальный поворот камеры (вид с палубы)}
+DeckCamera_Turn_H {Горизонтальный поворот камеры (вид с палубы)}
+ShipCamera_Turn_V {Вертикальное перемещение камеры за кораблём}
+ShipCamera_Turn_H {Горизонтальное перемещение камеры за кораблём}
+DeckCamera_Forward {Вперёд (вид с палубы)}
+DeckCamera_Backward {Назад (вид с палубы)}
+Ship_TurnLeft {Поворот корабля влево}
+Ship_TurnRight {Поворот корабля вправо}
+Ship_SailUp {Поднять паруса}
+Ship_SailDown {Убрать паруса}
+Ship_Fire {Пушечный залп}
+Sea_CameraSwitch {Переключить камеру 'за кораблём' / 'на палубе'}
+Sea_CameraSwitchShort {Переключить камеру}
+Sea_CameraShip {за кораблём}
+Sea_CameraDeck {на палубе}
+Telescope {Использовать подзорную трубу}
+TelescopeIn {Включить / приблизить подзорную трубу}
+TelescopeOut {Выключить / отдалить подзорную трубу}
+TelescopeZoom {Приблизить / отдалить}
+Interface {Меню персонажа}
+CharacterShipMenu {Меню корабля персонажа}
+LogbookMenu {Меню судового журнала}
+ItemsMenu {Меню предметов}
+NationsMenu {Меню наций}
+MainMenu {Главное меню}
+MainMenuDouble {Главное меню}
+MiniMapZoomIn {Увеличить масштаб миникарты}
+MiniMapZoomOut {Уменьшить масштаб миникарты}
+BIFastCommand {Выполнить быструю команду}
+hk_charge1 {Зарядить орудия ядрами}
+hk_charge2 {Зарядить орудия картечью}
+hk_charge3 {Зарядить орудия книппеллями}
+hk_charge4 {Зарядить орудия бомбами}
+hk_perk1 {Активация способности 'Манёвренный разворот корабля'}
+hk_perk2 {Активация способности 'Предварительная перезарядка'}
+hk_perk3 {Активация способности 'Экстренный ремонт'}
+hk_perk4 {Активация способности 'Латание пробоин'}
+hk_cabin {Перейти в каюту капитана}
+Ship_Select {Выбор корабля}
+Order_Select {Выбор приказа}
+FireZoneKey {Отобразить зоны стрельбы орудий}
+FireZoneKeyHide {Скрыть зоны стрельбы орудий}
+
+;<==========================[ Управление на земле ]===========================>
+
+ChrCamTurnV {Вертикальное перемещение камеры за персонажем}
+ChrCamTurnH {Горизонтальное перемещение камеры за персонажем}
+ChrCamCameraSwitch {Изменение режима камеры 'за персонажем' / 'вид из глаз'}
+ChrAction {Выполнить действие}
+ChrForward {Идти вперёд}
+ChrBackward {Идти назад}
+ChrStrafeLeft {Шаг влево}
+ChrStrafeRight {Шаг вправо}
+ChrSprint {Спринт}
+ChrFightMode {Включение / выключение боевого режима}
+BOAL_UsePotion {Восстановить здоровье}
+UseAntidote {Использовать противоядие}
+BOAL_DeadSearch {Обыск трупа}
+OfficersCharge {Приказ офицерам : Атаковать врагов}
+OfficersHold {Приказ офицерам : Стоять на месте}
+OfficersFollow {Приказ офицерам : Следовать}
+Say {Закупка товаров}
+AlchemyKey {Алхимия}
+MapView {Атлас карт}
+
+AltModificator {Нажмите кнопку для включения общего модификатора}
+AltModificatorOff {Отпустите кнопку для отключения общего модификатора}
+Fast_store {Быстрый переход: Магазин (модификатор)}
+Fast_Shipyard {Быстрый переход: Верфь (модификатор)}
+Fast_tavern {Быстрый переход: Таверна (модификатор)}
+Fast_townhall {Быстрый переход: Резиденция (модификатор)}
+Fast_bank {Быстрый переход: Ростовщик (модификатор)}
+Fast_church {Быстрый переход: Церковь (модификатор)}
+Fast_Brothel {Быстрый переход: Бордель (модификатор)}
+Fast_PortOffice {Быстрый переход: Портовое управление (модификатор)}
+Fast_prison {Быстрый переход: Тюрьма (модификатор)}
+Fast_Port {Быстрый переход: Порт (модификатор)}
+
+;<===============================[ Режим боя ]================================>
+
+ChrForward1 {Идти вперёд (альтернативная)}
+ChrBackward1 {Идти назад}
+ChrRunStick {Спринт}
+BOAL_ActivateRush {Активация способности 'Берсерк'}
+HK_SecondWind {Активация способности 'Второе дыхание'}
+ChrBlock {Блок}
+ChrAltAttackBase {Удар / Круговой удар}
+ChrAttackBreakBase {Пробивающий удар / Финт}
+ChrAttackBase {Выпад / Парирование}
+ChrAttackChoseBase {Переключатель ударов}
+ChrAttackFient {Финт (альтернативная)}
+ChrParry {Парирование (альтернативная)}
+ChrFire {Произвести выстрел}
+ChrAiming {Прицеливание (удерживать)}
+ChrAimingShot {Выстрелить}
+
+
+RunLootCollector {Использовать 'Быстрый сбор трофеев'}
+
+;<============================================================================>
+
+CharacterCamera_Forward {Приблизить камеру к персонажу}
+CharacterCamera_Backward {Отдалить камеру от персонажа}
+ChrSwitchFightMode {Переключение режимов 'Сабля и пистолет' / 'Мушкет'}
+SwitchCameraOffset {Изменение режима камеры 'за персонажем' / 'вид из глаз'}
+ChrSwitchWalk {Переключение режимов 'Бег' / 'Ходьба'}
+
+
+DeckCamera_Left {Левый стрейф (вид с палубы)}
+DeckCamera_Right {Правый стрейф (вид с палубы)}
+ChrTurnH {Поворот персонажа}
+ChrTurnV {Движение персонажа}
+ChrTurnHL {Поворот персонажа влево}
+ChrTurnHR {Поворот персонажа вправо}
+
+
+
+
+
+
+ChrRecoil {Отскок}
+ChrAttackForce {Выпад}
+ChrAttackFast {Удар}
+ChrAttackRound {Круговой удар}
+ChrAttackBreak {Пробивающий удар}
+
+ChrAttackRoundBase {Круговой удар}
+
+
+
+
+
+
+
+
+
+
+
+
+BI_MapEnter {Выход на карту}
+WMapTurnH {Вращение камеры вокруг корабля (в режиме карты)}
+WMapTurnV {Высота камеры (в режиме карты)}
+WMapCameraRotate {Включение режима скольжения / вращения камеры}
+WMapForward {Приближение камеры}
+WMapBackward {Удаление камеры}
+WMapCameraSwitch {Переключение режима обзора}
+WMapShipSailUp {Плыть вперёд}
+WMapShipSailDown {Плыть назад}
+WMapShipTurnLeft {Поворот влево}
+WMapShipTurnRight {Поворот вправо}
+WMapCancel {Выход из карты в море}
+TimeScaleOn {Ускорить время}
+TimeScaleOff {Отключить ускорение}
+TimeScale {Ускорение/замедление времени}
+TimeScaleFasterBA {Ускорение времени}
+TimeScaleSlowerBA {Замедление времени}
+
+
+Help {Вызов справки по игре}
+
+
+BICommandsActivate {Командное меню}
+LICommandsActivate {Командное меню}
+BICommandsActivateAdd {Командное меню (альтернативная)}
+BICommandsConfirm {Выбрать команду}
+BICommandsCancel {Отменить команду}
+BICommandsConfirmAdd {Выбрать команду (альтернативная)}
+BICommandsCancelAdd {Отменить команду (альтернативная)}
+BICommandsLeft {Движение по командному меню влево}
+BICommandsRight {Движение по командному меню вправо}
+
+
+HelpChooser_Cancel {Выход из справки}
+HelpChooser_Action {Показать справку по текущему элементу}
+HelpChooser_Next {Переход к следующему элементу справки}
+HelpChooser_Prev {Переход к предыдущему элементу справки}
+HelpChooser_Left {Влево (в режиме справки)}
+HelpChooser_Right {Вправо (в режиме справки)}
+HelpChooser_Up {Вверх (в режиме справки)}
+HelpChooser_Down {Вниз (в режиме справки)}
+DlgAction {Выбор ответа в диалоге}
+DlgAction1 {Выбор ответа в диалоге}
+DlgUp {Перейти к предыдущему варианту ответа в диалоге}
+DlgDown {Перейти к следующему варианту ответа в диалоге}
+DlgScrollUp {Пролистать строки диалога вниз}
+DlgScrollDown {Пролистать строки диалога вверх}
+
+hk_Cure {Использовать микстуру лечения}
+hk_Rush {Использовать способность 'Ярость'}
+
+;hk_ImmediateReload {Включить ускоренную перезарядку}
+;hk_LightRepair {Включить лёгкую починку}
+;hk_InstantRepair {Включить починку}
+;hk_Turn180 {Разворот на 180}
+;hk_SandbankManeuver {Включить манёвры на мели}
+
+
+
+

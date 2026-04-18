@@ -1,0 +1,525 @@
+Granie_1 {
+Que voulez-vous, Capitaine?
+}
+Granie_2 {
+Faites-moi un rapport complet sur le navire, @<GetStrSmallRegister>.
+}
+Granie_3 {
+Je veux que tu achètes certaines marchandises pendant que nous sommes à quai dans la colonie.
+}
+Granie_4 {
+Rien. Repos.
+}
+Granie_5 {
+Capitaine, quels marchandises? Il nous faut d’abord un navire!
+}
+Granie_6 {
+Oui, tu as raison.
+}
+Granie_7 {
+Capitaine, donnez-moi simplement une liste précise de marchandises et je m'assurerai de les acheter dès que nécessaire!
+}
+Granie_8 {
+Qu’est-ce que vous souhaitez acheter, Capitaine?
+}
+Granie_9 {
+@<RandPhraseSimple>
+}
+Granie_10 {
+Oui, voyons voir la marchandise.
+}
+Granie_11 {
+Capitaine, mais nous n’avons même pas de navire!
+}
+Granie_12 {
+Merci de me le rappeler...
+}
+Granie_13 {
+Activité maximale des rats pendant le voyage à @<FloatToString>%% de la cargaison. À @<FindSailorString>, il vous faut @<makeint> rations par jour. Cela n’inclut pas les esclaves transportés.
+}
+Granie_14 {
+Merci.
+}
+Granie_15 {
+Fouille d’abord le cadavre de Duran, on parlera après!
+}
+Granie_16 {
+Monsieur, ils ont pris mes derniers pièces de huit! Les 10 000! Sans elles, je suis perdu de toute façon...
+}
+Granie_17 {
+Nous le trouverons bientôt...
+}
+Granie_18 {
+Merci, monsieur. Puis-je connaître le nom de mon sauveur?
+}
+Granie_19 {
+Je vous salue. Je m'appelle Michel de Grammont, et vous devez être le célèbre Jean-Jacques Garnier, celui qui m’a fait parcourir tout l’archipel?
+}
+Granie_20 {
+Oui, c’est bien moi. Merci, mais puis-je demander : à quoi dois-je un tel intérêt pour ma modeste personne?
+}
+Granie_21 {
+Si ce n’était pas pour le gouverneur de Tortuga, qui m’a envoyé à ta poursuite jusqu’à la Martinique, je ne crois pas que je te devrais encore quoi que ce soit.
+}
+Granie_22 {
+Eh bien, regarde-moi ça! On dirait que la chance est de mon côté. On peut dire que je suis né sous une bonne étoile.
+}
+Granie_23 {
+Au fait, l’argent que j’ai trouvé sur eux—je suppose qu’il t’appartient. Je n’ai pas besoin de ce qui n’est pas à moi.
+}
+Granie_24 {
+Merci, mais pour être juste, la moitié de cet argent te revient de droit.
+}
+Granie_25 {
+Merci, je serais fou de refuser. Voulez-vous me dire ce qui vous est arrivé?
+}
+Granie_26 {
+Je vous dirai tout, mais emmenez-moi d’abord à Fort-de-France. J’ai des affaires urgentes à régler chez moi. Je vais aussi me remettre en ordre—je ne peux pas me présenter devant Son Excellence dans cet état. Nous pourrons tout discuter en route, quand la situation sera plus calme.
+}
+Granie_27 {
+Très bien, alors ne perdons pas de temps.
+}
+Granie_28 {
+Mon ami, pourquoi ne me racontes-tu pas ce qui t’est arrivé?
+}
+Granie_29 {
+Il m’est arrivé quelque chose que personne ne croirait si je le racontais. Je naviguais simplement sur mon brigantin, je m’occupais de mes affaires, transportant des marchandises, mais la chance n’était pas de mon côté—mon commerce n’a jamais décollé. J’ai donc décidé de demander un prêt à l’usurier du coin. Comment aurais-je pu savoir qu’une bande entière contrôlait l’endroit?
+}
+Granie_30 {
+Pour une raison ou une autre, c’est exactement ce que je pensais. Très bien, continue.
+}
+Granie_31 {
+Je suis allé voir le prêteur sur gages. Je pensais qu’il commencerait à marchander, à augmenter les intérêts. Mais non. Il s’est contenté de me sourire et de me demander combien je voulais, et les intérêts qu’il a proposés étaient dérisoires.\nAlors j’ai emprunté dix mille chez lui, en me disant que je pourrais filer et rembourser plus tard. Je suis arrivé à Santo Domingo, j’ai rempli la cale de mon navire de marchandises, puis j’ai repris la mer — tout sourire, comptant déjà mes profits dans ma tête. Mais à peine avais-je quitté l’île que les ennuis ont commencé, comme si l’endroit était maudit.
+}
+Granie_32 {
+Très intéressant, mais pourquoi l’appelez-vous ensorcelé?
+}
+Granie_33 {
+J’avais entendu des histoires sur des marchands et leurs navires qui disparaissaient près de l’île, mais je n’y avais jamais vraiment cru.\nPuis, alors que nous approchions de la ville, deux goélettes pirates nous ont attaqués. L’une s’appelait 'Pluto'—le même navire que les pirates avaient utilisé pour m’emmener à Turks—et l’autre, 'Black Twister.'\nAvant que nous ayons compris ce qui se passait, notre mât était déjà abattu et ils étaient montés à bord. Il n’y a presque pas eu de combat sur le pont. J’ai à peine eu le temps de donner deux coups d’épée avant d’être assommé. Nous n’avions aucune chance.
+}
+Granie_34 {
+Eh bien, voilà une surprise! Et juste avant d’accoster, en plus! Franchement, je ne m’attendais pas à tant d’audace.
+}
+Granie_35 {
+Personne ne l’avait vu venir. Je me suis réveillé sur le pont—le navire flottait encore, mais il n’y avait plus âme qui vive à bord, la cale entièrement vidée. Tu peux imaginer ce que j’ai ressenti?
+}
+Granie_36 {
+Oui, on croirait rêver. Ton équipage a sans doute été vendu comme esclave. Comment tu as réussi à survivre, ça reste un mystère.
+}
+Granie_37 {
+Vivant, tu dis? En fait, l’histoire ne s’arrête pas là. Ils n’avaient jamais eu besoin de me tuer. Ils ont tout orchestré à la perfection, comme une mélodie bien rodée. D’abord, ils m’ont noyé sous les dettes, et une fois qu’ils m’avaient tout pris, ils ont fini par me prendre la vie aussi.
+}
+Granie_38 {
+Eh bien, ça alors, quelle surprise—qu’ils finissent tous avec une ancre dans le dos! On voit bien qu’il y a quelqu’un derrière tout ça, plus rusé que le flibustier moyen.
+}
+Granie_39 {
+Écoute la suite. J’ai réussi tant bien que mal à ramener le navire au port, je suis allé voir l’usurier, je lui ai expliqué ce qui s’était passé, et il me sort : « Tu as sûrement tout bu, et maintenant tu viens mendier un délai. »\nIl m’a accordé un report, ce salaud, mais avec des intérêts tels qu’au bout d’une semaine, ma dette avait doublé!
+}
+Granie_40 {
+Je parie qu’ils avaient tout prévu avec toi — tu es tombé droit dans un vrai piège à loups!
+}
+Granie_41 {
+Dans la gueule du loup, sans aucun doute — sauf qu’eux-mêmes étaient des loups. En moins d’une semaine, toutes sortes de gens louches se sont mis à me traquer.\nD’abord, ils m’ont forcé à signer la vente du navire, puis ils m’ont tout simplement emmené à Puerto Principe, où ils m’ont tourmenté et torturé jusqu’à ce que je révèle où j’avais caché l’argent sur cette île que tu connais si bien.
+}
+Granie_42 {
+Mais comment ont-ils découvert que tu avais des économies?
+}
+Granie_43 {
+Eh bien, ce n’est pas difficile à deviner. Presque tous les capitaines mettent de l’argent de côté dès qu’ils le peuvent—pas seulement à la banque, mais dans un endroit encore plus sûr.\nEt pourquoi? Pour les mauvais jours, ou peut-être pour profiter de la belle vie—tout dépend de leur chance. Quant à la suite de l’histoire, vous la connaissez sans doute mieux que moi.
+}
+Granie_44 {
+Je sais, tu as raison. Je pense que l’usurier joue un rôle assez important dans toute cette affaire. Une fois arrivés à Fort-de-France, nous examinerons ta dette de près—et nous aurons aussi une petite conversation avec lui.
+}
+Granie_45 {
+Je vous en serais vraiment reconnaissant, de Gramont. Je sens que je n’y arriverai pas seul—j’admets mon impuissance.
+}
+Granie_46 {
+D’accord, ne te décourage pas. Repose-toi et reprends des forces.
+}
+Granie_47 {
+Merci pour tout, de Gramont. Je te serai redevable toute ma vie.
+}
+Granie_48 {
+Oh, ce n’est rien — je suis content d’avoir pu vous aider.
+}
+Granie_49 {
+Laissez-moi quelques jours pour régler mes affaires personnelles, puis retrouvons-nous à la taverne du coin, portons un toast à cela, et je serai entièrement à votre service.
+}
+Granie_50 {
+Parfait, on se retrouve à la taverne dans trois jours.
+}
+Granie_51 {
+Salutations, mon ami. Commençons par une chope de rhum, puis je suis prêt à prendre la mer.
+}
+Granie_52 {
+Avec plaisir.
+}
+Granie_53 {
+Savez-vous pourquoi le gouverneur a besoin de moi?
+}
+Granie_54 {
+Ils ne m'ont rien dit de précis. Ils m'ont juste demandé de t'amener ici, c'est tout.
+}
+Granie_55 {
+Je me demande pourquoi quelqu’un d’aussi puissant aurait besoin de moi. Je n’arrive pas à comprendre.
+}
+Granie_56 {
+Eh bien, d’un point de vue logique, ce n’est pas difficile à comprendre. L’archipel est agité en ce moment — les Espagnols et les Hollandais cherchent sans cesse à attaquer les navires français. Dernièrement, ils ont même commencé à piller des colonies françaises.
+}
+Granie_57 {
+Je crois comprendre où tu veux en venir.
+}
+Granie_58 {
+Exactement. Tu es un canonnier professionnel, et je pense qu’il y aura toujours du travail pour toi.
+}
+Granie_59 {
+Très bien, nous le saurons bientôt. Je suis prêt.
+}
+Granie_60 {
+Très bien, mettons le cap sur Tortuga.
+}
+Granie_61 {
+Salut, mon ami, je t’attendais.
+}
+Granie_62 {
+Bonjour, ravi de te voir. Comment s'est passée ta conversation avec le gouverneur?
+}
+Granie_63 {
+Tu sais, on avait raison à l’époque — il m’a bien proposé un poste.
+}
+Granie_64 {
+Je me demande, à quel titre? Peut-être comme commandant de la ville? Ha ha ha!
+}
+Granie_65 {
+Vous savez, votre plaisanterie n’est pas si éloignée de la vérité. Imaginez : assistant du commandant de la garnison du fort, responsable de l’artillerie. Mais je ne peux pas dire que cela me surprenne tant que ça. Je suis un noble, ancien officier de la Royal Navy.
+}
+Granie_66 {
+Eh bien, ça alors! J’ignorais que ton passé comptait de si beaux faits d’armes. Servir la Couronne n’est pas rien, mais en même temps… toute cette routine et cette discipline, à force, on en oublierait presque comment tirer.
+}
+Granie_67 {
+Eh bien, c’est à peu près ce que je lui ai dit.
+}
+Granie_68 {
+Ah, alors tu l’as repoussé?! Et comment l’a-t-il pris?
+}
+Granie_69 {
+Dans l’ensemble, ça va! Il a dit que si je changeais d’avis, sa proposition tient toujours.
+}
+Granie_70 {
+Eh bien, félicitations! Alors, qu’as-tu prévu de faire maintenant?
+}
+Granie_71 {
+J’espérais rejoindre votre équipage. Accepteriez-vous de me prendre comme canonnier?
+}
+Granie_72 {
+Avec grand plaisir! Pour être honnête, j’avais pensé te le proposer moi-même, mais j’avais peur que tu refuses, alors je n’ai rien dit.
+}
+Granie_73 {
+Tu ne devrais pas dire ça. J’ai enfin trouvé quelqu’un sous les ordres de qui je servirai volontiers.
+}
+Granie_74 {
+Pas de problème, alors! Tu peux jeter un œil à l’artillerie de notre navire pendant que je rends rapidement visite au gouverneur.
+}
+Granie_75 {
+Marché conclu! On se retrouve sur le navire.
+}
+Granie_76 {
+Alors, capitaine, quelles sont les nouvelles?
+}
+Granie_77 {
+Quelles nouvelles? Rien de concret pour l’instant, si ce n’est que nous devons fouiller la côte. Nous pouvons quand même longer le rivage — s’il y a quelqu’un, ils devraient nous faire signe d’une manière ou d’une autre.
+}
+Granie_78 {
+Faisons comme ça, capitaine.
+}
+Granie_79 {
+Capitaine, j’ai l’impression que nous allons errer ainsi dans le vide pendant longtemps. J’ai une suggestion.
+}
+Granie_80 {
+Parle, Granye. Je soutiendrai toute proposition raisonnable.
+}
+Granie_81 {
+Capitaine, je vous propose la chose suivante. Nos provisions diminuent et l’équipage commence à râler. Je vois bien que vous êtes impatient de vous lancer dans une aventure digne d’un corsaire.\nQuant à moi, je pourrais rester ici et essayer de recueillir autant d’informations utiles que possible. Pourriez-vous m’accorder deux hommes pour cela?
+}
+Granie_82 {
+C’est une bonne idée. Prends autant d’hommes et d’argent dans la caisse du navire que nécessaire.
+}
+Granie_83 {
+Merci pour les hommes, Capitaine, mais je vais me débrouiller avec mon propre argent pour l’instant. Ici, il ne faut pas grand-chose : un mot bien placé et deux chopes de rhum, c’est tout ce qu’il faut.
+}
+Granie_84 {
+Tu as raison, après tout. J’espère que tu réussiras.
+}
+Granie_85 {
+Je l’espère aussi, Capitaine. Retrouvons-nous à la taverne dans quelques semaines. Si quelque chose change et que je dois partir, je laisserai un message là-bas, à la taverne.
+}
+Granie_86 {
+Adieu, mon ami, et bonne chance à toi.
+}
+Granie_87 {
+Bonne chance à vous aussi, Capitaine. J’espère que vous ne perdrez pas votre temps. Tremblez, galions espagnols! Ha ha ha!
+}
+Granie_88 {
+Bonjour, Capitaine. Heureux de vous voir.
+}
+Granie_89 {
+Content de te voir, canonnier. Des nouvelles?
+}
+Granie_90 {
+Il y a des nouvelles, Capitaine. Allons voir l’aubergiste du coin — vous l’entendrez directement à la source, pour ainsi dire.
+}
+Granie_91 {
+Bien joué, canonnier. Je savais que je pouvais compter sur toi.
+}
+Granie_92 {
+Tout va bien, Capitaine. Comme je le pensais, quelques chopes de rhum et quelques pièces ont suffi. On trouve des gars observateurs partout—l’un d’eux a dit qu’un navire correspondant à la description avait accosté à Cumana. Après ça, il n’a fallu qu’un peu d’habileté, comme on dit, et un brin de chance.
+}
+Granie_93 {
+Très bien, rends-toi au navire. Je vais aller voir le geôlier. Si je ne suis pas de retour ce soir, je pense que tu sais ce qu’il te reste à faire.
+}
+Granie_94 {
+Vous feriez mieux de retourner, Capitaine, sinon il ne restera du fort et de la ville qu’un tas de ruines.
+}
+Granie_95 {
+Tu as bien compris. Mais ne me frappe pas, hein-hein.
+}
+Granie_96 {
+Vous me blessez, capitaine. J’ai l’œil vif!
+}
+Granie_97 {
+Capitaine, n’êtes-vous pas fatigué de voguer en mer sans nous?
+}
+Granie_98 {
+Comment as-tu réussi à me retrouver?
+}
+Granie_99 {
+Ce n’est pas un grand mystère. Il y a des yeux et des oreilles partout. Quelques braves gens en ville ont dit que tu étais entré dans la maison, mais que tu n’en es pas ressorti par toi-même.
+}
+Granie_100 {
+C’est ça. Ils m’ont attaqué avant que je puisse faire quoi que ce soit.
+}
+Granie_101 {
+Heureusement que quelqu’un a eu l’idée de noter où on t’a embarqué sur cette coquille, et de nous prévenir—contre une modeste récompense.
+}
+Granie_102 {
+Comment avez-vous réussi à nous rattraper aussi vite?
+}
+Granie_103 {
+Le navire était prêt pour le voyage. Le plus difficile a été de rassembler l’équipage. Les gars s’étaient détendus, dispersés on ne sait où, mais il faut leur reconnaître ceci : tous ceux que nous avons pu prévenir sont venus aussitôt. Malgré tout, nous n’avons maintenant que la moitié d’un équipage, à peine de quoi manœuvrer le navire.
+}
+Granie_104 {
+Je vois. Si un vrai combat éclate, nous n’avons même pas assez d’équipage pour former une équipe d’abordage.
+}
+Granie_105 {
+Vous réfléchissez clairement, Capitaine. Mais il y a une exception : toute mon équipe de canonniers est là!
+}
+Granie_106 {
+Je n'ai jamais douté de toi. Pourtant, c'est dommage d'abandonner la goélette, même si elle ne nous sert pas à grand-chose.
+}
+Granie_107 {
+Quelles sont vos ordres, Capitaine?
+}
+Granie_108 {
+Laissons cette bande décider de son propre sort. Ceux qui se rangent de notre côté auront le commandement du sloop. Les autres — direction la cale, ils finiront esclaves. D’ailleurs, j’ai déjà quelqu’un en tête pour être capitaine de cette épave.
+}
+Granie_109 {
+Capitaine, si vous parlez de moi, vous savez bien que la navigation, ce n’est pas vraiment mon domaine. Les canons, ça, c’est mon affaire.
+}
+Granie_110 {
+Non, Granier. Je n’ai pas l’intention de me séparer de toi, mon ami. Tiens, laisse-moi te présenter—Nicolas van Hoorn, un Hollandais au service de la France.
+}
+Granie_111 {
+Ravi de vous rencontrer.
+}
+Granie_112 {
+Confions-lui donc le commandement du navire.
+}
+Granie_113 {
+Capitaine, j’ai entendu dire que les soldats vous avaient attrapé!
+}
+Granie_114 {
+Qui a dit ça?
+}
+Granie_115 {
+Il y a toujours une âme charitable pour quelques pièces. Je vois que tu vas bien. Je commençais à m’inquiéter.
+}
+Granie_116 {
+Oui, mon pote, pour l’instant tout s’est arrangé. Ce soir, je vais chez le commandant de la garnison, alors si jamais il se passe quelque chose… tu sais où me trouver.
+}
+Granie_117 {
+Eh bien, comme le veut la coutume, capitaine. Nous ne vous laisserons pas dans l’embarras, vous pouvez en être sûr.
+}
+Granie_118 {
+Aucun doute là-dessus. Pour l’instant, tu peux traîner avec l’équipage, mais ne bois pas trop.
+}
+Granie_119 {
+Capitaine, avez-vous réussi à découvrir quelque chose d’utile? Nous n’avons encore aucune information.
+}
+Granie_120 {
+J’ai le sentiment d’être sur une piste.
+}
+Granie_121 {
+Excellent, Capitaine. Quelles sont vos instructions?
+}
+Granie_122 {
+Le soir, je suis invité à jouer gros dans une petite maison près des quais. Plus tôt à la taverne, quelqu’un m’a glissé une information : il n’y a pas longtemps, un marchand s’est fait complètement plumer là-bas. Je pense que c’est exactement ce qu’il nous faut. J’ai le sentiment qu’un gang local est derrière tout ça.
+}
+Granie_123 {
+Capitaine, on vous a déjà invité à visiter une maison à Tortuga une fois. Vous vous souvenez comment cela s’est terminé?
+}
+Granie_124 {
+La dernière fois, j’étais seul, mais cette fois, nous allons procéder autrement. Une douzaine de compagnons fidèles encercleront discrètement la cabane, et à mon signal, tu pourras entrer et maîtriser tout le monde.
+}
+Granie_125 {
+Et quel sera le signal?
+}
+Granie_126 {
+Si je ne ressors pas prendre l’air d’ici trois heures, n’hésitez pas à entrer. Et encore une chose… On peut laisser entrer qui on veut dans la maison, mais personne ne doit en sortir. C’est bien compris?
+}
+Granie_127 {
+Bien plus que cela, capitaine.
+}
+Granie_128 {
+Alors vous voilà, Capitaine, en train de prendre le soleil pendant qu’on vous cherchait partout. Voici vos armes et votre équipement.
+}
+Granie_129 {
+Hé, les amis! Vous prenez tout votre temps pour libérer votre capitaine de sa captivité.
+}
+Granie_130 {
+Capitaine, comme vous l’aviez dit, nous avons attendu calmement près de la maison. Quand vous n’êtes pas venu, nous sommes entrés comme convenu.
+}
+Granie_131 {
+Je plaisante, tout va bien. Alors, sur quels idiots sommes-nous tombés cette fois?
+}
+Granie_132 {
+Capitaine, certains ont commencé à se battre, alors on a peut-être un peu exagéré, mais il semble que personne n’ait été tué.
+}
+Granie_133 {
+C’est bien qu’ils n’aient pas été tués. Amenez-moi leur chef—je veux lui parler sérieusement.
+}
+Granie_134 {
+Oui, capitaine.
+}
+Granie_135 {
+Capitaine, il ne reste pas une âme vivante sur tout le navire—seulement des tas de cadavres partout, et pas une goutte de sang. De la sorcellerie, rien d’autre. Impossible de savoir ce qui les a tués, mais partons vite d’ici, cet endroit me fiche la chair de poule.
+}
+Granie_136 {
+Calme-toi, Jacques. Tout est expliqué dans cette lettre du capitaine défunt. Tiens, lis-la...
+}
+Granie_137 {
+Eh bien, c’est une surprise...
+}
+Granie_138 {
+Oui, il paraît que les choses se sont passées comme ça...
+}
+Granie_139 {
+J'en ai vu beaucoup dans ma vie, mais jamais rien de tel!
+}
+Granie_140 {
+Je n’ai aucune idée de ce qu’on est censés faire maintenant.
+}
+Granie_141 {
+Nous devons retourner voir le gouverneur et faire notre rapport sur la situation...
+}
+Granie_142 {
+Alors ils pourront nous accuser d’avoir volé la pierre? Ils diront qu’on a tout manigancé, qu’on a pris la pierre pour nous et qu’on a envoyé Hank par le fond. Tu sais comment sont les autorités : elles n’écoutent rien.
+}
+Granie_143 {
+C’est vrai, ils ne perdront pas de temps à chercher à comprendre… une lettre n’est pas une preuve.
+}
+Granie_144 {
+D’un autre côté, nous ne pouvons pas simplement aller voir le gouverneur de Havana et exiger qu’il nous livre le fameux Garcia pour avoir empoisonné l’équipage du pirate Hank.
+}
+Granie_145 {
+Ha ha ha! Votre sens de l’humour est intact, capitaine. Là-bas, on nous accueillera à bras ouverts… et avec des cordes autour du cou.
+}
+Granie_146 {
+Il ne reste plus qu’une option : attaquer Havana, et frapper fort en prenant le fort.
+}
+Granie_147 {
+Attaquer Havana? Ils nous écraseront...
+}
+Granie_148 {
+Je ne vois pas d’autre solution. Si on commence à rôder et à chercher où se trouve ce Garcia, au bout de deux jours, c’est sûr, on nous dénoncera comme espions. Et les espions, ils ne leur parlent pas longtemps.
+}
+Granie_149 {
+Oui, mais le fort...
+}
+Granie_150 {
+Ils sont convaincus que leur forteresse est imprenable, mais nous allons leur prouver le contraire. Une fois que nous aurons pris d’assaut le fort et que nous entrerons dans la ville en vainqueurs, c’est nous qui dicterons les conditions. Et quand ils comprendront la raison de tout ce tumulte, ils livreront sa tête eux-mêmes—rien que pour nous empêcher de mettre leur ville à sac.
+}
+Granie_151 {
+Oui, mais le fort...
+}
+Granie_152 {
+Pourquoi tu ne parles que de forts, encore et encore! Dis-moi, à quoi ça sert d’avoir le meilleur canonnier de tout l’archipel et mon ami Jean-Jacques Granier dans mon équipage, bon sang?
+}
+Granie_153 {
+Michel, merci de croire en moi, mais ce fort... Eh bien... On va le prendre.
+}
+Granie_154 {
+Maintenant, tout est parfaitement en ordre. Et je n’ai aucun doute que nous allons gagner.
+}
+Granie_155 {
+Je vais aller jeter un autre coup d'œil aux canons.
+}
+Granie_156 {
+Comment ça va, Capitaine? Avez-vous réussi à découvrir quelque chose?
+}
+Granie_157 {
+L’entretien avec le gouverneur ne s’est pas bien passé — il refuse de nous aider, alors nous devrons nous débrouiller seuls. Je laisse les gars libres de s’amuser dans ce beau repaire castillan. Je parie que le gouverneur regrettera plus d’une fois sa décision précipitée.
+}
+Granie_158 {
+C’est imprudent de sa part.
+}
+Granie_159 {
+Capitaine, il faut rejoindre le navire de Garcia tout de suite. S’il n’y est pas, au moins nous pourrons interroger les gardes. Il est impossible que le navire soit sans surveillance.
+}
+Granie_160 {
+Il y a quelque chose que je ne comprends pas : pourquoi s’est-elle tournée vers toi plutôt que vers moi?
+}
+Granie_161 {
+Je ne sais pas, Capitaine, peut-être qu'elle m'a trouvé à son goût.
+}
+Granie_162 {
+Une fois le travail terminé, je t’accorderai quelques jours de repos. Tu pourras aller lui rendre visite, si tu n’as pas peur. Comme si elle te livrerait un jour à la Sainte Inquisition.
+}
+Granie_163 {
+Elle ne se rendra pas si facilement...
+}
+Granie_164 {
+Capitaine, devons-nous les envoyer au mât de hune?
+}
+Granie_165 {
+Attends, laisse-moi réfléchir...
+}
+Granie_166 {
+Je pars en reconnaissance. Enfermez ceux-là dans la cale et placez un garde. Dites à l’équipage de ne pas traîner en ville—on pourrait avoir besoin du navire à tout moment. Et il n’y a aucune raison qu’ils restent dans une ville hostile de toute façon.
+}
+Granie_167 {
+Et comment vas-tu t’en sortir sans moi? Peut-être que je devrais venir avec toi?
+}
+Granie_168 {
+On a besoin de vous ici. Profitez-en pour fouiller ce navire à la recherche de la pierre. Mais il y a de fortes chances qu’il l’ait emportée avec lui. Il ne s’en séparera plus jusqu’à sa mort.
+}
+Granie_169 {
+Très bien, nous ferons tout comme il faut.
+}
+Granie_170 {
+Alors, Michel, qu’en penses-tu — est-ce qu’on va s’en sortir?
+}
+Granie_171 {
+On va s’en sortir! Notre heure n’est pas encore venue, je le sens au plus profond de moi.
+}
+Granie_172 {
+Comment va Nicholas?
+}
+Granie_173 {
+Ça me paraît correct, je pense. Le médecin a dit que la blessure n’était pas mortelle, même si elle est grave. Il a perdu beaucoup de sang, mais il s’en sortira. Je l’ai déjà renvoyé sur son navire sous la surveillance du second. Le garçon est jeune, mais il sait ce qu’il fait.
+}
+Granie_174 {
+Dans ce cas, général de Gramont, je vous informe que l’artillerie est entièrement prête au combat. Nous attendons l’ennemi pour leur infliger la raclée de leur vie.
+}
+Granie_175 {
+Très bien, mon ami. Dans ce cas, on met les voiles.
+}

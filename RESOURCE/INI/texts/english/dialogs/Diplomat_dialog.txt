@@ -1,0 +1,474 @@
+Diplomat_dialog_1 {
+Glad to see you again.
+}
+Diplomat_dialog_2 {
+I need your services again.
+}
+Diplomat_dialog_3 {
+They’re looking for you everywhere! If I were you, I wouldn’t stick around here.
+}
+Diplomat_dialog_4 {
+Everyone here wants to punch you. I’m no fool, so I’m not talking to you!
+}
+Diplomat_dialog_5_m {
+Run, mate, before the pirates turn you into a sieve...
+}
+Diplomat_dialog_5_f {
+Run, lass, before the pirates turn you into a sieve...
+}
+Diplomat_dialog_6 {
+@<LinkRandPhrase>
+}
+Diplomat_dialog_7_m {
+What do you want, scoundrel?!
+}
+Diplomat_dialog_7_f {
+What do you want, you wench?!
+}
+Diplomat_dialog_8_m {
+Filthy murderer, get out of here! Guards!!
+}
+Diplomat_dialog_8_f {
+Filthy murderess, get out of here! Guards!!
+}
+Diplomat_dialog_9_m {
+I’m not afraid of you, scoundrel! Soon you’ll be swinging from the nearest palm tree—you won’t get far...
+}
+Diplomat_dialog_9_f {
+I’m not afraid of you, wench! Soon enough you’ll be swinging from the nearest palm tree—you won’t get far...
+}
+Diplomat_dialog_10 {
+@<LinkRandPhrase>
+}
+Diplomat_dialog_11 {
+Heh, a little alarm doesn’t bother me...
+}
+Diplomat_dialog_12 {
+They’ll never catch me.
+}
+Diplomat_dialog_13 {
+@<RandPhraseSimple>
+}
+Diplomat_dialog_14 {
+Shut your filthy mouth, or I'll rip out your rotten tongue!
+}
+Diplomat_dialog_15 {
+Heh, diplomat, here’s what I’ll tell you, mate: keep your head down and you’ll live...
+}
+Diplomat_dialog_16 {
+@<RandPhraseSimple>
+}
+Diplomat_dialog_17 {
+Tell me, have you come across any pages from the Maritime Encyclopedia?
+}
+Diplomat_dialog_18 {
+I have a question for you about the Dutch West India Company.
+}
+Diplomat_dialog_19 {
+Hm, pardon my forgetfulness. I'm here again about the Dutch West India Company.
+}
+Diplomat_dialog_20 {
+I need help restoring a very important document or deciphering it.
+}
+Diplomat_dialog_21 {
+I have a deal to propose.
+}
+Diplomat_dialog_22 {
+I'm leaving already.
+}
+Diplomat_dialog_23 {
+Allow me to introduce myself. I am the person who can put in a good word for you with any governor you wish. For a fee, of course, but trust me—my services are of the highest quality, and you won’t regret making use of my talents.
+}
+Diplomat_dialog_24 {
+Very interesting, go on.
+}
+Diplomat_dialog_25 {
+Since you’re so well-connected, tell me—have you ever come across any pages from the Maritime Encyclopedia?
+}
+Diplomat_dialog_26 {
+Maybe another time.
+}
+Diplomat_dialog_27 {
+State your terms.
+}
+Diplomat_dialog_28 {
+By a stroke of luck, I happen to have a perfectly legal set of ship’s papers—still unreported as stolen.
+}
+Diplomat_dialog_29 {
+@<s1> The ship is afloat and still on the register, don’t worry. It’s just that the owner’s a scatterbrain! Managed to lose those papers...
+}
+Diplomat_dialog_30_m {
+Let me have a look! Indeed, the marks are quite fresh. Well then, luck is on your side, sir!
+}
+Diplomat_dialog_30_f {
+Let me take a look! Indeed, the marks are quite fresh. Well then, luck is on your side, madam!
+}
+Diplomat_dialog_31 {
+@<s1> I happen to need just such a set, and in return, I offer you @<sti> in gold. What do you say?
+}
+Diplomat_dialog_32_m {
+Truly royal generosity! Of course I accept!
+}
+Diplomat_dialog_32_f {
+Truly royal generosity! Of course I accept!
+}
+Diplomat_dialog_33 {
+Probably not.
+}
+Diplomat_dialog_34 {
+Let’s see how I can help you.
+}
+Diplomat_dialog_35 {
+I want to make peace with England.
+}
+Diplomat_dialog_36 {
+I want to make peace with France.
+}
+Diplomat_dialog_37 {
+I want to make peace with Spain.
+}
+Diplomat_dialog_38 {
+I want to make peace with Holland.
+}
+Diplomat_dialog_39 {
+I want to make peace with the smugglers.
+}
+Diplomat_dialog_40 {
+I need a letter of marque.
+}
+Diplomat_dialog_41 {
+Do you have trade licenses?
+}
+Diplomat_dialog_42 {
+I have a question about settlement ownership.
+}
+Diplomat_dialog_43 {
+You know, I think I’ll manage on my own.
+}
+Diplomat_dialog_44 {
+Always in stock, for various durations. Which trade license are you interested in?
+}
+Diplomat_dialog_45 {
+of England
+}
+Diplomat_dialog_46 {
+of France
+}
+Diplomat_dialog_47 {
+of Spain
+}
+Diplomat_dialog_48 {
+of Holland
+}
+Diplomat_dialog_49 {
+You know, I think I’ll manage on my own.
+}
+Diplomat_dialog_50 {
+For how long?
+}
+Diplomat_dialog_51 {
+30 days
+}
+Diplomat_dialog_52 {
+60 days
+}
+Diplomat_dialog_53 {
+90 days
+}
+Diplomat_dialog_54_m {
+I’ve changed my mind.
+}
+Diplomat_dialog_54_f {
+I’ve changed my mind.
+}
+Diplomat_dialog_55 {
+So, a trade license from @<XI_ConvertString> for @<sti> days, price @<FindMoneyString>.
+}
+Diplomat_dialog_56 {
+That works for me.
+}
+Diplomat_dialog_57_m {
+I’ve changed my mind.
+}
+Diplomat_dialog_57_f {
+I’ve changed my mind.
+}
+Diplomat_dialog_58 {
+Here’s your document. You’ll need to enter the port under a friendly flag. Remember, the patrol might check if your license is still valid.
+}
+Diplomat_dialog_59 {
+Thank you.
+}
+Diplomat_dialog_60 {
+Excellent! Come to me when you have the required amount.
+}
+Diplomat_dialog_61 {
+Alright.
+}
+Diplomat_dialog_62 {
+Excellent! To do this, you must prove your loyalty to the crown through impeccable service. Go to any governor and complete a series of his tasks. After that, he will grant you a letter of marque.
+}
+Diplomat_dialog_63 {
+Tell me, @<GetAddress_FormToNPC>, is there any way to get around this formality?
+}
+Diplomat_dialog_64 {
+Farewell, @<GetAddress_FormToNPC>
+}
+Diplomat_dialog_65 {
+You mean bribing an official?! You want me to grant you a letter of marque myself?
+}
+Diplomat_dialog_66 {
+Exactly!
+}
+Diplomat_dialog_67 {
+No. All the best, @<GetAddress_FormToNPC>
+}
+Diplomat_dialog_68 {
+At the moment, I don’t have the connections to get hold of a blank patent form with all the official seals and signatures.
+}
+Diplomat_dialog_69 {
+Pity. Farewell, @<GetAddress_FormToNPC>
+}
+Diplomat_dialog_70 {
+Alright, I can arrange that. Which letter of marque do you need?
+}
+Diplomat_dialog_71 {
+of England
+}
+Diplomat_dialog_72 {
+of France
+}
+Diplomat_dialog_73 {
+of Spain
+}
+Diplomat_dialog_74 {
+of Holland
+}
+Diplomat_dialog_75 {
+You know, I think I’ll manage on my own.
+}
+Diplomat_dialog_76 {
+This is clearly a bug. If you see it, report it to ALexusB.
+}
+Diplomat_dialog_77_m {
+Not a bad prospect. I accept your terms!
+}
+Diplomat_dialog_77_f {
+Not a bad prospect. I accept your terms!
+}
+Diplomat_dialog_78 {
+The Netherlands is almost a peaceful country—you’ll make plenty of friends and few enemies. And the letter of marque will cost you only @<FindMoneyString>.
+}
+Diplomat_dialog_79_m {
+Not a bad prospect. I accept your terms!
+}
+Diplomat_dialog_79_f {
+Not a bad prospect. I accept your terms!
+}
+Diplomat_dialog_80 {
+France’s friends and foes will become your own. You’ll be free to sink enemy ships. And the letter of marque will cost you just @<FindMoneyString>.
+}
+Diplomat_dialog_81 {
+Great prospect! I don’t care who I serve! I’ll serve the French too!
+}
+Diplomat_dialog_82 {
+Spain has many enemies, and they’ll become yours too! The Spanish are a nation of sea warriors. A letter of marque will cost you only @<FindMoneyString>.
+}
+Diplomat_dialog_83 {
+You’re the only one offering me something worthwhile! Take these measly coins for the thrill of bloody combat and new tasks from the high and mighty!
+}
+Diplomat_dialog_84 {
+To be honest, that's how the Governor-General of England lines his own pockets. And the patent itself will only cost you @<FindMoneyString>.
+}
+Diplomat_dialog_85_m {
+I’m willing to hand over my hard-earned money to him—coins I got through smuggling and boarding ships!
+}
+Diplomat_dialog_85_f {
+I’m willing to hand over my hard-earned money to him—coins I got through smuggling and boarding ships!
+}
+Diplomat_dialog_86 {
+No, this isn’t for me!
+}
+Diplomat_dialog_87 {
+I'm glad we've reached an agreement. It's a deal.
+}
+Diplomat_dialog_88 {
+Farewell, @<GetAddress_FormToNPC>
+}
+Diplomat_dialog_89 {
+Alright. That’ll cost you @<FindMoneyString>.
+}
+Diplomat_dialog_90_m {
+I agree.
+}
+Diplomat_dialog_90_f {
+I agree.
+}
+Diplomat_dialog_91_m {
+I think I’ve changed my mind.
+}
+Diplomat_dialog_91_f {
+I think I've changed my mind.
+}
+Diplomat_dialog_92 {
+Wonderful, I'll take care of everything. They'll do business with you.
+}
+Diplomat_dialog_93 {
+Thank you.
+}
+Diplomat_dialog_94 {
+Hmm... I’m not sure what to say. I can fulfill your request to make peace with @<XI_ConvertString>, of course, but it’ll cost you @<FindMoneyString>.
+}
+Diplomat_dialog_95 {
+I guess I don’t have a choice anyway. So here’s your money.
+}
+Diplomat_dialog_96 {
+No, that's far too much. Farewell.
+}
+Diplomat_dialog_97 {
+Excellent! You’re remarkably easy to deal with. Rest assured, within 15 days at most, your affairs will be settled.
+}
+Diplomat_dialog_98 {
+Alright.
+}
+Diplomat_dialog_99 {
+A petition has already been filed for you. Wait—things don’t happen that quickly.
+}
+Diplomat_dialog_100 {
+Thank you.
+}
+Diplomat_dialog_101 {
+Which settlement’s allegiance do you wish to discuss?
+}
+Diplomat_dialog_102 {
+No. Nothing.
+}
+Diplomat_dialog_103 {
+The city of @<GetCityName>, formerly held by @<XI_ConvertString>, can be ransomed for @<FindMoneyString> to halt any attempts to reclaim the settlement.
+}
+Diplomat_dialog_104 {
+Yes, that suits me just fine.
+}
+Diplomat_dialog_105 {
+No, thanks. Not interested.
+}
+Diplomat_dialog_106 {
+Alright, the word about the deal is out. There will be no more attempts to seize @<GetCityName>.
+}
+Diplomat_dialog_107 {
+Thank you. All the best.
+}
+Diplomat_dialog_108 {
+One more question.
+}
+Diplomat_dialog_109 {
+Hmm, now that’s curious... Captain, what’s gotten into you to take an interest in this company?
+}
+Diplomat_dialog_110 {
+I'm doing a job for them, and some questions have come up.
+}
+Diplomat_dialog_111 {
+And what makes you think I know where they are?
+}
+Diplomat_dialog_112 {
+Alright, enough fooling around! Where are you getting those letters of marque from this company?
+}
+Diplomat_dialog_113 {
+With the company’s representative here in the Caribbean. By the way, what’s his name? If you’re doing business with him, you ought to know that.
+}
+Diplomat_dialog_114 {
+Hmm, right... Well, you can find him on San Martin, in Marigot. He’s got a room in a two-story house there. Just don’t say I sent you to him. You know, just in case...
+}
+Diplomat_dialog_115 {
+No problem.
+}
+Diplomat_dialog_116 {
+You don’t know anyone here, so get lost!
+}
+Diplomat_dialog_117 {
+Damn, it slipped my mind...
+}
+Diplomat_dialog_118 {
+So, what do you want from me this time?
+}
+Diplomat_dialog_119_m {
+I remembered the name of the Dutch West India Company’s representative!
+}
+Diplomat_dialog_119_f {
+I remembered the name of the Dutch West India Company’s representative!
+}
+Diplomat_dialog_120 {
+Yeah?! So, what's his name?
+}
+Diplomat_dialog_121 {
+I’m sorry, I can’t help you with anything today.
+}
+Diplomat_dialog_122 {
+Pity, pity.
+}
+Diplomat_dialog_123 {
+Oh, no, no questions about the pages today!
+}
+Diplomat_dialog_124 {
+That's a pity. I'll come back another time.
+}
+Diplomat_dialog_125 {
+Perhaps I have what you're looking for. May I take a look at your collection of pages?
+}
+Diplomat_dialog_126 {
+Of course!
+}
+Diplomat_dialog_127 {
+Incredible! Why, you’ve got a complete collection!!!
+}
+Diplomat_dialog_128_m {
+Pick up your jaw, my good sir. I just wanted to show off.
+}
+Diplomat_dialog_128_f {
+Pick up your jaw, dear sir. I just wanted to brag a little.
+}
+Diplomat_dialog_129 {
+Interesting... Perhaps I have a page you’re missing, and I’m willing to trade it for one of yours.
+}
+Diplomat_dialog_130_m {
+I don’t have any duplicate pages yet, and I’m not ready to part with my only copy. I’ll come back another time.
+}
+Diplomat_dialog_130_f {
+I don’t have any duplicate pages yet, and I’m not ready to part with my only copy. I’ll come back another time.
+}
+Diplomat_dialog_131 {
+Interesting... I believe I have a page you’re missing — @<GetPageString> from '@<GetTomeStringGen>', and I’m willing to trade it for one of yours. Let’s say, the @<GetPageString> page from '@<GetTomeStringGen>' — you’ve got a few copies, so you won’t be worse off.
+}
+Diplomat_dialog_132 {
+That suits me just fine.
+}
+Diplomat_dialog_133 {
+Excellent, the client will be very pleased. You can check with me about the pages from time to time—as you see, I don’t charge anything for the exchange.
+}
+Diplomat_dialog_134 {
+Certainly. Farewell!
+}
+Diplomat_dialog_135 {
+Splendid. I hope our mutually beneficial partnership continues.
+}
+Diplomat_dialog_136 {
+Absolutely. Farewell!
+}
+Diplomat_dialog_137 {
+I won’t trouble you with unnecessary questions, just let me take a look at the scope of the work.
+}
+Diplomat_dialog_138 {
+Here you go...
+}
+Diplomat_dialog_139 {
+Hm... Sorry, but I won't take on a job like that. I can only recommend a decent specialist.
+}
+Diplomat_dialog_140 {
+That’s a pity... And who would you recommend to me?
+}
+Diplomat_dialog_141 {
+Oliver Green, perhaps you know him? He works for Admiral Morgan.
+}
+Diplomat_dialog_142 {
+Understood, thanks for the information.
+}

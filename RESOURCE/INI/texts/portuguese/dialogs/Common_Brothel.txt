@@ -1,0 +1,1524 @@
+Common_Brothel_1_m {
+Querida, que garotas?! Metade da guarnição está atrás de você, e mesmo assim você entra tranquilamente num bordel!
+}
+Common_Brothel_1_f {
+É melhor você sair daqui... Metade da guarnição está atrás de você!
+}
+Common_Brothel_2 {
+A guarda da cidade inteira está vasculhando as ruas atrás de você. Não sou tolo de te esconder numa hora dessas...
+}
+Common_Brothel_3 {
+Vou pedir que saia do meu estabelecimento — você não tem nada para fazer aqui!
+}
+Common_Brothel_4 {
+@<LinkRandPhrase>
+}
+Common_Brothel_5_m {
+Se ousar encostar nas minhas garotas, eu arranco sua pele!
+}
+Common_Brothel_5_f {
+Saia daqui, seu miserável!
+}
+Common_Brothel_6_m {
+Assassino imundo, saia do meu estabelecimento! Guardas!!
+}
+Common_Brothel_6_f {
+Assassino imundo, saia do meu estabelecimento! Guardas!!
+}
+Common_Brothel_7_m {
+Não tenho medo de você, canalha! Logo estará pendurado em nosso forte — você não vai longe...
+}
+Common_Brothel_7_f {
+Não tenho medo de você, garota! Logo você vai estar pendurada no nosso forte—não vai chegar longe...
+}
+Common_Brothel_8 {
+@<LinkRandPhrase>
+}
+Common_Brothel_9 {
+Heh, alarme não é problema pra mim...
+}
+Common_Brothel_10 {
+Eles nunca vão me pegar.
+}
+Common_Brothel_11 {
+@<RandPhraseSimple>
+}
+Common_Brothel_12 {
+Seria melhor você ficar calado, idiota...
+}
+Common_Brothel_13 {
+Cale a boca, ou vai piorar para você...
+}
+Common_Brothel_14 {
+@<RandPhraseSimple>
+}
+Common_Brothel_15 {
+Ei, Doutor Blood! @<TimeGreeting>.
+}
+Common_Brothel_16 {
+Fico feliz em vê-lo, Peter Blood.
+}
+Common_Brothel_17 {
+Que bom que você apareceu, @<GetFullName>. Como está o Coronel Bishop?
+}
+Common_Brothel_18 {
+@<LinkRandPhrase>
+}
+Common_Brothel_19 {
+Infelizmente, já estou de partida, @<NPChar>. Até a próxima.
+}
+Common_Brothel_20 {
+O que posso fazer por você, @<GetAddress_Form>?
+}
+Common_Brothel_21 {
+Escute, @<npchar>, quero passar um tempo com uma das suas garotas — Francesca, se não me engano.
+}
+Common_Brothel_22_m {
+Você pegou o dinheiro, mas não fez a doação! Canalha, é isso que você é. Não vou te atender no meu estabelecimento. Saia!
+}
+Common_Brothel_22_f {
+Você pegou o dinheiro, mas não fez nenhuma doação! Canalha, é isso que você é. Não vou atendê-lo no meu estabelecimento. Saia!
+}
+Common_Brothel_23 {
+Ah, droga!
+}
+Common_Brothel_24_m {
+Escute, eu sei que você está chateado comigo. Eu realmente sou o culpado. Mas quero lhe perguntar algo, e acredito que é do seu interesse responder.
+}
+Common_Brothel_24_f {
+Olha, eu sei que você está chateado comigo. Eu realmente sou o culpado. Mas quero te fazer uma pergunta, e acredito que é do seu interesse responder.
+}
+Common_Brothel_25_m {
+Você ainda não entregou o dinheiro para a igreja. Resolva isso — você só tem hoje! Você prometeu!
+}
+Common_Brothel_25_f {
+Você ainda não entregou o dinheiro para a igreja. Resolva isso — você só tem hoje! Você prometeu!
+}
+Common_Brothel_26 {
+Sim, eu me lembro. Vou cuidar disso.
+}
+Common_Brothel_27_m {
+Você fez uma doação?
+}
+Common_Brothel_27_f {
+Você fez uma doação?
+}
+Common_Brothel_28_m {
+Sim, já fiz tudo. O padre pediu para avisar que o seu dinheiro foi aceito pela igreja.
+}
+Common_Brothel_28_f {
+Sim, já fiz tudo. O padre pediu para avisar que o seu dinheiro foi aceito pela igreja.
+}
+Common_Brothel_29_m {
+Você fez uma doação?
+}
+Common_Brothel_29_f {
+Você fez uma doação?
+}
+Common_Brothel_30 {
+Escute, @<npchar>, a igreja não pegou seu dinheiro. Estou devolvendo para você.
+}
+Common_Brothel_31 {
+Escute, quero te pedir um favor...
+}
+Common_Brothel_32 {
+Estou ouvindo atentamente.
+}
+Common_Brothel_33 {
+Ah, como é monótona a nossa cidadezinha. Quem sabe um capitão distinto como você possa espantar o meu tédio?
+}
+Common_Brothel_34 {
+Com certeza! Ficarei encantado em entreter uma dama tão encantadora.
+}
+Common_Brothel_35 {
+Desculpe, não tenho tempo agora, @<npchar>. Talvez em outra ocasião...
+}
+Common_Brothel_36 {
+Da última vez, quando eu estava te esperando lá em cima, você não apareceu... Perdeu a sua chance.
+}
+Common_Brothel_37 {
+Ah, que pena...
+}
+Common_Brothel_38_m {
+@<TimeGreeting>. Bem-vindo à casa do prazer. Meu nome é @<npchar>, sou quem comanda aqui. Em que posso ajudar, @<GetAddress_Form>?
+}
+Common_Brothel_38_f {
+@<TimeGreeting>. Bem-vindo à casa do prazer. Meu nome é @<npchar> e sou quem cuida de tudo aqui. Admito que estou um pouco surpresa ao ver você, mas fique tranquila: nossos serviços não são exclusivos para homens. Em que posso ajudar, @<GetAddress_Form>?
+}
+Common_Brothel_39_m {
+@<TimeGreeting>. Bem-vindo, estranho, ao meu humilde estabelecimento. Permita-me apresentar: sou @<NPChar>, a dona deste refúgio para homens que buscam um toque delicado. Em que posso lhe servir?
+}
+Common_Brothel_39_f {
+@<TimeGreeting>. Seja bem-vinda, senhorita, ao meu humilde estabelecimento. Permita-me apresentar: sou @<NPChar>, a dona deste refúgio para homens que buscam um toque delicado. Mas também temos algo para as damas...
+}
+Common_Brothel_40 {
+@<RandPhraseSimple>
+}
+Common_Brothel_41 {
+@<TimeGreeting>. Como posso ajudar você, @<GetAddress_Form>?
+}
+Common_Brothel_42 {
+@<TimeGreeting>. O que posso fazer por você, @<GetAddress_Form>?
+}
+Common_Brothel_43 {
+@<RandPhraseSimple>
+}
+Common_Brothel_44 {
+@<npchar>, quero passar um tempo com uma das suas garotas.
+}
+Common_Brothel_45_m {
+Faz tempo que não dou um agrado aos meus rapazes. Posso fazer um pedido grande de garotas?
+}
+Common_Brothel_45_f {
+Faz tempo que não mimo meus rapazes. Posso fazer um pedido grande de garotas?
+}
+Common_Brothel_46 {
+Tenho uma pergunta.
+}
+Common_Brothel_47 {
+Escute, @<npchar>, estou procurando o anel do governador. Ele esteve festejando aqui outro dia e o perdeu.
+}
+Common_Brothel_48 {
+Nada. Já estou indo embora.
+}
+Common_Brothel_49 {
+O que você quer, bonitão?
+}
+Common_Brothel_50 {
+Estou ouvindo atentamente, Capitão.
+}
+Common_Brothel_51 {
+@<RandPhraseSimple>
+}
+Common_Brothel_52_m {
+Escute, @<npchar>, encontrei estes documentos na sala privada do seu estabelecimento...
+}
+Common_Brothel_52_f {
+Escute, @<npchar>, encontrei estes documentos na sala reservada do seu estabelecimento...
+}
+Common_Brothel_53 {
+Deixe-me ver! Hm... Algum capitão desconhecido deixou esses documentos? Acho que perguntas assim devem ser levadas ao mestre do porto.
+}
+Common_Brothel_54 {
+Talvez, talvez...
+}
+Common_Brothel_55 {
+Deixe-me ver! Ah! Pelo nome, pertencem ao meu estimado cliente e digno cidadão da nossa cidade. Posso entregar os documentos pessoalmente.
+}
+Common_Brothel_56 {
+Provavelmente não...
+}
+Common_Brothel_57_m {
+Maravilha! Sempre fico feliz em ajudar uma pessoa respeitável e um estabelecimento honrado.
+}
+Common_Brothel_57_f {
+Maravilha! Sempre fico feliz em ajudar uma pessoa respeitável e um estabelecimento digno.
+}
+Common_Brothel_58_m {
+Sempre recebemos bem um cliente. Diga-me, querida, você já tem alguém em mente ou isso não faz diferença para você?
+}
+Common_Brothel_58_f {
+Muito bem, minhas garotas certamente podem... ajudar você. Já escolheu alguém ou isso não faz diferença para você?
+}
+Common_Brothel_59_m {
+Heh, preciso de uma garota e preciso agora—não me importa quem seja. Todas as suas garotas são bonitas mesmo...
+}
+Common_Brothel_59_f {
+Qualquer uma, desde que saiba o que faz...
+}
+Common_Brothel_60_m {
+Sim, tem um que me chamou a atenção...
+}
+Common_Brothel_60_f {
+Sim, tem uma, seria melhor com ela...
+}
+Common_Brothel_61 {
+Não posso te arrumar uma moça esta noite — tenho outros clientes além de você. Volte amanhã, e vamos cuidar bem de você!
+}
+Common_Brothel_62_m {
+Ah, que pena, eu estava começando a gostar... Fazer o quê.
+}
+Common_Brothel_62_f {
+Ah, que pena... Fazer o quê.
+}
+Common_Brothel_63_m {
+Hmm, você já pagou pela moça. Então aproveite a companhia dela, por assim dizer, e não me incomode com bobagens.
+}
+Common_Brothel_63_f {
+Hmm, você já pagou pela moça. Então trate logo de resolver com ela, por assim dizer, e não me incomode com bobagens.
+}
+Common_Brothel_64 {
+Certo, estou a caminho.
+}
+Common_Brothel_65 {
+No momento não tenho nenhuma moça disponível, você vai precisar voltar em alguns dias.
+}
+Common_Brothel_66 {
+Certo, como você quiser.
+}
+Common_Brothel_67_m {
+Muito bem, garanhão, excelente! Posso te apresentar uma bela moça chamada @<GetFullName>, ela está disponível agora. O prazer vai te custar @<FindMoneyString>. Temos um acordo?
+}
+Common_Brothel_67_f {
+Todo o meu pessoal é experiente, pode ter certeza disso. Posso lhe oferecer uma jovem encantadora chamada @<GetFullName>, ela está disponível agora mesmo. Esse prazer vai lhe custar @<FindMoneyString>. Concorda?
+}
+Common_Brothel_68 {
+Não, acho que vou deixar passar. Está um pouco caro...
+}
+Common_Brothel_69_m {
+Claro, eu concordo—sem questionar!
+}
+Common_Brothel_69_f {
+Claro, eu concordo — não há o que questionar!
+}
+Common_Brothel_70 {
+Argh, eu não tenho esse dinheiro agora...
+}
+Common_Brothel_71_m {
+Excelente, querido(a). @<sld> vai estar esperando por você na sala privada no andar de cima.
+}
+Common_Brothel_71_f {
+Excelente, querido(a). @<sld> estará esperando por você na sala privada no andar de cima.
+}
+Common_Brothel_72_m {
+Heh, bom, estou indo...
+}
+Common_Brothel_72_f {
+Bem, estou indo...
+}
+Common_Brothel_73_m {
+Tudo estaria bem, mas acontece que @<sld> não é uma garota barata — ela vai te custar @<FindMoneyString>. E pelo que vejo, você não tem esse dinheiro. Volte quando estiver mais rico, querido...
+}
+Common_Brothel_73_f {
+Tudo estaria bem, mas acontece que @<sld> não é uma mulher barata — ela vai te custar @<FindMoneyString>. E pelo que vejo, você não tem esse dinheiro. Volte quando estiver mais rico...
+}
+Common_Brothel_74 {
+Ah, é sempre assim...
+}
+Common_Brothel_75 {
+Fico sempre feliz quando surgem sentimentos calorosos entre as garotas e nossos clientes... Diga-me o nome dela.
+}
+Common_Brothel_76 {
+Hmm, você está enganado, não tenho nenhuma moça assim no meu estabelecimento. Talvez você esteja confundindo o nome dela.
+}
+Common_Brothel_77_m {
+Hmm, mas acabei de falar com ela.
+}
+Common_Brothel_77_f {
+Hmm, mas acabei de falar com ela.
+}
+Common_Brothel_78 {
+É melhor eu confirmar o nome dela. Depois converso com você sobre isso.
+}
+Common_Brothel_79 {
+@<GetFullName>, você está falando dela?
+}
+Common_Brothel_80 {
+Sim, é esse mesmo.
+}
+Common_Brothel_81 {
+Não, não sobre ela.
+}
+Common_Brothel_82 {
+Então você precisa dizer o nome dela de novo — talvez assim eu descubra de quem você está falando.
+}
+Common_Brothel_83 {
+É melhor eu confirmar o nome dela. Depois converso com você sobre isso.
+}
+Common_Brothel_84_m {
+Hmm... Para toda a tripulação? Então, você quer deixar os rapazes se divertirem um pouco? Bem, tenho algumas moças muito experientes que podem dar conta disso... Vai te custar @<FindMoneyString>.
+}
+Common_Brothel_84_f {
+Hm... Para toda a tripulação? Então, decidiu deixar os rapazes se divertirem um pouco? Bem, tenho algumas moças muito experientes que podem cuidar disso... Vai lhe custar @<FindMoneyString>.
+}
+Common_Brothel_85_m {
+Certo, concordo em pagar esse valor.
+}
+Common_Brothel_85_f {
+Certo, concordo em pagar esse valor.
+}
+Common_Brothel_86 {
+Acho que eles vão dar um jeito...
+}
+Common_Brothel_87 {
+Não é da minha conta, claro, mas acho que você deveria ganhar o suficiente para uma tripulação primeiro, e só depois se preocupar com o moral deles.
+}
+Common_Brothel_88 {
+Acho que sim...
+}
+Common_Brothel_89_m {
+Querido, aonde pensa que vai?! Ora, ora, e eu achando que você era um capitão decente.\nMas agora não vai escapar tão fácil assim, bonitão. Alguém está prestes a cortar suas asas...
+}
+Common_Brothel_89_f {
+Querida, aonde você pensa que vai?! Ora, ora, e eu achando que você era uma moça comportada.\nAgora não vai ser tão fácil escapar, linda. Alguém está prestes a cortar suas asas...
+}
+Common_Brothel_90 {
+Cale a boca, seu idiota...
+}
+Common_Brothel_91 {
+Veja, eu administro um estabelecimento que... bem, não é exatamente comum, por assim dizer.
+}
+Common_Brothel_92 {
+Entendi.
+}
+Common_Brothel_93 {
+Tudo bem... Mas isso não quer dizer que eu não pense na minha alma. De qualquer forma, quero fazer uma doação para a igreja. Só que é difícil aparecer lá — olhares de lado, as esposas cochichando...
+}
+Common_Brothel_94 {
+Entendi. Vou fazer uma doação, não se preocupe.
+}
+Common_Brothel_95 {
+Certo. Estou te dando @<FindMoneyString>. Faça sua doação hoje!
+}
+Common_Brothel_96 {
+Vou cuidar disso agora mesmo, não se preocupe.
+}
+Common_Brothel_97_m {
+Sabe, estou um pouco ocupado agora. Hoje não vai dar. Desculpe.
+}
+Common_Brothel_97_f {
+Olha, estou um pouco ocupado agora. Hoje não vai dar. Desculpe.
+}
+Common_Brothel_98 {
+Ótimo! Passe aqui depois e me conte como foi...
+}
+Common_Brothel_99 {
+Certo.
+}
+Common_Brothel_100 {
+Que pena, que pena...
+}
+Common_Brothel_101 {
+Talvez em outra ocasião.
+}
+Common_Brothel_102 {
+Graças a Deus, ainda não perdi tudo nesta vida!.. Obrigado.
+}
+Common_Brothel_103_m {
+Não foi nada. Eu faria qualquer coisa por você...
+}
+Common_Brothel_103_f {
+De nada. Não foi difícil...
+}
+Common_Brothel_104_m {
+Como assim você não conseguiu?! Ah, não conseguiu convencer o padre! E eu estava tão esperançoso...
+}
+Common_Brothel_104_f {
+Como assim, você não conseguiu?! Ah, não conseguiu convencer o bom padre! E eu estava tão esperançosa...
+}
+Common_Brothel_105 {
+Desculpe, mas foi assim que aconteceu...
+}
+Common_Brothel_106_m {
+Ah, bonito, a Francesca é uma das melhores moças do nosso estabelecimento. Vai te custar 3.000 piastras.
+}
+Common_Brothel_106_f {
+Ah, beleza, Francesca é uma das melhores moças do nosso estabelecimento. Vai te custar 3.000 piastras.
+}
+Common_Brothel_107 {
+Sim, claro.
+}
+Common_Brothel_108_m {
+Mudei de ideia.
+}
+Common_Brothel_108_f {
+Mudei de ideia.
+}
+Common_Brothel_109_m {
+Excelente, querido. Francesca estará esperando por você no quarto privado no andar de cima.
+}
+Common_Brothel_109_f {
+Excelente, meu caro. Francesca estará esperando por você no quarto privado no segundo andar.
+}
+Common_Brothel_110_m {
+Heh, bom, estou indo...
+}
+Common_Brothel_110_f {
+Heh, bom, estou indo...
+}
+Common_Brothel_111 {
+Olha, eu não tenho esse dinheiro comigo agora — mas vou trazer para você depois.
+}
+Common_Brothel_112 {
+Não encontrei nenhum anel.
+}
+Common_Brothel_113 {
+E as suas garotas?
+}
+Common_Brothel_114 {
+As garotas também. Se um cliente esquece ou perde algo, elas sempre trazem direto para mim. Nunca ninguém me trouxe o anel do governador.
+}
+Common_Brothel_115 {
+Entendo... Ou talvez alguém tenha decidido ficar com isso, afinal?
+}
+Common_Brothel_116 {
+Improvável. As garotas só podem ficar com presentes dos clientes, nada além disso.
+}
+Common_Brothel_117 {
+Entendi... Obrigado, @<npchar>.
+}
+Common_Brothel_118 {
+Você é bem encantador. Então, como vai me entreter?
+}
+Common_Brothel_119 {
+Com o quê?! Hmm... Com isto! Eu tenho a maior... ahn... reputação... entre os piratas. Pronto.
+}
+Common_Brothel_120 {
+Tenho um olhar atento e mãos firmes, e também...
+}
+Common_Brothel_121 {
+Senhora, já passei por tanta coisa neste mundo...
+}
+Common_Brothel_122 {
+Sua "reputação" não me interessa. Adeus...
+}
+Common_Brothel_123 {
+Como isso é possível?..
+}
+Common_Brothel_124 {
+Escuta! Você sabe falar de outro assunto além de se gabar?! Conta uma história interessante, só uma vez!
+}
+Common_Brothel_125 {
+Ah! Uma história, é isso? Isso eu sei contar! Então, foi assim...
+}
+Common_Brothel_126 {
+Escuta! Você sabe falar de outra coisa além de se elogiar?! Você realmente não faz ideia de como entreter uma mulher...
+}
+Common_Brothel_127 {
+Hmm, há muitas coisas interessantes para conversar.
+}
+Common_Brothel_128 {
+Vá chorar no ombro de alguma vendedora no mercado da cidade. E ainda se diz pirata?! Hmph, para onde foram parar os homens de verdade?..
+}
+Common_Brothel_129 {
+Não foi isso que eu quis dizer!
+}
+Common_Brothel_130 {
+Estou ouvindo atentamente...
+}
+Common_Brothel_131 {
+Tenho uma história sobre a vez em que quase fui devorado por um tubarão. Quer ouvir?
+}
+Common_Brothel_132 {
+Uma vez capturamos um mercador, e vou te contar, que prêmio encontramos no porão dele! Ouro e prata! Que o diabo me leve, é verdade! Ha-ha! E ainda tinha umas galinhas magníficas a bordo, gordas e vistosas—ah, depenamos todas elas...
+}
+Common_Brothel_133 {
+Nossa! Um tubarão te atacou? Como você conseguiu escapar?!
+}
+Common_Brothel_134 {
+Bem, deixe-me começar do início. Uma vez, ficamos presos numa calmaria total—sem vento algum, e o calor era insuportável. Decidimos nadar um pouco, só para refrescar. Vou te dizer, não há nada como mergulhar na água depois de um calor daqueles. Fiquei tão entretido nadando e mergulhando que nem ouvi o vigia gritando: '@<GetAddress_Form>, cuidado! Tubarão! Tubarão!!!' E então eu vi! Tinha acabado de mergulhar e vi a forma dele logo abaixo de mim. Que monstro! Cinco vezes o meu tamanho! E, naquele instante, ele virou e veio direto na minha direção!...
+}
+Common_Brothel_135 {
+Chega! Já basta! Você é um tolo arrogante e egocêntrico! Saia da minha frente!
+}
+Common_Brothel_136 {
+Hmm, para quê?..
+}
+Common_Brothel_137 {
+Meu Deus! E depois?!
+}
+Common_Brothel_138 {
+Percebo que minha única esperança depende de mim, então me viro e nado em direção ao bote o mais rápido que posso. Os rapazes tentam afastar o tubarão com tiros, mas como espantar uma criatura dessas... Faltam só sete jardas até o barco, e atrás de mim, uma barbatana enorme rompe a superfície...
+}
+Common_Brothel_139 {
+Você também?!..
+}
+Common_Brothel_140 {
+Não, não fui eu. Foi o grumete. Nosso corajoso grumete. Ele viu que eu não conseguiria chegar ao barco a tempo e me jogou o sabre dele.
+}
+Common_Brothel_141 {
+E você a derrubou! Sério?! Você realmente derrotou aquele monstro, não foi?
+}
+Common_Brothel_142 {
+Claro que eu derrubei! Dois golpes com meu fiel sabre — e o terrível monstro foi derrotado!
+}
+Common_Brothel_143 {
+Não, eu não derrubei. Ora, como alguém conseguiria derrubar uma criatura tão enorme! Eu escapei de outro jeito...
+}
+Common_Brothel_144 {
+Hee-hee... Você é um péssimo mentiroso! Abater uma criatura cinco vezes maior que você, e ainda por cima na água?.. Não acredito em você — é tão fanfarrão quanto os outros! Não conseguiu chamar minha atenção...
+}
+Common_Brothel_145 {
+Diabo!! Uma pena, porém...
+}
+Common_Brothel_146 {
+Como?! Como você sobreviveu?
+}
+Common_Brothel_147 {
+Mal tive tempo de pegar meu sabre e me virar quando vi aquelas mandíbulas enormes, cheias de dentes assustadores, vindo direto para cima de mim. Não pude fazer nada além de enfiar meu sabre entre elas, torcendo para que o aço aguentasse a força daquelas mandíbulas! E, de fato, o tubarão sacudiu a cabeça e mergulhou fundo, mas não antes de me acertar com tanta força com a cauda que fui lançado para a superfície! Quando o tubarão conseguiu se livrar do sabre e voltou para se vingar, eu já estava no bote, e os rapazes remavam com tudo em direção ao navio... Até hoje carrego algumas cicatrizes como lembrança daquele dia.
+}
+Common_Brothel_148 {
+Oh! Cicatrizes!.. Mostre-me...
+}
+Common_Brothel_149 {
+Agora você vai ver! Vou te mostrar algo, algo que você nem vai acreditar!..
+}
+Common_Brothel_150 {
+Mostrar agora? Bem aqui?! Hmm, posso ser um pouco rude, mas me despir na frente de uma dama, em um quarto onde qualquer um pode entrar... Eu poderia comprometer sua reputação, sabia.
+}
+Common_Brothel_151 {
+Aff! Seu bruto! Você não faz ideia de como tratar uma dama! Não quero falar com você!
+}
+Common_Brothel_152 {
+Hmm, espera, como assim?..
+}
+Common_Brothel_153 {
+Ah, como você é nobre! Por um instante, quase me esqueci do tipo de lugar que administro. Talvez você seja um pouco rude e... direto, mas há algo em você que me atrai... E, além disso, estou bastante curiosa para ver suas cicatrizes. Vamos subir, para um quarto onde ninguém vai nos incomodar... E lá, talvez, você também encontre algo que queira ver...
+}
+Common_Brothel_154 {
+Hm, como sempre!..
+}
+Common_Brothel_155 {
+Ah, aí está você...
+}
+Common_Brothel_156 {
+Sim, senhora!
+}
+Common_Brothel_157 {
+Por exemplo?
+}
+Common_Brothel_158 {
+Por exemplo, veja você mesmo. Realmente, um assunto sem fim!
+}
+Common_Brothel_159 {
+Cuidado, você está andando no limite...
+}
+Common_Brothel_160 {
+Adoro correr riscos! Ousadia e determinação, esse é o meu lema! No instante em que te vi, soube que você tinha que ser minha! Nunca vi alguém tão fascinante antes! Essas curvas, meu Deus!...
+}
+Common_Brothel_161 {
+Vou tomar cuidado.
+}
+Common_Brothel_162 {
+Receio que esses formulários não sejam para você. Você perdeu a sua chance, meu insistente…
+}
+Common_Brothel_163 {
+Droga, como isso pôde acontecer?!
+}
+Common_Brothel_164 {
+Hmm, então eu sou a própria atenção...
+}
+Common_Brothel_165 {
+Já vi muitas mulheres, e só agora percebo que, infelizmente, nem toda dama sabe se vestir com tanta elegância quanto você. Fui tolo e cego...
+}
+Common_Brothel_166 {
+Por que tanta autocrítica?
+}
+Common_Brothel_167 {
+Eu devia ter corrido direto para você!
+}
+Common_Brothel_168 {
+Para quê, então?
+}
+Common_Brothel_169 {
+Para convidá-la para subir, minha rainha!
+}
+Common_Brothel_170 {
+Demorei muito para entender e enxergar essa verdade. O mundo sem você é sem graça e vazio, mas quando você aparece, tudo ganha vida—os pássaros cantam mais bonito, o mar sussurra suavemente, e à luz da manhã, o orvalho brilha nas pétalas das flores que desabrocham...
+}
+Common_Brothel_171 {
+Chega! Você foi ousado demais. Perdeu sua chance.
+}
+Common_Brothel_172 {
+Droga, não funcionou...
+}
+Common_Brothel_173 {
+Ah!.. Você é mesmo um romântico... e um lisonjeador!
+}
+Common_Brothel_174 {
+Um bajulador? De forma alguma! Eu falo a verdade. E, infelizmente, não sou de muitas palavras. Mas isso só porque todas as palavras me faltaram ao ver seu encanto, incrivelmente magnífico...
+}
+Common_Brothel_175 {
+O quê?!
+}
+Common_Brothel_176 {
+...de olhos brilhantes.
+}
+Common_Brothel_177 {
+Ah! Eu estava pensando em outra coisa. Por favor, continue.
+}
+Common_Brothel_178 {
+Para ser sincero, eu também não estava pensando só nos seus olhos...
+}
+Common_Brothel_179 {
+Como você pode pensar o contrário? É claro que eu estava falando apenas dos olhos.
+}
+Common_Brothel_180 {
+Ah, é? E do que mais poderia se tratar? Mal ouso imaginar.
+}
+Common_Brothel_181 {
+Sobre o seu lindo pescoço e seu decote de tirar o fôlego—só de pensar em como seu colo é bonito, fico sem palavras!
+}
+Common_Brothel_182 {
+Seu canalha!..
+}
+Common_Brothel_183 {
+Talvez... E você provavelmente vai me mandar embora, mas... quando vejo seu vestido lindo, não consigo deixar de imaginar o que há por baixo dele. Me perdoe, me empolguei...
+}
+Common_Brothel_184 {
+Um canalha e um patife... e...
+}
+Common_Brothel_185 {
+O quê?
+}
+Common_Brothel_186 {
+Canalha encantador...
+}
+Common_Brothel_187 {
+Então estou perdoado?
+}
+Common_Brothel_188 {
+Talvez... Aqui está muito abafado. Vamos subir, lá em cima é mais fresco—e a gente pode... continuar nossa conversa.
+}
+Common_Brothel_189 {
+Com o maior prazer!
+}
+Common_Brothel_190 {
+Ah, é mesmo? E eu achando que você se interessava por mim inteira, não só por certas partes. Só meus olhos, é? Não tem mais nada em mim que valha a pena olhar?
+}
+Common_Brothel_191 {
+Não foi isso que eu quis dizer...
+}
+Common_Brothel_192 {
+Eu sei exatamente o que você quis dizer! Uma velha feia de olhos esbugalhados! É isso mesmo!!! Saia daqui! Você me dá nojo!
+}
+Common_Brothel_193 {
+Vamos lá, @<npchar>, eu nunca nem pensei nisso!..
+}
+Common_Brothel_194 {
+É melhor você sair do estabelecimento!
+}
+Common_Brothel_195 {
+A guarda da cidade está patrulhando as ruas! É melhor você ir embora...
+}
+Common_Brothel_196 {
+Você causou confusão — e agora vem até nós?! Desta vez, não... quem sabe na próxima.
+}
+Common_Brothel_197 {
+@<LinkRandPhrase>
+}
+Common_Brothel_198 {
+Saia!!
+}
+Common_Brothel_199_m {
+Assassino imundo, saia daqui! Guardas!!
+}
+Common_Brothel_199_f {
+Assassina imunda, saia daqui! Guardas!!
+}
+Common_Brothel_200_m {
+Não tenho medo de você, canalha! Logo você será enforcado em nosso forte — não vai chegar longe…
+}
+Common_Brothel_200_f {
+Não tenho medo de você, vadia! Logo você vai estar pendurada na forca do nosso forte — não vai chegar longe...
+}
+Common_Brothel_201 {
+@<LinkRandPhrase>
+}
+Common_Brothel_202 {
+Heh, um pequeno alarme não me incomoda...
+}
+Common_Brothel_203 {
+Eles nunca vão me pegar.
+}
+Common_Brothel_204 {
+@<RandPhraseSimple>
+}
+Common_Brothel_205 {
+Heh, você é mesmo um tolo...
+}
+Common_Brothel_206 {
+Cale a boca, ou as coisas vão piorar...
+}
+Common_Brothel_207 {
+@<RandPhraseSimple>
+}
+Common_Brothel_208_m {
+Olá, @<GetAddress_Form>. Você precisa falar com a dona do estabelecimento — ela cuida de todos os pedidos.
+}
+Common_Brothel_208_f {
+Olá, @<GetAddress_Form>, hee-hee-hee... Você precisa falar com a dona da casa, todas as ordens passam por ela.
+}
+Common_Brothel_209 {
+Ah, é você de novo. Desculpe, mas você precisa resolver tudo com a senhora primeiro. Por favor, vá falar com ela.
+}
+Common_Brothel_210_m {
+Escute, @<GetAddress_Form>, espero que você seja tão teimoso(a) em outras situações quanto é na conversa... Mais uma vez, peço que vá falar com a dona do estabelecimento.
+}
+Common_Brothel_210_f {
+Escute, @<GetAddress_Form>, estou pedindo mais uma vez que vá falar com a dona do estabelecimento.
+}
+Common_Brothel_211_m {
+Ah, @<GetAddress_Form>, você é tão... persistente! Você precisa falar com a dona da casa para fazer seu pedido.
+}
+Common_Brothel_211_f {
+Ah, @<GetAddress_Form>, hee-hee-hee... Você é mesmo persistente. Vai precisar falar com a dona da casa para fazer seu pedido.
+}
+Common_Brothel_212_m {
+Tudo bem, linda, entendi.
+}
+Common_Brothel_212_f {
+Certo, entendi.
+}
+Common_Brothel_213 {
+Ah, sim, claro...
+}
+Common_Brothel_214_m {
+Pode apostar, linda—sou teimoso e forte como um touro!
+}
+Common_Brothel_214_f {
+Sim, sim...
+}
+Common_Brothel_215_m {
+Droga, deixei passar alguma coisa... Desculpe, querida.
+}
+Common_Brothel_215_f {
+Tudo bem, tudo bem.
+}
+Common_Brothel_216 {
+E onde ela está?
+}
+Common_Brothel_217_m {
+Ah, que beleza, um homem poderia se perder no seu olhar...
+}
+Common_Brothel_217_f {
+Você está absolutamente deslumbrante, querida!
+}
+Common_Brothel_218_m {
+Sabe, faz tempo que não vejo uma mulher tão bonita!
+}
+Common_Brothel_218_f {
+Sabe, faz tempo que não conheço alguém tão fofo assim!
+}
+Common_Brothel_219_m {
+Ah, querida, você é incrivelmente encantadora.
+}
+Common_Brothel_219_f {
+Aff, estou tão cansada de todos esses brutamontes... Mas você, você é simplesmente encantador!
+}
+Common_Brothel_220 {
+@<LinkRandPhrase>
+}
+Common_Brothel_221_m {
+Escuta, linda, você viu uma aliança por aqui? Alguém a perdeu por aqui...
+}
+Common_Brothel_221_f {
+Escuta, querida, você viu uma aliança de casamento por aqui? Alguém a perdeu aqui...
+}
+Common_Brothel_222 {
+Querido(a), por acaso você não encontrou uma aliança de casamento no seu estabelecimento, encontrou?
+}
+Common_Brothel_223_m {
+Escuta, meu peixinho, você viu um anel por aqui, uma aliança?
+}
+Common_Brothel_223_f {
+Escuta, querida, você viu um anel por aqui, uma aliança?
+}
+Common_Brothel_224 {
+@<LinkRandPhrase>
+}
+Common_Brothel_225_m {
+Tudo o que um pirata tão bonito quanto você desejar será concedido...
+}
+Common_Brothel_225_f {
+Tudo o que uma moça corajosa como você desejar será concedido...
+}
+Common_Brothel_226 {
+Escute, faz algum tempo que Jackman e sua tripulação estavam se divertindo por aqui...
+}
+Common_Brothel_227_m {
+Você conseguiu os mil?
+}
+Common_Brothel_227_f {
+Você conseguiu os mil?
+}
+Common_Brothel_228 {
+Aqui está o seu dinheiro. Agora me conte tudo o que sabe, e seja rápido.
+}
+Common_Brothel_229 {
+Ela está no escritório dela. Você pode chegar até ela por aqui, pela porta em frente à saída para a rua, ou pela rua do outro lado da casa. O nome dela é @<GetCharacterIndex>.
+}
+Common_Brothel_230_m {
+Entendi, querida, obrigado.
+}
+Common_Brothel_230_f {
+Entendi, querida, obrigada.
+}
+Common_Brothel_231 {
+Ai, que maravilha ouvir isso! Olha, estou livre agora, então se você me escolher, não vai se arrepender...
+}
+Common_Brothel_232_m {
+Você acha mesmo isso? Fico muito lisonjeada... Olha, estou livre agora, então pode me escolher. Prometo um mar de amor e um oceano de carinho...
+}
+Common_Brothel_232_f {
+Você acha mesmo isso? Fico muito, muito lisonjeada... Olha, estou livre agora, então pode me escolher.
+}
+Common_Brothel_233_m {
+É mesmo?! Hmm, não vou negar, fico lisonjeada—não é todo dia que ouço algo assim dirigido a mim... Olha, não estou ocupada agora, então sugiro que me escolha. Prometo que não vai se arrepender...
+}
+Common_Brothel_233_f {
+Ah, garota... Estou tão cansada desses homens... Olha, não estou ocupada agora, então sugiro que me escolha. Prometo que você não vai se arrepender...
+}
+Common_Brothel_234 {
+@<LinkRandPhrase>
+}
+Common_Brothel_235 {
+Heh, você é exatamente quem eu escolho!
+}
+Common_Brothel_236_m {
+Nããão, isso foi só um elogio para uma bela dama.
+}
+Common_Brothel_236_f {
+Foi só um elogio.
+}
+Common_Brothel_237_m {
+Sabe o que eu vou te dizer, meu caro? Não preciso de conversa fiada. Mãos à obra!
+}
+Common_Brothel_237_f {
+Era só o que me faltava—elogios de mulheres!
+}
+Common_Brothel_238_m {
+Você acha mesmo que todas as mulheres só querem ouvir palavras bonitas? Hmph, isso é um engano... Se me quiser, pague à madame—não estou interessada em conversa.
+}
+Common_Brothel_238_f {
+Garota, não perca tempo com palavras vazias. Se quer que algo seja feito, pague...
+}
+Common_Brothel_239_m {
+Mais um em busca de prazer... Pague, e sou sua—mas poupe-me das palavras doces!
+}
+Common_Brothel_239_f {
+Qual é o problema, querido? Se quer um pouco de prazer, pague em vez de ficar falando!
+}
+Common_Brothel_240 {
+@<LinkRandPhrase>
+}
+Common_Brothel_241 {
+Nossa, que força!
+}
+Common_Brothel_242_m {
+@<GetCharacterIndex> está cuidando de tudo no escritório dela. Vá até ela, meu herói, e diga meu nome — @<npchar>. Estarei esperando por você...
+}
+Common_Brothel_242_f {
+@<GetCharacterIndex> cuida de tudo no escritório dela. Vá até ela e diga meu nome — @<npchar>. Estarei esperando por você...
+}
+Common_Brothel_243 {
+Entendi, querida, já estou indo...
+}
+Common_Brothel_244_m {
+Você já pagou pela moça, ela está te esperando lá em cima.
+}
+Common_Brothel_244_f {
+Você já pagou pela moça, ela está te esperando — suba.
+}
+Common_Brothel_245 {
+Eu te disse — vá até ela.
+}
+Common_Brothel_246 {
+Preste atenção, vou repetir—vá até ela...
+}
+Common_Brothel_247 {
+Não adianta falar, simplesmente não entra...
+}
+Common_Brothel_248 {
+Sim, eu sei.
+}
+Common_Brothel_249 {
+Eu me lembro.
+}
+Common_Brothel_250 {
+Não precisa me lembrar, eu me lembro dela.
+}
+Common_Brothel_251 {
+Hmm, do que você está falando?..
+}
+Common_Brothel_252_m {
+Eu simplesmente não consigo te entender. Uma hora você me elogia, na outra se afasta. Você é bem estranho(a)...
+}
+Common_Brothel_252_f {
+Não consigo te entender direito.
+}
+Common_Brothel_253 {
+Elogios de novo, é? Hmph, vai falar com a patroa, resolve isso com ela.
+}
+Common_Brothel_254 {
+Hmm, você ainda não se cansou disso? Eu já disse—vá falar com a dona do lugar.
+}
+Common_Brothel_255_m {
+Não devemos insultar os clientes aqui, mas você está pedindo, querida...
+}
+Common_Brothel_255_f {
+Não devemos insultar os clientes aqui, mas você está abusando da sorte, querido(a)…
+}
+Common_Brothel_256 {
+Simplesmente aconteceu, sabe...
+}
+Common_Brothel_257 {
+Certo, vou fazer exatamente isso.
+}
+Common_Brothel_258_m {
+Tá, tá, entendi...
+}
+Common_Brothel_258_f {
+Tá, tá, entendi...
+}
+Common_Brothel_259 {
+Hm, desculpe, querida.
+}
+Common_Brothel_260 {
+Obrigado pelo elogio. Se quiser ficar comigo, fale com a dona da casa. Como sempre...
+}
+Common_Brothel_261 {
+Entendido.
+}
+Common_Brothel_262_m {
+Querido, já conversamos sobre tudo. Não me faça esperar muito...
+}
+Common_Brothel_262_f {
+Não me faça esperar muito...
+}
+Common_Brothel_263_m {
+Hmm, escute, querida, eu realmente aprecio todo esse seu charme, mas já está na hora de tratarmos dos negócios...
+}
+Common_Brothel_263_f {
+Agradeço de verdade todas as suas palavras, mas está na hora de irmos direto ao assunto...
+}
+Common_Brothel_264 {
+Olha, talvez você ainda consiga se acertar com a proprietária...
+}
+Common_Brothel_265 {
+Hmm, nem sei o que dizer...
+}
+Common_Brothel_266 {
+De jeito nenhum!
+}
+Common_Brothel_267 {
+Com certeza!
+}
+Common_Brothel_268 {
+Sim, claro!
+}
+Common_Brothel_269 {
+Estou indo, estou indo para a senhora...
+}
+Common_Brothel_270_m {
+Eu estava esperando por você, mas você nunca me levou! Não posso dizer que estou muito feliz com isso...
+}
+Common_Brothel_270_f {
+Eu estava esperando por você, mas você nunca me levou! Não posso dizer que estou muito contente com isso...
+}
+Common_Brothel_271 {
+Hmm, simplesmente aconteceu assim...
+}
+Common_Brothel_272_m {
+Ah, é você de novo, meu corsário encantador! Se quiser me encontrar outra vez, é só falar com a dona—não vai se arrepender... Aliás, eu te reconheci, querido, mas precisamos tratar todos os clientes do mesmo jeito, você entende...
+}
+Common_Brothel_272_f {
+Ah, é você de novo, minha linda! Se está me procurando outra vez, é só ir até a patroa — não vai se arrepender...
+}
+Common_Brothel_273_m {
+Espere só mais um pouco por mim, bela, e logo estaremos a sós novamente.
+}
+Common_Brothel_273_f {
+Espere só mais um pouco por mim, meu amor, e logo estaremos a sós novamente.
+}
+Common_Brothel_274 {
+Fico realmente lisonjeado por você ter se lembrado de mim. Infelizmente, não posso passar a noite com você agora.
+}
+Common_Brothel_275_m {
+Escute aqui, meu caro amigo, é melhor você ir trabalhar. Vai te fazer mais bem do que ficar falando.
+}
+Common_Brothel_275_f {
+Escute, é melhor você ir trabalhar. Isso vai te ajudar mais do que ficar falando à toa.
+}
+Common_Brothel_276_m {
+Hmm, você é estranho, sempre repetindo a mesma coisa...
+}
+Common_Brothel_276_f {
+Por que você continua repetindo a mesma coisa...
+}
+Common_Brothel_277 {
+Escuta, já não está bom assim?!
+}
+Common_Brothel_278_m {
+Hm, veja só, que surpresa — nada de novo, só mais tentativas tolas de me conquistar. Se quer dormir comigo, vá falar com a dona da casa, seu idiota!
+}
+Common_Brothel_278_f {
+Hm, bem, que surpresa, nada de novo...
+}
+Common_Brothel_279_m {
+Sim, eu ouvi...
+}
+Common_Brothel_279_f {
+Sim, eu ouvi...
+}
+Common_Brothel_280 {
+Hmm, então é assim que fica...
+}
+Common_Brothel_281 {
+Hmm, talvez isso seja suficiente, ou talvez não...
+}
+Common_Brothel_282_m {
+Cuidado com o que diz, cabra...
+}
+Common_Brothel_282_f {
+Cuidado com o que diz...
+}
+Common_Brothel_283_m {
+Ah, é você de novo! E mais uma vez com essas lisonjas tolas — nada nunca muda neste mundo... Se quer dormir comigo, pague à dona da casa. Suas palavras não significam nada para mim...
+}
+Common_Brothel_283_f {
+Ah, é você de novo! Só lembrando: se quiser se divertir comigo, pague à dona da casa. Suas palavras não significam nada para mim…
+}
+Common_Brothel_284 {
+Heh, quem diria...
+}
+Common_Brothel_285 {
+Hmm, não posso dizer que isso me deixou feliz... Que pena.
+}
+Common_Brothel_286 {
+Desculpe...
+}
+Common_Brothel_287_m {
+Que bom ver você na câmara da solidão. E o que faremos agora?
+}
+Common_Brothel_287_f {
+Que bom ver você na câmara da solidão. Então, vamos nos divertir?
+}
+Common_Brothel_288_m {
+Entre, não tenha vergonha—fique à vontade pelas próximas horas.
+}
+Common_Brothel_288_f {
+Pode entrar, não precisa ter vergonha. Eu sei como... te entreter, pode ficar tranquilo.
+}
+Common_Brothel_289 {
+@<RandPhraseSimple>
+}
+Common_Brothel_290 {
+Acho que não vamos nos entediar...
+}
+Common_Brothel_291_m {
+Vamos nos divertir, querida!
+}
+Common_Brothel_291_f {
+Não vamos perder tempo!
+}
+Common_Brothel_292 {
+@<RandPhraseSimple>
+}
+Common_Brothel_293_m {
+Ah, aí está você, meu bravo corsário! Eu lhe prometi algo, e agora estou pronto para cumprir minha palavra...
+}
+Common_Brothel_293_f {
+Ah, aí está você, minha linda! As próximas duas horas vão ser inesquecíveis...
+}
+Common_Brothel_294 {
+Hmm, isso parece tentador...
+}
+Common_Brothel_295_m {
+Ah, você finalmente chegou. Então, vamos direto ao assunto!
+}
+Common_Brothel_295_f {
+Ah, você finalmente chegou. Então, vamos direto ao assunto!
+}
+Common_Brothel_296_m {
+Vamos deixar isso pra lá, gatinha...
+}
+Common_Brothel_296_f {
+Muito bem, mostre do que é capaz...
+}
+Common_Brothel_297_m {
+Capitão, por que está tão calado?
+}
+Common_Brothel_297_f {
+Capitão, por que está tão calado hoje?
+}
+Common_Brothel_298_m {
+É o melhor que temos.
+}
+Common_Brothel_298_f {
+É o que é.
+}
+Common_Brothel_299 {
+A gente conversa da próxima vez.
+}
+Common_Brothel_300 {
+Não estou te pagando para conversar.
+}
+Common_Brothel_301_m {
+Mas você, bela, cantava como um rouxinol.
+}
+Common_Brothel_301_f {
+Mas você, querida, cantava como um rouxinol.
+}
+Common_Brothel_302 {
+@<RandPhraseSimple>
+}
+Common_Brothel_303 {
+@<LinkRandPhrase>
+}
+Common_Brothel_304_m {
+Você foi incrível, fiquei sem palavras de tanta alegria! Raramente uma mulher tem tanta beleza e paixão.
+}
+Common_Brothel_304_f {
+Ah, você realmente sabe como agradar uma mulher... Estou impressionada.
+}
+Common_Brothel_305 {
+Você gostou?
+}
+Common_Brothel_306 {
+Então, o que me diz? Está tudo bem?
+}
+Common_Brothel_307_m {
+Como vai, corsário, tudo certo?
+}
+Common_Brothel_307_f {
+Como vai, tudo bem?
+}
+Common_Brothel_308 {
+@<LinkRandPhrase>
+}
+Common_Brothel_309_m {
+Claro, está tudo bem.
+}
+Common_Brothel_309_f {
+Você realmente entende do assunto.
+}
+Common_Brothel_310_m {
+Tudo certo, querida.
+}
+Common_Brothel_310_f {
+Sabe, estou bastante satisfeito.
+}
+Common_Brothel_311 {
+@<RandPhraseSimple>
+}
+Common_Brothel_312 {
+Olha, você já vem me visitar há tanto tempo, acabei me apegando muito a você...
+}
+Common_Brothel_313 {
+É, eu sinto o mesmo por você, o que posso dizer...
+}
+Common_Brothel_314 {
+Então, cumpri minha promessa?
+}
+Common_Brothel_315_m {
+Então, você gostou dela?
+}
+Common_Brothel_315_f {
+Então, você gostou?
+}
+Common_Brothel_316_m {
+Espero que você esteja satisfeito, porque eu estou mu-u-uito satisfeito...
+}
+Common_Brothel_316_f {
+Espero que esteja satisfeito. Fiz o meu melhor...
+}
+Common_Brothel_317 {
+@<LinkRandPhrase>
+}
+Common_Brothel_318 {
+Sim, eu gostei muito de tudo.
+}
+Common_Brothel_319_m {
+Foi uma queda e tanto — você foi incrível!
+}
+Common_Brothel_319_f {
+Estava tudo simplesmente maravilhoso!
+}
+Common_Brothel_320 {
+@<RandPhraseSimple>
+}
+Common_Brothel_321 {
+Certo, está na hora de você ir.
+}
+Common_Brothel_322_m {
+Acabou o tempo, corsário. Hora de ir embora.
+}
+Common_Brothel_322_f {
+O tempo acabou, você precisa sair.
+}
+Common_Brothel_323 {
+@<RandPhraseSimple>
+}
+Common_Brothel_324 {
+Certo, até mais...
+}
+Common_Brothel_325 {
+Adeus, e obrigado...
+}
+Common_Brothel_326 {
+@<RandPhraseSimple>
+}
+Common_Brothel_327 {
+Então, você gostou daqui com a gente?
+}
+Common_Brothel_328 {
+Oi, linda, você viu uma mala por aqui?
+}
+Common_Brothel_329 {
+Passe aqui outra hora...
+}
+Common_Brothel_330 {
+Adeus, até nos encontrarmos novamente...
+}
+Common_Brothel_331 {
+Ficaremos felizes em vê-lo aqui novamente...
+}
+Common_Brothel_332 {
+@<LinkRandPhrase>
+}
+Common_Brothel_333 {
+Certo...
+}
+Common_Brothel_334 {
+É aquele baúzinho marrom com alça?
+}
+Common_Brothel_335 {
+É, algo assim...
+}
+Common_Brothel_336 {
+Como não encontraram o dono desse baúzinho, madame o levou para seu quarto.
+}
+Common_Brothel_337 {
+Obrigada, querido. Adeus.
+}
+Common_Brothel_338 {
+Sabe de uma coisa, quero te contar algo — talvez isso te ajude...
+}
+Common_Brothel_339_m {
+Hmm, fale mais alto, querida.
+}
+Common_Brothel_339_f {
+Hmm, fale, estou ouvindo.
+}
+Common_Brothel_340 {
+Recentemente, um dos meus clientes estava muito bêbado. Ficou falando sem parar sobre um tesouro na costa do Maine, prometeu que me deixaria rica...
+}
+Common_Brothel_341 {
+Talvez só conversa de bêbado.
+}
+Common_Brothel_342 {
+Pode ser. Mas não acho—ele não se lembrava de nada depois, então deve ter falado sem querer.
+}
+Common_Brothel_343 {
+Ele falou algo sobre a localização exata?
+}
+Common_Brothel_344 {
+na baía de San Juan del Norte
+}
+Common_Brothel_345 {
+na Baía de Amatica
+}
+Common_Brothel_346 {
+na Baía da Perdição, perto de Belize
+}
+Common_Brothel_347 {
+Ele estava resmungando algo sobre @<str>.
+}
+Common_Brothel_348 {
+Bem, obrigado pela informação. Se eu tiver a oportunidade, vou dar uma olhada nesse lugar.
+}
+Common_Brothel_349_m {
+Então volte outra vez, vou ficar sempre feliz em te ver... Você é tão gentil, diferente dos outros — nem cumprimentam, nem se despedem, e estão sempre procurando briga...
+}
+Common_Brothel_349_f {
+Então volte sempre que quiser, vou adorar te ver... Você é tão gentil, diferente daqueles homens — nunca dão um oi ou tchau, e estão sempre procurando confusão...
+}
+Common_Brothel_350 {
+Do que você está falando?..
+}
+Common_Brothel_351 {
+Sim, aquele era o sargento da guarda que você viu. Ele nunca aparece por aqui, mas algo trouxe ele desta vez. E logo escolheu a mim, de todas as pessoas... Ficou enrolando um tempo, depois me chamou de desastrado e saiu correndo para alguma baía. Foi tão rápido que quase deixou as calças para trás, ha-ha-ha...
+}
+Common_Brothel_352_m {
+Quem saberia melhor do que você, bela, como os homens são? Diz para a esposa que vai ao bordel, diz para a amante que está correndo para casa, e o tempo todo... está escapando para a baía, de patrulha. Ha-ha-ha-ha!
+}
+Common_Brothel_352_f {
+Quem saberia melhor do que você, querida, como são os homens? Diz para a esposa que vai ao bordel, diz para a amante que está correndo para casa, mas na verdade... está indo escondido para a baía fazer patrulha. Ha-ha-ha!
+}
+Common_Brothel_353 {
+Não, querida, infelizmente não encontrei. Gostaria de ajudar, mas não posso...
+}
+Common_Brothel_354_m {
+Não, bonitão, não vi o anel...
+}
+Common_Brothel_354_f {
+Não, senhorita, não vi o anel...
+}
+Common_Brothel_355 {
+Infelizmente, não. Não vi nenhum anel.
+}
+Common_Brothel_356 {
+@<LinkRandPhrase>
+}
+Common_Brothel_357 {
+Que pena... Bem, obrigado mesmo assim.
+}
+Common_Brothel_358 {
+Você está falando do anel do governador, por acaso?
+}
+Common_Brothel_359 {
+Exatamente, querida!
+}
+Common_Brothel_360 {
+Não, querida, infelizmente não encontrei. Gostaria de ajudar, mas não posso...
+}
+Common_Brothel_361_m {
+Não, bonitão, não vi o anel...
+}
+Common_Brothel_361_f {
+Não, senhorita, não vi o anel...
+}
+Common_Brothel_362 {
+Infelizmente, não. Não vi nenhum anel.
+}
+Common_Brothel_363 {
+@<LinkRandPhrase>
+}
+Common_Brothel_364 {
+Que pena... Bem, obrigado mesmo assim.
+}
+Common_Brothel_365 {
+Desculpe, mas o anel foi dado para mim! Então não preciso devolvê-lo.
+}
+Common_Brothel_366 {
+Presenteado?! Por quem?
+}
+Common_Brothel_367 {
+Pelo próprio governador, é claro!
+}
+Common_Brothel_368 {
+Para dizer o mínimo, ele estava um pouco bêbado. Ele não se lembra de nada.
+}
+Common_Brothel_369 {
+E o que eu tenho a ver com isso? Se ele estava fora de si, o problema é dele!
+}
+Common_Brothel_370 {
+Escuta, querida, estamos falando do governador. Pra que se indispor com ele? É só uma aliança de casamento... Devolve isso, não vale a pena se meter em confusão por uma coisa tão insignificante.
+}
+Common_Brothel_371 {
+Eu te dou o anel, mas só se você me pagar cinco mil piastras.
+}
+Common_Brothel_372 {
+Certo, pegue seu dinheiro e entregue o anel.
+}
+Common_Brothel_373 {
+Hm, tudo bem então. Deixe que levem!..
+}
+Common_Brothel_374 {
+Com certeza, querida!
+}
+Common_Brothel_375 {
+Por favor...
+}
+Common_Brothel_376 {
+Ótimo, perfeito. Obrigado pela ajuda, querida.
+}
+Common_Brothel_377 {
+E daí?
+}
+Common_Brothel_378_m {
+Ouvi dizer que um dos piratas estava vendendo um tipo de livro, como uma Bíblia ou algo assim...
+}
+Common_Brothel_378_f {
+Ouvi dizer que um dos piratas estava oferecendo um tipo de livro à venda, dizem que seria uma Bíblia...
+}
+Common_Brothel_379_m {
+Sim, isso aconteceu, eu me lembro... Escuta, bonitão, que tal subirmos e eu respondo todas as suas perguntas? Vai te custar só 1.000 moedas...
+}
+Common_Brothel_379_f {
+Sim, isso aconteceu, eu me lembro... Escuta, moça, me pague e eu respondo todas as suas perguntas. Vai te custar só 1.000 moedas...
+}
+Common_Brothel_380_m {
+Só preciso descobrir uma coisa...
+}
+Common_Brothel_380_f {
+Você alguma vez faz algo de graça?
+}
+Common_Brothel_381_m {
+Tudo bem, vou responder qualquer pergunta que você tiver. Mas só lá em cima—não é aqui que devemos conversar.
+}
+Common_Brothel_381_f {
+Hee-hee-hee... Você quer informações—eu quero dinheiro. Se quiser, posso te oferecer mais do que só informações, se subirmos... Eu conheço o seu tipo. Mas isso vai custar mais, hee-hee...
+}
+Common_Brothel_382_m {
+Droga, não tenho tempo...
+}
+Common_Brothel_382_f {
+Não tenho tempo para tolices.
+}
+Common_Brothel_383_m {
+Ah, o homem ficou com medo do carinho de uma mulher!!!
+}
+Common_Brothel_383_f {
+Ah, vamos lá... Me dê mil e eu te conto tudo o que sei.
+}
+Common_Brothel_384 {
+Aqui está o seu dinheiro, mas fale logo—diga o que sabe, aqui e agora.
+}
+Common_Brothel_385_m {
+Não estou com medo, só não tenho dinheiro... Vou aparecer assim que juntar mil...
+}
+Common_Brothel_385_f {
+Vou passar aí assim que juntar mil...
+}
+Common_Brothel_386 {
+Laurens de Graaf disse na época que poderia vender um livro raro, supostamente uma Bíblia.
+}
+Common_Brothel_387 {
+Hmm, e daí?
+}
+Common_Brothel_388 {
+Eles o viraram nas mãos. Há um crucifixo em relevo na capa, mas fora isso, é impossível saber que tipo de livro é. Está escrito em uma língua desconhecida — ninguém conseguiria sequer imaginar qual é o alfabeto.
+}
+Common_Brothel_389_m {
+Hmm, já que está à venda, gostaria de comprá-lo. Como posso encontrar esse corsário?
+}
+Common_Brothel_389_f {
+Hmm, já que está à venda, gostaria de comprá-lo. Como posso encontrar esse corsário?
+}
+Common_Brothel_390 {
+Vá direto para Tortuga e você o encontrará lá. Como eu disse, o nome dele é Laurens de Graaf, um famoso bucaneiro, holandês.
+}
+Common_Brothel_391 {
+Obrigado, vou até lá.
+}
+Common_Brothel_392 {
+Ei, é verdade que esse livro realmente vale alguma coisa?
+}
+Common_Brothel_393 {
+Difícil dizer, vamos ter que ver. O que o de Graaf disse? Onde ele encontrou, o que ele sabe sobre o livro?
+}
+Common_Brothel_394 {
+Nada de especial, na verdade — ninguém estava prestando muita atenção nele. Tínhamos outras preocupações, certamente não a Bíblia...
+}
+Common_Brothel_395 {
+Entendi. Obrigado, vou procurar o de Graaf.
+}
+Common_Brothel_396 {
+Escute, @<npchar>, estou procurando pelo Sharp. Você sabe onde ele está?
+}
+Common_Brothel_397 {
+Até onde sei, o capitão Sharp partiu para @<XI_ConvertString>.
+}
+Common_Brothel_398 {
+Heh! Obrigado, @<npchar>. Você realmente me ajudou!
+}
+Common_Brothel_399 {
+Eu sei. Ele está descansando na minha casa. Posso chamá-lo se você precisar dele com urgência.
+}
+Common_Brothel_400 {
+Faça-me um favor, @<npchar>...
+}
+Common_Brothel_401 {
+Não sei, faz tempo que não tenho.
+}
+Common_Brothel_402 {
+Entendi... Então, obrigado, @<npchar>.
+}
+Common_Brothel_403 {
+Bartholomew! Venha aqui, querido, tem alguém te chamando!
+}
+Common_Brothel_404 {
+Heh, parece que o Sharp é muito respeitado por aqui...
+}

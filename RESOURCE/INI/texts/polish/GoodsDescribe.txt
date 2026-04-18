@@ -1,0 +1,276 @@
+newline {
+
+}
+Balls {Kule pełne}
+Balls_descr
+{
+Najtańszy, najprostszy w użyciu i niezawodny rodzaj amunicji. Kule armatnie służą głównie do zadawania obrażeń kadłubowi statku oraz ostrzału nadbrzeżnych fortyfikacji z dużej odległości, ale nie są zbyt skuteczne przeciwko załodze wroga.
+~
+Obrażenia: kadłub - #f.2DamageHull#; żagle - #f.2DamageRig#; załoga - #f.2DamageCrew#
+}
+Grapes {Kartacz}
+Grapes_descr
+{
+Małe metalowe kulki wsypywane do lufy działa to kartacz, który zadaje przerażające obrażenia załodze. Ze względu na niewielki zasięg, zaleca się użycie go w walce morskiej tuż przed abordażem.
+~
+Obrażenia: kadłub - #f.2DamageHull#, żagle - #f.2DamageRig#, załoga - #f.2DamageCrew#
+}
+Knippels {Knieple}
+Knippels_descr
+{
+Knipele zostały stworzone do niszczenia żagli przeciwnika. To dwa żelazne kule połączone łańcuchem lub drążkiem. W locie obracają się, owijając wokół siebie żagle i olinowanie, a czasem łamiąc także maszty.
+~
+Obrażenia: kadłub-#f.2DamageHull#, żagle-#f.2DamageRig#, załoga-#f.2DamageCrew#
+}
+Bombs {Bomby}
+Bombs_descr
+{
+Bomby to najdroższy z czterech rodzajów amunicji: to żeliwne kule wypełnione prochem, z wystającym lontem. Po wybuchu bomba rozpryskuje się, raniąc załogę odłamkami; fala uderzeniowa uszkadza kadłub, a ogień niszczy żagle.
+~
+Zadają obrażenia: kadłub-#f.2DamageHull#, żagle-#f.2DamageRig#, załoga-#f.2DamageCrew#
+}
+Sailcloth {Płótno żaglowe}
+Sailcloth_descr
+{
+Grube, gęste płótno używane do produkcji żagli.
+Angielskie kolonie w Ameryce Północnej wytwarzają wysokiej jakości bawełnę i konopie, a także tkają płótno z tych dwóch różnych włókien. Włókna poprzeczne są z bawełny, a wzdłużne (osnowa) z konopi. Ma lekko kremowy kolor, jest lżejsze i szybciej schnie w porównaniu z tradycyjnym, szarawym europejskim płótnem z niebielonego lnu.
+}
+Planks {Deski}
+Planks_descr
+{
+Suche deski z wyselekcjonowanego drewna drugiego gatunku, uzyskane przez rozłupywanie starych pni klinami. Są trwalsze od desek ciętych, mniej podatne na wysychanie, a także mniej się paczą i pękają.
+Najlepszy materiał do awaryjnych napraw kadłuba statku.
+}
+Wheat {Pszenica}
+Wheat_descr {Na żyznych ziemiach Nowego Świata pszenica daje trzy zbiory w roku. Handel pszenicą stał się teraz całkiem opłacalny. Mąka z lokalnej pszenicy doskonale nadaje się do wypieku najlepszych bułek i ciast.}
+Ebony {Heban}
+Ebony_descr
+{
+Drewno hebanowe od zawsze fascynowało zarówno stolarzy, jak i zwykłych ludzi swoją urodą i twardością – jest dwa razy twardsze od dębu. W połączeniu z wyjątkową barwą, to ulubiony wybór europejskiej arystokracji pragnącej zaimponować otoczeniu.
+Każdy rodzaj hebanu ma swój niepowtarzalny odcień – od zielonkawobrązowego po aksamitnie czarny. Z czasem drewno ciemnieje, staje się twardsze – i coraz droższe.
+}
+Chocolate {Kakao}
+Chocolate_descr
+{
+Niepozorna palma kakaowa, rodząca ziarna kakao, okazała się jednym z ważniejszych odkryć: rozpoczęto produkcję czekolady, cenionej zwłaszcza przez szlachetne damy za jej słodki smak.  
+Wysoki popyt na kakao wśród Indian i zamożnych mieszkańców już winduje ceny tego towaru, ale Włosi są gotowi płacić za nie złotem, co czyni ceny wręcz wygórowanymi.
+}
+Sugar {Cukier}
+Sugar_descr {Po założeniu plantacji trzciny cukrowej w Nowym Świecie cukier stał się jednym z głównych towarów eksportowanych do Europy. Może cukier trzcinowy nie dorównuje buraczanemu, ale jest znacznie tańszy.}
+Wine {Wino}
+Wine_descr {Kolonistom udało się uprawiać winorośl na żyznych ziemiach Nowego Świata, a eksportowane stąd wino jest wysoko cenione w Europie. Choć nie dorównuje delikatnością europejskim trunkom, wyróżnia się mocnym, przyjemnym aromatem i ogólną siłą.}
+Linen {Płótno}
+Linen_descr {Wykonany z lnu uprawianego na wyspach archipelagu, ten gruby, gęsty materiał nadaje się do szycia wszystkiego – od ubrań po żagle.}
+Rum {Rum}
+Rum_descr
+{
+Mocny i aromatyczny – rum nie tylko rozgrzewa i poprawia nastrój, ale też podnosi morale! Rum, w przeciwieństwie do wina czy ale, nie psuje się i świetnie chroni przed chorobami, takimi jak szkorbut. Rum dodaje się także do zapasów świeżej wody na statkach, by zrobić grog – napój, który dezynfekuje wodę i poprawia jej smak.
+Brak rumu na pokładzie może wywołać niezadowolenie wśród marynarzy, a nawet doprowadzić do buntu.
+}
+Tobacco {Tytoń}
+Tobacco_descr {Aromatyczne liście tytoniu... Od wieków wiernym towarzyszem marynarza była fajka. Palenie to jedno z lepszych sposobów na relaks, więc nic dziwnego, że tytoń szybko zyskał popularność wśród kupców. Liście tytoniu w lnianych workach to cenny ładunek dla wielu handlarzy.}
+Coffee {Kawa}
+Coffee_descr {Dzięki egzotycznemu smakowi, przyjemnemu aromatowi i pobudzającemu działaniu kawa szybko zyskała popularność. Pomimo wszystkich trudności związanych z jej produkcją, każdego roku wytwarza się jej coraz więcej, odpowiadając na „nienasycone pragnienie” Europy.}
+Mahogany {Mahoń}
+Mahogany_descr
+{
+Drewno tych drzew mahoniowych wyróżnia się niezwykle pięknym, naturalnym rysunkiem, a także dużą wytrzymałością, odpornością na ogień i trwałością. Łatwo poddaje się polerowaniu i nie jest atakowane przez szkodniki. Hiszpanie jako pierwsi docenili jego zalety – dziś mahoń jest szeroko wykorzystywany przy budowie mebli, kościołów i pałaców.
+Meble z mahoniu to symbol klasycznego luksusu, dobrego smaku i zamożności właściciela. Rzadko, ale bywa też używany do budowy kadłubów statków.
+}
+Cinnamon {Wanilia}
+Cinnamon_descr
+{
+Suszone i fermentowane strąki tej wiecznie zielonej pnącza pochodzącej z Meksyku mają słodki aromat, lecz gorzki smak.
+Wanilia jest używana w Europie do przygotowywania kakao i gorącej czekolady. Służy także do aromatyzowania tytoniu; niektórzy po prostu ją żują, choć najczęściej robią to dla pokazania swojego statusu!
+}
+Copra {Kopra}
+Copra_descr {Suszona miazga owoców kokosa. Kopra służy do produkcji oleju kokosowego i mydła, a wytłoki wykorzystywane są jako pasza dla zwierząt.}
+Paprika {Papryka}
+Paprika_descr
+{
+Zmielone i suszone czerwone papryczki chili – słodko-pikantna przyprawa, niezwykle popularna w kuchni jako dodatek smakowy.
+Papryka cieszy się ogromną popularnością wśród Niemców, Hiszpanów oraz w krajach śródziemnomorskiej Europy, bo doskonale pasuje niemal do wszystkiego: mięsa, drobiu, ryb, owoców morza, warzyw i serów.
+}
+Fruits {Owoce}
+Fruits_descr
+{
+Po przybyciu do Nowego Świata Europejczycy odkryli wiele gatunków roślin, których owoce nadawały się do jedzenia lub były uznawane za przysmak: mango, cytryny, awokado i inne. Świetnie sprawdzają się w zapobieganiu szkorbutowi lub do aromatyzowania taniego wina.
+Owoce można sprzedać w każdej osadzie – nawet na rzadkie delicje znajdą się amatorzy.
+}
+Ale {Ale}
+Ale_descr
+{
+Napój warzony o niskiej zawartości alkoholu, przygotowywany metodą górnej fermentacji.
+Ale, podobnie jak chleb, uznawane jest za podstawowy produkt spożywczy i wchodzi w skład racji żywnościowych lokalnych garnizonów (zwłaszcza angielskich). Ale można przechowywać przez długi czas; ponadto, dzięki gruitowi (mieszance ziół i przypraw używanych zamiast chmielu), posiada właściwości antybakteryjne.
+}
+Silk {Jedwab}
+Silk_descr {Cienka, lekka i niezwykle kosztowna tkanina, najpierw udoskonalona w Chinach, a przez ponad 2000 lat pilnie tam strzeżona. Niedawno Europejczycy w końcu odkryli jej sekret, więc teraz można ją wytwarzać także w Nowym Świecie. Tak wyjątkowa jest to materia, że przeciśnie się nawet przez najdrobniejsze szczeliny.}
+Clothes {Ubrania}
+Clothes_descr
+{
+Praktyczne, konserwatywne ubrania z ciemnej tkaniny, prosta bielizna z batystu, wykładane kołnierzyki i mankiety – wygodny strój każdego uczciwego, pracowitego, skromnego i oszczędnego mężczyzny.
+Niedrogi towar, zawsze poszukiwany.
+}
+Cotton {Bawełna}
+Cotton_descr
+{
+Bawełna na karaibskich plantacjach dojrzewa późno i daje raczej niskie plony w porównaniu z koloniami północnoamerykańskimi, ale jej włókna są bardzo cenne, ponieważ są wyjątkowo długie i cienkie. Te jedwabiste, kremowe włókna służą do produkcji nici na najcieńsze i najwyższej jakości tkaniny.
+Ta pracochłonna produkcja wymaga założenia stosunkowo dużej plantacji i ogromnej liczby pracowników, co stało się jedną z przyczyn popularności niewolnictwa.
+}
+Sandal {Sandałowiec}
+Sandal_descr {Cenny gatunek drewna jest ciężki, żółtawy i drobnoziarnisty, a w przeciwieństwie do wielu innych aromatycznych gatunków, zachowuje swój zapach przez dziesięciolecia. Szeroko stosowany w perfumerii, kosmetyce i medycynie. Ten rodzaj drewna nie występuje na miejscowych terenach. Jak trafił do Nowego Świata, pozostaje tajemnicą.}
+Leather {Skóra}
+Leather_descr
+{
+Wyprawione skóry bydła to uniwersalny towar, zawsze poszukiwany w Europie. To właśnie w ten sposób pierwsi bukaniarze zarabiali na życie, sprzedając skóry i mięso dzikiego bydła na Hispanioli.
+Choć niewielu kupców załadowałoby swoje statki wyłącznie skórą, świetnie nadaje się ona do wypełnienia pustej ładowni, bo jest bardzo wytrzymała i znosi wszelkie warunki transportu.
+}
+Oil {Olej}
+Oil_descr {Oliwa z oliwek, znana już od czasów starożytnej Grecji. Drzewa oliwne sprowadzono do Ameryki w XVI wieku, gdy zaczęto je uprawiać w regionach o klimacie podobnym do śródziemnomorskiego. Oliwa z oliwek służy do przygotowywania różnych potraw, nadając im przyjemny smak i aromat. Jest też naturalnym i bezpiecznym środkiem smarnym, może być używana do oświetlenia (lampy oliwne) lub jako baza do mydeł i detergentów.}
+Slaves {Niewolnicy}
+Slaves_descr {Żywy towar, bardzo poszukiwany w całym archipelagu. Najczęściej niewolnikami zostają czarnoskórzy przywożeni z Afryki lub pojmani marynarze. Sprzedając ich na specjalnych rynkach, można osiągnąć spory zysk. Praca niewolnicza stanowi fundament siły roboczej kolonii Nowego Świata.}
+Powder {Proch}
+Powder_descr
+{
+Proch wynaleziony przez Chińczyków jest niezbędny do wystrzału z armat. To importowany towar strategiczny, powstający w brudnych, hałaśliwych, śmierdzących i niebezpiecznych prochowniach. „Trzymaj proch suchy – zwycięstwo będzie po twojej stronie!” – mawiają doświadczeni kanonierzy. Nie można tego zbyt mocno podkreślić: bez prochu armaty nie oddadzą nawet jednego strzału i staną się tylko martwym balastem na statku.
+Rozsądny kapitan zawsze dba o zapas prochu w prochowni.
+}
+Food {Prowiant}
+Food_descr
+{
+Standardowy zestaw konserwowanych racji i świeżej wody, niezbędny do wyżywienia załogi i niewolników podczas rejsu.
+Brak żywności na pokładzie prowadzi do głodu, śmierci i spadku morale.
+~
+Dzienne zużycie:
+marynarze – 0,1 jednostki, niewolnicy – 0,05 jednostki.
+}
+Weapon {Broń}
+Weapon_descr
+{
+Zbiór broni: od szabel i mieczy po pistolety i muszkiety.
+Podczas abordażu każdy uczestnik walki musi być uzbrojony. Brak broni powoduje wzrost strat.
+Gdy marynarze giną w walce, liczba broni na pokładzie maleje.
+}
+Gold {Złoto}
+Gold_descr
+{
+Lite złota oznaczone przez Skarb Hiszpanii. Zanim wszystko trafi na statki, Hiszpanie przetapiają zdobyte wyroby złote na sztabki.
+Przejęcie okrętu skarbca załadowanego złotem to marzenie każdego pirata i korsarza.
+}
+Silver {Srebro}
+Silver_descr
+{
+Lite srebra oznaczone przez Skarb Hiszpanii.
+Pożądana zdobycz, bo srebro ma sporą wartość i jest drugim wyborem hiszpańskiego skarbca do przechowywania i przewożenia bogactwa. Większość wydobywa się w miejscu zwanym „Srebrną Górą”, niedaleko Potosí.
+}
+Pinctada {Perłopławy}
+Pinctada_descr {Cenny łup poławiaczy pereł – karaibskie małże (Pinctada longisquamosa) zbierane na płytkich ławicach. Ich opalizujące muszle mogą skrywać skarby... albo puste nadzieje. Najzręczniejsi potrafią otworzyć je tak, by nie uszkodzić warstwy macicy perłowej...}
+Brick {Cegły}
+Brick_descr
+{
+Zgrabne bloki i dachówki z terakoty. Są powszechnie wykorzystywane przy budowie miast, ponieważ drewno szybko gnije w wilgotnym klimacie Karaibów.
+Ze względu na częste pożary władze zachęcają do stosowania cegły, dlatego ten towar zawsze cieszy się zainteresowaniem.
+}
+Medicament {Leki}
+Medicament_descr
+{
+Zestaw leków i narzędzi przeznaczony do leczenia najczęstszych chorób oraz udzielania pierwszej pomocy rannym i poszkodowanym. Słoiki, proszki, bandaże, fiolki, lecznicze okłady – wszystko, co może uratować życie.
+Posiadanie leków na pokładzie pozwala ratować rannych, zmniejszać straty podczas abordażu i leczyć chorych w trakcie rejsu.
+}
+Cannon_3 {Falkonety}
+Cannon_3_descr
+{
+Działka pokładowe wyposażone w obrotową podstawę. Charakteryzują się dużą mobilnością, ale mają mniejszy zasięg i obrażenia z powodu niewielkiego kalibru.
+Często posiadają wymienną komorę zamkową, co pozwala na jeszcze szybsze przeładowanie.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_6 {Działa 6-funtowe}
+Cannon_6_descr
+{
+Lekkie półkanki są dość popularne na statkach kurierskich i handlowych ze względu na niską wagę i łatwość obsługi.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_8 {Działa 8-funtowe}
+Cannon_8_descr
+{
+Małe półkanyony, które do strzału żeliwnymi kulami, bombami, łańcuchami lub kartaczami wymagają czarnego prochu. Szeroko stosowane na mniejszych okrętach.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_12 {Działa 12-funtowe}
+Cannon_12_descr
+{
+Standardowe, bardzo niezawodne półkanońce używane przez większość flot wojskowych, zdolne do strzałów pod dużym kątem podniesienia, co znacząco zwiększa efektywny zasięg walki.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_16 {Działa 16-funtowe}
+Cannon_16_descr
+{
+Nowoczesne francuskie półkanońki okrętowe. Dzięki zaawansowanej konstrukcji i nowemu systemowi opracowanemu przez monsieur de Valliere, te działa mają większy zasięg ognia i zadają większe obrażenia niż zwykłe półkanońki. Jednak ich ładowanie trwa dłużej, są nieco mniej niezawodne i cięższe.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_20 {Działa 20-funtowe}
+Cannon_20_descr
+{
+Działa największego kalibru, zdolne wystrzeliwać solidne kule, co pozwala zwiększyć zadawane obrażenia przeciwnikowi. Jednak dłuższa lufa znacznie zwiększa ich wagę, co utrudnia przeładowanie.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_24 {Działa 24-funtowe}
+Cannon_24_descr
+{
+Najbardziej wyważone działa okrętowe pod względem głównych parametrów technicznych. Cieszą się zasłużoną popularnością na okrętach wojennych i ekspedycyjnych. „Złoty środek” wśród dział.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_32 {Działa 32-funtowe}
+Cannon_32_descr
+{
+Działa baterii – ciężkie działa dużego kalibru montowane na okrętach wojennych. Uniwersalne – do całkowitego zniszczenia kadłuba lub ostrzału umocnień. Poważne działa na poważne bitwy.
+Zasięg ognia – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_36 {Działa 36-funtowe}
+Cannon_36_descr
+{
+Działa długolufowe często spotyka się na dużych okrętach wojennych. Mimo długiego czasu przeładowania i sporej wagi są bardzo niszczycielskie i mają dużą donośność. Choć trudne w utrzymaniu, zdecydowanie są tego warte.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_42 {Działa 42-funtowe}
+Cannon_42_descr
+{
+Te działa oblężnicze są przestarzałe, ale wciąż stanowią potężną broń, którą można zamontować tylko na okrętach liniowych. Zadają ogromne obrażenia, idealne do niszczenia innych okrętów wojennych i masowych bombardowań fortyfikacji.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Cannon_48 {Zaklęte działa}
+Cannon_48_descr
+{
+Wyjątkowo ciężkie i potężne działa. Żeby je zdobyć, trzeba było zawrzeć kilka układów z azteckimi bogami... ale było warto.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Culverine_8 {Kulebriny 8-funtowe}
+Culverine_8_descr
+{
+Lekka półkulewryna o lżejszej konstrukcji, z dość długą lufą i zwiększonym zasięgiem ognia. Używana na małych i handlowych statkach ze względu na niewielką wagę.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Culverine_12 {Kulebriny 12-funtowe}
+Culverine_12_descr
+{
+Niewielka półkulewryna o lekkiej konstrukcji i długiej lufie. Charakteryzuje się dobrym zasięgiem i jest powszechnie stosowana na małych jednostkach. Zazwyczaj używana do ognia zaporowego.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Culverine_16 {Kulebriny 16-funtowe}
+Culverine_16_descr
+{
+Półkulewriny o zwiększonym zasięgu ognia, odpowiednie dla średnich okrętów. Pomimo dobrego zasięgu mają długi czas przeładowania i zadają mniejsze obrażenia.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Culverine_24 {Kulebriny 24-funtowe}
+Culverine_24_descr
+{
+Średnie kolubryny, dobre do poważnych starć. Mają zdumiewający zasięg strzału, ale są bardzo powolne i długo się ładują.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}
+Culverine_32 {Kulebriny 32-funtowe}
+Culverine_32_descr
+{
+Ciężkie kolubryny przeznaczone do ognia burzącego. Mogą być także używane w bateriach okrętowych i zadawać znaczne obrażenia wrogowi, o ile kanonier jest doświadczony, zręczny i celny. Wygrywa ten, kto strzeli pierwszy, można by rzec.
+Zasięg strzału – #dFireRange#, obrażenia – x#f.1DamageMultiply#, przeładowanie – #dReloadTime# sek.
+}

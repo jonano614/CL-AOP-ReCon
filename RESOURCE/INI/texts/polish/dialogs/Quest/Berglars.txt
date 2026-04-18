@@ -1,0 +1,594 @@
+Berglars_1_m {
+Zaczekaj, przyjacielu... Bądź tak dobry, powiedz mi, jak masz na imię?
+}
+Berglars_1_f {
+Zaczekaj, przyjaciółko... Bądź tak dobra, powiedz mi, jak masz na imię?
+}
+Berglars_2 {
+@<GetFullName> we własnej osobie. A co się stało?
+}
+Berglars_3 {
+Hej, czemu stoisz na drodze? Zejdź, przepuść mnie!
+}
+Berglars_4_m {
+Aha, właśnie ciebie potrzebuję...
+}
+Berglars_4_f {
+Aha, właśnie ciebie potrzebuję...
+}
+Berglars_5 {
+Słucham uważnie.
+}
+Berglars_6 {
+pod
+}
+Berglars_7 {
+za
+}
+Berglars_8 {
+To dobrze, że jesteś uważny, bo musimy omówić coś ważnego... Słuchaj: będę czekać na ciebie w podziemiach pod @<sStr> miastem.
+}
+Berglars_9 {
+Może pójdziemy do tawerny i tam porozmawiamy? Po co włóczyć się po norach, do diabła?
+}
+Berglars_10 {
+Nie, naprawdę nie potrzebujemy tu dodatkowych uszu i oczu, uwierz mi...
+}
+Berglars_11 {
+Hm, nie wiem... Czy to w ogóle warte zachodu?
+}
+Berglars_12_m {
+Sprawa życia i śmierci, przyjacielu. Dobra, nie mam czasu tu z tobą gadać, czekam na ciebie w podziemiach do zmierzchu. Nie przyjdziesz – twoja sprawa...
+}
+Berglars_12_f {
+Sprawa życia i śmierci, przyjaciółko. Dobra, nie mam czasu tu z tobą się rozwodzić, czekam na ciebie w podziemiach do zmierzchu. Nie przyjdziesz – twoja sprawa...
+}
+Berglars_13_m {
+Jeszcze jedno chciałem zapytać...
+}
+Berglars_13_f {
+Jeszcze o coś chciałam zapytać...
+}
+Berglars_14_m {
+A więc jednak przyszedłeś...
+}
+Berglars_14_f {
+A więc jednak przyszłaś...
+}
+Berglars_15_m {
+Tak, przyszedłem. Mów szybko, co to za sprawa życia i śmierci?
+}
+Berglars_15_f {
+Tak, przyszłam. Mów szybko, co to za sprawa życia i śmierci?
+}
+Berglars_16_m {
+Tak jest, przyjacielu, tak właśnie jest... Ustalmy szczegóły — chodzi o twoją śmierć i moje życie.
+}
+Berglars_16_f {
+Tak jest, przyjaciółko, dokładnie tak... Ustalmy szczegóły — chodzi o twoją śmierć i moje życie.
+}
+Berglars_17 {
+O czym ty mówisz?
+}
+Berglars_18_m {
+Mam nadzieję, że ostatnio się spowiadałeś. Zaraz odejdziesz do przodków — lepiej, żebyś był po komunii, bo inaczej będę się o ciebie martwić...
+}
+Berglars_18_f {
+Mam nadzieję, że ostatnio byłaś u spowiedzi. Zaraz odejdziesz na tamten świat — lepiej, żebyś była po komunii, bo inaczej będę się o ciebie martwić...
+}
+Berglars_19_m {
+Heh, doceniam troskę. Ty w ogóle wiesz, kim jestem, żeby tak do mnie mówić?
+}
+Berglars_19_f {
+Heh, doceniam troskę. W ogóle wiesz, kim ja jestem, żeby tak do mnie mówić?
+}
+Berglars_20_m {
+Jakiś tam kapitan, a więcej wiedzieć mi nie trzeba. Nie jesteś pierwszym z naiwniaków, którzy tu przychodzą i zostają na zawsze. Swoją drogą, stoisz właśnie na jednym z nich — dobry był z niego chłopak. A urodę miał jak Apollo.\nWidzisz, muszę cię zabić, inaczej się nie da. I tak się dowie, a zdrady u nas się nie wybacza!
+}
+Berglars_20_f {
+Jakaś tam kapitan, a więcej wiedzieć mi nie trzeba. Nie jesteś pierwszą głupią, która tu przyszła — i została na zawsze. Chociaż nie, ty jesteś pierwszą głupią, reszta to byli głupcy. Swoją drogą, stoisz właśnie na jednym z nich, dobry był z niego chłopak. A przystojny jak Apollo.\nRozumiesz, muszę cię zabić, nie mam wyjścia. I tak się dowie, a zdrady się u nas nie wybacza!
+}
+Berglars_21_m {
+No proszę, nigdy bym nie pomyślał, że za takim wyglądem może kryć się cyniczny morderca...
+}
+Berglars_21_f {
+No proszę, nigdy bym nie pomyślała, że za taką aparycją może kryć się cyniczny morderca...
+}
+Berglars_22_m {
+Heh, na tym właśnie polega sztuczka, przyjacielu — pozory mylą. Chciałem powiedzieć: zapamiętaj to na przyszłość, ale jaka tam przyszłość czeka ciebie...
+}
+Berglars_22_f {
+Heh, na tym właśnie polega sztuczka, przyjaciółko, pozory mylą. Chciałem powiedzieć – zapamiętaj to na przyszłość, ale jaka tam u ciebie przyszłość...
+}
+Berglars_23 {
+Chciałbym wierzyć, że lepiej niż u ciebie...
+}
+Berglars_24 {
+Och, wydaje mi się, że to właśnie was szukam, jeśli się nie mylę...
+}
+Berglars_25 {
+Kto wie, a macie do mnie sprawę?
+}
+Berglars_26 {
+Na początek, czy mógłby mi pan/pani podać swoje imię?
+}
+Berglars_27 {
+@<GetFullName>. A co?
+}
+Berglars_28 {
+Świetnie! Właśnie was potrzebuję. Mam coś dla was, muszę się z wami spotkać na osobności.
+}
+Berglars_29 {
+Chodźmy do tawerny, tam przy kuflu wszystko omówimy.
+}
+Berglars_30 {
+pod
+}
+Berglars_31 {
+za
+}
+Berglars_32 {
+Przepraszam, ale nie mogę tego zrobić, i proszę mi wierzyć, mam ku temu powód. Nie mam czasu na długą rozmowę, dlatego proszę, byście przyszli do podziemi pod @<sStr> miastem. Odbierzecie to, co wam się należy, w spokoju. Pospieszcie się, bądźcie tam przed północą.
+}
+Berglars_33 {
+Postaram się tam być. Czyżbym miał déjà vu?
+}
+Berglars_34 {
+Nawet nie wyobrażasz sobie, jak bardzo się cieszę, że cię widzę! He he he...
+}
+Berglars_35_m {
+Tak, jak widzisz, przyszedłem. Czego ode mnie chcesz, mów szybko!
+}
+Berglars_35_f {
+Tak, jak widzisz, przyszłam. Czego ode mnie chcesz, mów szybko!
+}
+Berglars_36 {
+Wyłóż wszystko, co masz, i mów, jaki masz statek, co za towar w ładowniach, po co jesteś w mieście?
+}
+Berglars_37 {
+A niby dlaczego?
+}
+Berglars_38_m {
+Mów, głupku, bo i tak sami dowiemy się wszystkiego o tobie i twoich kumplach!
+}
+Berglars_38_f {
+Mów, głupia, bo i tak sami dowiemy się wszystkiego o tobie i twoich kumplach!
+}
+Berglars_39_m {
+Tak właśnie myślałem! Jesteś już drugim draniem, który w ten sposób wciąga mnie na randki. Jesteście jakąś bandą?
+}
+Berglars_39_f {
+Tak właśnie myślałam! Jesteś drugim draniem, który w ten sposób zwabia mnie na randki. Jesteście jakąś bandą?
+}
+Berglars_40_m {
+Hm, nie jesteś taki głupi, jak on myślał.\nNo cóż, teraz na pewno nie przeżyjesz! Zrozum, nie mam wyboru — inaczej uznają mnie za zdrajcę i i tak mnie zabiją.
+}
+Berglars_40_f {
+Hm, nie jesteś taka głupia, jak on myślał.\nNo cóż, teraz na pewno nie przeżyjesz! Zrozum, nie mam wyboru — inaczej uznają mnie za zdrajcę i i tak mnie zabiją.
+}
+Berglars_41 {
+Już słyszeliśmy takie gadki. Zobaczymy, czy tym razem ci się poszczęści.
+}
+Berglars_42_m {
+O tak! Uważaj na optimatów, przyjacielu!
+}
+Berglars_42_f {
+O tak! Uważaj na optimatów, przyjaciółko!
+}
+Berglars_43 {
+Wybacz, co takiego, przyjacielu?
+}
+Berglars_44 {
+Sullańskie proskrypcje to czyste zło! Gdyby tylko wiedział, co to zrobi z imperium...
+}
+Berglars_45 {
+O czym ty mówisz?
+}
+Berglars_46 {
+Jak to o czym? Jak możesz tego nie rozumieć?!\n„Strzeż się źle przepasanego młokosa” — tak Sulla ostrzegał optymatów, i miał rację! Boski Juliusz zniszczył resztki republiki...
+}
+Berglars_47 {
+Przyjacielu, wygląda na to, że jesteś poważnie chory. Wybacz, ale ja już pójdę...
+}
+Berglars_48_m {
+Dokąd?! Dokąd pójdziesz? Zło czai się na każdym kroku, a ty już miałeś nieszczęście poczuć jego lodowaty dotyk. Dwa razy wpaść w pułapkę i ujść z życiem, hi-hi-hi...
+}
+Berglars_48_f {
+Dokąd?! Dokąd pójdziesz? Zło czai się na każdym kroku, a ty już miałaś nieszczęście poczuć jego lodowaty dotyk. Dwa razy wpaść w pułapkę i ujść z życiem, hi, hi, hi...
+}
+Berglars_49 {
+Mówisz o tych dziwnych ludziach, którzy zwabili mnie do podziemi i próbowali zabić?
+}
+Berglars_50_m {
+Szybko myślisz! He, he, he! Masz rację, wszystko się zgadza, przyjacielu, dokładnie tak...
+}
+Berglars_50_f {
+Szybko myślisz! He he he! Masz rację, wszystko się zgadza, kochanie, dokładnie tak...
+}
+Berglars_51 {
+Do diabła, kim oni są?! Czy ktoś nimi kieruje? I dlaczego to właśnie mnie ścigają?
+}
+Berglars_52_m {
+Hi hi hi, nie powiem... I nic... nic mi nie zrobisz... Tak jak oni w tamtym lesie, powinieneś wiedzieć!
+}
+Berglars_52_f {
+Hi hi hi, nie powiem... I nic... nic mi nie zrobisz... Tak samo jak oni w tamtym lesie, powinnaś wiedzieć!
+}
+Berglars_53 {
+Nie próbuj mnie zbić z tropu! Powiesz mi wszystko, inaczej pożałujesz!
+}
+Berglars_54 {
+Mam lepszy pomysł! Zagadki! Przecież lubisz je, wiem o was wszystkich wszystko! Znam was wszystkich na pamięć! Jestem jak sfinks przed tobą!\nPierwszy ma przezwisko Cloverman! Zupełnie jak Antiguaro! Hi hi hi. On uwielbia zasadę trzech kolorów: zielony, pomarańczowy i czerwony! Jestem pewien, że najbardziej pomarańczowy! A może zielony, jak myślisz?!\nDrugi z przezwiskiem chevalier Stara Żółwica miał szczęście z kontaktami w wyższych sferach, może urodził się w marcu?!\nTrzeci z tak głupim przezwiskiem Bloody Sideburns, na Wyspie Kokosowej! Hi hi hi! Nie jest z tego zadowolony. Nigdy się nie cieszy. A ty?\nCzwarty, zwany Green Skin, z gorącą głową chodzi i traci rozum! Tokilla na głowie by mu nie zaszkodziła! Hi hi hi! Ale chyba tak widzi świat?!\nPiąty to nowicjusz, zwą go Cooper! Lubi wysyłać swoje ofiary w rejs... hi hi, na małych łódeczkach! Indian Carthage byłby zachwycony takim cieślą, jak myślisz?! Hi hi!\nCzekaj, jest jeszcze szósty, z przezwiskiem Merry Gardener! On nie lubi całego tego zamieszania, ale jaki ma ogródek! I kolor roślin dziwny! I tak nie zgadniesz dlaczego?! Hi hi hi! Mówią, że specjalnie nawozi! Może stara się dla Katarzyny Aleksandryjskiej, co? Hi hi!\nA za nimi stoi maska — wcielenie boga-demiurga w człowieku. On nie oddałby miejsca najwyższego bóstwa Jowiszowi!
+}
+Berglars_55 {
+Cholera, to nie są zagadki, tylko stek bzdur. Chociaż to przynajmniej jakieś informacje – faktycznie cała organizacja...
+}
+Berglars_56_m {
+A ty ich szukaj i zabij wszystkich! Tylko w ten sposób zwrócisz uwagę Austina. Postaraj się to zrobić, zanim dowiedzą się o twoich zamiarach. Bądź ostrożny i przebiegły, nie spłosz ich, udawaj, że nic nie wiesz – inaczej nic z tego nie będzie!
+}
+Berglars_56_f {
+No to szukaj ich i zabij wszystkich! Tylko w ten sposób zwrócisz uwagę Austina. Postaraj się zrobić to, zanim dowiedzą się o twoich zamiarach. Bądź ostrożna i przebiegła, nie spłosz ich, udawaj, że nic nie wiesz – inaczej nic z tego nie będzie!
+}
+Berglars_57 {
+Może cię zaciukać, żeby mieć pewność? Czekaj, Austin?
+}
+Berglars_58 {
+Cholera jasna! Teraz nie mam już nic do stracenia! Ha! Już się nie boję... Przecież ja też zabijałem kapitanów, musiałem to robić... A-a-a-a, wtedy strach pożerał moją duszę!!! Nie! Nie! Nie! Już więcej tego nie zrobimy!!! Nie odważysz się! On nie znajdzie! M\nA ja wiem! Mam swoje sprawy z Cezarami! Muszę się spieszyć! Trzeba ostrzec Augusta, żeby nie rozgrzewał pęcherzyka żółciowego, tylko przeciwnie, robił zimny okład. Wtedy żółć zejdzie...
+}
+Berglars_59 {
+Tobie też powodzenia...
+}
+Berglars_60 {
+Dzień dobry, jeśli się nie mylę, jesteś @<GetFullName>.
+}
+Berglars_61_m {
+Dzień dobry. W czym mogę pomóc?
+}
+Berglars_61_f {
+Dzień dobry. Czym mogę służyć?
+}
+Berglars_62 {
+Posłuchajcie, mam dla was coś, co z pewnością was zainteresuje. I to w korzystnej cenie!
+}
+Berglars_63_m {
+Cóż, zawsze chętnie wysłucham propozycji biznesowych. Pokaż, co masz.
+}
+Berglars_63_f {
+No dobrze, zawsze chętnie przyjmuję propozycje biznesowe. Pokaż, co masz.
+}
+Berglars_64 {
+pod
+}
+Berglars_65 {
+za
+}
+Berglars_66 {
+Tylko nie tutaj, @<GetAddress_Form>. Nie potrzebujemy zbędnych oczu i uszu. Towar, powiedzmy, nie do końca legalny, a nie chcę ryzykować własną skórą. To bardzo rzadki indiański artefakt, nefrytowa czaszka, która ponoć daje wieczne życie. Straż za coś takiego albo zamknie, albo zabije na miejscu, więc musiałem ją dobrze ukryć. Będę czekać na was do północy w podziemiach, które są @<sStr> miastem. Przyjdźcie, nie zwlekajcie!
+}
+Berglars_67 {
+Wiesz, przyjacielu, nie jesteś pierwszym podejrzanym typem, który zaprasza mnie do tutejszych katakumb pod podobnym pretekstem. Poprzednie dwa razy skończyły się poważnymi kłopotami...
+}
+Berglars_68 {
+Tak, oczywiście! Z przyjemnością pojawię się na miejscu spotkania, zaciekawiłeś mnie. Ten przedmiot jest chyba dość cenny, prawda?
+}
+Berglars_69 {
+Ach, więc o to chodzi... Przepraszam, w takim razie nasza umowa nie dojdzie do skutku. Żegnajcie.
+}
+Berglars_70 {
+Zaczekajcie! Czego się tak przestraszyliście?! Cholera...
+}
+Berglars_71 {
+No cóż, nie jest tania, ale słyszałem, że w Curaçao jest na nią specjalny kupiec. Zapłaci za nią znacznie więcej, niż ty dasz.
+}
+Berglars_72 {
+A więc tak, dzięki za informację! Postaram się zdobyć wszystkie pieniądze!
+}
+Berglars_73 {
+Na pewno dogadamy się co do ceny, zapewniam... Czekam na was z niecierpliwością, @<GetAddress_Form>.
+}
+Berglars_74 {
+Możecie być pewni, nie będziecie musieli długo czekać.
+}
+Berglars_75_m {
+A, no wreszcie przyniosłeś tu swoje marne kości, @<GetFullName>!
+}
+Berglars_75_f {
+Aha, no wreszcie przyniosłaś tu swoje marne kości, @<GetFullName>!
+}
+Berglars_76 {
+No to co, pokaż tę swoją indiańską błyskotkę.
+}
+Berglars_77_m {
+Heh, tak, to ty się wykładaj! Ile kasy przyniosłeś?
+}
+Berglars_77_f {
+Heh, tak, to ty się tłumacz! Ile pieniędzy przyniosłaś?
+}
+Berglars_78 {
+Najpierw pokaż swój towar, choć wątpię, żebyś go miał.
+}
+Berglars_79_m {
+Masz rację! Nie ma żadnego towaru! Ciekawe, jak tak szybko się zorientowałeś?
+}
+Berglars_79_f {
+Masz rację! Nie ma żadnego towaru! Ciekawe, jak tak szybko to zrozumiałaś?
+}
+Berglars_80 {
+Żeby to zrozumieć, nie trzeba wielkiego rozumu. Jesteś już trzeci, który próbuje mnie w ten sposób okraść. To wasz własny wspólnik was wydał! Więc gadaj, kim jesteście i kim jest Austin?
+}
+Berglars_81 {
+Nie spodziewałem się takiego obrotu spraw... Cholerny szalony głupiec, jednak zdążył nas wydać! Niech go diabli!
+}
+Berglars_82 {
+Rozumiem... Dość już tych żalów, sam wpadłeś w pułapkę, więc odpowiadaj na pytania albo zginiesz!
+}
+Berglars_83_m {
+A ty, gnido, jeszcze nie zrozumiałeś, że zdrady u nas się nie wybacza?! Ten szaleniec już pewnie gryzie piach. A za moich braci, draniu, zemszczę się na tobie tu i teraz!
+}
+Berglars_83_f {
+A ty, gnido, jeszcze nie zrozumiałaś, że zdrady się u nas nie wybacza?! Ten szaleniec już pewnie gryzie piach. A za moich braci, szmato, zemszczę się na tobie tu i teraz!
+}
+Berglars_84 {
+Nigdy się, do cholery, nie nauczycie...
+}
+Berglars_85_m {
+Witam, @<GetAddress_Form>. Czy to pan jest tym słynnym kapitanem, który przywiózł z Starego Świata duży ładunek niewolników?
+}
+Berglars_85_f {
+Dzień dobry, @<GetAddress_Form>. Proszę powiedzieć, czy to pani jest tą słynną kapitan, która przywiozła z Starego Świata duży ładunek niewolników?
+}
+Berglars_86 {
+Rzeczywiście jestem kapitanem, ale nie zajmuję się przewozami tranzytowymi ze Starego Świata.
+}
+Berglars_87_m {
+Ach, jaka szkoda, jaka szkoda! Chciałem zaproponować temu kapitanowi wyjątkowo korzystny interes.
+}
+Berglars_87_f {
+Ach, jaka szkoda, naprawdę szkoda! Chciałem zaproponować jej wyjątkowo korzystny układ.
+}
+Berglars_88 {
+Potrzebujesz właśnie niewolników? Nie musisz w tym celu wyruszać do Starego Świata.
+}
+Berglars_89 {
+Nie, skądże! Mam towar niewielkich rozmiarów, ale bardzo wartościowy. To właśnie o takim marzą kupieccy kapitanowie — zajmuje mało miejsca na statku, a przynosi maksymalny zysk.
+}
+Berglars_90 {
+A co to za towar? Może nie będę chciał przewozić tego towaru na swoim statku. A jeśli jest przeklęty?
+}
+Berglars_91 {
+Hm, kapitanie, nie mogę tak po prostu o tym mówić. Sam pan rozumie – bezpieczeństwo i poufność są najważniejsze. Nie mogę odkrywać wszystkich kart przed pierwszym lepszym.
+}
+Berglars_92 {
+A jak ja, albo którykolwiek inny kapitan, mam ocenić sens tej transakcji, jeśli nie chcecie mówić o towarze?
+}
+Berglars_93 {
+pod
+}
+Berglars_94 {
+za
+}
+Berglars_95 {
+Jestem gotów omówić wszystko szczegółowo, ale nie tutaj. Proponuję spotkać się z tobą na osobności w podziemiach pod @<sStr> miastem. To nie zajmie dużo czasu, a ja będę miał pewność, że jestem bezpieczny.
+}
+Berglars_96 {
+Heh, już umawiano się ze mną na spotkanie w lochach, żeby pokazać jakiś artefakt. Powtarzacie się, nie mogliście wymyślić czegoś nowszego? Założę się, że po prostu chcecie mnie oszukać!
+}
+Berglars_97 {
+Myślę, że to uczciwe żądanie. Rozumiem to jak mało kto. W naszych czasach trzeba być baaardzo ostrożnym...
+}
+Berglars_98 {
+Coo? Jak mogliście tak o mnie pomyśleć! Nie mamy o czym rozmawiać! Żegnajcie!
+}
+Berglars_99_m {
+Chyba się zagalopowałem. Cholera...
+}
+Berglars_99_f {
+Chyba się zagalopowałam. Cholera...
+}
+Berglars_100 {
+No to ustalone. Będę tam na was czekać do zachodu słońca — jeśli nie przyjdziecie, wszystko przepada. I więcej mnie nie zobaczycie!
+}
+Berglars_101_m {
+Oczywiście, zrozumiałem. Będę!
+}
+Berglars_101_f {
+Oczywiście, zrozumiałam. Będę!
+}
+Berglars_102 {
+No proszę, doskonale! Przyszedł(a) pan(i), @<GetFullName>.
+}
+Berglars_103 {
+Nawet nie musisz się przedstawiać, świetnie. A gdzie towar, drogi panie?
+}
+Berglars_104_m {
+Wiesz co, mam dla ciebie złą wiadomość. Towar zniknął, ale to ty będziesz musiał za niego zapłacić. Wywracaj kieszenie, frajerze.
+}
+Berglars_104_f {
+Wiesz, mam dla ciebie złą wiadomość. Towar zniknął, ale to ty będziesz musiał za niego zapłacić. Wywracaj kieszenie, kurko.
+}
+Berglars_105 {
+Hm, wszystko po staremu...
+}
+Berglars_106 {
+O czym ty mówisz?
+}
+Berglars_107 {
+Słabo się staracie, panowie – to zbyt prymitywne. Trzeba by pogadać z Austinem, żeby wam trochę rozwinął wyobraźnię. Co, sezon polowania na głupców już otwarty?
+}
+Berglars_108_m {
+Wiedziałem, że to ty ich wszystkich zabiłeś! W końcu godny przeciwnik!
+}
+Berglars_108_f {
+Wiedziałem, że to ty ich wszystkich zabiłaś! W końcu godny przeciwnik!
+}
+Berglars_109 {
+Nie schlebiaj mi, lepiej powiedz, gdzie jest Austin.
+}
+Berglars_110 {
+Jeśli powiem, gdzie jest Austin, i tak będzie po mnie — gang nie wybacza zdrady. A tak mam jeszcze szansę przeżyć.
+}
+Berglars_111_m {
+Czemu jesteście tacy uparci?! Tyle waszych już posłałem na pożarcie szczurom. Poddaj się, a pożyjesz dłużej!
+}
+Berglars_111_f {
+Czemu jesteście tacy uparci?! Tyle waszych już posłałam na pożarcie szczurom. Poddaj się, a pożyjesz dłużej!
+}
+Berglars_112 {
+A gdzie tam, jeszcze nikt mnie nie pokonał!
+}
+Berglars_113 {
+No to zobaczymy...
+}
+Berglars_114 {
+Dzień dobry, @<GetAddress_Form>. Proszę powiedzieć, czy jest pan/pani kapitanem @<GetFullName>?
+}
+Berglars_115 {
+Tak, wszystko się zgadza.
+}
+Berglars_116 {
+Mam dla pana/pani wiadomość: pewien Austin chce się z panem/panią spotkać. Wie pan/pani, o co chodzi?
+}
+Berglars_117_m {
+Tak prosto, bez ogródek? Zaskakujące. Oczywiście, wiem, o co chodzi. Hm, zgadzam się. Gdzie on jest?
+}
+Berglars_117_f {
+Tak prosto, bez ogródek? Zaskakujące. Oczywiście, wiem, o co chodzi. Hm, zgadzam się. Gdzie on jest?
+}
+Berglars_118 {
+pod
+}
+Berglars_119 {
+za
+}
+Berglars_120 {
+Dobrze, że zgodził się pan dobrowolnie, kapitanie. Będzie czekał na pana do zachodu słońca w podziemiach pod @<sStr> miastem.
+}
+Berglars_121 {
+A, czyli jak zwykle... Dobrze, przekażcie, że na pewno przyjdę.
+}
+Berglars_122 {
+A, a więc jesteś tutaj, @<GetFullName>!
+}
+Berglars_123 {
+No dobrze, a gdzie jest sam Austin?
+}
+Berglars_124 {
+Jego samego tu nie ma, ale przesłał ci pozdrowienia i żąda, żebyście przestali polować na naszego brata.
+}
+Berglars_125 {
+Hm, jednak się mnie boi. Szczerze mówiąc, już mnie zmęczyliście. Mówcie, gdzie on jest, chcę omówić to z nim osobiście!
+}
+Berglars_126 {
+Niepotrzebnie masz o nim takie zdanie, @<GetFullName> — on chętnie spotka się z tobą osobiście i przekazuje, że można go znaleźć w jednej z osad poławiaczy pereł na zachodnim wybrzeżu Maina.
+}
+Berglars_127_m {
+No dobrze, dzięki za informację, nigdy bym nie wpadł na to, że herszt bandy rabusiów i morderców ukrywa się aż tak daleko. Tylko po co było się tu spotykać właśnie w tym miejscu?
+}
+Berglars_127_f {
+No dobrze, dzięki za informację, nigdy bym nie wpadła na to, że przywódca bandy rabusiów i morderców ukrywa się aż tak daleko. Tylko po co było się w tym celu spotykać akurat tutaj?
+}
+Berglars_128_m {
+Jak to jak?! Po pierwsze, sprawdzimy, czy potrafisz wykorzystać informacje, które ci przekazałam! Po drugie, naprawdę myślałeś, że nawet nie spróbuję pomścić moich towarzyszy i nie zanieść głowy na tacy Austinowi?!
+}
+Berglars_128_f {
+Jak to?! Po pierwsze, sprawdzimy, czy potrafisz wykorzystać informacje, które ci przekazałem! Po drugie, naprawdę myślałaś, że nawet nie spróbuję pomścić moich towarzyszy i nie przyniosę głowy na tacy Austinowi?!
+}
+Berglars_129 {
+Przecież wiesz, co stało się z tymi, którzy próbowali to zrobić przed tobą, prawda?
+}
+Berglars_130 {
+Wiem, ale on jest najsilniejszy w naszej bandzie i masz małe szanse.
+}
+Berglars_131 {
+Jak sobie życzysz, przyjacielu, im was mniej, tym lepiej.
+}
+Berglars_132 {
+Ach, żyjemy, @<GetAddress_Form>, w niespokojnych czasach. Ostatnio do naszego portu zawinął statek, kapitan wyszedł na ląd i już na pokład nie wrócił. Dopiero po tygodniu straż odnalazła jego ciało w jaskiniach za miastem... z poderżniętym gardłem od ucha do ucha! Podczas przesłuchania miejscowi mówili, że widzieli tego kapitana, jak szedł w stronę jaskiń z jakimś na pierwszy rzut oka niepozornym typem. Dlatego trzeba tu mieć oczy szeroko otwarte...
+}
+Berglars_133 {
+Była tu u nas taka historia – jeden kapitan zaginął... zszedł ze statku i ślad po nim zaginął. Znaleźli go dopiero po prawie miesiącu, w jaskini za miastem. Kula w głowie, a w kieszeniach ani grosza! Ale powiem wam, @<GetAddress_Form>, to na pewno nie była żadna zjawa! Zjawy nie grzebią po kieszeniach. Tu chodzi o coś innego, to pewne!.. Słyszałem, że w Saint John's też kapitanowie znikali, i to nie raz... No, to na zdrowie...
+}
+Berglars_134 {
+Witam gościa, to rzadkość w tych odludnych stronach. Czym mogę służyć?
+}
+Berglars_135_m {
+Dzień dobry, Austin. Postanowiłem zobaczyć cię osobiście, że tak powiem. Bo tylko pozdrowienia przekazują, a wszystko to w lochach...
+}
+Berglars_135_f {
+Dzień dobry, Austin. Postanowiłam zobaczyć cię osobiście, że tak powiem. Bo tylko pozdrowienia przekazują, i to wszystko w lochach...
+}
+Berglars_136_m {
+Austin? Niewielu zna to imię... Ach, już rozumiem. To ty jesteś tym kapitanem, który zabił kilku moich ludzi. @<GetFullName>, jeśli się nie mylę?
+}
+Berglars_136_f {
+Ostin? Niewielu zna to moje imię... Ach, już rozumiem. To ty jesteś tą kapitan, która zabiła kilku moich ludzi. @<GetFullName>, jeśli się nie mylę?
+}
+Berglars_137 {
+Dokładnie tak, Austin. Powiedz mi, przyjacielu, co się dzieje na tym świecie? Po miastach krążą mordercy, zwabiają łatwowiernych kapitanów i podrzynają im gardła.
+}
+Berglars_138_m {
+Nie wierzę własnym uszom! Chcesz mnie zawstydzić? I to mówi mi kapitan, który robi dokładnie to samo!
+}
+Berglars_138_f {
+Nie wierzę własnym uszom! Chcesz mnie zawstydzić? I to mówi mi dziewczyna, która robi dokładnie to samo!
+}
+Berglars_139 {
+Co to ma znaczyć?!
+}
+Berglars_140_m {
+Czy to nie ty ścigasz kupców po morzu? Czy to nie ty zabijasz ludzi setkami? I chcę ci zadać pytanie: po co to wszystko? Sam sobie odpowiem — dla pieniędzy.\nJesteśmy braćmi, złączeni krwią naszych ofiar, tylko ja jestem twoim bratem na lądzie.
+}
+Berglars_140_f {
+Czy to nie ty ścigasz po morzu kupców? Czy to nie ty zabijasz ludzi setkami? I chcę ci zadać pytanie: po co to wszystko? Sam sobie na nie odpowiem — dla pieniędzy.\nJesteśmy sobie bliscy przez krew naszych ofiar, tylko ja jestem twoim bratem z lądu.
+}
+Berglars_141 {
+Nie wciągam ludzi podstępem do nor!
+}
+Berglars_142 {
+Hm, czy to nie ty wznosisz bandery innych państw, próbując w ten sposób oszukać ofiarę i bez przeszkód się do niej zbliżyć?
+}
+Berglars_143 {
+To tylko twoje domysły, Austin!
+}
+Berglars_144_m {
+To dokładnie to samo, przyjacielu! Oszustwo, morderstwo, przejęcie majątku ofiary. Wszystko się zgadza, morski bracie.\nWięc odpowiem na twoje pytanie z początku naszej rozmowy — nie dzieje się nic nadzwyczajnego, wszystko toczy się swoim zwykłym biegiem.
+}
+Berglars_144_f {
+To dokładnie to samo, przyjaciółko! Oszustwo, morderstwo, przejęcie majątku ofiary. Wszystko się zgadza, morska siostro.\nWięc odpowiem na twoje pytanie z początku naszej rozmowy — nic nadzwyczajnego się nie dzieje, wszystko toczy się swoim zwykłym biegiem.
+}
+Berglars_145 {
+Ładnie to mówisz, ale może po prostu się boisz, Austin.
+}
+Berglars_146_m {
+Hm... No i co? Mów, po co przyszedłeś, morski bracie.
+}
+Berglars_146_f {
+Hm... No i co? Mów, po co przyszłaś, morska siostro.
+}
+Berglars_147_m {
+Potrafisz nieźle namieszać, nic dziwnego, że twoi ludzie byli ci wierni do samego końca. Umiałeś im dobrze namieszać w głowach. Ale wiesz co? Ja też nie jestem byle kim. I powiem ci jedno — jest między nami ogromna różnica. Ja daję ludziom wybór: mogą się poddać albo zginąć. Ty żadnego wyboru nie dajesz, a wszystkie twoje ofiary leżą zakopane tam, w lochach. I co najważniejsze: ja ryzykuję własnym życiem, w przeciwieństwie do ciebie, który siedzisz sobie wygodnie w tym domku. Jesteście prawdziwymi szczurami lądowymi! Więc nie jesteś mi bratem.
+}
+Berglars_147_f {
+Potrafisz nieźle namieszać, nic dziwnego, że twoi ludzie byli ci wierni do samego końca. Umiałeś im dobrze namieszać w głowach. Ale wiesz co? Ja też nie jestem naiwna. I powiem ci jedno – między nami jest ogromna różnica. Ja daję ludziom wybór: mogą się poddać albo zginąć. Ty żadnego wyboru nie dajesz, a wszystkie twoje ofiary leżą zakopane tam, w lochach. I co najważniejsze: ja ryzykuję własnym życiem, w przeciwieństwie do ciebie, który siedzisz sobie wygodnie w tym domku. Jesteście prawdziwymi szczurami lądowymi! Więc nie jesteś mi bratem.
+}
+Berglars_148_m {
+Śmiesz mnie i moich ludzi obrażać w moim własnym domu?! Po to tu przyszedłeś?
+}
+Berglars_148_f {
+Śmiesz mnie i moich ludzi obrażać w moim własnym domu?! Po to tu przyszłaś?
+}
+Berglars_149 {
+Nie do końca, Austin. Chcę dokończyć to, co zacząłem, i pozbyć się ciebie!
+}
+Berglars_150_m {
+Cóż, to nawet lepiej, ty też już mnie porządnie zmęczyłeś. Zaczynajmy, @<GetAddress_Form>!
+}
+Berglars_150_f {
+Cóż, to nawet lepiej, ty też już mi się znudziłaś. Zaczynajmy, @<GetAddress_Form>!
+}
+Berglars_151_m {
+Czekałem na to od dawna!
+}
+Berglars_151_f {
+Czekałam na to od dawna!
+}

@@ -1,0 +1,144 @@
+Sailor_1 {
+Dzień dobry, @<GetAddress_Form>. Z tego, co wiem, jest pan kapitanem własnego statku. Mam do pana sprawę biznesową.
+}
+Sailor_2 {
+Słucham uważnie, @<GetAddress_FormToNPC>. O co chodzi?
+}
+Sailor_3 {
+Przepraszam, @<GetAddress_FormToNPC>, ale bardzo się spieszę.
+}
+Sailor_4 {
+Witam, kapitanie! Czego sobie życzycie od zwykłego marynarza?
+}
+Sailor_5_m {
+Witam, panie. W czym mogę pomóc?
+}
+Sailor_5_f {
+Dzień dobry, pani. W czym mogę pomóc?
+}
+Sailor_6_m {
+Dzień dobry, szanowny panie. Czy chciał pan o coś zapytać?
+}
+Sailor_6_f {
+Dzień dobry, szanowna pani. Czy chciała pani o coś zapytać?
+}
+Sailor_7 {
+@<LinkRandPhrase>
+}
+Sailor_8 {
+Miło mi pana poznać! Nazywam się @<GetFullName>. Czy znajdzie się chwila na rozmowę?
+}
+Sailor_9 {
+Mam do ciebie pytanie.
+}
+Sailor_10 {
+Potrzebuję informacji o sprawach w tej kolonii.
+}
+Sailor_11 {
+@<RandPhraseSimple>
+}
+Sailor_12_m {
+Chciałem się tylko przywitać. Trzymaj się!
+}
+Sailor_12_f {
+Chciałam się tylko przywitać. Trzymaj się!
+}
+Sailor_13_m {
+To znowu pan? Czy chciał pan jeszcze o coś zapytać?
+}
+Sailor_13_f {
+To znowu pani? Czy chciała pani jeszcze o coś zapytać?
+}
+Sailor_14 {
+Masz może chwilę, żeby pogadać o tym i owym?
+}
+Sailor_15 {
+Mam do ciebie pytanie.
+}
+Sailor_16 {
+Potrzebuję informacji o sprawach w tej kolonii.
+}
+Sailor_17 {
+@<RandPhraseSimple>
+}
+Sailor_18 {
+Nie, przyjacielu, nic takiego. Powodzenia!
+}
+Sailor_19_m {
+@<GetFullName> do usług, drogi panie! Czego chciałbyś się dowiedzieć?
+}
+Sailor_19_f {
+@<GetFullName> do usług, najmilsza! Czego chciałaś się dowiedzieć?
+}
+Sailor_20 {
+Miło pogawędzić, kapitanie!
+}
+Sailor_21 {
+Cóż, chyba mam jeszcze trochę czasu...
+}
+Sailor_22 {
+Niestety, muszę już iść. Wszystkiego dobrego!
+}
+Sailor_23 {
+Może opowie pan coś ciekawego?
+}
+Sailor_24 {
+Może opowie pan coś ciekawego?
+}
+Sailor_25 {
+Może opowie pan coś ciekawego?
+}
+Sailor_26 {
+Tak, oczywiście. Powodzenia!
+}
+Sailor_27 {
+Ja i kilku moich przyjaciół zostaliśmy wysadzeni na ląd po odniesionych ranach. Teraz wyzdrowieliśmy i chcielibyśmy znów zaciągnąć się jako marynarze. Czy nie chciałbyś uzupełnić swojej załogi?
+}
+Sailor_28 {
+Mnie i kilku chłopaków niedawno wysadzono na ląd z kupieckiego statku – skończył nam się kontrakt z właścicielem. Od kilku dni tkwimy bez zajęcia i chcielibyśmy zaciągnąć się jako marynarze. Czy nie potrzebuje pan do swojej załogi doświadczonych ludzi morza?
+}
+Sailor_29 {
+Dwa tygodnie temu wróciliśmy z przyjaciółmi z rejsu, właściciel nam zapłacił i przez te dni bawiliśmy się świetnie. Ale wiatr już hula w marynarskiej kieszeni – czas znów ruszać na morze. Nie zatrudniłby nas pan na swoim statku, kapitanie?
+}
+Sailor_30_m {
+No dobrze, jestem gotów rozważyć waszą propozycję. Ilu was jest i jakie macie umiejętności na statku?
+}
+Sailor_30_f {
+No dobrze, jestem gotowa rozważyć twoją propozycję. Ilu was jest i jakie macie umiejętności na statku?
+}
+Sailor_31 {
+Przykro mi, marynarzu, ale moja załoga jest już w komplecie. Będziesz musiał poszukać innego kapitana.
+}
+Sailor_32 {
+Choć najlepiej ze wszystkiego radzimy sobie z żaglami i olinowaniem. Bez fałszywej skromności powiem: zjedliśmy na tym zęby, więc nie zawiedziemy nawet podczas najgwałtowniejszego sztormu!
+}
+Sailor_33 {
+Jednak najbardziej przypadła nam do gustu pokład działowy. Zapewniam, że nikt w waszej załodze nie potrafi obsługiwać armat tak jak my. W samym środku bitwy możecie na nas liczyć bez obaw!
+}
+Sailor_34 {
+Ale nasz żywioł to abordażowa walka. Błysk szabel, zapach prochu i krwi — to jest nasze powołanie. W starciu z nami trudno sobie poradzić, więc w razie niebezpieczeństwa nasze ostrza was nie zawiodą, kapitanie!
+}
+Sailor_35 {
+Jest nas @<FindPeoplesString> i pójdziemy na służbę tylko wszyscy razem. Potrafimy wszystko, co przystoi marynarzowi. @<sTemp>
+}
+Sailor_36 {
+Brzmi bardzo kusząco. Ile chcecie zaliczki?
+}
+Sailor_37 {
+Przykro mi, marynarzu, ale nie mam miejsca na statku dla was wszystkich. Będziecie musieli poszukać innego kapitana.
+}
+Sailor_38 {
+@<FindMoneyString> na głowę. Potem zwykły żołd marynarza. Nie będziemy prosić o więcej, kapitanie.
+}
+Sailor_39 {
+Umowa stoi! Oto cała suma. Idźcie na mój statek, nazywa się '@<pchar>', stoi na redzie. Bosman przydzieli wam miejsca w kubryku i da zajęcie.
+}
+Sailor_40 {
+Niestety, nie stać mnie na opłacenie twoich usług. Będziesz musiał poszukać innego kapitana.
+}
+Sailor_41 {
+Już idziemy, kapitanie! Zbiorę chłopaków i natychmiast ruszamy na pokład!
+}
+Sailor_42 {
+No dalej, pospieszcie się, nie zamierzam tu długo zostawać.
+}

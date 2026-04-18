@@ -1,0 +1,276 @@
+newline {
+
+}
+Balls {Vollkugel}
+Balls_descr
+{
+Die günstigste, einfachste und zuverlässigste Munitionsart. Kanonenkugeln werden meist eingesetzt, um dem Rumpf eines Schiffs Schaden zuzufügen oder Küstenbefestigungen aus großer Entfernung anzugreifen, sind jedoch wenig effektiv gegen die feindliche Crew.
+~
+Schaden: Rumpf – #f.2DamageHull#; Segel – #f.2DamageRig#; Crew – #f.2DamageCrew#
+}
+Grapes {Kartätsche}
+Grapes_descr
+{
+Kleine Metallkugeln, die in den Lauf der Kanone gefüllt werden, nennt man Kartätsche. Sie richten verheerenden Schaden an der Crew an. Da die effektive Reichweite sehr gering ist, empfiehlt es sich, sie im Seegefecht direkt vor dem Entern einzusetzen.
+~
+Schaden: Rumpf – #f.2DamageHull#, Segel – #f.2DamageRig#, Crew – #f.2DamageCrew#
+}
+Knippels {Kettenkugel}
+Knippels_descr
+{
+Kettenkugeln wurden entwickelt, um die Segel des Feindes zu zerstören. Knüppel bestehen aus zwei Eisenkugeln, die mit einer Kette oder einer Stange verbunden sind. Im Flug drehen sie sich, wickeln die Segel um sich und können dabei auch die Masten brechen.
+~
+Schaden: Rumpf-#f.2DamageHull#, Segel-#f.2DamageRig#, Crew-#f.2DamageCrew#
+}
+Bombs {Bomben}
+Bombs_descr
+{
+Bomben sind die teuerste der vier Munitionsarten: Es handelt sich um gusseiserne Kugeln, die mit Schwarzpulver gefüllt und mit einer herausragenden Zündschnur versehen sind. Nach der Explosion zerplatzt die Bombe, wodurch die Crew verletzt wird; die Druckwelle beschädigt den Rumpf und das Feuer setzt die Segel in Brand.
+~
+Fügt Schaden zu: Rumpf-#f.2DamageHull#, Segel-#f.2DamageRig#, Crew-#f.2DamageCrew#
+}
+Sailcloth {Segeltuch}
+Sailcloth_descr
+{
+Dickes, dichtes Segeltuch, das zur Herstellung von Segeln verwendet wird.
+Die englischen nordamerikanischen Kolonien produzieren hochwertigen Baumwoll- und Hanfstoff und weben daraus Segeltuch aus zwei verschiedenen Fasern. Die Querfäden bestehen aus Baumwolle, die Längsfäden (die Basis) aus Hanf. Es ist cremefarben, leichter und trocknet schneller als das traditionelle, grautonige europäische Segeltuch aus ungebleichtem Flachs.
+}
+Planks {Planken}
+Planks_descr
+{
+Getrocknete Bohlen aus ausgewähltem Holz der zweiten Klasse, gewonnen durch das Spalten alter Baumstämme mit Keilen. Sie sind robuster als gesägte Planken, weniger anfällig für Austrocknung und verziehen oder reißen nicht so stark.
+Das beste Material für Notreparaturen am Schiffsrumpf.
+}
+Wheat {Weizen}
+Wheat_descr {Auf den fruchtbaren Böden der Neuen Welt bringt Weizen drei Ernten im Jahr ein. Der Weizenhandel ist nun recht profitabel geworden. Aus dem heimischen Weizen gemahlenes Mehl eignet sich hervorragend zum Backen der feinsten Brötchen und Pasteten.}
+Ebony {Ebenholz}
+Ebony_descr
+{
+Ebenholz hat Zimmerleute wie auch das einfache Volk schon immer durch seine Schönheit und Härte fasziniert: Dieses Holz ist doppelt so hart wie Eiche. In Kombination mit seiner einzigartigen Farbe ist es besonders bei europäischem Adel beliebt, der damit Eindruck machen will.
+Jede Art von Ebenholz besitzt ihren eigenen, besonderen Farbton – von grünlich-braun bis samtig schwarz. Mit der Zeit wird das Holz dunkler, härter – und teurer.
+}
+Chocolate {Kakao}
+Chocolate_descr
+{
+Eine unscheinbare Palmenart, die Kakaobohnen trägt, hat sich als eine der bedeutenderen Entdeckungen erwiesen: Die Herstellung von Schokolade hat begonnen, dank der Bohnen, die vor allem von adeligen Damen wegen ihres süßen Geschmacks sehr geschätzt werden.
+Die hohe Nachfrage nach Kakao bei den Indianern und wohlhabenden Einheimischen sorgt bereits für hohe Preise, doch die Italiener sind bereit, in Gold zu zahlen, was die Preise ins Unermessliche treibt.
+}
+Sugar {Zucker}
+Sugar_descr {Nach der Errichtung von Zuckerplantagen in der Neuen Welt wurde Zucker zu einem der wichtigsten Exportgüter nach Europa. Rohrzucker mag vielleicht nicht ganz so gut sein wie Rübenzucker, aber er ist deutlich günstiger.}
+Wine {Wein}
+Wine_descr {Den Kolonisten gelang es, auf dem fruchtbaren Boden der Neuen Welt Weintrauben anzubauen, und nun ist dieser exportierte Wein in Europa sehr begehrt. Er besitzt zwar nicht den feinen Geschmack europäischer Weine, überzeugt aber durch ein kräftiges, angenehmes Aroma und eine hohe Stärke.}
+Linen {Leinen}
+Linen_descr {Aus Flachs, der auf den Inseln des Archipels wächst, gefertigt, eignet sich dieses dicke, dichte Gewebe zum Nähen von allem – von Kleidung bis hin zu Segeln.}
+Rum {Rum}
+Rum_descr
+{
+Kräftig und aromatisch – Rum wärmt nicht nur und hebt die Stimmung, sondern stärkt auch die Moral! Im Gegensatz zu Wein oder Ale verdirbt Rum nicht und ist ein bewährtes Mittel gegen Krankheiten wie Skorbut. Außerdem wird Rum dem Frischwasservorrat an Bord beigemischt, um Grog herzustellen, der das Wasser desinfiziert und den Geschmack verbessert.
+Ein Mangel an Rum auf dem Schiff kann Unruhe unter den Seeleuten verursachen und sogar zu einer Meuterei führen.
+}
+Tobacco {Tabak}
+Tobacco_descr {Aromatische Tabakblätter ... Seit Jahrhunderten ist die Pfeife ein treuer Begleiter jedes Seemanns. Rauchen gilt als eine der angenehmsten Arten zu entspannen, daher war es nur logisch, dass Tabak unter Händlern sehr beliebt wurde. Tabakblätter in Leinenbeuteln sind für viele Kaufleute eine begehrte Fracht.}
+Coffee {Kaffee}
+Coffee_descr {Dank seines exotischen Geschmacks, des angenehmen Dufts und der belebenden Wirkung wurde Kaffee rasch beliebt. Trotz aller Mühen bei der Herstellung steigt die Kaffeeproduktion jedes Jahr weiter an – als Antwort auf Europas „unstillbaren Durst“.}
+Mahogany {Mahagoni}
+Mahogany_descr
+{
+Das Holz dieser Mahagonibäume zeichnet sich durch ein besonders schönes und markantes Muster aus, ist zudem sehr robust, feuerbeständig und langlebig. Es lässt sich leicht polieren und wird von Holzschädlingen nicht befallen. Die Spanier wussten es als Erste zu schätzen – heute wird Mahagoni vielfach beim Bau von Möbeln, Kirchen und Palästen verwendet.
+Möbel aus Mahagoni gelten als Inbegriff von klassischem Luxus, gutem Geschmack und Wohlstand ihres Besitzers. Selten, aber manchmal wird es auch für Schiffsrümpfe verwendet.
+}
+Cinnamon {Vanille}
+Cinnamon_descr
+{
+Getrocknete und fermentierte Schoten dieser immergrünen Liane aus Mexiko verströmen ein süßes Aroma, schmecken jedoch bitter.
+Vanille wird in Europa zur Herstellung von Kakao und heißer Schokolade verwendet. Sie dient auch als Aromastoff für Tabak; manche kauen sie einfach so – meist allerdings nur, um ihren Status zu zeigen!
+}
+Copra {Kopra}
+Copra_descr {Getrocknetes Fruchtfleisch der Kokosnuss. Kopra dient zur Herstellung von Kokosöl und Seife, der Presskuchen wird als Tierfutter verwendet.}
+Paprika {Paprika}
+Paprika_descr
+{
+Gemahlene und getrocknete rote Chilischoten, ein süß-scharfes Gewürz, das als Aromageber in der Küche äußerst beliebt ist.
+Paprika ist besonders populär bei Deutschen, Spaniern und in Südeuropa, da sie praktisch zu allem passt: Fleisch, Geflügel, Fisch, Meeresfrüchten, Gemüse und Käse.
+}
+Fruits {Früchte}
+Fruits_descr
+{
+Nach ihrer Ankunft in der Neuen Welt entdeckten die Europäer zahlreiche Pflanzen, deren Früchte essbar waren oder als Delikatesse galten: Mango, Zitronen, Avocado und viele mehr. Hervorragend geeignet, um Skorbut vorzubeugen oder billigem Wein Geschmack zu verleihen.
+Obst kann in jeder Siedlung verkauft werden – selbst für seltene Delikatessen finden sich Käufer.
+}
+Ale {Ale}
+Ale_descr
+{
+Ein gebrautes Getränk mit geringem Alkoholgehalt, das durch obergärige Fermentation hergestellt wird.
+Ale gilt zusammen mit Brot als Grundnahrungsmittel und ist Teil der Rationen der örtlichen Garnisonen (insbesondere der englischen). Ale lässt sich über lange Zeit lagern; außerdem besitzt es dank des Gruit (einer Kräuter- und Gewürzmischung, die anstelle von Hopfen verwendet wird) antibiotische Eigenschaften.
+}
+Silk {Seide}
+Silk_descr {Dünner, leichter und äußerst teurer Stoff, der zuerst in China perfektioniert und über 2000 Jahre lang streng gehütet wurde. Erst vor Kurzem entdeckten die Europäer das Geheimnis selbst, sodass er nun auch in der Neuen Welt gesponnen werden kann. Dieses Gewebe ist so einzigartig, dass es selbst durch die kleinsten Schlitze passt.}
+Clothes {Kleidung}
+Clothes_descr
+{
+Praktische, konservative Kleidung aus dunklem Stoff, schlichtes Leinenhemd, umgelegte Kragen und Manschetten – ein bequemes Outfit für jeden ehrlichen, fleißigen, bescheidenen und sparsamen Mann.
+Preiswerte Ware, stets gefragt.
+}
+Cotton {Baumwolle}
+Cotton_descr
+{
+Baumwolle reift auf den karibischen Inselplantagen spät und bringt im Vergleich zu den nordamerikanischen Kolonien eher geringe Erträge. Dennoch sind ihre Fasern sehr wertvoll, da sie ungewöhnlich lang und fein sind. Aus diesen seidigen, cremefarbenen Fasern werden Garne für die feinsten und dünnsten Stoffe hergestellt.
+Die aufwendige Verarbeitung erfordert eine relativ große Plantage und eine enorme Anzahl an Arbeitskräften, was zu einem der Gründe für die Verbreitung der Sklaverei wurde.
+}
+Sandal {Sandelholz}
+Sandal_descr {Eine wertvolle Holzart ist schwer, gelblich und fein gemasert und behält – anders als viele andere aromatische Hölzer – ihren Duft über Jahrzehnte. Sie wird häufig in der Parfümerie, Kosmetik und Medizin verwendet. Diese Holzart wächst nicht in den hiesigen Regionen. Wie sie ihren Weg in die Neue Welt fand, bleibt ein Rätsel.}
+Leather {Leder}
+Leather_descr
+{
+Das gegerbte und verarbeitete Leder von Rindern ist eine universelle Handelsware, die in Europa stets gefragt ist. So verdienten die ersten Buccaneer ihren Lebensunterhalt, indem sie die Häute und das Fleisch der wilden Rinder auf Hispaniola verkauften.
+Auch wenn nur wenige Händler ihre Schiffe ausschließlich mit Leder beladen würden, eignet es sich hervorragend, um leeren Frachtraum zu füllen, da es sehr robust ist und jede Transportbedingung aushält.
+}
+Oil {Öl}
+Oil_descr {Olivenöl ist bereits seit der Antike bekannt. Olivenbäume wurden im 16. Jahrhundert nach Amerika gebracht und dort in Regionen mit mediterranem Klima angebaut. Olivenöl wird zum Kochen verschiedener Gerichte verwendet und verleiht ihnen einen angenehmen Geschmack und Duft. Es ist außerdem ein natürliches und sicheres Schmiermittel, kann zur Beleuchtung (Öllampen) genutzt werden oder als Grundlage für Seifen und Reinigungsmittel dienen.}
+Slaves {Sklaven}
+Slaves_descr {Lebende Ware, die im gesamten Archipel sehr gefragt ist. Meistens werden Afrikaner zu Sklaven gemacht oder gefangene Seeleute versklavt. Wer sie auf speziellen Märkten verkauft, kann großen Profit machen. Sklavenarbeit bildet das Fundament der Arbeitskraft in den Kolonien der Neuen Welt.}
+Powder {Schwarzpulver}
+Powder_descr
+{
+Schwarzpulver, von den Chinesen erfunden, ist unerlässlich für den Einsatz von Kanonen. Es ist eine importierte strategische Ware, hergestellt in schmutzigen, lauten, stinkenden und gefährlichen Pulverfabriken. „Halte dein Pulver trocken – dann wird dir der Sieg sicher sein!“, sagen erfahrene Kanoniere. Das kann man nicht oft genug betonen: Ohne Schwarzpulver können die Kanonen keinen einzigen Schuss abgeben und werden zur reinen Last für das Schiff.  
+Ein kluger Kapitän sorgt immer für reichlich Schwarzpulver im Pulvermagazin.
+}
+Food {Proviant}
+Food_descr
+{
+Ein Standardsatz aus haltbaren Rationen und Frischwasser, notwendig zur Versorgung der Crew und Sklaven während der Reise.
+Fehlende Vorräte an Bord führen zu Hunger, Todesfällen und sinkender Moral.
+~
+Täglicher Verbrauch:
+Matrosen – 0,1 Einheit, Sklaven – 0,05 Einheit.
+}
+Weapon {Waffe}
+Weapon_descr
+{
+Eine Sammlung von Waffen: von Säbeln und Schwertern bis zu Pistolen und Musketen.
+Bei Entermannschaften muss jeder Kämpfer bewaffnet sein. Fehlen Waffen, steigen die Verluste.
+Wenn Matrosen im Gefecht fallen, verringert sich der Waffenbestand an Bord.
+}
+Gold {Gold}
+Gold_descr
+{
+Massive Goldbarren, geprägt vom spanischen Schatzamt. Bevor das gesamte Gold auf die Schiffe verladen wird, schmelzen die Spanier die gewonnenen Goldgegenstände ein.
+Ein Schatzschiff voller Gold zu kapern, ist der Traum eines jeden Piraten und Freibeuters.
+}
+Silver {Silber}
+Silver_descr
+{
+Massive Silberbarren, geprägt vom Schatzamt Spaniens.
+Ein begehrter Schatz, denn Silber besitzt einen soliden Wert und ist die zweite Wahl des spanischen Schatzamts zur Aufbewahrung und zum Transport von Reichtum. Der Großteil wird an einem Ort namens „Der Silberberg“ nahe Potosi abgebaut.
+}
+Pinctada {Perlenaustern}
+Pinctada_descr {Der begehrteste Fang der Perlentaucher – karibische Muscheln (Pinctada longisquamosa), die auf flachen Bänken gesammelt werden. Ihre schillernden Schalen bergen vielleicht Schätze... oder nur leere Träume. Und die geschicktesten Hände öffnen sie, ohne die Perlmuttschicht zu beschädigen...}
+Brick {Ziegel}
+Brick_descr
+{
+Ordentliche Blöcke und Dachziegel aus Terrakotta. Sie werden häufig beim Bau von Städten verwendet, da Holz im feuchten Klima der Karibik schnell verfault.
+Wegen der häufigen Brände fördern die Behörden den Einsatz von Ziegeln beim Bauen, weshalb diese Ware stets gefragt ist.
+}
+Medicament {Medikamente}
+Medicament_descr
+{
+Ein Set aus Medikamenten und Instrumenten zur Behandlung der häufigsten Krankheiten und zur Ersten Hilfe bei Verwundeten und Verletzten. Dosen, Pulver, Verbände, Fläschchen, Heilumschläge – alles, was Leben retten kann.  
+Medizin an Bord hilft, Verwundete zu retten, Verluste beim Entern zu verringern und Kranke während der Überfahrt zu heilen.
+}
+Cannon_3 {Falkonette}
+Cannon_3_descr
+{
+Deckkanonen mit Ringlafette. Sie bieten hohe Beweglichkeit, haben aber aufgrund des kleinen Kalibers eine geringere Reichweite und Schadenswirkung.
+Oft sind sie mit einem austauschbaren Verschluss ausgestattet, der ein noch schnelleres Nachladen ermöglicht.
+Reichweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_6 {Kanonen 6-Pfünder}
+Cannon_6_descr
+{
+Leichte Halbkanonen sind auf Kurier- und Handelsschiffen wegen ihres geringen Gewichts und der einfachen Wartung recht beliebt.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_8 {Kanonen 8-Pfünder}
+Cannon_8_descr
+{
+Kleine Halbkannonen, die mit Schwarzpulver Gusseisenkugeln, Bomben, Kettenkugeln oder Kartätschen verschießen. Weit verbreitet auf kleineren Schiffen.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_12 {Kanonen 12-Pfünder}
+Cannon_12_descr
+{
+Standardmäßige, äußerst zuverlässige Halbkannonen der meisten Militärflottillen, die mit hohem Erhöhungswinkel feuern können und so die effektive Kampfdistanz deutlich steigern.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_16 {Kanonen 16-Pfünder}
+Cannon_16_descr
+{
+Moderne französische Marine-Demi-Kanonen. Dank fortschrittlicher Bauweise und dem neuen System von Monsieur de Valliere haben diese Kanonen eine größere Reichweite und verursachen mehr Schaden als gewöhnliche Demi-Kanonen. Allerdings benötigen sie länger zum Laden, sind etwas weniger zuverlässig und schwerer.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_20 {Kanonen 20-Pfünder}
+Cannon_20_descr
+{
+Kanonen mit größtem Kaliber, die solide Kugeln von beachtlicher Größe verschießen und so den Schaden am Feind erhöhen. Allerdings führt das längere Rohr zu einem deutlichen Anstieg des Gewichts, was das Nachladen erschwert.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_24 {Kanonen 24-Pfünder}
+Cannon_24_descr
+{
+Die ausgewogensten Schiffskanonen in Bezug auf ihre wichtigsten technischen Eigenschaften. Sie sind nicht ohne Grund auf Militär- und Expeditionsschiffen sehr beliebt. Das „goldene Mittelmaß“ unter den Kanonen.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_32 {Kanonen 32-Pfünder}
+Cannon_32_descr
+{
+Batteriekanonen – schwere Kanonen mit großem Kaliber, die auf Kriegsschiffen installiert werden. Vielseitig einsetzbar – um den Rumpf vollständig zu zerstören oder Befestigungen zu bombardieren. Ernsthafte Kanonen für ernsthafte Gefechte.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_36 {Kanonen 36-Pfünder}
+Cannon_36_descr
+{
+Langrohrkanonen sind auf großen Kriegsschiffen recht häufig zu finden. Trotz ihrer langen Nachladezeit und ihres hohen Gewichts sind sie äußerst zerstörerisch und verfügen über eine beachtliche Reichweite. Die Wartung ist zwar aufwendig, doch der Aufwand lohnt sich.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_42 {Kanonen 42-Pfünder}
+Cannon_42_descr
+{
+Diese Belagerungskanonen sind zwar veraltet, aber immer noch gewaltige Waffen, die nur auf Linienschiffen installiert werden können. Sie richten enormen Schaden an, ideal zum Versenken anderer Kriegsschiffe und für massive Bombardements von Befestigungen.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Cannon_48 {Verzauberte Kanonen}
+Cannon_48_descr
+{
+Außergewöhnlich schwere und mächtige Kanonen. Um sie zu bekommen, musste man einige Geschäfte mit aztekischen Göttern eingehen... aber es hat sich gelohnt.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Culverine_8 {Kulevrinen 8-Pfünder}
+Culverine_8_descr
+{
+Leichte Demi-Kulevrinen in besonders leichter Bauweise, mit relativ langem Lauf und erhöhter Reichweite. Aufgrund ihres geringen Gewichts werden sie auf kleinen und Handelsschiffen eingesetzt.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Culverine_12 {Kulevrinen 12-Pfünder}
+Culverine_12_descr
+{
+Eine kleine, leicht gebaute Kartaune mit langem Lauf. Besitzt eine gute Reichweite und ist auf kleinen Schiffen weit verbreitet. Wird meist für Sperrfeuer eingesetzt.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Culverine_16 {Kulevrinen 16-Pfünder}
+Culverine_16_descr
+{
+Demi-Kulverinen mit erhöhter Reichweite, geeignet für mittlere Schiffe. Trotz guter Schussweite lange Nachladezeit und geringerer Schaden.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Culverine_24 {Kulevrinen 24-Pfünder}
+Culverine_24_descr
+{
+Mittlere Kartaunen, geeignet für ernsthafte Gefechte. Trotz beeindruckender Reichweite ist sie sehr langsam und hat eine sehr lange Nachladezeit.
+Schussweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}
+Culverine_32 {Kulevrinen 32-Pfünder}
+Culverine_32_descr
+{
+Schwere Kartaunen, die für Breschfeuer bestimmt sind. Sie können auch in den Schiffsbatterien eingesetzt werden und richten erheblichen Schaden beim Feind an – vorausgesetzt, der Kanonier ist erfahren, flink und treffsicher. Gewinnt, wer zuerst schießt, sozusagen.
+Reichweite – #dFireRange#, Schaden – x#f.1DamageMultiply#, Nachladen – #dReloadTime# Sek.
+}

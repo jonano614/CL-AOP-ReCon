@@ -1,0 +1,92 @@
+InfoMessage_Title {Folheto informativo 'Âncoras Pessoais'!}
+InfoMessage_Text_0
+{
+"Caribe Selvagem"
+Esta vantagem gratuita – «Caribe Selvagem» – transforma alguns encontros aleatórios “normais” em situações insanas e inacreditáveis! Não escolha esta vantagem se não quiser que suas aventuras fiquem um pouco malucas. Mas cuidado: depois de ativá-la, não será possível desativar!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ "Caribe Selvagem" inclui:
+- presença de esferas esqueléticas;
+- surgimento de esqueletos ao abrir baús de tesouro, como em cavernas;
+- disponibilidade da missão "Navio Fantasma";
+- enfrentar mortos-vivos, e não indígenas, na missão "A Igreja precisa de ajuda";
+- alteração visual em algumas missões.
+}
+InfoMessage_Text_1
+{
+Adicionada a mecânica de dash — agora é possível evitar dano com ela:
+- a chance de evitar dano de um tiro ou golpe com o tempo certo é de 100%;
+- exige 2 de energia base em qualquer direção, não mais 3;
+- o custo de energia do dash depende do peso do seu equipamento (2 de energia base + 0,1*peso em libras);
+- se faltar energia suficiente, a chance de dash diminui — e, se exausto, o personagem ainda faz o dash, mas a chance de evitar dano cai pela metade;
+- todos os lutadores experientes, veteranos e oficiais têm 25% de chance de usar o dash;
+- inimigos comuns não usam dash.
+}
+InfoMessage_Text_2
+{
+Nova balística e dano à tripulação
+-
+A balística de navios e fortes foi refeita:
+Quando o inimigo está próximo, você dispara em linha reta, então as ondas podem proteger você ou seu alvo do dano (exceto quando quem dispara está acima das ondas, como alguns fortes).
+-
+Aumentada a dispersão dos disparos para:
+1. aumentar a sobrevivência de navios menores contra os de classe alta – agora eles são mais difíceis de acertar durante manobras.
+2. valorizar ainda mais um bom oficial artilheiro com alta precisão e estatísticas de canhões.
+3. melhorar a qualidade das batalhas navais para que, como antes, elas não terminem em apenas algumas salvas de navios mais poderosos.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mecânica atualizada para causar dano à tripulação do navio: agora é necessário primeiro danificar o navio, reduzindo sua durabilidade, antes de poder causar dano significativo à tripulação. Essa mecânica também se aplica ao navio do jogador.
+-
+Agora o dano de canister shot é calculado de acordo com o % de durabilidade do casco. Detalhes podem ser encontrados no Livro de Registro, na aba Enciclopédia (Batalhas navais em navios).
+Os detalhes podem ser encontrados em 'Documentação' - 'Livro de Referência' - aba 'Batalhas Navais em Navios'.
+}
+InfoMessage_Text_3
+{
+Na versão atual, muitas cidades e até ilhas foram modificadas e adicionadas para incentivar a exploração:
+Fort-de-France, Le Francois, Willemstad, Fort Orange, La Vega, Santo Domingo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nova ilha – Old Providence! Uma ilha pirata e base no mapa global e local.
+- O ancoradouro só é possível sob a bandeira pirata.
+- Navios piratas nesta área não atacarão o jogador se estiver sob a bandeira pirata.
+
+Nova cidade – Providencia! Uma base fortificada de piratas e corsários, comandada por Edward Collier – o braço direito de Morgan.
+- Esta cidade conta com: residência pirata, taverna, bordel e loja (melhorias previstas).
+- A ilha Old Providence possui sua própria selva e duas baías: Morgan's Head e playa Manzanillo.
+- Tesouros agora podem ser encontrados na ilha Old Providence: em uma gruta, em frente à playa Manzanillo.
+}
+InfoMessage_Text_4
+{
+Saque rápido
+\n\n
+Se o capitão do navio abordado se rendeu, a equipe de saque certamente vai passar pela cabine dele e vasculhar em busca de itens escondidos — o mesmo vale para os bolsos.
+\n\n
+Caso você escolha a opção de transferir todos os troféus para o baú no porão do navio, não se esqueça de verificá-lo de vez em quando. O baú se enche rapidamente com abordagens frequentes, já que os marinheiros pegam tudo o que encontram.
+\n\n
+Se o capitão ou o contramestre tiverem a vantagem 'Olho de Diamante', a tripulação será muito mais atenta e seletiva, ignorando lixo literal e pegando apenas itens mais úteis.
+\n\n
+A eficácia dessa seletividade no mar depende do 'Abordagem' do seu contramestre:
+- sem requisitos para navios de classe 7 e 6
+- de 15 a 29 pontos para navios de classe 5
+- de 30 a 44 pontos para navios de classe 4
+- de 45 a 59 pontos para navios de classe 3
+- de 60 a 74 pontos para navios de classe 2
+- 75+ pontos para navios de classe 1
+- sem requisito em terra
+\n\n
+Se o contramestre e/ou a tripulação estiverem ausentes, esta opção fica indisponível.
+}
+InfoMessage_Text_5
+{
+Houve melhorias técnicas na parte musical do jogo.
+\n\n
+A repetição de uma única faixa agora ficou no passado – agora a música muda após o término de uma faixa.
+Pressionar o botão F10 força o término da faixa atual e inicia a próxima (com boa dose de aleatoriedade).
+\n\n
+Agora é possível adicionar suas próprias músicas simplesmente colocando arquivos mp3 nas pastas de música.
+Leia os detalhes no arquivo readmekz (custommusic).txt
+Atenção!
+Não é necessário colocar as músicas originais do jogo na pasta CUSTOM – essas faixas tocarão normalmente.
+\n\n
+Foi adicionada uma opção para garantir que a música não mude ao transitar entre locais do mesmo tipo.
+Essa configuração está disponível na tecla F4.
+}

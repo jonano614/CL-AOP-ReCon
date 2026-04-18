@@ -1,0 +1,98 @@
+CARDS_RULE
+{
+Zasady są proste. Gra w oczko. 36 kart, od szóstek do asów. As to 11 punktów, król – 4, Lord (jeździec) – 3, Nobile (pieszy) – 2, pozostałe mają wartość zgodną z oznaczeniem. Celem jest zdobycie 21 punktów.
+Kliknij talię, by dobrać kolejną kartę. Każda karta to stawka. Kliknij portret w prawym górnym rogu, aby zakończyć turę. Do gry potrzebujesz pieniędzy na co najmniej trzy stawki. Jeśli chcesz zakończyć, naciśnij Esc lub kliknij krzyżyk.
+}
+DICE_RULE
+{
+Kości. Pięć dla każdego gracza. Możesz przerzucić wszystkie pięć lub dowolne z nich, ale tylko raz. Każda kość to stawka. Twoim celem jest uzyskać jak najwyższy wynik.
+Oto kombinacje: para (2), dwie pary (2+2), trójka (3), full (3+2), kareta (4), strit (kości w kolejności) i poker (5).
+Kliknij kubek, aby rzucić, kliknij kość, aby przerzucić tę konkretną kość, kliknij portret, aby zakończyć turę (jeśli nie chcesz przerzucać lub nie masz na to pieniędzy).
+}
+Address_Form_Spa {senior}
+Address_Form_Fra {monsieur}
+Address_Form_Eng {sir}
+Address_Form_Por {senhor}
+Address_Form_Hol {mynheer}
+Address_Form_Pir {sir}
+Address_Form_SpaWoman {senorita}
+Address_Form_FraWoman {mademoiselle}
+Address_Form_EngWoman {chybienie}
+Address_Form_HolWoman {mefrau}
+Address_Form_PirWoman {chybienie}
+Address_Form_SpaWoman2 {senora}
+Address_Form_FraWoman2 {madame}
+Address_Form_EngWoman2 {missis}
+Address_Form_HolWoman2 {frau}
+Address_Form_PirWoman2 {missis}
+BaronTitle {baron}
+BaronWomanTitle {baronessa}
+Officer_Attack {Oficerowie, do ataku!}
+Officer_Follow {Oficerowie, za mną!}
+Officer_Stay {Oficerowie, stać!}
+Potion_Not_Found {Eliksir nie znaleziony!}
+Used_Antidote {Użyto antidotum}
+No_Search_Anyone {Nie ma kogo przeszukać}
+Address_Form_Spa_Title1 {Kaper}
+Address_Form_Fra_Title1 {Korsarz}
+Address_Form_Eng_Title1 {Korsarz}
+Address_Form_Hol_Title1 {Filibustier}
+Address_Form_Pir_Title1 {Bukanier}
+Address_Form_Spa_Title2 {Porucznik}
+Address_Form_Fra_Title2 {Porucznik}
+Address_Form_Eng_Title2 {Porucznik}
+Address_Form_Hol_Title2 {Porucznik}
+Address_Form_Pir_Title2 {Wilk morski}
+Address_Form_Spa_Title3 {Kapitan}
+Address_Form_Fra_Title3 {Kapitan}
+Address_Form_Eng_Title3 {Kapitan}
+Address_Form_Hol_Title3 {Kapitan}
+Address_Form_Pir_Title3 {Weteran}
+Address_Form_Spa_Title4 {Komodor}
+Address_Form_Fra_Title4 {Komodor}
+Address_Form_Eng_Title4 {Komodor}
+Address_Form_Hol_Title4 {Komodor}
+Address_Form_Pir_Title4 {Lord}
+Address_Form_Spa_Title5 {Admirał}
+Address_Form_Fra_Title5 {Admirał}
+Address_Form_Eng_Title5 {Admirał}
+Address_Form_Hol_Title5 {Admirał}
+Address_Form_Pir_Title5 {Legenda}
+NationKingsName_Spa {Jego Katolicka Mość Karol II Habsburg}
+NationKingsName_Fra {Jego Najchrześcijańsza Mość Ludwik XIV}
+NationKingsName_Eng {Jego Królewska Mość Karol II Stuart}
+NationKingsName_Hol {Stadhouder Wilhelm III}
+NationKingsName_Por {Afonso VI Zwycięski}
+NationKingsName_Pir {Piracka Brac Wybrzeża}
+NationKingsCrown_Spa {hiszpańska korona}
+NationKingsCrown_Fra {Koronie Francji}
+NationKingsCrown_Eng {Angielski tron}
+NationKingsCrown_Hol {Republika Siedmiu Zjednoczonych Prowincji}
+NationKingsCrown_Por {Korona Portugalska}
+NationKingsCrown_Pir {Bracia Wybrzeża}
+Swear_1 {Caramba!}
+Swear_2 {Cholera!}
+Swear_3 {Diabeł!}
+Swear_4 {Cholera!}
+Swear_5 {Niech mnie piorun trafi!}
+Swear_6 {Tysiąc rekinów!}
+Swear_7 {Argh!!!}
+Swear_8 {Do stu diabłów!}
+Swear_9 {Psiakrew!}
+Swear_10 {Do diabła!}
+Swear_11 {Cholera, to do bani!}
+Swear_12 {O cholera...}
+Swear_13 {Do stu tysięcy beczek!}
+Swear_14 {Co do diabła!}
+Swear_15 {Tysiąc diabłów!}
+Exclamation_1 {O Boże!!}
+Exclamation_2 {O, niebiosa!}
+Exclamation_3 {Święta Madonna!}
+MorningGreeting {Dzień dobry}
+DayGreeting {Dzień dobry}
+EveningGreeting {Dobry wieczór}
+NightGreeting {Dobranoc}
+TimeGreeting {Dobry wieczór}
+rat_spoiled {zepsute}
+rat_damaged {uszkodzony}
+rat_destroyed {zniszczono}

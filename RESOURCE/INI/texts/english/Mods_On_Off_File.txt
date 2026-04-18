@@ -1,0 +1,12 @@
+;Pay for Save Load - paid save/load. Payment amount = Main character rank*(Pay For Save Load Money Qty)
+
+Pay For Save Load {Off}
+Pay For Save Load Money Qty {1000}
+
+;SalaryComplex_Coeff - multiplier for increasing the salary of officers and crew (from 0.5 to +infinity)
+
+SalaryComplex_Coeff {1.0}
+
+;SeaBattleMode_SaveEnable - disable saving at sea in battle mode (On/Off)
+
+SeaBattleMode_SaveEnable {On}

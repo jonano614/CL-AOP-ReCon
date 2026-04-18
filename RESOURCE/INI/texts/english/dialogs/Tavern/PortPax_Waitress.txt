@@ -1,0 +1,45 @@
+PortPax_Waitress_1 {
+Questions, @<GetAddress_Form>?
+}
+PortPax_Waitress_2 {
+What can I do for you, @<GetAddress_Form>?
+}
+PortPax_Waitress_3 {
+@<RandPhraseSimple>
+}
+PortPax_Waitress_4_m {
+Hmm, are you trying to flirt with me, sir?
+}
+PortPax_Waitress_4_f {
+You’re back with your odd questions again... Do you enjoy pestering me?
+}
+PortPax_Waitress_5_m {
+This is the third time today you’ve brought up that topic... Is this your way of showing interest?
+}
+PortPax_Waitress_5_f {
+This is the third time today you've brought up some question... Is this some kind of strange joke?
+}
+PortPax_Waitress_6 {
+Will you be asking questions again, @<GetAddress_Form>?
+}
+PortPax_Waitress_7_m {
+I’ve changed my mind...
+}
+PortPax_Waitress_7_f {
+I’ve changed my mind...
+}
+PortPax_Waitress_8 {
+I have nothing to say right now.
+}
+PortPax_Waitress_9 {
+@<RandPhraseSimple>
+}
+PortPax_Waitress_10 {
+No, no, not at all, beautiful...
+}
+PortPax_Waitress_11 {
+No way, darling, just senility...
+}
+PortPax_Waitress_12 {
+No, no questions at all...
+}

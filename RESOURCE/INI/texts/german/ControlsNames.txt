@@ -1,0 +1,160 @@
+HelpChooser {Hilfeabschnitt wählen}
+MainInterface {Interface-Einstellungen}
+DialogControls {Dialog}
+WorldMapControls {Weltkarte}
+BattleInterfaceControls {Steuerungseinstellungen}
+Sailing1Pers {Ego-Ansicht auf See}
+Sailing3Pers {Drittpersonen-Meeransicht}
+FightModeControls {Kampfmodus}
+PrimaryLand {Steuerung an Land}
+ShipCamera_Forward {Schiffskamera heranzoomen}
+ShipCamera_Backward {Schiffkamera herauszoomen}
+DeckCamera_Turn_V {Vertikale Kameradrehung (Deckansicht}
+DeckCamera_Turn_H {Horizontale Kameradrehung (Deckansicht)}
+ShipCamera_Turn_V {Vertikale Bewegung der Kamera (Schiffsansicht)}
+ShipCamera_Turn_H {Horizontale Bewegung der Kamera (Schiffsansicht)}
+DeckCamera_Forward {Vorwärts (Deckansicht)}
+DeckCamera_Backward {Zurück (Deckansicht)}
+Ship_TurnLeft {Schiff nach links drehen}
+Ship_TurnRight {Schiff nach rechts drehen}
+Ship_SailUp {Segel setzen}
+Ship_SailDown {Segel bergen}
+Ship_Fire {Kanonensalve}
+Sea_CameraSwitch {Kamera zwischen „Schiffsansicht“ und „Deckansicht“ umschalten}
+Sea_CameraSwitchShort {Kamera wechseln}
+Sea_CameraShip {Schiffsansicht}
+Sea_CameraDeck {Deckansicht}
+Telescope {Fernrohr benutzen}
+TelescopeIn {Fernrohr heranzoomen}
+TelescopeOut {Fernrohransicht verlassen}
+TelescopeZoom {Hinein-/Herauszoomen}
+Interface {Charaktermenü}
+CharacterShipMenu {Charakter-Schiffsmenü}
+LogbookMenu {Logbuch-Menü}
+ItemsMenu {Gegenstände-Menü}
+NationsMenu {Nationen-Menü}
+MainMenu {Hauptmenü}
+MainMenuDouble {Hauptmenü}
+MiniMapZoomIn {Mini-Karte vergrößern}
+MiniMapZoomOut {Mini-Map herauszoomen}
+BIFastCommand {Schnellaktion}
+hk_charge1 {Kanonen mit Kugeln laden}
+hk_charge2 {Kanonen mit Kartätschen laden}
+hk_charge3 {Kanonen mit Kettenkugeln laden}
+hk_charge4 {Kanonen mit Bomben laden}
+hk_perk1 {Fähigkeit „Schnelle Wende“ aktivieren}
+hk_perk2 {Fähigkeit „Vorbereitungsladung“ aktivieren}
+hk_perk3 {Fähigkeit 'Notfallreparatur' aktivieren}
+hk_perk4 {Fähigkeit „Löcher flicken“ aktivieren}
+hk_cabin {In die Kapitänskajüte gehen}
+Ship_Select {Schiffsauswahl}
+Order_Select {Befehl auswählen}
+FireZoneKey {Feuerreichweite anzeigen}
+FireZoneKeyHide {Schussreichweite ausblenden}
+ChrCamTurnV {Vertikale Kamerabewegung folgt dem Charakter}
+ChrCamTurnH {Horizontale Kamerabewegung folgt der Figur}
+ChrCamCameraSwitch {Zwischen Ego- und Third-Person-Kamera wechseln}
+ChrAction {Aktion ausführen}
+ChrForward {Vorwärts bewegen}
+ChrBackward {Rückwärts bewegen}
+ChrStrafeLeft {Nach links bewegen}
+ChrStrafeRight {Nach rechts bewegen}
+ChrSprint {Sprint}
+ChrFightMode {Kampfmodus umschalten}
+BOAL_UsePotion {Verwende ein Heilmittel}
+UseAntidote {Gegengift verwenden}
+BOAL_DeadSearch {Leiche plündern}
+OfficersCharge {Befehl an Offiziere : Nach eigenem Ermessen kämpfen}
+OfficersHold {Befehl an Offiziere : Position halten}
+OfficersFollow {Befehl an Offiziere : Folgen}
+Say {Warenkauf}
+AlchemyKey {Alchemie}
+MapView {Kartenatlas}
+AltModificator {Taste für Schnellreise-Menü drücken}
+AltModificatorOff {Taste loslassen, um das Schnellreise-Menü zu öffnen}
+Fast_store {Schnellreise: Laden}
+Fast_Shipyard {Schnellreise: Werft}
+Fast_tavern {Schnellreise: Taverne}
+Fast_townhall {Schnellreise: Residenz}
+Fast_bank {Schnellreise: Bank}
+Fast_church {Schnellreise: Kirche}
+Fast_Brothel {Schnellreise: Bordell}
+Fast_PortOffice {Schnellreise: Hafenbehörde}
+Fast_prison {Schnellreise: Gefängnis}
+Fast_Port {Schnellreise: Hafen}
+ChrForward1 {Vorwärts bewegen (alternativ)}
+ChrBackward1 {Rückwärts bewegen}
+ChrRunStick {Gehen/Laufen umschalten}
+BOAL_ActivateRush {Fähigkeit 'Berserker' aktivieren}
+HK_SecondWind {Fähigkeit „Zweite Luft“ aktivieren}
+ChrBlock {Block}
+ChrAltAttackBase {Hiebangriff / Gruppenangriff}
+ChrAttackBreakBase {Schwerer Angriff / Finte}
+ChrAttackBase {Stoßangriff / Parieren}
+ChrAttackChoseBase {Angriffsmodus umschalten}
+ChrAttackFient {Finte (alternativ)}
+ChrParry {Parieren (alternativ)}
+ChrFire {Einen Schuss abgeben}
+ChrAiming {Zielmodus (halten)}
+ChrAimingShot {Schießen}
+RunLootCollector {„Schnellplündern“ verwenden}
+CharacterCamera_Forward {Charakterkamera heranzoomen}
+CharacterCamera_Backward {Charakterkamera herauszoomen}
+ChrSwitchFightMode {Kampfmodus wechseln}
+SwitchCameraOffset {Zwischen Ego- und Third-Person-Kamera wechseln}
+ChrSwitchWalk {Gehen/Laufen umschalten}
+DeckCamera_Left {Nach links strafen (Deckansicht)}
+DeckCamera_Right {Rechts strafen (Deckansicht)}
+ChrTurnH {Charakterdrehung}
+ChrTurnV {Charakterbewegung}
+ChrTurnHL {Charakter nach links drehen}
+ChrTurnHR {Charakter nach rechts drehen}
+ChrRecoil {Zurückfedern}
+ChrAttackForce {Schneller Angriff}
+ChrAttackFast {Hieb-Angriff}
+ChrAttackRound {Gruppenangriff}
+ChrAttackBreak {Schwerer Angriff}
+ChrAttackRoundBase {Gruppenangriff}
+BI_MapEnter {Weltkarte}
+WMapTurnH {Kamera um das Schiff drehen (im Kartenmodus)}
+WMapTurnV {Kamerahöhe (im Kartenmodus)}
+WMapCameraRotate {Kameragleit-/Rotationsmodus aktiviert}
+WMapForward {Kamera heranzoomen}
+WMapBackward {Kamera herauszoomen}
+WMapCameraSwitch {Ansichtsmodus umschalten}
+WMapShipSailUp {Vorwärts segeln}
+WMapShipSailDown {Zurücksegeln}
+WMapShipTurnLeft {Nach links abbiegen}
+WMapShipTurnRight {Rechts abbiegen}
+WMapCancel {Karte verlassen und aufs Meer zurückkehren}
+TimeScaleOn {Zeit beschleunigen}
+TimeScaleOff {Beschleunigung deaktivieren}
+TimeScale {Zeit beschleunigen/verlangsamen}
+TimeScaleFasterBA {Zeit beschleunigen}
+TimeScaleSlowerBA {Zeit verlangsamen}
+Help {Spielhilfe}
+BICommandsActivate {Befehlsmenü}
+LICommandsActivate {Befehlsmenü}
+BICommandsActivateAdd {Befehlsmenü (alternativ)}
+BICommandsConfirm {Befehl bestätigen}
+BICommandsCancel {Befehl abbrechen}
+BICommandsConfirmAdd {Befehl bestätigen (alternativ)}
+BICommandsCancelAdd {Befehl abbrechen (alternativ)}
+BICommandsLeft {Aktionsmenü – nach links navigieren}
+BICommandsRight {Aktionsmenü – nach rechts navigieren}
+HelpChooser_Cancel {Hilfe verlassen}
+HelpChooser_Action {Hilfe zum aktuellen Element anzeigen}
+HelpChooser_Next {Nächstes Hilfselement}
+HelpChooser_Prev {Vorheriges Hilfselement}
+HelpChooser_Left {Links (im Hilfemodus)}
+HelpChooser_Right {Rechts (im Hilfemodus)}
+HelpChooser_Up {Hoch (im Hilfemodus)}
+HelpChooser_Down {Runter (im Hilfemodus)}
+DlgAction {Antwortauswahl im Dialog}
+DlgAction1 {Antwortauswahl im Dialog}
+DlgUp {Vorherige Antwort im Dialog}
+DlgDown {Nächste Antwort im Dialog}
+DlgScrollUp {Dialog nach unten scrollen}
+DlgScrollDown {Dialog nach oben scrollen}
+hk_Cure {Heiltrank verwenden}
+hk_Rush {„Furor“-Fähigkeit einsetzen}

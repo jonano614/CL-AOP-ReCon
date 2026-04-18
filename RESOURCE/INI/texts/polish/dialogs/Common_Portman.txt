@@ -1,0 +1,1173 @@
+Common_Portman_1 {
+W mieście ogłoszono alarm, wszędzie was szukają! Na waszym miejscu nie zostawałbym tu dłużej.
+}
+Common_Portman_2 {
+Cała straż miejska przeczesuje miasto, szukając ciebie. Nie jestem idiotą i nie będę z tobą rozmawiać!
+}
+Common_Portman_3 {
+Lepiej uciekajcie, zanim żołnierze zrobią z was sito...
+}
+Common_Portman_4 {
+@<LinkRandPhrase>
+}
+Common_Portman_5_m {
+Czego chcesz, łajdaku?! Straż miejska już jest na twoim tropie, daleko nie uciekniesz, brudny piracie!
+}
+Common_Portman_5_f {
+Czego chcesz, łajdaczko?! Straż miejska już cię namierzyła, daleko nie uciekniesz!
+}
+Common_Portman_6_m {
+Brudny morderco, wynoś się z mojego domu! Straż!
+}
+Common_Portman_6_f {
+Brudna morderczyni, wynoś się z mojego domu! Straż!
+}
+Common_Portman_7_m {
+Nie boję się ciebie, łajdaku! Wkrótce powieszą cię w naszej fortecy, daleko nie uciekniesz...
+}
+Common_Portman_7_f {
+Nie boję się ciebie, szmato! Wkrótce powieszą cię w naszym forcie, daleko nie uciekniesz...
+}
+Common_Portman_8 {
+@<LinkRandPhrase>
+}
+Common_Portman_9 {
+Heh, alarm to dla mnie żaden problem...
+}
+Common_Portman_10 {
+Mnie nigdy nie złapią.
+}
+Common_Portman_11 {
+@<RandPhraseSimple>
+}
+Common_Portman_12 {
+Zamknij tę swoją gębę, @<GetWorkTypeOfMan>, bo inaczej wyrwę ci ten parszywy język!
+}
+Common_Portman_13 {
+Heh, @<GetWorkTypeOfMan>, a ty znowu na to samo – polować na piratów! Powiem ci jedno, przyjacielu: siedź cicho, a pożyjesz...
+}
+Common_Portman_14 {
+@<RandPhraseSimple>
+}
+Common_Portman_15 {
+Hej, doktorze Blood! @<TimeGreeting>.
+}
+Common_Portman_16 {
+Miło mi Pana/Panią widzieć, @<GetFullName>.
+}
+Common_Portman_17 {
+Dobrze, że mnie pan odwiedził, @<GetFullName>. Jak się miewa pułkownik Bishop?
+}
+Common_Portman_18 {
+@<LinkRandPhrase>
+}
+Common_Portman_19 {
+Niestety, już odchodzę, @<NPChar>. Do zobaczenia.
+}
+Common_Portman_20 {
+Wy zaznaczacie kapitanów, prawda? Muszę pomóc pewnemu przyjacielowi dostać się do Port-Royal.
+}
+Common_Portman_21 {
+Witam, @<GetAddress_Form>. Zdaje się, że się nie znamy. Jestem @<GetFullName> – zarządzam portem.
+}
+Common_Portman_22 {
+Witaj, @<GetFullName>. Jestem @<GetFullName>, choć nie mam własnego statku.
+}
+Common_Portman_23 {
+Witam, @<GetFullName>. Jestem @<GetFullName>, kapitanem statku '@<pchar>'.
+}
+Common_Portman_24 {
+Witam, @<GetFullName>. Jestem @<GetFullName>, pierwszy oficer kapitana fluytu "Mercury".
+}
+Common_Portman_25 {
+W czym mogę pomóc?
+}
+Common_Portman_26 {
+Widziałem, jak wasz statek wpłynął do portu, i byłem pewien, że mnie odwiedzicie.
+}
+Common_Portman_27 {
+Witam, @<GetAddress_Form>. Przyszliście w jakiejś sprawie?
+}
+Common_Portman_28 {
+Witaj, @<GetFullName>. @<s1>
+}
+Common_Portman_29 {
+Ach, kapitanie @<GetFullName>. Co was do mnie sprowadza?
+}
+Common_Portman_30 {
+@<LinkRandPhrase>
+}
+Common_Portman_31 {
+Dzień dobry, @<GetFullName>. Chciałbym z tobą porozmawiać.
+}
+Common_Portman_32 {
+Wspaniale. Jestem do twojej dyspozycji, @<GetFullName>.
+}
+Common_Portman_33 {
+No i jak z pieniędzmi? Przynieśliście mi chociaż tysiąc piastrów?
+}
+Common_Portman_34_m {
+Tak, przyniosłem. Oto dokładnie tysiąc piastrów. Teraz informacja!
+}
+Common_Portman_34_f {
+Tak, przyniosłam. Oto dokładnie tysiąc piastrów. Teraz informacje!
+}
+Common_Portman_35_m {
+Nie, jeszcze nie przyniosłem...
+}
+Common_Portman_35_f {
+Nie, jeszcze nie przyniosłam...
+}
+Common_Portman_36 {
+Jeszcze nie...
+}
+Common_Portman_37_m {
+Jeszcze nie przyniosłem, ale wkrótce przyniosę...
+}
+Common_Portman_37_f {
+Jeszcze nie przyniosłam, ale wkrótce przyniosę...
+}
+Common_Portman_38 {
+@<LinkRandPhrase>
+}
+Common_Portman_39_m {
+Pozwólcie, że wyjaśnię sedno sprawy. Minąłem się ze swoim starym przyjacielem, kapitanem @<PChar>, dosłownie o kilka godzin, a mam do niego pilną sprawę. Teraz muszę go dogonić, ale niestety nie wiem, w którą stronę się udał.
+}
+Common_Portman_39_f {
+Pozwól, że przedstawię sedno sprawy. Minęłam się ze swoim starym przyjacielem, kapitanem @<PChar>, dosłownie o kilka godzin, a mam do niego pilną sprawę. Teraz muszę go dogonić, ale niestety nie wiem, w którą stronę się udał.
+}
+Common_Portman_40 {
+Panie naczelniku portu, potrzebuję informacji o statku '@<PChar>', kapitana @<PChar>.
+}
+Common_Portman_41 {
+Wspaniale. Jestem do twojej dyspozycji, @<GetFullName>.
+}
+Common_Portman_42 {
+Można tu znaleźć pracę? Albo kontrakt?
+}
+Common_Portman_43 {
+Na pewno zgłaszają się do ciebie kupcy, którzy szukają eskorty dla swoich statków. Czy dziś ktoś taki się pojawił?
+}
+Common_Portman_44 {
+Czy ma pan/pani na oku pasażerów, którzy chcieliby dostać się do innej kolonii?
+}
+Common_Portman_45 {
+Mam świetny statek i chciałbym zarobić, eskortując kupców albo przewożąc pasażerów. Czy macie kogoś takiego?
+}
+Common_Portman_46 {
+@<LinkRandPhrase>
+}
+Common_Portman_47 {
+Czy mogę na jakiś czas zostawić tu jeden ze swoich okrętów?
+}
+Common_Portman_48 {
+Chcę odzyskać swój statek.
+}
+Common_Portman_49 {
+Przyszedłem do was w sprawach finansowych.
+}
+Common_Portman_50 {
+Jestem tu z polecenia pewnej osoby. Nazywa się gubernator @<GetFullName>.
+}
+Common_Portman_51_m {
+@<GetFullName> przysłał mnie do was. Mam coś odebrać...
+}
+Common_Portman_51_f {
+@<GetFullName> przysłał mnie do pana. Muszę coś odebrać...
+}
+Common_Portman_52 {
+@<RandPhraseSimple>
+}
+Common_Portman_53 {
+Interesują mnie kapitanowie, którzy byli zarejestrowani w waszym urzędzie portowym.
+}
+Common_Portman_54 {
+Czy może mi pan/pani powiedzieć, czy zatrzymywał się u was statek "Dead Head" z kapitanem Hannibalem Holmsem?
+}
+Common_Portman_55 {
+Mam inną sprawę.
+}
+Common_Portman_56_m {
+Dzień dobry, przyszedłem na zaproszenie państwa syna.
+}
+Common_Portman_56_f {
+Dzień dobry, przyszłam na zaproszenie państwa syna.
+}
+Common_Portman_57 {
+Chodzi o waszą córkę...
+}
+Common_Portman_58_m {
+Przypadkiem znalazłem ten pakiet dokumentów okrętowych.
+}
+Common_Portman_58_f {
+Przypadkiem znalazłam ten pakiet dokumentów okrętowych.
+}
+Common_Portman_59_m {
+Przypadkiem znalazłem ten, zapewne przez kogoś zapomniany, pakiet dokumentów okrętowych.
+}
+Common_Portman_59_f {
+Przypadkiem znalazłam ten, zapewne przez kogoś zapomniany, pakiet dokumentów okrętowych.
+}
+Common_Portman_60_m {
+Jestem gotów kupić od was stronę z Encyklopedii.
+}
+Common_Portman_60_f {
+Jestem gotowa kupić od was stronę z Encyklopedii.
+}
+Common_Portman_61_m {
+Jako uczciwy kapitan nieraz byłem dla was pomocny. Czy moglibyście wyświadczyć mi drobną przysługę?
+}
+Common_Portman_61_f {
+Jako uczciwa kapitan nieraz byłam dla was pomocna. Czy moglibyście teraz wyświadczyć mi drobną przysługę?
+}
+Common_Portman_62 {
+Czy od naszego ostatniego spotkania trafiły ci się jakieś strony z Encyklopedii?
+}
+Common_Portman_63 {
+Dziękuję. Do widzenia.
+}
+Common_Portman_64 {
+Pański problem można łatwo rozwiązać. Może Pan zwrócić się do dowolnego urzędnika służby nawigacyjnej i uzyskać wszystkie dostępne informacje o trasie statku swojego przyjaciela.
+}
+Common_Portman_65 {
+Niestety, to nie takie proste. To właśnie w waszym porcie mój przyjaciel zmienił nazwę statku... Z powodów religijnych.
+}
+Common_Portman_66 {
+Tak. To już trudniejsze. Muszę zajrzeć do rejestru okrętowego, a to trochę potrwa. A jak wiadomo, dziś czas to pieniądz...
+}
+Common_Portman_67_m {
+Doskonale to rozumiem, panie @<GetFullName>, i jestem gotów odpowiednio wynagrodzić pański czas... Powiedzmy, w wysokości 1000 piastrów.
+}
+Common_Portman_67_f {
+Doskonale to rozumiem, panie @<GetFullName>, i jestem gotowa odpowiednio wynagrodzić pański czas... Powiedzmy, w wysokości 1000 piastrów.
+}
+Common_Portman_68 {
+Hm... A nie mam nawet pieniędzy... Wrócę później...
+}
+Common_Portman_69 {
+Świetnie! Zaraz zobaczymy, co tu mamy... Chwileczkę... Tak... Proszę bardzo. W rejestrze okrętów odnotowano zmianę nazwy i statek, który odtąd nosi nazwę '@<PChar>' pod dowództwem kapitana @<PChar>, wyruszył dziś w kierunku @<XI_ConvertString>.
+}
+Common_Portman_70 {
+O-o-o!... To znaczy, tak, doceniliście to, bo jestem bardzo, bardzo zajętą osobą. Chwileczkę... Tak... Proszę bardzo. W rejestrze okrętów odnotowano zmianę nazwy. Statek, od teraz zwany '@<PChar>', pod dowództwem kapitana @<PChar>, dziś wypłynął w kierunku @<XI_ConvertString>.
+}
+Common_Portman_71 {
+Dziękuję panu, uczynił mi pan naprawdę wielką przysługę.
+}
+Common_Portman_72 {
+Czego dokładnie chcecie się dowiedzieć?
+}
+Common_Portman_73 {
+Powiedzcie, czy statek tego kapitana zawijał do waszego portu?
+}
+Common_Portman_74 {
+Hm... Pozwolą mi państwo zapytać, w jakim celu go szukacie?
+}
+Common_Portman_75 {
+Mam do niego sprawę. Jeśli nie był w waszym porcie albo nie...
+}
+Common_Portman_76 {
+Był tutaj. Ale — chwała Świętym — zaledwie dziś rano wreszcie zlitował się nad nami, grzesznikami, i opuścił nasze towarzystwo, kierując się do @<XI_ConvertString>. Szczerze mówiąc, współczuję każdemu, kto będzie musiał się z nim zetknąć.
+}
+Common_Portman_77 {
+W takim razie życz mi powodzenia i dziękuję za pomoc.
+}
+Common_Portman_78_m {
+Co dokładnie pana interesuje, panie @<GetFullName>?
+}
+Common_Portman_78_f {
+Co dokładnie panią interesuje, pani @<GetFullName>?
+}
+Common_Portman_79 {
+Powiedzcie, czy ten kapitan zawijał do waszego portu?
+}
+Common_Portman_80 {
+Hm, był... Tak bardzo był, że nie mogę się doczekać, aż opuści mój doświadczony przez los port.
+}
+Common_Portman_81 {
+Czyli ten statek wciąż tu jest?
+}
+Common_Portman_82_m {
+Tak jest, łaskawy panie. Cały port, od ostatniego tragarza po szefa służby pilotów, modli się o jego rychłe i szczęśliwe odpłynięcie. Statek właśnie opuścił suchy dok, gdzie przeszedł niezbędny remont, a jego dzielny kapitan zdążył pokłócić się z każdym cieślą i odrzucić trzy partie wyselekcjonowanych desek na poszycie zewnętrzne. Ale już jutro wszechwiedzący i wszechdobry Pan uwolni nas od tej... od tej zarazy, od tej plagi w ludzkiej postaci!
+}
+Common_Portman_82_f {
+Tak jest, łaskawa pani. Cały port, od ostatniego tragarza po szefa służby pilotów, modli się o jego szybkie i pomyślne odpłynięcie. Statek właśnie opuścił suchy dok, gdzie przeszedł niezbędne naprawy, a jego dzielny kapitan zdążył pokłócić się z każdym cieślą i odrzucić trzy partie wyselekcjonowanych desek na poszycie zewnętrzne. Ale już jutro wszechwidzący i wszechdobry Pan uwolni nas od tej... od tej zarazy, od tej plagi w ludzkiej postaci!
+}
+Common_Portman_83 {
+Proszę się uspokoić, panie @<NPChar>, i pomyśleć, że ktoś inny ma teraz trudniej niż pan. Pan już przeszedł przez tę próbę, a mnie dopiero czeka spotkanie z tym kapitanem... Proszę pozwolić mi się oddalić.
+}
+Common_Portman_84 {
+Proszę, pozwól mi zerknąć! Tak, według moich dokumentów ten komplet jest nieważny. To bardzo uprzejme z twojej strony, że znalazłeś czas, by do mnie zajrzeć i przekazać papiery. Pomyślnych wiatrów, kapitanie!
+}
+Common_Portman_85 {
+Dziękuję!
+}
+Common_Portman_86 {
+Proszę, pozwól mi zerknąć! Tak, w moich dokumentach widnieje zarówno ten statek, jak i jego właściciel.
+}
+Common_Portman_87 {
+Pańska sumienność, kapitanie, zasługuje na uznanie! Oczywiście, Pańskie wysiłki powinny zostać nagrodzone.
+}
+Common_Portman_88 {
+@<s1>Powiedzmy, czy @<FindMoneyString> uznasz za godziwe wynagrodzenie?
+}
+Common_Portman_89 {
+Oczywiście, że nie!
+}
+Common_Portman_90 {
+Cóż, to dość skromna suma, ale i przysługa niewielka. Tak, przyjmuję twoją propozycję, @<npchar>.
+}
+Common_Portman_91 {
+Czy zgadzasz się przyjąć moją propozycję?
+}
+Common_Portman_92 {
+Oczywiście, że nie!
+}
+Common_Portman_93_m {
+Chyba tak. Choć jestem pewien, że te dokumenty są warte więcej.
+}
+Common_Portman_93_f {
+Chyba tak. Choć jestem pewna, że te dokumenty są warte więcej.
+}
+Common_Portman_94 {
+Słucham uważnie.
+}
+Common_Portman_95_m {
+Przyprowadziłem waszą uciekinierkę.
+}
+Common_Portman_95_f {
+Przyprowadziłam twoją uciekinierkę.
+}
+Common_Portman_96 {
+Ach, kapitanie, bardzo dziękuję! Jak ona się ma? Zdrowa, nic jej się nie stało? Już prawie doba minęła, odkąd uciekła, ta łobuziara. Czy ja jej źle życzę? Chciałem ją wydać za mąż... Narzeczony bogaty, młody, a że urody nie ma, to przecież nie o to w życiu chodzi. Ale nie! Ona zawsze musi postawić na swoim – cała matka, żeby ją...\nChociaż, i jej by na świecie nie było, gdyby jej matka swego czasu nie uciekła z jednym przedsiębiorczym nicponiem... Ale po co to wspominać... Młodość jest naiwna, głupia... I okrutna.
+}
+Common_Portman_97_m {
+Oczywiście, to pan jest ojcem i decyzja należy do pana, ale ja bym się nie spieszył z tym ślubem...
+}
+Common_Portman_97_f {
+Oczywiście, to pan jest ojcem i decyzja należy do pana, ale ja nie spieszyłabym się ze ślubem...
+}
+Common_Portman_98 {
+A co wy możecie wiedzieć?.. Macie własne dzieci? Nie? To jak będziecie mieć, to przyjdźcie, wtedy pogadamy.\nTak... Obiecałem nagrodę temu, kto ją odnajdzie – proszę, przyjmijcie ją.
+}
+Common_Portman_99 {
+Dziękuję. I trzymaj ją mocno. Coś mi mówi, że na tym nie poprzestanie.
+}
+Common_Portman_100_m {
+A więc to pan jest tym kapitanem, który przywiózł mojego marnotrawnego syna z młodą narzeczoną?
+}
+Common_Portman_100_f {
+A więc to ty jesteś tą dziewczyną, która przywiozła mojego syna marnotrawnego z młodą narzeczoną?
+}
+Common_Portman_101_m {
+Tak, to ja pomogłem im uciec.
+}
+Common_Portman_101_f {
+Tak, to ja pomogłam im uciec.
+}
+Common_Portman_102_m {
+A, pojawił się dobroczyńca. Pewnie czekasz na nagrodę?
+}
+Common_Portman_102_f {
+A, przyszłaś, dobrodziejko. Pewnie czekasz na nagrodę?
+}
+Common_Portman_103 {
+No, nie chodzi mi o nagrody, ale dobrze byłoby usłyszeć choć trochę wdzięczności.
+}
+Common_Portman_104 {
+Jestem wam bardzo wdzięczny za to, że nie zostawiliście mojego dziecka w trudnej sytuacji i pomogliście mu wyjść z niej z honorem. Pozwólcie, że się wam odwdzięczę, jak potrafię. Przyjmijcie tę skromną sumę i prezent ode mnie osobiście.
+}
+Common_Portman_105 {
+Dziękuję, miło mi było pomagać tym młodym ludziom.
+}
+Common_Portman_106 {
+Jaka wdzięczność?! Za co wdzięczność?! Mało tego, że ten obibok od pół roku włóczy się bez pracy, to jeszcze znalazł czas na grzeczności! Ja w jego wieku już prowadziłem własny interes. A on, proszę, rozmarzył się! U gubernatora, zobacz, córka na wydaniu, a ten przyprowadził jakąś bezrodną ladacznicę, niech Bóg wybaczy, i jeszcze o rodzicielskie błogosławieństwo prosi!
+}
+Common_Portman_107 {
+Hm, czyli nie wierzycie w szczere uczucia?
+}
+Common_Portman_108 {
+Jakie jeszcze uczucia?! O jakich uczuciach mówicie? Dorosły człowiek, a takie rzeczy... Uczucia! Powinno wam być wstyd, że młodym w takich sprawach pobłażacie i jeszcze swatką zostajecie. Dziewczynę wyrwaliście z rodzinnego domu, a mojemu smarkaczowi życie zrujnowaliście. Nie doczekacie się żadnej wdzięczności. Żegnajcie.
+}
+Common_Portman_109 {
+No cóż, zdrowia i dla was...
+}
+Common_Portman_110 {
+Prowadzę interesy wyłącznie za zgodą Edwarda Colliera, więc proszę mi nie przeszkadzać, @<GetFullName>.
+}
+Common_Portman_111_m {
+Zrozumiałem. Do widzenia.
+}
+Common_Portman_111_f {
+Zrozumiałam. Do widzenia.
+}
+Common_Portman_112 {
+Miałeś odnaleźć kapitana o imieniu @<npchar> i zwrócić mu dziennik pokładowy. Udało ci się to?
+}
+Common_Portman_113 {
+Nie, jeszcze się nie udało...
+}
+Common_Portman_114 {
+Zobowiązałeś się odnaleźć skradziony @<GetStrSmallRegister> „@<npchar>”. Dopóki nie wykonasz tego zadania, nie możesz przyjąć żadnych innych zleceń.
+}
+Common_Portman_115 {
+Będę kontynuować poszukiwania, czekajcie.
+}
+Common_Portman_116 {
+Chcę zrezygnować z wykonania waszego polecenia.
+}
+Common_Portman_117 {
+Obiecałeś mi odnaleźć skradziony @<GetStrSmallRegister> „@<npchar>”. Udało ci się?
+}
+Common_Portman_118_m {
+Tak, znalazłem go, stoi w porcie na redzie. Możecie go zabrać.
+}
+Common_Portman_118_f {
+Tak, znalazłam go, stoi na redzie w porcie. Możecie go zabrać.
+}
+Common_Portman_119 {
+Będę szukać dalej, czekajcie.
+}
+Common_Portman_120 {
+Chcę zrezygnować z wykonania waszego zlecenia.
+}
+Common_Portman_121 {
+Tak, do diabła! Mam dla was robotę!
+}
+Common_Portman_122 {
+Ha! Zjawiliście się w samą porę! Mam pewien problem, który wymaga rozwiązania.
+}
+Common_Portman_123 {
+A jakże! Oczywiście, że mam robotę! Problemy, wie pan, po prostu mnie przytłoczyły...
+}
+Common_Portman_124 {
+@<LinkRandPhrase>
+}
+Common_Portman_125 {
+Przechodź do sedna sprawy, @<GetAddress_FormToNPC>.
+}
+Common_Portman_126 {
+Boże! Kapitanie @<GetFullName>, pojawił się pan w samą porę! Spotkało nas takie nieszczęście, takie nieszczęście... Na redzie spalił się statek, powierzony opiece zarządu portu! Przez niedopatrzenie straży spłonął... aż po samą linię wodną.\nPanie, za co mnie to spotkało? Przecież tyle lat wiernie służyłem...
+}
+Common_Portman_127 {
+Hm, cóż za sensacja — statek spłonął. Po co więc są ubezpieczenia? Albo może nie ubezpieczyliście go… żeby zaoszczędzić, prawda? A teraz tylko żałować można, co?
+}
+Common_Portman_128_m {
+Z takimi pytaniami powinniście się zwrócić do stoczni, a nie do mnie. W ciągu kilku miesięcy zbudują wam nowy statek albo odnowią stary. Nie jestem szkutnikiem, więc przepraszam, to nie do mnie...
+}
+Common_Portman_128_f {
+Z takimi pytaniami powinniście się zwrócić do stoczni, a nie do mnie. W ciągu kilku miesięcy mogą wam albo odnowić stary statek, albo zbudować nowy. Nie jestem szkutniczką, więc wybaczcie, to nie do mnie...
+}
+Common_Portman_129 {
+Gubernator dba o dobro miasta – zawsze znajdzie się u niego jakieś zajęcie. W tawernie mogą być kupcy szukający pomocy, a sklep czasem wynajmuje kapitanów.
+}
+Common_Portman_130 {
+Jeszcze jedno pytanie.
+}
+Common_Portman_131 {
+Dziękuję. Do widzenia.
+}
+Common_Portman_132 {
+Interesuję się interesami tylko za zgodą Edwarda Colliera, więc proszę mi nie przeszkadzać, @<GetFullName>.
+}
+Common_Portman_133_m {
+Zrozumiałem. Do widzenia.
+}
+Common_Portman_133_f {
+Zrozumiałam. Do widzenia.
+}
+Common_Portman_134 {
+Nie ma tu pracy dla tych, którzy służą pod flagą @<NationNameGenitive>! Proszę natychmiast opuścić mój gabinet!
+}
+Common_Portman_135 {
+Nie zamierzam współpracować z @<NationNameInstrumental>. Wynoś się stąd!
+}
+Common_Portman_136 {
+@<RandPhraseSimple>
+}
+Common_Portman_137 {
+Hm, wasze prawo...
+}
+Common_Portman_138 {
+No, jak uważasz...
+}
+Common_Portman_139 {
+@<RandPhraseSimple>
+}
+Common_Portman_140 {
+Mam w dzienniku całą listę pasażerów czekających na okazję, by popłynąć z kimś innym. Ale obawiam się, że nie znajdzie się wśród nich żaden głupiec, który zgodziłby się podróżować pod twoim dowództwem. Reputacja to delikatna sprawa, a zła sława na Karaibach rozchodzi się jak kręgi na wodzie...
+}
+Common_Portman_141 {
+Ciągle zgłaszają się do mnie kupcy, którzy potrzebują eskorty. Ale eskorta ma zapewniać ochronę, a nie grozić tym, że zostaną obrabowani przez własny konwój. Biorąc pod uwagę złą reputację, która za wami się ciągnie, żaden kupiec nie zaryzykuje czegoś takiego.
+}
+Common_Portman_142 {
+@<RandPhraseSimple>
+}
+Common_Portman_143 {
+Co-o?! Ludzie wszystko zmyślają.
+}
+Common_Portman_144 {
+Czy naprawdę wszyscy się mnie boją?! No cóż, widocznie mają powód.
+}
+Common_Portman_145 {
+Co za ludzie teraz się trafiają! Nawet na kogo splunąć nie można — od razu lecą się skarżyć!
+}
+Common_Portman_146 {
+@<LinkRandPhrase>
+}
+Common_Portman_147 {
+Otrzymuję zgłoszenia od kupców i pasażerów z całej kolonii, którzy proszą o znalezienie eskorty lub statków płynących w różne strony archipelagu. Jeśli szukasz czegoś konkretnego, możemy sprawdzić.
+}
+Common_Portman_148 {
+Z przyjemnością podejmę się eskorty, jeśli będzie po drodze.
+}
+Common_Portman_149 {
+Dużo pasażerów? Akurat mam wolne kajuty.
+}
+Common_Portman_150 {
+A gdzie wasz statek? Zamierzacie wozić pasażerów na własnych plecach?
+}
+Common_Portman_151 {
+Hm, racja...
+}
+Common_Portman_152 {
+Ale już masz statek pod eskortą. W razie ataku nie zdołasz obronić kilku okrętów naraz — będziesz musiał poświęcić któryś z nich. Żaden kupiec się na to nie zgodzi. Najpierw dokończ to, co zacząłeś, a potem wróć.
+}
+Common_Portman_153 {
+Ależ teraz tchórzliwi ci kupcy się zrobili. Gdyby musieli sami przez Atlantyk... No cóż, żegnajcie.
+}
+Common_Portman_154 {
+No to pech... No nic, wszystkiego dobrego.
+}
+Common_Portman_155 {
+@<RandPhraseSimple>
+}
+Common_Portman_156 {
+Przepraszam, ale nie mam nikogo chętnego, kto chciałby wyruszyć z tobą w drogę.
+}
+Common_Portman_157 {
+Zrozumiałem. Jak pan/pani sobie życzy.
+}
+Common_Portman_158 {
+Ale wasza eskadra jest zbyt duża na eskortę. Kupcy nie dołączą do takiego konwoju, który sam w sobie może przyciągnąć niepożądaną uwagę.
+}
+Common_Portman_159_m {
+Racja, nie pomyślałem. Dobrze, wpadnę później, jeśli będę miał nastrój.
+}
+Common_Portman_159_f {
+Racja, nie pomyślałam o tym. Dobrze, wpadnę później, jeśli będę miała nastrój.
+}
+Common_Portman_160 {
+Nie wiem, czy będzie ci po drodze, ale był u mnie przed chwilą pewien kupiec, który szukał eskorty... O, właśnie wrócił!
+}
+Common_Portman_161 {
+Zna go pan dobrze? To zamożny dżentelmen czy raczej podejrzany typ?
+}
+Common_Portman_162 {
+A kim on właściwie jest? Warto z nim robić interesy?
+}
+Common_Portman_163 {
+@<RandPhraseSimple>
+}
+Common_Portman_164 {
+Zwykle mam wielu kupców, którzy potrzebują eskorty, ale akurat teraz, pech chciał, że nikogo nie ma. Może innym razem będziecie mieli więcej szczęścia.
+}
+Common_Portman_165 {
+Dobrze, nie ma sprawy.
+}
+Common_Portman_166 {
+Tak, nie poszczęściło się... No cóż, żegnaj.
+}
+Common_Portman_167 {
+@<RandPhraseSimple>
+}
+Common_Portman_168 {
+Dziś już nikogo nie ma. Proszę przyjść za kilka dni.
+}
+Common_Portman_169 {
+Dobrze. Jak sobie życzycie.
+}
+Common_Portman_170 {
+Przepraszam, ale nie mam nikogo chętnego, kto chciałby wyruszyć z tobą w drogę.
+}
+Common_Portman_171 {
+Rozumiem. Jak pan/pani sobie życzy.
+}
+Common_Portman_172 {
+Dużo – to nie, ale jeden facet dziś już kilka razy tu zaglądał, szukał statku płynącego w jego stronę. O, znowu on!
+}
+Common_Portman_173 {
+Jak myślicie, warto go brać na pokład?
+}
+Common_Portman_174 {
+A co to za człowiek? Warto z nim robić interesy?
+}
+Common_Portman_175 {
+@<RandPhraseSimple>
+}
+Common_Portman_176 {
+Niestety, dziś nie ma żadnych pasażerów. Proszę się nie gniewać...
+}
+Common_Portman_177 {
+No cóż, skoro nie, to nie.
+}
+Common_Portman_178 {
+Tak, nie poszczęściło się... No cóż, żegnajcie.
+}
+Common_Portman_179 {
+@<RandPhraseSimple>
+}
+Common_Portman_180 {
+Dziś już nikogo nie ma. Proszę przyjść za kilka dni.
+}
+Common_Portman_181 {
+Dobrze. Jak sobie życzycie.
+}
+Common_Portman_182 {
+Tak, to całkiem poważny pan. A co do ceny — to już musicie dogadać się sami, tutaj nie mogę pomóc.
+}
+Common_Portman_183 {
+Dajcie spokój, nie poleciłbym byle kogo. Ważne tylko, żebyście dogadali się co do ceny.
+}
+Common_Portman_184 {
+@<RandPhraseSimple>
+}
+Common_Portman_185 {
+Jasne. Zaraz się dowiemy, dokąd musi iść.
+}
+Common_Portman_186 {
+Tak, całkiem zwyczajny pasażer.
+}
+Common_Portman_187 {
+Czemu nie? To całkiem zamożny pan.
+}
+Common_Portman_188 {
+@<RandPhraseSimple>
+}
+Common_Portman_189 {
+Dziękuję, zaraz z nim porozmawiam.
+}
+Common_Portman_190 {
+Hm, to niedobrze. W takim razie nie ma mowy o żadnej nowej pracy dla mnie.
+}
+Common_Portman_191_m {
+Rozumiem. Jeszcze jedno chciałem powiedzieć...
+}
+Common_Portman_191_f {
+Rozumiem. Jeszcze coś chciałam powiedzieć...
+}
+Common_Portman_192 {
+Bardzo mi przykro, kapitanie... Szkoda, że nie chce mi pan pomóc.
+}
+Common_Portman_193 {
+Tu nie chodzi o chęci, szanowny panie. Sam pan przecież rozumie... Do widzenia...
+}
+Common_Portman_194 {
+Ależ kapitanie?! Opamiętajcie się, na Boga!.. Jak to możliwe?! Znam się na swoim fachu, przecież służę już tyle lat. Są polisy ubezpieczeniowe, firma ubezpieczeniowa gotowa wypłacić odszkodowanie, i zapewniam was, suma jest niemała.
+}
+Common_Portman_195 {
+Szanowny panie, więc na czym polega pański problem? Wybuchła komora prochowa z powodu pożaru, ludzie ucierpieli, a pana oskarżają o niedbalstwo?
+}
+Common_Portman_196 {
+No cóż, tego naprawdę nie było — Pan Bóg mnie uchronił, bo inaczej już dawno straciłbym głowę. Ładownia była zupełnie pusta, jak ręką odjął, chwała Ci, Panie Boże, Najświętsza Dziewico Maryjo!\nA cały problem w tym, że statek należy... a raczej należał, do znanego w całych Karaibach pana @<sCapitainId>. Zbudowano go w Europie na specjalne zamówienie, z wyjątkowymi cechami. Właściciel był z tego statku bardzo dumny i chwalił się nim gdzie popadnie, głupiec, wybacz Boże... Co ja mu teraz powiem? Chyba tylko sznur mi zostaje, na Boga...
+}
+Common_Portman_197 {
+O-o, widzę, że nieźle się wpakowaliście. A co z nim było nie tak, jak z innymi okrętami? To znaczy, z czego ten pan był tak dumny w swoim stateczku?
+}
+Common_Portman_198 {
+Jego @<GetStrSmallRegister> osiągał na wietrze ponad @<NPChar> węzłów. To była największa duma każdego korsarza... On po prostu każe swoim ludziom powiesić mnie na rei! Diabli go przynieśli do naszego portu razem z tą jego piracką łajbą...
+}
+Common_Portman_199 {
+Jego @<GetStrSmallRegister> zwrotność wynosiła ponad @<NPChar> jednostek. To była największa duma dla wojaka... Każe mnie przegonić przez szpaler! Diabli go podkusiły, żeby zostawił mi swój statek...
+}
+Common_Portman_200 {
+Jego @<GetStrSmallRegister> miał nośność ponad @<NPChar> ton wyporności. Dla kupca to był powód do największej dumy... Rozszarpie mnie bez sądu. Diabli go podkusili, żeby zostawić swój kram właśnie u mnie!
+}
+Common_Portman_201 {
+A co mówią w stoczni? Naprawdę nie da się tu czegoś takiego zbudować?
+}
+Common_Portman_202 {
+Nikt się nie podejmuje. Nawet na sąsiednią wyspę chodziłem z prośbą. Mówią, że na Bermudach jest znakomity mistrz. Ale gdzie my, a gdzie Bermudy. Pozostaje tylko liczyć na pomoc takich wolnych kapitanów jak wy. Przecież topicie te łajby dziesiątkami. Może nie sprawi wam trudności znaleźć podobny stateczek dla mnie. My go tu podmalujemy, poprawimy, żeby właściciel nie miał pretensji.\nOdpłacę się hojnie, a i firma ubezpieczeniowa nie pożałuje. Sprawa jest wyjątkowa, sami rozumiecie. Kto chciałby popaść w niełaskę u tak wpływowego pana?
+}
+Common_Portman_203 {
+Tak, to niełatwa sprawa. Ile mam czasu?
+}
+Common_Portman_204 {
+Nie, mój drogi, nie podejmę się tego. Nikt też nie da gwarancji, że istnieje okręt o takich właściwościach. Nie miej mi tego za złe...
+}
+Common_Portman_205 {
+Czas, dzięki Bogu, jest. Właściciel wyjechał do Europy i nie wróci wcześniej niż za pół roku.
+}
+Common_Portman_206 {
+Dobrze, podejmuję się tego. Dostarczę wam taki okręt. Ale pamiętajcie, jeśli zaczniecie się targować i oszczędzać — spalę go na waszych oczach!
+}
+Common_Portman_207 {
+Ależ kapitanie, co pan mówi? Jakże bym mógł? Przecież rozumiem, że to nie byle łajbę z pierwszej lepszej kałuży trzeba wyciągnąć — to wymaga czasu... Pan tylko sprowadzi okręt, a my już się postaramy. Może pan być pewien...
+}
+Common_Portman_208 {
+Mam nadzieję... Czekajcie na mnie z dobrymi wieściami. Do zobaczenia.
+}
+Common_Portman_209 {
+prędkości. U @<GetStrSmallRegister> prędkość z wiatrem powinna wynosić co najmniej @<NPChar>
+}
+Common_Portman_210 {
+zwrotności. @<GetStrSmallRegister> musi mieć zwrotność nie mniejszą niż @<NPChar>
+}
+Common_Portman_211 {
+ładowni. @<GetStrSmallRegister> musi mieć co najmniej @<NPChar> ładowni
+}
+Common_Portman_212 {
+O czym chcieliście porozmawiać?
+}
+Common_Portman_213 {
+A gdzie jest poprzedni szef zarządu portu, pan @<NPChar>? Mam z nim do załatwienia pewną sprawę.
+}
+Common_Portman_214 {
+A jego nie ma... Wyobrażasz sobie? Spalił statek pewnego znanego pana i zgarnął odszkodowanie. Zanim władze się połapały, o co chodzi, już zdążył złożyć rezygnację i zwiał do Europy. Co za spryciarz, co?
+}
+Common_Portman_215 {
+Tak, znam tę historię. Przepraszam, muszę już iść...
+}
+Common_Portman_216 {
+O czym chcieliście porozmawiać?
+}
+Common_Portman_217_m {
+Przyprowadziłem wam okręt o wyjątkowych cechach. Czekam na obiecaną nagrodę.
+}
+Common_Portman_217_f {
+Przyprowadziłam wam okręt o wyjątkowych cechach. Czekam na obiecaną nagrodę.
+}
+Common_Portman_218_m {
+Wie pan, @<GetFullName>, jakoś nie trafiają mi się statki o cechach, które pan zamówił. Chyba zrezygnuję z tego zlecenia. Przepraszam, jeśli pana zawiodłem...
+}
+Common_Portman_218_f {
+Wie pan, @<GetFullName>, jakoś nie trafiają mi się statki o cechach, które pan zamówił. Chyba zrezygnuję z tego zlecenia. Przepraszam, jeśli pana zawiodłam...
+}
+Common_Portman_219 {
+Bardzo mi przykro, kapitanie... Szkoda, że nie chce mi pan pomóc.
+}
+Common_Portman_220 {
+Tu nie chodzi o chęci, szanowny. Sam pan rozumie... Do widzenia...
+}
+Common_Portman_221 {
+A więc tak! I jak nazywa się nasz nowy statek?
+}
+Common_Portman_222 {
+Przepraszam, przyjdę później.
+}
+Common_Portman_223_m {
+Ach, kapitanie, cieszę się, że się na was nie zawiodłem! Naprawdę spisaliście się świetnie, uratowaliście mi życie... Bardzo proszę, przyjdźcie po pieniądze za dwa dni. Trzeba jeszcze załatwić formalności związane z wypłatą ubezpieczenia... A wy w tym czasie doprowadźcie statek do porządku. No wiecie, odnowić żagle, załatać uszkodzenia, przyda się też krengowanie...
+}
+Common_Portman_223_f {
+Ach, kapitanie, cieszę się, że się na was nie zawiodłem! Naprawdę świetnie sobie poradziliście, uratowaliście mi życie... Bardzo was proszę, przyjdźcie po pieniądze za dwa dni. Trzeba jeszcze załatwić formalności związane z wypłatą ubezpieczenia... A wy w tym czasie doprowadźcie statek do porządku. Odnowić żagle, załatać uszkodzenia, przyda się też krengowanie...
+}
+Common_Portman_224_m {
+Nie zapomnieliście, co obiecałem, jeśli pojawią się opóźnienia z wypłatą?
+}
+Common_Portman_224_f {
+Nie zapomnieliście, co obiecałam, jeśli pojawią się opóźnienia z wypłatą?
+}
+Common_Portman_225 {
+Nie, nie, broń Boże! Dotrzymam słowa, proszę się nie martwić. Po prostu, wiedząc, że czekają mnie jeszcze wydatki na, powiedzmy, zamaskowanie statku, ulokowałem pewną sumę na procent. Proszę mnie dobrze zrozumieć...
+}
+Common_Portman_226 {
+Zrozumiem was, gdy zobaczę piastres w mojej skrzyni. Do zobaczenia.
+}
+Common_Portman_227 {
+O czym chcieliście porozmawiać?
+}
+Common_Portman_228_m {
+Przyszedłem po nagrodę. Statek, którego potrzebujecie, wciąż jest u mnie.
+}
+Common_Portman_228_f {
+Przyszłam po nagrodę. Statek, którego potrzebujecie, wciąż jest u mnie.
+}
+Common_Portman_229 {
+Proszę przypomnieć mi jego nazwę. Wie pan, przez te nerwy zupełnie straciłem pamięć.
+}
+Common_Portman_230 {
+Przepraszam, zajrzę później.
+}
+Common_Portman_231 {
+Tak, wspaniale! Jestem gotów wydać twoją nagrodę, @<FindMoneyString>. Właśnie tak firma ubezpieczeniowa wyceniła spalone okręt. Ubezpieczenie wypłacono w skrzyniach kredytowych – gotówki niestety nie ma, przepraszam.
+}
+Common_Portman_232_m {
+Nie, taka kwota mnie nie satysfakcjonuje. Jestem pewien, że ten statek jest wart o wiele więcej.
+}
+Common_Portman_232_f {
+O nie, taka suma mnie nie satysfakcjonuje. Jestem pewna, że ten statek jest wart o wiele więcej.
+}
+Common_Portman_233_m {
+To zupełnie co innego. Cieszę się, że mogłem wam pomóc. Do zobaczenia.
+}
+Common_Portman_233_f {
+To zupełnie co innego. Cieszę się, że mogłam pomóc. Do zobaczenia.
+}
+Common_Portman_234 {
+Ależ kapitanie! Proszę mi wierzyć, wiem, co mówię. Za takie pieniądze mógłby pan kupić dwa takie okręty!
+}
+Common_Portman_235 {
+Lepiej zostawię to sobie. Naprawdę bardzo mi się spodobało... Żegnajcie.
+}
+Common_Portman_236 {
+Jeden kapitan zapomniał u mnie dziennika pokładowego. Trzeba być naprawdę roztargnionym... W każdym razie, muszę go dogonić i oddać zgubę.
+}
+Common_Portman_237 {
+No, to da się zrobić... Tę robotę biorę!
+}
+Common_Portman_238 {
+Nie, nie chcę się tym zajmować. To w końcu jego sprawa...
+}
+Common_Portman_239 {
+Skradziono mi statek ze stoczni. Chcę, żebyście go odnaleźli i zwrócili mi.
+}
+Common_Portman_240_m {
+Hm, no dobrze, jestem gotów zająć się poszukiwaniami.
+}
+Common_Portman_240_f {
+Hm, no dobrze, jestem gotowa zająć się poszukiwaniami.
+}
+Common_Portman_241 {
+Przepraszam, ale nie zajmuję się poszukiwaniem statków.
+}
+Common_Portman_242 {
+Świetnie, oto jego dziennik... Uff, jakby kamień spadł mi z serca! Utrata dziennika okrętowego to przykra sprawa, martwię się o takich kapitanów.
+}
+Common_Portman_243 {
+To na pewno, jest się czym martwić! A teraz opowiedz mi więcej o tym roztargnionym kapitanie.
+}
+Common_Portman_244 {
+Tak, oczywiście! Nazywa się @<npchar>, jest kapitanem @<GetStrSmallRegister> o nazwie '@<npchar>'. Wypłynął na morze niedawno, a kieruje się do @<XI_ConvertString>.
+}
+Common_Portman_245 {
+Rozumiem. W porządku, na pewno go znajdę. Jak będzie z zapłatą?
+}
+Common_Portman_246 {
+@<npchar> sam z wami się rozliczy, to w jego interesie. Tylko postarajcie się go znaleźć jak najszybciej, a wszystko będzie w porządku.
+}
+Common_Portman_247_m {
+Jasne. No to idę...
+}
+Common_Portman_247_f {
+Jasne. No to ja pójdę...
+}
+Common_Portman_248 {
+Świetnie! Wiecie, skradziony statek należał do nie byle kogo, więc jest dla mnie bardzo ważny. Dobrze wam zapłacę za tę robotę...
+}
+Common_Portman_249 {
+Rozumiem. Proszę opowiedzieć dokładniej, co to za statek i w jakich okolicznościach został skradziony.
+}
+Common_Portman_250 {
+@<XI_ConvertString> o imieniu '@<npchar>'. Skradziony został nocą @<FindDaysString> temu. Wartownik został zabity.
+}
+Common_Portman_251 {
+Hm, pewnie zdążyli już odejść całkiem daleko. O pościgu na gorąco nie ma więc mowy...
+}
+Common_Portman_252 {
+Tak, zgadza się. Ale nie miałem powodu od razu siać paniki. Jeśli wojsko nas dogoni, rozniosą statek na kawałki, a to nie do końca mi odpowiada.
+}
+Common_Portman_253 {
+Rozumiem. No cóż, zabieram się za poszukiwania. Mam nadzieję, że będę mieć szczęście.
+}
+Common_Portman_254 {
+Hm, cóż, bardzo szkoda. Chociaż trudno było liczyć na powodzenie...
+}
+Common_Portman_255 {
+Tak, od kradzieży minęło już zbyt wiele czasu.
+}
+Common_Portman_256 {
+Cóż, dziękuję za udzieloną pomoc, choć nie przyniosła ona powodzenia.
+}
+Common_Portman_257 {
+Nie ma za co...
+}
+Common_Portman_258 {
+Świetnie! Jednak przypuszczam, że to nie do końca ten statek, który został skradziony... Chociaż w sumie, to bez znaczenia! Zabieram go od was.
+}
+Common_Portman_259 {
+Tak, rzeczywiście...
+}
+Common_Portman_260 {
+Znakomicie! Bardzo mi pomogliście. Wyobrażam sobie, jakie to było trudne.
+}
+Common_Portman_261 {
+Tak, rzeczywiście...
+}
+Common_Portman_262 {
+Jestem gotów wypłacić wam nagrodę. Wynosi ona @<FindMoneyString> w skrzyniach. Niestety, więcej zapłacić nie mogę.
+}
+Common_Portman_263 {
+No cóż, to też wystarczy. Dziękuję i wszystkiego dobrego.
+}
+Common_Portman_264 {
+Są tu wyróżniający się kapitanowie. Kto dokładnie pana/panią interesuje?
+}
+Common_Portman_265 {
+@<GetFullName>, kapitan @<GetStrSmallRegister> „@<sld>”.
+}
+Common_Portman_266 {
+Nie mam na liście kapitanów, którzy mogliby cię zainteresować.
+}
+Common_Portman_267 {
+Rozumiem. Dziękuję za informację.
+}
+Common_Portman_268 {
+Nie mam na liście kapitanów, którzy mogliby cię zainteresować.
+}
+Common_Portman_269 {
+Rozumiem. Dziękuję za informację.
+}
+Common_Portman_270 {
+No dobrze, zobaczmy... Aha, jest!
+}
+Common_Portman_271 {
+No proszę... Aha, mam to!
+}
+Common_Portman_272 {
+A więc tak.
+}
+Common_Portman_273 {
+@<LinkRandPhrase> Kapitan @<GetFullName> @<arCapLocal> roku opuścił nasz port, kierując się do @<XI_ConvertString>.
+}
+Common_Portman_274 {
+Dziękuję. Chciałbym zobaczyć dalszą część listy...
+}
+Common_Portman_275 {
+To wszystko, kapitanowie już mnie nie interesują.
+}
+Common_Portman_276 {
+Nie ma pan(i) pozwolenia na zostawianie tu statków, więc proszę mi nie przeszkadzać, @<GetFullName>.
+}
+Common_Portman_277_m {
+Zrozumiałem. Do widzenia.
+}
+Common_Portman_277_f {
+Zrozumiałam. Do widzenia.
+}
+Common_Portman_278 {
+Właściwie tak. Ale teraz nie mogę przyjąć statku. W dokach nie ma wolnych miejsc.
+}
+Common_Portman_279 {
+Bardzo mi przykro.
+}
+Common_Portman_280 {
+Hm. Nie widzę waszych okrętów w porcie.
+}
+Common_Portman_281_m {
+Tak, po prostu chciałem zapytać o możliwość postoju.
+}
+Common_Portman_281_f {
+Tak, po prostu chciałam zapytać o możliwość postoju.
+}
+Common_Portman_282 {
+Dobrze. Odbierzecie, kiedy będzie trzeba.
+}
+Common_Portman_283 {
+Dziękuję.
+}
+Common_Portman_284 {
+W twojej eskadrze nie ma miejsca na kolejny okręt.
+}
+Common_Portman_285 {
+Tak, dokładnie. Dziękuję.
+}
+Common_Portman_286 {
+Hm. Nie widzę waszego okrętu flagowego w porcie. A swoje statki możecie odebrać tylko tutaj.
+}
+Common_Portman_287 {
+Dobrze, przybędę po nich później.
+}
+Common_Portman_288 {
+Tak, zatrzymywał się tutaj. Kapitana, którego szukasz, znajdziesz w mieście.
+}
+Common_Portman_289 {
+Dziękuję! Bardzo mi Pan/Pani pomógł/pomogła.
+}
+Common_Portman_290 {
+Nie, pierwszy raz o tym słyszę.
+}
+Common_Portman_291 {
+Hm... Dobrze, szukajmy dalej.
+}
+Common_Portman_292 {
+Czego więc chcecie?
+}
+Common_Portman_293 {
+Chodzi o to, że kolekcjonuję strony z pewnego niezwykle rzadkiego dzieła — Morskiej Encyklopedii. Czy nie natknął się pan/pani na coś podobnego?
+}
+Common_Portman_294 {
+Cóż, rzeczywiście niedawno udało mi się zdobyć jedną ze stron tej Encyklopedii.
+}
+Common_Portman_295 {
+Świetnie! Czy mogę ją od pana kupić?
+}
+Common_Portman_296 {
+Wiem o istnieniu takiego zbioru. Zdaje się, że składa się z dwunastu tomów. Jednak nie mogę się pochwalić posiadaniem choćby jednej jego strony.
+}
+Common_Portman_297 {
+Dziękuję za odpowiedź.
+}
+Common_Portman_298 {
+Jest Pan wspaniałym człowiekiem i znakomitym żeglarzem. Będę zaszczycony, jeśli zechce Pan przyjąć ode mnie tę stronę w prezencie.
+}
+Common_Portman_299_m {
+Pańska hojność nie zna granic. Jestem wdzięczny z całego serca!
+}
+Common_Portman_299_f {
+Twoja hojność nie zna granic. Jestem wam wdzięczna z całego serca!
+}
+Common_Portman_300 {
+Nie nazwałbym cię zdolnym kapitanem, ale czemu nie? Jesteś gotów zapłacić @<FindMoneyString> za tę stronę?
+}
+Common_Portman_301 {
+Cóż, sądzę, że @<FindMoneyString> to uczciwa cena za tak rzadki przedmiot.
+}
+Common_Portman_302 {
+Podobacie mi się, a do tego znacie się na rzeczy, więc jestem gotów oddać wam tę stronę za symboliczną opłatę w wysokości @<FindMoneyString>.
+}
+Common_Portman_303 {
+Nie wyobrażam sobie, do czego mogłaby się wam przydać. Wyraźnie nie nadajecie się ani do dowodzenia statkiem, ani do kierowania ludźmi. Ale niech będzie po waszemu, @<FindMoneyString> – i jest wasza.
+}
+Common_Portman_304 {
+Umowa stoi, oto pieniądze.
+}
+Common_Portman_305 {
+Nie, to teraz dla mnie za drogo.
+}
+Common_Portman_306 {
+Ekhm, cóż, to zależy od tego, kim jest wasz przyjaciel i po co mu do Port Royal, doktorze. Nie planujecie przypadkiem ucieczki?
+}
+Common_Portman_307 {
+Ten mój przyjaciel, on... To znaczy, ona – to piękna panna... Hm, zapomniałem jej imienia – takie niepozorne, łatwo je przeoczyć...
+}
+Common_Portman_308 {
+Mój drogi przyjaciel – kaper, który niedawno stracił swój statek podczas ataku na hiszpański patrol.
+}
+Common_Portman_309 {
+Słyszeliście o nim. Jest kapitanem... Nazywa siebie Jacquesem Nightingale’em — postrachem Siedmiu Mórz i tak dalej, i tak dalej...
+}
+Common_Portman_310 {
+Panna? Pańska przyjaciółka, która tak naprawdę jest panną, o nijakim imieniu, chce dostać się do Port Royal? Żartuje pan sobie ze mnie, doktorze?..
+}
+Common_Portman_311 {
+Nawet przez myśl mi to nie przeszło, sir! Ja tylko, hmm, próbuję pomóc. No, jemu... jej, to znaczy. Przyjacielowi. Tak.
+}
+Common_Portman_312 {
+A gdzie to się stało?
+}
+Common_Portman_313 {
+U wybrzeży Curaçao. Jego korsarski bryg „Czarny Jastrząb” wpadł w zasadzkę – hiszpańska fregata „Sangre de Dios” czekała na nich we mgle. Towarzyszyły jej jeszcze dwa okręty liniowe pod banderą wiceadmirała Mendosy. Mój przyjaciel był jedynym, któremu udało się przedrzeć, by ostrzec, że ta flota zmierza w stronę Port Royal!
+}
+Common_Portman_314 {
+A gdzie to się stało?
+}
+Common_Portman_315 {
+To było... yyy... Cholera! Nieważne.
+}
+Common_Portman_316 {
+Chce pan powiedzieć: były kapitan... Prawda?
+}
+Common_Portman_317 {
+Yyy... No, tak... Były. Zna go pan/pani?
+}
+Common_Portman_318 {
+Dobrze, tym razem wam uwierzę. W mieście jest człowiek o imieniu John Miner. Porozmawiajcie z nim, właśnie wspomniał, że zamierza udać się do Port Royal.
+}
+Common_Portman_319 {
+Jestem bardzo wdzięczny.
+}
+Common_Portman_320 {
+Hm... Nie, doktorze, coś tu się nie zgadza. Pańska opowieść się nie klei. Lepiej proszę odejść, zanim wezwę straż i odeślę pana do pułkownika Bishopa.
+}
+Common_Portman_321 {
+Cholera! Dobra, zrozumiałem...
+}
+Common_Portman_322 {
+Słusznie pan zauważył, słyszałem o nim. Nie wiem, kim był Jacques Solovoy, zanim pojawił się w Bractwie Wybrzeża i wyruszył na poszukiwanie skarbów. Ale dobrze pamiętam jego okręt. Piękna nazwa i piękny statek... kiedyś.
+}
+Common_Portman_323 {
+Co?! Ani słowem o tym nie wspomniał...
+}
+Common_Portman_324 {
+Teraz już nie jest taki rozmowny — życie go nauczyło. Trzeciego dnia podróży podszedł do niego pierwszy oficer i mówi: „mamy umowę, żeby się dzielić”. Że niby wszyscy powinni wiedzieć, gdzie są skarby. No więc Jacques dał mu mapę, a w nocy...
+}
+Common_Portman_325 {
+Został zdradzony?.. Był bunt?
+}
+Common_Portman_326 {
+Nie! W nocy mapa zniknęła. Wilki morskie odkryły, że tytoniu mają pod dostatkiem, ale fajek ani jednej, więc zgodnie spalili mapę skarbu, skręcając z niej papierosy. Rankiem czwartego dnia skończył się rum, tytoń też, a skarbu już nie sposób było odnaleźć. Starszy oficer oskarżył o wszystko Jacques’a, a załoga go poparła. Piraci wysadzili go na bezludnej wyspie, żeby tam zginął. Gdy już oszaleje od upału...\nWiecie, kiedy pirata się wygania, dostaje pistolet z jedną kulą. Tylko jedną. Na polowanie czy ratunek to za mało, ale kiedy siedzisz na upale bez jedzenia i wody, różne myśli zaczynają chodzić po głowie... No, rozumiecie.\nAle Jacques wydostał się z wyspy, a urazę nosi do dziś. Od dziesięciu lat nie może wymyślić, jak zemścić się na nowym kapitanie i odzyskać swój statek...
+}
+Common_Portman_327 {
+A jak Jacques zdołał się uratować?
+}
+Common_Portman_328 {
+Bardzo pouczająca historia. Powinienem zaproponować ją jakiemuś powieściopisarzowi. Ale co z kapitanem i okrętem? Polecisz kogoś?
+}
+Common_Portman_329 {
+To poważna sprawa... Znajdźcie w mieście człowieka o imieniu John Miner, kapitana korwety 'Floating Briton', właśnie się u mnie zameldował i powiedział, że kieruje się do Port Royal. Powodzenia.
+}
+Common_Portman_330 {
+Jestem bardzo wdzięczny.
+}
+Common_Portman_331 {
+Nikt nie zna prawdy, ale legendy głoszą, że na żółwiach...
+}
+Common_Portman_332 {
+To... Jak to?
+}
+Common_Portman_333 {
+Utkwił na mieliźnie i spędził tam bez ruchu trzy dni i trzy noce... żeby zwierzęta zamieszkujące to miejsce trochę się do niego przyzwyczaiły. Rankiem czwartego dnia złapał dwie morskie żółwie, związał je liną i odpłynął z wyspy.
+}
+Common_Portman_334 {
+Niesamowite! A teraz potrzebuje statku do Port Royal... Polecisz kogoś?
+}
+Common_Portman_335 {
+Nie wiem, ale John Miner, kapitan korwety 'Floating Briton', właśnie zmierza do Port Royal. Jeszcze nie zdążył wypłynąć, więc poszukajcie go w mieście, doktorze.
+}
+Common_Portman_336 {
+Jestem bardzo wdzięczny.
+}
+Common_Portman_337 {
+A oto twoja strona.
+}
+Common_Portman_338 {
+Dziękuję wam. A teraz muszę już iść.
+}
+Common_Portman_339 {
+Przypominam, cena wynosi @<FindMoneyString>.
+}
+Common_Portman_340 {
+Oto pieniądze.
+}
+Common_Portman_341 {
+Nie, to teraz dla mnie za drogie.
+}
+Common_Portman_342 {
+Wydaje mi się, że niedawno już dostałeś ode mnie stronę. Naprawdę sądzisz, że je drukuję? Moja rada: poszukaj w innych koloniach.
+}
+Common_Portman_343 {
+Chyba tak właśnie zrobię. Wszystkiego dobrego!
+}
+Common_Portman_344 {
+Przecież dopiero co o tym rozmawialiśmy. Proszę o cierpliwość, w końcu!
+}
+Common_Portman_345_m {
+Przepraszam, nie chciałem być natrętny. Już się oddalam.
+}
+Common_Portman_345_f {
+Przepraszam, nie chciałam być natrętna. Już się oddalam.
+}
+Common_Portman_346 {
+Tak, mam teraz jedną stronę, którą mógłbym się z tobą podzielić.
+}
+Common_Portman_347_m {
+W takim razie chciałbym ją natychmiast kupić.
+}
+Common_Portman_347_f {
+W takim razie chciałabym ją natychmiast kupić.
+}
+Common_Portman_348 {
+Niestety, nie mogę odpowiedzieć na pańskie pytanie twierdząco. Przez ten czas nie pojawiła się u mnie ani jedna strona. Proszę jednak zaglądać od czasu do czasu — może w przyszłości się u mnie pojawią.
+}
+Common_Portman_349 {
+Dziękuję za odpowiedź.
+}

@@ -1,0 +1,327 @@
+StartGame_dialog_1 {
+I see you’re finally back on your feet, Jessica, and now we can talk everything over in peace. Though I’m sure you have plenty of questions, don’t you?
+}
+StartGame_dialog_2 {
+BetaTest - skip and start game
+}
+StartGame_dialog_3 {
+What should we talk about? Who are you, and what the hell happened? Feels like I just came back from hell...
+}
+StartGame_dialog_4 {
+I see you’re finally back on your feet, @<GetFullName>, and now we can talk things over in peace. Though I’m sure you have plenty of questions, don’t you?
+}
+StartGame_dialog_5 {
+BetaTest - skip and start game
+}
+StartGame_dialog_6 {
+What should we talk about? Who are you? What happened to me?! Damn, my head is splitting...
+}
+StartGame_dialog_7 {
+There you go, Captain, that's exactly what I'm talking about. Allow me to introduce myself—Sandro Thorn, your... let's say, your well-wisher, hopefully no longer your debtor, and, incidentally, a chance passenger on this ship. Tell me, do you remember anything before today?
+}
+StartGame_dialog_8_m {
+Sandro? I can't quite recall you... Then again, the only thing I remember clearly is getting caught in a storm. After that, everything comes back in fragments, all jumbled together...
+}
+StartGame_dialog_8_f {
+Sandro? I can't quite recall you... Then again, the only thing I remember clearly is getting caught in that storm. After that, everything comes back in fragments, all jumbled together...
+}
+StartGame_dialog_9 {
+There you go, Jessica, that’s exactly what I’m talking about. Allow me to introduce myself—Sandro Thorn, your... let’s say, your well-wisher, hopefully no longer your debtor, and, incidentally, a chance witness to what happened on that deserted island. Tell me, do you remember anything after the events of that day?
+}
+StartGame_dialog_10 {
+Tell me straight, what kind of island is this? What happened here? You see, I don’t remember a thing...
+}
+StartGame_dialog_11 {
+Don’t strain yourself so much. The doctor said the same — if you come to, you won’t remember a thing — and here you are, not remembering. Get some fresh sea air, stretch your legs — in time, your head will clear.
+}
+StartGame_dialog_12_m {
+Interesting... I’m trying to remember anything at all... Feels like I’ve forgotten something important... Could you, at least partly, shed some light on the situation we’re in?
+}
+StartGame_dialog_12_f {
+Interesting... I’m trying to remember anything at all... It feels like I’ve forgotten something important... Can you, at least partly, shed some light on the situation we’re in?
+}
+StartGame_dialog_13 {
+Ah, you’re asking about something important... But what’s there to tell... As I understand it, you got mixed up in some schemes with Beltrop? Looks like it didn’t end well, seeing as you took a bullet to the back of the head from some masked fellow! You should thank the Lord—and that thick mane of yours—that the bullet just grazed you. Only shattered the bone, didn’t get stuck in your skull, or you wouldn’t be here now.\nAfter it was all over, Hopkins and I came out of hiding. We wanted to see what was what, and there you were, lying half-dead. Gave us quite a fright, I’ll tell you—folk say those who die in that place are doomed to wander the world of the living as ghosts. But never mind that... And as for all that blood and you passing out—well, that might’ve been a blessing. The Mask figured you were done for. We dragged you out of the ruins of that old church to take a look at you, and by then, some of your crew had already arrived from your ship.
+}
+StartGame_dialog_14 {
+Damn it! The Mask tried to kill me... You can’t trust anyone... But I remembered something else... Something important... And what about Lawrence? Is he alive?
+}
+StartGame_dialog_15_m {
+I’ll try, though I don’t remember everything so well myself anymore. After all, we’ve been nursing you back to health for half a year since that storm near Havana, and Hopkins and I kept wondering if you’d pull through or not. At least your tongue isn’t tangled now, and you don’t sound like the natives anymore—though by the end, we’d gotten used to making sense of your fevered ramblings. We just kept the weapons out of reach, just in case...
+}
+StartGame_dialog_15_f {
+I’ll try, though I don’t remember everything so well myself anymore. After all, we’ve been nursing you back to health for half a year since that storm near Havana, and Hopkins and I kept wondering if you’d pull through or not. At least your tongue isn’t tangled now, and you don’t sound like the locals anymore—though by the end, we’d gotten used to making sense of your fevered ramblings. We just kept the weapons out of reach, just in case...
+}
+StartGame_dialog_16 {
+What are you talking about—have I really been out for that long? Incredible, and you’ve been looking after me all this time...
+}
+StartGame_dialog_17 {
+Is it something important you’re saying? Hm... The Mask, as I recall, ordered Lawrence to be hanged. But I don’t believe for a second that Butcher is dead. As for the Mask himself, rumor has it Shark knifed him. If you ask me, it’s a good thing all that trouble happened right there—otherwise Hopkins and I would never have made it off that cursed island.
+}
+StartGame_dialog_18 {
+Hm... Amazing how you showed up there right on time. But thank you for pulling me out of the grave—I won’t forget it.
+}
+StartGame_dialog_19 {
+I owe you my life, after all. My ship didn’t survive that storm, and when you found yourself nearby, you noticed and came to our rescue, even though your own situation wasn’t much better. By some miracle, you and your crew managed to pull Hopkins and me from the clutches of the sea devil and onto your deck! Of course, I lost everything else, and you took quite a beating yourself—a wave, one of the fiercest I’ve ever seen, claimed many lives to the raging depths, badly damaged your ship, and knocked you out cold on the quarterdeck.\nAfter that, the rest of the crew and I tried everything to get you back on your feet. We went to doctors, healers, even showed you to a shaman! And it was worth giving him nearly the last of what we had! I’ve no idea what those red-bottomed beggars gave you to drink, but their potion was the only thing that brought you back. How are you feeling? Still can’t remember anything else?
+}
+StartGame_dialog_20 {
+I don't remember anything... You say they drugged me... Still, that's better than being dead... Let me gather my thoughts and pull myself together. Maybe something will come back to me... (creating your own hero type).
+}
+StartGame_dialog_21 {
+I don’t remember anything at all. I hope it’s just a temporary effect and things will get better. My head’s spinning a bit though, like I’ve got a hangover...
+}
+StartGame_dialog_22 {
+We’re even, since I owe you my life as well! The storm threw us overboard and left us stranded on this island with nothing. Our captain didn’t even try to look for us. Your crew agreed to take us aboard, at least until you recovered. They thought we might be involved in what happened—and with the Mask. But Hopkins and I honestly helped carry you onto the ship, stopped the bleeding as best we could, patched you up.\nLater, they brought the doctor—he was afraid we’d shoot him if you died. Though he warned right away that you wouldn’t be back on your feet quickly. It took nearly half a year for you to recover, but now here you are, standing again. How do you feel? Do you remember anything important?
+}
+StartGame_dialog_23 {
+Better... But nothing interesting comes to mind... Give me a minute to gather my thoughts... (creating your own hero type).
+}
+StartGame_dialog_24 {
+I feel much better now, but sadly, I can’t remember anything clearly... I just need some time...
+}
+StartGame_dialog_25 {
+Of course, a wound like that doesn’t just vanish — it takes time and determination to regain your strength and memory. And as for your swordplay, a bit of practice wouldn’t hurt. I bet you’ve already forgotten which end to hold.
+}
+StartGame_dialog_26_m {
+You sure know how to reel someone in, Sandro. Well, let’s give it a try, otherwise I feel as clumsy as a bear.
+}
+StartGame_dialog_26_f {
+You sure know how to reel someone in, Sandro. Well, let’s give it a try—otherwise I feel like a caged bear.
+}
+StartGame_dialog_27_m {
+Don’t worry, Sandro, it was my head that was messed up, not my hands. I’ll head down to the port—I’ve gone wild sitting here.
+}
+StartGame_dialog_27_f {
+Don’t worry, Sandro, it was my head that was messed up, not my hands. I’ll head down to the port—I’ve gone wild sitting around here.
+}
+StartGame_dialog_28 {
+See, I knew everything would be all right... But a head wound never goes away without a trace, of course—it takes time and determination to regain your strength and memory. Care to stretch your arm a bit—practice some fencing?
+}
+StartGame_dialog_29 {
+Good idea. Let’s see if I’m still holding it together.
+}
+StartGame_dialog_30 {
+No, I don’t want to. I’m confident in my abilities, Sandro.
+}
+StartGame_dialog_31 {
+@<GetStartPhraseAboutLocation>. You’ll have to find a way to start a new life without Beltrop and regain your skills. I hope you’ll remember what truly matters to you. But to be sure you’ve really recovered—and that my debt is paid—I’ll leave Hopkins with you for a while. Now I must say farewell, captain. Perhaps our paths will cross again someday...
+}
+StartGame_dialog_32 {
+Well then, onward to a new dream! Thanks again for everything, Sandro! We’ll meet again, for sure. Alright, I’m heading ashore.
+}
+StartGame_dialog_33 {
+One pack of scoundrels will just be replaced by another—that’s life, Sandro. Got any advice for me before I go ashore?
+}
+StartGame_dialog_34 {
+@<GetStartPhraseAboutLocation>, we’ll have to start over from scratch. Even had to sell the old ship, and you won’t win many battles with this one. We just scraped by while waiting for you to recover. But the crew believes in you—otherwise, they’d have scattered long ago.\nWe need to find a way to start a new life and regain your skills. I hope you’ll remember something important to you. But just to be sure you’re truly well, and that my debt is paid, I’ll leave Hopkins with you for a while. Now I must say farewell, Captain. Perhaps our paths will cross again someday...
+}
+StartGame_dialog_35_m {
+Thank you for everything, Sandro. Well, I’m off to shore... Oh, don’t worry so much, I’m not a child—I won’t get lost.
+}
+StartGame_dialog_35_f {
+Thank you for everything, Sandro. Well, I’m off to shore... Oh, don’t worry so much, I’m not a child—I won’t get lost.
+}
+StartGame_dialog_36 {
+If you have any last advice, speak up. A good tip is always welcome.
+}
+StartGame_dialog_37 {
+Well then, Cap’n... We need to patch up the ship, recruit more crew, and stock up on supplies. Then off we go, in search of adventure! Of course, it’s best to get a letter of marque — that way, you won’t be an outlaw if you turn to piracy; your work will be perfectly legal. You might even make a fine career for yourself and earn a name worth remembering.
+}
+StartGame_dialog_38 {
+What else should I know?
+}
+StartGame_dialog_39 {
+Wonderful. Alright, I’m heading ashore.
+}
+StartGame_dialog_40 {
+To trade profitably, you need to know the current prices of goods in the archipelago’s shops. You can find this out by talking to shopkeepers, asking merchants you meet at sea, or listening to rumors.
+}
+StartGame_dialog_41 {
+Go on.
+}
+StartGame_dialog_42 {
+Wonderful. Alright, I’m heading ashore.
+}
+StartGame_dialog_43 {
+The cannons on the ship can break down, and then you'll have to replace them. You can also remove some of the cannons to free up space for cargo.
+}
+StartGame_dialog_44 {
+Next.
+}
+StartGame_dialog_45 {
+Wonderful. That’s it, I’m heading ashore.
+}
+StartGame_dialog_46 {
+If you do decide to board, keep in mind that ships captured at sea are sold at the shipyard for a pittance. Over time, a prize ship will be considered legal, and you’ll be able to sell it at the shipyard for a fair price.
+}
+StartGame_dialog_47 {
+Go on.
+}
+StartGame_dialog_48 {
+Wonderful. Alright, I’m heading ashore.
+}
+StartGame_dialog_49 {
+It’s not wise to ruin your relationship with the smugglers for nothing — they bring in good money, even if it’s risky business.
+}
+StartGame_dialog_50 {
+Next.
+}
+StartGame_dialog_51 {
+Wonderful. That’s it, I’m heading ashore.
+}
+StartGame_dialog_52 {
+Hire some officers, we don’t have anyone at all. If your authority is low, you won’t be able to recruit many officers. In that case, look for those who can handle two or three positions at once. A few of these know-it-alls could fill all our posts! But I doubt such skilled folks are just sitting around in taverns.
+}
+StartGame_dialog_53 {
+Next.
+}
+StartGame_dialog_54 {
+Wonderful. Alright, I’m heading ashore.
+}
+StartGame_dialog_55 {
+Stealing isn’t exactly a noble pursuit, but sometimes you might find yourself needing to empty a chest in someone’s house, a bank, or a shop. Try to wait until the owner turns away before you go rummaging through the chest. And remember—if the owner suddenly turns around and catches you with your hands in their chest, you’ll be in trouble. So you’d better be quick about it!
+}
+StartGame_dialog_56 {
+Go on.
+}
+StartGame_dialog_57 {
+Wonderful. That’s it, I’m heading ashore.
+}
+StartGame_dialog_58 {
+You might need to sneak into an enemy town. Listen carefully to what I’m about to tell you—there are no soldiers at the port or the gates checking people coming into town at night! So it’s best to enter an enemy town after dark, but remember—don’t get caught by the patrols. Patrol soldiers, by the way, don’t have eyes in the back of their heads; they can only see in front and to the sides. At night, make your way to the tavern, spend the night there until morning, and then go about your business during the day.\nBut when moving around town, keep your distance from the soldiers, and if you can’t avoid them, don’t fuss around—walk confidently and calmly, and you’ll draw less suspicion.
+}
+StartGame_dialog_59 {
+Next.
+}
+StartGame_dialog_60 {
+Wonderful. Alright, I’m heading ashore.
+}
+StartGame_dialog_61 {
+You can also raise a hostile flag on your ship, if you have one, and rely on your luck and stealth. But the safest way to enter an enemy city without trouble is to buy a license from the national trading company—then no one will stop you. Just don’t forget to hoist the appropriate flag on your ship. It would be foolish to present a Spanish license while flying an English flag.
+}
+StartGame_dialog_62 {
+Go on.
+}
+StartGame_dialog_63 {
+Wonderful. Alright, I’m heading ashore.
+}
+StartGame_dialog_64 {
+Know that arsenals are found in forts; don’t look for them in towns. As for prisons, you can find them in almost every colony.
+}
+StartGame_dialog_65 {
+Thank you. I need to head ashore.
+}
+StartGame_dialog_66 {
+Alright then, let’s get started. There are three attack moves: a regular strike, a thrust, and a breaking blow. There are also three defensive actions: block, parry, and feint. There’s also a defensive-offensive sweeping strike. And of course, the pistol, for treating your enemy to a lead coin from afar.
+}
+StartGame_dialog_67 {
+Alright, alright, let’s get to the point.
+}
+StartGame_dialog_68 {
+Alright then, let’s get started. There are three attack moves: a regular strike, a lunge, and a breaking blow. There are also three defensive actions: block, parry, and feint. There’s also a defensive-offensive sweeping strike. And of course, the pistol, to treat your foe to a lead coin from afar.
+}
+StartGame_dialog_69 {
+That’s clear. What’s next?
+}
+StartGame_dialog_70 {
+Any offensive action consumes energy, while defensive actions do not. You can also dodge attacks by jumping back or to the sides. But keep in mind, you might catch a bullet that way if you put too much distance between you and your foe—especially if your opponent isn’t a fool.
+}
+StartGame_dialog_71 {
+Next.
+}
+StartGame_dialog_72 {
+Energy is your stamina reserve in melee combat; every attack consumes it. In other words, you get tired during a fight and need to catch your breath to recover. Duelists with high reflexes can strike more times before wearing out.
+}
+StartGame_dialog_73 {
+Next.
+}
+StartGame_dialog_74 {
+During a fight, avoid getting surrounded by too many enemies, or you'll be carved up like steak in no time. You can still handle two opponents, but taking on three or more at once is tough. When your enemies run out of stamina, they'll start using feints and parries. Watch out—get caught off guard, and you'll lose your head before you know it.
+}
+StartGame_dialog_75 {
+Next.
+}
+StartGame_dialog_76 {
+If your opponent falls for your feint, they'll take significant damage—more than from a thrust. But if you get caught by a parry, you might be left drained of energy. Lose your rhythm, and that's all she wrote.
+}
+StartGame_dialog_77 {
+Go on.
+}
+StartGame_dialog_78 {
+Weapons come in all shapes and sizes, divided by weight into light, medium, and heavy. The weight of a weapon determines how much energy it takes to use. A light dagger lets you fight tirelessly, while a heavy axe can send several foes to the afterlife with a single sweeping blow.
+}
+StartGame_dialog_79 {
+Next.
+}
+StartGame_dialog_80 {
+So, shall we move on to practice? Let’s stretch our bones a bit. We’ll fight for real, but not to the death. In battle, you can restore your life with elixirs, potions, or rum, but for now, best to hold off—we’re here to train.
+}
+StartGame_dialog_81 {
+Come on, don’t expect any mercy!
+}
+StartGame_dialog_82_m {
+No, thank you. I’ve already figured everything out.
+}
+StartGame_dialog_82_f {
+No, thank you. I’ve already understood everything.
+}
+StartGame_dialog_83 {
+Yeah... You’ve really lost your edge. Be more careful—block and parry more often. Don’t get caught off guard by a power attack—blocking won’t save you from that. Use a feint, a parry, or dodge back.
+}
+StartGame_dialog_84 {
+Don’t let yourself get hit—intercept the enemy’s attack with a thrust or parry it. But be careful: if you fall for a feint, they’ll catch your thrust and land a counterstrike.
+}
+StartGame_dialog_85 {
+If you run out of stamina, run or dodge away, then catch your opponent with a feint. Remember, a feint can’t be blocked as easily, but it’s great for tricking your foe. And if they fall for your ruse and try to counter your fake swing with an attack—then not only will you deflect their blade, but you’ll land a hit of your own.
+}
+StartGame_dialog_86 {
+@<LinkRandPhrase> So, shall we go again?
+}
+StartGame_dialog_87 {
+Once more!
+}
+StartGame_dialog_88_m {
+No, that's enough. I understand everything.
+}
+StartGame_dialog_88_f {
+No, that's enough. I understand everything.
+}
+StartGame_dialog_89 {
+Alright. Well done! Keep in mind, I fought fair, but enemies might have their own life elixirs, so they won’t go down so easily. Now then, let’s make things a bit tougher. How about facing two opponents? Hey, Hopkins! Grab your cutlass and get up on deck!
+}
+StartGame_dialog_90 {
+Alright then, go ahead.
+}
+StartGame_dialog_91_m {
+No, thanks. I've had enough practice.
+}
+StartGame_dialog_91_f {
+No, thank you. I’ve had enough practice.
+}
+StartGame_dialog_92 {
+Excellent, Jessica! Beltrop’s lessons haven’t gone to waste after all—he’s taught you well. And one last piece of advice: the more you fence with a single type of weapon, the more your skill with it grows. If you want to regain mastery with all weapon types, switch weapons more often.
+}
+StartGame_dialog_93 {
+Yes, your hands are just fine — hiding the weapons wasn’t for nothing. And one last piece of advice: the more you fence with a particular type of weapon, the more your skill with it grows. If you want to master every kind, switch up your blades more often.
+}
+StartGame_dialog_94 {
+Thank you!
+}
+StartGame_dialog_95 {
+Well, not bad. You took down one opponent, but two is a different story. That takes some skill. Enemies can attack in groups, after all. Shall we try again?
+}
+StartGame_dialog_96 {
+Once more!
+}
+StartGame_dialog_97_m {
+No, I’ve already figured it out.
+}
+StartGame_dialog_97_f {
+No, I’ve already understood everything.
+}
+StartGame_dialog_98 {
+We’re currently anchored off Negril Point. Fort Orange is deep in the jungle.
+}
+StartGame_dialog_99 {
+We’re in the port of the settlement @<XI_ConvertString> right now
+}

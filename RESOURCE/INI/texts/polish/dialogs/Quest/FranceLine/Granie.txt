@@ -1,0 +1,525 @@
+Granie_1 {
+Czego pan/pani sobie życzy, kapitanie/kapitanko?
+}
+Granie_2 {
+Zdaj mi pełny raport o statku, @<GetStrSmallRegister>.
+}
+Granie_3 {
+Chcę, żebyś podczas postoju w kolonii kupował pewne towary.
+}
+Granie_4 {
+Nic. Spocznij.
+}
+Granie_5 {
+Kapitanie, jakie towary?! Najpierw trzeba zdobyć gdzieś statek!
+}
+Granie_6 {
+Tak, masz rację.
+}
+Granie_7 {
+Kapitanie, proszę podać konkretną listę towarów, a będę je kupować za każdym razem, gdy będzie taka potrzeba!
+}
+Granie_8 {
+Co dokładnie chce pan kupić, kapitanie?
+}
+Granie_9 {
+@<RandPhraseSimple>
+}
+Granie_10 {
+Tak, przejdźmy do towarów.
+}
+Granie_11 {
+Kapitanie, ale przecież nie mamy statku!
+}
+Granie_12 {
+Dzięki, przypomniałeś mi...
+}
+Granie_13 {
+Maksymalna aktywność szczurów podczas rejsu wynosi @<FloatToString>%% w stosunku do ilości ładunku. Na @<FindSailorString> potrzeba @<makeint> prowiantu dziennie. To nie uwzględnia przewożonych niewolników.
+}
+Granie_14 {
+Dziękuję.
+}
+Granie_15 {
+Najpierw przeszukaj ciało Durana, pogadamy później!
+}
+Granie_16 {
+Monsieur, oni mieli moje ostatnie piastry! Całe 10 000! Bez nich i tak przepadnę...
+}
+Granie_17 {
+Zaraz znajdziemy...
+}
+Granie_18 {
+Dziękuję, monsieur. Czy mogę poznać imię mojego wybawcy?
+}
+Granie_19 {
+Witam cię. Nazywam się Michel de Grammont, a ty jesteś tym Jean-Jacques Garnierem, przez którego przemierzyłem cały archipelag?
+}
+Granie_20 {
+Tak, to ja. Dziękuję ci, ale pozwól zapytać: czym zawdzięczam takie zainteresowanie moją skromną osobą?
+}
+Granie_21 {
+Gdyby nie gubernator Tortugi, który wysłał mnie po ciebie na Martynikę, myślę, że już nic bym ci nie zawdzięczał.
+}
+Granie_22 {
+No proszę! Czyli miałem szczęście. Można powiedzieć, że urodziłem się w czepku.
+}
+Granie_23 {
+A propos, pieniądze, które u nich znalazłem, myślę, że należą do ciebie. Nie potrzebuję cudzych rzeczy.
+}
+Granie_24 {
+Dziękuję, ale trzeba uczciwie przyznać, że połowa tych pieniędzy słusznie należy do ciebie.
+}
+Granie_25 {
+Dziękuję, głupio byłoby odmówić. Opowiesz mi, co ci się przydarzyło?
+}
+Granie_26 {
+Opowiem ci wszystko, tylko zabierz mnie do Fort-de-France, muszę pilnie załatwić kilka spraw w domu. Przy okazji doprowadzę się do porządku. Nie pokażę się przecież Jego Ekscelencji w takim opłakanym stanie. Po drodze, w spokojnej atmosferze, o wszystkim porozmawiamy.
+}
+Granie_27 {
+Dobrze, w takim razie nie traćmy czasu.
+}
+Granie_28 {
+Przyjacielu, opowiedz w końcu, co ci się stało?
+}
+Granie_29 {
+Stało się coś takiego, że aż trudno uwierzyć. Pływałem spokojnie swoją brygantyną, woziłem towary, ale pech chciał, że interesy mi nie szły.\nPostanowiłem więc zwrócić się do miejscowego lichwiarza po kredyt. Skąd mogłem wtedy wiedzieć, że działa tam cała banda?
+}
+Granie_30 {
+Jakoś od razu tak pomyślałem. Dobra, mów dalej.
+}
+Granie_31 {
+Wstąpiłem do lichwiarza. Myślałem, że zaraz zacznie się targować, podnosić odsetki. A tu nie. Uśmiecha się do mnie uprzejmie i pyta, jakiej sumy potrzebuję, a odsetki zaproponował naprawdę minimalne.\nWziąłem więc od niego pożyczkę na dziesięć tysięcy, myśląc, że zrobię kurs i wszystko się zwróci. Dotarłem do Santo Domingo, załadowałem swój statek towarem i wracam — cieszę się jak głupi, w myślach liczę zysk. Ale tuż przy wyspie zaczęły się kłopoty, jakby to było jakieś przeklęte miejsce.
+}
+Granie_32 {
+Bardzo ciekawe, a dlaczego zaczarowane?
+}
+Granie_33 {
+Słyszałem opowieści, że kupcy ze swoimi statkami znikają tuż przy wyspie, ale nie traktowałem tego poważnie.\nAż tu, gdy zbliżałem się do miasta, napadły mnie dwie pirackie szkunery. Jedna nazywała się 'Pluto' — to na niej piraci przewieźli mnie na Turks, a druga — 'Black Twister'.\nZanim zdążyliśmy się zorientować, już mieliśmy strąconą maszt i zostaliśmy wzięci na abordaż. Właściwie nie było żadnej walki na pokładzie. Sam zdążyłem tylko dwa razy machnąć szpadą, gdy mnie ogłuszyli. Siły były zbyt nierówne.
+}
+Granie_34 {
+To dopiero numer! I to tuż przed samym wejściem do portu! Szczerze mówiąc, takiej bezczelności się nie spodziewałem.
+}
+Granie_35 {
+Nikt się tego nie spodziewał. Ocknąłem się na pokładzie – statek wciąż na wodzie, załogi ani śladu, ładownia doszczętnie opróżniona. Wyobrażasz sobie, co wtedy czułem?
+}
+Granie_36 {
+No tak, tego byś nie wymyślił. Twoich ludzi najpewniej sprzedano w niewolę. Jak to się stało, że ciebie zostawili przy życiu, trudno powiedzieć.
+}
+Granie_37 {
+Żywy, mówisz? Rzecz w tym, że ta historia ma swój dalszy ciąg. Wcale nie musieli mnie zabijać. Wszystko rozegrali jak z nut. Najpierw wpędzili mnie w długi, a potem, gdy już wszystko wyciągnęli, pozbawili życia.
+}
+Granie_38 {
+Nieźle to zakręcili, niech im wszystkim kotwica w rufę! Tu czuć rękę kogoś sprytniejszego niż zwykli szczęściarze.
+}
+Granie_39 {
+Słuchaj dalej. Jakoś doprowadziłem statek do portu, poszedłem do lichwiarza, opowiedziałem mu, co się stało, a on mi na to, że pewnie przepuściłem pieniądze, a teraz przyszedłem żebrać o odroczenie.\nDał mi odroczenie, drań, ale z takim oprocentowaniem, że po tygodniu dług wzrósł dwukrotnie!
+}
+Granie_40 {
+Myślę, że wszystko z tobą zostało wcześniej zaplanowane — wpadłeś w prawdziwą wilczą pułapkę!
+}
+Granie_41 {
+Do wilczej — to na pewno, tylko że okazali się wilkami. Po tygodniu zaczęli mnie odwiedzać różni podejrzani ludzie.\nNajpierw zmusili mnie, żebym przepisał statek na sprzedaż, a potem po prostu wywieźli mnie do Port-au-Prince, gdzie dręcząc i torturując, wydobyli ze mnie, gdzie ukryłem pieniądze na znanej ci wyspie.
+}
+Granie_42 {
+A skąd oni w ogóle wiedzieli, że masz jakieś oszczędności?
+}
+Granie_43 {
+Tu nietrudno się domyślić. Prawie każdy kapitan, jeśli tylko może, odkłada pieniądze nie tylko w banku, ale i w bezpieczniejszym miejscu.\nA na co odkłada? Na czarną godzinę albo na lepsze życie – to już zależy od szczęścia. A dalszy ciąg tej historii znasz lepiej ode mnie.
+}
+Granie_44 {
+Wiem, masz rację. Myślę, że to właśnie lichwiarz odgrywa tu niemałą rolę. Gdy dotrzemy do Fort-de-France, dokładnie zajmiemy się twoim długiem, a przy okazji i nim samym.
+}
+Granie_45 {
+Będę ci bardzo wdzięczny, de Gramont. Czuję, że sam sobie z tą sprawą nie poradzę — przyznaję się do własnej bezsilności.
+}
+Granie_46 {
+Dobrze, nie załamuj się. Odpocznij teraz, nabierz sił.
+}
+Granie_47 {
+Dziękuję ci za wszystko, de Gramont. Jestem ci dłużny do końca swoich dni.
+}
+Granie_48 {
+Daj spokój, cieszę się, że mogłem ci pomóc.
+}
+Granie_49 {
+Daj mi dwa, trzy dni: uporządkuję swoje sprawy osobiste, potem spotkamy się w miejscowej tawernie, uczcimy to i będę całkowicie do twojej dyspozycji.
+}
+Granie_50 {
+Świetnie, spotkamy się w tawernie za trzy dni.
+}
+Granie_51 {
+Witaj, przyjacielu. Najpierw wypijmy po kuflu rumu, a potem będę gotów do wypłynięcia.
+}
+Granie_52 {
+Z przyjemnością.
+}
+Granie_53 {
+Wiesz, po co byłem potrzebny gubernatorowi?
+}
+Granie_54 {
+Nic mi właściwie nie powiedzieli. Po prostu kazali cię przyprowadzić, tyle.
+}
+Granie_55 {
+Ciekawe, po co tak potężnej osobie ktoś taki jak ja? Nie mam pojęcia.
+}
+Granie_56 {
+Z logicznego punktu widzenia nietrudno się domyślić. Na archipelagu panuje teraz niepokój, Hiszpanie i Holendrzy ciągle próbują atakować francuskie statki. Ostatnio zaczęli też pustoszyć francuskie osady.
+}
+Granie_57 {
+Domyślam się, do czego zmierzasz.
+}
+Granie_58 {
+Właśnie tak. Jesteś zawodowym kanonierem, więc myślę, że praca zawsze się dla ciebie znajdzie.
+}
+Granie_59 {
+Dobrze, wkrótce się dowiemy. Jestem gotów.
+}
+Granie_60 {
+No dobrze, w takim razie ruszamy na Tortugę.
+}
+Granie_61 {
+Cześć, przyjacielu, już na ciebie czekam.
+}
+Granie_62 {
+Cześć, bardzo się cieszę, że cię widzę. Jak poszła rozmowa z gubernatorem?
+}
+Granie_63 {
+Wiesz, mieliśmy wtedy rację — rzeczywiście proponował mi służbę.
+}
+Granie_64 {
+Ciekawe, w jakiej roli? Może jako komendant miasta? Ha-ha-ha!
+}
+Granie_65 {
+Wiesz, twój żart wcale nie jest tak daleki od prawdy. Wyobraź sobie – zastępca dowódcy garnizonu fortu do spraw artylerii. Choć szczerze mówiąc, nie bardzo mnie to dziwi. Jestem szlachcicem, byłym oficerem królewskiej floty.
+}
+Granie_66 {
+No proszę! Nie wiedziałem o takich chwalebnych rozdziałach w twojej biografii. Służba dla państwa to poważna sprawa, ale jednocześnie... ta codzienna musztra, monotonia – można od tego odzwyczaić się od strzelania.
+}
+Granie_67 {
+No, mniej więcej tak mu powiedziałem.
+}
+Granie_68 {
+O, więc odmówiłeś?! I jak zareagował?
+}
+Granie_69 {
+W zasadzie w porządku! Powiedział, że jeśli się zdecyduję, jego propozycja nadal jest aktualna.
+}
+Granie_70 {
+No dobrze, gratuluję! Co teraz zamierzasz robić?
+}
+Granie_71 {
+Właśnie chciałem się zaciągnąć na twój statek. Przyjmiesz mnie jako kanoniera?
+}
+Granie_72 {
+Z wielką radością! Szczerze mówiąc, sam chciałem ci to zaproponować, ale bałem się, że się nie zgodzisz, więc milczałem.
+}
+Granie_73 {
+No, tu się mylisz. W końcu znalazłem człowieka, pod którego dowództwem będę służyć z prawdziwą radością.
+}
+Granie_74 {
+W takim razie nie ma problemu! Możesz w tym czasie obejrzeć naszą artylerię okrętową, a ja muszę na kilka minut zajść do gubernatora.
+}
+Granie_75 {
+Stoi! Spotkamy się na statku.
+}
+Granie_76 {
+No i co, kapitanie, jakie wieści?
+}
+Granie_77 {
+Jakie tam nowości! Na razie nic konkretnego nie udało się ustalić, poza tym, że trzeba zbadać wybrzeże. Możemy jednak przejść się wzdłuż brzegu — jeśli gdzieś są ludzie, powinni dać jakiś znak.
+}
+Granie_78 {
+Zróbmy tak, kapitanie.
+}
+Granie_79 {
+Kapitanie, mam wrażenie, że jeszcze długo będziemy tak iść donikąd. Mam propozycję.
+}
+Granie_80 {
+Mów, Granye. Wesprę każdy rozsądny pomysł.
+}
+Granie_81 {
+Kapitanie, proponuję następujące rozwiązanie. Nasze zapasy się kończą, załoga zaczyna coraz głośniej narzekać. Widzę, że nie możesz się już doczekać zadania godnego korsarza. Ja natomiast mogę tu zostać i spróbować zebrać jak najwięcej cennych informacji. Dasz mi do tego dwóch ludzi?
+}
+Granie_82 {
+Dobry pomysł. Weź tylu ludzi i tyle pieniędzy ze skarbca okrętowego, ile będzie trzeba.
+}
+Granie_83 {
+Za ludzi dziękuję, kapitanie, ale na razie poradzę sobie ze swoimi pieniędzmi. Tutaj wielkie sumy nie są potrzebne: dobrze poprowadzona rozmowa, parę kufli rumu – to wszystko, czego trzeba.
+}
+Granie_84 {
+Masz rację. Mam nadzieję, że wszystko ci się uda.
+}
+Granie_85 {
+Też mam taką nadzieję, kapitanie. Spotkajmy się w tawernie za kilka tygodni. Jeśli coś się zmieni i będę musiał wyruszyć w drogę, zostawię wiadomość tam, w tawernie.
+}
+Granie_86 {
+Do zobaczenia, mój przyjacielu, powodzenia.
+}
+Granie_87 {
+Powodzenia i tobie, kapitanie. Mam nadzieję, że nie będziesz marnować czasu. Drżyjcie, hiszpańskie galeony! Ha, ha, ha!
+}
+Granie_88 {
+Witaj, kapitanie. Bardzo się cieszę, że cię widzę.
+}
+Granie_89 {
+Cieszę się, że cię widzę, kanonierze. Jakie wieści?
+}
+Granie_90 {
+Są wieści, kapitanie. Chodźmy do miejscowego karczmarza, usłyszysz wszystko z pierwszej ręki.
+}
+Granie_91 {
+Dobra robota, kanonierze. Nie bez powodu na tobie polegałem.
+}
+Granie_92 {
+Wszystko w porządku, kapitanie. Tak jak przypuszczałem, kilka kufli rumu i trochę miedzi zrobiły swoje. Czujni ludzie znajdą się wszędzie — to oni donieśli, że podobny statek zawinął do Cumany. A potem to już kwestia umiejętności, jak to mówią, i odrobiny szczęścia.
+}
+Granie_93 {
+Dobrze, idź na statek. Ja pójdę do naczelnika więzienia. Jeśli nie wrócę do wieczora, myślę, że nie muszę ci tłumaczyć, co wtedy robić.
+}
+Granie_94 {
+Lepiej wracaj, kapitanie, bo z fortu i miasta zostaną tylko ruiny.
+}
+Granie_95 {
+Dobrze rozumiesz. Tylko mnie nie trafcie, hehe.
+}
+Granie_96 {
+Krzywdzisz mnie, kapitanie. Mam sokole oko!
+}
+Granie_97 {
+Kapitanie, nie znudziło ci się pływać po morzu bez nas?
+}
+Granie_98 {
+Przyjacielu, jak mnie znalazłeś?
+}
+Granie_99 {
+To prosta sprawa. Wszędzie oczy i uszy. Życzliwi ludzie w osadzie donieśli, że wszedłeś do domu, ale sam już z niego nie wyszedłeś.
+}
+Granie_100 {
+Dokładnie tak było. Rzucili się na mnie, nie zdążyłem nic zrobić.
+}
+Granie_101 {
+Dobrze, że ktoś wpadł na pomysł, by śledzić, jak cię załadowali na ten statek, i dał nam znać — za drobną opłatą.
+}
+Granie_102 {
+Jak udało się wam tak szybko nas dogonić?
+}
+Granie_103 {
+Statek był gotowy do wyprawy. Najtrudniejsze okazało się zebranie załogi. Chłopaki się rozluźnili, rozeszli się każdy w swoją stronę, ale trzeba im oddać sprawiedliwość: wszyscy, których udało się powiadomić, przybyli od razu. Ale teraz mamy tylko połowę załogi, ledwo dajemy radę prowadzić statek.
+}
+Granie_104 {
+Rozumiem. Gdyby doszło do poważnej walki, nawet na abordaż nie ma ludzi.
+}
+Granie_105 {
+Dobrze myślisz, kapitanie. Ale jest jeden wyjątek — moja załoga artylerzystów jest w komplecie!
+}
+Granie_106 {
+Nigdy w ciebie nie wątpiłem. Ale mimo wszystko szkoda porzucać szalupę, choć niewiele nam z niej pożytku.
+}
+Granie_107 {
+Jakie są rozkazy, kapitanie?
+}
+Granie_108 {
+Pozwólmy tej hołocie samodzielnie decydować o swoim losie. Kto jest z nami, ten dostanie dowództwo nad szalupą. Kto nie, trafi do ładowni i popłynie jak niewolnik. Zresztą, mam już kandydata na kapitana tego gruchota.
+}
+Granie_109 {
+Kapitanie, jeśli mówisz o mnie, to przecież wiesz, że nawigacja to nie moja mocna strona. Działa – to moja specjalność.
+}
+Granie_110 {
+Nie, Granye. Nie zamierzam się z tobą rozstawać, przyjacielu. Poznaj, to Nicholas van Hoorn, Holender w służbie Francji.
+}
+Granie_111 {
+Bardzo mi miło.
+}
+Granie_112 {
+To jemu powierzymy dowodzenie okrętem.
+}
+Granie_113 {
+Kapitanie, słyszałem, że zgarnęli cię żołnierze!
+}
+Granie_114 {
+Kto powiedział?
+}
+Granie_115 {
+Zawsze znajdzie się ktoś życzliwy za drobną monetę. Widzę, że nic ci nie jest. Już zaczynałem się martwić.
+}
+Granie_116 {
+Tak, przyjacielu, na razie wszystko w porządku. Wieczorem idę w gości do komendanta garnizonu, więc jeśli coś... wiesz, gdzie mnie szukać.
+}
+Granie_117 {
+No cóż, jak to zwykle bywa, kapitanie. W biedzie cię nie zostawimy, możesz być tego pewien.
+}
+Granie_118 {
+Nie wątpię. Możecie się na razie przejść z chłopakami, tylko nie upijcie się za bardzo.
+}
+Granie_119 {
+Kapitanie, udało się dowiedzieć czegoś konkretnego? My na razie nie mamy żadnych informacji.
+}
+Granie_120 {
+Mam wrażenie, że trafiłem na trop.
+}
+Granie_121 {
+Świetnie, kapitanie, jakie są rozkazy?
+}
+Granie_122 {
+Wieczorem zaproszono mnie na grę o duże stawki w domku przy nabrzeżu. Wcześniej w tawernie podzielono się ze mną informacją, że niedawno pewnego kupca doszczętnie ograbili. Myślę, że to właśnie to, czego nam trzeba. Mam przeczucie, że za tym stoi jakaś miejscowa szajka.
+}
+Granie_123 {
+Kapitanie, już raz zaproszono was do domu na Tortudze. Pamiętacie, jak to się wtedy skończyło?
+}
+Granie_124 {
+Wtedy byłem sam, a teraz zrobimy inaczej. Dziesięciu zaufanych towarzyszy otoczy tę chatę po cichu, a na mój sygnał możecie spokojnie wchodzić i wszystkich pojmać.
+}
+Granie_125 {
+A jaki będzie sygnał?
+}
+Granie_126 {
+Jeśli sam nie wyjdę odświeżyć się za jakieś trzy godziny, możecie śmiało wchodzić. I jeszcze jedno... Do domu można wpuszczać wszystkich, ale nikt nie powinien stamtąd wychodzić. Jasne?
+}
+Granie_127 {
+Jak najbardziej, kapitanie.
+}
+Granie_128 {
+A więc tu się pan opala, kapitanie, a my już pana wszędzie szukaliśmy. Oto pańska broń i ekwipunek.
+}
+Granie_129 {
+Cześć, chłopaki! Długo wam schodzi z uwolnieniem swojego kapitana z niewoli.
+}
+Granie_130 {
+Kapitanie, tak jak pan powiedział, siedzieliśmy cicho przy domu. Nie doczekawszy się pana, weszliśmy do środka, zgodnie z ustaleniami.
+}
+Granie_131 {
+Żartuję, wszystko w porządku. Co to za gagatki się nam trafiły?
+}
+Granie_132 {
+Kapitanie, ktoś zaczął stawiać opór, więc... Trochę przesadziliśmy, ale chyba nikogo nie zabiliśmy.
+}
+Granie_133 {
+Dobrze, że ich nie zabiliście. Przyprowadźcie mi ich przywódcę, chcę z nim porozmawiać na spokojnie.
+}
+Granie_134 {
+Jest, kapitanie.
+}
+Granie_135 {
+Kapitanie, na całym statku nie ma żywej duszy, wszędzie tylko stosy trupów i ani kropli krwi. To jakieś czary, nie inaczej. Nie wiadomo, co ich zabiło. Chodźmy stąd jak najszybciej, bo aż mnie ciarki przechodzą.
+}
+Granie_136 {
+Spokojnie, Jacques. Wszystko wyjaśnia list tego martwego kapitana. Proszę, przeczytaj...
+}
+Granie_137 {
+No to niespodzianka...
+}
+Granie_138 {
+Tak, oto jak się sprawy mają, jak się okazuje...
+}
+Granie_139 {
+Wiele w życiu widziałem, ale czegoś takiego jeszcze nie!
+}
+Granie_140 {
+Co my teraz zrobimy, nie mam pojęcia.
+}
+Granie_141 {
+Trzeba wrócić do gubernatora i zdać mu relację z wydarzeń...
+}
+Granie_142 {
+Żeby nas oskarżyli o kradzież kamienia? Powiedzą, że wszystko zaplanowaliśmy, przejęliśmy kamień i posłaliśmy Hanka na dno. Wiesz przecież, jak krótko rozmawiają władze.
+}
+Granie_143 {
+To prawda, nie będą się długo zastanawiać... list to nie dowód.
+}
+Granie_144 {
+Z drugiej strony, nie możemy też pójść do gubernatora Hawany i zażądać wydania tego słynnego Garcia tylko dlatego, że otruł załogę pirata Hanka.
+}
+Granie_145 {
+Ha, ha, ha! Z poczuciem humoru u ciebie wszystko w porządku, kapitanie. Tam na pewno czekają na nas z otwartymi ramionami i sznurem na szyję.
+}
+Granie_146 {
+Pozostaje tylko jedno wyjście – zaatakować Hawanę, i to na tyle głośno, by zdobyć fort.
+}
+Granie_147 {
+Zaatakować Hawanę? Przecież nas zmiażdżą...
+}
+Granie_148 {
+Nie widzę innego wyjścia. Jeśli zaczniemy się skradać i wypytywać, gdzie jest ten Garcia, to już drugiego dnia, z całą pewnością, ktoś nas wyda jako szpiegów. A ze szpiegami nie ma długiej rozmowy.
+}
+Granie_149 {
+Tak, ale fort...
+}
+Granie_150 {
+Są pewni, że ich twierdza jest nie do zdobycia, a my im pokażemy, że się mylą. Gdy wkroczymy do miasta jako zwycięzcy po rozgromieniu fortu, wtedy to my będziemy dyktować warunki. A kiedy dowiedzą się, o co poszło całe to zamieszanie, sami oddadzą nam jego głowę, byle tylko zostawić ich miasto w spokoju.
+}
+Granie_151 {
+Tak, ale fort...
+}
+Granie_152 {
+Ciągle tylko o tym forcie i forcie! A po co, według ciebie, mam w załodze najlepszego kanoniera archipelagu i mojego przyjaciela, Jeana-Jacquesa Graniera, powiedz mi?
+}
+Granie_153 {
+Michel, dziękuję, że wierzysz w moje możliwości, ale ten fort... Chociaż... Poradzimy sobie z nim.
+}
+Granie_154 {
+Teraz wszystko jest już w porządku. I nie mam żadnych wątpliwości co do naszego zwycięstwa.
+}
+Granie_155 {
+Pójdę jeszcze raz obejrzeć działa.
+}
+Granie_156 {
+Jak się masz, kapitanie? Udało się czegoś dowiedzieć?
+}
+Granie_157 {
+Rozmowa z gubernatorem nie powiodła się, nie chce nam pomóc, więc będziemy musieli radzić sobie sami. Pozwalam chłopakom dobrze się zabawić w tym zacnym kastylijskim gnieździe. Myślę, że gubernator jeszcze nieraz pożałuje swojej pochopnej decyzji.
+}
+Granie_158 {
+Z jego strony to nierozsądne.
+}
+Granie_159 {
+Kapitanie, musimy natychmiast udać się na statek tego Garcii. Jeśli go tam nie będzie, przesłuchamy przynajmniej wachtowych. Przecież niemożliwe, żeby okręt był pozostawiony bez nadzoru.
+}
+Granie_160 {
+Jednego nie rozumiem: dlaczego zwróciła się do ciebie, a nie do mnie.
+}
+Granie_161 {
+Nie wiem, kapitanie, może jej się spodobałem.
+}
+Granie_162 {
+Jak skończymy sprawę, dam ci urlop. Odwiedzisz ją, jeśli się nie boisz. Jeszcze tylko brakowało, żeby oddała cię w ręce świętej inkwizycji.
+}
+Granie_163 {
+Taka się nie podda...
+}
+Granie_164 {
+Kapitanie, gdzie ich wysłać, na reje?
+}
+Granie_165 {
+Poczekaj, daj mi pomyśleć...
+}
+Granie_166 {
+Wyruszam na poszukiwania. Zamknijcie tych do ładowni i wystawcie straż. Załoga niech się nie szwenda po mieście, statek może być potrzebny w każdej chwili. I tak nie mają tu nic do roboty w obcym mieście.
+}
+Granie_167 {
+A jak sobie radzisz beze mnie? Może powinienem iść z tobą?
+}
+Granie_168 {
+Tutaj jesteś bardziej potrzebny. Przy okazji przeszukaj ten statek pod kątem kamienia. Chociaż pewnie już go zabrał ze sobą. Teraz nie rozstanie się z nim aż do śmierci.
+}
+Granie_169 {
+Dobrze, zrobimy wszystko jak trzeba.
+}
+Granie_170 {
+No i co, Michel, jak myślisz – damy radę się przebić?
+}
+Granie_171 {
+Przebijemy się! Czuję w sercu, że nasza godzina jeszcze nie nadeszła.
+}
+Granie_172 {
+Jak tam Nicholas?
+}
+Granie_173 {
+Chyba wszystko w porządku. Doktor powiedział, że rana nie jest śmiertelna, choć groźna. Stracił dużo krwi, ale da sobie radę. Wysłałem go już na jego statek pod opiekę pierwszego oficera. Chłopak jest młody, ale rozgarnięty.
+}
+Granie_174 {
+W takim razie, generale de Grammon, melduję, że artyleria jest w pełnej gotowości bojowej. Czekamy na spotkanie z wrogiem, żeby porządnie dać mu w kość.
+}
+Granie_175 {
+Dobrze, przyjacielu. W takim razie wypływamy na morze.
+}

@@ -1,0 +1,1352 @@
+Xebeca_BlueBird {Détruire le xebec "Blue Bird"}
+Xebeca_BlueBird.1
+{
+Le marchand de @<sCity>, nommé @<sName>, m’a offert cinquante mille pièces d’or en coffres pour retrouver et détruire le xebec insaisissable « Blue Bird ». Il se trouve que le capitaine de ce navire à voiles, peu commun dans ces eaux, s’est mis à attaquer les navires marchands appartenant aux commerçants eux-mêmes, faisant sombrer leurs profits sous la ligne de flottaison.
+~
+Au cours de la conversation, j’ai compris un point essentiel dans cette affaire. Parmi tous les marchands des Caraïbes, un seul a eu l’incroyable chance de ne jamais croiser la route du « Blue Bird ». Ce favori de la Fortune s’appelle Pascal Voisier, le marchand de Skullshores aux Bermudes. Les commerçants et négociants le vénèrent comme un saint, car il soutient tout le monde financièrement.
+~
+Je crois au hasard, mais la chance extraordinaire de Voisier me paraît suspecte. Je vais essayer d’éclaircir cette affaire sur place, c’est-à-dire aux Bermudes...
+}
+Xebeca_BlueBird.2 {J’ai essayé de parler à Pascal Voisier au sujet du « Blue Bird ». Monsieur Voisier s’est soudain montré franchement grossier. Il y a quelque chose qui cloche ici, il faut que je continue à creuser...}
+Xebeca_BlueBird.3 {À la taverne de Bermuda, j’ai appris que le xebec "Blue Bird" est souvent aperçu près de l’île. Il m’a aussi dit que l’ancien propriétaire de la boutique locale, John Norton, s’est installé à Puerto Principe. Je suppose que je devrais lui rendre visite…}
+Xebeca_BlueBird.4
+{
+John Norton a confirmé mes soupçons au sujet de Pascal Voisier. John pense que le chébec appartient à Pascal, et que c’est lui qui est derrière toutes les attaques contre les marchands.
+Si tout cela est vrai, je dois comprendre comment Pascal récupère les marchandises volées. À ma connaissance, il existe un passage souterrain au chantier naval de la Colonie des Pirates qui mène directement en ville depuis la baie...
+}
+Xebeca_BlueBird.5
+{
+Bon sang, je me suis trompé à propos des souterrains du chantier naval. C’est vrai, il est bien plus simple pour Pascal de prendre une tartane et d’acheminer discrètement le butin directement au port, sans éveiller les soupçons, plutôt que de trimballer la cargaison par ce sous-sol. Oui, c’est un vrai casse-tête...
+
+Cependant, une chose est sûre : la base de transbordement où sont stockées les marchandises se trouve quelque part à Bermuda. D’abord, Bermuda est une île isolée ; envoyer une tartane à l’autre bout de l’île, ce n’est pas la même chose que de la faire naviguer jusqu’à une autre île. Et puis, on aperçoit souvent le xebec précisément ici.
+
+Je dois fouiller l’île pour trouver la base de Pascal Voisier. Je devrais commencer par explorer les baies et grottes les plus proches.
+}
+Xebeca_BlueBird.6
+{
+Ah, j’ai enfin trouvé la base de Pascal. J’ai réussi à suivre un groupe de pirates armés—probablement l’équipage du xebec “Blue Bird”—qui transportaient des caisses, des tonneaux, des bouteilles et d’autres marchandises à travers la grotte, chargés sur leurs épaules. Sans aucun doute, c’est encore une cargaison prise aux marchands.
+Alors, le “Blue Bird” est tout près. Je dois prendre la mer au plus vite et la couler ! Ou peut-être vaudrait-il mieux l’aborder…
+}
+Xebeca_BlueBird.7
+{
+Merde... Les surprises peuvent être amères — le capitaine du 'Blue Bird' n’était autre qu’un vieil ami à moi, Sandro Thorn. À l’époque, je lui ai rendu service, et il m’a aidé en retour. Il était ambitieux, fougueux, obsédé par la quête d’une île mystérieuse... Il rejetait la faute sur l’ancien capitaine de son navire... Et il m’espionnait... Je me demande comment il comptait me soutirer des informations, même si j’en avais eu ? On aurait dit qu’il me détestait personnellement et refusait d’écouter. Jamais je n’aurais cru qu’un jour, nous nous retrouverions face à face, ennemis...
+
+~
+
+Quoi qu’il en soit — c’est fait, et la leçon est retenue. Ça ne rend pas les choses plus faciles, mais je peux maintenant aller voir le marchand pour ma récompense. Et il ne serait pas inutile de rendre visite à cet escroc de Pascal — cette fois, il ne s’en tirera pas...
+}
+Xebeca_BlueBird.7_1
+{
+Ouf... L’insaisissable Chebec descend chez le diable des mers ! Le combat a été féroce, et je n’ai pas pu aborder le navire... Pourtant, en observant le pont du "Blue Bird" à la longue-vue, j’ai cru reconnaître le capitaine, l’espace d’un instant. Peut-être nous sommes-nous déjà croisés, mais impossible de me rappeler où...
+
+~
+
+Quoi qu’il en soit, cela n’a plus d’importance. Le contrat des marchands pour couler le "Blue Bird" est enfin accompli. C’est dommage de détruire un si beau navire, mais je peux maintenant aller réclamer ma récompense auprès du marchand, l’esprit tranquille. Et rendre visite à ce filou de Pascal ne serait pas superflu — cette fois, il ne pourra pas s’en tirer...
+}
+Xebeca_BlueBird.8 {Je n’ai pas réussi à rattraper le pirate ni à le couler. En observant le 'Blue Bird' à la longue-vue, j’ai cru reconnaître le capitaine de ce navire. Quoi qu’il en soit, la mission a échoué.}
+Xebeca_BlueBird.9
+{
+Eh bien, qui l’aurait cru ! Ils ont refusé de me payer sous prétexte que je n’ai pas coulé le 'Blue Bird'. Évidemment, je ne suis pas @<sSex1> au point d’envoyer un tel navire par le fond.
+Les marchands craignent que j’utilise ce navire pour les détrousser. Eh bien, réalisons leurs pires craintes ! Prenez garde, marchands de pacotille !
+~
+Je dois maintenant découvrir où et quand les propres navires des marchands quitteront le port. Je devrais recueillir plus de rumeurs auprès des habitants ou des tenanciers de tavernes. Ce sera du gâteau !
+}
+Xebeca_BlueBird.10
+{
+Enfin, j’ai eu de la chance à @<sCity> ! D’après les rumeurs, j’ai appris que le marchand local, @<sTradeName>, a envoyé son flûte chercher des marchandises. Le flûte @<sShipName> vient tout juste de quitter le port de @<sCity_2>.
+Je dois appareiller sans attendre. J’espère intercepter le flûte du marchand dans les eaux de @<sIsland>.
+}
+Xebeca_BlueBird.11 {Apparemment, je suis parti en mer trop tard. Le flûte que je cherchais a déjà disparu près de @<sIsland>. Bon, il va falloir essayer de nouveau pour savoir d’où partira le prochain navire marchand.}
+Xebeca_BlueBird.12 {Je suis parti en mer près de @<sIsland>, mais je n’ai pas réussi à rattraper le flûte que je poursuivais ni à l’aborder. Peut-être que j’en saurai plus sur le départ du navire marchand en écoutant les rumeurs. Je vais continuer à me renseigner...}
+Xebeca_BlueBird.13 {Dans les eaux de @<sIsland>, j'ai réussi à couler le flûte d'un marchand local. Nous poursuivrons nos actions ; il faut que les marchands me rendent mon argent. Encore une fois, il me faudra recueillir des rumeurs et rester vigilant.}
+Xebeca_BlueBird.14 {La chasse a été un succès ! J’ai bien plumés ces avares prétentieux. Je crois qu’il est temps d’aller voir mon ami de @<sCity> et de prendre de ses nouvelles...}
+Xebeca_BlueBird.15 {C’est fait. J’ai reçu non pas cinquante, mais deux cent mille pièces d’or en coffres pour mon affaire avec le xebec. Qu’ils le sachent : le préjudice moral coûte cher. Mais maintenant, les marchands comme moi sommes pleinement satisfaits.}
+SharpPearl {Secrets de l’art de la perle}
+SharpPearl.1 {De la tenancière du bordel à @<sCity>, j’ai appris que Sharp s’était rendu à @<sTarget>@<sAreal>. Je ne peux pas espérer retrouver ce pirate insaisissable facilement, alors rumeurs et commérages seront mes meilleurs alliés dans cette affaire.}
+SharpPearl.2 {Je n’ai pas pu trouver Sharp à @<sOldTarget>. On dit qu’il est parti à @<sTarget>@<sAreal>.}
+SharpPearl.3 {On vient de m’apprendre que le capitaine Sharp a quitté le port pour la mer il y a à peine une heure. Si je pars tout de suite, je devrais pouvoir le rattraper.}
+SharpPearl.4 {C'est dommage, mais je n'ai pas réussi à m'entendre avec Sharp. Si je veux lui reparler, il faudra sans doute que je recommence à le chercher dans les bordels. Il semble friand des plaisirs charnels... Cela veut dire que les tenancières le connaissent bien et sont probablement au courant de ses itinéraires et de ses projets.}
+SharpPearl.5
+{
+J’ai finalement réussi à retrouver Sharp. @<sSex1> D’après lui, @<iDay> les pêcheurs de perles seront à @<sAreal>, dans un endroit appelé @<sTarget>.
+Je dois essayer d’y arriver à temps.
+}
+SharpPearl.6 {Je suis parti en mer, mais Sharp avait déjà disparu sans laisser de trace... On dirait que je l’ai perdu. Il va falloir que je recommence à chercher dans les bordels.}
+SharpPearl.7
+{
+J’ai réussi à tirer profit des pêcheries de perles. Mon butin du raid s’élève à @<iQty> huîtres perlières.
+Pas mal. À l’occasion, je devrais retrouver Sharp...
+}
+SharpPearl.8
+{
+Je n’ai pas réussi à tirer profit des chasseurs de perles. Je suis arrivé à temps et j’ai même aperçu leurs tartanes, mais je n’ai pu en rattraper aucun. Quel dommage…
+Enfin, la vie continue. Il faudra que je retrouve Sharp un jour pour obtenir un nouveau tuyau sur ce commerce.
+}
+SharpPearl.9
+{
+Mince ! Je ne suis pas arrivé à l’endroit appelé @<sTarget> avant @<iDay>. Je ne verrai donc pas les plongeurs et leurs perles cette fois, c’est certain.
+Mais ce n’est pas grave, je dois essayer de retrouver Sharp et obtenir une nouvelle piste pour le commerce.
+}
+SharpPearl.10 {Cette fois, Sharp voulait de l’argent pour son tuyau. J’ai dû refuser ses services ; je me débrouillerai sans les perles.}
+SharpPearl.11 {D’un passant, j’ai appris que le capitaine Sharp se promène dans les rues de la ville. Je dois le retrouver avant qu’il ne disparaisse…}
+SharpPearl.12 {J’ai trop tardé à prendre la mer, et Sharp a déjà disparu de ma vue. Dommage. Puisque j’ai perdu sa trace, il va falloir que je recommence à le chercher dans les bordels.}
+SharpPearl.13 {Sharp ne veut pas me parler pour l’instant. C’est mauvais signe. Il faudra que je le retrouve plus tard, en passant par le bordel…}
+SharpPearl.14 {Ce n’est pas la première fois que j’entends parler de plongeurs de perles dans ces eaux. Ces gens sont très discrets, et leur butin est précieux. Là où il y a du butin, il y a des pirates. L’enquête devrait commencer dans les colonies pirates. J’espère que les barons locaux ont au moins quelques informations.}
+SharpPearl.15 {Le capitaine Sharp a causé bien des ennuis aux pêcheurs de perles en attaquant leurs tartanes. S’il y a quelqu’un qui sait où et quand la pêche a lieu, c’est bien lui. Il faut commencer la recherche de Sharp dans les colonies pirates.}
+SharpPearl.16 {L’un des barons pirates nommé @<sName> a dit qu’il fallait chercher Sharp dans les bordels.}
+SharpPearl.17 {Merde ! Je n’ai pas réussi à profiter des plongeurs de perles. Maintenant, Sharp refuse de faire affaire avec moi. Mais je découvrirai bien comment il obtient ses informations. Notre capitaine ne pourra pas garder son secret bien longtemps.}
+SharpPearl.18 {Merde ! Ce Sharp m’a doublé. Même si j’ai touché une petite part du butin qui me revenait, j’ai toujours soif de vengeance. Il faut que je découvre comment le capitaine Sharp obtient ses informations et que je fasse échouer ses plans. Peut-être que les villages de plongeurs de perles victimes de ses raids seront intéressés par tout ça...}
+SharpPearl.19 {Le capitaine Sharp a coulé avec son navire. C’est bien fait pour lui.}
+SharpPearl.20 {L’un des marins de quart a repéré le “Sharpnose” à l’horizon, fonçant droit sur nous. Impossible d’éviter la rencontre. À mesure que nous approchions, le capitaine Sharp a clairement montré qu’il n’avait aucune intention d’attaquer. Ses hommes ont commencé à mettre les chaloupes à l’eau, et bientôt Sharp a posé le pied sur mon pont. Il semble que Bartholomew soit déterminé. Je doute que nos discussions s’éternisent…}
+SharpPearl.21 {Les négociations avec Sharp ont été un succès. J’ai réussi à récupérer mes perles. Dans exactement un mois, un nouvel informateur sera placé dans les villages de pêcheurs de perles, et le capitaine Sharp pourra de nouveau me fournir des pistes pour la chasse aux perles.}
+SharpPearl.22 {À ma grande surprise, le capitaine Sharp a choisi de se rendre. Son destin est désormais entre mes mains. Devrais-je le livrer aux autorités espagnoles ? Ou peut-être que Bartholomew offrira plus d’or pour sa liberté ? Nous verrons…}
+SharpPearl.23 {Sharp m’a dit qu’il possède une cache de trésors dans une grotte près de @<sShoreName>, située sur @<sIslandName>.}
+SharpPearl.24 {Il n’a pas fallu longtemps pour décider du sort du misérable pirate Bartholomew Sharp. Mon équipage l’a jeté aux poissons. Au moins, cela nous a divertis un peu — il ne méritait pas mieux.}
+SharpPearl.25 {Merde ! Bartholomew s’est échappé de captivité… Je doute de le revoir un jour.}
+SharpPearl.26 {Un officier dans l’un des villages de pêcheurs de perles m’a conseillé de remettre le capitaine Sharp au gouverneur général des colonies espagnoles à La Havane dès que possible. Je pense qu’il serait sage de bien réfléchir à ce que j’exigerai en échange d’un prisonnier aussi précieux...}
+SharpPearl.27 {Pour avoir remis le prisonnier Bartholomew aux autorités espagnoles, j'ai reçu une récompense de 40 000 piastres du gouverneur de @<sCity>. J'espère que tout le monde oubliera bientôt le capitaine Sharp.}
+SharpPearl.28 {Pour avoir remis le prisonnier Bartholomew aux autorités espagnoles, j’ai reçu 100 000 piastres. Bientôt, tout le monde aura oublié le célèbre capitaine Sharp.}
+SharpPearl.29 {Pour avoir livré le prisonnier Bartholomew aux autorités espagnoles, j'ai reçu une lettre de marque espagnole. Désormais, je servirai la couronne et accomplirai des missions personnelles pour le gouverneur général Francisco Oregon y Gascon. Bientôt, tout le monde aura oublié le maudit capitaine pirate Sharp.}
+SharpPearl.30 {Bartholomew n’a pas menti ; à l’endroit qu’il avait indiqué, il y avait bien une cache d’or et d’autres objets précieux. J’ai laissé Sharp partir où il voulait.}
+SharpPearl.31 {Bartholomew n’a pas menti ; il y avait bien une cache d’or et d’autres trésors à l’endroit indiqué. En plus, j’ai réussi à recruter Sharp dans mon équipage. Voyons maintenant à quel point ce nouvel officier sera fidèle...}
+SharpPearl_SeekSpy {Trouver l’informateur de Sharp}
+SharpPearl_SeekSpy.1
+{
+Alors c’est comme ça que ce malin de Sharp découvre les secrets des pêcheurs de perles !
+L’un des commandants de la colonie des pêcheurs de perles m’a confié une mission : trouver, parmi ses hommes, celui qui renseigne Sharp sur la position des tartanes des plongeurs dans la mer des Caraïbes. Ma récompense sera un bon équipement de combat, et j’ai déjà reçu une caisse à outils en avance !
+Pas mal...
+}
+SharpPearl_SeekSpy.2
+{
+Un Indien de la colonie perlière nommé @<sName> m’a parlé d’Emilio Garcia. Les Indiens de la tribu de mon ami à la peau rouge ont vu cet Emilio plus d’une fois, la nuit, dans les grottes de la baie de San Juan del Norte. Il discutait avec un inconnu.
+Je suppose que je devrais continuer à visiter la grotte de la baie jusqu’à ce que je surprenne Emilio là-bas. Je n’ai aucune autre piste.
+}
+SharpPearl_SeekSpy.3 {Mon sixième sens me dit que cette fois, la chance m’attend dans la baie. Je dois fouiller soigneusement la grotte côtière.}
+SharpPearl_SeekSpy.4 {C’est fait ! J’ai réussi à découvrir qu’Emilio Garcia était bien à l’origine de la fuite d’informations sur les tartanes des pêcheurs de perles. Je peux maintenant réclamer la récompense promise auprès du commandant des pêcheries de perles.}
+SharpPearl_SeekSpy.5
+{
+J’ai reçu l’équipement de combat qu’on m’avait promis dans les villages des plongeurs de perles. Et en plus, cela va vraiment agacer Bartholomew.
+
+Seul bémol, le commandant craint que les complices de Sharp soient encore dans une autre baie — Amatique, sur le continent. Maintenant que l’un d’eux a été démasqué et éliminé, ils pourraient se montrer plus agressifs que d’habitude. Il faut vérifier cette hypothèse.
+}
+SharpPearl_SeekSpy.6 {Dans la baie d’Amatique, j’ai été attaqué sans avertissement par des mercenaires ou des chasseurs de primes, pas des pirates. Je soupçonne qu’ils m’attendaient là sur ordre de Bartholomew. Parfait, cela veut dire que j’ai réussi à mettre ce pirate en colère. Je pense qu’il voudra maintenant me trouver en personne.}
+Pir_Line_0_Waiting {Capitaine Goodley à Puerto Principe}
+Pir_Line_0_Waiting.1
+{
+Dans la colonie pirate de Puerto Principe, j’ai eu l’occasion de rencontrer le célèbre corsaire, le capitaine Goodley. Il a laissé entendre quelque chose à propos de la confiance… J’ai le sentiment qu’il voulait me confier une tâche importante.
+Je dois attendre que mes affaires avec @<sNation> soient terminées ou presque, puis retrouver le capitaine Goodley. Selon lui, il aura alors plus de raisons de me faire confiance.
+}
+Pir_Line_0_Waiting.2 {Le chef de la colonie pirate aux Bermudes m’a suggéré d’aller à Puerto Principe. Là-bas, je dois trouver le capitaine Goodley, qui a demandé de l’aide à Jackman.}
+Pir_Line_1_JohnBolton {Un service pour Morgan}
+Pir_Line_1_JohnBolton.1 {Goodley m'a demandé d'embarquer John Bolton à la baie de Puerto Principe et de le livrer à Morgan à Port Royal. Ce n'est pas un grand service, bien sûr, mais que peut-on attendre d'une première rencontre ? Morgan est censé nous attendre et payer sur place.}
+Pir_Line_1_JohnBolton.2 {Passager à bord. Cap sur Port Royal.}
+Pir_Line_1_JohnBolton.3 {Merde ! Bolton et moi avons été arrêtés juste devant la résidence de Morgan. J’avais senti dès le début que ce rusé Goodley cachait quelque chose...}
+Pir_Line_1_JohnBolton.4 {Morgan m’a fait sortir de prison. Il est clair qu’il a lui-même organisé mon arrestation pour protéger Bolton. Morgan m’attend dans sa résidence. Il est temps de faire plus ample connaissance avec l’amiral pirate.}
+Pir_Line_2_BlackLabel {Marque noire}
+Pir_Line_2_BlackLabel.1
+{
+Je pars pour la Martinique. Morgan m’a chargé de remettre la Tache Noire à Edward Low.
+Il ne me reste plus qu’à décider où commencer mes recherches : à Fort-de-France ou à Le François ?
+}
+Pir_Line_2_BlackLabel.2 {Le tavernier de Le Francois m’a indiqué la maison où vit Edward Low. Après avoir quitté la taverne, je dois me rendre aux portes de la ville. La maison avec un bardage en bois est celle d’Edward Low.}
+Pir_Line_2_BlackLabel.3 {J’ai remis la Marque Noire à Low et transmis à Morgan le message de se présenter devant lui en personne.}
+Pir_Line_3_KillLoy {Trouver et tuer Edward Low}
+Pir_Line_3_KillLoy.1 {Lowe n’est jamais venu voir Morgan. Henry a mis sa tête à prix et m’a proposé de participer à la chasse, ce que j’ai accepté. Maintenant, je dois décider par où commencer mes recherches. Peut-être devrais-je retourner à Le Francois...}
+Pir_Line_3_KillLoy.2
+{
+Je suis retourné chez Lowe à Le Francois, mais il n’y était pas. Eh bien, je ne m’attendais pas à autre chose. Edward est loin d’être idiot.
+Nous allons continuer à chercher...
+}
+Pir_Line_3_KillLoy.3 {De qui aurait-il bien pu acheter le navire ? Il n’y a pourtant pas de chantier naval ici...}
+Pir_Line_3_KillLoy.4 {Low s’est présenté au chantier naval de Port-au-Prince et a tenté d’y acheter un navire. Nous avons une piste, il nous faut maintenant aller voir l’usurier local...}
+Pir_Line_3_KillLoy.5 {Le prêteur m’a confirmé que Lowe avait tenté d’emprunter de l’argent pour un navire. Mais c’est tout — je n’ai rien appris d’utile de plus. Encore une fois, la piste s’est refroidie…}
+Pir_Line_3_KillLoy.6 {Merde ! Sale rat de bureau borné ! On dirait que j’ai échoué la mission. Qu’est-ce que je vais dire à Morgan maintenant ?..}
+Pir_Line_3_KillLoy.7 {Cap sur les Bermudes. Ce fichu Low ! Quand vais-je enfin le rattraper ? Faites vos jeux...}
+Pir_Line_3_KillLoy.7_1 {15 000 pièces d’or pour réparer le bâtiment de l’Autorité portuaire, et le tour est joué. Cap sur les Bermudes. Maudit Low ! Quand vais-je enfin le rattraper ? Faites vos jeux...}
+Pir_Line_3_KillLoy.8 {Le fichu chef de l’Autorité portuaire de Fort-de-France a exigé 15 000 piastres rien que pour me dire où Lowe est parti. Je n’avais pas une telle somme. Il va falloir que je la trouve, et au plus vite…}
+Pir_Line_3_KillLoy.9 {Low, ce vaurien, posait des questions sur le chantier naval local à la taverne de Skullshores.}
+Pir_Line_3_KillLoy.10 {Enfin, la chance me sourit ! J’ai le pressentiment que tout se jouera avec Jackman.}
+Pir_Line_3_KillLoy.11 {Eh bien, quel vaurien ce Lowe ! Il a réussi à semer le trouble ici aussi et à filer. Peu importe où il court, je finirai par le retrouver ! Je devrais interroger l’aubergiste plus en détail. Mais d’abord, je dois passer voir Jackman.}
+Pir_Line_3_KillLoy.12 {La demande de Jackman pour retrouver sa brigantine correspond à mes propres projets... Hmm, et voilà que Jackman se révèle philosophe — des papillons de nuit, des loups... Hé.}
+Pir_Line_3_KillLoy.13 {Encore une poursuite. Une fois de plus. Au moins, cette fois je sais où aller — à Cumana. Il y a de fortes chances que Lowe s’y soit rendu. Et puis, je n’ai aucune autre piste.}
+Pir_Line_3_KillLoy.14
+{
+Il semble que j’aie retrouvé la piste de Low. D’après les rumeurs, des barges, goélettes, luggers et sloops disparaissent près de Cumana. On accuse une certaine brigantine. J’ai le sentiment que c’est Low—le mode opératoire est trop familier. Comme un chacal, il s’en prend à plus faible que lui.
+On dirait que je vais devoir attirer cette hyène hors de sa tanière. Pour cela, il me faudra prendre la mer près de Cumana à bord d’un lugger ou d’un sloop et patrouiller un moment. J’espère vraiment que Low mordra à l’hameçon et attaquera...
+}
+Pir_Line_3_KillLoy.15
+{
+Je suis parti en mer comme prévu, à bord d’un petit navire. À présent, je dois explorer les eaux de Cumana à la recherche du brick. Lowe va sûrement mordre à l’hameçon !
+Je dois absolument capturer le brick par abordage. Sinon, le différend de Jackman ne sera pas réglé…
+}
+Pir_Line_3_KillLoy.16 {Je n'ai pas trouvé Lowe dans les eaux de Cumana, la brigantine 'Sea Wolf' m'a échappé. J'ai bien peur que la mission ait échoué...}
+Pir_Line_3_KillLoy.17 {Enfin ! La poursuite est terminée, la mission accomplie ! Il ne reste plus qu’à réclamer la récompense.}
+Pir_Line_3_KillLoy.18 {Edward Low est mort, mais je n’ai pas obtenu le brick Sea Wolf. Succès partiel pour la mission. Je peux maintenant réclamer ma récompense.}
+Pir_Line_3_KillLoy.19 {Jackman m’a fait un cadeau inattendu, mais digne d’un roi ! À présent, ce magnifique brick m’appartient de plein droit.}
+Pir_Line_3_KillLoy.20 {J’ai reçu 20 000 de Jackman pour avoir coulé Lowe. Pas mal, sachant que je n’en attendais rien.}
+Pir_Line_4_Pearl {Indice de Morgan sur les tartanes des chasseurs de perles}
+Pir_Line_4_Pearl.1 {Henry Morgan m’a proposé de piller les tartanes des pêcheurs de perles, qui travailleront pendant un mois au large de Turks, dans la baie du Nord. Je dois livrer au moins 1 000 petites et 500 grosses perles. Le bénéfice sera partagé à parts égales.}
+Pir_Line_4_Pearl.2 {Je suis arrivé trop tard. Quand j’ai enfin atteint Turks, il n’y avait plus de tartanes. La mission a échoué, quel dommage...}
+Pir_Line_4_Pearl.3 {J’ai réussi à piller les tartanes des pêcheurs de perles. Le butin s’élève à @<iQty> huîtres perlières. Je peux retourner voir Morgan.}
+Pir_Line_4_Pearl.4 {J’ai réussi à atteindre Turks à temps, mais les tartanes se sont dispersées avant que je puisse en attraper une seule. C’est un échec total... Je vais devoir retourner voir Morgan les mains vides.}
+Pir_Line_4_Pearl.5
+{
+Ainsi, une montagne d'huîtres perlières non ouvertes encombre la cale, et il n'y a décidément nulle part où les mettre. On ne peut pas se présenter dans une boutique ordinaire avec ça — c'est un monopole royal dans tous les pays, et pour un sac de tels "souvenirs", on pourrait vite passer du pont du capitaine au banc de galérien.
+
+Tenter d'écouler une telle marchandise dans les colonies perlières elles-mêmes est une folie. Les contrebandiers les prendront sûrement à bras ouverts, mais risquent fort de brader le prix. Mais on raconte que les banquiers avisés s'intéressent aussi à ce commerce, même si c'est difficile à croire. Quoi qu'il en soit, les ouvrir soi-même est une cause perdue : il faut quelqu'un qui dispose de gens formés et des bons outils.
+}
+Pir_Line_5_Hunter {Travail de chasseur de primes}
+Pir_Line_5_Hunter.1 {Me voilà chasseur de primes. Je dois éliminer un certain John Avery, un type audacieux. On l’a vu pour la dernière fois à Willemstad, donc je dois d’abord aller voir l’usurier là-bas... Mais j’ai le sentiment que Goodley ne me dit pas tout, même s’il a accepté mes conditions...}
+Pir_Line_5_Hunter.2 {C’était plus compliqué que je ne le pensais. Je vais devoir traîner dans les tavernes—peut-être que j’apprendrai quelque chose. Le prêteur sur gages de Willemstad se souvenait que John comptait aller chez les Anglais à @<sCity>, sur @<sIsland>.}
+Pir_Line_5_Hunter.3 {Eh bien, voilà qui devient intéressant. John Avery était à la taverne de @<sCity> ! Je devrais rendre visite à l’usurier local...}
+Pir_Line_5_Hunter.4
+{
+Le prêteur sur gages de @<sCity1> a dit qu’Avery avait fait quelques travaux pour lui en ville. Selon le marchand, il semblait se diriger vers les Espagnols à @<sCity2>, sur @<sIsland>.
+Oui, un sacré numéro. Bon, continuons les recherches...
+}
+Pir_Line_5_Hunter.5 {Ah, Avery était ici il y a cinq jours, il s’est montré à la taverne de @<sCity>. Apparemment, il avait affaire à l’usurier local. Maintenant, vite, à la banque !}
+Pir_Line_5_Hunter.6
+{
+Eh bien, Avery ne change pas ses habitudes ici non plus. L’usurier du coin a surpris sa conversation au bordel. D’après lui, Avery comptait se rendre chez les Français à @<sCity>, sur @<sIsland>.
+Bon, continuons les recherches. Je sens que je touche au but...
+}
+Pir_Line_5_Hunter.7
+{
+Avery s’est illustré à la taverne de @<sCity> — il a tué un tricheur. Qui en aurait douté...
+John n’était pas là pour rien. Je devrais rendre visite à l’usurier local.
+}
+Pir_Line_5_Hunter.8 {Le prêteur sur gages de @<sCity1> m’a dit qu’Avery était passé chez lui et, comme toujours, avait fait son travail. Où John est allé ensuite, nul ne le sait. Cependant, il semble qu’il se dirige vers @<sCity2> sur @<sIsland>. La logique est simple : là-bas, un prêteur sur gages a été dévalisé.}
+Pir_Line_5_Hunter.9 {Il était ici hier, on a une chance de le rattraper ! Allons vite à Bermuda ! En plus, je peux y faire un joli bénéfice supplémentaire—je peux tenter d’intercepter le contrat d’Avery. L’usurier m’a promis 5 000 si je récupère 50 000 à son voleur et que je les lui rends.}
+Pir_Line_5_Hunter.10 {John Avery est ici ! Il est allé chez Orry Bruce ; apparemment, c’est le voleur de l’usurier que nous cherchons.}
+Pir_Line_5_Hunter.11 {Eh bien, voilà, c’est fait. Le travail est terminé. Maintenant, le meilleur reste à venir : toucher la récompense. Je pense pouvoir trouver le capitaine Goodley à la taverne de Port Royal. Et il ne faut pas que j’oublie le prêteur sur gages à @<sCity>.}
+Pir_Line_5_Hunter.12 {Je pars voir Morgan, puisque Goodley m’a dit qu’Henry voulait me voir. Oh, je n’aime pas du tout cette histoire...}
+Pir_Line_5_Hunter.13
+{
+Oui, une chose pareille ne pourrait arriver que dans un cauchemar ! Le capitaine Goodley m’a piégé, et John Avery s’est révélé être l’agent de confiance de Morgan. Je me doutais bien que toute cette histoire de client secret sentait mauvais. Après une brève confrontation, j’ai moi-même éliminé ce vaurien de Goodley, juste dans la résidence de Morgan.
+Eh bien, c’est une histoire peu reluisante, c’est certain. Jackman avait raison, nous ne sommes qu’une meute de loups...
+}
+Pir_Line_6_Jackman {Aller voir Jackman}
+Pir_Line_6_Jackman.1 {Henry Morgan m’a envoyé voir Jackman. Je dois l’informer de la mort du capitaine Goodley.}
+Pir_Line_6_Jackman.2
+{
+Jackman a été très surpris de me voir dans sa résidence. Au passage, il m’a dit que j’avais capturé son capitaine, Sid Bonnet, et que je l’avais remis aux Espagnols ! Eh bien, qui l’aurait cru…
+Quoi qu’il en soit, Jackman m’a envoyé à la baie de Cozumel, au nord du Belize. Là-bas, John Leeds a jeté l’ancre avec sa frégate, l’‘Antwerp’. Je dois lui parler.
+}
+Pir_Line_6_Jackman.3 {Un équipage du corvette coulé par John Leeds a débarqué dans la baie de Cozumel. Leur capitaine est @<sSex>, qui, d’après les rumeurs, me ressemble beaucoup. John Leeds m’a suggéré de m’occuper de leur élimination. Et il semble que je n’aie pas le choix.}
+Pir_Line_6_Jackman.4 {Je suis @<sSex> — je n’ai pas pu savoir.}
+Pir_Line_6_Jackman.5 {Jackman m’a envoyé voir Morgan. Je dois lui parler de mon double.}
+Pir_Line_7_Soukins {Trouver Steve Linney}
+Pir_Line_7_Soukins.1 {Je dois rattraper le pirate Steve Linney, que Morgan a envoyé à La Vega pour enquêter sur la récente série d’événements étranges survenus chez les Frères de la Côte.}
+Pir_Line_7_Soukins.2 {L’aubergiste de La Vega m’a dit qu’il n’a pas vu Steve Linney lui-même depuis un moment, mais que son ami vient de prendre la mer. Je dois le rattraper.}
+Pir_Line_7_Soukins.3 {Je n’ai pas réussi à rattraper mon ami Steve Linney en mer. Je n’ai aucune idée d’où chercher Steve maintenant...}
+Pir_Line_7_Soukins.4 {Morgan m’a informé que Linnaeus a disparu et que sa goélette, le 'Swallow', aurait apparemment été vendue au chantier naval de Santo Domingo. Je dois me rendre à Santo Domingo pour éclaircir la situation concernant la goélette de Linnaeus. Peut-être qu’ainsi, je pourrai retrouver sa trace.}
+Pir_Line_7_Soukins.5 {Un ami de Steve Linney a raconté une histoire étrange. D’après lui, Steve serait récemment parti avec deux inconnus vers une destination inconnue, et il a disparu. Il paraît que sa goélette, le Swallow, est en vente au chantier naval de Santo Domingo. Je devrais m’y rendre pour vérifier…}
+Pir_Line_7_Soukins.6 {Je dois retrouver la frégate 'Leon' ; son propriétaire est le vendeur de la 'Swallow'. On pense que cette frégate croisera au large d'Hispaniola.}
+Pir_Line_7_Soukins.7 {J'ai abordé la frégate 'Leon'. Son capitaine m'a proposé de rejoindre SON amiral. C'est Richard Sowkins. J'ai refusé. Je me demande si Morgan sait déjà qu'un complot se trame pour le renverser ?}
+Pir_Line_7_Soukins.8 {Morgan m’a envoyé à Puerto Principe. On raconte que Sowkins prépare une opération contre les Espagnols. Je dois découvrir les détails de cette opération et trouver un moyen de la saboter.}
+Pir_Line_7_Soukins.9
+{
+J’ai réussi à mettre la main sur le journal de bord de Sowkins, où il détaille le plan de l’opération à venir contre les Espagnols.
+Sowkins a appris que les Espagnols prévoient de transporter la plus grande cargaison de pierres précieuses depuis Panama. Pour cette opération, ils ont abandonné l’itinéraire terrestre habituel de Panama à Portobelo, suivi de la traversée de la mer des Caraïbes. À la place, ils comptent armer un unique vaisseau de ligne, qui contournera le cap Horn, remontera jusqu’au quarantième parallèle, puis mettra le cap au nord-est pour traverser l’Atlantique jusqu’à Lisbonne.
+Sowkins a l’intention d’intercepter ce vaisseau chargé de joyaux près de Saint-Martin. Pour cela, il rassemble une escadre afin que l’Espagnol ne lui échappe pas. Le navire devrait passer à l’est de Trinidad et Tobago, puis remonter au nord-est vers Saint-Martin. Je dois l’intercepter avant Sowkins.
+D’après les notes de Sowkins, dans deux semaines une escadre de pirates attendra l’Espagnol près de Saint-Martin. Je dois appareiller sans tarder et intercepter le navire espagnol au sud de Saint-Martin.
+C’est incroyable qu’un secret aussi bien gardé soit parvenu jusqu’à Sowkins. Je dois m’assurer que personne d’autre ne l’apprenne et arracher les dernières pages du journal, surtout celles qui mentionnent la cale du navire.
+}
+Pir_Line_7_Soukins.10 {J’ai passé bien trop de temps à terre. Ce retard pourrait être fatal à ma tentative d’intercepter le navire espagnol.}
+Pir_Line_7_Soukins.11 {Le navire espagnol que nous cherchions a été trouvé ! Maintenant, abordage ou sabordage, peu importe. L’essentiel, c’est qu’il n’aille pas à Sookins.}
+Pir_Line_7_Soukins.12 {Je n’ai pas réussi à trouver le vaisseau espagnol. La mission est un échec ; je n’ai pas pu contrecarrer les plans de Souwkins. Je peux retourner voir Morgan.}
+Pir_Line_7_Soukins.13 {J’ai tout de même réussi à contrecarrer le plan de Richard Sowkins. Il ne mettra pas la main sur cette énorme cargaison de pierres précieuses. Mission accomplie. Cependant, je ne pense pas que Morgan ait besoin d’être informé au sujet des gemmes. Que sa part dans cette affaire soit la réputation écornée de Soukins…}
+Pir_Line_7_Soukins.14 {Je n’ai pas trouvé la frégate 'Leon', et le sort de Steve reste inconnu. Je ne peux plus rien faire maintenant ; je ferais mieux de retourner auprès de Morgan.}
+Pir_Line_7_Soukins.15 {La frégate 'Leon' a été retrouvée. Abordez-la et interrogez le capitaine !}
+Pir_Line_8_Panama {Expédition à Panama}
+Pir_Line_8_Panama.1
+{
+Henry Morgan m’a invité à rejoindre l’expédition vers Panama. Pour dire les choses simplement, l’idée paraît folle. Mais je vais prendre part à cette aventure, d’autant plus que Henry a besoin de moi.
+Je dois me préparer minutieusement pour la campagne et me présenter à la résidence de Morgan, prêt au combat, dans 20 jours.
+}
+Pir_Line_8_Panama.2 {On dirait que je suis arrivé trop tard. Henry est parti pour Panama sans moi...}
+Pir_Line_8_Panama.3 {Morgan m’a confié le commandement de l’escadre réunie, et je n’ai pas réussi à atteindre Portobelo à temps ! Quelle honte…}
+Pir_Line_8_Panama.4 {Morgan est parvenu à former une escadre de cinq puissants vaisseaux de ligne. Le commandement de cette escadre m’a été confié ! Je dois rejoindre Portobelo au plus vite et prendre la ville d’assaut.}
+Pir_Line_8_Panama.5
+{
+Nous avons réussi à prendre Portobelo. Pourtant, la joie de cet assaut victorieux est quelque peu assombrie. Le gouverneur capturé a révélé que les Espagnols sont au courant de la campagne prévue contre Panama et s’y sont préparés. Il a affirmé que nous périrons dans la jungle en route vers Panama.
+Morgan pense que c’est Souwkins qui a secrètement averti les Espagnols de l’attaque.
+Quoi qu’il en soit, nous mettons le cap sur Panama. Je commande le second détachement combiné, qui doit atteindre Panama en passant par le golfe de Darien. Richard Souwkins fera également partie de mon détachement.
+En résumé, je dois débarquer dans le golfe de Darien dans les deux jours à venir, puis avancer vers Panama. En chemin, lors de l’attaque espagnole, je dois me débarrasser de Souwkins—Morgan refuse catégoriquement de le voir prendre part à l’assaut des murailles de la ville.
+}
+Pir_Line_8_Panama.6 {J’ai réussi à échouer une tâche toute simple. Morgan m’avait demandé de rejoindre le golfe du Darien en deux jours et de commencer à avancer vers Panama, mais je n’y suis pas parvenu. Sawkins a quitté mon escadre, et il semble que Panama va me filer entre les doigts.}
+Pir_Line_8_Panama.7 {Soukins n’a pas survécu jusqu’à l’assaut de Panama. Une affaire de la plus haute importance pour Morgan et moi a été résolue avec succès.}
+Pir_Line_8_Panama.8 {Je n’ai pas réussi à éliminer Soukins avant d’atteindre Panama. La mission très importante de Morgan a échoué. J’ai bien peur qu’il soit très mécontent...}
+Pir_Line_8_Panama.9
+{
+Panama est prise ! Nous avons tenu bon lors de la bataille aux portes de la ville, les forces espagnoles sont épuisées par les embuscades dans la jungle, et la cité est déserte.
+Je dois d'urgence m'emparer de la résidence du gouverneur de Panama et, s'il s'y trouve, l'interroger.
+}
+Pir_Line_8_Panama.10 {Comme Richard Soukins est toujours en vie, Morgan m’a mis à l’écart. Il ne me reste plus qu’à retourner à mon navire et partir…}
+Pir_Line_8_Panama.11
+{
+J’ai réussi à retrouver et interroger le gouverneur de Panama. Il semble que l’or d’Escorial soit gardé dans un coffre fermé à clé dans le bureau du gouverneur. Cependant, le gouverneur n’a pas la clé du coffre ; selon lui, la clé a toujours été entre les mains du commandant de Panama.
+Je dois trouver la clé du coffre et prendre l’or.
+}
+Pir_Line_8_Panama.12
+{
+J'ai trouvé l'or d'Escorial et je l'ai remis à Morgan pour un partage équitable selon les lois de la Fraternité de la Côte.
+Je dois maintenant retourner au fort. D'après Morgan, le commandant a caché une autre partie de l'or d'Escorial dans un coffre à l'extérieur du fort. Je dois aussi récupérer cet argent.
+}
+Pir_Line_8_Panama.13
+{
+J’ai trouvé l’or d’Escorial et j’ai aussitôt réclamé ma part. Morgan a accepté, mais m’a demandé de ne rien dire aux autres pour l’instant.
+Je dois maintenant retourner au fort. D’après Morgan, le commandant a caché une autre partie de l’or d’Escorial dans un coffre à l’extérieur du fort. Il me faut récupérer cet argent aussi.
+}
+Pir_Line_8_Panama.14
+{
+Bon sang, il s’est passé quelque chose de terrible ! Morgan a pris tous les trésors que nous avions rassemblés et s’est enfui sur un galion espagnol abandonné dans le port. Voilà où on en est !..
+Je n’ai pas réussi à rassembler les pirates, alors il va falloir que je rejoigne seul mon navire dans le golfe de Darien.
+}
+Pir_Line_8_Panama.15 {Henry Morgan est revenu de Londres. Il affirme avoir laissé tout son argent là-bas, en paiement pour la grâce des pirates. Il semble que la Confrérie de la Côte soit arrivée à sa fin... Mais je n’ai jamais eu besoin de sa grâce, ni de lui, ni même de la Confrérie de la Côte. Qui peut interdire à un corsaire libre de mener une vie libre et d’envoyer par le fond tous ceux qui rêvent de le mettre aux fers ?..}
+ShipyardsMap {Espionnage industriel}
+ShipyardsMap.1 {Le propriétaire du chantier naval à @<sCity> souhaite que je vole les plans du nouveau @<sShip> au chantier naval de @<sTarget>.}
+ShipyardsMap.2 {C'est fait, j'ai les plans. Je dois maintenant les remettre au client et récupérer ma récompense.}
+ShipyardsMap.3 {Merde ! Le propriétaire du chantier naval à @<sCity> a refusé de payer la commande ! On dirait que je me suis trompé d’objet.}
+ShipyardsMap.4 {Le propriétaire du chantier naval à @<sCity> a apprécié le plan que j’ai apporté. J’ai reçu une belle récompense pour cela.}
+ShipyardsMap.5 {Pendant la journée à venir, la porte d’entrée du chantier naval de @<sCity> restera ouverte. Je devrais en profiter...}
+SeekMayorsRing {À la recherche de l’anneau de mariage au bordel}
+SeekMayorsRing.1
+{
+Le gouverneur de @<sCity> @<sName> m’a chargé de retrouver son alliance perdue dans le bordel. Où chercher reste un mystère, car le respectable gouverneur s’est tellement amusé là-bas hier soir qu’il ne se souvient absolument de rien.
+Je dois retrouver la bague et la rendre à son propriétaire avant la fin de la journée.
+}
+SeekMayorsRing.2 {Il s’avère que le gouverneur de @<sCity> l’a offert à une fille de bordel nommée @<sName> ! Les nuits arrosées réservent bien des surprises. J’ai réussi à racheter la bague pour 5 000 ; je peux maintenant la rapporter au gouverneur.}
+SeekMayorsRing.3 {Il s'avère que le gouverneur de @<sCity> l'a offert à une fille de bordel nommée @<sName> ! Eh bien, maintenant que j'ai la bague, je peux la rapporter au gouverneur.}
+SeekMayorsRing.4 {Je n’ai pas réussi à remettre la bague au gouverneur de @<sCity> à temps. La quête a échoué.}
+SeekMayorsRing.5 {Je n’ai pas trouvé la bague du gouverneur à @<sCity>. La quête a échoué.}
+SeekMayorsRing.6 {La bague du gouverneur de @<sCity> a été retrouvée. Je dois maintenant la rendre à son propriétaire au plus vite.}
+SeekMayorsRing.7 {La bague du gouverneur de @<sCity> a été remise à son propriétaire.}
+SeekUsurersJewel {Trouver la pierre précieuse du prêteur sur gages @<sCity>}
+SeekUsurersJewel.1 {Le prêteur sur gages de @<sCity>, nommé @<sName>, a confié la tâche de retrouver le @<sJewType> qu’il a perdu quelque part dans la jungle juste à l’extérieur des portes de la ville.}
+SeekUsurersJewel.2 {La pierre disparue du prêteur sur gages a été retrouvée. Elle peut maintenant être échangée contre une récompense.}
+Church_DestroyGhost {Quête de l’église. Purifiez @<sLocation> près de @<sCity> des esprits maléfiques}
+Church_DestroyGhost.1 {D'après le prêtre local, @<sLocation> près de @<sCity> est un repaire d'esprits maléfiques. Je dois m'y rendre, invoquer les créatures et les éliminer complètement.}
+Church_DestroyGhost.2 {Eh bien, les morts-vivants sont apparus. Il faut maintenant les éliminer et détruire tous les squelettes.}
+Church_DestroyGhost.3 {J’ai fait mon rapport au padre. L’affaire est entièrement réglée.}
+Church_DestroyGhost.4 {D'après le prêtre local, @<sLocation> près de @<sCity> est un refuge pour les Indiens païens. Je dois m'y rendre et les éliminer complètement.}
+Church_DestroyGhost.5 {Bien, les païens sont en place. Maintenant, il faut nettoyer la zone et éliminer tous les indigènes.}
+Church_DestroyGhost.6 {Le donjon est nettoyé. Il est temps de retourner voir le padre pour faire un rapport.}
+Church_NightGuard {Ronde de nuit à l’église @<sCity>}
+Church_NightGuard.1 {Le saint père de @<sCity> m’a confié la mission de veiller l’église pendant trois nuits. Il soupçonne qu’un vol du presbytère se prépare. Je dois rester dans l’église de minuit à six heures du matin sans en sortir.}
+Church_NightGuard.2 {Mon absence de l’église à minuit enfreint les conditions de la mission du saint père. La quête a échoué.}
+Church_NightGuard.3 {J’ai quitté l’église pendant la veillée nocturne, alors que je n’aurais pas dû. Quête échouée.}
+Church_NightGuard.4 {J'ai veillé trois nuits dans l'église ; la mission du saint père est accomplie. Je peux maintenant aller lui faire mon rapport.}
+Church_NightGuard.5 {J'ai réussi à attendre les voleurs de l'église ! J'ai bien peur qu'un affrontement soit inévitable...}
+PortmansBook_Delivery {Mission du maître de port à @<sCity>. Rattraper le capitaine nommé @<sCapName>}
+PortmansBook_Delivery.1
+{
+Le maître du port de @<sCity> m’a confié une petite mission. Le capitaine du @<sShipTypeName> « @<sShipName> » a oublié son journal de bord à la capitainerie. Je dois retrouver ce capitaine distrait, @<sCapName>, et lui rendre son journal.
+D’après le maître du port, @<sCapName2> est parti vers @<sTargetCity>@<sAreal>.
+}
+PortmansBook_Delivery.2 {J'ai réussi à attraper l'imbécile en mer en route vers @<sTargetCity>. La mission du chef de port à @<sCity> est accomplie.}
+PortmansBook_Delivery.3 {J'ai réussi à trouver ce capitaine à @<sCity> dans la maison du chef du port. La mission du chef du port à @<sCity2> est accomplie.}
+PortmansBook_Delivery.4 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+PortmansBook_Delivery.5 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+Portmans_SeekShip {Mission du maître du port @<sCity>. Récupérer le navire volé}
+Portmans_SeekShip.1
+{
+Le maître de port de @<sCity> m’a confié une mission importante. Un navire, un @<sShipTypeName> nommé « @<sShipName> », a disparu de la rade du port, et je dois enquêter sur sa disparition.
+Je n’ai aucune piste pour commencer mes recherches. Il va falloir être plus attentif en mer et interroger plus souvent les gens dans les villes. Peut-être que le maître de port d’une autre ville a vu ce navire mouiller dans son port.
+}
+Portmans_SeekShip.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+Portmans_SeekShip.3 {D’après les rumeurs, j’ai appris que le @<sShipTypeName> « @<sShipName> » @<sSexWord> du port de @<sCity> vers @<sTargetCity>@<sAreal>.}
+Portmans_SeekShip.4 {Il semble que ce soit le navire disparu du port de @<sCity> @<sShipTypeName>. J’ai réussi à monter à bord, mais le capitaine m’a mis dehors. Je vais devoir aborder le navire.}
+Portmans_SeekShip.5 {Le navire volé a été abordé. Je peux maintenant le restituer à son propriétaire et toucher ma récompense.}
+Portmans_SeekShip.6 {Le travail est fait, la récompense est payée.}
+Portmans_SeekShip.7 {J’ai dû abandonner la recherche du navire. Cette tâche me dépasse clairement.}
+Portmans_SeekShip.8 {Merde ! Je n’ai pas réussi à garder ce navire à flot, il a coulé ! Quel navire vais-je livrer au client maintenant ?..}
+Portmans_SeekShip.9 {J’ai réussi à monter à bord du navire, mais je n’ai pas pu le garder à flot. Un échec total. Quel navire vais-je bien pouvoir livrer au client maintenant ?..}
+SCQ_NM_battle {Capitaines recherchés. Demande d’un noble à @<sCity> nommé @<sName>}
+SCQ_NM_battle.1 {Un habitant de @<sCity>, un noble nommé @<sName>, veut régler ses comptes avec un capitaine nommé @<sCapName>, qui l’a gravement insulté. Je dois retrouver et éliminer ce capitaine. Un indice : il navigue sur un @<sShipTypeName> appelé « @<sShipName> », et ce navire a récemment été aperçu dans le port de @<sQCity>.}
+SCQ_NM_battle.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_NM_battle.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_NM_battle.4 {@<sCapName> a été trouvé et éliminé. La mission est accomplie ; je peux aller voir le client à @<sCity> pour recevoir ma récompense. Je trouverai le noble à l’église pendant l’office du matin, entre 8h et 10h.}
+SCQ_NM_battle.5 {Le capitaine que je cherchais a été retrouvé. J'ai décidé d'explorer son navire. @<sName> se montre très méfiant et m'a chassé de son bâtiment. La suite est limpide : je dois couler son @<sShipTypeName>.}
+SCQ_NM_prisoner {Capitaines recherchés. Demande d’un noble à @<sCity> nommé @<sName>}
+SCQ_NM_prisoner.1 {Un habitant de @<sCity>, un noble nommé @<sName>, veut régler ses comptes avec un certain @<sName1> qui l’a gravement insulté. Je dois retrouver cet homme et l’amener à @<sName>. J’ai un indice : il sert à bord du @<sShipTypeName> « @<sShipName> », sous le commandement d’un capitaine nommé @<sCapName>, et ce navire a récemment été aperçu dans le port de @<sQCity>.}
+SCQ_NM_prisoner.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_NM_prisoner.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_NM_prisoner.4 {Le capitaine que je cherchais est mort. Il est désormais impossible de retrouver son officier et d’accomplir la mission.}
+SCQ_NM_prisoner.5 {@<sName> a été retrouvé et placé sous garde dans la cabine. La mission est accomplie ; je peux aller voir le client à @<sCity> pour ma récompense. Je trouverai le noble à l’église pendant l’office du matin, de 8 à 10 heures.}
+SCQ_NM_prisoner.6 {Nous avons rencontré le capitaine que nous cherchions. Cependant, @<sName> a refusé de livrer son officier renégat. Tant pis pour lui. Il ne me reste plus qu’une option : prendre son navire par la force.}
+SCQ_NM_peace {Avis de recherche de capitaines. Demande d’un noble à @<sCity> nommé @<sName>}
+SCQ_NM_peace.1 {Un habitant de @<sCity>, un noble nommé @<sName>, souhaite retrouver son vieil ami @<sCapName>. Je dois localiser cet homme et lui transmettre la demande du noble : lui rendre visite dès que possible. Un indice : l’homme que je cherche est capitaine du @<sShipTypeName> « @<sShipName> », et ce navire a récemment été aperçu dans le port de la ville de @<sQCity>.}
+SCQ_NM_peace.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_NM_peace.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_NM_peace.4 {Le capitaine @<sCapName> que je cherchais est mort. Mes pires craintes se sont réalisées. Maintenant, la mission ne peut plus être accomplie.}
+SCQ_NM_peace.5 {J’ai réussi à trouver le capitaine qu’il me fallait et à transmettre la demande du noble. La mission est accomplie ; je peux me rendre à @<sCity> pour recevoir ma récompense. Je trouverai le noble à l’église pendant l’office du soir, de 18h à 20h.}
+SCQ_manSlave {La vengeance de l’ancien esclave. Une requête d’un habitant de @<sCity> nommé @<sName>}
+SCQ_manSlave.1
+{
+Un habitant de @<sCity> nommé @<sName> a eu des ennuis il y a un an. Un certain capitaine du nom de @<sCapName>, qui naviguait sur un @<sShipTypeName> appelé « @<sShipName> », a vendu son passager comme esclave.
+À présent, @<sName2> veut se venger. Je dois retrouver et éliminer ce capitaine traître. Le seul indice est que son navire se dirigeait vers le port de @<sQCity>.
+}
+SCQ_manSlave.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_manSlave.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_manSlave.4 {Le capitaine @<sCapName> que je recherchais est mort. La mission est accomplie ; je peux aller voir le client à @<sCity> pour recevoir ma récompense.}
+SCQ_manSlave.5
+{
+On dirait bien que c'est le capitaine que je cherchais. J'ai réussi à lui parler sur son navire. Quand je lui ai demandé au sujet des passagers, il n'a pas répondu et s'est simplement énervé. Il semble que @<sName> soit impliqué dans la vente de passagers comme esclaves.
+En somme, la marche à suivre est claire. Je dois couler @<sShipTypeName>.
+}
+SCQ_manSlave.10 {Le navire que vous cherchiez a disparu. Vous ne pourrez plus vous venger de votre offenseur.}
+SCQ_womanHasband {Trouver le mari de la citadine @<sCity>}
+SCQ_womanHasband.1
+{
+Une citadine de @<sCity> nommée @<sName> m’a demandé de retrouver son mari, un capitaine marchand parti en mer pour affaires et qui n’est pas encore revenu. Il s’appelle @<sCapName> et navigue sur un @<sShipTypeName> appelé « @<sShipName> ».
+J’espère qu’il va bien. Tout ce qu’on sait, c’est qu’il navigue sur un @<sShipTypeName> appelé « @<sShipName> », et que la dernière ville qu’il a visitée était @<sQCity>.
+}
+SCQ_womanHasband.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_womanHasband.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_womanHasband.4 {Le capitaine @<sCapName> que je recherchais est mort. Mes pires craintes se sont réalisées. La mission ne peut plus être accomplie.}
+SCQ_womanHasband.5
+{
+Le capitaine que je cherchais a été retrouvé. Il travaille simplement, naviguant sans cesse à travers les Caraïbes, incapable de refuser une bonne affaire.
+Voilà, la tâche est accomplie. Je peux maintenant aller chercher ma récompense auprès de son épouse inquiète.
+}
+SCQ_womanHasband.10 {Le navire que nous cherchions a disparu. Nous ne pourrons plus retrouver le mari de la citadine.}
+SCQ_Hasband_Truba {Perte gênante}
+SCQ_Hasband_Truba.1 {Une dame de Willemstad nommée Irma Grun m’a demandé de retrouver son mari, un capitaine marchand parti en mer pour affaires et qui n’est pas encore revenu. Il s’appelle Maurits Grun et navigue sur une goélette appelée « Louise ». Son navire a été aperçu pour la dernière fois au sud de Willemstad, au large des côtes du Main. J’espère qu’il va bien.}
+SCQ_Hasband_Truba.2
+{
+Le recherché Maurits Grun a été retrouvé. Il s’avère qu’il travaille simplement, voyageant sans cesse à travers les Caraïbes, incapable de refuser les affaires lucratives.
+Je peux maintenant récupérer ma récompense auprès de sa femme inquiète à l’église de Willemstad.
+Maurits a aussi mentionné qu’à la colonie pirate de Puerto Principe, derrière la maison à gauche de la résidence, sous la fenêtre derrière un panneau de bois secret, une longue-vue de qualité est cachée. Je devrais aller voir.
+}
+SCQ_Hasband_Truba.3 {Le navire que nous cherchions a disparu. Il sera désormais impossible de retrouver le mari de Frau Grun. Peut-être pensera-t-il à lui écrire lui-même, s’il est encore en vie...}
+SCQ_Hasband_Truba.4 {La longue-vue cachée dans la cachette derrière la planche à Puerto Principe est désormais en ma possession.}
+SCQ_Hasband_Truba.5 {J'ai reçu la récompense qui m'était due de la part de Frau Grun. Elle semblait mal à l'aise d'évoquer son passé dans un repaire de pirates. Mais cela ne me concerne plus désormais.}
+SCQ_manRapeWife {Sauver la femme du citadin des mains du pirate à @<sCity>}
+SCQ_manRapeWife.1
+{
+Un citoyen de @<sCity> nommé @<sName> a subi un malheur : sa femme a été enlevée par un pirate. J’ai accepté de la sauver. La femme s’appelle @<sName2>. Le pirate qui l’a enlevée se nomme @<sCapName>, et il navigue sur un @<sShipTypeName> appelé « @<sShipName> ».
+J’espère pouvoir retrouver le navire que je cherche assez rapidement. Le ravisseur navigue sur un @<sShipTypeName> nommé « @<sShipName> », et ce navire a été aperçu dans le port de @<sQCity>.
+}
+SCQ_manRapeWife.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_manRapeWife.3 {D’après les rumeurs, le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_manRapeWife.4 {Le capitaine @<sCapName> que je recherchais est mort, et apparemment la malheureuse femme aussi. La tâche ne peut plus être accomplie.}
+SCQ_manRapeWife.5 {Le capitaine @<sName> a été retrouvé. La femme enlevée se trouve dans sa cabine. Je dois maintenant aborder le @<sShipTypeName>, car il est impossible de négocier avec ce capitaine...}
+SCQ_manRapeWife.6 {Lors de l’abordage, j’ai réussi à sauver une femme nommée @<sName>. C’était bien elle qu’il me fallait. Je peux maintenant retourner à @<sCity> auprès de son mari.}
+SCQ_manRapeWife.10 {Le navire que nous cherchions a disparu. Il ne sera donc plus possible d’aider ce pauvre citadin à retrouver sa femme.}
+SCQ_manFriend {Trouvez un compatriote du citadin @<sCity>}
+SCQ_manFriend.1
+{
+J'ai accepté d'aider un habitant de @<sCity> nommé @<sName>. Je dois retrouver dans la région son compatriote, un capitaine marchand nommé @<sCapName>. Il navigue sur un @<sShipTypeName> appelé « @<sShipName> ».
+Je pense pouvoir retrouver ce marchand sans trop de difficultés. D'après l'habitant, il navigue sur un @<sShipTypeName> appelé « @<sShipName> ». Ce navire a été aperçu récemment dans le port de @<sQCity>.
+}
+SCQ_manFriend.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_manFriend.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_manFriend.4 {Le capitaine @<sCapName> que je cherchais est mort. C'est dommage, la mission ne peut plus être accomplie.}
+SCQ_manFriend.5 {J’ai réussi à trouver le capitaine que je cherchais et à lui dire qu’un compatriote le recherche. La tâche est accomplie, je peux me rendre à @<sCity> pour recevoir ma récompense.}
+SCQ_manFriend.10 {Le navire que nous cherchions a disparu. Il est désormais impossible d’aider le citadin à retrouver son compatriote.}
+SCQ_womanRevenge {La vengeance de la citadine éconduite @<sCity>}
+SCQ_womanRevenge.1
+{
+J'ai accepté d'exaucer une demande peu commune d'une femme de @<sCity> nommée @<sName>. Je dois retrouver un capitaine nommé @<sCapName>. Il navigue sur un @<sShipTypeName> appelé « @<sShipName> ». J'ai un indice : il navigue sur un @<sShipTypeName> appelé « @<sShipName> », et ce navire a récemment été aperçu dans le port de @<sQCity>.
+Je dois retrouver ce capitaine, aborder son @<sShipTypeName2> et l'éliminer. Et avant de l'envoyer dans l'autre monde, il faudra que je lui dise que c'est la charmante @<sName2> qui a commandité sa mort.
+Oui, rien n'est pire que la vengeance d'une femme blessée...
+}
+SCQ_womanRevenge.2 {Le maître du port de @<sCity> m’a dit que le capitaine @<sCapName>, à bord du @<sShipTypeName> «@<sShipName>», est parti pour @<sTargetCity>@<sAreal> à @<sDate>.}
+SCQ_womanRevenge.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_womanRevenge.4 {Le capitaine @<sCapName> que je cherchais est mort. Je n’ai pas pu lui parler, donc la condition principale du client n’a pas été remplie. Il n’a jamais su ce qui a causé sa mort. La quête a échoué.}
+SCQ_womanRevenge.5
+{
+Le capitaine @<sCapName> est mort. J’ai réussi à le tuer selon les conditions de la cliente. Autrement dit, avant de mourir, il a su qui était derrière tout ça.
+La mission de la furie vengeresse est accomplie. Je peux maintenant me rendre à @<sCity> pour réclamer la récompense qui m’est due.
+}
+SCQ_womanRevenge.10 {Le navire que nous cherchions a disparu. Désormais, la vengeance de la citadine rejetée ne pourra pas avoir lieu.}
+SCQ_womanPirates {Sauver le mari de la citadine de la captivité @<sCity>}
+SCQ_womanPirates.1
+{
+J'ai accepté d'exaucer la demande d'une habitante de @<sCity> nommée @<sName>. Son mari est retenu captif par un capitaine nommé @<sCapName>. Ce capitaine navigue à bord d'un @<sShipTypeName> appelé « @<sShipName> ».
+Je dois retrouver ce capitaine, aborder son @<sShipTypeName2> et libérer le mari de cette malheureuse femme, qui s'appelle @<sName2>. Le navire de ce pirate a été aperçu dans le port de la colonie @<sQCity>.
+}
+SCQ_womanPirates.2 {Le chef du port de @<sCity> m’a dit que le capitaine @<sCapName> à bord du @<sShipTypeName> « @<sShipName> » est parti pour @<sTargetCity>@<sAreal> le @<sDate>.}
+SCQ_womanPirates.3 {D’après les rumeurs, j’ai appris que le capitaine @<sCapName> a quitté le port de @<sCity> pour @<sTargetCity>@<sAreal>.}
+SCQ_womanPirates.4 {Le capitaine que je recherchais, @, est mort — et avec lui, semble-t-il, le mari de la pauvre femme. La mission a échoué.}
+SCQ_womanPirates.5 {Le capitaine @<sName> a été retrouvé, le prisonnier est avec lui. Je dois maintenant aborder le @<sShipTypeName>.}
+SCQ_womanPirates.6 {Lors de l’abordage, j’ai réussi à libérer le prisonnier nommé @<sName>. Le travail est fait, je peux maintenant retourner à @<sCity> auprès de sa femme.}
+SCQ_womanPirates.10 {Le navire que nous cherchions a disparu. Il est désormais impossible de libérer le mari de la citadine de sa captivité.}
+SCQ_PirateFashion {Mode pirate}
+SCQ_PirateFashion.1
+{
+La noble dame Liliane Labbe de Port-au-Prince m’a confié une mission aussi délicate que dangereuse. Son mari, Vincent Labbe, est retenu prisonnier par un capitaine du nom de Cory Ball. Ce pirate navigue sur une goélette appelée « Colossus ».
+Je dois retrouver ce capitaine, aborder sa goélette et libérer le mari de cette pauvre femme.
+Le navire pirate a été aperçu pour la dernière fois près de l’île inhabitée de Turks. C’est là que l’échange de rançon pour Vincent devait avoir lieu. Cependant, leur atelier de couture semble avoir fait faillite. La famille Labbe n’a tout simplement pas l’argent pour la rançon. Je crains que la récompense ne soit pas très élevée…
+Il va falloir employer la force ! Espérons que Vincent n’attrapera pas une balle perdue dans la tête pendant l’abordage…
+}
+SCQ_PirateFashion.2 {Le capitaine que je recherchais, Cory Ball, a coulé avec sa goélette, entraînant apparemment avec lui le mari de la pauvre femme. La quête a échoué.}
+SCQ_PirateFashion.3 {Le sloop 'Colossus' a été retrouvé. Je dois maintenant monter à bord du navire pirate pour libérer le noble capturé.}
+SCQ_PirateFashion.4 {Au cours de l’abordage, j’ai réussi à libérer Monsieur Vincent Labbe. La mission est accomplie ; je peux maintenant retourner à Port-au-Prince auprès de sa femme.}
+SCQ_PirateFashion.5 {Pour avoir libéré son mari, Liliana Labbe m’a récompensé avec tous les bijoux qu’elle possédait. Elle m’a raconté une petite histoire sur leurs tentatives de s’installer dans le Nouveau Monde. Je connais désormais l’emplacement d’un excellent costume, taillé selon la « dernière mode européenne ». Il est caché dans le donjon sous Tortuga, dans une impasse près de la sortie vers la baie.}
+ISS_PoorsMurder {Tuez tous les mendiants}
+ISS_PoorsMurder.1
+{
+Un certain Oliver Trust, un homme plutôt étrange, m’a confié la mission de tuer tous les mendiants dans les villes des Caraïbes.
+La tâche est très inhabituelle, mais la récompense est énorme : un million de piastres ! Ils seront déposés en garantie chez le prêteur sur gages à @<sCity>. Selon lui, les mendiants des villes sont un modèle d’immoralité. J’ai du mal à être d’accord, car à mon avis, ils sont plutôt inoffensifs. Il me semble que cette affaire n’a rien à voir avec la morale.
+}
+ISS_PoorsMurder.2 {Quête terminée, tous les mendiants des Caraïbes ont été éliminés et ne dérangeront plus personne. Vous pouvez maintenant retirer votre dépôt auprès de l'usurier concerné.}
+ISS_PoorsMurder.3 {L’un des mendiants à qui j’ai essayé de parler au sujet de ceux qui les détestent m’a dit que je dois aller à @<sCity>. Là-bas vit un vagabond nommé @<sName>, qui souhaite me dire quelque chose sur le sujet qui m’intéresse.}
+ISS_PoorsMurder.4 {J'ai réussi à parler avec le mendiant que je cherchais. Il pense que le gouverneur général Peter Stuyvesant est impliqué dans l'ordre d'éliminer les vagabonds à travers les Caraïbes. Je dois trouver un moyen d'entrer dans sa résidence à Willemstad et essayer de trouver le moindre indice.}
+ISS_PoorsMurder.5 {Dans le bureau de Stuyvesant, j’ai trouvé un coffre fermé à clé. Il semble que c’est là que je trouverai ce dont j’ai besoin.}
+ISS_PoorsMurder.6
+{
+J’ai réussi à m’entendre avec l’artisan qui a fabriqué le coffre du gouverneur général. Cet artisan se fait appeler le Maître des Clefs, mais son vrai nom est Hill Corner. Il habite une maison au balcon bleu, non loin des escaliers menant à la sortie ouest de la ville.
+Dans deux jours, la clé du coffre de Stuyvesant sera prête.
+}
+ISS_PoorsMurder.6_1 {J’ai la clé fabriquée par le Maître des Clés. Il ne me reste plus qu’à voir si elle peut ouvrir le coffre fermé dans le bureau de Stuyvesant.}
+ISS_PoorsMurder.6_2 {Le Maître des Clefs n’a pas menti sur son travail : le coffre du gouverneur général Stuyvesant s’est ouvert sans difficulté. À l’intérieur, diverses correspondances, mais surtout la lettre dont j’avais tant besoin. J’y ai appris que l’élimination des mendiants profite à une certaine Compagnie néerlandaise des Indes occidentales. Je devrais sans doute discuter de ces informations avec @<sName> à @<sCity>.}
+ISS_PoorsMurder.7
+{
+@<sName> m’a confié quelque chose de très intéressant. Il s’avère que le vagabond disparu, Teaser Dan, parlait de l’Île de la Justice, affirmant même s’y être rendu ! Et apparemment, il s’agit bien de l’île mentionnée dans la correspondance entre la Compagnie néerlandaise des Indes occidentales et Peter Stuyvesant. Les histoires de Dan ne sont donc pas que des inventions.
+En résumé, je dois essayer de découvrir ce qui est arrivé au vagabond Teaser Dan. Pour cela, je dois me rendre à Willemstad, là où Dan a été vu pour la dernière fois. Je vais tenter de faire parler les personnes clés de cette affaire.
+}
+ISS_PoorsMurder.8
+{
+L’aubergiste de Willemstad m’a donné une description détaillée de Teaser Dan. Un vagabond jovial, il me plaît bien ! Mais je n’ai rien appris de nouveau sur sa disparition.
+Cependant, l’aubergiste m’a mis en garde : il vaut mieux ne pas se mêler des affaires de Stuyvesant et de la Compagnie néerlandaise des Indes occidentales. D’après lui, c’est une affaire très dangereuse. Les représentants de la compagnie ne travaillent pas avec des inconnus, il est donc impossible de gagner leur confiance.
+~
+Je devrais peut-être prendre le risque et essayer de parler directement à Stuyvesant de la disparition de Teaser. Je n’ai pas de couverture, mais je pourrai peut-être improviser…
+}
+ISS_PoorsMurder.9
+{
+Aujourd'hui, j'ai rendu visite au gouverneur général de Curaçao, Stuyvesant. Dès que j'ai mentionné Tizer, Stuyvesant m'a brusquement demandé pourquoi je le cherchais. J'ai dû inventer tout un tas d'histoires.
+~
+Au final, ma conversation avec Peter Stuyvesant ne m'a rien apporté. La seule chose que je puisse faire, c'est essayer de trouver des représentants de la Compagnie néerlandaise des Indes occidentales ici dans les Caraïbes. Mais comment m'y prendre, c'est une autre question. Il faut que je réfléchisse à ceux qui pourraient avoir un lien, même lointain, avec ces hommes d'affaires...
+~
+Je me souviens que le tavernier a évoqué la possibilité d'obtenir plus d'informations auprès de marchands qui traitent certains « documents » parmi les pirates. Peut-être que ça vaut le coup d'essayer...
+}
+ISS_PoorsMurder.10
+{
+J’ai réussi à trouver une piste vers la Compagnie néerlandaise des Indes occidentales grâce aux agents des différentes nations. J’ai compris d’où proviennent les licences qu’ils commercialisent !
+J’ai aussi appris quelque chose sur l’identité du représentant de la compagnie dans les Caraïbes. Il s’agit de nul autre qu’Oliver Trust, que je connais déjà comme l’instigateur du meurtre de tous les mendiants. Je dois maintenant me rendre sur l’île de Saint Martin, dans la ville de Marigot, et le retrouver.
+}
+ISS_PoorsMurder.11
+{
+J’ai percé le mystère du contrat visant à éliminer les mendiants, non sans mal—et au final, j’ai dû tuer le commanditaire lui-même, Oliver Trust. Grâce à une lettre inachevée adressée à ses supérieurs, j’ai pu en apprendre beaucoup.
+~
+Il semble que Teaser Dan se soit vraiment retrouvé sur une île mystérieuse, et la Compagnie néerlandaise des Indes occidentales a pu le confirmer. Teaser a été éliminé, mais des rumeurs ont commencé à circuler parmi les mendiants, qui espéraient désespérément des jours meilleurs. Pour stopper la propagation de ces rumeurs sur l’Île, il a été décidé d’éradiquer tous les vagabonds. Heureusement que Trust m’a choisi comme tueur à gages !
+~
+La correspondance de la compagnie évoque des objets de luxe et des trésors sur l’Île. Voilà une bonne raison d’y faire un tour—d’autant plus que je connais maintenant à peu près sa position. Si le raisonnement d’Oliver Trust est juste, l’Île se trouve au nord-ouest, au nord du cap Catoche et à l’ouest de La Havane.
+~
+Mais d’abord, je devrais rendre visite à mon ami, le mendiant nommé @<sName>. Je pense qu’il mérite de connaître toute l’histoire.
+}
+ISS_PoorsMurder.12 {Un certain monsieur étrange nommé Oliver Trust a tenté de me recruter comme tueur à gages. Et les cibles qu’il a désignées étaient pour le moins singulières : des mendiants et des vagabonds dans les villes ! Tout cela est vraiment étrange, vraiment…}
+ISS_PoorsMurder.13
+{
+Mince ! L’indice sur l’emplacement de l’île est une information capitale, mais elle ne sert à rien si l’on ignore comment s’y rendre. Le seul fil conducteur est un informateur dont on ne sait absolument rien.
+~
+@<sName> a suggéré qu’il pourrait s’agir d’un habitant de Justice Island. L’informateur aurait pu connaître Teaser, qui savait comment atteindre l’île. Dommage qu’il ne soit plus de ce monde.
+~
+Cependant, il est possible que le corps de Teaser n’ait jamais quitté l’île de Curaçao et soit enterré non loin de là. Je dois aller au cimetière et parler au gardien. J’espère qu’il pourra m’éclairer sur la trace de Teaser.
+}
+ISS_PoorsMurder.14 {Je suis de plus en plus convaincu que le mendiant n’est pas aussi simple qu’il en a l’air. Ses connaissances et ses compétences dépassent largement ce qu’on attendrait d’un vagabond ordinaire. La seule chose que j’ai pu découvrir, c’est qu’il appartient à une organisation qui cherche à déstabiliser l’économie de l’EIC. Je soupçonne qu’il s’agit de la British East India Company. Quoi qu’il en soit, comme tout bon espion, il a refusé de révéler son identité. J’essaierai, à la première occasion, de découvrir ses véritables motivations et à qui appartient ce réseau d’espionnage.}
+ISS_PoorsMurder.15 {Le gardien a dit que Teaser Dan avait été amené par deux personnes mystérieuses portant des masques. Ce sont elles aussi qui l'ont enterré. Je dois examiner la tombe avec la croix en bois au bord du cimetière.}
+ISS_PoorsMurder.16 {En examinant la tombe, j’ai constaté qu’elle était peu profonde et que la terre autour avait été récemment retournée. Pourtant, rien n’a été trouvé dans le sol. J’ai le sentiment que le gardien me cache quelque chose.}
+ISS_PoorsMurder.17 {Au sous-sol de la crypte, j’ai trouvé une porte verrouillée que j’ai ouverte avec les clés du gardien. Je dois explorer les lieux—peut-être que je trouverai quelque chose.}
+ISS_PoorsMurder.18
+{
+À l’intérieur, j’ai trouvé un squelette et un journal abîmé caché dans la paille. L’écriture est difficile à déchiffrer, et le papier est humide. Je ne parviens à distinguer que quelques mots : « tempête », « Teaser », « terrible », « fort », « maudit », « île », « crabes », « port ».
+De toute évidence, ce journal est lié à mon enquête. Mais… Cette découverte ne m’apportera pas les réponses dont j’ai besoin… Je vais devoir poser de nouvelles questions au gardien.
+}
+ISS_PoorsMurder.19
+{
+Un certain « prêtre » est intervenu dans l’affaire ; d’après le gardien, il venait chaque nuit à la crypte, priait et chassait l’esprit maléfique. Lorsque j’ai demandé pourquoi un squelette humain pendait derrière la porte verrouillée de la crypte, le pauvre homme n’a pas su me répondre clairement. Cela m’a amené à soupçonner que l’homme en robe sombre avait pu torturer un informateur dans la crypte, à l’abri des regards et des oreilles indiscrètes.
+~
+Le gardien a été choqué par cette idée, mais je n’ai pas pu me défaire de mes soupçons. Finalement, j’ai réussi à le convaincre qu’il n’y avait pas de mauvais esprits. Celui qui était enfermé dans la crypte est déjà mort. Le gardien a accepté le conseil de donner une sépulture décente aux restes.
+}
+ISS_PoorsMurder.20
+{
+Le gardien m’a parlé d’un étrange « prêtre » qui venait au cimetière la nuit. Je ne crois pas que ce « prêtre » ait jamais existé. Il s’agissait sans doute du geôlier qui retenait Teaser prisonnier dans la crypte. Les hurlements qu’il a entendus étaient en réalité des gémissements.
+~
+Et le gardien, qui au début ne me croyait pas, s’est souvenu de détails étranges qui ont confirmé ma théorie : les gens qui ont amené le corps de Teaser n’ont pas creusé de tombe, n’ont pas pris de pelles et n’avaient pas leurs propres outils.
+~
+Il est devenu évident que Teaser était vivant lorsqu’il a été amené au cimetière. On l’a enfermé dans la crypte, et le « prêtre » l’a torturé à mort. Le gardien était bouleversé, mais il a promis d’inhumer correctement les restes de Teaser. Le journal lui appartenait sans aucun doute ; je dois rendre visite au vieux mendiant que je connais. Peut-être reconnaîtra-t-il les affaires de Teaser.
+}
+ISS_PoorsMurder.21 {Il n’y a presque aucune piste. Je dois interroger tous les gardiens de cimetière au sujet de ce moine mystérieux. Je me rends dans les colonies suivantes : Tortuga, Port Royal, La Havane.}
+ISS_PoorsMurder.22
+{
+Les gardiens du cimetière n’ont rien vu du mystérieux moine… Il semble que je sois dans une impasse totale. Je devrais rendre visite à un mendiant que je connais à @<sCity>.
+Peut-être a-t-il entendu parler de quelque chose. De plus, il pourrait m’aider à identifier et à étudier le journal de Teaser, afin de trouver des indices sur sa fuite de la captivité de HWIC.
+}
+ISS_PoorsMurder.23 {Bien sûr ! Les diplomates manipulent sans cesse des documents ou des faux. Je devrais essayer de leur montrer le journal de Teaser. Peut-être pourront-ils restaurer les pages détruites.}
+ISS_PoorsMurder.24
+{
+* Tempête : une collision avec une tempête pendant votre voyage.
+* Teaser : l’informateur connaissait Teaser et pourrait savoir où il se trouve.
+* Terrible : se pourrait-il que l’Isle of Justice ne soit pas le paradis qu’on décrivait ?
+* Fort : y a-t-il un Fort sur l’île ?
+* Maudit : l’Isle of Justice est entourée de mystère et d’une malédiction.
+* Île : l’informateur sait où se trouve l’Isle of Justice.
+* Crabes : il pourrait y avoir de nombreux crabes sur l’île.
+* Port : y a-t-il un Port sur l’île ?
+}
+ISS_PoorsMurder.25
+{
+J'ai eu de la chance que @<sName> ne soit pas un homme ordinaire. Ce n'est pas un faiseur de miracles, bien sûr, mais il a fait de son mieux pour déchiffrer les notes. Elles pourraient m'être utiles plus tard.
+Le seul problème... Le journal s'est révélé être un faux, et le prêtre s'est volatilisé sans laisser de trace. J'ai l'impression que le vieux gardien m'a roulé. Il va falloir que je lui parle sérieusement. Encore...
+}
+ISS_PoorsMurder.26 {On m’a conseillé de m’adresser à Oliver Green, car c’est un spécialiste de premier ordre. À ma connaissance, il travaille comme secrétaire à la résidence de Henry Morgan à Port Royal.}
+ISS_PoorsMurder.27
+{
+J’ai eu de la chance qu’Oliver Green soit vraiment un expert dans son domaine. Il a tout de suite compris que le journal était un faux.
+Et ce prêtre a disparu sans laisser de trace… J’ai l’impression que le vieux gardien s’est bien moqué de moi. Il va falloir que je lui parle sérieusement. Encore…
+}
+ISS_PoorsMurder.28 {L’épuisement des recherches sans fin m’a rattrapé. Je ne veux plus entendre parler de Teaser Dan, de la GWIC, de prêtres mystérieux ou de toutes ces absurdités. Au diable tout ça ! Je vais tenter ma chance et trouver l’Île de la Justice moi-même.}
+ISS_PoorsMurder.29
+{
+J’ai enfin réussi à découvrir la vérité. Il s’avère que Teaser est vivant ! Il a simulé sa propre mort et s’est caché longtemps au cimetière de Curaçao.
+~
+Teaser s’est échappé de la captivité de la GWC il y a quelques mois. Épuisé et à bout de forces, il a atteint le cimetière et a demandé asile au gardien. Celui-ci, au risque de tout perdre, a décidé d’aider son vieil ami et l’a caché dans la crypte.
+Ils ont mis en scène la mort de Teaser en créant une fausse tombe et en lançant des rumeurs sur un esprit maléfique pour détourner l’attention. Les représentants de la GWC ont vérifié la mort de Dan à deux reprises, mais ils ont été dupés à chaque fois. Pourtant, Teaser n’était toujours pas en sécurité.
+En se faisant passer pour un prêtre exorcisant l’esprit de son soi-disant défunt, il s’est retrouvé dans une situation délicate. La GWC a trouvé son « don » utile et l’a forcé à travailler pour eux.
+~
+Ils gardent Teaser prisonnier « hors de vue mais près de l’objectif » et lui ont confié la tâche de donner les derniers sacrements aux condamnés. Souvent, ces condamnés deviennent rapidement de la main-d’œuvre forcée. Je vais essayer de questionner les contrebandiers—ils doivent forcément être au courant du trafic de « cargaison vivante ».
+}
+ISS_PoorsMurder.30
+{
+C’était un bon conseil : chercher des forçats dans les plantations et les mines, car on les y épuise souvent jusqu’à la mort et ils sont toujours recherchés. L’endroit idéal où les derniers sacrements sont nécessaires.
+Donc, « à l’abri des regards et plus près du but », « dans une plantation ou une mine » et « des forçats ».
+}
+ISS_PoorsMurder.31 {Fort Orange ! Bien sûr ! C’est une petite colonie, cachée des regards indiscrets. Elle est clairement plus proche de La Havane et de Justice Island. Des forçats y travaillent et y meurent. Et il paraît que la mine Orange Lavas est maudite. Tout concorde ! Je te jure, Teaser est là-bas.}
+ISS_PoorsMurder.32 {Le but est proche : le commandant d’Orange Lavaas s’est plaint de la situation dans les mines. Apparemment, Teaser devait lever la malédiction du « Sang du Dragon » qui condamne tôt ou tard les mineurs. D’une certaine façon, il a réussi, puisque le travail dans les mines a cessé après un éboulement. Je dois maintenant rendre visite à l’exorciste raté, enfermé dans une maison à la lisière de la mine.}
+ISS_PoorsMurder.33 {L’épuisement des recherches sans fin m’a rattrapé. Je ne veux plus entendre parler de Teaser Dan, de la GWC, de prêtres mystérieux ni de toutes ces absurdités. Au diable tout ça ! Je vais simplement tenter ma chance et trouver l’Île de la Justice moi-même.}
+ISS_PoorsMurder.34 {La rencontre ne s’est pas déroulée comme je l’espérais... Teaser Den a choisi de ne pas se dévoiler et ne m’a pas accordé sa confiance. Hélas, il me faudra trouver l’Île de la Justice par mes propres moyens...}
+ISS_PoorsMurder.35 {
+Hmm... Je n’ai vraiment aucune idée de pourquoi Teaser aurait laissé un message aussi étrange. Mais une chose est sûre : il avait une raison de le faire. Nous devons lire ces lignes attentivement et comprendre le sens qu’il a voulu leur donner.
+}
+ISS_PoorsMurder.36 {
+Dans la cachette de Teaser Dan, il y avait un étrange journal. Il appartient à quelqu’un nommé Daniel Gabriel Tudor. Je dois montrer cette découverte à Justino—peut-être qu’il sait qui est Tudor et comment tout cela est lié à l’Île.
+}
+ISS_PoorsMurder.37 {
+L’énigme commence enfin à se dénouer…
+Ma conversation avec Justino de Coelho m’a ouvert les yeux sur la situation réelle. Il s’avère que les soi-disant « mendiants » locaux sont en fait une cellule abandonnée du renseignement portugais, menant depuis des années une guerre secrète contre la Compagnie néerlandaise des Indes occidentales. Même après la paix conclue en Europe, ces patriotes fanatiques ont refusé de déposer les armes et ont poursuivi le combat.
+J’ai aussi découvert les origines de Teaser Dan. Son vrai nom est Daniel Gabriel Tudor, et il est noble de naissance, originaire d’Angleterre ou du Portugal. Justino m’a laissé lire le journal de Dan pour comprendre comment trouver l’Île de la Justice avant que les limiers néerlandais ne le fassent.
+}
+ISS_PoorsMurder.38 {Le nœud s’est enfin dénoué...
+
+Tout s’explique maintenant. Daniel a habilement répandu toute cette légende parmi les mendiants, et il a fait un effort particulier pour la diffuser lui-même à Curaçao, où se trouve le siège de la WIC. Il était convaincu que la cupidité des représentants de la Compagnie les pousserait à envoyer toute une expédition vers l’Isle of Justice à la recherche des richesses perdues. Mais c’était un piège soigneusement préparé, où les lourds navires marchands de la WIC étaient voués à couler, et les survivants seraient achevés par les éléments eux-mêmes. Il faut reconnaître à Daniel un certain génie—cela aurait pu être le plus grand acte de sabotage de l’histoire de l’archipel des Caraïbes.
+
+Mais quelque chose a éveillé la méfiance des autorités néerlandaises, y compris Stuyvesant. L’intérêt excessif et suspect des mendiants pour l’île, y compris celui de Dan, et la crainte que ces histoires ne parviennent aux mauvaises oreilles, ont poussé les Hollandais à agir avec plus de prudence, mais aussi avec plus de détermination. C’est pour cela qu’Oliver Trust cherchait un étranger pour traquer les mendiants... Il semble que j’aie eu la malchance de faire échouer sa brillante opération, même si elle était déjà en train de s’effondrer à cause des actions d’agents secrets comme Trust.}
+
+TheStarsAlignedISS
+{
+Les étoiles se sont alignées
+}
+TheStarsAlignedISS.1 {La rencontre avec Teaser s’est… bien passée ? Je dois le libérer de sa captivité, mais ce n’est pas si simple. D’abord, il faut que je convainque le commandant de me laisser apporter de la poudre dans les mines.}
+TheStarsAlignedISS.2 {Merde ! Quelqu’un a attaqué la mine... Depuis combien de temps suis-je allongé ici ? Ma tête va éclater... Partout, des traces d’un combat récent, des incendies, des cadavres. Teaser n’a clairement pas survécu à l’explosion. Il faut que je sorte d’ici.}
+TheStarsAlignedISS.3 {
+Merde ! Après le coup de feu de Teaser à la cave, quelque chose a explosé... Il n’y a personne autour... Depuis combien de temps suis-je allongé ici ? J’ai la tête qui éclate... Le corps de l’aubergiste est encore chaud, donc ça ne fait pas si longtemps. On dirait que toute la ville est réveillée dehors—le vacarme est incroyable. Il faut que je sorte dans la rue et que je voie quoi faire ensuite.}
+TheStarsAlignedISS.4 {
+J’ai à peine la force d’écrire ces lignes. Maudits marrons ! Nous avons échappé de justesse à la mort… Et pourtant, nous nous en sommes sortis vivants et indemnes. Même si Teaser avait l’air bien mal en point la dernière fois que je l’ai vu. Pas seulement physiquement, mais mentalement aussi. Il se prend pour quelqu’un d’autre et parle comme un soldat. Je devrais aller le voir dans la salle commune.}
+TheStarsAlignedISS.5 {
+Teaser est dans un sale état, mais au moins il est vivant et pas enchaîné par la Compagnie néerlandaise des Indes occidentales.}
+
+PreparationForISS {Préparation pour l’île de la Justice}
+PreparationForISS.1
+{
+Je dois me préparer pour l’expédition vers Justice Island. Mieux vaut ne pas risquer de perdre mes biens, mes navires ou mes compagnons.
+~
+Oliver Green m’a aidé à rédiger un testament et un contrat pour protéger tout ce qui m’est le plus cher. C’est une bonne affaire pour nous deux : si je n’arrive pas à mener mon projet à bien dans l’année, le navire et mes biens reviendront à la Fraternité de la Côte.
+~
+Je dois absolument voir Edward Collier à Old Providence. Le document prendra effet une fois que les deux parties auront signé ma part du contrat.
+}
+PreparationForISS.2 {Bon sang, Edward s’est révélé être un vrai grippe-sou. Payer en plus pour pouvoir amarrer mes navires ? Hors de question ! Oliver n’a jamais parlé de frais supplémentaires. Au diable ce contrat — je me débrouillerai sans leur aide.}
+PreparationForISS.3
+{
+Non sans aventures, j'ai réussi à accéder au chantier naval de Providencia. Tous les navires ont été laissés en dépôt, les officiers se sont installés où ils ont pu, et l'équipage prépare le vaisseau amiral pour l'entreposage.
+~
+Par pure bonté, on m'a confié un navire fiable dont personne ne voulait. Je l'utiliserai pour me rendre vers ce lieu mystérieux « au nord du cap Catoche et à l'ouest de La Havane ».
+}
+PreparationForISS.4
+{
+La clé de Diffindur a également fonctionné pour le journal de Daniel.
+~
+Parmi les nombreuses notes sur les pages jaunies du journal de Daniel, un fragment crucial a retenu mon attention. Et ce qui y est décrit ressemble à de la pure folie. Alors...
+~
+Pour atteindre l'Île de la Justice, il faut intentionnellement braver une tempête féroce et y fracasser son navire ! Et cela ne doit pas être fait par simple curiosité ou par cupidité. De plus, je dois le faire seul — je devrai congédier l'équipage et laisser mes officiers à terre. Si je me lance, il n’y aura plus de retour possible.
+Je dois commencer les préparatifs...
+}
+PreparationForISS.5
+{
+Le chef Justino s'est montré d'une générosité et d'une noblesse rares. Il a proposé d'utiliser leur cachette dans la Baie de la Perdition comme base de ravitaillement. L'endroit est isolé, abandonné depuis l'époque des premiers conquistadors, et idéal pour cacher tout le nécessaire avant l'incursion.
+}
+PreparationForISS.6
+{
+Tout semble prêt. Mes navires de valeur sont cachés, mes hommes sont en sécurité. Devant moi, il n'y a que l'inconnu et la tempête. Un sentiment de déjà-vu ne me quitte pas... Je pars seul pour l'Île de la Justice, comme Daniel le conseillait dans son journal. Que les dieux me viennent en aide !
+}
+
+ISS_DefeatCasperClan {Destruction du clan 'Kasper'}
+ISS_DefeatCasperClan.1 {Je dois me préparer pour l’attaque contre San Gabriel. D’abord, je devrais faire mon rapport à Armo sur les résultats de l’enquête. Elle a promis de m’aider si je retrouvais les meurtriers de Hill...}
+ISS_DefeatCasperClan.2
+{
+La serveuse Armo Dulin est une jeune femme courageuse ; elle s’est portée volontaire pour m’aider à attaquer le clan « Casper ». En fait, Armo livre des provisions au clan. Elle va essayer d’inviter l’un des « Casper » à un rendez-vous pour que je puisse m’occuper de lui, disons, en privé.
+Armo aura besoin d’un jour ou deux pour se préparer à ce rendez-vous.
+}
+ISS_DefeatCasperClan.3 {Armo a organisé ce soir, à minuit, une rencontre avec l’un des Caspers, Denis Hopfer. À minuit, tu dois être sur le gaillard arrière du flûte 'Ceres Smithy'...}
+ISS_DefeatCasperClan.4 {Je n’ai pas réussi à retrouver Kasper à minuit à la forge de Ceres. Bon sang, c’est vraiment grave... La fille ne veut plus prendre le risque d’inviter les Kaspers à des rendez-vous.}
+ISS_DefeatCasperClan.5 {Un membre du clan « Casper » nommé @<sName> a été tué. Je dois quitter la forge de Ceres discrètement.}
+ISS_DefeatCasperClan.6 {Armo a organisé ce soir un rendez-vous à minuit avec Serge Chambon, membre du clan 'Casper'. Une fois de plus, je dois être sur le gaillard d’arrière du flûte 'Ceres Smithy' avant minuit.}
+ISS_DefeatCasperClan.7 {Armo a organisé ce soir un rendez-vous à minuit avec un vaurien nommé Filipe Armas. Une fois de plus, je dois être sur le gaillard arrière du flûte 'Ceres Smithy' avant minuit.}
+ISS_DefeatCasperClan.8 {À peine avais-je réglé le sort de Filipe Armas que trois autres Caspers m'ont attaqué, apparemment en train d'espionner Armo. Il aurait été évident que la disparition de deux Caspers d'affilée éveillerait des soupçons autour d'Armo. Et maintenant, l'un des assaillants m'a annoncé qu'Armo a été tuée !}
+ISS_DefeatCasperClan.9 {J’ai dû refuser l’aide de la douce Armo ; le risque est bien trop grand. Elle m’a conseillé de m’adresser à son cher Thomas, le geôlier de Tartarus. Bien sûr, je pourrais essayer de me débrouiller sans aucune aide, mais ce serait presque suicidaire.}
+ISS_DefeatCasperClan.9_1 {Armo m’a conseillé de m’adresser à son cher Thomas, le geôlier de Tartarus. Bien sûr, je pourrais me débrouiller sans l’aide de personne, mais ce serait presque suicidaire.}
+ISS_DefeatCasperClan.10 {Le geôlier Thomas Boyle sera prêt à m’accompagner pour prendre d’assaut le « San Gabriel » si je trouve d’autres volontaires… Il faut que je réfléchisse à qui pourrait m’aider à éliminer les hommes de main secrets de l’Amiral… Les Caspers sont incroyablement puissants en ce moment… Même plus que la milice ! Peut-être que cela inquiète Workman ? D’après les rumeurs, Malcolm aurait souffert à cause d’eux. Et les Taylor, n’en ont-ils pas assez de ces voisins turbulents ?}
+ISS_DefeatCasperClan.11 {Il est probable que le clan Rivadós en veuille aux Caspers à cause de vieilles rancunes. Il est temps de leur demander de l’aide. Seul problème : ce sont des hors-la-loi, alors mieux vaut que la milice ne les croise pas.}
+ISS_DefeatCasperClan.12 {Le geôlier Thomas Boyle a accepté de se joindre à moi pour l’assaut du San Gabriel. J’aurais fait la même chose à sa place, puisqu’ils ont tué sa bien-aimée, Armo.}
+ISS_DefeatCasperClan.13 {Rivados est prêt à aider. Mais il lui faudra du temps pour élaborer un plan. Revenez dans un jour pour découvrir ce que leur chef a décidé. L’essentiel, c’est de ne pas être en retard.}
+ISS_DefeatCasperClan.14 {Excellent ! Le plan de Rivadose est prêt à être exécuté. Je dois me rendre à la forge Ceres demain à six heures du matin. Mieux vaut ne pas être en retard.}
+ISS_DefeatCasperClan.15 {Le pont supérieur est dégagé. À moi de jouer. Il est temps de lancer l’assaut.}
+ISS_DefeatCasperClan.16 {Je ne suis pas arrivé à l’heure convenue. Je suppose que je ne peux plus compter sur l’aide des Rivadose.}
+ISS_DefeatCasperClan.17 {Maxim Taylor a refusé de m’accompagner à l’assaut du San Gabriel. Il semble que son long séjour en prison l’ait finalement brisé.}
+ISS_DefeatCasperClan.18 {@<sName> a accepté de m’accompagner pour l’assaut sur le 'San Gabriel'. L’« Escouade Suicide » s’agrandit.}
+ISS_DefeatCasperClan.19 {Workman et ses hommes se préparent et élaborent un plan pour éliminer les Caspers. Je dois aller voir John dans un jour — tout devrait être prêt. Malgré tout, je ferais bien de tout vérifier moi-même et de me préparer.}
+ISS_DefeatCasperClan.20 {Le clan Kasper, grâce à mes actions, n’existe plus à partir de maintenant. Et cela ne peut que me réjouir ! Enfin, la Ville est débarrassée de tous ces clans, sectes, cultes et autres... Je peux désormais me rendre tranquillement chez le Mécanicien et rencontrer cette personne unique.}
+ISS_DefeatCasperClan.21 {John Workman a refusé de m’accompagner à l’assaut du 'San Gabriel'. Il n’agira contre les Caspers que sur ordre de Chad Capper. Enfin... au moins, il ne m’a pas dénoncé à l’amiral...}
+ISS_DefeatCasperClan.22 {Malcolm Fawn a refusé de m’accompagner pour... Enfin, il n’est vraiment pas en état d’aller nulle part, encore moins pour une attaque. Le vieux contrebandier s’est saoulé après la perte de son bateau et noie son chagrin... À tous les niveaux.}
+ISS_DefeatCasperClan.23 {Quelques personnes nous ont rejoints — @<sName1> et @<sName2>. Maintenant, Thomas Boyle devrait accepter l’assaut contre le 'San Gabriel'.}
+ISS_DefeatCasperClan.24 {Thomas Boyle a refusé de m’accompagner car il ne fait pas confiance à la fiabilité de notre opération et ne veut pas risquer sa vie.}
+ISS_MainLine {Dans la Cité des Navires Perdus}
+ISS_MainLine.parol {Mot de passe actuel @<sText> pour aujourd'hui : '@<sParol>'.}
+ISS_MainLine.1
+{
+Me voilà sur l’Île de la Justice, l’endroit que j’ai cherché si longtemps. En réalité, on l’appelle la Cité des Navires Perdus, et ce nom lui va bien, car de nombreux vaisseaux ont trouvé ici leur dernier refuge. Tout comme tant de destins humains…
+À peine monté à bord de l’un des navires, j’ai rencontré un habitant du coin, George Stokes. Il m’a brièvement expliqué la situation. À présent, je dois trouver la résidence et rencontrer le chef local — l’amiral Chad Capper — avant la fin de la tempête. Sinon, il viendra me chercher lui-même une fois l’orage passé.
+}
+ISS_MainLine.2 {D'après George Stokes, Diffindur, mentionné par Teaser Dan à propos de sa clé, est très probablement le flûte « Fernando Diffindur ». C'est une épave située de l'autre côté de l'île. Et il n'existe même pas de chemin terrestre pour y accéder.}
+ISS_MainLine.3
+{
+La rencontre avec l’amiral Chad Capper a eu lieu. Il s’avère que Chad est le fameux corsaire parti à la chasse au trésor il y a environ trois ans, avant de disparaître sans laisser de trace. Maintenant, il est ici et dirige la Ville ! Pas mal…
+
+Le problème, c’est que j’ai tout perdu. Maintenant @<sSex>, il va falloir tout recommencer à zéro. Mais au moins, je suis citoyen de la Ville. Ça a de l’allure…
+}
+ISS_MainLine.4
+{
+Au fait, j’ai interrogé le tenancier de la taverne de la Ville, Hill Brunner, à propos de Teaser Dan. Sa réponse m’a plutôt découragé. Apparemment, tout le monde pense que Teaser s’est noyé ! Quoi qu’il en soit, Hill m’a conseillé de ne pas parler de Teaser, surtout pas du fait qu’il ait réussi à rejoindre le Continent.
+Tout cela à cause de l’amiral, qui fait appliquer à la lettre la Loi de la Ville interdisant à quiconque de construire des navires ou des radeaux pour s’échapper d’ici. En somme, c’est une interdiction pure et simple de quitter la Ville !
+Bien sûr, on pourrait appeler la Ville l’Île de la Justice, puisque les règles ici sont plutôt démocratiques. Pourtant, il y a bien des choses qui me déplaisent dans cet endroit.
+Bref, je devrai reparler de Teaser Dan au tenancier un peu plus tard—il lui faut du temps pour digérer la nouvelle. Pour l’instant, je ferais mieux d’explorer les environs et de faire connaissance avec tout le monde…
+}
+ISS_MainLine.5 {Il est temps d’aller voir le barman — je pense qu’il est enfin prêt.}
+ISS_MainLine.6 {Le propriétaire de la taverne, Hill Brynner, m’a donné rendez-vous après minuit dans sa cave improvisée. Il s’agit de l’une des cabines de ce même navire ; pour m’y rendre, je dois sortir sur le pont et me diriger vers la poupe.}
+ISS_MainLine.7 {Hill Brynner m’a envoyé vers le flûte 'Fernando Diffindur', qui était autrefois un visiteur régulier chez Teaser Dan. D’après le tenancier de la taverne, c’est là que je pourrais trouver de quoi prouver la véracité de mes propos.}
+ISS_MainLine.8 {Je dois retrouver un certain André Labor, charpentier, dans la Ville. D'après Hill Brunner, c'est lui qui a aidé Teaser Dan à construire l'embarcation qui lui a permis de rejoindre le continent.}
+ISS_MainLine.9 {Je @<sSex> avec lui. André m'a donné rendez-vous dans la cabine du corvette 'Protector'.}
+ISS_MainLine.10 {Ce vaurien d’André Labor m’a amené un milicien pour me parler ! Je vais devoir dégainer mon arme. Fichu sort !}
+ISS_MainLine.11
+{
+Le propriétaire de la taverne, Hill Brunner, pense que je devrais effacer mes traces, pour ainsi dire. Je dois me rendre sur le galion « Velasco », la base du clan Narwhal. Là, dans la cabine avant qui sert de réserve au clan, je dois attendre l’un des « Narwhals » et le tuer. Ensuite, je dois prendre l’amulette du clan Narwhal sur son corps et la remettre à l’amiral Chad Kapper.
+Tout ce stratagème élaboré vise à induire l’amiral en erreur et à détourner les soupçons qui pèsent sur moi concernant les meurtres du milicien et du charpentier.
+}
+ISS_MainLine.12 {J'ai attendu un « narval » dans l'arrière-salle du clan. Ensuite, je dois continuer à suivre le plan établi précédemment.}
+ISS_MainLine.13 {Chad Capper est tombé dans le piège. Le clan 'Narwhal' doit être éliminé, et la mission m'a été confiée. Pour rendre l'opération crédible, l'amiral m'a assigné quelques miliciens pour la durée de la mission ; ils m'attendront sur le 'Velasco'. Eh bien, cap sur le galion 'Velasco' !}
+ISS_MainLine.14 {Eh bien, la mission de l’amiral est accomplie, le clan 'Narwhal' n’existe plus. Je peux retourner voir l’amiral.}
+ISS_MainLine.15 {Pour avoir détruit les narvals sans aucune perte parmi l’équipage, l’amiral m’a donné cent mille piastres.}
+ISS_MainLine.16 {Lors de l’assaut du « Velasco », j’ai perdu quelques miliciens de l’Amiral. La récompense pour la mission accomplie était de dix mille piastres.}
+ISS_MainLine.17 {Lors de l’assaut contre le 'Velasco', j’ai perdu tous les miliciens impliqués, à l’exception de John Workman. Bien que cela ait contrarié Chad Capper, l’opération a néanmoins été considérée comme un succès.}
+ISS_MainLine.18
+{
+J’ai raconté mes aventures avec le clan Narwhal au tenancier de la taverne. Sa réaction m’a un peu surpris…
+Finalement, Hill Brynner m’a demandé d’attendre quelques jours. Je vais essayer de lui rendre visite plus souvent. Il est censé découvrir quelque chose. Très bien, c’est ce que je vais faire.
+}
+ISS_MainLine.19 {Hill Brunner m’a suggéré d’espionner une conversation entre l’amiral et un certain individu. Cette conversation doit avoir lieu ce soir à minuit dans la taverne. Pour l’entendre, je dois me cacher dans la cave de la taverne, derrière la colonne près de la grille. Je dois être en place à minuit.}
+ISS_MainLine.20 {Je n’ai pas réussi à entrer dans la cave de la taverne avant minuit. Il semble que l’occasion d’écouter la conversation de l’amiral soit perdue.}
+ISS_MainLine.21 {Dans la cave de la taverne, j’ai attendu l’amiral et un autre homme. Comme l’avait dit Hill Brunner, ils comptaient s’y retrouver exactement à minuit. Cependant, je n’ai pas réussi à bien me cacher, et ils m’ont remarqué. La conversation s’est terminée avant même d’avoir commencé. Je n’ai même pas pu découvrir qui était le compagnon de l’amiral.}
+ISS_MainLine.22 {Hill Brunner va maintenant tenter ce que je n’ai pas réussi à accomplir moi-même. Tout ce que je peux faire, c’est attendre les résultats.}
+ISS_MainLine.23
+{
+Eh bien, qui l’aurait cru ! La conversation entre l’amiral et le chef du clan 'Kasper' a vraiment éclairci la situation. Il s’avère que l’amiral est de mèche avec les Kaspers, et que moi, en tant que @<sSex>, j’ai détruit les Narwhals. Dire que je croyais avoir réussi à duper Chad Kapper !
+Je dois raconter cette conversation à Hill Brunner.
+}
+ISS_MainLine.24 {Hill Brunner va essayer de se souvenir qui vivait déjà en ville avant son arrivée. Cela est nécessaire pour découvrir qui est le Mécanicien mentionné par l’amiral.}
+ISS_MainLine.25 {Le propriétaire de la taverne, Hill Brunner, est mort, et sa place a été prise par Florence Slott, nommé ici par l’amiral. Eh bien, c’est quelque chose...}
+ISS_MainLine.26
+{
+Armo Dulin, la serveuse de la taverne, m’a raconté comment elle avait trouvé le corps de Brunner dans la cave. Et, ce qui est très intéressant, elle m’a aussi parlé des questions que Hill lui avait posées peu avant sa mort. Il a demandé à Armo si elle se souvenait du citoyen qui vivait ici avant lui. Il a également évoqué un certain Mécanicien.
+
+Eh bien, la situation est mauvaise, j’ai perdu un assistant très important. Je vais essayer d’apprendre auprès de l’amiral ce qui est fait concernant le meurtre de Hill. Et maintenant, je dois moi-même retrouver la personne qui vivait dans la Ville avant Hill. Il semble que Brunner a payé de sa vie pour avoir cherché cette personne.
+}
+ISS_MainLine.27
+{
+Armo Dulin, la serveuse de la taverne, m’a raconté comment elle avait découvert le cadavre de Brunner à la cave. Et, ce qui est très intéressant, elle m’a aussi parlé des questions que Hill lui avait posées peu avant sa mort. Il s’interrogeait sur l’homme qui vivait ici avant lui. Et il semble que Hill cherchait aussi à en savoir plus sur ce fameux Mécanicien dont j’ai entendu parler dans la conversation entre l’amiral et le chef du clan « Kasper ».
+~
+L’affaire prend une tournure très sérieuse. Quelqu’un n’a vraiment pas apprécié que Hill fouille dans cette direction. Et je sais même exactement de qui il s’agit…
+Je vais essayer de découvrir auprès de l’amiral ce qui est fait concernant le meurtre de Hill. Et maintenant, je dois chercher la personne qui vivait dans la Ville avant Hill et qui pourrait savoir qui est ce mystérieux Mécanicien.
+}
+ISS_MainLine.28 {Je suis allé voir l’amiral et j’ai essayé de parler de l’enquête sur la mort de Hill Brunner. Ça n’a rien donné de bon : l’amiral m’a dit de ne pas m’en mêler. Tout cela ne me plaît pas du tout.}
+ISS_MainLine.29 {Après être monté à bord du galion Eva, j'ai trouvé plusieurs Caspers qui tentaient de tuer la propriétaire de la cabine, Cécile Gallard. J'ai réussi à sauver la vieille dame.}
+ISS_MainLine.30 {Après être monté à bord du galion 'Eva', j'ai trouvé plusieurs brutes hostiles qui ressemblaient à des Caspers. J'ai envoyé les assaillants dans la tombe, mais je n'ai pas pu sauver la vieille dame, Cecile Gallard. Est-ce vraiment une impasse ? Je devrais reparler à Aurelie Bertin et tout lui raconter...}
+ISS_MainLine.31
+{
+J'ai essayé de parler à Aurélie Bertin des anciens habitants de la Ville et du Mécanicien. Après une légère hésitation, elle m'a répondu qu'elle n'en savait rien et a aussitôt mis fin à la conversation sur ce sujet.
+Cependant, elle a mentionné Cécile Gallard. Je devrais aller lui rendre visite...
+}
+ISS_MainLine.32
+{
+Il s’avère que Cécile Gallard connaît le Mécanicien ! Il s’appelle Henrik Wedeker, et c’est lui qui a inventé un moyen fiable de relier les navires. Apparemment, l’amiral a isolé Henrik sur la barque 'San Gabriel' avec l’aide du clan 'Casper'. Cela s’est produit après qu’Henrik a commencé à prévenir les citoyens que la Ville était en danger et qu’il fallait partir avant qu’il ne soit trop tard.
+~
+Je dois rejoindre le Mécanicien et lui parler.
+}
+ISS_MainLine.33
+{
+Aurelie Bertin, effrayée par la mort de Cécile Gallard, m’a tout révélé sur le Mécanicien. Il s’appelle Henrik Wedeker, et c’est lui qui a inventé un moyen fiable de relier les navires. Apparemment, l’amiral a isolé Henrik sur la barque 'San Gabriel' avec l’aide du clan 'Casper'. Cela s’est produit après que Henrik a commencé à prévenir les citoyens que la Ville courait un certain danger et qu’il fallait partir avant qu’il ne soit trop tard.
+~
+Je dois rejoindre le Mécanicien et lui parler.
+}
+ISS_MainLine.34
+{
+J’ai retrouvé Henrik Wedeker et, pour ainsi dire, je l’ai libéré. Un long échange de points de vue sur divers aspects de la vie dans la Cité des Navires Perdus m’a convaincu qu’il faut que je quitte cet endroit pour rejoindre le continent, et vite. Le problème, c’est que la Cité pourrait s’effondrer lors d’une forte tempête, et alors personne n’en réchapperait.
+~
+Le Mécanicien va m’aider pour ça. En fait, il a déjà une corvette en état de marche, et Henrik est prêt à… me la vendre. Je dois fournir à Henrik un million et demi de piastres pour le navire, ainsi que pour la possibilité de plonger sous l’eau afin d’effectuer certains travaux pour libérer la corvette.
+Je ne me suis pas encore penché sur les détails des prochaines étapes, car l’essentiel pour l’instant, c’est de trouver ce million et demi. On va chercher…
+~
+Je dois aussi informer Chad Capper de la destruction du clan « Kasper ». Et il va falloir le faire avec beaucoup de précaution !
+}
+ISS_MainLine.35 {J'ai donné @<iMoney1> au Mécanicien. Il me reste à lui apporter encore @<iMoney2>.}
+ISS_MainLine.36
+{
+L’argent qu’Henrik exigeait lui a été remis en totalité. Le navire m’appartient désormais. Il me faut réfléchir à un nom...
+
+Je dois maintenant plonger sous l’eau dans la combinaison spéciale du Mécanicien pour retrouver l’engrenage du treuil au fond de la mer. Si je ne le trouve pas, je ne pourrai pas libérer la corvette des navires qui la retiennent. D’effrayantes créatures rôdent dans les profondeurs. Henrik a aussi mentionné qu’il y a de nombreux trésors là-bas.
+
+Je peux trouver la combinaison sur la plateforme Phoenix. Le mécanisme du treuil pour descendre dans le monde sous-marin s’y trouve également. Je dois garder à l’esprit que la plongée n’est possible qu’en plein jour — de dix à dix-neuf heures. Après utilisation, la combinaison doit être remise à sa place.
+}
+ISS_MainLine.37 {J'ai réussi à m'expliquer auprès de l'amiral au sujet de la destruction du clan 'Casper'. Il est entré dans une colère noire. Étonnamment, aucune mesure punitive ne sera prise contre moi, mais il ne doit plus y avoir de meurtres !..}
+ISS_MainLine.38 {L’engrenage du mécanisme du treuil a été retrouvé et remis au Mécanicien. Dois-je continuer à explorer les fonds marins, ou ai-je assez plongé pour l’instant ?..}
+ISS_MainLine.39 {Je dois maintenant trouver quelqu’un capable d’acheminer la cargaison vers l’anneau extérieur. Idéalement, il faudrait qu’il possède son propre navire. Qui pourrait bien convenir pour une telle mission ?}
+ISS_MainLine.40 {Je dois approvisionner la corvette avec tout le nécessaire pour le voyage. Cela veut dire boulets, chaînes, mitraille, bombes, poudre, vivres, armes, toile à voile et planches. Je ne sais pas encore vraiment où trouver tout ça... Mais je sais que tout se trouve en Ville. Il suffit de bien chercher...}
+ISS_MainLine.41 {J'ai réussi à acheter des provisions, de la toile et des planches auprès du propriétaire de la boutique, Erik Yost. Apparemment, il s'occupera lui-même du transport.}
+ISS_MainLine.42 {Le saint père a attribué 50 paquets de médicaments de la paroisse pour une bonne cause. Les paroissiens aideront à transporter la cargaison.}
+ISS_MainLine.43 {La serveuse de la taverne, @<sName>, m’a dit que je peux obtenir des boulets, des chaînes, de la mitraille et des bombes auprès des intendantes sur les navires. Il s’agit d’Alice Taylor, Aurélie Bertin, Lea Toors et Elisa Calvo.}
+ISS_MainLine.44 {Alice Taylor a autorisé le retrait de 100 boulets de canon des cales du flûte 'Ceres Smitty'. Pour la livraison de ces boulets au 'San Gabriel', elle a recommandé de contacter Felix Mendoza.}
+ISS_MainLine.45 {Felix Mendoza a accepté de livrer les boulets de canon, offerts par Alice Taylor, à la barque San Gabriel.}
+ISS_MainLine.46 {Aurélie Bertin vous a autorisé à prendre 100 boulets chaînés du pinasse Fury. Pour leur livraison au San Gabriel, elle vous a conseillé de contacter Pablo Barades en son nom.}
+ISS_MainLine.47 {Pablo Barades a accepté de livrer 100 boulets chaînés au barque San Gabriel.}
+ISS_MainLine.48 {Lea Toors est prête à me donner 5 quintaux de mitraille contre 10 sacs de sel. Il faut que j’en trouve quelque part !}
+ISS_MainLine.49 {J'ai apporté du sel pour Leia Toors. En échange, on m'a donné 5 quintaux de mitraille, et ils l'ont même livrée jusqu'au San Gabriel !}
+ISS_MainLine.50 {Elisa Calvo semble être une femme plutôt enjouée. Elle est prête à me donner les bombes en échange de dix grappes de raisin, trois bouteilles de vin et un luth. Eh bien…}
+ISS_MainLine.51 {Tout ce qui était requis a été livré à Elisa Calvo. Et j’ai reçu 100 bombes livrées sur le San Gabriel. Pas une mauvaise affaire.}
+ISS_MainLine.52
+{
+J’ai essayé de parler à l’amiral au sujet de la poudre et des armes. Ça n’a rien donné—Chad refuse de me céder ces marchandises, quoi qu’il arrive. Rien d’étonnant. C’était naïf d’espérer qu’il accepte.
+
+D’un autre côté, maintenant je sais qu’il a bien ces marchandises. Et en grande quantité ! Donc si l’un des miliciens ayant accès à l’arsenal “emprunte” un peu pour moi, personne ne s’en apercevra.
+}
+ISS_MainLine.53 {Un vieil ami, John Workman, a accepté de m’aider à obtenir de la poudre et des armes. Sans que l’amiral le sache, il livrera tout ce qu’il faut au San Gabriel. Il a compris que je prépare mon départ de la Ville et m’a demandé de l’emmener avec moi. Je dois penser à le prévenir quand il sera temps de rassembler l’équipage.}
+ISS_MainLine.54
+{
+Toutes les provisions nécessaires pour un voyage réussi ont été livrées à mon navire.
+Henrik m’a confié une nouvelle tâche : je dois maintenant trouver des membres pour l’équipage. Il me faut convaincre au moins quinze personnes de quitter cet endroit. Je ne pense pas que ce sera difficile, car beaucoup cherchent à fuir cette maudite Ville.
+~
+Pour ne rien arranger, il semble qu’une tempête d’une force inédite se dirige vers la Ville et menace de tout emporter. Je dois me dépêcher.
+}
+ISS_MainLine.55
+{
+Toutes les provisions nécessaires à un voyage réussi ont été livrées à mon navire.
+Henrik m’a encore surpris, cette fois en me confiant la tâche de trouver des membres pour l’équipage. Il a été décidé de rassembler tous les citoyens à la taverne.
+~
+Mais la situation s’aggrave encore : apparemment, une tempête d’une force inédite approche de la Ville et risque de tout balayer. Il faut faire vite.
+~
+Je dois réfléchir à un moyen de réunir tout le monde d’un coup, sans avoir à courir dans toute la Ville. Peut-être devrais-je lancer la rumeur que le Mécanicien souhaite parler aux citoyens après l’isolement. Si j’ajoute une touche de mystère et d’interdit, la commère Aurélie mordra à l’hameçon, ne saura résister, et racontera la nouvelle à toute la Ville. Voilà un plan qui me semble prometteur !
+}
+ISS_MainLine.56 {J'ai essayé de parler à Chad Capper du danger qui menace la Ville. Ce fut inutile ; je n'ai eu droit qu'à une nouvelle série de menaces. Malgré tout, je dois continuer à recruter un équipage pour la corvette.}
+ISS_MainLine.57 {Le milicien John Workman envisage de rejoindre mon équipage en tant qu’officier. Pour l’instant, il a choisi de rester à la résidence de l’amiral afin de m’aider en cas de besoin urgent. D’après lui, Chad Capper songe à se débarrasser de moi.}
+ISS_MainLine.58 {@<sName> @<Sex> rejoint l’équipage de mon corvette. Il reste à recruter @<iCrew> membres pour atteindre l’équipage minimum requis.}
+ISS_MainLine.59
+{
+J'ai terminé de rassembler l'équipage minimum pour le navire. Quinze personnes, nécessaires pour quitter l'Île, ont été envoyées sur le 'San Gabriel'. Malcolm devrait déjà avoir fini de transférer les marchandises sur la corvette.
+~
+Je dois maintenant prendre une décision : rejoindre mon navire au plus vite, ou emmener les derniers habitants. Dans tous les cas, il faut se dépêcher de quitter la Ville avant que la tempête n'atteigne toute sa puissance.
+}
+ISS_MainLine.60
+{
+Bon sang, Capper a arrêté Wedeker !!!
+Un problème de plus : s’éclipser discrètement n’est plus possible. L’Amiral veut clairement découvrir où se trouve notre navire. Je soupçonne ses sbires de surveiller les déplacements de Malcolm. Dans ce cas, transporter les anciens citoyens devient une affaire très risquée. Il a donc été décidé de déplacer tout le monde temporairement à Fernando Diffindur, loin de la poigne de l’Amiral.
+~
+Quant à moi, je dois foncer à la résidence, sauver le Mécanicien et régler le compte de Chad. Et il faut faire vite, avant que la tempête ne déchire la Ville.
+}
+ISS_MainLine.61
+{
+Dans la résidence, l’amiral m’a inévitablement attaqué. J’ai réussi à lui résister grâce à John Workman, qui a tenu parole et m’a aidé quand j’en avais besoin. Malheureusement, John a été tué.
+Je dois maintenant trouver Wedeker de toute urgence. Et la milice restante m’attend toujours dehors.
+}
+ISS_MainLine.62
+{
+Dans la résidence, l’amiral m’a inévitablement attaqué. J’ai réussi à le repousser grâce à John Workman, qui a tenu parole et m’a aidé dans ce moment difficile.
+~
+John a accepté de rejoindre mon équipage en tant qu’officier, ce qui est une bonne nouvelle. J’ai aussi appris de John que Wedeker a été emprisonné. Je dois donc me dépêcher de rejoindre le 'Tartarus' pour libérer le Mécanicien. Et il reste encore la milice qui m’attend dehors.
+}
+ISS_MainLine.63
+{
+Je suis parvenu jusqu’à Wedeker, mais je n’ai pas pu le libérer. Le mécanicien est emprisonné, et la clé reste introuvable...
+Pendant ce temps, la tempête ne cesse de gagner en force. Si je ne quitte pas la Ville immédiatement, il se pourrait bien que je n’en sorte jamais. Henrik m’a envoyé vers l’entrée arrière du « Fernando Diffindur », l’épave même où Teaser Dan avait autrefois caché son coffre. De là, je pourrai rejoindre mon navire, le « Dog of War », sans encombre.
+~
+Seul problème : les anciens habitants de la ville seront sûrement de mauvaise humeur, il faudra donc évacuer rapidement et sans agitation. En route, sans attendre ! Il est temps de faire nos adieux définitifs à la Cité des Navires Perdus.
+}
+ISS_MainLine.64 {J’ai réussi à rallier à ma cause l’un des miliciens — John Workman. S’il y a des ennuis chez l’amiral, il m’a promis de m’aider au combat et de prendre mon parti.}
+ISS_MainLine.65
+{
+J’ai réussi à quitter la Cité des Navires Perdus en pleine tempête avec les autres. Apparemment, la Cité a disparu dans les profondeurs de la mer, et la prédiction scientifique de Henrik Wedeker s’est révélée exacte. Le magnifique corvette 'Dog of War', acheté au Mécanicien pour un million et demi, s’est avéré être un excellent voilier—parfait pour mon métier.
+~
+Après tout ce que j’ai vécu dans la Cité, des sentiments contradictoires m’envahissent. D’un côté, je me réjouis d’avoir retrouvé ma liberté, mais de l’autre—je regrette de ne jamais pouvoir retourner dans la Cité des Navires Perdus...
+}
+ISS_MainLine.66 {Dans la résidence, l’amiral m’a attaqué sans un mot. Il a été tué sur-le-champ avec ses gardes. Maintenant, je dois trouver Wedeker au plus vite.}
+ISS_MainLine.67 {Excellent ! Le petit poisson d’Aurélie a mordu à l’hameçon, et maintenant toute la Ville saura que le Mécanicien va bientôt arriver à la taverne.}
+ISS_MainLine.68 {Nous avons trouvé un transporteur avec son propre navire : Malcolm Fawn, capable d’acheminer discrètement la marchandise sans éveiller les soupçons. Il a accepté notre plan, mais en échange, il a demandé à rejoindre l’équipage. Refuser un timonier expérimenté, même ancien contrebandier, serait imprudent. Je pense qu’il sera d’une grande aide pour franchir l’anneau d’épaves qui entoure la Ville. Je dois maintenant retourner voir le mécanicien pour discuter de la suite.}
+ISS_MainLine.69
+{
+J'ai réussi à convaincre les miliciens restants de Chad Capper de la véracité de mes paroles ! Ils ont accepté mes arguments et m'ont même choisi comme nouveau amiral de la Ville. Nous avons maintenant une chance de sauver tout le monde avant que la tempête ne détruise cet endroit.
+~
+Il semble même que les partisans les plus fidèles de Chad aient compris que leur ancien chef avait trahi leur confiance. Grâce à mes talents de persuasion, j'ai pu leur sauver la vie. Mais ce n'est pas fini. Nous devons libérer Wedeker d'urgence et évacuer la population à bord du navire.
+}
+ISS_MainLine.70 {Malheureusement, je n’ai pas réussi à convaincre les miliciens — ils sont restés fidèles à l’amiral Chad, malgré tous mes efforts. Ils refusent obstinément de voir la vérité, préférant suivre aveuglément des idéaux morts. Dommage que les choses aient tourné ainsi — nous allons maintenant devoir affronter des adversaires bien armés et entraînés, au pire moment possible...}
+ISS_MainLine.71 {Malcolm Fawn était heureux de rejoindre mon équipage, et je suis ravi d’avoir un timonier expérimenté, même s’il a été contrebandier. Je pense qu’il nous sera très utile quand nous tenterons de franchir la ceinture d’épaves qui entoure la Ville.}
+ISS_MainLine.72 {Ce Pedro est vraiment bavard... Mais il m’a donné un bon indice : « il y a une entrée à la proue. » Je devrais examiner la proue du navire depuis l’eau. Il doit bien y avoir un passage par là.}
+ISS_MainLine.73
+{
+John Workman a convaincu ses hommes de nous rejoindre ! Son autorité auprès des anciens a été décisive : ils ont reconnu la vérité sur la trahison de Chad et sont prêts à aider à l’évacuation.
+~
+Cela renforce considérablement ma position. Nous avons désormais des combattants aguerris, capables d’agir efficacement et de neutraliser, si besoin, les derniers partisans de l’amiral.
+}
+ISS_MainLine.74 {À mon grand regret, John Workman s’est révélé être le seul de l’ancienne garde à avoir choisi de me soutenir. Les autres sont soit morts lors des affrontements avec les clans, soit restent aveuglément fidèles à Chad. Sa détermination force le respect, et l’aide d’un combattant aussi expérimenté est inestimable. Je devrai faire preuve d’une grande prudence en m’adressant aux miliciens restants.}
+ISS_MainLine.75
+{
+L’ironie du destin — ceux qui devaient défendre la Loi protègent à présent la mémoire de celui qui l’a bafouée le premier. Workman et ses vétérans m’ont tourné le dos.
+~
+J’ai trahi sa confiance, et maintenant l’ancienne loyauté de dragon de John l’oblige à se dresser contre moi. Cruel destin — l’homme le plus intègre et ambitieux de la Ville s’est retrouvé de l’autre côté de la barricade à cause de promesses que je n’ai pas su tenir. Dans son regard, il n’y avait pas tant de mépris que d’amère déception.
+~
+Les autres miliciens n’ont pas encore choisi leur camp — je dois tenter de les convaincre de me rejoindre.
+}
+ISS_MainLine.76
+{
+La ville s’effondre sous nos yeux, et les habitants… restent figés. La stupeur et la terreur les ont paralysés. L’eau monte à une vitesse alarmante, et ils regardent, incapables de bouger…
+~
+Malcolm, malgré le choc de la situation et la décision d’Henrik, garde son sang-froid—on voit bien que c’est un contrebandier aguerri. Sa petite embarcation est désormais notre seule issue. Henrik a réussi à ouvrir un passage, mais son Stormomètre nous avertit : le temps presse. Maintenant, c’est à moi de prendre la tête—de guider ces gens terrifiés vers leur dernière chance de survie.
+~
+Je dois rassembler tout le monde sur le pont supérieur du 'Fernando Diffindur'. Et je dois le faire avec précaution, progressivement, mais rapidement, sans provoquer de panique. Il faut rassurer chacun, tout expliquer—seuls le 'Dog of War' et Malcolm à la barre peuvent nous sortir de cet enfer. Sinon, nous périrons tous sur le seuil de la liberté.
+}
+ISS_MainLine.77 {@<sName> @<Sex> rejoindre l’équipage de mon corvette.}
+ISS_takeCandles {Bougies pour le service}
+ISS_takeCandles.1 {Le père Angel m’a confié la tâche de trouver 400 cierges pour la paroisse de la Ville. Eh bien, commençons les recherches, d’autant plus que le saint homme a promis une belle récompense pour mes efforts...}
+ISS_takeCandles.2 {Il me reste à apporter encore @<iQty> bougies au Padre Angel.}
+ISS_takeCandles.3 {La tâche du père Angel est accomplie. La paroisse dispose désormais de suffisamment de cierges pour les offices pendant longtemps.}
+ISS_takeCandles.4 {Il paraît que la paroisse locale manque de bougies. Je devrais en parler au prêtre.}
+ISS_takeStoreMoney {Infiltrer les quartiers d’habitation de la boutique sur l’'Esmeralda'}
+ISS_takeStoreMoney.1 {Un citoyen de la Ville, Pedro Hurtado, m’a suggéré de rendre visite aux quartiers d’habitation du galion 'Esmeralda'. Je dois faire cela pendant la journée, lorsque le propriétaire du magasin, Eric Yost, sera dans sa boutique. Apparemment, des gardes m’y attendront. Pedro Hurtado et moi avons convenu de partager à parts égales tout l’argent que nous trouverons.}
+ISS_takeStoreMoney.2 {J’ai retrouvé Pedro à l’endroit convenu. D’un geste habile, il a ouvert la porte de l’arrière-boutique. À présent, tout dépend de moi...}
+ISS_takeStoreMoney.3 {C'est fait. L'endroit est nettoyé, les gardes sont morts. Mais je n'y ai pas trouvé d'argent. Dommage que Pedro se soit trompé...}
+ISS_takeStoreMoney.4 {C’est fait. L’endroit est nettoyé, les gardes sont morts, et l’argent trouvé a été partagé équitablement. Affaire classée.}
+ISS_takeStoreMoney.5 {Hill Brunner a mentionné qu’un certain Pedro Hurtado se renseignait sur moi. Je me demande ce qu’il me veut.}
+ISS_ElisHusband {Le mari indiscipliné d’Alice Taylor}
+ISS_ElisHusband.1 {D’après les rumeurs, j’ai appris que le mari d’Alice Taylor, un fauteur de troubles et ivrogne, a fini en prison. À présent, Alice cherche de l’aide pour libérer son mari égaré.}
+ISS_ElisHusband.2 {Maxim Taylor, qui est en prison, m’a demandé d’informer sa femme, Alice Taylor, qu’il est de nouveau derrière les barreaux.}
+ISS_ElisHusband.3 {Le gardien de prison, Gabriel d’Exmes, m’a dit que Maxim Taylor a fini en prison pour conduite désordonnée envers l’amiral lui-même ! Eh bien, ça alors...}
+ISS_ElisHusband.4 {Pour découvrir le sort de Maxim Taylor, je dois parler à Chad Capper. C’est le conseil que m’a donné le directeur de la prison.}
+ISS_ElisHusband.5 {J'ai promis à Alice Taylor de libérer son mari de prison.}
+ISS_ElisHusband.6 {Maxim Taylor a dit que ce jour-là, il s’est saoulé comme un cochon à la taverne et ne se souvient de rien.}
+ISS_ElisHusband.7
+{
+Eh bien, Maxim Taylor s’est vraiment mis dans de beaux draps. Apparemment, après avoir bien bu à la taverne, il s’est pointé chez l’amiral et lui a mis un couteau sous la gorge ! Franchement, c’est un miracle que Taylor soit encore en vie.
+On dirait qu’il perd totalement le contrôle de lui-même quand il est ivre.
+}
+ISS_ElisHusband.8 {J’ai réussi à apprendre de la serveuse de la taverne que, le jour où Taylor s’est retrouvé chez l’amiral, il n’a pas quitté la taverne seul, mais avec Gilles Barraud. Je pense que ce Gilles Barraud pourrait éclaircir la façon dont Taylor s’est retrouvé chez l’amiral.}
+ISS_ElisHusband.9 {Il s’est avéré que c’est Gilles Barraud qui a envoyé Taylor, complètement ivre, chez l’amiral pour semer le trouble. Je dois tout raconter à Capper ; peut-être qu’il laissera partir Maxim.}
+ISS_ElisHusband.10 {Après que l’amiral a appris l’implication de Gilles Barreau dans l’affaire Taylor, il a accepté d’accorder à Maxim une nouvelle chance de réparer les choses. Tu dois maintenant rendre visite à Alice pour lui annoncer la nouvelle et recevoir la récompense promise.}
+LSC_findDekster {Pirate disparu Layton Dexter}
+LSC_findDekster.1 {D’après les rumeurs, Lea Toors aurait parlé de quelqu’un appelé Leighton Dexter. Je me demande bien qui est ce Dexter…}
+LSC_findDekster.2
+{
+C’est Royel Haag qui m’a parlé d’un pirate nommé Leighton Dexter. Apparemment, il s’est attiré des ennuis avec Chad Capper, puis il a disparu.
+C’est tout ce que j’ai pu apprendre. Royel m’a dit que si je voulais en savoir plus, je devrais parler à Lea Toors.
+}
+LSC_findDekster.3 {Lea Toors m’a raconté une histoire des plus intéressantes. Il s’avère que Chad Capper et Leighton Dexter étaient autrefois de très proches amis. Mais à un moment donné, des désaccords sont apparus entre eux. Peut-être d’ordre financier. Il est probable que cette dispute ait mené à une bagarre entre eux à bord du cuirassé 'Tartarus'. Je devrais essayer de questionner Chad avec précaution au sujet de Leighton Dexter—peut-être laissera-t-il échapper quelque chose.}
+LSC_findDekster.4 {Le geôlier du 'Tartarus', Thomas Boyle, semble un peu dérangé. Il m’a dit que Leighton Dexter se trouve derrière la porte de la prison du 'Tartarus' !}
+LSC_findDekster.5 {L’amiral a dit que Leighton Dexter avait été puni et qu’il garde désormais son argent, qu’il avait apparemment tenté de voler.}
+LSC_findDekster.6
+{
+Ho-ho-ho !!! On dirait bien que Layton Dexter a été retrouvé. Et il garde vraiment l’argent de Chad Capper. L’amiral a décidément un sens de l’humour bien à lui.
+Ah, si seulement je pouvais trouver la clé de ce coffre ! Je ne pense pas que Layton m’en voudrait d’y jeter un œil, hé hé...
+}
+LSC_findDekster.7 {Bon sang ! Thomas Boyle disait donc la vérité. Leighton Dexter se trouve bien derrière la porte qu’il a indiquée ! Et ce petit coffre à côté de Leighton doit être la fameuse pomme de discorde entre l’amiral et Dexter. Si seulement je pouvais trouver la clé…}
+LSC_findDekster.8 {À bord du Tartarus, je suis tombé sur un squelette humain, et tout près—un coffre fermé à clé. Si seulement je pouvais trouver la clé de ce coffre...}
+LSC_findDekster.9 {À bord du Tartarus, je suis tombé sur un squelette humain, et tout près—un coffre fermé à clé. À en juger par tout cela, le squelette doit être tout ce qu’il reste du pauvre Layton Dexter. Quant au coffre, j’imagine que c’est la pomme de discorde entre Capper et Dexter. Si seulement je pouvais trouver une clé pour ce coffre...}
+LSC_findDekster.10
+{
+D’après les rumeurs, j’ai appris que l’amiral a perdu une clé qui lui est très précieuse et qu’il la cherche partout dans la Ville. Il est possible que cette clé ouvre le coffre près du squelette !
+Je dois essayer de retrouver la clé perdue avant l’amiral.
+}
+LSC_findDekster.11 {Je n’ai pas réussi à retrouver la clé perdue par l’amiral avant lui. Dommage. Il semble que je n’aurai plus accès au contenu de ce précieux coffre…}
+LSC_findDekster.12 {La clé perdue par l’amiral a été retrouvée. Je peux maintenant vérifier si mon intuition sur le coffre qu’elle ouvre était juste.}
+LSC_findDekster.13 {L’un des miliciens, John Workman, s’est montré intéressé en apprenant que je cherchais Layton Dexter. Il m’a demandé de remettre un certain amulette en forme de dent de requin à l’homme disparu. Il m’a aussi demandé de transmettre ses salutations à Thomas Boyle, qui est détenu dans la prison locale sur le 'Tartarus'.}
+LSC_findDekster.14 {Le geôlier Thomas Boyle a reçu son salut. Au cours de la conversation, il s'est avéré que derrière la porte verrouillée se trouve une ancienne cellule d'isolement. Je dois inspecter la pièce à la nage, car la seule entrée se fait depuis l'extérieur.}
+LSC_findDekster.15 {De toute évidence, je ne pourrai plus remettre l’amulette dent de requin à Leighton. Il faut que je pense à informer Workman du sort de Dexter. Sans doute...}
+LSC_findDekster.16
+{
+Au cours de la conversation avec John, il s’est avéré que Leighton Dexter était son ami proche, ainsi que la main droite du pirate Shark Dodson, mort dans des circonstances mystérieuses il y a quelques années. John en a conclu que l’amiral était personnellement impliqué dans la mort de Leighton, mais le mobile du meurtre reste obscur. Le conflit entre Leighton et Chad était probablement d’ordre idéologique ou personnel, et n’avait rien à voir avec l’argent ou le profit.
+~
+Il m’a semblé que la vieille garde — les anciens pirates de Dodson — doutait de la politique d’isolement de la ville menée par l’Amiral. Cependant, la plupart de la milice est désormais composée de nouveaux venus fidèles à Capper, donc il est peu probable que les anciens se révoltent encore.
+~
+L’amulette de Shark Dodson m’appartient désormais. Un objet intrigant…
+}
+LSC_findDekster.17 {La clé correspondait au coffre. Les trésors de Layton Dexter sont à moi désormais.}
+LSC_findDekster.18 {Je ne veux rien dire à Workman au sujet de Leighton ou de son sort. Je n’ai pas besoin de l’amulette non plus — je la déposerai près des restes de Leighton.}
+TakeVineToPrisoner {Mission de Dominique Legros}
+TakeVineToPrisoner.1 {Dominic Legros m’a demandé de trouver une bouteille de vin quelque part et de la remettre à son ami Thomas Boyle, qui est geôlier sur le cuirassé 'Tartarus'.}
+TakeVineToPrisoner.2
+{
+Eh bien, j'ai bien apporté une bouteille de vin à Thomas Boyle. Cependant, il m'a demandé de dire à Dominique Legros qu'il lui couperait les oreilles, et en courant, en plus. Voilà qui est... surprenant.
+
+Je dois trouver Dominique et l'informer que Boyle est très mécontent de lui.
+}
+TakeVineToPrisoner.3 {Dominic m’a demandé de retourner voir Boyle pour découvrir les raisons de son mécontentement. Legros a juré qu’il n’avait aucune idée de ce qui se passait...}
+TakeVineToPrisoner.4 {Il semble que Boyle n'apprécie pas les avances de Dominique Legros envers la serveuse de la taverne, Armo Dulin.}
+TakeVineToPrisoner.5 {Dominique Legros affirme qu’il ne faisait que discuter avec Armo. Je dois lui parler pour découvrir ce qui s’est réellement passé.}
+TakeVineToPrisoner.6 {Il semble que j’aie réussi à réconcilier les amis. Je dois maintenant informer Dominic du succès des négociations avec Thomas.}
+TakeVineToPrisoner.7 {En récompense pour avoir aidé mes amis, j'ai reçu une simple clé de coffre de Dominique Legros.}
+TakeVineToPrisoner.8 {On raconte qu’un certain original, Dominique Legros, cherche une bouteille de vin. Je devrais lui demander pourquoi elle est si difficile à trouver.}
+TakeVineToPrisoner.9 {Armo a expliqué que tout ce qui se passe entre les amis n’est qu’un malentendu. Legros n’a franchi aucune limite, il a simplement fait une blague malheureuse sous l’emprise de l’alcool. Elle ne lui en veut pas. Maintenant, il te faut essayer de convaincre Boyle de cela.}
+FindMapLSC {Trouver la carte de la Cité des Navires Perdus}
+FindMapLSC.1 {Un citoyen de la ville, George Stokes, m'a dit que la carte de la Ville se trouve à la boutique. Il a aussi exprimé des doutes quant au fait qu'il n'existe qu'un seul exemplaire de cette carte.}
+FindMapLSC.2 {La serveuse m’a dit qu’un certain Erik Yost vend la carte de la Ville sur le galion 'Esmeralda'.}
+FindMapLSC.2_1 {Le barman m’a dit de demander la carte de la Ville à Erik Jost au magasin.}
+FindMapLSC.3 {Dieu merci, la carte de cet endroit existe vraiment ! Je dois vérifier au comptoir combien elle coûte. J’espère juste que ce ne sera pas hors de ma portée...}
+FindMapLSC.4
+{
+Ouais... J’ai bien trouvé la carte... Mais Erik Yost, le marchand du coin, s’est révélé être un sacré profiteur ! Je comprends que les cartes de l’archipel ou des régions coûtent une fortune—ce sont de vraies études géographiques—mais gribouiller deux navires sur un bout de papier et exiger autant d’argent pour ça ! C’est du vol en plein jour !
+
+Cela dit, le commerçant m’a donné une idée intéressante : je pourrais me plaindre de ses prix scandaleux auprès des habitants. Il paraît que ce sont les femmes qui tiennent les foyers ici, donc ce sont elles qui font la plupart des achats. Je devrais leur parler. Elles connaissent sûrement des astuces pour traiter avec ce marchand rusé.
+}
+FindMapLSC.5 {Après avoir parlé avec une habitante, j'ai appris que Joost a l'habitude de surfacturer la carte de la Ville aux nouveaux arrivants. Elle m'a conseillé de m'adresser à Monica Wright, qui pourrait avoir une certaine influence sur Eric.}
+FindMapLSC.6 {Il semble que nous ayons découvert le talon d’Achille de notre marchand inébranlable : Monica Wright. Apparemment, ils entretiennent une relation plutôt chaleureuse et tendre, alors il y a une chance que la jeune femme puisse influencer Eric et le convaincre de baisser le prix à quelque chose de raisonnable. Il ne reste plus qu’à passer à la boutique le lendemain—une fois que Joost aura été convenablement « charmé » par les atouts féminins.}
+FindMapLSC.7 {Excellent ! L’éternel point faible de tous les hommes a encore frappé : Erik a fondu et baissé le prix. Il ne reste plus qu’à acheter la carte à bon prix.}
+FindMapLSC.8 {Enfin ! D'une façon ou d'une autre, j'ai enfin la carte de la Cité des Navires Perdus. Désormais, se déplacer entre les lieux importants de l'Île sera bien plus facile.}
+LSC_Ring {Le secret de la 'Santa Lucia'}
+LSC_Ring.1
+{
+Malcolm Fawn, un ancien contrebandier, m’a proposé une expédition vers l’anneau extérieur des navires, où il a repéré une autre pinasse “encore intacte” et suggéré qu’on fouille ses compartiments à la recherche de trésors. Le hic, c’est que la cale du navire est envahie par des “crabes géants”, et Malcolm en a une peur bleue. Ma mission : débarrasser le navire de ces crabes. Quoi de plus simple ? Nous partagerons tout ce que nous trouverons à parts égales.
+L’expédition est prévue pour demain à 8h du matin. Je dois me présenter sur la “pont incliné” — l’épave à demi submergée derrière Port-au-Prince. C’est là que commencera notre périple vers l’anneau extérieur.
+}
+LSC_Ring.2 {J'ai mis trop de temps, et Malcolm Fawn, ayant perdu espoir de m'attendre, est parti. Hélas, l'expédition vers l'anneau extérieur est annulée...}
+LSC_Ring.3 {Notre aventure commence ! Nous partons en mer vers l’anneau extérieur. Malcolm me guidera jusqu’à la pinasse, mais il faudra que je me débrouille seul avec les crabes—Fawn ne pourra rien pour moi ici.}
+LSC_Ring.4 {J’ai eu tort de me moquer de l’absurdité d’un combat contre des crabes… Le combat n’a pas été facile, mais la victoire est mienne. Les crabes qui avaient envahi la cale du pinasse ont été éliminés. Je peux maintenant fouiller la cale en paix.}
+LSC_Ring.5 {Il y avait aussi des crabes sur le pont. J’ai dû débarrasser cette saleté. Les résultats, cependant, sont pour l’instant décevants : nous n’avons trouvé aucun objet de valeur à bord, et la cargaison de coprah dans la cale du pinasse n’intéressera personne.}
+LSC_Ring.6 {Le malin Fawn a découvert une cachette secrète dans la cabine du capitaine, et nous avons partagé son contenu équitablement. Le butin s’élevait à 20 000 piastres, deux coffres d’or, une collection de trésors et 25 émeraudes chacun. Pas mal, et même si Malcolm en espérait davantage, je considère notre expédition comme un vrai succès.}
+LSC_Ring.7 {Quelle aventure ! Ce malin de Fawn a découvert une cachette secrète dans la cabine du capitaine, et nous avons partagé le butin à parts égales. Le lot : 20 000 piastres, deux coffres d’or, une collection de trésors et 25 émeraudes chacun. Mais ce n’est qu’un début... D’après les notes du journal de bord que nous avons trouvées, une caisse entière d’or serait cachée dans la cale du pinasse, au milieu de la coprah ! Nous partons à sa recherche.}
+LSC_Ring.8
+{
+L’or du « Santa Lucia » a été retrouvé. Littéralement : un coffre rempli d’or. À présent, une tâche à la fois agréable et délicate m’attend : mettre ma part à l’abri avant que quelqu’un d’autre ne s’en empare.
+En contemplant ces pépites d’or, je suis envahi par des sentiments étranges et contradictoires... Les lignes du journal de bord relatant la tragédie survenue à bord résonnent dans mon esprit, et une image floue s’impose à moi : celle du capitaine sans nom et de sa bien-aimée indienne, Vavaya...
+}
+LSC_Ring.9 {Le barman @<sName> dit qu’un certain Malcolm Fawn me cherche et a affaire à moi. Je devrais le trouver et découvrir ce qu’il veut. De toute façon, Hill est occupé à récolter des informations pour nous.}
+LSC_Ring.10 {J’ai trouvé l’offre de Malcolm Fawn sans intérêt. Qu’il fasse voguer lui-même ses épaves autour de l’anneau extérieur.}
+LSC_Ring.11 {L’or du 'Santa Lucia' a été retrouvé. Littéralement : un coffre rempli d’or. Avec l’aide de Malcolm, j’ai réussi à transférer le coffre dans la malle du Diffindur. J’espère que cette fois, rien ne disparaîtra de ma réserve...}
+LSC_Drink {Cul sec}
+LSC_Drink.1 {Pedro Hurtado m’a proposé une affaire intrigante : fouiller dans le coffre de mon rusé ami, Malcolm Fawn. Il a imaginé un plan astucieux pour y parvenir : soûler le contrebandier jusqu’à ce qu’il perde la tête. Eh bien, tentons le coup…}
+LSC_Drink.2 {C’est Malcolm lui-même qui a proposé qu’on joue à « boire jusqu’au fond », ou plutôt, « la tête sur la table ». Le concours de chopines entre Fawn et moi commence ce soir à neuf heures à la taverne. Je ne dois surtout pas être en retard, sinon mon argent est perdu. Mais est-ce que j’arriverai vraiment à boire plus que ce cochon ? Je n’en suis pas sûr…}
+LSC_Drink.3 {Malcolm s’est révélé coriace. On a eu du mal à lui écraser la tête sur la table. Pedro a la clé—direction le galion Velasco. Je ne doute pas de notre réussite—Fawn ne se réveillera pas de sitôt.}
+LSC_Drink.4 {Pas étonnant que Malcolm Fawn se vantait—il est comme un tonneau sans fond... Je n’ai pas pu tenir le rythme et me suis évanoui sur place. Mon argent a disparu, et le plan de Pedro a échoué. Ah, quel dommage !..}
+LSC_Drink.5 {Grâce à la clé, je suis entré sans difficulté dans la cabine du galion 'Velasco' et j'ai ouvert le coffre. L'argent que j'ai pu emporter, Pedro et moi l'avons partagé à parts égales.}
+LSC_Drink.6 {Grâce à la clé, je suis entré sans difficulté dans la cabine du galion 'Velasco', j’ai ouvert le coffre, mais je n’ai rien pu en prendre. Dommage que tout ce plan ait finalement échoué.}
+LSC_Drink.7 {J’ai trop tardé à rendre visite à Malcolm Fawn, et Pedro a fini par abandonner l’attente. Tant pis pour lui—ma conscience n’en sera que plus légère...}
+LSC_Drink.8 {Le barman @<sName> dit que Pedro Hurtado s’est renseigné sur moi. Je ferais bien de découvrir ce que ce vaurien mijote cette fois-ci. J’irai le voir pendant que Hill tente de recueillir des informations.}
+SeekDoubleMushket {Mousquet exclusif}
+SeekDoubleMushket.1
+{
+Humphrey Douglas, un mousquetaire anglais à la retraite, m’a demandé de retrouver son mousquet à deux canons perdu. Cette arme lui a été prise lors d’une attaque de pirates. On ignore qui étaient ces corsaires. Cependant, Humphrey a entendu l’équipage de son navire crier à propos d’une sorte de flèche. Je ne pourrai rien faire sans l’aide des pirates. Je dois interroger les chefs des colonies pirates à ce sujet.
+Si je parviens à retrouver ce mousquet, Humphrey rejoindra mon équipage en tant qu’officier.
+}
+SeekDoubleMushket.2
+{
+Apparemment, le navire de Humphrey a été attaqué par un corsaire très particulier, Albert Sievert. Il ne fait pas partie de la Fraternité de la Côte, donc on ne peut pas le retrouver via les pirates. Jackman a dit que Sievert est toujours en mer, naviguant entre les criques des îles.
+Jackman m’a conseillé de surveiller attentivement les navires de passage. Je dois retrouver la brigantine 'Arrow'.
+}
+SeekDoubleMushket.2_2
+{
+Apparemment, le navire de Humphrey a été attaqué par un corsaire très inhabituel, Albert Sievert. Il ne fait pas partie de la Fraternité de la Côte, il est donc impossible de le retrouver via les pirates. Bartholomew Rogers a dit que Sievert est toujours en mer, naviguant entre les criques des îles.
+Rogers m’a conseillé de parler à Rolando Pizarro, un ancien pirate qui possède maintenant une taverne à Portobelo. Il a déjà eu affaire à Sievert et pourrait en savoir plus sur lui. Je dois aussi surveiller attentivement les navires de passage. Il me faut retrouver la brigantine « Arrow ».
+}
+SeekDoubleMushket.3 {J'ai réussi à retrouver et rendre son mousquet à Humphrey Douglas. Maintenant, Humphrey est mon officier, ce qui est plutôt bien.}
+SeekDoubleMushket.4 {D’après Rolando Pizarro, la brigantine 'Arrow' a mis le cap sur un endroit appelé @<sShore>. Je dois m’y rendre au plus vite...}
+SeekDoubleMushket.5 {Rolando Pizarro a exigé pas moins de 100 000 piastres pour des informations sur l’« Arrow ». Je n’avais pas une telle somme. Tant pis, je vais devoir chercher la brigantine par moi-même.}
+SeekDoubleMushket.6 {Rolando Pizarro a exigé pas moins de 100 000 piastres pour des informations sur l’« Arrow ». J’ai refusé. Pour une telle somme, je trouverai cette brigantine moi-même.}
+SeekDoubleMushket.7 {Quelle malchance ! J'ai mis trop de temps à rejoindre Portobelo. Rolando connaissait la baie où je pouvais trouver l’« Arrow », mais le temps est perdu—elle n’y est plus. Je vais devoir chercher par moi-même...}
+SeekDoubleMushket.10 {La brigantine que je cherchais a disparu. Maintenant, je ne pourrai pas obtenir le mousquet à deux canons.}
+CapBloodLine_q1 {Chirurgien}
+CapBloodLine_q1.1 {Je dois me rendre immédiatement au manoir du gouverneur pour voir comment je peux aider Mme Steed.}
+CapBloodLine_q1.2 {Le gouverneur Steed m’a dit que sa femme souffre à nouveau d’une crise de migraine et n’arrive pas à se calmer. Je pense que je devrais l’examiner. Elle est dans la chambre à droite, au deuxième étage.}
+CapBloodLine_q1.3 {Je dois me dépêcher d’aller au port et rendre visite à M. Dan, l’apothicaire. Il me semble qu’il a dit que sa maison se trouve près de la résidence du gouverneur.}
+CapBloodLine_q1.4 {Le gouverneur a alloué des fonds pour l'achat de médicaments. J'ai reçu @<iMoney>.}
+CapBloodLine_q1.5 {Le gouverneur m’a remis 2 500 piastres en main propre pour acheter des médicaments pour sa femme, mais il a exigé un compte rendu à mon retour...}
+CapBloodLine_q1.6 {M. Dan n’était pas chez lui, j’ai donc dû trouver le médicament moi-même. Maintenant, je dois vite retourner au domaine...}
+CapBloodLine_q1.7 {J'ai attendu M. Dan, qui m'a volontiers donné son remède contre la migraine. Maintenant, je dois vite retourner au domaine...}
+CapBloodLine_q1.8 {En quittant la maison, je suis tombé sur l’apothicaire et je l’ai dupé pour obtenir un autre remède contre la migraine.}
+CapBloodLine_q1.9 {Tout va bien ; j’ai réussi à aider la femme du gouverneur. Comme il est tard et que les portes de cette fichue plantation Bishop sont fermées depuis longtemps, on m’a permis de rester en ville et on m’a donné une chambre à la taverne. Quel bonheur, même pour une nuit, de se sentir à nouveau une personne, et non un esclave...}
+CapBloodLine_q2 {Offre de Wacker}
+CapBloodLine_q2.1 {Chez l’apothicaire, j’ai rencontré le docteur Wacker, qui souhaite me parler à l’abri des regards et des oreilles indiscrètes. Demain, quand j’aurai un moment, je devrais passer à la taverne.}
+CapBloodLine_q2.2
+{
+Le matin est arrivé. Maintenant, Bishop va me trouver et sûrement m’envoyer quelque part pour toute la journée. Par exemple, soigner quelques pauvres esclaves innocents qu’il a probablement malmenés et punis hier soir pour une broutille, juste par dépit parce que je ne suis pas rentré avant la fermeture des portes...
+Mais je dois découvrir ce que Wacker me veut. Pas une minute à perdre.
+}
+CapBloodLine_q2.3 {Je suis allé à la taverne, mais Vaker n'est pas là. Zut ! Il faut que je le retrouve... Je vais demander à l'aubergiste.}
+CapBloodLine_q2.4 {Il semble que je sois vraiment un obstacle de taille pour les honorables Wacker et Bronson, puisque la possibilité de mon évasion est devenue le sujet de notre conversation peu amicale. Il ne fait aucun doute que le docteur Bronson sait parfaitement ce qui se passe, et Wacker coordonne tous ses actes avec lui. Pourtant, qui suis-je pour m’en plaindre ? C’est ma seule chance ! Je devrais chercher Jeremy Pitt.}
+CapBloodLine_q2.5 {J’ai réussi à convaincre Pitt de se lancer dans cette aventure. Maintenant, l’essentiel est de recruter des hommes, de préparer tout ce dont nous avons besoin, et d’obtenir demain l’argent pour le sloop auprès de Wacker. Parmi les esclaves, seuls quatre ont des connaissances en navigation : Hagthorpe, Ogle, Wolverstone et Nicholas Dyke. Je dois parler à chacun d’eux.}
+CapBloodLine_q2.6 {Il est temps de retourner à la taverne et de parler à Wacker. En fait, il n’y a plus rien à discuter — il suffit de récupérer l’argent pour le sloop.}
+CapBloodLine_q2.7 {Le docteur Wacker n’a réussi à obtenir que 18 000 piastres. Il en faut encore environ 7 000 pour acheter la goélette. Eh bien... Il y a toujours du travail à trouver au port pour qui le cherche—décharger au magasin, faire des courses pour des personnages louches ou accepter des petits boulots des habitants. Au pire, tu peux toujours t’adresser à l’usurier local...}
+CapBloodLine_q2.8 {J’ai réuni la somme nécessaire et envoyé Nettall acheter le sloop. Il ne reste plus qu’à attendre...}
+WeaponsForEscape {Armes pour l’évasion}
+WeaponsForEscape.1 {Tout devrait rester calme, mais avoir quelques armes sous la main ne fait jamais de mal. Il est peu probable que quelqu’un en ville accepte de m’en vendre, et je ne peux tout simplement pas me résoudre à voler à un moment aussi crucial... Il va falloir trouver une autre solution à ce problème.}
+WeaponsForEscape.2 {L’aubergiste m’a conseillé de parler à M. Griffin au sujet des armes — c’est un vieux armurier qui habite près du manoir du gouverneur.}
+WeaponsForEscape.3 {Le maître armurier Griffin a été audacieusement dévalisé : un bandit espagnol s’est emparé de ses échantillons, portant le nom du maître gravé sur les lames, et s’est rendu chez le pêcheur Hells. Si on l’attrape ou qu’on le voit avec des armes de M. Griffin, ils seront tous deux pendus à l’aube. Je dois immédiatement poursuivre le voleur, le désarmer, puis restituer tout ce qui a été volé à son propriétaire légitime. Si j’y parviens, M. Griffin terminera la commande de sabres d’abordage et de pistolets sans marques d’identification pour ce soir contre @<iMoney>.}
+WeaponsForEscape.4 {Je n’ai pas réussi à m’entendre avec l’armurier. Je ne dirais pas que ça me contrarie vraiment — faire affaire avec ce vieil homme arrogant n’aurait rien donné de bon de toute façon. Je trouverai un autre moyen de me procurer des armes.}
+WeaponsForEscape.5 {Je n’avais pas le choix — le pêcheur s’est mis en travers de ma route, ce à quoi je ne m’attendais pas du tout. Pourtant, d’une certaine façon, je devrais lui être reconnaissant, puisqu’il m’a évité d’avoir à affronter l’Espagnol. Hells avait 2 000 piastres sur lui, dont une partie appartenait sûrement au bandit. En plus de cela, j’ai trouvé un paquet d’échantillons de Griffin sur l’Espagnol — il est temps de retourner chez l’armurier.}
+WeaponsForEscape.5_1 {J’ai eu de la chance : le pêcheur Hells était encore assez agité après le combat, mais j’ai réussi à le calmer. Après une brève négociation, il m’a permis de prendre des échantillons d’armes sur le cadavre de l’Espagnol. J’ai laissé à Hells l’argent trouvé sur le mort — c’était juste, en compensation de l’attaque. Je peux maintenant retourner chez l’armurier avec le paquet d’échantillons.}
+WeaponsForEscape.6 {Dans une heure, je dois aller voir M. Griffin pour ma commande.}
+WeaponsForEscape.7 {Dans la rue, j’ai croisé un homme qui semblait espagnol. J’ignore comment il est arrivé ici, mais il est clair que ses intentions ne sont pas bonnes. Il veut quelque chose de M. Griffin, l’armurier.}
+WeaponsForEscape.8 {Cela fait plus de dix minutes et toujours aucune nouvelle. De toute évidence, je n’ai pas d’autre choix que d’y retourner.}
+WeaponsForEscape.9 {M. Griffin m’a donné tout ce dont j’avais besoin pour le remercier de lui avoir sauvé la vie.}
+WeaponsForEscape.10 {Le marchand de la place du marché, dont j’ai eu la chance de sauver le fils d’un triste sort, m’a donné un paquet contenant tout le nécessaire pour les imprévus. La chance est de mon côté—trouver une arme dans ma situation actuelle est extrêmement difficile. Je dirais même que c’est presque impossible. Mais j’ai d’autres soucis aussi...}
+WeaponsForEscape.11 {À la taverne, j’ai eu le plaisir de discuter avec un contrebandier qui m’a paru plutôt étrange. Non seulement il possède les armes qu’il me faut en quantité suffisante, mais au lieu de demander une cargaison d’esclaves en échange, comme on pourrait s’y attendre, il veut une bague provenant du manoir du gouverneur. Comment peut-il être au courant de cette bague ? Et pourquoi y tient-il tant, au point d’échanger des armes contre elle ? Quoi qu’il en soit, ma tâche est maintenant de retrouver cette bague.}
+WeaponsForEscape.12 {Je n’ai pas pu approcher le gouverneur. À moins qu’il ne donne l’ordre, les gardes ne me laisseront pas passer. Et il ne le fera pas tant que lui et sa femme seront en sécurité. Il me faut donc un prétexte extérieur...}
+WeaponsForEscape.13 {Grâce à la naïveté de M. Dan, j’ai maintenant une chance d’entrer dans la résidence. Je ne vais pas perdre de temps.}
+WeaponsForEscape.14 {Incroyable : la bague dont parlait le contrebandier est là, bien en vue sur la table. Madame Steed ne la porte vraiment pas.}
+WeaponsForEscape.15
+{
+Heureusement, l’affaire s’est réglée par une petite ruse, sans qu’il soit nécessaire de recourir au vol. Mme Steed m’a elle-même remis la bague, qu’elle dit avoir trouvée près de son lit ce matin.
+La bague en elle-même paraît tout à fait ordinaire—en or, sans aucune pierre précieuse—mais elle est incroyablement lourde pour sa taille et son type.
+Comment le contrebandier a-t-il appris l’existence de cette bague ? Et pourquoi la veut-il ? Après tout, est-ce vraiment mon problème ? Je ferais mieux de retourner à la taverne pour récupérer ma récompense.
+}
+WeaponsForEscape.16 {Le contrebandier a récupéré sa bague, et moi, j’ai obtenu l’arme et l’argent. L’objet était certes intriguant, mais je n’ai tout simplement pas le temps de l’étudier. Quoi qu’il en soit, la mission est accomplie : j’ai l’arme.}
+HugtorpTrouble {Le problème de Hagthorpe}
+HugtorpTrouble.1 {Il y a un homme nommé Stuart Winterwood à Bridgetown. Tout ce qu’il faut à Hagthorpe pour me rejoindre, c’est la mort de l’Anglais qui lui a tout pris et l’a réduit en esclavage. J’ignore comment cela s’est passé exactement, mais je n’ai pas le choix : je dois tuer Winterwood. On peut le trouver à la taverne ou au bordel.}
+HugtorpTrouble.2 {Hagthorpe ne voulait pas naviguer avec moi. Son ennemi juré, Stuart Winterwood, est en ville. Cet homme l’a autrefois déshonoré, lui prenant tout : son honneur, sa famille, sa liberté. À cause de lui, Hagthorpe s’est retrouvé enchaîné. Mais j’ai réussi à le dissuader de son projet insensé de vengeance, et il a accepté d’embarquer avec moi, remettant à plus tard l’exécution du scélérat.}
+HugtorpTrouble.3 {J'ai réussi à mettre Stuart Winterwood en colère et à le provoquer en duel. Nous nous retrouverons en tête-à-tête, dans une heure, devant les portes de la ville — je pense qu'il vaut mieux ne pas être en retard.}
+HugtorpTrouble.4 {Ça n’a pas été facile, mais j’ai tué Winterwood. Je doute que Stuart ait encore besoin des mille piastres qu’il avait sur lui. Je devrais retourner voir Hagthorpe.}
+HugtorpTrouble.5 {Après avoir appris la mort de Winterwood, Hagthorpe a accepté de me rejoindre.}
+DiekeQuest {Officier subalterne Nicholas Dyke}
+DiekeQuest.1 {Le colonel Bishop a choisi le pire moment possible pour vendre Nicholas Dyke, qui fut autrefois un jeune officier. Nicholas est persuadé qu’il n’y a plus rien à faire, mais… je dois tout tenter pour empêcher cet accord.}
+DiekeQuest.2 {L’acheteur s’appelle Weston. Je dois découvrir au plus vite qui il est et où le trouver.}
+DiekeQuest.3 {Un marchand jamaïcain est récemment arrivé en ville avec une cargaison. C’est un vieil ami de Bishop. Il s’agit probablement de Weston. Je dois trouver sa maison et voir ce que je peux faire.}
+DiekeQuest.4 {Charlie Weston comptait apparemment obtenir Dyke à bon prix. Il a mis de côté quelques milliers de piastres et une idole curieuse pour Bishop. Je pense que je vais tout garder pour moi—ça pourrait servir. Bishop se fait déjà suffisamment plaisir comme ça.}
+DiekeQuest.5 {Excellent ! Nicholas se joindra à nous pendant l’évasion.}
+OglQuest {Canonnier borgne}
+OglQuest.1 {Le seul canonnier-artilleur à ma disposition a contracté un prêt de 5 000 piastres auprès de l’usurier. Je ne peux tout simplement pas prendre la mer sans Ogle — le risque est trop grand. Il faut que je trouve l’argent et que je règle la dette du vieil homme.}
+OglQuest.2 {J’ai réglé la dette d’Ogla. J’espère que cela le convaincra de nous rejoindre.}
+OglQuest.3 {Excellent ! Ogle vient avec nous.}
+FishermanQuest {Coin de pêche}
+FishermanQuest.1 {Le pêcheur Hells m’a confié une mission : je dois découvrir quel coin de pêche un autre pêcheur, Arnold Summerlight, a trouvé. Hells m’a promis 2 000 piastres pour ce travail.}
+FishermanQuest.2 {J'ai réussi à découvrir où Summerlight pêche. Il ne me reste plus qu'à prévenir Hells et récupérer mon argent.}
+UsurerQuest {Débiteur sans nom}
+UsurerQuest.1 {Le prêteur m’a confié une mission de 3 000 piastres : retrouver un imposteur en ville qui a contracté un prêt au nom de Raphael Guinness, profitant de la confusion du matin. Je ne sais même pas par où commencer. L’aubergiste, comme toujours, exigera de l’argent pour toute information… Mais qui d’autre pourrait m’aider ?}
+UsurerQuest.2 {J’ai dû donner cinq cents pièces à l’aubergiste pour obtenir des informations sur ce Guinness. Il m’a dit que Raphael avait trouvé de l’argent pour un navire et était parti conclure l’affaire. Il semble que l’aubergiste ne le connaisse pas vraiment, puisqu’il prend apparemment l’imposteur pour le vrai Guinness. Je devrais passer au chantier naval.}
+UsurerQuest.3 {J’ai réussi à jouer mon rôle plutôt bien... Pourquoi ai-je donc choisi le service plutôt que le théâtre ? Effrayé, l’imposteur — dont le vrai nom est Alex Winner — m’a remis toutes ses économies : 55 000 piastres. Je soupçonne qu’une partie de cet argent appartient à l’usurier.}
+UsurerQuest.4 {Craignant la justice, Raphael-Alex m’a accordé le prêt. Maintenant, je dois rendre l’argent à l’usurier et récupérer ma part, ou bien… ?}
+UsurerQuest.5 {Je n’ai pas réussi à récupérer l’argent auprès du prêteur — cet escroc n’a rien avoué, s’est mis à protester, puis s’est précipité dans les rues de la ville, où je ne peux plus le retrouver...}
+PirateQuest {Pirate déchu}
+PirateQuest.1 {Dans la boutique, j’ai rencontré un pirate amusant nommé Jacques Nightingale… le capitaine Jacques Nightingale. Un personnage intéressant… Mais quoi qu’il en soit, l’occasion de gagner 1 500 piastres est aussi une bonne raison de faire connaissance. J’obtiendrai cette somme si je trouve un capitaine prêt à emmener mon nouvel ami à Port Royal pour trois mille.}
+PirateQuest.2 {Le chef de l’autorité portuaire a mentionné le capitaine Miner, qui vient tout juste de s’enregistrer pour un départ vers Port Royal. Sans évoquer le nom de Solovey, j’ai pu obtenir l’information. Il ne me reste plus qu’à retrouver ce John Miner quelque part en ville.}
+PirateQuest.3 {Après avoir appris l’identité du passager, le chef de l’autorité portuaire m’a raconté l’histoire de la chute de ce pirate. En confiant la carte au trésor à son second, Solovey ne se doutait pas que l’équipage aurait l’idée d’y rouler du tabac et de la fumer. Une fois dégrisés, les pirates ont tout mis sur le dos de Jacques, puis l’ont abandonné sur une île pour le laisser mourir. Par miracle, Jacques Solovey a réussi à s’échapper, mais il est maintenant dans une situation difficile : il doit non seulement récupérer son navire, mais aussi se venger du nouveau capitaine. Je lui souhaite bonne chance, mais pour l’instant, je dois parler au capitaine John Miner, qui a signalé à l’autorité portuaire qu’il mettrait bientôt le cap sur Port Royal.}
+PirateQuest.4 {John Miner, capitaine du 'Floating Briton', a accepté d’emmener Jacques Nightingale à Port Royal pour trois mille. Il ne reste plus qu’à trouver ce pirate, l’en informer, puis récupérer l’argent.}
+PirateQuest.5 {J'ai récupéré mon argent auprès de Jacques le Rossignol, même s'il n'était visiblement pas pressé de s'en séparer. Un personnage plutôt amusant.}
+PirateQuest.6 {Je n'ai pas trouvé de navire pour emmener le pirate tombé. Je suppose qu'il saura se débrouiller tout seul...}
+EscapeFormBarbados {Évasion de la Barbade}
+EscapeFormBarbados.1 {Notre plan d’évasion est sur le point de s’effondrer. Le colonel Bishop a retrouvé Jeremy Pitt alors qu’il faisait les derniers préparatifs pour le départ. J’ai décidé d’essayer de libérer notre navigateur dès la tombée de la nuit. Au fait, Jeremy a caché des armes dans un coffre entre les lames du plancher, à la lisière de la plantation ; il serait bon d’y accéder. Pendant ce temps, les autres se faufileront en ville et nous attendront là-bas, cachés au chantier naval.}
+EscapeFormBarbados.2 {J’ai réussi à libérer Pitt des hommes de Bishop, mais il m’a appris que Nuttall s’était enfui sur notre sloop. Je dois prévenir Hagthorpe, Dyke, Ogle, Wolverstone et les autres avant qu’ils ne soient tous capturés.}
+EscapeFormBarbados.3 {Au moment le plus désespéré, le hasard aveugle s’est mêlé à nos plans. Le grand navire, autorisé à entrer si calmement dans la baie de Bridgetown sous pavillon étranger, s’est révélé être un corsaire espagnol. Il avait choisi pour son raid un moment où il n’y avait pas un seul navire de guerre dans la baie. Sa ruse fut si parfaite qu’il pénétra dans la baie sans éveiller le moindre soupçon et salua le fort à bout portant d’une bordée de vingt canons. Au coucher du soleil, deux cent cinquante Espagnols étaient devenus les maîtres de Bridgetown.}
+EscapeFormBarbados.4 {Réunis avec les autres, nous avons décidé de tenter de prendre un navire espagnol à la faveur de la nuit.}
+EscapeFormBarbados.5 {Nous avons réussi à capturer un magnifique navire aux Espagnols — le 'Cinco Llagas'. Nous pouvons enfin quitter la Barbade et trouver notre liberté.}
+TenochtitlanQuest {Tenochtitlan}
+TenochtitlanQuest.1 {Dans une baie appelée la Côte des Moustiques, j’ai rencontré un Espagnol nommé Silvio Ricci. Hurlant de panique, il m’a conseillé de fuir cet endroit au plus vite. De son récit confus, j’ai compris qu’un certain Don Esteban avait organisé une expédition vers une cité indienne, où Cortés lui-même avait régné il y a 150 ans ! L’expédition a connu une fin terrible, et seul Silvio Ricci a survécu.}
+TenochtitlanQuest.2
+{
+Un Aztèque nommé Montezuma m’a rencontré sur la rive devant Tenochtitlan. Après une longue conversation, Montezuma m’a proposé un marché : lui rapporter le crâne de jade de Mictlantecuhtli, le dieu des morts.
+D’abord, je dois lever la malédiction de feu qui pèse sur la digue reliant Tenochtitlan au rivage. Selon Montezuma, il existe deux façons d’y parvenir.
+1. Trouver le totem de Camaxtli, traverser le feu pour entrer dans la ville, puis placer ce totem sur la pierre sacrificielle.
+2. Trouver deux totems — celui de la déesse Tlazolteotl, dévoreuse d’impuretés, et celui du dieu du ciel et du soleil, Tonatiuh. Ensuite, les placer sur les pierres sacrificielles situées sur la rive devant la digue.
+Montezuma est un Indien très étrange. Il garde toujours quelque chose pour lui. Même maintenant, il semble savoir où se trouvent ces totems, mais il reste vague, prétextant des raisons obscures.
+Cependant, il m’a donné un indice sur l’endroit où chercher. J’ai retenu ses paroles mot pour mot.
+« Le totem de Camaxtli est plus proche que tu ne le crois. Le totem de Tlazolteotl n’est pas loin, dans l’herbe. Et le totem de Tonatiuh est perdu dans la jungle entre deux villes espagnoles situées sur l’isthme entre les continents. »
+}
+TenochtitlanQuest.3
+{
+J’ai réussi à lever la malédiction du feu. Ce n’est que le début.
+À présent, je dois trouver 10 totems des dieux aztèques pour les placer dans les 10 pierres sacrificielles situées dans les temples de ces dieux. Les temples se trouvent dans les petites pyramides de chaque côté de la grande pyramide, qui est le temple de la Grande Force Vitale.
+Cette fois, Moctezuma n’a donné aucun indice sur l’emplacement des 10 totems.
+Je vais devoir chercher partout dans le monde. Ainsi, il me faut trouver :
+1. Le Totem de Xochiquetzal, déesse des fleurs et de l’amour.
+2. Le Totem de Mictlantecuhtli, dieu des morts.
+3. Le Totem de Quetzalcoatl, dieu de l’étoile du matin, maître des éléments.
+4. Le Totem de Mixcoatl, dieu de la chasse.
+5. Le Totem de Tezcatlipoca, protecteur des prêtres.
+6. Le Totem de Chalchiuhtlicue, déesse de la mer et des lacs.
+7. Le Totem de Huitzilopochtli, dieu du ciel bleu et pur.
+8. Le Totem de Tlaloc, dieu de la pluie et des orages.
+9. Le Totem de Mayahuel, déesse de la fertilité.
+10. Le Totem de Tonacatecuhtli, dieu créateur, pourvoyeur de nourriture à l’humanité.
+Magnifique...
+}
+TenochtitlanQuest.4
+{
+Eh bien, j’ai vraiment dû me donner du mal aujourd’hui. D’abord, j’ai anéanti toute une armée d’Aztecs ressuscités, puis j’ai dû affronter le dieu aztèque des enfers en personne. J’ai réussi à lui prouver que les corsaires sont de redoutables combattants.
+Il m’a libéré, et le crâne de jade m’est resté en prime avec ma liberté. Excellent !
+Au fait, Mictlantecuhtli m’a révélé que le Montezuma que je connais n’est autre que le fantôme de Montezuma II, le dernier chef des Aztecs. Ce Montezuma est frappé d’une malédiction divine qui l’empêche d’entrer dans le royaume des morts et le condamne à errer sans fin sur les rives du lac Texcoco, autour de Tenochtitlan.
+Mictlantecuhtli a ajouté que le crâne de jade m’aidera.
+}
+TenochtitlanQuest.5 {Montezuma II m’a réclamé le crâne de jade. J’ai refusé de le lui remettre, car l’idée de voir renaître l’Empire aztèque m’a quelque peu troublé.}
+TenochtitlanQuest.6 {Posséder le crâne de jade m’a permis d’envoyer Montezuma dans le royaume des morts. Ainsi, Mictlantecuhtli ne m’a pas trompé — le crâne m’a vraiment aidé.}
+TenochtitlanQuest.7 {Les 10 totems des dieux aztèques ont tous été activés. J’ai réussi à ouvrir le Temple de la Grande Force Vitale.}
+MagicCity {Cité Enchantée}
+MagicCity.1 {Dans la ville de Caracas, une foule a lynché un malheureux venu de Maracaibo. Avant de mourir, il a réussi à me parler d’une malédiction qui aurait frappé toute la ville. Je devrais découvrir ce qui s’y passe.}
+MagicCity.2 {Tout semble aller bien à Maracaibo. Au cours de notre conversation, le tenancier de la taverne a mentionné qu’il existe un village de pêcheurs appelé Des Moines non loin de Maracaibo. Étrangement, cela fait un moment que personne de là-bas n’a été vu à la taverne...}
+MagicCity.3 {C'est incroyable d'avoir dû me frayer un chemin jusqu'à ce trou perdu !}
+MagicCity.3_1 {Grâce à la carte des eaux côtières, j’ai découvert l’emplacement du mystérieux village de Des Moines, ainsi que la façon d’y accéder.}
+MagicCity.3_2 {Un paquet sans apparence, enveloppé dans du papier gras et récupéré auprès de types peu aimables sur la côte, s’est révélé être un guide de navigation détaillé des eaux côtières locales. Il m’indiquera une route sûre vers la colonie à travers les hauts-fonds et les récifs. À présent, je sais comment m’y rendre.}
+MagicCity.3_3 {Il n’y a aucun village de pêcheurs ici. Devant moi, ce n’est qu’un mur impénétrable de jungle. Je perds mon temps ; il vaut mieux retourner au navire et décider de la suite.}
+MagicCity.3_4 {Pendant que je fouillais la jungle, l’un de mes marins a minutieusement fouillé les corps sur la plage et a trouvé un document qui s’est révélé être le guide du pilote pour la colonie de Des Moines. Et maintenant, je sais où elle se trouve.}
+MagicCity.4
+{
+Je n’ai jamais rien vu d’aussi terrifiant de toute ma vie ! Une ville entière peuplée de squelettes—beurk ! Mon domaine, c’est la mer, le navire et le vent... même les Indiens, à la rigueur, mais pas ce cauchemar avec toutes ces transformations. Non, je préfère ne pas m’embarquer dans des histoires d’au-delà.
+Mais passer voir la Sainte Inquisition... ça, je peux le faire.
+}
+MagicCity.5
+{
+À Des Moines, j’ai découvert un terrible secret. La ville est frappée par une affreuse malédiction : ses habitants se transforment en squelettes la nuit ! Et le plus étrange, c’est que les citadins eux-mêmes ignorent pourquoi ce malheur s’est abattu sur eux.
+
+J’ai eu pitié des gens de Des Moines, alors j’ai promis de les aider. Le chef de la ville, Fernando Torres, m’a conseillé de retrouver une jeune Anglaise nommée Elizabeth Sheppard. Il y a peu, elle est venue à Des Moines, posant des questions sur des pirates, un capitaine et la frégate 'Queen'. C’est juste après l’affrontement de l’équipage corsaire du 'Queen' au Cap des Espoirs Brisés que toute cette histoire de malédiction a commencé.
+}
+MagicCity.6
+{
+J’ai retrouvé Elizabeth Sheppard. Elle s’est révélée être la fille de l’ancien célèbre boucanier, le capitaine Staton.
+Torres avait raison, la jeune femme a du caractère. D’après elle, le capitaine de cette fameuse frégate « Queen » s’est présenté chez elle en pleine nuit, et elle n’a fait que crier. Si quelqu’un comme ça me réveillait la nuit, j’aurais eu sacrément peur moi aussi.
+En somme, Miss Sheppard et moi poursuivons le même but. Elle a découvert qu’elle pouvait lever la malédiction — le crâne de jade du dieu aztèque des morts. Je dois maintenant le retrouver dans la capitale aztèque abandonnée, Tenochtitlan.
+}
+MagicCity.7
+{
+Elizabeth Sheppard m’a envoyé chercher la frégate « Queen ». Personne ne sait où elle navigue. Il va falloir rester vigilant lors de mes traversées.
+Une fois la frégate trouvée, je dois apporter le crâne de jade dans la cabine du capitaine. J’ai de sérieux doutes sur la possibilité de le faire sans violence…
+}
+MagicCity.8 {J'ai réussi à rattraper la frégate 'Queen', à l'aborder et à lever la malédiction. La capitaine du navire s'est révélée être la sœur aînée d'Elizabeth. D'ailleurs, elle a accepté de rejoindre mon équipage en tant qu'officier. Pas mal...}
+MagicCity.9 {La malédiction de Des Moines a également été levée, donc tout va parfaitement bien.}
+MagicCity.10 {La frégate que nous cherchions a disparu. Il n’y a désormais plus aucun moyen de lever la malédiction du dieu aztèque des morts.}
+Slavetrader {Négrier}
+Slavetrader.1 {Le prêteur de @<sCity>, @<sName>, m’offre @<sSum> pour @<sQty>. La paie est correcte et le travail n’est pas difficile — je pense accepter. Je ne devrais pas tarder ; il semble que @<sName> soit sérieusement impliqué dans la traite des esclaves, et je pourrais bien gagner ma vie avec ces livraisons...}
+Slavetrader.2 {Les esclaves ont été livrés et le client a payé. De plus, @<sName> m’a proposé de revenir dans trois semaines pour un autre travail. Il faut que je pense à passer le voir.}
+Slavetrader.3 {@<sName> m’a chargé de saboter l’affaire d’un concurrent. Je dois capturer le navire « @<sShipName> », qui a mis le cap sur @<sShoreName> sur @<sShoreType>. Je dois agir dans les deux semaines.}
+Slavetrader.3_1 {Je suis arrivé à temps ! Le capitaine du galion '@<sShipName>' transfère des esclaves sur le navire des contrebandiers. Je dois aborder les deux et prendre la cargaison.}
+Slavetrader.4 {Tâche accomplie. Je dois maintenant me dépêcher auprès du client.}
+Slavetrader.5 {Les ennemis se sont révélés trop puissants et j’ai dû me retirer du combat. J’ai bien peur que ce soit un échec.}
+Slavetrader.5_5 {Comme j'ai échoué dans ma mission, @<sName> ne veut plus rien avoir à faire avec moi. Dommage que cela se termine ainsi...}
+Slavetrader.6 {@<sName> a été satisfait de mon travail. Pour avoir livré @<sQty>, il m’a payé @<sMoney>. Je dois aussi lui rendre visite dans un mois pour une nouvelle mission.}
+Slavetrader.6_1 {@<sName> a été satisfait de mon travail. Il m’a payé 320 000 piastres pour les 1 600 esclaves livrés. Je dois aussi lui rendre visite dans un mois pour la prochaine mission.}
+Slavetrader.7 {Je suis arrivé en retard au point de rendez-vous, et le galion '@<sShipName>' est déjà parti on ne sait où. Je vais devoir rentrer les mains vides.}
+Slavetrader.7_1 {J'ai trop tardé à prendre la mer, et la pinasse '@<sShipName>' a déjà levé l'ancre. Je n'ai aucune idée d'où la chercher maintenant. Je vais devoir rentrer les mains vides.}
+Slavetrader.7_2 {Malgré tous mes efforts, je n’ai pas réussi à retrouver « @<sShipName> ». Je vais devoir rentrer les mains vides.}
+Slavetrader.8 {J'ai refusé la mission qu'on m'a proposée. Qu'ils cherchent quelqu'un d'autre pour ce travail.}
+Slavetrader.9 {Pourquoi ai-je eu l’idée de m’embarquer avec ce vaurien ? Maintenant, je dois me méfier des chasseurs de primes...}
+Slavetrader.10 {@<sName> m’a confié une mission plutôt dangereuse cette fois. Je dois aborder la pinasse @<sShipName>, qui se trouve tout près d’ici. Il faudra être prudent et éviter de se faire tirer dessus par les canons du fort.}
+Slavetrader.11 {L’ennemi s’est révélé d’une force inhabituelle. Je n’ai pas pu capturer la pinasse '@<sShipName>'. Il vaudrait peut-être mieux éviter de me présenter devant le client…}
+Slavetrader.12 {Au cours du combat, la pinasse '@<sShipName>' a coulé. Il vaudrait mieux ne pas se présenter devant le client maintenant...}
+Slavetrader.13 {Merde ! La pinasse '@<sShipName>' était un piège : aucune trace d’esclaves dans la cale. À la place, elle était remplie de soldats lourdement armés. Je dois aller voir le client et lui arracher toute la vérité. Il est temps de lui faire découvrir des mèches qui brûlent entre les doigts...}
+Slavetrader.14 {Il semble que @<sName> dise la vérité et ait réellement été trahi. Les propos du capitaine du pinasse capturé le confirment. Les preuves se trouvent actuellement sur la brigantine '@<sShipName>', qui fait route vers l'île de @<sIsland>, chez le gouverneur général. Je dois rattraper ce navire et m'emparer du paquet de preuves, sinon de graves ennuis m'attendent.}
+Slavetrader.15 {Merde ! Je n'ai pas réussi à capturer la brigantine '@<sShipName>'. Bon, il ne reste plus qu'une seule option : aller voir le diplomate...}
+Slavetrader.16 {J’ai réussi à rattraper et capturer la brigantine '@<sShipName>'. Les documents étaient dans la cabine du capitaine, dans le coffre. Je peux enfin souffler.}
+Slavetrader.17 {J'ai réussi à rattraper la brigantine '@<sShipName>', mais je n'ai trouvé aucun document et je n'en trouverai jamais. Peut-être qu'ils n'ont jamais existé ? Je devrais retourner voir le prêteur.}
+Slavetrader.18 {Je dois trouver et capturer le lourd galion '@<sShipName>', qui fait route de @<sAreal> vers Santiago. Je dois faire très attention à ne pas le manquer. La cale du galion transporte plus de 3 000 esclaves—un butin vraiment fabuleux.}
+Slavetrader.19 {J’ai eu une très mauvaise surprise. '@<sShipName>' n’était pas du tout un lourd galion, mais un véritable vaisseau de ligne, avec en plus un capitaine d’une habileté diabolique. Malgré tout, j’ai réussi à remporter ce combat difficile.}
+Slavetrader.20 {@<sName> m’a demandé d’attendre cinq jours pour le paiement—le temps qu’il vende les esclaves que j’ai apportés, et m’a donné quinze coffres de crédit en avance. Même si je n’ai guère de raisons de faire confiance à ce filou, je doute qu’il ose me tromper en une période aussi difficile pour lui.}
+Slavetrader.21 {@<sName> m’a demandé de retrouver et d’éliminer le traître qui nous a tous deux plongés dans un sacré pétrin. Je me ferai un plaisir d’étrangler ce rat. Le scélérat s’appelle François Gontier, et il a été aperçu pour la dernière fois à Panama. Je pars à sa recherche.}
+Slavetrader.21_1 {Grâce à l’aubergiste de Panama, j’ai appris que Gontier était très probablement parti pour Portobelo.}
+Slavetrader.21_2 {Gontier a acheté une corvette au chantier naval de Portobelo. Je dois découvrir où il est parti.}
+Slavetrader.21_3 {D'après les informations obtenues auprès de l'autorité portuaire de Portobelo, Gontier est parti pour la Jamaïque. Son corvette s'appelle « @<sShip> ».}
+Slavetrader.21_4 {Gonthier était à Fort Orange, il a loué une chambre à la taverne quelque temps, mais il est récemment parti dans une direction inconnue. On ne sait pas où le chercher.}
+Slavetrader.21_5 {La serveuse de la taverne de Fort Orange sait où est allé Gonthier, mais elle veut des pendentifs en émeraude pour donner cette information. Il faut absolument que je trouve ces bijoux, sinon je n’avancerai pas.}
+Slavetrader.21_6 {Le fil perdu de la recherche a été retrouvé. Gontier est parti pour Havana. Parfait. Je pense que je le verrai bientôt.}
+Slavetrader.21_7 {Comme c’est intéressant ! Gontier a tenté d’obtenir une lettre de marque espagnole à La Havane, mais cela n’a pas marché pour lui. D’après le barman, mon ami François a choisi de chercher la protection des autorités françaises. Eh bien, cap sur Tortuga !}
+Slavetrader.21_8 {Il y a quelque chose qui cloche ici ! Le corvette n’a pas accosté au port, pourtant Gontier et son équipage, d’après l’aubergiste, traînent dans les rues. Je dois fouiller la ville et ses environs de fond en comble.}
+Slavetrader.21_9 {Le rat se cachait dans l'une des maisons. Dès que je suis entré, ses complices m'ont attaqué sans attendre. J'ai dû les envoyer rejoindre leurs ancêtres—je doute que leur perte attriste grand monde. Gontier lui-même s'est échappé. D'après sa maîtresse, la corvette était amarrée derrière le phare de Tortuga. Mets les voiles tout de suite, avant qu'il ne disparaisse à nouveau !}
+Slavetrader.21_10 {J’ai trop tardé à prendre la mer — la corvette de Gontier a disparu sans laisser de trace. Je n’ai plus aucune piste. Je peux retourner voir l’usurier et lui annoncer l’échec de la mission.}
+Slavetrader.21_11 {Ce Gontier s’est révélé trop coriace pour moi, et j’ai jugé préférable de battre en retraite. Je peux retourner voir l’usurier et annoncer l’échec de la mission.}
+Slavetrader.21_12 {C’est fait ! Ce vaurien de Gontier a fini dans le ventre des requins, là où est sa place.}
+Slavetrader.21_13 {Pour avoir éliminé le traître, @<sName> m’a offert une statuette Atlaua. Splendide ! Il m’a aussi versé une récompense de 100 000 piastres et remboursé mes frais avec 50 000 piastres supplémentaires. Il semble que la fortune de mon employeur se soit améliorée... Dans un mois, je devrai me présenter à lui avec une escadre bien équipée. Quelque chose de très sérieux se prépare.}
+Slavetrader.21_14 {@<sName> était contrarié que j’aie laissé filer Gontier, mais m’a proposé de revenir dans un mois pour une nouvelle mission, à condition d’avoir une escadre bien équipée. Quelque chose de très sérieux se prépare.}
+Slavetrader.22 {Mes soupçons se sont entièrement confirmés. La barque a fait naufrage, et les esclaves se sont réfugiés au phare. Tamango et ses partisans belliqueux nous ont attaqués sans aucune négociation préalable, mais nous les avons calmés. Définitivement. Les autres fugitifs n'ont pas tenté leur chance et se sont rendus sans combattre. Au total, j'ai réussi à capturer @<sQty>.}
+Slavetrader.22_1 {@<sName> m’a confié la mission de me rendre à Curaçao, où vient d’avoir lieu la plus grande révolte d’esclaves de ces dernières années. Je dois recueillir un maximum d’informations sur cet événement.}
+Slavetrader.22_2 {Au cours d'une conversation des plus intéressantes avec l'aubergiste, j'ai pu apprendre tous les détails de la révolte, ainsi que le vol d'une barque au chantier naval. Le barman est convaincu que des esclaves en fuite sont impliqués.}
+Slavetrader.22_3 {Au bureau du port, j'ai réussi à apprendre le nom du brick où les esclaves se seraient enfuis — '@<sShipName>'. Malheureusement, c'est tout ce que j'ai. Je n'ai aucune idée d'où chercher ensuite...}
+Slavetrader.22_4 {Au cours d'une conversation avec un marin éméché, j'ai appris de façon inattendue que la barque transportant les fugitifs avait été aperçue à @<sAreal>. D'après le récit, le navire s'est manifestement échoué. Je devrais m'y rendre et fouiller toutes les criques.}
+Slavetrader.22_5 {@<sName> était très satisfait. Il a bien payé pour les @<sQty> que j’ai apportés : j’ai reçu 330 000 pour les fugitifs de Curaçao, et @<sMoney> pour les autres. Comme d’habitude, je dois revenir dans un mois pour la prochaine mission.}
+Slavetrader.22_6 {@<sName> était très satisfait. Il a payé @<sMoney> piastres pour les @<sQty> livrés. Comme d’habitude, je dois revenir dans un mois pour la prochaine mission.}
+Slavetrader.24 {Bon sang, je n’aurais jamais imaginé que @<sName> opérait à une telle échelle ! Maintenant, je dois prendre le fort de La Havane où, d’après les informations reçues, il y a au moins 5 000 esclaves. Je pars immédiatement.}
+Slavetrader.25 {Le prêteur avait raison ! Deux vaisseaux de ligne patrouillent au large de La Havane, et ils sont clairement hostiles. Je dois m’en débarrasser avant de pouvoir lancer l’assaut sur le fort.}
+Slavetrader.26 {Les vaisseaux de ligne ennemis ont été détruits. Maintenant, en avant pour prendre d’assaut La Havane !}
+Slavetrader.26_1 {Les vaisseaux de ligne ennemis ont été détruits, mais nous n’avons plus la force de prendre La Havane. Contraints de partir les mains vides. Je pense qu’il vaut mieux ne pas retourner voir le client...}
+Slavetrader.27 {La Havane est prise, la mission est accomplie. @<sQty> chargés dans les cales. Il est temps de rentrer.}
+Slavetrader.27_1 {J’ai échoué la mission en décidant d’attaquer La Havane par la terre. Les esclaves étaient dans le fort, et ses défenseurs ont eu le temps de bien se préparer. Je ne reverrai pas ces esclaves. Je pense qu’il vaut mieux ne pas retourner voir le client...}
+Slavetrader.28 {Je n’ai pas pu arriver à temps à La Havane. Tous les esclaves ont sans doute déjà été emmenés du fort vers les plantations de Cuba. Mieux vaut ne pas me montrer au client...}
+Slavetrader.29 {Bon sang ! Tous les esclaves n'ont pas survécu au voyage, et l'usurier exige 5 000, pas une pièce de moins ! Il me faut trouver la somme manquante, et en moins d'une semaine, sinon je vais avoir de sérieux ennuis.}
+Slavetrader.30 {Je n’ai pas réussi à livrer les esclaves au client à temps. Plus besoin de se presser maintenant — je dois vendre les esclaves, aller voir le diplomate et payer les chasseurs de primes...}
+Slavetrader.31 {Je n’ai pas réussi à réunir le lot de 5 000 esclaves à temps. Il ne me reste plus qu’une option : aller voir le diplomate et payer les chasseurs de primes...}
+Slavetrader.32 {Les esclaves ont été remis à l’usurier pour la vente. Je dois revenir chercher l’argent dans une semaine. Je vais toucher plus d’un million pour cette affaire ! Voilà ce que c’est que de travailler avec des gens sérieux ! J’en viens presque à redouter ce que sera la prochaine mission. Oui, ce business rapporte vraiment une fortune royale !}
+Slavetrader.33 {Ce maudit vaurien m’a roulé ! Quand je suis venu récupérer l’argent, j’ai découvert que mon cher « partenaire » s’était enfui, emportant non seulement mon million mais aussi l’argent des investisseurs. On ne m’avait jamais escroqué de la sorte ! Quiconque trompe les autres sans vergogne sous tes yeux finira par te tromper toi aussi, peu importe les belles paroles. Parce qu’il ne sait tout simplement pas vivre autrement… Mais ce n’est pas grave, le monde est petit—un jour, je recroiserai ce rat. Et ce jour-là, il paiera pour tout !}
+PrisonGun {Canons pour le fort}
+PrisonGun.1 {Le commandant du fort de @<sCity>, @<sName>, m’a demandé de rassembler @<sText> en quantité de @<sQty> unités pour remplacer la batterie côtière. Il a posé une condition : la totalité du lot doit être livrée en une seule fois, et pas avant un mois. J’ai accepté, puisqu’il est prêt à payer @<sSum> pour cela.}
+PrisonGun.2 {Les canons ont été livrés et le paiement reçu — non pas en espèces, mais en coffres de crédit, ce qui m’allait très bien. Et je suis certain que le commandant n’y a pas perdu non plus.}
+PrisonGun.3 {Quelle galère ! Le commandant a refusé d’acheter les canons. Qu’est-ce que je vais faire de tout ce tas de ferraille maintenant ? Je suppose qu’il ne me reste plus qu’à les vendre au chantier naval pour une bouchée de pain...}
+PrisonGun.4 {J'ai mis trop de temps à chercher les canons, et @<sName> les a achetés ailleurs. J'aurais dû agir plus vite...}
+Headhunt {Condottiere}
+Headhunt.1 {Snakeman Young m’a raconté l’histoire d’une bande de pirates menée par un certain Ja Preston, qui terrorisait la colonie de Le Francois en imposant des tributs exorbitants aux marchands et autres entrepreneurs, et il m’a proposé une belle récompense pour éliminer cette bande. J’ai accepté. Ma première tâche dans cette affaire difficile est d’éliminer Carlos Cassir, que je peux trouver à @<sCity>.}
+Headhunt.1_1 {Un contrebandier de @<sCity> m’a conseillé d’aller voir son vieil ami, Snakeman Young, le barman de la colonie de Le Francois, sur la Martinique. Il pourrait avoir du travail pour moi.}
+Headhunt.2 {La première mission est accomplie : Carlos Cassir est en enfer, où il a sûrement été accueilli à bras ouverts. Il est temps de retourner à Le Francois pour voir Snakeman.}
+Headhunt.2_1 {J’ai réussi à mettre Carlos Cassir en colère et à le provoquer en duel. Nous nous retrouverons en tête-à-tête, dans une heure, hors des portes de la ville—je ferais mieux de ne pas être en retard. Et il vaut mieux ne venir avec personne—nous réglerons ça discrètement, sans que la garde ne s’en aperçoive.}
+Headhunt.2_2 {Je n’ai pas pu arriver à temps au duel avec Carlos Cassir, et il a disparu sans laisser de trace. La quête a échoué. Je ne pense même pas aller voir Snakeman...}
+Headhunt.3 {Snakeman Young m’a payé 5 000 piastres et un coffre d’or pour la tête de Carlos Cassir. Comme compensation pour les frais de voyage, c’est plutôt honnête. Je devrais repasser dans une dizaine de jours—Snakeman essaiera d’obtenir des informations sur le prochain « client » d’ici là.}
+Headhunt.4 {La deuxième cible marquée à éliminer est l'effrayant Africain, Hannibal Holm. D'après les informations disponibles, il se cache quelque part dans les colonies anglaises. Vous devriez rechercher le navire 'Dead Head'.}
+Headhunt.5 {J’ai réussi à retrouver la piste de Hannibal Holm — il se trouve quelque part à @<sCity>. Les habitants se méfient de lui, mais l’attaquer ouvertement reviendrait à s’attirer les autorités anglaises. Je devrais d’abord essayer de parler au « Lion Noir ».}
+Headhunt.6 {J'ai défié Hannibal Holm en duel naval.}
+Headhunt.7 {Le combat fut acharné — Hannibal Holm s’est révélé être un adversaire coriace, et son navire était de premier ordre. Mais ce sauvage farouche et fier est tombé sous ma main, et il est temps de rentrer à la Martinique.}
+Headhunt.8 {La colline était trop pour moi. J’ai dû fuir pour sauver ma peau. Après une telle honte, mieux vaut ne pas me montrer devant Snakeman.}
+Headhunt.9 {La récompense pour la destruction de Holm a été reçue. Cette fois, la compensation s’élève à 10 000 piastres et deux coffres d’or.}
+Headhunt.10 {Tous les délais possibles pour retrouver la pinasse 'Adelaide' sont dépassés. La piste est définitivement perdue. La quête a échoué. Mieux vaut éviter de se montrer à Le Francois...}
+Headhunt.11 {Le troisième « client » est Mathias Green, surnommé « Rat ». D’après Snakeman, Rat serait impliqué dans de nombreuses disparitions de navires marchands. On ne sait rien d’autre sur lui, et je vais devoir rassembler toutes les informations moi-même. Snakeman a cité trois ports d’où les trois derniers navires ont disparu : Willemstad à Curaçao, Cartagena sur le Main, et Port of Spain sur l’île de Trinidad et Tobago. Je devrais commencer mes recherches là-bas — peut-être que je trouverai sa trace.}
+Headhunt.12_1 {À Carthagène, le jour où le navire disparu 'Happy Bride' a pris la mer pour son dernier voyage, les navires suivants étaient présents : le galion 'San Juan Nepomasedo' et la pinasse 'Adelaide'. Nous poursuivons les recherches.}
+Headhunt.12_2 {À Port of Spain, le jour où le navire disparu a entamé son dernier voyage, les navires suivants étaient présents : la goélette Jenny, la corvette Swift et la pinasse Adelaide. Nous poursuivons les recherches.}
+Headhunt.12_3 {À Willemstad, le jour où le navire disparu 'Santa Anna' a pris la mer pour son dernier voyage, les navires suivants étaient présents : la pinasse 'Adelaide', le galion 'Medemblink' et la frégate 'Zulthen'. Nous poursuivons les recherches.}
+Headhunt.13 {Dans les trois cas, la pinasse 'Adelaide' était impliquée. Ce n’est sûrement pas un hasard. Je devrais interroger les marins à la taverne pour en savoir plus sur ce navire.}
+Headhunt.14 {Personne ne connaît le port de destination exact de la mystérieuse pinasse au capitaine marchand apparemment ordinaire. Mais il y a un indice : les marins de l’'Adelaide' parlaient de s’amuser avec des femmes françaises. Que cela peut-il bien vouloir dire ?}
+Headhunt.15 {"L'Adelaide" est au mouillage au large de Tortuga. Je dois réfléchir à la suite...}
+Headhunt.16 {C’était une action irréfléchie de ma part. Seul le second de Rat était à bord, et ce vaurien restait introuvable. En attaquant l’« Adelaide », j’ai effrayé Rat, et maintenant je ne le retrouverai jamais. Mission échouée. Je ferais mieux de ne pas me montrer devant Snakeman...}
+Headhunt.17 {La pinasse lèvera l’ancre d’un jour à l’autre. Il me faut trouver un moyen d’attirer Rat. Mieux vaut organiser une rencontre loin de toute habitation—ce vaurien est de mèche avec d’Ogeron. Je devrais acheter de nombreuses marchandises de valeur, comme celles qui étaient sur les navires disparus, et en parler « par hasard » à Rat—heureusement, le scélérat est à la taverne.}
+Headhunt.17_1 {J'ai passé trop de temps à m'occuper des marchandises... La pinasse 'Adelaide' a déjà levé l'ancre. Impossible de savoir où la trouver maintenant. Quête échouée.}
+Headhunt.18 {La canne à pêche est lancée. Maintenant, je dois débarquer dans la baie du Destin pour que Rat croie à la légende !}
+Headhunt.19 {Je suis dans la baie du Destin. Je devrais attendre ici, en surveillant l’horizon—Rat pourrait surgir à tout moment.}
+Headhunt.19_1 {J'ai débarqué dans la baie de Doom, mais Rat ne s'est pas montré. De toute évidence, la vue impressionnante de mon escadre l'a effrayé. Hélas, l'occasion est perdue. La mission est un échec total. Je n'irai même pas à la Martinique...}
+Headhunt.20 {Je me suis trop laissé distraire par d’autres affaires, et Rat a sûrement perdu tout espoir de me retrouver dans la baie du Destin, tout comme moi de le retrouver. La quête a échoué. Je ne prendrai même pas la peine d’aller à la Martinique...}
+Headhunt.20_1 {Je n’ai pas trouvé le navire du Rat à la baie du Destin. La quête a échoué. Je ne prendrai même pas la peine d’aller à la Martinique…}
+Headhunt.21 {Le navire du Rat est apparu à l’horizon. À l’attaque !}
+Headhunt.22 {L’ennemi était trop fort pour moi. J’ai dû battre en retraite. La mission est un échec. Je n’irai même pas à la Martinique...}
+Headhunt.23 {J'ai abordé le Rat et je l'ai achevé dans la cabine. Mission accomplie. Le Rat a tenté de me menacer avant de mourir — amusant.}
+Headhunt.24 {La pinasse du Rat a coulé avec lui. C’est sa place : servir de festin aux crabes. Quête terminée.}
+Headhunt.25 {Snakeman Young a été très satisfait de mon travail. Pour avoir éliminé le Rat, il m’a payé 20 000 piastres, deux coffres d’or et m’a offert un totem indien.}
+Headhunt.26 {C’est au tour du quatrième vaurien—Martin van Halen. La situation se complique, car il n’est pas seulement un pirate, mais aussi un corsaire hollandais, et le favori de Peter Stuyvesant. Je pars pour Curaçao.}
+Headhunt.26_1 {J'ai mis trop de temps à voyager jusqu'à Curaçao. Halena est introuvable maintenant. La quête est échouée. Je n'irai même pas voir Snakeman...}
+Headhunt.27 {J'ai réussi à apprendre du barman que van Halen reviendra bientôt à Willemstad. Il ne me reste plus qu'à l'attendre. J'ai loué une chambre à la taverne, et le barman me préviendra dès que le « client » arrivera en ville. Je peux me reposer tranquillement.}
+Headhunt.28 {Alors que je me reposais, un bruit étrange m’a réveillé. Deux inconnus ont fait irruption dans ma chambre et ont tenté de m’assassiner. Le pire dans cette histoire, c’est qu’ils avaient été envoyés par Ja Preston—le chef du gang que je démolis méthodiquement. Visiblement, Snakeman Young n’est pas le seul à savoir recueillir des informations—Ja a lui aussi lancé sa propre saison de chasse. Sur moi…}
+Headhunt.29 {Martin van Halen est déjà arrivé à Willemstad et s’est rendu auprès de Stuyvesant. Son corvette, le 'Fortune’s Lover', est ancré en rade. Vous pouvez tenter d’intercepter Halen en ville ou en mer. Il n’y a pas de temps à perdre—vous devez agir avec fermeté et détermination.}
+Headhunt.29_1 {Je n’ai toujours pas réussi à sortir van Halen. La mission a échoué. Il n’y a plus de raison de retourner à Le Francois maintenant...}
+Headhunt.30 {Halen était trop fort pour moi. J’ai dû battre en retraite. Mission échouée. Je ferais mieux d’éviter la Martinique...}
+Headhunt.30_1 {Halen a quitté les eaux de Curaçao, et je n’ai pas osé l’attaquer. Il vaudrait mieux ne pas me montrer à la Martinique pour l’instant…}
+Headhunt.31 {Martin van Halen est mort. Qu’il aille exhiber son arrogance devant les démons en enfer. Comme disait Snakeman : « Un vaurien de moins ! »}
+Headhunt.32 {La récompense pour Halen a été reçue. Je dois patienter un peu pendant que Snakeman rassemble des informations sur la prochaine cible.}
+Headhunt.33 {Ja Preston m’a retrouvé d’une façon ou d’une autre. Je dois le trouver avant qu’il ne frappe à nouveau. Je pars sur la piste de son plus proche complice—Miko Pistolero. Il devrait se cacher quelque part dans les villages de pêcheurs de perles sur le Main...}
+Headhunt.34 {Je n’ai rien pu tirer de Miko Pistolero. Il a tout de suite compris qui j’étais. Sans perdre de temps, Pistolero m’a attaqué et a tenté de me tuer. La seule chose que j’ai pu apprendre, c’est que Ja se trouve quelque part dans les parages...}
+Headhunt.35 {Je me suis encore fait attaquer par les hommes de main de Ja. Il faut que je le retrouve et que je mette fin à tout ça, sinon ça ne s’arrêtera jamais. Je retourne au navire.}
+Headhunt.36 {Quelle chance ! Juste dans la baie de San Juan del Norte, une polacre de Ja m’attendait. Il ne m’écoutera pas sans recourir à la force. Je pourrais tenter d’aborder le navire pour discuter. Et ce bâtiment est plutôt intéressant — peut-être devrais-je essayer de le prendre comme prise ?}
+Headhunt.37 {J'ai éliminé Ja Preston. Je peux maintenant respirer tranquille et retourner en Martinique voir Snakeman pour ma récompense.}
+Headhunt.38 {Ja Preston va désormais servir dans mon équipage. Un officier de cette trempe vaut bien plus que l’argent et les vivres promis par Sneakman. Mieux vaut tout de même éviter Sneakman pour l’instant, par prudence…}
+Headhunt.39 {Snakeman Young a tenu sa promesse : pour avoir éliminé la bande de Ja Preston, j’ai reçu un excellent équipement et 100 000 piastres. Je pense que c’est une récompense bien méritée pour le travail accompli.}

@@ -1,0 +1,603 @@
+Common_Soldier_1_m {
+Pirates in town?! Well, I'll be... Grab him!!
+}
+Common_Soldier_1_f {
+Pirates in the town?! Well, I'll be... Grab her!!
+}
+Common_Soldier_2_m {
+It’s a pirate!! Grab him!!!
+}
+Common_Soldier_2_f {
+It's a pirate!! Grab her!!!
+}
+Common_Soldier_3 {
+@<RandPhraseSimple>
+}
+Common_Soldier_4 {
+Pirate, so what?..
+}
+Common_Soldier_5 {
+Heh, just try and catch me.
+}
+Common_Soldier_6 {
+@<RandPhraseSimple>
+}
+Common_Soldier_7 {
+A spy? Hand over your weapons! Follow me!
+}
+Common_Soldier_8_m {
+Enemy agent!! Seize him at once!
+}
+Common_Soldier_8_f {
+Enemy agent!! Seize her at once!
+}
+Common_Soldier_9 {
+@<RandPhraseSimple>
+}
+Common_Soldier_10 {
+Shut up, you halfwit!
+}
+Common_Soldier_11 {
+Not a chance!
+}
+Common_Soldier_12 {
+@<RandPhraseSimple>
+}
+Common_Soldier_13 {
+Who are you and what do you want here?
+}
+Common_Soldier_14 {
+Who are you and what do you want here?
+}
+Common_Soldier_15 {
+Stop! Who are you? On what grounds are you trying to enter the city?
+}
+Common_Soldier_16 {
+@<RandPhraseSimple>
+}
+Common_Soldier_17 {
+Officer, I have a @<GetRusNameNationLicence>, so I’m here on legal grounds. Please, take a look...
+}
+Common_Soldier_18 {
+Can’t you see the @<NationNameGenitive> flag flying on my ship?!
+}
+Common_Soldier_19_m {
+I dropped anchor at @<XI_ConvertString> under the flag of @<NationNameGenitive>. What else isn’t clear to you?
+}
+Common_Soldier_19_f {
+I dropped anchor at @<XI_ConvertString> under the flag of @<NationNameGenitive>. What else isn’t clear to you?
+}
+Common_Soldier_20 {
+Ah, captain, what grand times we had at sea with you! How many ships we sank under your command! But here...
+}
+Common_Soldier_21 {
+But here, my friend, you’re constantly surrounded by charming women—something you’ll never find at sea.
+}
+Common_Soldier_22 {
+Captain, what did we do to deserve such punishment?! We’re not landlubbers!
+}
+Common_Soldier_23 {
+Easy, sailor! You're holding an important and honorable post, so quit your whining.
+}
+Common_Soldier_24 {
+How’s the sea out there, Captain? Will we ever see it again?
+}
+Common_Soldier_25 {
+Of course, sailor! Step down from your watch, head out to the pier, and enjoy the sea as much as you like.
+}
+Common_Soldier_26 {
+I must complain, Captain: we’re all itching to get back to sea. This land duty is stuck in our craw!
+}
+Common_Soldier_27_m {
+I’m sick of this whining! There’s plenty of rum for you on land! Serve where the captain put you! Or else I’ll have to string someone up as an example.
+}
+Common_Soldier_27_f {
+I’m sick of all this whining! You get enough drink on land! Serve where the captain put you! Or else someone’s going to have to be strung up as an example.
+}
+Common_Soldier_28 {
+I'll tell you a secret, captain—the new governor is a bribe-taker and a thief. But of course, that's none of my business...
+}
+Common_Soldier_29 {
+You’re right, corsair: your job is to stand watch and keep order. As for stringing up the governor from the yardarm—that’s a task for me. Well done!
+}
+Common_Soldier_30 {
+Thank you for not forgetting about us, Captain! We’d follow you through fire and water!
+}
+Common_Soldier_31 {
+I know your kind, scoundrels! All you care about is gold. There's a drinking bout at the tavern tonight—my treat. Don't forget to drop by.
+}
+Common_Soldier_32 {
+Ah, captain! It's been ages since we last had a bloody brawl! What kind of corsairs follow the law, anyway?!
+}
+Common_Soldier_33 {
+Stay sharp, corsair! Enemy fleets are prowling around our islands, so a bloodbath could break out at any moment.
+}
+Common_Soldier_34 {
+Captain, they say the royal authorities are sending a squadron here again?
+}
+Common_Soldier_35 {
+Of course, corsair. As long as we live, there will never be peace. Even in Hell, we’ll fight the devils!
+}
+Common_Soldier_36 {
+Yo-ho-ho! What a grand feast we had last night, captain! Shame you weren’t there.
+}
+Common_Soldier_37 {
+It's all right, I'll catch up in due time. And as for you, lads, I don't envy you one bit.
+}
+Common_Soldier_38 {
+I'll tell you a secret, captain, since you've always treated us right—yesterday, the lads and I took down a chick here...
+}
+Common_Soldier_39 {
+Ah, corsair, the noose is calling your name!
+}
+Common_Soldier_40 {
+Cap’n! Release me from this cursed duty! I can’t play the lawkeeper here any longer!
+}
+Common_Soldier_41 {
+You’d better remember: standing night watch on a ship isn’t easy either. Duty, brother, is duty everywhere.
+}
+Common_Soldier_42 {
+There’s important business!
+}
+Common_Soldier_43 {
+I have business with you.
+}
+Common_Soldier_44 {
+@<RandPhraseSimple>
+}
+Common_Soldier_45 {
+Do you have business with me, Captain?
+}
+Common_Soldier_46 {
+I’m just here on business—if you need something, ask, don’t waste time.
+}
+Common_Soldier_47 {
+@<RandPhraseSimple>
+}
+Common_Soldier_48 {
+Captain, I'm quite busy, so look for someone else to talk to.
+}
+Common_Soldier_49 {
+Something wrong, Captain? If there are no questions, let me pass.
+}
+Common_Soldier_50 {
+@<RandPhraseSimple>
+}
+Common_Soldier_51 {
+Make way, captain, I'm in a hurry.
+}
+Common_Soldier_52 {
+@<LinkRandPhrase>
+}
+Common_Soldier_53_m {
+Sorry, mate, I mistook you for someone else.
+}
+Common_Soldier_53_f {
+Sorry, mate, I mistook you for someone else.
+}
+Common_Soldier_54 {
+Alright, get on with your business.
+}
+Common_Soldier_55 {
+No, nothing.
+}
+Common_Soldier_56 {
+@<LinkRandPhrase>
+}
+Common_Soldier_57 {
+I have a couple of questions for you.
+}
+Common_Soldier_58 {
+I have business with you.
+}
+Common_Soldier_59 {
+@<RandPhraseSimple>
+}
+Common_Soldier_60 {
+I see you’re in a hurry. Just one question and you’ll be free to go.
+}
+Common_Soldier_61_m {
+I wanted to ask you something.
+}
+Common_Soldier_61_f {
+I wanted to ask you something.
+}
+Common_Soldier_62 {
+@<RandPhraseSimple>
+}
+Common_Soldier_63_m {
+Your business can wait. I wanted to ask you something.
+}
+Common_Soldier_63_f {
+Your business can wait. There’s something I wanted to ask you.
+}
+Common_Soldier_64 {
+@<LinkRandPhrase>
+}
+Common_Soldier_65_m {
+Look at this scoundrel! He dared to show up in @<XI_ConvertString>. Grab him!!
+}
+Common_Soldier_65_f {
+Would you look at that scoundrel! She dared to show up in @<XI_ConvertString>. Grab her!!
+}
+Common_Soldier_66_m {
+Ha, I recognize you, scoundrel! Grab him!!
+}
+Common_Soldier_66_f {
+Ha, I recognize you, scoundrel! Grab her!!
+}
+Common_Soldier_67 {
+@<RandPhraseSimple>
+}
+Common_Soldier_68 {
+Argh!..
+}
+Common_Soldier_69 {
+Well, you brought this on yourself...
+}
+Common_Soldier_70 {
+@<RandPhraseSimple>
+}
+Common_Soldier_71 {
+Do you see what's happening in the city? But we won't get involved in any of it...
+}
+Common_Soldier_72 {
+Until the unrest turns into riots, we won't do anything. Let them cause a ruckus.
+}
+Common_Soldier_73 {
+We’re acting as if everything is normal in the city. We can’t give in to the mood of the crowd, or this unrest could turn into a riot!
+}
+Common_Soldier_74 {
+@<LinkRandPhrase>
+}
+Common_Soldier_75 {
+I see...
+}
+Common_Soldier_76 {
+You went to the tavern. So, what do you think?
+}
+Common_Soldier_77 {
+Nothing yet...
+}
+Common_Soldier_78 {
+Oh, what a sight! @<pchar> herself has graced us with her presence! And how did you dare to show up? We've been searching high and low for you! Please, step into the dungeon—your cell has been ready and waiting just for you.
+}
+Common_Soldier_79_m {
+What are you talking about?! You’re mistaken! My gentleman and I were just walking in the jungle, picking flowers. Leave us alone! What manners these soldiers have! The moment they see a pretty girl, they find some excuse to bother her! Darling, tell these fools to get lost and stop pestering an honest lady!
+}
+Common_Soldier_79_f {
+What are you talking about?! You’ve got the wrong person! My friend and I were just walking in the jungle, picking flowers. Leave us alone! What manners these soldiers have! The moment they see a pretty girl, they find some excuse to bother her! Darling, please, tell these fools...!
+}
+Common_Soldier_80 {
+There you are, beauty. Came here all by yourself! Your old man’s got the whole garrison up in arms, ordered them to find you and bring you home.
+}
+Common_Soldier_81 {
+Leave me alone! I know perfectly well where I’m going and I don’t need your help!.. Captain, tell them to take their hands off me.
+}
+Common_Soldier_82 {
+The guard duty regulations forbid me from chatting with passersby.
+}
+Common_Soldier_83 {
+Well done, soldier! Keep it up.
+}
+Common_Soldier_84 {
+Is something wrong? Have you noticed any trouble?
+}
+Common_Soldier_85 {
+No, everything’s fine. But your vigilance is commendable.
+}
+Common_Soldier_86 {
+Fighting and dueling in the city streets are forbidden. Weapons may only be drawn in case of danger.
+}
+Common_Soldier_87 {
+Alright, I'll keep that in mind.
+}
+Common_Soldier_88 {
+Ah, what weather! And here I am, stuck like a statue... just swatting flies.
+}
+Common_Soldier_89 {
+Stay sharp, soldier. The enemy never sleeps.
+}
+Common_Soldier_90 {
+No use complaining about duty. With that attitude, you won’t win many battles.
+}
+Common_Soldier_91 {
+@<RandPhraseSimple>
+}
+Common_Soldier_92 {
+Find someone else to chat with if you’re feeling talkative—I’m here to keep order, not to wag my tongue.
+}
+Common_Soldier_93 {
+Well done, soldier, you serve faithfully! But you’re a bit too rough.
+}
+Common_Soldier_94 {
+Maintaining order, let me tell you, is not nearly as easy as it might seem from the outside. It’s a job full of responsibility and danger. There was this one time in the garrison...
+}
+Common_Soldier_95 {
+Stay focused on your watch.
+}
+Common_Soldier_96 {
+What’s all this chatter on duty?!
+}
+Common_Soldier_97 {
+Stay where you were told. Save your chatter for the tavern.
+}
+Common_Soldier_98 {
+@<LinkRandPhrase>
+}
+Common_Soldier_99 {
+Don’t distract me, @<GetAddress_Form>, I’m on duty.
+}
+Common_Soldier_100 {
+Come in, @<GetAddress_Form>, don’t distract the guard from his duty.
+}
+Common_Soldier_101 {
+@<RandPhraseSimple>
+}
+Common_Soldier_102_m {
+I was just checking if you’d fallen asleep on duty. You’re standing there like a statue.
+}
+Common_Soldier_102_f {
+I was just checking if you’d fallen asleep on duty. You’re standing there like a statue.
+}
+Common_Soldier_103 {
+Hey, @<GetAddress_Form>, would you happen to have a couple of sips of wine to wet my throat? I'm dying of thirst!
+}
+Common_Soldier_104 {
+Duty is duty. Endure it until you're relieved.
+}
+Common_Soldier_105_m {
+You’re not the first sailor to try and distract me from my duty. Why can’t any charming widows come my way instead?
+}
+Common_Soldier_105_f {
+Hey there, gorgeous! How about a little flirting with a dashing soldier?
+}
+Common_Soldier_106 {
+Seems you've forgotten you're on duty, not in a brothel.
+}
+Common_Soldier_107 {
+Your job is to keep order... and wipe that drool off your chin.
+}
+Common_Soldier_108 {
+@<RandPhraseSimple>
+}
+Common_Soldier_109_m {
+You look like a sturdy fellow! Interested in joining up? We've got spacious barracks, good grub, and the drinks are on the house.
+}
+Common_Soldier_109_f {
+Oh, you can't even imagine, miss, how delightful it is to meet such a charming lady as yourself in this backwater!
+}
+Common_Soldier_110_m {
+Tempting as hell, but I have to refuse. Barracks drill just isn’t for me.
+}
+Common_Soldier_110_f {
+Thank you for the compliment, soldier.
+}
+Common_Soldier_111 {
+This heat... I’d give half my life to be back in Europe.
+}
+Common_Soldier_112 {
+Yeah, you’re no soldier, that’s for sure.
+}
+Common_Soldier_113 {
+A soldier’s life is tough no matter where you are.
+}
+Common_Soldier_114 {
+@<RandPhraseSimple>
+}
+Common_Soldier_115_m {
+Wait a minute. I wanted to ask you something...
+}
+Common_Soldier_115_f {
+Wait a moment. There’s something I wanted to ask...
+}
+Common_Soldier_116_m {
+I have a feeling this is a trick... Let’s head over to the commandant’s office, my dear, and sort this out there...
+}
+Common_Soldier_116_f {
+I have a feeling this is a trick... Let’s head over to the commandant’s office, miss, and sort this out there...
+}
+Common_Soldier_117_m {
+Hmm, something tells me you’re not who you claim to be... Surrender your weapon at once, @<GetAddress_Form>, and follow me for further questioning!
+}
+Common_Soldier_117_f {
+Hmm, something tells me you’re not who you claim to be... Hand over your weapon at once, @<GetAddress_Form>, and follow me for further questioning!
+}
+Common_Soldier_118 {
+@<RandPhraseSimple>
+}
+Common_Soldier_119 {
+Not a chance!
+}
+Common_Soldier_120 {
+When pigs fly...
+}
+Common_Soldier_121 {
+@<RandPhraseSimple>
+}
+Common_Soldier_122 {
+Ah, I see... All right, you may go, @<GetAddress_Form>.
+}
+Common_Soldier_123 {
+I’m feeling a bit worn out on watch... Everything’s fine, @<GetAddress_Form>, my apologies.
+}
+Common_Soldier_124 {
+@<RandPhraseSimple>
+}
+Common_Soldier_125 {
+That’s right!
+}
+Common_Soldier_126 {
+Your license is subject to confiscation, as it has expired and is therefore invalid. Surrender your weapons and follow me for further questioning!
+}
+Common_Soldier_127 {
+Not a chance!
+}
+Common_Soldier_128 {
+When pigs fly...
+}
+Common_Soldier_129 {
+@<RandPhraseSimple>
+}
+Common_Soldier_130 {
+Hmm, that's correct. However, I must point out that your license expires today. I'll let you through this time, but you'll need to get a valid license.
+}
+Common_Soldier_131 {
+Thank you, I'll get a new one at the first opportunity.
+}
+Common_Soldier_132 {
+Hmm, that's correct. However, I must point out that your license will soon expire — it's only valid for @<FindDaysString> more. So keep that in mind, @<GetAddress_Form>.
+}
+Common_Soldier_133 {
+Thank you, I'll get a new one at the first opportunity.
+}
+Common_Soldier_134 {
+Very well, your license is still valid for @<FindDaysString>. You may proceed.
+}
+Common_Soldier_135 {
+All clear, @<GetAddress_Form>. You’re free to enter the city—your license is still valid for @<FindDaysString>. Sorry for the trouble.
+}
+Common_Soldier_136 {
+All is well, @<GetAddress_Form>, I won’t keep you any longer.
+}
+Common_Soldier_137 {
+@<LinkRandPhrase>
+}
+Common_Soldier_138 {
+Excellent. All the best.
+}
+Common_Soldier_139 {
+Thank you, officer.
+}
+Common_Soldier_140 {
+@<RandPhraseSimple>
+}
+Common_Soldier_141_m {
+Hey, mate, careful not to break anything at the lighthouse.
+}
+Common_Soldier_141_f {
+Hey, lass, careful not to break anything at the lighthouse.
+}
+Common_Soldier_142_m {
+The lighthouse is a very important site for the town. Be careful!
+}
+Common_Soldier_142_f {
+The lighthouse is a very important site for the town. Be careful!
+}
+Common_Soldier_143 {
+@<RandPhraseSimple>
+}
+Common_Soldier_144 {
+Alright, don’t worry.
+}
+Common_Soldier_145 {
+Everything will be fine.
+}
+Common_Soldier_146 {
+@<RandPhraseSimple>
+}
+Common_Soldier_147 {
+Stay away from the cannons—this is a military area!
+}
+Common_Soldier_148 {
+Access to the cannons by unauthorized persons is strictly forbidden!
+}
+Common_Soldier_149 {
+If I catch you hanging around the cannons, you're done for!
+}
+Common_Soldier_150 {
+@<LinkRandPhrase>
+}
+Common_Soldier_151_m {
+I understand you.
+}
+Common_Soldier_151_f {
+I understand you.
+}
+Common_Soldier_152_m {
+Alright, I understand.
+}
+Common_Soldier_152_f {
+Alright, I understand everything.
+}
+Common_Soldier_153 {
+@<RandPhraseSimple>
+}
+Common_Soldier_154_m {
+Yes, I confirm. He truly is a local.
+}
+Common_Soldier_154_f {
+Yes, I confirm. She truly is a local.
+}
+Common_Soldier_155_m {
+I understand. Thank you for your help.
+}
+Common_Soldier_155_f {
+I understand. Thank you for your help.
+}
+Common_Soldier_156 {
+All clear. Thanks for your help.
+}
+Common_Soldier_157 {
+@<RandPhraseSimple>
+}
+Common_Soldier_158_m {
+And who might you be, captain? Aren’t you an accomplice of the most notorious thief in the whole settlement?
+}
+Common_Soldier_158_f {
+And you, captain, who might you be? Not an accomplice of the most notorious thief in the whole settlement, are you?
+}
+Common_Soldier_159_m {
+Who are you calling an “accomplice”?! Got too much sun, have you?! Hey, hands off the girl!
+}
+Common_Soldier_159_f {
+Who are you calling an “accomplice”?! Got too much sun, have you?! Hey, hands off the girl!
+}
+Common_Soldier_160_m {
+Well, actually, I just met her...
+}
+Common_Soldier_160_f {
+Well, I actually just met her...
+}
+Common_Soldier_161_m {
+Sir, we’ve been ordered to detain her and escort her to the brig. And it’s pointless for you to think you can stop us.
+}
+Common_Soldier_161_f {
+Madam, we’ve been ordered to detain her and escort her to the dungeon. And it’s pointless for you to think you can stop us.
+}
+Common_Soldier_162 {
+Let’s find out right now...
+}
+Common_Soldier_163 {
+Yeah? Then you’d better check your pockets. You never know... That lady’s a real pro, with a capital “P.”
+}
+Common_Soldier_164 {
+Thanks, I’ll be sure to check. Can’t believe I made such a blunder...
+}
+Common_Soldier_165_m {
+Sir, we’ve been ordered to find this person and bring them to their father.
+}
+Common_Soldier_165_f {
+Ma’am, we’ve been ordered to find this lady and bring her to her father.
+}
+Common_Soldier_166 {
+Hm, well, go ahead and deliver it if that's the order.
+}
+Common_Soldier_167 {
+You’re too late. I’m already taking her home.
+}
+Common_Soldier_168 {
+Captain, we have our orders, and you’re mistaken if you think you can stop us.
+}
+Common_Soldier_169 {
+Let's find out right now...
+}
+Common_Soldier_170_m {
+Ah, lucky you. Her old man promised a handsome reward to whoever brings his daughter back...
+}
+Common_Soldier_170_f {
+Ah, lucky girl. Her father promised a handsome reward to whoever brings his daughter back...
+}
+Common_Soldier_171 {
+Don’t lose heart, your rewards are still ahead.
+}

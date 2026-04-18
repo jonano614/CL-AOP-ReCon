@@ -1,0 +1,1069 @@
+new_string	{
+
+}
+
+Potion parameter {Effet}
+Potion parameters {Les Effets}
+health value {Vie}
+energy value {Énergie}
+antidote {Antidote}
+drunk {Ivresse}
+weapon blade parameters {Arme : dégâts min/max #ddmg_min#/#ddmg_max#}
+weapon blade type {Type : #sFencingTypeName#}
+weapon gun parameters {Arme : dégâts min/max #ddmg_min#/#ddmg_max#, temps de rechargement : #dchargespeed# s, précision : #daccuracy#%}
+youve_got {Objet trouvé -}
+used_item {Objet utilisé -}
+lucky_find {Bonne pioche !}
+herb_find {Plante trouvée}
+itmname_gold {Piastres}
+itmdescr_gold {La Piastre (du italien « piastra d'argento » – « plaque d'argent ») est une grande pièce d'argent devenue une monnaie internationale prisée. Ce « dollar espagnol » est le butin convoité des pirates désireux de remplir leurs coffres d'argent.}
+itmname_chest {Coffre}
+itmdescr_chest {Coffre verrouillé. Rempli d’or, évidemment.}
+itmname_incas_collection {Trésor}
+itmdescr_incas_collection {Une sélection d’objets précieux, en or et pierres précieuses, chers au cœur comme au porte-monnaie.}
+itmname_coins {Perles maudites}
+itmdescr_coins
+{
+Perle noire rare. Sacrée pour certains, maudite pour d'autres !
+(-50 Chance)
+}
+itmname_incas_idol {Idole d’or}
+itmdescr_incas_idol
+{
+Idole d’or – clé du temple aztèque. Selon la légende, elle ouvrirait la porte de l’artefact. Un objet manifestement maudit…
+(-30 Escrime, -30 Chance, -30 Défense, -30 Précision, -20 Armes à feu, -20 Leadership)
+}
+itmname_piece_of_legend {Tablette aztèque}
+itmdescr_piece_of_legend {Moitié d’une tablette d’argile couverte d’anciennes inscriptions aztèques.}
+itmname_statue1 {Statuette de Xochipilli}
+itmdescr_statue1 {Une effigie dorée de la divinité qui préside à l’extase, à la joie, aux chants et aux danses, ainsi qu’à l’inspiration qui engendre le véritable art.}
+itmname_statue2 {Statue}
+itmdescr_statue2 {Une petite statue en calcaire.}
+itmname_statue3 {Statue}
+itmdescr_statue3 {Une petite statue en granit.}
+itmname_artefact {Artefact}
+itmdescr_artefact {Un artefact mystérieux trouvé dans un temple ancien. Lorsque vous le tenez, une sensation de picotement parcourt votre peau.}
+itmname_leather_bag {Sac de voyage}
+itmdescr_leather_bag {Un sac de voyage appartenant à une jeune fille ayant fui un bordel. Il contient un peu d’argent, des papiers, une robe convenable et d’autres maigres effets de la pauvre fille. À vrai dire, le sac lui-même pèse plus lourd que ce qu’il renferme.}
+itmname_bible {Bible}
+itmdescr_bible {Un texte religieux mystérieux, rédigé dans une langue inconnue.}
+itmname_ChurchManuscript {Manuscrit d’église}
+itmdescr_ChurchManuscript {Un manuscrit d’église à remettre au prêtre de #sCity#.}
+itmname_ChurchCup {Calice}
+itmdescr_ChurchCup {Un calice de communion que je dois remettre au prêtre de #sCity#. Assez lourd.}
+itmname_AscoldInventoryList {Liste d’inventaire}
+itmdescr_AscoldInventoryList {Inventaire des objets de valeur expédiés vers l’Espagne.}
+itmname_Ascold_rabble {Petit pied-de-biche}
+itmdescr_Ascold_rabble {Un pied-de-biche domestique. Il ne déplacera pas des montagnes, mais son extrémité effilée permet de bouger habilement des objets lourds — à condition de bien s’y prendre.}
+itmname_Powder_mummie {Poudre de momie}
+itmdescr_Powder_mummie {Restes pulvérisés d'une momie égyptienne. Une rareté incroyable dans cette région du monde.}
+itmname_Rock_letter {Tablettes de pierre}
+itmdescr_Rock_letter {Tablettes de pierre aux étranges inscriptions runiques.}
+itmname_Azzy_bottle {Lampe}
+itmdescr_Azzy_bottle {Une ancienne lampe orientale, soigneusement scellée de tous côtés. Des hiéroglyphes inconnus sont gravés sur la soudure d’étain. Un étrange artefact, étonnamment léger pour un objet en métal.}
+itmname_Malyava {Boule de papier}
+itmdescr_Malyava {Message d’un détenu à ses compagnons.}
+itmname_Term_arm {Bras métallique}
+itmdescr_Term_arm {Un objet étrange et énigmatique rejeté par les vagues sur la plage. Il ressemble à une main squelettique, mais il est fait de métal. Le bras a été trouvé dépassant d’un fragment de coque de navire, entièrement recouvert d’algues. Il est évident qu’il a longtemps dérivé au gré des flots. En l’examinant de plus près, on distingue une gravure : DT2022. Ce que cela signifie et quel artisan aurait pu forger une telle chose demeure un mystère…}
+itmname_BlackLabel {Tache noire}
+itmdescr_BlackLabel {La Tache Noire pour Edward Low. Un présage de mort.}
+itmname_ShipyardsMap {Plan du charpentier}
+itmdescr_ShipyardsMap {Plan de construction pour #sShipName#.}
+itmname_MayorsRing {Alliance de mariage}
+itmdescr_MayorsRing {L’alliance du gouverneur de #sCityName#.}
+itmname_UsurersJew {Pierre précieuse}
+itmdescr_UsurersJew {Un magnifique #sJevelType# de l'usurier de #sCityName#.}
+itmname_notes_of_legend {Légende indienne}
+itmdescr_notes_of_legend {Le texte d'une ancienne légende indienne, écrit sur parchemin.}
+itmname_copyes_of_legend {Copie de la légende}
+itmdescr_copyes_of_legend {Copie du texte de l’ancienne légende.}
+itmname_letter_1 {Lettre scellée}
+itmdescr_letter_1 {La lettre est scellée. Pour en connaître le contenu, vous devez la lire. Pour cela, il faut l’ouvrir.}
+itmname_letter_2 {Lettre scellée}
+itmdescr_letter_2 {La lettre est scellée. Pour en connaître le contenu, vous devez la lire. Pour cela, il faut l’ouvrir.}
+itmname_letter_EngLineQ4 {Lettre scellée au commandant du fort Orange}
+itmdescr_letter_EngLineQ4 {Un paquet scellé du sceau du gouverneur général de Curaçao, adressé personnellement au commandant du Fort Orange.}
+itmname_letter_HolLineQ3 {Lettre scellée à Mansvelt}
+itmdescr_letter_HolLineQ3 {Une lettre du gouverneur général Peter Stuyvesant de Curaçao, adressée personnellement au chef boucanier Edward Mansvelt.}
+itmname_letter_HolLineQ7_1 {Dépêche scellée à destination de Stuyvesant}
+itmdescr_letter_HolLineQ7_1 {Dépêche gouvernementale top secrète du gouverneur général Bertran d'Ogeron de la Tortuga française, adressée personnellement au gouverneur général Peter Stuyvesant de Curaçao.}
+itmname_letter_SpaLineQ10 {Lettre cachetée au gouverneur de Portobelo}
+itmdescr_letter_SpaLineQ10 {Une lettre adressée au gouverneur de Portobelo, écrite personnellement par le gouverneur de La Havane, don Francisco Oregon y Gascon.}
+itmname_letter_FraLineQ1 {Lettre cachetée pour Stuyvesant}
+itmdescr_letter_FraLineQ1 {Une lettre adressée au gouverneur Peter Stuyvesant des Provinces-Unies des Pays-Bas, rédigée personnellement par le gouverneur Bertran d'Ogeron de Tortuga.}
+itmname_letter_FraLineQ6 {Lettre scellée à Jean David}
+itmdescr_letter_FraLineQ6 {Lettre adressée à Jean David. Écrite de la main du gouverneur général de Tortuga, Bertrand d'Ogeron.}
+itmname_Andre_Abel_Letter_1 {Lettre scellée à Stuyvesant}
+itmdescr_Andre_Abel_Letter_1 {Lettre de Henry Morgan adressée au gouverneur général de Curaçao, Peter Stuyvesant.}
+itmname_Andre_Abel_Letter_2 {Lettre cachetée pour Jackman}
+itmdescr_Andre_Abel_Letter_2 {Lettre adressée à Jacob Fackman, écrite personnellement par Morgan, dans laquelle Henry demande à Jackman de cesser de poursuivre Andre Abel.}
+itmname_letter_EngLineQ8 {Lettre scellée pour Sancho Jimenez}
+itmdescr_letter_EngLineQ8 {Une lettre rédigée en espagnol, adressée au gouverneur Santiago Jose Sancho Jimenez et signée par Manuel Rivero Pardal.}
+itmname_letter_HolLineQ7_2 {Dépêche scellée pour d'Ogeron}
+itmdescr_letter_HolLineQ7_2 {Dépêche gouvernementale top secrète signée par le gouverneur général de Curaçao, Peter Stuyvesant, adressée personnellement au gouverneur général de Tortuga, Bertrand d'Ogeron. Strictement confidentiel. À détruire immédiatement en cas de compromission.}
+itmname_letter_open {Lettre ouverte}
+itmdescr_letter_open {La lettre semble avoir déjà été lue. Il est possible que le destinataire ne s'en aperçoive pas.}
+itmname_letter_open_EngLineQ4 {Lettre ouverte}
+itmdescr_letter_open_EngLineQ4 {Moi, Peter Stuyvesant, par l’autorité qui m’est conférée, j’ordonne de renforcer les fortifications du fort et de prendre toutes les mesures nécessaires pour résister avec succès à une attaque anglaise...}
+itmname_letter_open_EngLineQ8 {Lettre ouverte}
+itmdescr_letter_open_EngLineQ8 {Señor, notre expédition a été un succès ; Le Vega est détruite. Nous avons aussi fait une belle prise : 600 000 piastres d’argent. Le galion et les soldats de garnison que vous avez fournis, je les renvoie maintenant à Santiago. Je serai chez vous sous peu…}
+itmname_letter_FraLineQ3 {Lettre ouverte}
+itmdescr_letter_FraLineQ3 {Je comprends tout. Je suis prête à te suivre où que tu ailles. Ce soir, après minuit, j’ouvrirai la porte de la maison. Tu devras entrer discrètement chez moi et m’emmener. Je t’attends.}
+itmname_pirateStartQuest {Lettre ouverte}
+itmdescr_pirateStartQuest {Demain, le flûte 'Bacchus' en provenance de Belize doit approcher de l'île, transportant 300 esclaves à son bord. Le prix est habituel. J'enverrai Pfeiffer pour récupérer la commission.}
+itmname_letter_LSC {Lettre cachetée}
+itmdescr_letter_LSC {Lettre du coffre de Peter Stuyvesant}
+itmtext_letter_LSC {... Maintenant, au sujet de la question précédemment évoquée. Il semble que les rumeurs concernant l’Île reposent sur des faits avérés. Il est désormais évident qu’une éventuelle baisse des prix des produits de luxe entraînera une diminution significative de nos profits. Par conséquent, la Compagnie néerlandaise des Indes occidentales juge nécessaire de prendre les mesures appropriées pour éliminer tous les vagabonds en mer des Caraïbes...}
+itmname_letter_LSC_1 {Lettre d’Oliver Trust au quartier général}
+itmdescr_letter_LSC_1 {Lettre d’Oliver Trust à ses supérieurs}
+itmtext_letter_LSC_1
+{
+... Les vagabonds seront bientôt éliminés et ne pourront plus répandre de rumeurs sur l’Île. J’estime possible d’organiser une expédition vers le nord-ouest – dans la zone présumée de l’Île, au nord du cap Catoche et à l’ouest de La Havane. Il va de soi que l’expédition devra être renforcée par un groupe de combat afin de permettre la confiscation sans entrave des biens des habitants de l’Île...
+P.-S. Il est recommandé d’emmener un informateur lors de cette expédition.
+}
+itmname_letter_LSC_2 {Message de Teaser Dan}
+itmdescr_letter_LSC_2 {Lettre de Teaser Dan trouvée dans un coffre}
+itmtext_letter_LSC_2 {Demain, je quitte la Cité des Navires Perdus. Mon entreprise, bien que paraissant dangereuse, devrait bien se terminer car nous nous sommes préparés avec sérieux et minutie. Je verrouille ce coffre et j’emporte la clé avec moi vers le Nouveau Monde. Si un citoyen de la Cité trouve cette lettre, je lui demande de transmettre mes meilleurs vœux à tous les autres.}
+itmname_letter_notes {Lettre inachevée}
+itmdescr_letter_notes {Pardonne-moi, Juan, je dois suivre l’appel de mon cœur. Aujourd’hui, j’ai appris l’arrivée de l’homme qui m’emmènera vers lui...}
+itmname_order {Lettre de change}
+itmdescr_order {Un faux billet à ordre garanti par tous les biens mobiliers et immobiliers d’Isabella. Grâce à ces billets, Salvador a volé l’argent de sa femme.}
+itmname_letter_Albermal {Lettre signée par le duc Albermarle de Monck}
+itmdescr_letter_Albermal {Une lettre signée par le duc d’Albermarle et scellée du cachet du Parlement anglais. Adressée personnellement au gouverneur général de la Jamaïque, Sir Thomas Modyford.}
+itmname_Trust {Lettre de créance}
+itmdescr_Trust {Un document officiel attestant de l’autorité de son porteur, généralement délivré par un souverain ou un gouvernement pour autoriser des missions diplomatiques.}
+itmname_Trust_HolLineQ2 {Lettre de créance}
+itmdescr_Trust_HolLineQ2 {Lettre de créance du gouverneur général de Curaçao, Peter Stuyvesant, adressée au commandant du fort Orange. Délivrée pour autoriser l'achat et le transport d'une cargaison de café, d'ébène, d'acajou et de bois de santal à destination de Willemstad. Garantit des prix d'achat préférentiels.}
+itmname_sicretLetter {Dépêche secrète}
+itmdescr_sicretLetter {Un paquet de documents pour le gouverneur de #sCity#. #sMayor# l’attend au plus vite.}
+itmname_story_gramota {Charte}
+itmdescr_story_gramota
+{
+
+}
+itmname_HolFakeLicence {Faux brevet de la Compagnie néerlandaise des Indes occidentales}
+itmdescr_HolFakeLicence {Faux brevet de la Compagnie néerlandaise des Indes occidentales}
+itmname_EngTradeLicence {Licence de la Compagnie anglaise des Indes orientales}
+itmdescr_EngTradeLicence {Licence de la Compagnie anglaise des Indes orientales autorisant l’accès aux villes et ports des colonies anglaises. Délivrée le #sAction_date# ; valable pendant #sValidity#.}
+itmname_FraTradeLicence {Licence de la Compagnie française des Indes occidentales}
+itmdescr_FraTradeLicence {Licence de la Compagnie française des Indes occidentales autorisant l'accès aux villes et ports des colonies françaises. Délivrée le #sAction_date# ; valable pendant #sValidity#.}
+itmname_SpaTradeLicence {Licence commerciale espagnole}
+itmdescr_SpaTradeLicence {Licence commerciale espagnole délivrée par El Escorial, autorisant l’accès aux villes et ports des colonies espagnoles. Délivrée le #sAction_date# ; valable pendant #sValidity#.}
+itmname_HolTradeLicence {Licence de la Compagnie néerlandaise des Indes occidentales}
+itmdescr_HolTradeLicence {Licence de la Compagnie néerlandaise des Indes occidentales autorisant l'accès aux villes et ports des colonies néerlandaises. Délivrée le #sAction_date# ; valable pendant #sValidity#.}
+itmname_PorTradeLicence {Licence commerciale portugaise}
+itmdescr_PorTradeLicence {Licence commerciale portugaise délivrée par le vice-roi du Brésil, autorisant l’accès aux villes et ports des colonies portugaises. Délivrée le #sAction_date# ; valable pendant #sValidity#.}
+itmname_MapsAtlas {Atlas de cartes}
+itmdescr_MapsAtlas {Une collection de cartes des différentes régions des Caraïbes. Sans ces morceaux de parchemin, voyager à travers l’archipel pourrait s’avérer difficile.}
+itmname_map_bad {Vieille carte}
+itmdescr_map_bad {Une carte dressée par les premiers découvreurs du Nouveau Monde. Les croquis flous sur un parchemin jauni par le temps n’aident guère à situer précisément votre position.}
+itmname_map_normal {Carte ordinaire}
+itmdescr_map_normal {Cette carte a été conçue par et pour les marchands du quotidien. Avec ses grandes villes bien indiquées et les coordonnées précises des îles, elle fournit tout ce qu’il faut pour commercer dans ces eaux.}
+itmname_Map_Best {Excellente carte}
+itmdescr_Map_Best {Une copie de la carte du légendaire pirate Francis Drake. Elle contient presque tout ce dont un vrai loup de mer pourrait avoir besoin.}
+itmname_map_LSC {Carte de l’île Justice}
+itmdescr_map_LSC {Une carte de la Cité des Navires Perdus – un objet absolument indispensable dans certaines circonstances...}
+itmname_map_Pearl {Carte des bancs de perles}
+itmdescr_map_Pearl {Une carte indiquant les villages de pêcheurs de perles sur la Terre Ferme espagnole.}
+itmname_map_beliz {Carte du Belize}
+itmdescr_map_beliz {Une carte indiquant les environs de Belize.}
+itmname_map_santa {Carte de Santa Catalina}
+itmdescr_map_santa {Une carte indiquant les environs de Santa Catalina.}
+itmname_map_bermudas {Carte des Bermudes}
+itmdescr_map_bermudas {Une carte indiquant les environs et les routes de l’île de Bermuda.}
+itmname_map_jam {Carte de la Jamaïque}
+itmdescr_map_jam {Une carte indiquant les environs et les routes de l’île de la Jamaïque.}
+itmname_map_cuba {Carte de Cuba}
+itmdescr_map_cuba {Une carte indiquant les environs et les routes de l’île de Cuba.}
+itmname_map_hisp {Carte d'Hispaniola}
+itmdescr_map_hisp {Comment rejoindre les colonies et tout endroit isolé sur l’île d’Hispaniola : cette carte vous l’expliquera.}
+itmname_map_antigua {Carte d’Antigua}
+itmdescr_map_antigua {Une carte sommaire de l’île d’Antigua ; suffisante pour s’y repérer malgré tout.}
+itmname_map_barbados {Carte de la Barbade}
+itmdescr_map_barbados {Carte assez précise de l’île de la Barbade.}
+itmname_map_cayman {Carte de Cayman}
+itmdescr_map_cayman {Carte de l'île inhabitée de Cayman.}
+itmname_map_Curacao {Carte de Curaçao}
+itmdescr_map_Curacao {Une carte sommaire de l’île ; suffisante pour s’y repérer malgré tout.}
+itmname_map_guad {Carte de la Guadeloupe}
+itmdescr_map_guad {Une carte indiquant tous les sites remarquables et les routes importantes de l’île de Guadeloupe.}
+itmname_map_TORTUGA {Carte de Tortuga}
+itmdescr_map_TORTUGA {Une carte indiquant tous les sites et itinéraires importants de l’île de Tortuga.}
+itmname_map_dominica {Carte de la Dominique}
+itmdescr_map_dominica {Carte de l’île inhabitée de la Dominique.}
+itmname_map_martiniqua {Carte de la Martinique}
+itmdescr_map_martiniqua {Une carte de la Martinique, pour ne pas vous perdre.}
+itmname_map_trinidad {Carte de Trinidad et Tobago}
+itmdescr_map_trinidad {Une carte des deux îles de Trinidad et Tobago, qui vous évitera toute erreur de navigation.}
+itmname_map_nevis {Carte de Nevis}
+itmdescr_map_nevis {Une carte indiquant les environs et les routes de l’île de Nevis.}
+itmname_map_sm {Carte de San Martin}
+itmdescr_map_sm {En utilisant cette carte de San Martin, vous devriez atteindre votre destination sans difficulté.}
+itmname_map_terks {Carte de Turks}
+itmdescr_map_terks {Une carte de la sauvage île de Turks, tracée par une main inconnue.}
+itmname_map_maine_1 {Carte de la côte ouest du Main}
+itmdescr_map_maine_1 {Une carte unique couvrant une grande partie de la côte ouest du Spanish Main.}
+itmname_map_maine_2 {Carte du sud du Main}
+itmdescr_map_maine_2 {Une carte unique couvrant une grande partie du sud du Spanish Main.}
+itmname_map_panama {Carte du Panama}
+itmdescr_map_panama {Carte de l'isthme de Panama, situé sur la côte espagnole.}
+itmname_map_maracaibo {Carte du centre de Main}
+itmdescr_map_maracaibo {Carte de la partie centrale du Main couvrant les villes de Cartagena, Maracaibo et Caracas.}
+itmname_map_cumana {Carte de Cumana}
+itmdescr_map_cumana {Une carte de la partie du Main couvrant la ville de Cumana.}
+itmname_map_puerto {Carte de Puerto Rico}
+itmdescr_map_puerto {Une carte indiquant les lieux les plus importants de l’île de Puerto Rico.}
+itmname_map_providence {Carte d’Old Providence}
+itmdescr_map_providence {Une carte indiquant les environs et les routes de l’île de Cuba.}
+itmname_mapQuest {Carte au trésor}
+itmdescr_mapQuest {Cette carte indique l’emplacement d’un trésor supposé. Vous ne le saurez qu’en allant voir par vous-même !}
+itmname_map_full {Carte au trésor}
+itmdescr_map_full {Cette carte indique un endroit où un trésor serait caché. Mais pour en avoir le cœur net, il faut s’y rendre soi-même.}
+itmname_map_part1 {Fragment de carte au trésor}
+itmdescr_map_part1 {Ceci est un fragment de carte indiquant l’emplacement d’un trésor. Pour connaître l’endroit exact, il faut retrouver les morceaux manquants.}
+itmname_map_part2 {Fragment de carte au trésor}
+itmdescr_map_part2 {Ceci est un fragment de carte indiquant l’emplacement d’un trésor. L’endroit exact ne peut être découvert qu’en retrouvant les morceaux manquants.}
+itmname_LegransMap {Carte de Laurencillo}
+itmdescr_LegransMap {Une carte indiquant l’emplacement du trésor de Laurens de Graaf. Elle précise que le trésor est caché dans une grotte sur l’île inhabitée de Turks.}
+itmname_patent_eng {Lettre de marque anglaise}
+itmdescr_patent_eng {Lettre de marque délivrée par la chancellerie de Sa Majesté Charles II Stuart, attestant de votre service auprès de l’Angleterre. Elle vous engage à défendre les intérêts de l’État et à entretenir votre navire selon les règlements de la marine.}
+itmname_patent_hol {Lettre de marque hollandaise}
+itmdescr_patent_hol {Lettre de marque délivrée par la Chancellerie de Sa Majesté le Stathouder Guillaume III d’Orange, attestant de votre service auprès des Provinces-Unies des Pays-Bas. Vous êtes ainsi tenu de défendre les intérêts de l’État et d’entretenir votre navire conformément aux règlements de la marine.}
+itmname_patent_fra {Lettre de marque française}
+itmdescr_patent_fra {Lettre de marque délivrée par la Chancellerie de Sa Majesté Très Chrétienne Louis XIV, attestant de votre service auprès de la France. Elle vous engage à défendre les intérêts de l’État et à entretenir votre navire conformément aux règlements de la marine.}
+itmname_patent_spa {Lettre de marque espagnole}
+itmdescr_patent_spa {Lettre de marque délivrée par la Chancellerie de Sa Majesté Catholique Charles II de Habsbourg, attestant de votre service auprès de l’Espagne. Elle vous engage à défendre les intérêts de l’État et à entretenir votre navire selon les règlements de la marine.}
+itmname_patent_por {Lettre de marque portugaise}
+itmdescr_patent_por {Lettre de course délivrée par la chancellerie de Son Excellence Vasco Mascarenhas, attestant de votre service auprès du Portugal. Elle vous engage à défendre les intérêts de l’État et à entretenir votre navire selon les règlements de la marine.}
+itmname_OpenBook {Journal de bord de Richard Sawkins}
+itmdescr_OpenBook {Un journal de bord rempli à la va-vite des pensées chaotiques d’un vieux vaurien. Un tel document de navigation inspirerait la pitié à tout capitaine qui se respecte.}
+itmname_ShipsJournal {Journal de bord du capitaine Gray}
+itmdescr_ShipsJournal {Journal de bord du capitaine Gray.}
+itmname_PortmansBook {Journal de bord perdu}
+itmdescr_PortmansBook {Un journal de bord oublié par un capitaine distrait chez l’une des autorités portuaires. Il doit être restitué.}
+itmname_LogbookLSC {Journal de bord usé par le temps}
+itmdescr_LogbookLSC {Un journal de bord usé par le temps, à lire absolument.}
+itmdescr_LogbookLSCReading {Les entrées du journal de bord sont à peine lisibles, et le papier a pris l’humidité. On ne distingue que quelques mots : « tempête », « Tizer », « horrible », « fort », « maudit », « île », « crabes », « port ».}
+itmdescr_LogbookLSCDecrypted {Une page contenant un décryptage a été ajoutée au journal de bord habituel.}
+itmdescr_LogbookLSCDecryptedReading {Ce journal n’est peut-être qu’un leurre, ou bien la clé de quelque chose de plus grand. Seul le temps révélera la véritable utilité de cet objet.}
+itmname_RingCapBook {Journal de bord du 'Santa Lucia'}
+itmdescr_RingCapBook
+{
+Journal de bord du pinasse 'Santa Lucia'.
+À lire absolument – les dernières entrées ont sans doute été rédigées jusqu’au naufrage du navire.
+}
+itmdescr_RingCapBookRead {Journal de bord du pinasse 'Santa Lucia'.}
+itmtext_RingCapBook
+{
+... depuis Caracas, nous avons longé la côte jusqu’à un village indien qui récoltait de la coprah rien que pour moi. Être l’ami des Indiens est très avantageux. J’achèterai leur coprah, en évitant toutes les marges des revendeurs...
+... ce jour-là, le village était en fête. Le grand chef d’une tribu voisine était venu avec sa famille et les chefs de clan. On a bu une quantité innombrable de casiri. C’est là que je l’ai vue – l’incarnation même de la beauté naturelle et de la douceur. J’ai compris qu’elle était celle que le destin m’avait promise pour épouse...
+... elle s’appelait Wawaya, et il s’est avéré qu’elle était la plus jeune fille du grand chef de la tribu voisine. Je l’ai rencontrée et lui ai offert mes premiers présents pour gagner aussitôt son cœur. Et il semble que j’ai réussi – ma cour a été bien accueillie...
+... je reste encore quelques jours. Le coprah est chargé sur le navire, et je continue de parler avec la jeune Wawaya. Pendant ce temps, je suis tombé éperdument amoureux d’elle. Grâce au Créateur, elle a développé des sentiments réciproques pour moi ! Je suis fou de bonheur ! Selon la coutume de la tribu, je prépare la dot pour son père...
+... il m’a refusé ! Le père de Wawaya n’a pas accepté mes généreuses offrandes et m’a littéralement jeté hors de sa hutte. J’ai vu des larmes sur les joues de ma bien-aimée – elle aussi veut être avec moi ! Alors qu’il arrive ce qui doit arriver ! Je ne laisserai pas un sauvage, même son père, détruire notre bonheur...
+... Wawaya insiste pour offrir quelques bijoux précieux aux dieux de sa tribu avant de s’enfuir, afin d’obtenir leur soutien. Je n’ai pas protesté – une fois arrivés en Nouvelle-Espagne, ma bien-aimée délaissera peu à peu les coutumes païennes, recevra le baptême et deviendra une femme chrétienne respectable. Pour l’instant, nous nous dirigeons vers une idole au cœur de la jungle...
+... un homme blanc ne pourrait jamais trouver ce lieu sacré seul. En chemin, j’aurais pu mourir cent fois sans Wawaya – elle m’a montré les fosses cachées avec des pieux, les épines empoisonnées disséminées sur les sentiers, et les arbalètes piégées...
+... c’est incroyable ! Je n’ai jamais vu autant d’or ! Il y avait des pépites grosses comme des œufs d’oie ! Même la moitié de ces richesses suffirait à me mettre à l’abri pour le reste de mes jours. Wawaya s’y opposait, mais j’ai réussi à la convaincre. J’ai même doublé le montant de l’offrande pour apaiser ma bien-aimée...
+... ce n’est qu’au bout de deux semaines que mon second, l’intendant et moi avons transporté l’or indien jusqu’à la côte dans une charrette bâchée. Personne d’autre à bord n’est au courant – je ne fais pas confiance aux marins. De plus, l’équipage s’irrite de la longue attente au large de ces côtes sauvages où j’ai mené la ‘Santa Lucia’ pour échapper au père de Wawaya...
+... la nuit, nous avons transféré l’or à bord à trois et l’avons caché dans une caisse, en jetant l’excédent de coprah par-dessus bord. Nous avons recouvert l’or d’une épaisse couche de coprah – aucun marin ne devinerait jamais ce que contient cette caisse banale. Enfin, nous mettons les voiles. Encore deux semaines de voyage – et ma douce Wawaya et moi atteindrons la Nouvelle-Espagne pour nous marier à l’église. Nous sommes faits l’un pour l’autre et resterons ensemble jusqu’à ce que la mort nous sépare...
+... le calme plat dure depuis trois jours. La ‘Santa Lucia’ avance à peine, et nous n’avons même pas encore atteint la latitude de la Jamaïque. Je vois les regards en coin que les marins ignorants lancent à ma belle Wawaya – ils considèrent sa présence à bord comme un mauvais présage...
+... aujourd’hui, un marin, en disposant du poison pour rats dans la cale, a laissé tomber un flacon d’arsenic directement dans le tonneau d’eau potable. Comment il a fait, cela m’échappe encore. Cinquante gallons d’eau douce sont perdus. Le calme pers
+}
+itmname_unarmed {Non armé}
+itmdescr_unarmed {L’art de se défendre avec la seule arme dont on dispose toujours : ses poings.}
+itmname_blade5 {Dague de parade}
+itmdescr_blade5 {Ce poignard, avec ses quillons courbés et son anneau pour le pouce, est le favori des duellistes. Sa conception permet d'accrocher l'arme de l'adversaire pour le désarmer brièvement et ouvrir la voie à une riposte mortelle.}
+itmname_blade2 {Rapière vénitienne}
+itmdescr_blade2 {Une rapière simple et fiable, idéale pour le duel. Sa garde à anneaux permet des techniques de poignet, offrant des estocs mortels et des tailles circulaires sans bouger le coude.}
+itmname_blade6 {Épée de cour}
+itmdescr_blade6 {Cette lame se distingue par sa légèreté exceptionnelle et son équilibre parfait, avec une poignée confortable même pour les escrimeurs débutants. Cependant, elle est mal adaptée face à un cuirassier lourdement armé.}
+itmname_blade9 {Sidesword}
+itmdescr_blade9 {Cette épée à une main dotée d’une garde élaborée marque l’évolution de l’épée médiévale vers une meilleure protection de la main. Alliant capacités de taille et d’estoc, elle s’avère idéale aussi bien pour les duels que pour les rixes de rue. Les maîtres d’escrime italiens l’apprécient tout particulièrement pour son équilibre parfait et sa remarquable polyvalence.}
+itmname_blade19 {Rapière de Solingen}
+itmdescr_blade19 {Un véritable chef-d'œuvre de Solingen : une lame fine et équilibrée, conçue pour des estocs précis, tandis que sa garde complexe ornée de cinq pommeaux décoratifs incarne l’élégance de la Renaissance tardive. Beaucoup associent cette arme à Myles Standish, protecteur des premiers colons de Plymouth.}
+itmname_blade22 {Conchiglia}
+itmdescr_blade22 {Une rapière espagnole légère dotée d'une garde à branches protégeant les doigts et d'une coquille distinctive. Très prisée des duellistes en Espagne, dans le sud de l’Italie et aux Pays-Bas. Œuvre des maîtres artisans des guildes d’Aragon.}
+itmname_blade23 {Bretta}
+itmdescr_blade23 {Un chef-d'œuvre de la forge italienne, idéal aussi bien pour les duels formels que pour le champ de bataille. La particularité de la Bretta réside dans le rebord évasé de sa garde, conçu pour intercepter et dévier la pointe de la lame adverse.}
+itmname_blade27 {Morgana}
+itmdescr_blade27 {Une rapière d'une longueur exceptionnelle, dont la lame fine exige une prise à deux mains pour l'équilibrer. Œuvre du maître catalan Baldo del Pulpo, la légende veut que ce verdun ait appartenu au célèbre Morgan.}
+itmname_blade14 {Katana}
+itmdescr_blade14 {Une épée japonaise traditionnelle, sans doute arrivée en Europe grâce au commerce nanban portugais. Sa lame en acier replié allie une efficacité mortelle à une beauté artistique recherchée par les collectionneurs européens.}
+itmname_blade144 {Katana ancestrale}
+itmdescr_blade144 {Un sabre japonais à la lame d’exception et à la garde allongée, permettant des frappes à une ou deux mains. Pour le guerrier, cette épée devient le prolongement de son âme. Un chef-d’œuvre d’une beauté mortelle, transmis comme héritage dans une famille de samouraïs.}
+itmname_blade1 {Coupe-chou de canonnier}
+itmdescr_blade1 {Dans l’espace confiné d’un pont-batterie, peu d’armes valent mieux qu’une lame courte. Malheur à l’assaillant assez fou pour affronter ce coupeur impitoyable au corps à corps ! Mais sa portée fait défaut lors des combats sur le pont ou à terre.}
+itmname_blade4 {Sabre de cavalerie}
+itmdescr_blade4 {Une lame courbe à un seul tranchant en acier trempé, avec une poignée faite de plaques d’acier rivetées – assez fiable pour une brève escarmouche, mais peu probable de survivre à un combat prolongé.}
+itmname_vikingSword {Lame viking rouillée}
+itmdescr_vikingSword {Une ancienne épée viking de style carolingien, à la lame assombrie et à la garde usée, portant en elle les récits de batailles d’autrefois.}
+itmname_blade3 {Couteau de bord}
+itmdescr_blade3 {Une coutelas de marine doté d’une lame large, légèrement courbe, et d’une garde tout aussi imposante en bandes d’acier — une tentative de réunir les atouts du sabre et de la rapière en une seule arme. Mais ses défauts se sont révélés aussi nombreux que ses qualités.}
+itmname_blade7 {Bilbo}
+itmdescr_blade7 {Une épée espagnole abordable mais efficace, de type cut-and-thrust ou petit rapière de Bilbao, dotée d’une garde en forme de coupe et d’une lame large et robuste adaptée aux attaques de taille. Les bilbos réglementaires sont largement utilisés par les marins espagnols, particulièrement appréciés à bord où ils servent comme des coutelas d’abordage.}
+itmname_blade12 {Katzbalger}
+itmdescr_blade12 {Arme de poing standard de l’infanterie des compagnies de mercenaires Landsknecht. Sa garde en S flamboyante, son large pommeau plat et sa lame courte et large en font l’outil idéal pour les combats brutaux. Et dans les rangs serrés de l’infanterie, il n’a tout simplement pas d’égal !}
+itmname_blade18 {Hanger}
+itmdescr_blade18 {Nommée ainsi en raison de sa suspension à la ceinture ou à la grenouille, cette épée courte britannique se porte en biais, une position idéale pour les soldats et marins. Sa taille compacte et sa lame solide, légèrement courbée, permettent aussi bien les coups de taille que d’estoc, tout en conservant une grande agilité au corps à corps.}
+itmname_blade_maltes {Épée maltaise}
+itmdescr_blade_maltes {L’arme emblématique de l’Ordre de Malte. Cette lame polyvalente brille autant en attaque qu’en défense, incarnant les vertus chevaleresques de piété et de prouesse martiale.}
+itmname_blade31 {Shamshir}
+itmdescr_blade31 {Un sabre lourd perse à lame étroite, élégamment courbée (sans yelman) et à garde ottomane – idéal pour les guerriers qui apprécient aussi bien la taille que l’estoc ! Son ornementation somptueuse éblouit l’adversaire et affirme le rang noble de son porteur.}
+itmname_blade34 {Coquille Saint-Jacques}
+itmdescr_blade34 {Une épée exquise dotée d’une garde ornée en forme de coquille. Contrairement aux coquilles traditionnelles, ce modèle possède une lame inhabituellement longue et droite, le rapprochant de la rapière. Cette combinaison évoque une forme de transition—entre arme de guerre et symbole de prestige. Utilisée lors de duels, elle souligne le rang élevé de son propriétaire.}
+itmname_blade30 {Nobilis}
+itmdescr_blade30 {Nobilis (signifiant « noble ») – le sommet de la forge saxonne. Sa lame, forgée en acier de Solingen, allie une tranchant mortel à une élégance raffinée, tandis que la garde italienne à branches, enroulée en boucles délicates, protège la main avec efficacité et une touche d’aristocratie.}
+itmname_blade24 {Schiavona}
+itmdescr_blade24 {Épée emblématique de la Garde slavone-dalmate protégeant les doges vénitiens. Sa lame fine à double tranchant garantit une précision mortelle à chaque coup, tandis que sa garde en panier — célèbre pour sa défense quasi impénétrable — lui a valu le surnom affectueux de « Berceau ».}
+itmname_blade25 {Karabela}
+itmdescr_blade25 {Sabre polonais doté d’un yelman double tranchant caractéristique et d’une garde ornée avec un pommeau en forme de tête d’aigle. La géométrie unique de la lame permet des attaques de taille à la fois précises et puissantes, la rendant redoutable lors des charges de cavalerie comme dans le combat d’infanterie. Cette lame luxueuse est un symbole de statut pour la noblesse polonaise.}
+itmname_blade32 {Flamberge}
+itmdescr_blade32 {Rapière de duelliste à longue lame ondulée, conçue pour empêcher toute prise désarmante, dotée d’une garde caractéristique en « pince de crabe ». Si les possesseurs de telles lames sont mal vus dans la bonne société, nul ne saurait nier l’élégance mortelle de cette arme.}
+itmname_blade26 {Pappenheimer}
+itmdescr_blade26 {Une rapière lourde dotée d’une garde en coupe imposante et de longs quillons courbés. Sa lame « Stantler » parfaitement équilibrée est conçue pour des estocs précis et des contre-attaques fulgurantes. Appréciée autant des duellistes pour sa maîtrise que des cavaliers pour sa puissance de pénétration — l’alliance parfaite de l’élégance et de l’efficacité létale.}
+itmname_blade37 {Machette}
+itmdescr_blade37 {La spécialité locale. Une longue lame de coupe en acier de mauvaise qualité, largement utilisée pour tailler la canne à sucre, les lianes... et les membres.}
+itmname_RapierReCon {Maledictio Liberatoris}
+itmdescr_RapierReCon {Un chef-d'œuvre de l'art de la forge et un véritable artefact, doté d'une garde dorée et d'une lame bleuie. À en juger par la gravure, elle pendait autrefois à la ceinture d'un légendaire capitaine corsaire. Malgré son âge vénérable, l'équilibre superbe et la prise en main aisée de cette arme permettent à un escrimeur chevronné de porter des coups foudroyants et mortels.}
+itmname_blade10 {Fauchon}
+itmdescr_blade10 {L’ancêtre fier du sabre : une épée à un seul tranchant, dotée d’une lame courte qui s’élargit vers la pointe. Améliorée au XVe siècle avec une courbure typique du « style yatagan » et une garde en croix, elle devient redoutable pour les coups de taille et facile à produire en série.}
+itmname_blade35 {Cordelas}
+itmdescr_blade35 {À l’origine, ce sabre était remis aux diplômés des écoles d’escrime de Gênes, symbole du titre de « Maître d’armes ». Aujourd’hui, grâce aux leçons publiques des maîtres itinérants, il est devenu l’arme de prédilection des citadins.}
+itmname_blade17 {Claymore}
+itmdescr_blade17 {L’épée écossaise à deux mains emblématique (claidheamh mòr), dotée de quillons inclinés vers l’avant. Son équilibre parfait permet aux guerriers puissants de la manier d’une seule main, tandis que sa lame massive domine la portée au combat.}
+itmname_blade8 {Messer}
+itmdescr_blade8 {Une épée fiable et facile à fabriquer, à lame unique, dont la garde rappelle la construction d’un couteau. Les gardes urbains et les mercenaires l’apprécient pour son excellent rapport qualité-prix et sa fiabilité au combat. La maîtrise de cette lame fait partie du programme d’entraînement standard des guildes d’escrime d’Europe centrale.}
+itmname_blade11 {Reitschwert}
+itmdescr_blade11 {Épée chevaleresque à une main, dotée d’une garde en croix et d’une large lame droite, capable de trancher presque toutes les armures. Cependant, son poids et son équilibre la rendent très peu pratique au combat à pied.}
+itmname_blade16 {Sabre de cavalerie}
+itmdescr_blade16 {Une épée large, droite et lourde, prisée par la cavalerie et les cuirassiers. Sa conception simple dissimule une fiabilité inébranlable et une redoutable efficacité au corps à corps. Cette lame exige un bras puissant et une poigne assurée...}
+itmname_blade15 {Storta}
+itmdescr_blade15 {Légendaire sabre-épée étroit des officiers de marine vénitiens, célèbre pour ses victoires contre les Turcs et les Algériens. Habituellement accompagné d’une rapière, mais les marins disaient : La rapière brille, la Storta fait mouche !}
+itmname_blade21 {Épée bâtarde}
+itmdescr_blade21 {Une épée de guerre magnifique forgée à Passau, dotée d’une lame massive idéale pour les attaques d’estoc capables de transpercer n’importe quelle armure de plates. Saisie à deux mains, un guerrier expérimenté peut fendre un adversaire en deux d’un seul coup puissant !}
+itmname_blade13 {Krakemart}
+itmdescr_blade13 {Un sabre court et massif à lame à double tranchant – l’arme de prédilection des marins d’autrefois. Parfait pour l’abordage : transperce les armures, tranche et perce dans l’étroitesse des ponts. Exige de la force, mais libère une puissance brutale.}
+itmname_blade20 {Épée large écossaise}
+itmdescr_blade20 {Lame droite à un seul tranchant, dotée d’une large garde panier offrant une excellente protection de la main. Prisée par les clans écossais, cette arme privilégie la force brute à la finesse. Sa conception simple et robuste la rend idéale pour le combat rapproché, surtout face à des adversaires légèrement protégés.}
+itmname_blade33 {Épée mortuaire}
+itmdescr_blade33 {Lorsque les forgerons allemands ont uni la puissance d’une épée large à l’élégance d’une rapière, le Haudegen est né : sa lame droite et robuste permet aussi bien les tailles que les estocs, tandis que sa garde solide à anneaux latéraux protège efficacement la main. D’abord conçu pour la cavalerie, il a rapidement séduit l’infanterie — aussi efficace pour les assauts brutaux que pour l’escrime raffinée.}
+itmname_blade28 {Flammard}
+itmdescr_blade28 {Épée bâtarde unique, forgée sur mesure, dotée d’une « lame flamboyante ». Elle allie la puissance brute d’un zweihander à l’agilité d’une épée bâtarde — son tranchant ondulé accroît la force de coupe et déstabilise les parades. Entre des mains expertes, cette lame cauchemardesque transperce les armures et laisse des blessures atroces. Un instrument d’anéantissement précis.}
+itmname_VikingHeroSword {Dainsleif}
+itmdescr_VikingHeroSword
+{
+Une épée tout droit sortie des légendes des anciens Scandinaves. On raconte que cette arme possédait des propriétés uniques : elle ne regagnait son fourreau qu’après avoir versé du sang, ne manquait jamais sa cible, et les blessures qu’elle infligeait tardaient à guérir.
+~
+La première attaque lourde portée sera toujours réussie.
+~
+Bénéficie de 20 % de chance supplémentaire de traverser la garde ennemie.
+}
+itmname_kocherg {Tisonnier}
+itmdescr_kocherg {Un vieux tisonnier rouillé. Ce n'est pas vraiment une arme, mais il est assez lourd et possède un manche solide.}
+itmname_spear1 {Naab'Te}
+itmdescr_spear1 {Une courte lance à une main utilisée par les Indiens de la tribu Itza, dotée d’une traverse et d’une pointe en acier forgée à partir d’une hallebarde européenne brisée.}
+itmname_spear2 {Harpon}
+itmdescr_spear2 {Un harpon de baleinier : un seul coup suffit pour transpercer un homme et l’attirer à soi. Si les ardillons restent coincés, il ne peut être retiré que par découpe du corps.}
+itmname_topor3 {Marteau-piqueur}
+itmdescr_topor3 {Ce marteau redoutable concentre toute sa force sur une petite zone d’impact. Un coup bien placé peut mettre à terre même les guerriers aguerris, bien que la pointe du marteau-piqueur, conçue pour transpercer les armures, reste souvent obstinément plantée dans sa victime.}
+itmname_topor5 {Tomahawk}
+itmdescr_topor5 {Une hache étroite dotée d’un bec à l’arrière, redoutable au corps à corps et très utile lors des expéditions dans la selva. Cette hache est très recherchée par les colons, bien qu’elle ait été conçue à l’origine pour le troc avec les Indiens locaux, qui ne maîtrisaient pas le travail du fer.}
+itmname_vikingAxe {Vieille hache viking}
+itmdescr_vikingAxe {Une vieille hache viking à la lame rouillée et au manche usé porte en elle la mémoire des batailles passées...}
+itmname_topor1 {Hache danoise}
+itmdescr_topor1 {Cette hache de guerre danoise, héritière directe de la francisca, occupe une place intermédiaire entre les armes contondantes et tranchantes. Son long manche robuste permet à son porteur d’affronter à armes égales même des adversaires montés.}
+itmname_topor2 {Hache de cavalier}
+itmdescr_topor2 {L’arme polyvalente par excellence : sa lame en croissant et son long manche permettent de puissants coups à deux mains, la pointe perce les cuirasses les plus solides, tandis que le crochet inversé de la lame déchire la chair.}
+itmname_topor4 {Massue de guerre}
+itmdescr_topor4 {Une masse itza rappelant la crosse d’un mousquet. Sa forme convexe permet de concentrer la force sur la pointe et de percer une cuirasse d’acier avec le pic.}
+itmname_maquahuitl {Macuahuitl}
+itmdescr_maquahuitl {Épée-masse lourde des Aztèques et des Mayas, fabriquée en bois de fer et incrustée de tranchants éclats d’obsidienne collés sur les côtés. Les conquistadors rapportaient que les Indiens pouvaient trancher la tête des chevaux espagnols d’un seul coup de cette arme redoutable.}
+itmname_lead1 {Poing américain}
+itmdescr_lead1 {Des pointes acérées et un équilibre parfait rendent cette arme redoutable au combat. Mais tout est dans le bon timing de l’attaque : c’est là le vrai secret.}
+itmname_blade111 {Dérive pivotante}
+itmdescr_blade111 {Épée à une main de reître allemand du XVIIe siècle, dotée d’une large lame droite. Issue des modèles médiévaux, elle se distingue par l’ajout d’anneaux de garde et d’arceaux de protection — l’ultime évolution de l’épée chevaleresque avant l’avènement de la rapière.}
+itmname_arm1 {Yatagan}
+itmdescr_arm1 {L’arme redoutable des janissaires. Cette lame damasquinée d’une extrême finesse fut forgée dans les ateliers impériaux d’Istanbul. À en juger par ses ornements et le motif sur la lame, elle appartenait à un kalafatci vardiyan (officier subalterne) et fut prise comme trophée lors d’un combat acharné...}
+itmname_blade350 {Cimeterre ancien}
+itmdescr_blade350 {Une relique ancienne des siècles passés. Sa pointe absurdement large et sa courbure grossière lui donnent un aspect archaïque, tandis que sa lame lourde exige des techniques de taille inhabituelles. Bien que son design soit dépassé, de nombreux marins l’apprécient encore pour sa puissance de coupe dévastatrice.}
+itmname_blade133 {Épée wallonne}
+itmdescr_blade133 {Une épée de cavalerie liégeoise éprouvée, dotée d’une lame lourde et d’une garde protégeant solidement la main derrière un enchevêtrement de barres d’acier — l’arme de prédilection non seulement d’un bretteur aguerri, mais aussi d’un aventurier audacieux !}
+itmname_pistol1 {Pistolet}
+itmdescr_pistol1 {Un produit bon marché et mal conçu de la Plymouth Company. Assemblé en Virginie à partir de « pièces détachées » importées : une platine bavaroise bon marché sans cran de sécurité, un canon espagnol noirci par immersion dans la cendre chaude. Dangereux uniquement à très courte portée.}
+itmname_pistol2 {Pistolet à long canon}
+itmdescr_pistol2 {Pistolet de selle modifié, fabriqué à Zula spécialement pour la Compagnie des Indes occidentales. Fiable, simple, doté d’une portée correcte et d’une force létale. Il reste cependant difficile à recharger et manque cruellement de précision.}
+itmname_pistol3 {Pistolet tromblon}
+itmdescr_pistol3
+{
+Le pistolet tromblon, initialement conçu pour la cavalerie italienne, fut rapidement adopté par la marine française. Peu efficace contre des ennemis agiles ou lourdement protégés, mais un tir dans une foule de va-nu-pieds fera forte impression. Large rayon d’explosion avec la chevrotine, mais la portée, la cadence de rechargement et la précision laissent à désirer.
+~
+Nécessite l’avantage "Arts de tir de base".
+}
+itmname_pistol4 {Pistolet à quatre canons}
+itmdescr_pistol4
+{
+Ce pistolet à quatre canons possède de larges calibres et plusieurs mécanismes à ressort. Lourd et coûteux, il se distingue par ses dégâts et sa capacité à tirer quatre coups rapides avant de devoir recharger.
+~
+Nécessite l’avantage « Tir professionnel ».
+}
+itmname_pistol5 {Pistolet de bretteur}
+itmdescr_pistol5 {Ce pistolet est un véritable chef-d'œuvre. Portée et précision excellentes, rechargement rapide et puissance d'impact élevée. Toujours un argument de poids dans n'importe quel différend. Avec une cadence de rechargement très rapide, c'est l'un des meilleurs pistolets que vous puissiez trouver.}
+itmname_pistol6 {Pistolet à double canon}
+itmdescr_pistol6
+{
+Un excellent pistolet milanais à deux canons, idéal quand une seule balle ne suffit pas.
+~
+Nécessite la compétence "Arts du tir expert".
+}
+itmname_pistol7 {Revolver à silex Collier}
+itmdescr_pistol7
+{
+Une arme venue d’un lointain futur : un revolver à silex à cinq coups, doté d’un barillet à rotation manuelle et d’un mécanisme ajoutant automatiquement la poudre d’amorçage sur la bassinet.
+~
+Nécessite l’avantage « Tir professionnel ».
+}
+itmname_mushket_poor {Vieux mousquet}
+itmdescr_mushket_poor
+{
+Un vieux mousquet à mèche bon marché, dont la devise pourrait être « avec un peu de chance, vous toucherez la cible »...
+~
+Nécessite l’avantage « Entraînement de mousquetaire ».
+}
+itmname_mushket {Mousquet à mèche}
+itmdescr_mushket
+{
+Ce mousquet puissant et lourd était typique des armes à mèche utilisées par l’infanterie dans la première moitié du XVIIe siècle.
+~
+Nécessite l’avantage « Entraînement de mousquetaire ».
+}
+itmname_mushket_flint {Mousquet à silex}
+itmdescr_mushket_flint
+{
+Un fusil à canon lisse à chargement par la bouche, doté d’un mécanisme plus fiable que l’ancien à mèche. Le principe du silex est simple : presser la détente libère l’arrêtoir et fait partir le chien, qui frappe un morceau d’acier appelé « batterie ». En même temps, le mouvement du silex et du chien repousse la batterie, ouvrant le couvercle d’une bassinet dissimulée contenant une petite charge de poudre.
+
+~
+Nécessite l’avantage « Entraînement de mousquetaire ».
+}
+itmname_mushket_H2 {Mousquet exclusif à double canon}
+itmdescr_mushket_H2
+{
+Un mousquet à deux canons à silex fabriqué sur commande. Une pièce d’exception de l’art armurier. Malgré son prix élevé, sa conception est quelque peu dépassée. Pourtant, avec toute sa puissance et son efficacité, cette remarquable carabine exige de son propriétaire une certaine habileté et de l’expérience.
+~
+Nécessite les avantages « Formation de mousquetaire » et « Tir professionnel ».
+}
+itmname_mushket_indian {Mousquet de Tichingit}
+itmdescr_mushket_indian
+{
+Arme à feu ancestrale de Tichinguit. Un exemplaire unique issu d’un fusil indien. Il possède une gravure spéciale et un mécanisme amélioré. Grâce à cela, l’arme offre une grande précision et une vitesse de rechargement accrue.
+~
+Nécessite l’avantage « Entraînement de mousquetaire ».
+}
+itmname_mushket2x2 {Mousquet à deux canons}
+itmdescr_mushket2x2
+{
+Chef-d'œuvre de l’armurerie de Saint-Étienne. Ce sont les Français qui ont créé l’arme rayée à double canon en perfectionnant la platine à batterie. Impossible d’utiliser cette arme sans une formation militaire dans l’Ancien Monde.
+~
+Nécessite les talents « Entraînement de mousquetaire » et « Tir professionnel ».
+}
+itmname_mortar {Mortier à main}
+itmdescr_mortar
+{
+Le mortier de main est un excellent allié pour attaquer de petits groupes d’ennemis. Son usage le plus efficace reste l’embuscade. Tire des pétards ou des grenades. Nécessite l’avantage Formation de Mousquetaire.
+~
+Nécessite les avantages « Formation de Mousquetaire » et « Tir Professionnel ».
+}
+itmname_nocirass {Pas de cuirasse}
+itmdescr_nocirass {Porter une armure trop longtemps finit par épuiser. Retirez-la, mettez-vous à l’aise, et savourez une tasse de café chaud à la cannelle ou quelque chose de plus corsé.}
+itmname_cirass1 {Cuirasse lamellaire}
+itmdescr_cirass1
+{
+Une armure lamellaire de soldat bon marché. Grossièrement façonnée à partir de cuirasses usées découpées et reforgées en plaques – elle offre tout de même une protection minimale.
+~
+Une fois équipée : réduit les dégâts de 10 %.
+}
+itmname_cirass2 {Cuirasse de cuirassier}
+itmdescr_cirass2
+{
+Armure de cavalerie lourde. Composée de seulement deux plaques d’acier, elle s’avère encombrante pour l’escrime prolongée.
+~
+Une fois équipée : réduit les dégâts subis de 18 %.
+}
+itmname_cirass4 {Cuirasse d’officier}
+itmdescr_cirass4
+{
+Une armure de tranchée d’origine espagnole, conçue pour le combat actif et offrant une protection fiable aux officiers en pleine bataille.
+~
+Une fois équipée : réduit les dégâts subis de 22 %.
+}
+itmname_cirass3 {Cuirasse de garde}
+itmdescr_cirass3
+{
+Cuirasse florentine de cérémonie richement décorée, finement ciselée, conçue avant tout pour la garde du palais et donc allégée.
+~
+Une fois équipée : réduit les dégâts subis de 28 %.
+}
+itmname_cirass5 {Cuirasse d’exception}
+itmdescr_cirass5
+{
+Une armure d'une rareté exceptionnelle, d'une beauté saisissante et d'une solidité inégalée, sans doute forgée à Milan. Son acier doré, finement orné, repousse sans faillir les coups les plus puissants.
+~
+Équipée : réduit les dégâts de 35 %.
+}
+itmname_suit_1 {Haillons}
+itmdescr_suit_1
+{
+Ces vêtements ne conviennent qu’à un vrai vagabond. Jamais lavés, ils dégagent une odeur épouvantable, capable de faire fuir n’importe qui.
+~
+Équipé : +20 furtivité.
+}
+itmname_suit_2 {Tenue de marchand}
+itmdescr_suit_2
+{
+Tenue urbaine vénitienne : culotte et pourpoint raffinés ornés de boutons et de brandebourgs, accompagnés d’une chemise de soie bordée de dentelle. Cet ensemble met en valeur le goût raffiné et la grande fortune de celui qui le porte.
+~
+Portée : +20 Commerce.
+}
+itmname_suit_3 {Tenue noble}
+itmdescr_suit_3
+{
+Une veste matelassée brodée de galons et de rubans aériens, chemise en batiste à col montant, « culottes espagnoles » et bas de soie : de quoi imposer le respect, même aux têtes couronnées.
+~
+Portée : +20 Leadership.
+}
+itmname_underwater {Scaphandre de plongée}
+itmdescr_underwater {Tenue unique permettant de se déplacer sur le fond à faible profondeur.}
+itmname_spyglass1 {Longue-vue bon marché}
+itmdescr_spyglass1
+{
+Regarder à travers cette vieille longue-vue, c’est comme essayer d’observer le monde à travers les vitres crasseuses d’un bouge. Ce débris n’a rien à faire dans la poche d’un capitaine digne de ce nom.
+~
+Permet de voir : le type, le nom et la vitesse du navire.
+}
+itmname_spyglass2 {Longue-vue ordinaire}
+itmdescr_spyglass2
+{
+Votre longue-vue classique. Les lentilles sont correctes, mais il existe mieux.
+~
+Permet de voir : le type, le nom, la vitesse du navire et l’état des voiles.
+}
+itmname_spyglass3 {Bonne longue-vue}
+itmdescr_spyglass3
+{
+Une longue-vue coûteuse, dotée de lentilles d’excellente qualité. Elle permet de distinguer le sourire en coin d’un navigateur à un mille de distance.
+~
+Permet de voir : le type, le nom, la vitesse, le nombre et le calibre des canons, les dégâts subis par le navire, ainsi que les mousquetaires sur le pont.
+}
+itmname_spyglass4 {Longue-vue excellente}
+itmdescr_spyglass4
+{
+Longue-vue équipée de lentilles en « béryl » poli. Seul un télescope réflecteur pourrait faire mieux.
+~
+Permet de voir : le type, le nom, la vitesse, le nombre et le type de munitions des canons, les dégâts subis par le navire, l’effectif de l’équipage, ainsi que les mousquetaires parmi les soldats ennemis.
+}
+itmname_spyglass5 {Longue-vue nautique}
+itmdescr_spyglass5 {Une lunette unique en son genre, aussi efficace pour observer les lunes de Jupiter que pour repérer des navires en mer. Fabriquée par un maître hollandais, ses lentilles taillées dans le cristal de montagne le plus pur et l’utilisation du trépied permettent de voir absolument tout au-dessus de l’horizon, y compris les types de canons utilisés sur un navire ou dans un fort.}
+itmname_bullet {Balle en plomb}
+itmdescr_bullet
+{
+Petites mais redoutablement mortelles, ces balles en plomb conviennent à tous les types de pistolets, sauf aux tromblons.
+* * *
+Gardez-en toujours sur vous, car tirer sans balles est impossible.
+Les dégâts infligés dépendent du type d’arme à feu utilisé.
+}
+itmname_GunPowder {Poudre à canon}
+itmdescr_GunPowder
+{
+Un mélange de soufre, de charbon et de salpêtre (nitrate de potassium).
+* * *
+Indispensable au fonctionnement de toute arme à feu. La consommation de poudre varie selon le type d’arme.
+}
+itmname_grapeshot {Balle à plomb}
+itmdescr_grapeshot {Petites billes de plomb, aussi appelées plombs de chasse. Peuvent être tirées avec des armes à feu à canon lisse pour mitraille. Peuvent toucher plusieurs cibles à la fois.}
+itmname_cartridge {Cartouche en papier}
+itmdescr_cartridge {Cartouche en papier combinant une charge de poudre, une balle en plomb et une bourre. Technologie de pointe du XVIIe siècle. Leur utilisation accélère considérablement le rechargement.}
+itmname_petard {Pétard}
+itmdescr_petard {Pétard à tirer avec un mortier de main. Produit un éclair vif à l’explosion et peut étourdir plusieurs cibles à la fois. Risque de toucher les alliés.}
+itmname_grenade {Grenade}
+itmdescr_grenade {Grenade pouvant être tirée avec un mortier de main. Peut infliger de lourds dégâts à plusieurs cibles à la fois. Risque de tir allié.}
+itmname_harpoon {Flèche}
+itmdescr_harpoon {Flèche courte et lourde en fer, fabriquée à partir d’un harpon, pouvant être tirée avec un blunderbuss. Son poids et sa pointe renforcée peuvent sérieusement mettre à mal un ennemi en armure.}
+itmname_GunPowder_colt {Poudre sans fumée}
+itmdescr_GunPowder_colt {Poudre améliorée brûlant plus rapidement et plus proprement. Nécessaire pour fabriquer des cartouches de revolver Colt.}
+itmname_bullet_colt {Balle de revolver}
+itmdescr_bullet_colt {Balle pour charger les chambres d’un barillet de revolver. Fabriquée à l’aide d’un moule à balles.}
+itmname_cartridge_colt {Cartouche de revolver}
+itmdescr_cartridge_colt {Une charge de poudre et une balle dans un étui en laiton étanche. Sert à accélérer le rechargement des revolvers à barillet non amovible.}
+itmname_GunCap_colt {Capsule à percussion}
+itmdescr_GunCap_colt {Capsule en cuivre à fulminate d'argent. Nécessaire pour tirer des cartouches avec le revolver Collier.}
+itmname_GunEchin {Grappes de clous}
+itmdescr_GunEchin
+{
+Clous grossièrement taillés pour le tir au blunderbuss de gros calibre. Ils infligent des dégâts dévastateurs aux corps humains et aux canons.  
+Grâce à leur forme, ils réduisent la dispersion de l’arme.
+}
+itmname_fulminate_silver {Fulminate d’argent}
+itmdescr_fulminate_silver {Comme le souffle de l’hiver figé – ces filaments d’argent mortels luisent d’un froid surnaturel, leur beauté dissimulant la violence tapie en eux.}
+itmname_ethanol {Alcool éthylique}
+itmdescr_ethanol {Certains alchimistes fous utilisent cet alcool éthylique pur pour préparer du fulminate d’argent, au lieu de le boire comme tout le monde.}
+itmname_nitric_acid {Acide nitrique}
+itmdescr_nitric_acid {L’acide nitrique est connu depuis le VIIIe siècle. Il peut servir à fabriquer du fulminate d’argent, à condition de disposer d’un creuset résistant au feu et non métallique. Extrêmement réactif. Évitez tout contact avec la peau et, par pitié, ne le goûtez pas.}
+itmname_herb_zingiber {Racine de gingembre}
+itmdescr_herb_zingiber
+{
+Au Moyen Âge, le gingembre fut introduit en Europe, où il est utilisé comme épice et remède, ainsi que comme principal moyen de prévenir la peste.
+Au siècle dernier, il fut introduit clandestinement depuis l’Asie vers les îles des Caraïbes.
+La poudre de rhizome de gingembre est utilisée pour normaliser l’état des vaisseaux sanguins.
+}
+itmname_herb_matricaria {Matricaire}
+itmdescr_herb_matricaria
+{
+La matricaire, plus connue sous le nom de camomille.
+Le nom Matricaria a été donné à ce genre en raison de son utilisation traditionnelle dans le traitement des maladies gynécologiques.
+La tisane de camomille peut améliorer la qualité du sommeil.
+}
+itmname_herb_ginseng {Ginseng}
+itmdescr_herb_ginseng {Largement utilisé en médecine chinoise comme remède à tous les maux.}
+itmname_potion1 {Potion de soin}
+itmdescr_potion1 {Une potion d’herbes médicinales capable de soigner rapidement les blessures légères.}
+itmname_potion2 {Élixir}
+itmdescr_potion2 {Préparé à partir de plus d'une centaine de plantes rares, cet élixir curatif peut guérir même les blessures les plus terribles.}
+itmname_potion3 {Antidote}
+itmdescr_potion3 {Une décoction de diverses plantes réputées pour neutraliser de nombreux poisons. Le goût est infect, mais tout le monde vous dira qu’il vaut mieux ça que de mourir empoisonné.}
+itmname_potion4 {Mixture}
+itmdescr_potion4 {Ce mélange combine une potion de soin et un antidote, éliminant le poison tout en guérissant les blessures.}
+itmname_potion5 {Raisin}
+itmdescr_potion5 {Le raisin juteux redonne vite des forces et étanche même la plus grande soif.}
+itmname_potionrum {Bouteille de rhum}
+itmdescr_potionrum {Aucun rhum ne saurait terrasser un pirate comme vous, alors buvez sans hésiter... Au fait, si vous êtes blessé, l’alcool qu’il contient peut aider à soigner vos plaies et prévenir l’infection.}
+itmname_potionwine {Excellent vin}
+itmdescr_potionwine {L’un des meilleurs vins français des Caraïbes. Son effet relaxant vous aidera à retrouver vos forces et à prévenir les infections.}
+itmname_jewelry1 {Saphir}
+itmdescr_jewelry1 {Un rare saphir bleu extrait des profondeurs de la vice-royauté espagnole de Nouvelle-Grenade. On raconte que ces pierres précieuses proviennent de mines près de Quito ou dans les Andes, où leur couleur est comparée aux eaux les plus profondes de l’océan Pacifique.}
+itmname_jewelry2 {Diamant}
+itmdescr_jewelry2 {Un diamant extrait des mines de la côte portugaise d’Amérique du Sud aidera un homme honnête dans ses affaires, mais n’apportera que des malheurs aux voleurs, meurtriers et vauriens.}
+itmname_jewelry3 {Rubis}
+itmdescr_jewelry3 {Le rubis est une rareté dans les Caraïbes. C’est la seule pierre précieuse capable de rivaliser avec le diamant en termes de rareté et de dureté.}
+itmname_jewelry4 {Émeraude}
+itmdescr_jewelry4 {Une émeraude provenant des célèbres mines de Colombie. Nulle pierre d’Europe ou d’Afrique ne peut rivaliser avec sa pureté.}
+itmname_jewelry5 {Pépite d’or}
+itmdescr_jewelry5 {Un petit morceau de minerai précieux, extrait des profondeurs de la terre. Pour ce métal parmi les plus convoités, les hommes sont prêts à s’entretuer. L’or fait tourner le monde — et plus vous en possédez, plus vous pouvez le faire tourner à votre avantage.}
+itmname_jewelry6 {Bague en argent avec saphir}
+itmdescr_jewelry6 {Argent et saphir – une alliance modeste, mais d’une élégance remarquable !}
+itmname_jewelry7 {Bague en or avec émeraude}
+itmdescr_jewelry7 {Or et émeraude — c’est un peu tape-à-l’œil, mais un brin d’audace ne fait jamais de mal.}
+itmname_jewelry8 {Bague en bronze}
+itmdescr_jewelry8
+{
+Le motif de cette simple bague évoque non seulement la patrie laissée au-delà des mers, mais, selon les anciens, porterait aussi chance.
+~
+Passif : +1 Chance.
+}
+itmname_jewelry9 {Croix en bronze}
+itmdescr_jewelry9
+{
+Un motif traditionnel gaélique de « vigne » entrelacé en forme de croix – à la fois image et symbole du peuple de Dieu, l’Église. Lors de son dernier discours, Jésus déclara : « Je suis la vraie vigne, et Mon Père est le vigneron... »
+~
+Passif : +1 Chance.
+}
+itmname_jewelry10 {Bague en or avec saphir}
+itmdescr_jewelry10 {Peu de gens méritent un tel luxe ; encore moins peuvent se l’offrir.}
+itmname_jewelry11 {Grande perle}
+itmdescr_jewelry11 {Un présent de la mer, rapporté de contrées lointaines. On dit que cette perle a plus d’un siècle.}
+itmname_jewelry12 {Petite perle}
+itmdescr_jewelry12 {Une perle simple et magnifique.}
+itmname_jewelry13 {Camée}
+itmdescr_jewelry13 {Offrez ceci à une jolie fille, et elle le portera toute sa vie en pensant à vous.}
+itmname_jewelry14 {Broche en or}
+itmdescr_jewelry14 {Ah, on n’offre pas une telle chose à n’importe quelle beauté. Peut-être à une reine. Et seulement pour un moment.}
+itmname_jewelry15 {Pendentif en émeraude}
+itmdescr_jewelry15 {Que le diable t’emporte si un tel bijou ne parvient pas à gagner les faveurs de n’importe quelle femme !}
+itmname_jewelry16 {Collier}
+itmdescr_jewelry16 {Cela paraît n’être qu’un simple collier. Mais n’importe quelle jeune femme en serait ravie.}
+itmname_jewelry17 {Pépite d'argent}
+itmdescr_jewelry17 {L’argent est un métal précieux utilisé pour la monnaie et la fabrication d’objets liturgiques. Ce n’est pas de l’or, mais c’est presque aussi bien.}
+itmname_jewelry18 {Bague en or avec rubis}
+itmdescr_jewelry18 {Pierre éclatante couleur sang, le rubis confère à son écrin d’or une touche d’élégance singulière.}
+itmname_DeSouzaCross {Croix d’Antonio de Souza}
+itmdescr_DeSouzaCross
+{
+Une croix jésuite en or finement ouvragée.
+Les jésuites fondaient des écoles partout et enseignaient aux jeunes non seulement l’Évangile, comme les autres ordres religieux, mais aussi la gestion domestique, les mathématiques et la lecture.
+~
+Passif : +15 Chance, +10 Leadership, +5 Commerce.
+}
+itmname_DOjeronRing {Anneau de Bertran d'Ogeron}
+itmdescr_DOjeronRing {Grâce à cela, Donna Anna doit reconnaître la personne envoyée par d'Ogeron.}
+itmname_RingNarval {Amulette du clan Narwhal}
+itmdescr_RingNarval {Chaque membre du clan Narwhal possède un amulette gravée de façon unique. Une sorte d’accord fraternel.}
+itmname_WeddingRing {Alliance de mariage}
+itmdescr_WeddingRing {Cette bague de fiançailles appartient à une gentille jeune fille de #sCity#.}
+itmname_stop_storm {Baromètre de tempête}
+itmdescr_stop_storm {Un étrange mécanisme capable de prédire les prochaines menaces de tempêtes actives. Il semble avoir été créé par Mechanic sans aucune magie.}
+itmname_indian1 {Amulette de Tlalchitonatiuh}
+itmdescr_indian1 {Cette divinité est représentée symboliquement comme un jeune homme portant le soleil sur ses épaules, avec la mort et les ténèbres sous ses pieds, évoquant le soleil couchant. Tlalchitonatiuh était vénéré par de nombreuses cultures mésoaméricaines, dont les Mayas, mais il trouve son origine dans la civilisation toltèque.}
+itmname_indian2 {Silhouette effrayante}
+itmdescr_indian2
+{
+Une image représentant un jeune homme enveloppé dans une peau humaine était remise à un guerrier lâche. Son porteur ne pouvait laver sa honte qu'en se sacrifiant de son plein gré...
+~
+Passif : -1 Leadership.
+}
+itmname_indian3 {Masque de jade}
+itmdescr_indian3 {Produit de la culture olmèque, le masque incarne la feinte, la ruse et, bien sûr, le commerce.}
+itmname_indian4 {Cruche en argile}
+itmdescr_indian4 {Parfait pour conserver de l’eau ou du vin.}
+itmname_indian5 {Masque de dualité}
+itmdescr_indian5 {Ce masque, littéralement à moitié vivant et à moitié mort, servait sans doute de métaphore au concept mésoaméricain de dualité, une croyance à la base de la pensée religieuse presque partout, qui considérait les opposés apparents — vie et mort, jour et nuit, chaleur et froid — comme des aspects tout aussi essentiels d’un cosmos unifié.}
+itmname_indian6 {Amulette de Xiuhcoatl}
+itmdescr_indian6 {Le « Serpent de Feu » incarne la sécheresse et la terre brûlée, et capture aussi les âmes perdues.}
+itmname_indian7 {Idole de la Grande Mère}
+itmdescr_indian7 {Dans l’esprit des Chinantecs, une sculpture en argile dorée représentant une femme en train d’accoucher symbolise une chance inouïe – l’instant où une nouvelle vie voit le jour.}
+itmname_indian8 {Coupe en argent}
+itmdescr_indian8 {Une belle coupe en argent, gravée d’images de dieux indiens.}
+itmname_indian9 {Vase d’albâtre}
+itmdescr_indian9 {Récipient huastèque destiné à d’anciens rituels oubliés. Il semble avoir plusieurs siècles.}
+itmname_indian10 {Amulette d’Ehecatl}
+itmdescr_indian10 {Hypostase de Quetzalcoatl, Ehecatl est le dieu des eaux célestes et de la foudre, dont les formes rappelaient aux Aztèques les silhouettes de serpents célestes.}
+itmname_indian11 {Dieu Rat}
+itmdescr_indian11 {La présence de Camazotz, dieu de la Mort et des Enfers, dans ce masque de chauve-souris en jade est imperceptible aux humains. Bien que sa fonction reste obscure, les rats s’enfuient en cascade, comme s’il était en feu.}
+itmname_indian12 {Coupe de Tepeyollotli}
+itmdescr_indian12 {Le « cœur des montagnes » est le dieu des grottes obscures, des tremblements de terre, des échos et des jaguars. C’est Tepeyollotli qui a créé l’obsidienne.}
+itmname_indian13 {Encensoir ancien}
+itmdescr_indian13 {Un sinistre récipient indien, apparemment utilisé pour brûler de l’encens. Il représente le dieu aztèque de la mort, Mictlantecuhtli. D’après les marchands locaux, on en voit surgir de plus en plus ces derniers temps.}
+itmname_indian14 {Bol de Xochipilli}
+itmdescr_indian14 {Le dieu aztèque Xochipilli dansant avec des fleurs à la main est une image traditionnelle du changement de conscience sous l’influence des graines du lierre grimpant — coatl xoxouqui.}
+itmname_indian15 {Têtes colossales olmèques}
+itmdescr_indian15 {Ce sont des représentations sculptées de têtes humaines dans de grands blocs de basalte. Elles constituent une caractéristique distinctive de la civilisation olmèque de l’ancienne Mésoamérique. Toutes représentent des individus adultes aux joues charnues, au nez plat et aux yeux légèrement bridés.}
+itmname_indian16 {Vaisseau peint}
+itmdescr_indian16 {Un navire haut en couleur, décoré dans le style aztèque. Malheureusement, il ne s'agit que d'une imitation...}
+itmname_indian17 {Amulette sacrée}
+itmdescr_indian17
+{
+Un pendentif contre le mauvais œil, au dos il est écrit en espagnol : « Sainte Mère des Carmélites, envoie-nous des jours clairs et nos rames, Madone, de ta main d’automne ! »
+~
+Passif : +3 Furtivité.
+}
+itmname_indian18 {Idole d’Atlahua}
+itmdescr_indian18
+{
+« Seigneur des Eaux », puissant dieu des abysses et maître des tempêtes océaniques. Il est aussi le saint patron des pêcheurs.
+~
+Passif : +5 Navigation, -10 Furtivité.
+}
+itmname_indian19 {Figurine de Tlaloc}
+itmdescr_indian19
+{
+Dieu aztèque de la pluie et du tonnerre, de l’agriculture, du feu et du sud du monde – Tlaloc. Jeune divinité, il peut, en s’amusant, déchaîner grêle et éclairs.
+~
+Passif : +5 Précision, +5 Canons, -10 Furtivité.
+}
+itmname_indian20 {Couteau cérémoniel}
+itmdescr_indian20
+{
+Un couteau rituel Tumi à manche doré, orné de turquoise. Le dieu Naimlap y est représenté, coiffé d’une couronne traditionnelle de plumes et doté d’une paire d’ailes.
+~
+Passif : +10 Leadership, -5 Chance.
+}
+itmname_indian21 {Vaisseau cérémoniel}
+itmdescr_indian21
+{
+Un magnifique vaisseau indien au passé sombre – les prêtres de la tribu Purepcha l’ont empli du sang de leurs sacrifices. Même aujourd’hui, des décennies plus tard, son propriétaire ressent encore l’influence de l’artéfact.
+~
+Passif : +10 Leadership, -5 Furtivité.
+}
+itmname_indian22 {Tête de guerrier maya}
+itmdescr_indian22
+{
+Fragment d’une sculpture représentant le souverain de la capitale maya, Palenque. Pacal le Grand, d’une cruauté extrême malgré son expérience militaire et son courage, ne régna que très peu de temps.
+~
+Passif : +10 Défense, +5 Armes légères, -10 Leadership et Chance.
+}
+itmname_Totem_1 {Totem Xochiquetzal}
+itmdescr_Totem_1 {Xochiquetzal - déesse des fleurs et de l’amour.}
+itmname_Totem_2 {Totem Mictlantecuhtli}
+itmdescr_Totem_2 {Mictlantecuhtli - dieu des enfers.}
+itmname_Totem_3 {Totem de Quetzalcoatl}
+itmdescr_Totem_3 {Quetzalcoatl - dieu de l’étoile du matin, maître des éléments.}
+itmname_Totem_4 {Totem de Mixcoatl}
+itmdescr_Totem_4 {Mixcoatl - dieu de la chasse.}
+itmname_Totem_5 {Totem Tezcatlipoca}
+itmdescr_Totem_5 {Tezcatlipoca – protecteur des prêtres, punisseur des criminels.}
+itmname_Totem_6 {Totem Chalchiuhtlicue}
+itmdescr_Totem_6 {Chalchiuhtlicue - déesse des lacs et des mers.}
+itmname_Totem_7 {Totem Huitzilopochtli}
+itmdescr_Totem_7 {Huitzilopochtli - dieu du ciel bleu.}
+itmname_Totem_8 {Totem de Tlaloc}
+itmdescr_Totem_8 {Tlaloc - dieu de la pluie et du tonnerre, maître de toutes les plantes comestibles.}
+itmname_Totem_9 {Totem Mayahuel}
+itmdescr_Totem_9 {Mayahuel - déesse de la fertilité qui a offert les boissons alcoolisées à l’humanité.}
+itmname_Totem_10 {Totem Tonacatecuhtli}
+itmdescr_Totem_10 {Tonacatecuhtli - dieu créateur qui offre la nourriture à l’humanité.}
+itmname_Totem_11 {Totem Camaxtli}
+itmdescr_Totem_11 {Camaxtli – dieu des étoiles, de la chasse, de la guerre et du destin. Créateur du feu.}
+itmname_Totem_12 {Totem de Cinteotl}
+itmdescr_Totem_12 {Jeune dieu du maïs.}
+itmname_Totem_13 {Totem Tlazolteotl}
+itmdescr_Totem_13 {Tlazolteotl – déesse qui dévore la souillure et purifie des passions interdites.}
+itmname_Totem_14 {Totem Tonatiuh}
+itmdescr_Totem_14 {Tonatiuh - dieu du ciel et du soleil.}
+itmname_Totem_15 {Totem de Xipe Totec}
+itmdescr_Totem_15 {Xipe Totec – dieu des semailles, protecteur des orfèvres.}
+itmname_SkullAztec {Crâne de jade}
+itmdescr_SkullAztec
+{
+Artefact de Mictlantecuhtli, dieu des enfers.
+~
+Passif : -10 Chance, +15 Leadership.
+}
+itmdescr_SkullAztecAdd
+{
+Artéfact de Mictlantecuhtli, dieu des enfers. Pour l’utiliser, approchez-vous d’un officier mort, ouvrez le menu de fouille et activez l’icône du crâne.
+~
+Passif : -30 Chance.
+}
+itmname_KnifeAztec {Couteau sacrificiel en obsidienne}
+itmdescr_KnifeAztec
+{
+Couteau cérémoniel en obsidienne. Apparemment utilisé lors de sacrifices comme arme mortelle.
+~
+Passif : -10 Armes à feu, -10 à toutes les autres compétences d’armes.
+}
+itmname_Cursed_idol {Idole de Hurukacelitipochtli}
+itmdescr_Cursed_idol
+{
+Au moment où les doigts effleurent cette horreur dorée, la vérité s’impose : il ne s’agit pas d’un simple métal. Son poids impossible porte l’oppression des âges oubliés. Une brume couleur de sang danse devant les yeux, tandis qu’une voix d’un autre monde s’insinue dans l’esprit, à la fois promesse et damnation. L’âme vacille — la serrer plus fort ou la rejeter…
+~
+Passif : -80 Chance.
+}
+itmname_alchemy_kit {Coffre de l’alchimiste}
+itmdescr_alchemy_kit {Un coffre rempli d’étranges instruments, de fioles et de réactifs. Un trésor inestimable pour un alchimiste débutant.}
+itmname_carpenter_kit {Boîte à outils du charpentier}
+itmdescr_carpenter_kit {Outils de charpentier volés au chantier naval.}
+itmname_tailor_kit {Outils de tailleur}
+itmdescr_tailor_kit
+{
+Trousse de couture de voyage d’un aventurier aguerri, habitué à surmonter seul toutes les difficultés.
+Entre des mains expertes, ciseaux, aiguilles, crochets et dé à coudre font des merveilles !
+}
+itmname_mechanic_kit {Banc et boîte à outils}
+itmdescr_mechanic_kit {Tout le nécessaire pour de petites réparations réuni dans une mallette pratique — un vrai atout pour ceux qui aiment bricoler pendant leur temps libre.}
+itmname_crucible {Creuset}
+itmdescr_crucible {Un creuset conçu pour fondre les métaux à très haute température.}
+itmname_bullet_mold {Moule à balles}
+itmdescr_bullet_mold {Cet appareil permet de couler des balles à la forme et à la taille adaptées au revolver Colt.}
+itmname_mortar_and_pestle {Mortier et pilon}
+itmdescr_mortar_and_pestle {Permet de réduire en poudre des herbes médicinales et d’autres ingrédients pour préparer diverses potions. Non conçu pour broyer des substances plus dures qu’une coquille de noix.}
+itmname_lamp {Lampe à huile}
+itmdescr_lamp {Une lampe à huile en bronze vous permettra de passer la nuit avec un livre préféré et de préparer votre café du matin.}
+itmname_silver_spoon {Cuillère en argent}
+itmdescr_silver_spoon {Une belle cuillère en argent, sans doute dérobée dans une belle maison par un domestique.}
+itmname_wooden_spoon {Cuillère en bois}
+itmdescr_wooden_spoon {Chaque marin doit en avoir une avant de passer à table.}
+itmname_recipe_cartridge {Instructions (Cartouche en papier)}
+itmdescr_recipe_cartridge {Instructions pour fabriquer une cartouche en papier.}
+itmname_recipe_petard {Instructions (Pétard)}
+itmdescr_recipe_petard {Instructions pour fabriquer une pétarde flash.}
+itmname_recipe_grenade {Instructions (Grenade)}
+itmdescr_recipe_grenade {Instructions pour fabriquer une grenade.}
+itmname_recipe_harpoon {Instructions (Boulon de flèche)}
+itmdescr_recipe_harpoon {Instructions pour fabriquer une flèche de harpon.}
+itmname_recipe_GunEchin {Instructions (Balle hérissée)}
+itmdescr_recipe_GunEchin {Instructions pour fabriquer de la chevrotine à partir de têtes et de morceaux de clous.}
+itmname_recipe_GunPowder_colt {Instructions (Poudre sans fumée)}
+itmdescr_recipe_GunPowder_colt {Instructions pour fabriquer de la poudre à revolver.}
+itmname_recipe_bullet_colt {Instructions (Balle de revolver)}
+itmdescr_recipe_bullet_colt {Instructions pour fabriquer une balle de revolver.}
+itmname_recipe_GunCap_colt {Instructions (Capsule à percussion)}
+itmdescr_recipe_GunCap_colt {Instructions pour fabriquer des amorces.}
+itmname_recipe_cartridge_colt {Instructions (Cartouche de revolver)}
+itmdescr_recipe_cartridge_colt {Instructions pour fabriquer une cartouche de revolver.}
+itmname_recipe_fulminate_silver {Instructions (Fulminate d’argent)}
+itmdescr_recipe_fulminate_silver {Instructions pour fabriquer du fulminate d'argent.}
+itmname_recipe_migraine_potion {Instructions (Décoction contre la migraine)}
+itmdescr_recipe_migraine_potion {Instructions pour préparer une potion contre la migraine.}
+itmname_recipe_potion1 {Notice (Potion de soin)}
+itmdescr_recipe_potion1 {Instructions pour préparer une potion de soin.}
+itmname_Mineral2 {Luth}
+itmdescr_Mineral2 {Un instrument de musique à cordes très apprécié. Un joueur de luth talentueux peut souvent remonter le moral des soldats ou des marins.}
+itmname_Mineral3 {Bougie}
+itmdescr_Mineral3 {Grosse chandelle de cire et de suif.}
+itmname_Mineral4 {Cormorant}
+itmdescr_Mineral4
+{
+C'est une sacrée "surprise" de tomber sur un cormoran mort...
+Mais il vaut mieux s'en débarrasser vite – en faire un animal empaillé ou l'enterrer...
+~
+Passif : -1 Leadership et Furtivité.
+}
+itmname_Mineral5 {Vieux seau}
+itmdescr_Mineral5 {Dans ce seau, seuls les objets volumineux peuvent être rangés — il est bien trop percé.}
+itmname_Mineral6 {Corail}
+itmdescr_Mineral6 {On trouve très souvent cette matière par ici, car la plupart des îles de l’Archipel en sont composées. Plusieurs forts du Nouveau Monde sont également construits avec.}
+itmname_Mineral7 {Pipe à fumer}
+itmdescr_Mineral7 {Une pipe à fumer finement sculptée et façonnée. Pas la moindre fissure ni éclat ! Toujours précieuse pour le troc — ou pour votre usage personnel.}
+itmname_Mineral8 {Chaussure}
+itmdescr_Mineral8
+{
+Selon une vieille superstition de marin, trouver une seule chaussure porte malheur. Et la porter, c’est encore pire...
+~
+Passif : -1 Chance.
+}
+itmname_Mineral9 {Chope}
+itmdescr_Mineral9 {Une bonne chope en étain avec un couvercle et un rebord en argent massif.}
+itmname_Mineral10 {Pochette de sel}
+itmdescr_Mineral10 {Une petite bourse de précieux cristaux blancs. Le sel est en réalité assez précieux, car il permet de conserver les aliments et d’en rehausser la saveur.}
+itmname_Mineral11 {Pierre à aiguiser}
+itmdescr_Mineral11 {Une pierre à aiguiser indispensable pour garder les lames et autres outils bien affûtés.}
+itmname_Mineral12 {Corde}
+itmdescr_Mineral12 {Une longue corde de chanvre en bon état. Parfaite pour réparer le gréement, pendre des voleurs ou escalader des murs.}
+itmname_Mineral13 {Chaudron de cuisson en bronze}
+itmdescr_Mineral13 {Un objet courant que l’on retrouve aussi bien à bord des navires que dans les foyers aisés des colonies. Bien qu’assez usé, ce chaudron reste solide et permet de cuisiner ou de faire fondre de la cire.}
+itmname_Mineral14 {Ciseaux}
+itmdescr_Mineral14 {Un outil très utile pour de nombreuses tâches : couper du tissu, du papier, des cheveux et même tailler des plantes.}
+itmname_Mineral15 {Vieille amphore}
+itmdescr_Mineral15 {L’amphore sert depuis l’Antiquité à stocker et transporter des marchandises comme le vin, l’huile ou le grain. On dirait qu’elle en a vu bien d’autres…}
+itmname_Mineral16 {Clous}
+itmdescr_Mineral16 {Clous forgés ordinaires. Conviennent pour réparer des chaussures, une toiture ou un bateau.}
+itmname_sculMa1 {Crâne de cristal blanc}
+itmdescr_sculMa1
+{
+L’un des trois crânes toltèques. Réunir les trois crânes confère force et sagesse à leur porteur.
+(+5 Abordage)
+* * *
+(Ensemble : +10 Navigation, Canons, Abordage et Défense)
+}
+itmname_sculMa2 {Crâne de cristal rose}
+itmdescr_sculMa2
+{
+L’un des trois crânes toltèques. Réunir les trois crânes confère force et sagesse à leur porteur.
+(+5 Canons)
+* * *
+(Ensemble : +10 Navigation, Canons, Abordage et Défense)
+}
+itmname_sculMa3 {Crâne de cristal bleu}
+itmdescr_sculMa3
+{
+L’un des trois crânes toltèques. Réunir les trois crânes confère force et sagesse à leur porteur.
+(+5 Défense)
+* * *
+(Ensemble : +10 Navigation, Canons, Abordage et Défense)
+}
+itmname_recon_potion {Rhum « ReConstruction »}
+itmdescr_recon_potion
+{
+On dit que ce mélange unique, dont la recette est tenue secrète, est offert aux plus grands capitaines par une confrérie occulte de maîtres qui façonnent le monde. Une bouteille de ce breuvage « reconstruit » l'essence même du capitaine — trempant le corps et l'esprit une fois pour toutes, transformant un simple matelot en légende.
+* * *
+(À l'utilisation : +5 à toutes les compétences.)
+}
+itmname_Ladder {Échelle}
+itmdescr_Ladder {Échelle portative verticale.}
+itmname_CaptainBook {Documents du navire}
+itmdescr_CaptainBook {Documents de bord oubliés par un capitaine distrait. Ils doivent être restitués.}
+itmname_Key1 {Clé simple}
+itmdescr_Key1 {Clé pour serrures simples.}
+itmname_Key2 {Clé commune}
+itmdescr_Key2 {Clé pour serrures standard de complexité moyenne.}
+itmname_Key3 {Clé complexe}
+itmdescr_Key3 {Clé pour serrures complexes.}
+itmname_keyPanama {Clé du coffre-fort}
+itmdescr_keyPanama {Clé du coffre-fort de la résidence de Panama.}
+itmname_admiralKey {Clé de l’amiral}
+itmdescr_admiralKey {Clé personnelle perdue par l’amiral.}
+itmname_keyMorgan {Clé d’or}
+itmdescr_keyMorgan
+{
+Une clé pour un coffre-fort en or massif ! Seul un gouverneur pourrait se permettre un tel luxe...
+Je me demande ce qu’elle ouvre ?
+}
+itmname_keyQuestLSC {Clé}
+itmdescr_keyQuestLSC {Clé du coffre-fort du gouverneur général de Curaçao, Peter Stuyvesant.}
+itmname_TizerKey {Clé de Diffindur}
+itmdescr_TizerKey {Une clé mystérieuse de Tizer Dan, prétendument venue d’une île énigmatique. Sa fonction reste inconnue...}
+itmname_keyForCryptLSC {Clé du caveau}
+itmdescr_keyForCryptLSC {Clé du mystérieux caveau de Willemstad.}
+itmname_bequestLSC {Testament}
+itmdescr_bequestLSC {Avant de partir pour une expédition dangereuse, le plus sage est de rédiger son testament.}
+itmdescr_bequestDoneLSC {Avant de partir pour une expédition dangereuse, la chose la plus sage à faire est de rédiger un testament. Cette copie porte toutes les signatures des parties concernées.}
+itmname_migraine_potion {Décoction contre la migraine}
+itmdescr_migraine_potion {Cette décoction est destinée à soulager les crises aiguës de migraine.}
+itmname_MsStid_ring {Bague étrange}
+itmdescr_MsStid_ring {Une bague simple et discrète.}
+itmname_Weapon_for_escape {Lot d’armes}
+itmdescr_Weapon_for_escape {Un paquet de sabres d’abordage et de pistolets, sans aucune marque d’armurier.}
+itmname_Griffins_Weapon {Échantillons d’armes de M. Griffin}
+itmdescr_Griffins_Weapon {Plusieurs rapières portant le nom du maître Griffin gravé sur la lame.}
+itmname_HugtorpRing {Alliance de Hagthorpe}
+itmdescr_HugtorpRing {L’alliance de Hagthorpe, toujours passée à un doigt humain hideux et déjà raidi.}
+itmname_shark_tooth {Amulette Dent de Requin}
+itmdescr_shark_tooth {Un pendentif en dent de requin gravé des initiales « S.D. ».}
+itmname_pinion {Roue dentée}
+itmdescr_pinion {Un engrenage provenant d’un mécanisme de treuil.}
+itmname_PDM_PJ_Vino {Bouteille de vin}
+itmdescr_PDM_PJ_Vino {Une bouteille de vin exquis et coûteux à livrer à un soldat.}
+itmname_PDM_PJ_Rom {Bouteille de rhum}
+itmdescr_PDM_PJ_Rom {Une bouteille de rhum bon marché à livrer à un soldat.}
+itmname_PDM_PJ_BsRL {Bouteille avec un ruban rose}
+itmdescr_PDM_PJ_BsRL
+{
+Une bouteille ornée d’un ruban rose soigneusement noué.
+* * *
+Passif : +2 Chance, +2 Commerce, -2 Furtivité.
+}
+itmname_DesMoinesLocies {Routier de Des Moines}
+itmdescr_DesMoinesLocies {Instructions détaillées pour naviguer en toute sécurité et mouiller le long des côtes de la colonie de Des Moines.}
+itmname_letter_A {Lettre scellée}
+itmdescr_letter_A {La requête d’Askold pour la grâce de Tichingitu. Elle doit être remise au commandant de la prison de Basse-Terre.}
+itmname_FQ_letter1 {Lettre étrange}
+itmdescr_FQ_letter1 {Cette lettre a été découverte lors de la fouille de Pablo, le passager raté.}
+itmtext_FQ_letter1
+{
+Salutations, Pablo !
+\n
+Cette fois, ta mission est de monter à bord du navire "Mercury" à tout prix. Selon mes informations, il fait route vers la Martinique. Naturellement, tu dois y arriver avant lui.
+\n
+Le capitaine de ce bâtiment doit avoir un entretien strictement confidentiel avec le Gouverneur de l’île. Tu comprends bien que ce genre d’affaires ne m’échappe pas. Cependant, je n’ai pas pu découvrir la nature de leur conversation ni les détails de la mission.
+\n
+Il est inutile de te rappeler que Nos Amis ont un besoin urgent de ces renseignements. Je me doute que dans une ville bondée, tu n’auras aucune occasion de parler convenablement à ce capitaine ; c’est pourquoi, dès que tu seras à bord, tu dois lui soutirer la vérité à la première occasion.
+\n
+Tu ne manques ni de force ni de ruse, et tu sais parfaitement délier les langues. Ensuite, tu pourras disposer de lui comme bon te semble, mais il vaut mieux qu’il n’y ait pas de témoins — trop d’enjeux sont en jeu.
+\n
+Une fois les informations obtenues, largue la chaloupe et gagne le large. Une frégate sous pavillon français t’escortera ; ils ont reçu l’ordre de te récupérer.
+\n
+Tu recevras ta récompense par l’intermédiaire de notre contact à Basse-Terre. N’utilise ce canal pour me joindre qu’en cas d’extrême nécessité.
+\n\n
+Cette lettre doit être détruite après lecture !!!
+\n\n
+Bonne chance, ton ami.
+P.
+}
+itmname_PDM_PK_Koltso {Bague de Josephine Laudet}
+itmdescr_PDM_PK_Koltso {Vous devez rendre cette bague à Josephine Laudet. C’est le seul souvenir qu’il lui reste de son fils. Peut-être qu’en la retrouvant, les brumes de la folie se dissiperont et qu’elle retrouvera la raison.}
+itmname_Litsenzia {Licence commerciale}
+itmdescr_Litsenzia {Un document officiel autorisant à visiter toutes les colonies de l’archipel des Caraïbes à des fins commerciales.}
+itmname_letter_church {Dépêche scellée}
+itmdescr_letter_church {Une dépêche ecclésiastique. Elle doit être remise à son destinataire au plus vite.}
+itmname_prayer_book {Livres de prières}
+itmdescr_prayer_book {Une pile de livres de prières. Ils doivent être remis à leur destinataire au plus vite.}
+itmname_encyclopedia {Encyclopédie}
+itmdescr_encyclopedia {Un compagnon indispensable pour tout capitaine. Il se compose de douze anciens volumes renfermant un savoir inestimable sur divers aspects de la navigation et de la maîtrise personnelle. Hélas, la collection complète a été perdue depuis longtemps, mais les chercheurs de sagesse traquent sans relâche et recopient les pages survivantes.}
+itmname_encyclopedia_page {Page de l’Encyclopédie}
+itmdescr_encyclopedia_page { }
+itmname_key_drink {Deuxième clé de Malcolm Fawn}
+itmdescr_key_drink {Une clé qui ouvre le deuxième coffre dans la cabine secrète de Malcolm Fawn.}
+itmname_key_drinkQ {Première clé de Malcolm Fawn}
+itmdescr_key_drinkQ {Une clé qui ouvre la porte du galion 'Velasco' ainsi qu’un des coffres dans la cabine secrète de Malcolm Fawn.}
+itmname_instrument1 {Scie fine}
+itmdescr_instrument1
+{
+Un outil simple utilisé par des générations de charpentiers. Cet exemplaire possède une prise en main exceptionnellement confortable, permettant des coupes rapides et précises. Avec un tel instrument, un charpentier chevronné peut travailler des heures sans fatigue.
++10 Réparation
+}
+
+itmname_strangeNoteLSC	{Le mot étrange}
+itmdescr_strangeNoteLSC
+{
+Un morceau de parchemin avec des gribouillis
+}
+itmtext_strangeNoteLSC
+{
+J'aimerais me rendre dans l'étreinte de la terre sur la mer, pour y voir la fin de toute existence.
+}

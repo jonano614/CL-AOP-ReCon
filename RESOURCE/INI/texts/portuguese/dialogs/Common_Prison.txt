@@ -1,0 +1,939 @@
+Common_Prison_1 {
+Sou o carcereiro. O que te traz aqui?
+}
+Common_Prison_2 {
+O que você quer? Por que veio à prisão?
+}
+Common_Prison_3 {
+@<RandPhraseSimple>
+}
+Common_Prison_4_m {
+Ah, nada de especial, só estou dando uma olhada pela cidade, sabe. Acabei entrando aqui por acaso.
+}
+Common_Prison_4_f {
+Nada de especial, só estou dando uma olhada pela cidade, sabe. Acabei entrando aqui por acaso.
+}
+Common_Prison_5 {
+Quero falar de negócios.
+}
+Common_Prison_6 {
+Quero entrar na prisão.
+}
+Common_Prison_7 {
+Com licença, você poderia me dizer de que crime o prisioneiro chamado @<GetFullName> está sendo acusado?
+}
+Common_Prison_8 {
+Ouvi rumores de que o ex-capitão do navio de patrulha, @<GetStrSmallRegister> @<pchar>, está sob sua custódia. Posso falar com ele?
+}
+Common_Prison_9 {
+Sou @<GetFullName>, representando o governador @<XI_ConvertString>. Preciso falar com o ex-capitão, @<pchar>.
+}
+Common_Prison_10 {
+Estou aqui por causa da sua filha...
+}
+Common_Prison_11 {
+Tenho assuntos a tratar com você, oficial. Acredito que isso seja do seu interesse no cumprimento do dever.
+}
+Common_Prison_12 {
+Preciso falar com você sobre alguém chamado @<PChar>. Se não me engano, ele é seu prisioneiro.
+}
+Common_Prison_13 {
+Estou ouvindo atentamente.
+}
+Common_Prison_14_m {
+Trouxe o seu fugitivo.
+}
+Common_Prison_14_f {
+Trouxe o seu fugitivo.
+}
+Common_Prison_15 {
+Ah, capitão, muito obrigado! Como ela está? Está bem, não se machucou? Já faz quase um dia inteiro desde que ela fugiu, essa pestinha. Você acha que eu desejo algum mal a ela? Só queria arranjar um bom casamento pra ela... O noivo é rico, jovem, e daí se não é grande coisa de aparência—beleza não é tudo. Mas não! Ela continua teimosa como sempre—igualzinha à mãe dela, que desgraça.\nEmbora, ela nem estaria aqui se a própria mãe não tivesse fugido um dia com algum canalha ambicioso... Mas não adianta ficar remoendo o passado... A juventude é ingênua, tola... E cruel.
+}
+Common_Prison_16_m {
+Claro, você é o pai e a decisão é sua, mas eu não me apressaria com o casamento...
+}
+Common_Prison_16_f {
+Claro, você é o pai dela e a decisão é sua, mas eu não me apressaria com o casamento…
+}
+Common_Prison_17 {
+O que você sabe?.. Você tem filhos? Não? Então volte quando tiver, aí conversamos.\nSim... Eu prometi uma recompensa para quem a trouxesse de volta — por favor, aceite.
+}
+Common_Prison_18 {
+Obrigado. E segure-a bem. Algo me diz que ela não vai parar por aqui.
+}
+Common_Prison_19 {
+Ah, é? E o que você quer me contar?
+}
+Common_Prison_20 {
+Recentemente, alguém chamado @<pchar> me abordou na rua e ofereceu um serviço suspeito: capturar e depois pedir resgate por uma pessoa chamada @<pchar>. Esse @<pchar>...
+}
+Common_Prison_21 {
+Hmm... Muito interessante. Continue!
+}
+Common_Prison_22 {
+Ele sabia o nome do navio no qual @<pchar> planeja embarcar. É um @<GetStrSmallRegister> chamado '@<pchar>'. Ele também mencionou o horário de partida do navio.
+}
+Common_Prison_23 {
+E ele sugeriu que você capturasse o passageiro e depois exigisse um resgate?
+}
+Common_Prison_24_m {
+Exatamente. O resgate deve ser negociado por meio de @<XI_ConvertString>, com uma certa pessoa chamada @<pchar>. Paguei a ele por essa informação, mas é claro que nunca tive a intenção de realmente realizar o sequestro.
+}
+Common_Prison_24_f {
+Exatamente. Você precisa perguntar ao @<XI_ConvertString> sobre o resgate, alguém chamado @<pchar>. Eu paguei a ele por essa informação, mas é claro que nunca tive a intenção de realmente realizar o sequestro.
+}
+Common_Prison_25 {
+Então você decidiu vir até mim e contar tudo, é isso?
+}
+Common_Prison_26 {
+Exatamente. Acredito que as ações desse canalha colocam em risco a segurança dos seus cidadãos, e que você tomará as medidas adequadas contra ele.
+}
+Common_Prison_27 {
+Você fez bem em vir até mim, @<GetAddress_Form>! Aquele canalha, @<pchar>, já está sob nossa vigilância há algum tempo. Vou abrir uma investigação e, se tudo o que você disse se confirmar, vamos colocar esse patife atrás das grades por seis meses. Isso deve ensiná-lo a não conspirar contra cidadãos respeitáveis.\nQuanto à sua honestidade e disposição em servir à justiça, farei questão de informar nosso governador — algo que certamente vai melhorar a opinião dele sobre você. Obrigado pela sua ajuda, Capitão!
+}
+Common_Prison_28_m {
+Hmm... Bem, não há realmente pelo que me agradecer... Fico feliz por ter ajudado. Até logo!
+}
+Common_Prison_28_f {
+Hmm... Bem, não foi nada, de verdade... Fico feliz por ter ajudado. Até logo!
+}
+Common_Prison_29 {
+Estou ouvindo atentamente, Capitão.
+}
+Common_Prison_30 {
+Quero denunciar uma conspiração criminosa entre um dos seus oficiais da guarnição e os piratas. Ouça...
+}
+Common_Prison_31_m {
+Obrigado, senhor! Vou dar a ordem para prender o canalha imediatamente. No entanto, você gastou uma quantia considerável, e o tesouro municipal está, infelizmente, vazio...
+}
+Common_Prison_31_f {
+Obrigado, senhora! Vou dar a ordem para prender o canalha imediatamente. No entanto, você gastou uma quantia considerável e, infelizmente, o tesouro municipal está vazio...
+}
+Common_Prison_32_m {
+Vossa Excelência! Eu não fiz isso pelo dinheiro...
+}
+Common_Prison_32_f {
+Vossa Graça! Eu não fiz isso pelo dinheiro...
+}
+Common_Prison_33_m {
+Obrigado, senhor! Vou dar a ordem para deter o canalha imediatamente.\nVeja só! Estávamos prestes a recompensá-lo com uma arma personalizada pelo serviço impecável. Que sorte que tudo veio à tona e evitamos um constrangimento desses!
+}
+Common_Prison_33_f {
+Muito obrigado, senhora! Vou dar a ordem para prender o canalha imediatamente.\nVeja só! Estávamos prestes a recompensá-lo com uma arma personalizada pelo serviço impecável. Que sorte que tudo veio à tona e evitamos esse constrangimento!
+}
+Common_Prison_34_m {
+Sempre feliz em fazer justiça...
+}
+Common_Prison_34_f {
+Sempre feliz em fazer justiça...
+}
+Common_Prison_35_m {
+Senhor! Já suspeitávamos há muito tempo que aquele oficial e seus comparsas tramavam algo, mas acredito que o senhor agiu de forma precipitada ao lidar com eles sem nenhuma testemunha.
+}
+Common_Prison_35_f {
+Madame! Já suspeitávamos há muito tempo que esse oficial e sua turma tramavam algo, mas temo que você tenha agido de forma precipitada ao lidar com eles sem testemunhas.
+}
+Common_Prison_36_m {
+Vossa Excelência! Mas fui obrigado a defender a minha própria vida...
+}
+Common_Prison_36_f {
+Vossa Excelência! Mas fui obrigado a defender a minha própria vida...
+}
+Common_Prison_37 {
+Capitão, você tem noção do que se meteu?! Passamos mais de um mês preparando essa armadilha! E por pura diversão, você estragou o encontro entre nossa patrulha e o mensageiro @<GetName>, e agora vem aqui se gabar disso pra mim! Talvez queira me explicar como vou justificar os gastos oficiais dessa operação agora?!
+}
+Common_Prison_38 {
+Vossa Senhoria! O senhor se recusa a enxergar o que realmente está acontecendo...
+}
+Common_Prison_39 {
+Deixe-me dar uma olhada nesse mapa.\nVocê está brincando comigo? Esse pedaço de pergaminho rasgado é a sua prova?
+}
+Common_Prison_40 {
+Meritíssimo! O senhor se recusa a enxergar o que está realmente acontecendo...
+}
+Common_Prison_41 {
+Uma desculpa original para o fim de toda uma patrulha. Bem, pelo menos vindo até aqui, você nos poupou o trabalho de procurar o assassino.
+}
+Common_Prison_42 {
+Vossa Graça! O senhor se recusa a enxergar o que realmente está acontecendo...
+}
+Common_Prison_43 {
+Ainda assim, quero que seus esforços sejam recompensados. Aqui, pegue este mapa que encontrei entre os pertences de um pirata recentemente enforcado. Talvez, com a ajuda do Senhor, você realmente encontre um tesouro — embora eu duvide muito disso...
+}
+Common_Prison_44 {
+Obrigado, você é muito generoso!
+}
+Common_Prison_45 {
+Admirável zelo. Pegue esta espada como recompensa — é o mínimo que posso lhe oferecer! Ah, e fique com esse mapa para você. Tenho certeza de que há muitas dessas falsificações circulando pelo Arquipélago.
+}
+Common_Prison_46 {
+Obrigado, você é muito generoso!
+}
+Common_Prison_47 {
+Sim, talvez, talvez... Muito bem, estou disposto a acreditar que a questão foi resolvida pelo julgamento de Deus e Sua vontade.
+}
+Common_Prison_48 {
+Obrigado, você é muito generoso!
+}
+Common_Prison_49_m {
+Não ouse me dar lição! Sua cumplicidade com esses trapaceiros está mais do que clara! Guardas, prendam esse ‘benfeitor’!
+}
+Common_Prison_49_f {
+Não ouse me dar lição! Sua cumplicidade com esses trapaceiros está clara para mim! Guardas, prendam esse “benfeitor”!
+}
+Common_Prison_50 {
+De jeito nenhum!
+}
+Common_Prison_51 {
+E que assunto você tem com ele?
+}
+Common_Prison_52 {
+Tenho algumas perguntas pessoais para ele.
+}
+Common_Prison_53 {
+Capitão, tenho ordens rigorosas para deter e escoltar até a residência para interrogatório qualquer pessoa que demonstre interesse pela pessoa de @<pchar>.
+}
+Common_Prison_54 {
+Está fácil para você! Agora os prisioneiros vêm até você para serem presos!
+}
+Common_Prison_55 {
+Ainda assim, preciso pedir que entregue suas armas.
+}
+Common_Prison_56 {
+De jeito nenhum! Você vai ter que tomar à força.
+}
+Common_Prison_57 {
+Sim, claro. Recebi as ordens do governador para ajudá-lo neste assunto. Você pode ir até o prisioneiro.
+}
+Common_Prison_58 {
+Obrigado...
+}
+Common_Prison_59 {
+Capitão, não tenho ordens para liberar este prisioneiro. Você vai precisar da permissão do governador.
+}
+Common_Prison_60 {
+Oficial, estou agindo no interesse da investigação. O prisioneiro concordou em cooperar com as autoridades e está pronto para revelar a localização do esconderijo. Qualquer atraso pode fazer com que a carga valiosa seja encontrada por contrabandistas e se perca para o povoado.
+}
+Common_Prison_61_m {
+Alarme! Está acontecendo um massacre na prisão! Peguem ele!
+}
+Common_Prison_61_f {
+Alarme! Há um massacre na prisão! Peguem ela!
+}
+Common_Prison_62_m {
+Você escolheu o alvo errado!
+}
+Common_Prison_62_f {
+Escolheu a pessoa errada para mexer!
+}
+Common_Prison_63 {
+Mas eu poderia designar uma escolta para acompanhá-lo.
+}
+Common_Prison_64 {
+Isso não será necessário, tenho guardas suficientes. Além disso, prefiro não revelar a localização do esconderijo.
+}
+Common_Prison_65 {
+Mmm... Tudo bem então. Só lembre-se de que você está se arriscando por ele.
+}
+Common_Prison_66 {
+Com certeza...
+}
+Common_Prison_67 {
+Fale, estou ouvindo.
+}
+Common_Prison_68 {
+Tenho alguns documentos de navio. Acho que o dono os esqueceu por descuido, mas talvez você ache interessante...
+}
+Common_Prison_69 {
+Besteira! Pare de se intrometer e vá até a autoridade portuária.
+}
+Common_Prison_70 {
+Obrigado por isso, pelo menos...
+}
+Common_Prison_71 {
+Sim, o proprietário é daqui. Creio que uma recompensa de @<FindMoneyString> será um prêmio justo pela sua vigilância, capitão.
+}
+Common_Prison_72 {
+Provavelmente não.
+}
+Common_Prison_73 {
+Uma oferta generosa! Os documentos agora são seus...
+}
+Common_Prison_74 {
+Ufa, isso é realmente emocionante, que interessante! Acredito que o tesouro da cidade vai pagar a você @<FindMoneyString> com prazer pela sua ajuda no combate ao comércio ilegal.
+}
+Common_Prison_75 {
+Provavelmente não.
+}
+Common_Prison_76 {
+Uma oferta generosa! Os documentos agora são seus...
+}
+Common_Prison_77 {
+Minha nossa! Que sorte você ter vindo até mim. Acredito que meu infeliz colega vai concordar em pagar @<FindMoneyString> para manter esse assunto em segredo.
+}
+Common_Prison_78 {
+Provavelmente não.
+}
+Common_Prison_79 {
+Uma oferta generosa! Os documentos agora são seus...
+}
+Common_Prison_80 {
+Heh! Essa cidade é minha, capitão.
+}
+Common_Prison_81 {
+Vou me lembrar disso.
+}
+Common_Prison_82 {
+Mas por que você quer isso? Acredite, não há nada lá que valha sua atenção — só ladrões e bandidos.
+}
+Common_Prison_83 {
+Já conversamos sobre esse seu desejo.
+}
+Common_Prison_84 {
+De novo com a mesma coisa? Já falamos sobre isso duas vezes!
+}
+Common_Prison_85 {
+Hmm, de novo...
+}
+Common_Prison_86_m {
+Ainda assim, gostaria de dar uma olhada nas suas masmorras. Estou bastante curioso!
+}
+Common_Prison_86_f {
+Ainda assim, gostaria de dar uma volta pelos seus calabouços. Estou bastante curioso!
+}
+Common_Prison_87_m {
+Sim, está certo. Mas eu queria conversar mais sobre isso.
+}
+Common_Prison_87_f {
+Sim, é isso mesmo. Mas eu queria conversar mais sobre isso.
+}
+Common_Prison_88 {
+Bem, talvez na terceira vez dê certo...
+}
+Common_Prison_89 {
+Ainda tenho esperança de ver seus prisioneiros...
+}
+Common_Prison_90 {
+Muito bem, não vejo motivo para recusar. @<FindMoneyString> — e até que você deixe a prisão, está livre para andar pelos corredores e até conversar com os prisioneiros.
+}
+Common_Prison_91_m {
+Concordo, aqui estão suas moedas!
+}
+Common_Prison_91_f {
+Concordo, aqui estão suas moedas!
+}
+Common_Prison_92 {
+Sem chance, isso é caro demais só para ficar vagando sem rumo pelos corredores.
+}
+Common_Prison_93 {
+Não, isso é estritamente proibido pelo regulamento. O que você acha que é isso, um circo? Siga em frente e não me distraia do meu dever.
+}
+Common_Prison_94 {
+Não posso permitir que estranhos circulem pela prisão. Por favor, não atrapalhe!
+}
+Common_Prison_95 {
+@<RandPhraseSimple>
+}
+Common_Prison_96 {
+Certo, como quiser...
+}
+Common_Prison_97 {
+Muito bem, pode começar, digamos, o seu pequeno passeio...
+}
+Common_Prison_98 {
+Obrigado, oficial.
+}
+Common_Prison_99 {
+Por assassinato.
+}
+Common_Prison_100 {
+Ele está acusado de pirataria.
+}
+Common_Prison_101 {
+Por banditismo e assalto à mão armada.
+}
+Common_Prison_102 {
+Ele foi pego roubando.
+}
+Common_Prison_103 {
+Por furto leve.
+}
+Common_Prison_104 {
+Por trapaça.
+}
+Common_Prison_105 {
+Por vadiagem e mendicância.
+}
+Common_Prison_106 {
+Entendo... Existe alguma chance de pagar o resgate dele, pagar fiança ou ajudar a conseguir a libertação dele de outra forma?
+}
+Common_Prison_107 {
+Não, claro que não. Aquele canalha está indo direto para o inferno. O governador está de olho nele!
+}
+Common_Prison_108 {
+Heh, entendi...
+}
+Common_Prison_109 {
+Acho que não. Ele já causou muitos problemas para o povo da nossa cidade. Então, nem pense em pedir.
+}
+Common_Prison_110 {
+Hmm, entendi.
+}
+Common_Prison_111 {
+Acho que não. Ele já causou muitos problemas para o povo da nossa cidade. Então, nem pense em pedir.
+}
+Common_Prison_112 {
+Hmm, entendi.
+}
+Common_Prison_113 {
+Não, acho que não. Ele é um ladrão, e ladrão tem que estar na cadeia!
+}
+Common_Prison_114 {
+Ah, é mesmo! Muito bem colocado, tenente...
+}
+Common_Prison_115 {
+Nem sei. Aquele patife roubou uma coisa de pouco valor. Não posso simplesmente deixá-lo ir, mas mantê-lo preso aqui por uma bobagem dessas também não parece certo...
+}
+Common_Prison_116 {
+Então entregue-o a mim, tenente. Eu pago por ele—dentro do razoável, é claro.
+}
+Common_Prison_117 {
+Um resgate? É bem possível. Do meu ponto de vista, não faz sentido manter esse criminoso insignificante aqui.
+}
+Common_Prison_118 {
+Então entregue-o a mim, tenente. Eu pago—dentro do razoável, é claro.
+}
+Common_Prison_119 {
+Hmm. Faz sentido o que você diz. Esse vagabundo só traz mau cheiro e pulgas para toda a prisão...
+}
+Common_Prison_120 {
+Então entregue-o a mim, Tenente. Eu pago—dentro do razoável, é claro.
+}
+Common_Prison_121 {
+Hm, tudo bem então. @<FindMoneyString> em cima do barril, e você pode levá-lo agora mesmo se quiser.
+}
+Common_Prison_122_m {
+Certo, estou dentro.
+}
+Common_Prison_122_f {
+Certo, estou dentro.
+}
+Common_Prison_123 {
+Não, isso está um pouco caro demais. Vou deixar passar.
+}
+Common_Prison_124 {
+Não, isso não vai funcionar. Posso ser inspecionado a qualquer momento, não quero correr esse risco.
+}
+Common_Prison_125 {
+Ora, isso foi bem dito, tenente...
+}
+Common_Prison_126 {
+Tudo bem, pode ir até a cela dele e levar esse moleque embora.
+}
+Common_Prison_127 {
+Obrigado.
+}
+Common_Prison_128 {
+Olha, não vou te dar outra chance...
+}
+Common_Prison_129_m {
+Não precisa. Já tomei minha decisão.
+}
+Common_Prison_129_f {
+Não precisa. Já tomei minha decisão.
+}
+Common_Prison_130 {
+Pode passar, o chefe autorizou...
+}
+Common_Prison_131 {
+Ordem do chefe da prisão recebida. Pode passar livremente.
+}
+Common_Prison_132 {
+@<RandPhraseSimple>
+}
+Common_Prison_133 {
+Muito bem, então.
+}
+Common_Prison_134 {
+Prosseguir sem a permissão do guarda é estritamente proibido!
+}
+Common_Prison_135 {
+Eu só respondo ao chefe da prisão. Tente avançar sem a permissão dele e você está acabado!
+}
+Common_Prison_136 {
+@<RandPhraseSimple>
+}
+Common_Prison_137 {
+Entendido
+}
+Common_Prison_138 {
+Entendi
+}
+Common_Prison_139 {
+@<RandPhraseSimple>, soldado.
+}
+Common_Prison_140 {
+Estou de serviço, não me distraia.
+}
+Common_Prison_141 {
+Siga em frente, não posso falar com você.
+}
+Common_Prison_142 {
+@<RandPhraseSimple>
+}
+Common_Prison_143 {
+Certo, soldado.
+}
+Common_Prison_144 {
+Ha-ha, que diversão é essa!!
+}
+Common_Prison_145_m {
+Acabe com eles, camarada, acabe com eles!!!
+}
+Common_Prison_145_f {
+Acabe com eles, moça, acabe com eles!!!
+}
+Common_Prison_146 {
+Ah, droga! Nunca pensei que veria o corpo do meu capataz!
+}
+Common_Prison_147 {
+@<LinkRandPhrase>
+}
+Common_Prison_148 {
+Heh!
+}
+Common_Prison_149 {
+Argh...
+}
+Common_Prison_150 {
+@<RandPhraseSimple>
+}
+Common_Prison_151_m {
+Espere aí, amigo! Me deixe sair!
+}
+Common_Prison_151_f {
+Espere, moça! Me deixe sair!
+}
+Common_Prison_152_m {
+Escuta, camarada, seja gente boa e destranca a cela, pode ser?
+}
+Common_Prison_152_f {
+Escute, moça, seja gentil e destranque a cela.
+}
+Common_Prison_153 {
+@<RandPhraseSimple>
+}
+Common_Prison_154 {
+Desde quando?
+}
+Common_Prison_155 {
+Fui pego por roubo, estão montando um caso contra mim...
+}
+Common_Prison_156_m {
+Ah, seu moleque mimado... Eu queria ver você na minha cela por uma semana! Heh-heh-heh...
+}
+Common_Prison_156_f {
+Ah, sua criatura mimada... Eu adoraria ter você na minha cela por uma semana! Heh-heh-heh...
+}
+Common_Prison_157 {
+Não sou culpado de nada!
+}
+Common_Prison_158 {
+@<LinkRandPhrase>
+}
+Common_Prison_159 {
+Cale a boca!
+}
+Common_Prison_160 {
+Não me importo com você...
+}
+Common_Prison_161 {
+@<RandPhraseSimple>
+}
+Common_Prison_162_m {
+Ei, camarada, não passa tão rápido pela minha cela!
+}
+Common_Prison_162_f {
+Espere, moça, não passe pela minha cela tão depressa!
+}
+Common_Prison_163_m {
+Calma, amigo, vamos conversar.
+}
+Common_Prison_163_f {
+Não tenha pressa, moça, vamos conversar.
+}
+Common_Prison_164 {
+@<RandPhraseSimple>
+}
+Common_Prison_165 {
+E por que exatamente?
+}
+Common_Prison_166 {
+Me escute. Não ligue para a minha aparência agora. Se ao menos eu pudesse sair daqui...
+}
+Common_Prison_167 {
+O quê?!
+}
+Common_Prison_168_m {
+Foi o que ouvi. Me ajude a sair daqui e vou recompensar você.
+}
+Common_Prison_168_f {
+Foi o que ouvi. Me ajude a sair daqui e eu vou te recompensar.
+}
+Common_Prison_169 {
+Agora você chamou minha atenção. Quem é você e o que pode me oferecer?
+}
+Common_Prison_170 {
+Meu nome é @<GetFullName>. Tenho algo guardado em um lugar seguro. Tire-me daqui e me leve até @<XI_ConvertString>. Há um tesouro escondido em uma gruta lá. Vamos pegá-lo e dividir meio a meio!
+}
+Common_Prison_171 {
+E o que tem no seu esconderijo, então? E como eu sei que está dizendo a verdade?
+}
+Common_Prison_172 {
+Eu juro pra você, estou dizendo a mais pura verdade! E no esconderijo, eu escondi dinheiro e joias...
+}
+Common_Prison_173 {
+Não, camarada. Não vou arriscar minha pele por um tesouro duvidoso. Desculpe...
+}
+Common_Prison_174 {
+Talvez valha o risco... Aqui está minha proposta: posso eliminar os guardas da prisão e levar você até o meu navio. Se tudo correr bem, quero que fique perto de mim até chegarmos ao meu navio. E só quando chegarmos em @<XI_ConvertString> você estará livre para ir embora. Combinado?
+}
+Common_Prison_175 {
+Certo, vou tentar te ajudar—vou falar com o carcereiro. Talvez eu consiga negociar sua libertação sob fiança.
+}
+Common_Prison_176 {
+Certo, vou confiar em você e abrir a cela. Quero que fique perto de mim até chegarmos ao meu navio. Só quando chegarmos em @<XI_ConvertString> você poderá deixar o navio. Combinado?
+}
+Common_Prison_177_m {
+Maldito seja, canalha!
+}
+Common_Prison_177_f {
+Maldito seja, canalha!
+}
+Common_Prison_178 {
+Maldito seja, seu Judas...
+}
+Common_Prison_179 {
+@<RandPhraseSimple>
+}
+Common_Prison_180 {
+Tudo de bom para você também. Adeus...
+}
+Common_Prison_181 {
+O cachorro latiu para o cavalheiro elegante...
+}
+Common_Prison_182 {
+@<RandPhraseSimple>
+}
+Common_Prison_183 {
+Certo, eu realmente não tenho escolha.
+}
+Common_Prison_184 {
+Certo. Vou arrombar sua fechadura agora — saia daí e vamos fugir juntos. Está pronto?
+}
+Common_Prison_185_m {
+Sim, camarada, estou pronto!
+}
+Common_Prison_185_f {
+Sim, moça, estou pronto!
+}
+Common_Prison_186 {
+Vamos lá!
+}
+Common_Prison_187 {
+Vai servir, não tenho muita escolha.
+}
+Common_Prison_188 {
+Certo. Siga-me o mais rápido que puder, ainda precisamos chegar ao meu navio. Não fique para trás!
+}
+Common_Prison_189 {
+Bem, tente. Ah, tomara que funcione! Só não perca tempo—não vou estar aqui daqui a alguns dias...
+}
+Common_Prison_190 {
+Espere, eu cuido de tudo.
+}
+Common_Prison_191_m {
+E então, o que me diz?
+}
+Common_Prison_191_f {
+E então, o que me diz?
+}
+Common_Prison_192 {
+Está tudo resolvido, posso te levar agora.
+}
+Common_Prison_193 {
+Vamos sair daqui, rápido! Droga, que alívio!
+}
+Common_Prison_194 {
+Vamos resumir. Quero que você fique ao meu lado o tempo todo até chegarmos ao meu navio. E só quando chegarmos em @<XI_ConvertString>, você estará livre para deixar o navio. Apenas por precaução, entendeu? Concorda?
+}
+Common_Prison_195 {
+Claro, eu concordo! Não é como se eu tivesse muita escolha.
+}
+Common_Prison_196 {
+Então você está livre.
+}
+Common_Prison_197 {
+assassinato
+}
+Common_Prison_198 {
+pirataria
+}
+Common_Prison_199 {
+banditismo
+}
+Common_Prison_200 {
+sobre roubo
+}
+Common_Prison_201 {
+para roubo
+}
+Common_Prison_202 {
+trapaça
+}
+Common_Prison_203 {
+vadiagem
+}
+Common_Prison_204_m {
+E então, o que me diz?
+}
+Common_Prison_204_f {
+E então, o que me diz?
+}
+Common_Prison_205 {
+Não consegui negociar sua libertação. Você está sendo acusado de @<sTemp>, então fiança está fora de questão.
+}
+Common_Prison_206 {
+Me caluniaram! Maldição! O que eu faço agora? Vou apodrecer aqui dentro!
+}
+Common_Prison_207 {
+Desculpe, amigo, mas não posso te ajudar.
+}
+Common_Prison_208 {
+Ainda há uma chance de te libertar à força. Vou arrombar sua fechadura agora mesmo—saia daí e vamos fugir. Está pronta?
+}
+Common_Prison_209_m {
+Maldito seja, canalha!
+}
+Common_Prison_209_f {
+Maldito, canalha!!
+}
+Common_Prison_210 {
+Maldito seja, seu Judas...
+}
+Common_Prison_211 {
+@<RandPhraseSimple>
+}
+Common_Prison_212 {
+Tudo de bom para você também. Adeus...
+}
+Common_Prison_213_m {
+Então, que boas notícias você tem para mim, camarada?
+}
+Common_Prison_213_f {
+Então, que boas notícias você traz, moça?
+}
+Common_Prison_214_m {
+O resgate pela sua libertação é alto demais; eu não tenho esse dinheiro. Sinto muito, não posso ajudar você.
+}
+Common_Prison_214_f {
+O resgate pela sua libertação é alto demais; não tenho esse dinheiro. Receio que terei que recusar a ajudá-lo.
+}
+Common_Prison_215 {
+Olha, eu conferi tudo aqui, mas não encontrei meu tesouro. É uma pena que as coisas tenham acabado assim — alguém deve ter desenterrado antes da gente.
+}
+Common_Prison_216 {
+Como isso é possível?!
+}
+Common_Prison_217 {
+Encontrei! As joias estavam exatamente onde eu as deixei.
+}
+Common_Prison_218 {
+Magnífico. Então, vamos dividir?
+}
+Common_Prison_219 {
+Bem, aqui está — meu esconderijo. Não é muito, admito, mas é tudo o que tenho. Como combinado, metade é sua.
+}
+Common_Prison_220 {
+É, o tesouro não é lá grande coisa, né? Mas obrigado mesmo assim.
+}
+Common_Prison_221 {
+Capitão, desculpe, mas... bem, não há tesouro.
+}
+Common_Prison_222_m {
+O quê? Você me enganou, seu canalha! Eu tirei você daquela cela, atravessei tudo até esta ilha, e para quê?! Você não vai sair impune dessa!
+}
+Common_Prison_222_f {
+O quê? Você me enganou, seu canalha! Eu tirei você daquela cela, atravessei tudo até esta ilha, e para quê?! Você não vai sair impune dessa!
+}
+Common_Prison_223 {
+Droga... Como isso é possível? Não pode ser!
+}
+Common_Prison_224 {
+O que está acontecendo, camarada? Onde está o nosso tesouro? Não me diga que sumiu!
+}
+Common_Prison_225 {
+Sim, claro, exatamente como combinamos. Metade do tesouro é sua.
+}
+Common_Prison_226 {
+Nossa, tem tanta coisa valiosa aqui!
+}
+Common_Prison_227 {
+Capitão, além de tudo, tem esse item indígena aqui. Fique com ele além da sua parte.
+}
+Common_Prison_228 {
+Bem, pelo menos vou ganhar algo de valor por te libertar! Entregue.
+}
+Common_Prison_229 {
+Espere, capitão, não se exalte, deixe-me explicar. Eu também sou marinheiro, assim como você. Fui preso por engano, eu juro. Você era minha única chance de fugir, então precisei mentir sobre o tesouro.\nNão existe tesouro, mas escondi algo valioso aqui. Pegue, e me deixe ir em paz. Quem sabe, em uma briga, você se lembre de mim com gentileza.
+}
+Common_Prison_230_m {
+Tudo bem, não há nada para tirar de você mesmo. Agradeça a Deus por eu ser rápido para perdoar.
+}
+Common_Prison_230_f {
+Tudo bem, não há nada para tirar de você mesmo. Agradeça à sua sorte por eu ser rápido para perdoar.
+}
+Common_Prison_231 {
+Não!!! Realmente não está aqui! Maldito papel... Capitão, acredite, eu realmente achei que estava aqui! Mas parece que me enganei! Tudo nesse pedaço de papel é tão confuso...
+}
+Common_Prison_232 {
+Bem, parece que você está mesmo encrencado agora, amigo. Mas ainda quero ouvir o seu lado da história.
+}
+Common_Prison_233 {
+Eu tinha um pedaço de um mapa. Um mapa de verdade, eu juro! Mas é tão difícil saber qual ilha ele mostra... Achei que fosse aqui. Mas, como pode ver, não é.
+}
+Common_Prison_234 {
+Que pedaço de mapa é esse? Entregue agora!
+}
+Common_Prison_235 {
+Aqui, pegue, claro. Capitão, por favor, me deixe ir... Eu realmente achei que o tesouro estava aqui. Talvez você consiga descobrir com esse pedaço onde ele está e ficar com tudo para você. Eu imploro.
+}
+Common_Prison_236 {
+É... É bem difícil entender qualquer coisa aqui. Eu preciso da outra metade do mapa. Certo, pode ir — vejo que sua intenção era boa.
+}
+Common_Prison_237_m {
+É simples, amigo. Já vi coisas mais estranhas acontecerem na vida.\nEntão fique aqui se quiser, dê mais uma olhada. Mas eu, já está na hora de ir!\nAdeus, meu amigo, e obrigado por salvar minha vida. Nunca vou me esquecer de você!
+}
+Common_Prison_237_f {
+É simples, meu amigo. A vida nos surpreende com coisas ainda mais estranhas.\nBem, você pode ficar aqui se quiser, dar mais uma olhada. Mas eu preciso ir!\nAdeus, meu amigo, e obrigado por salvar minha vida. Vou me lembrar de você para sempre!
+}
+Common_Prison_238 {
+Ah, seu canalha! Acha que vou deixar você sair assim?! Ei... Pare aí mesmo, seu covarde!
+}
+Common_Prison_239 {
+Por favor, fique com isso. E obrigado!
+}
+Common_Prison_240 {
+Adeus...
+}
+Common_Prison_241 {
+Obrigada, Capitão! Vou rezar por você até o fim dos meus dias!
+}
+Common_Prison_242 {
+Pare com essas histórias! Vai, boa sorte...
+}
+Common_Prison_243 {
+Me chamam de @<GetFullName>. Tenho um pequeno favor pra te pedir, heh-heh...
+}
+Common_Prison_244 {
+O que foi?
+}
+Common_Prison_245 {
+Precisamos enviar uma mensagem. Você consegue cuidar disso?
+}
+Common_Prison_246 {
+E o que eu ganho com isso?
+}
+Common_Prison_247 {
+Seus companheiros não vão te causar problemas, pode ficar tranquilo... Então, o que me diz, vai aceitar o trabalho?
+}
+Common_Prison_248 {
+Não, não me interessa.
+}
+Common_Prison_249 {
+Hmm, se eu não tiver que ir longe, eu aceito o trabalho.
+}
+Common_Prison_250 {
+Certo. Agora preste atenção. Dois dos meus companheiros estão esperando meu recado na cidade—eles estão escondidos em uma casa, evitando aparecer para não serem pegos numa batida. Não sei em qual casa, você vai ter que procurá-los.
+}
+Common_Prison_251 {
+Como devo procurar?
+}
+Common_Prison_252 {
+Normalmente, basta dar uma olhada por aí. Corra pela cidade, dê uma espiada nas casas... Quando encontrar o lugar certo, eles não vão te deixar sair sem dizer nada. Só lembre que vou ficar aqui só mais alguns dias, não mais que isso. Então não demore.
+}
+Common_Prison_253 {
+Certo. Vá em frente, diga sua mensagem.
+}
+Common_Prison_254 {
+Hmm, afinal, não gosto muito de você. Mudei de ideia. Vai, siga em frente, não fique parado aqui!
+}
+Common_Prison_255 {
+Ora, veja só! Tudo bem, faça do seu jeito...
+}
+Common_Prison_256_m {
+Aqui está. Obrigado, amigo!
+}
+Common_Prison_256_f {
+Aqui está. Obrigado, amigo!
+}
+Common_Prison_257 {
+De nada.
+}
+Common_Prison_258 {
+Sim, ele foi preso por contrabando. Mas por que você se importa com esse canalha, @<GetAddress_Form>?
+}
+Common_Prison_259 {
+Ouvi rumores de que ele é inocente.
+}
+Common_Prison_260 {
+A gangue dele está planejando resgatá-lo e continuar com seus negócios sujos.
+}
+Common_Prison_261 {
+Você precisa informar o governador, @<GetAddress_Form>, esses canalhas precisam ser capturados, cada um deles!
+}
+Common_Prison_262 {
+É exatamente isso que vou fazer.
+}
+Common_Prison_263 {
+Escute, @<GetFullName>, este homem foi pego tentando vender contrabando bem aqui na cidade! Como pode dizer que ele é inocente?
+}
+Common_Prison_264_m {
+Ouvi dizer que a acusação não tem fundamento e que você não tem provas, não é? Você não pode manter uma pessoa inocente presa.
+}
+Common_Prison_264_f {
+Ouvi dizer que a acusação não tem fundamento e que você não tem provas, certo? Não se pode manter uma pessoa injustamente acusada presa.
+}
+Common_Prison_265 {
+Não temos testemunhas e, na verdade, nem mercadorias, mas isso não muda nada! Ele certamente é culpado, e provavelmente não só de comércio ilegal. De qualquer forma — por que você se importa com o prisioneiro?
+}
+Common_Prison_266 {
+Eu respondo por este homem infeliz! E se começar a enforcar pessoas sem um julgamento adequado, os moradores podem não gostar nada disso.
+}
+Common_Prison_267 {
+Talvez esses 5.000 piastras e minha palavra possam responder por essa alma infeliz?
+}
+Common_Prison_268 {
+Muito bem, @<GetAddress_Form>, leve esse canalha e vá embora antes que eu mude de ideia.
+}
+Common_Prison_269 {
+Não é gratificante ver a justiça prevalecer?
+}
+Common_Prison_270 {
+Não, @<GetAddress_Form>, eu não confio em você. @<PChar> fica aqui.
+}
+Common_Prison_271 {
+Isso é um grande erro, @<GetAddress_FormToNPC>...
+}
+Common_Prison_272 {
+Tudo bem. Só garanta que leve esse canalha para bem longe da nossa cidade.
+}
+Common_Prison_273 {
+Como o senhor disser, oficial.
+}
+Common_Prison_274 {
+Não, isso não vai dar certo. E você, @<GetAddress_Form>, é melhor sair da prisão antes que acabe preso por suborno também.
+}
+Common_Prison_275 {
+Entendi...
+}

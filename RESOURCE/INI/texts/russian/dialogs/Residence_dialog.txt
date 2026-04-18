@@ -1,0 +1,528 @@
+Residence_dialog_1 {
+Сейчас сюда придёт стража, и от тебя мокрого места не останется!
+}
+Residence_dialog_2_m {
+Охрана! Здесь разгуливает преступник!
+}
+Residence_dialog_2_f {
+Охрана! Здесь разгуливает преступница!
+}
+Residence_dialog_3 {
+@<RandPhraseSimple>
+}
+Residence_dialog_4 {
+Лучше тебе помалкивать, живее будешь...
+}
+Residence_dialog_5 {
+Прикрой-ка свой ротик, милочка...
+}
+Residence_dialog_6 {
+@<RandPhraseSimple>
+}
+Residence_dialog_7_m {
+Шёл бы ты отсюда, @<GetAddress_Form>. Нечего шляться такому типу в доме у губернатора...
+}
+Residence_dialog_7_f {
+Шла бы ты отсюда, @<GetAddress_Form>. Нечего шляться такой оторве в доме у губернатора...
+}
+Residence_dialog_8_m {
+Уходи, разбойник! Как вообще ты сюда попал?..
+}
+Residence_dialog_8_f {
+Уходи, разбойница! Как вообще ты сюда попала?..
+}
+Residence_dialog_9 {
+Ну и времена настали. Всякая мерзость шастает по дому губернатора @<XI_ConvertString>!
+}
+Residence_dialog_10 {
+@<LinkRandPhrase>
+}
+Residence_dialog_11 {
+Полегче, дура...
+}
+Residence_dialog_12 {
+Аккуратней в выражениях...
+}
+Residence_dialog_13 {
+@<RandPhraseSimple>
+}
+Residence_dialog_14 {
+Здравствуйте. Я прислуживаю губернатору. Меня зовут @<GetFullName>.
+}
+Residence_dialog_15 {
+Я занимаюсь уборкой в этой комнате, @<GetAddress_Form>.
+}
+Residence_dialog_16 {
+Вы знаете, @<GetAddress_Form>, наш губернатор - хороший человек, и неплохо платит прислуге...
+}
+Residence_dialog_17 {
+@<LinkRandPhrase>
+}
+Residence_dialog_18 {
+Очень хорошо.
+}
+Residence_dialog_19 {
+Хм, прекрасно...
+}
+Residence_dialog_20 {
+@<RandPhraseSimple>
+}
+Residence_dialog_21 {
+Прошу, пощадите, я хочу жить!
+}
+Residence_dialog_22_m {
+Я ничего вам не сделала! Смилуйтесь, господин!
+}
+Residence_dialog_22_f {
+Я ничего вам не сделала! Смилуйтесь, госпожа!
+}
+Residence_dialog_23 {
+@<RandPhraseSimple>
+}
+Residence_dialog_24 {
+Придержи язык и не мешайся под ногами.
+}
+Residence_dialog_25 {
+Помолчи, дура.
+}
+Residence_dialog_26 {
+@<RandPhraseSimple>
+}
+Residence_dialog_27_m {
+Рада видеть вас, господин @<pchar>. Меня зовут @<GetFullName>, я к вашим услугам.
+}
+Residence_dialog_27_f {
+Рада видеть вас, госпожа @<pchar>. Меня зовут @<GetFullName>, я к вашим услугам.
+}
+Residence_dialog_28 {
+, будем знакомы.
+}
+Residence_dialog_29 {
+, приятно познакомиться.
+}
+Residence_dialog_30 {
+@<TimeGreeting>, @<NPChar>@<RandPhraseSimple>
+}
+Residence_dialog_31_m {
+Чем могу быть полезна, господин губернатор?
+}
+Residence_dialog_31_f {
+Чем могу быть полезна, госпожа губернатор?
+}
+Residence_dialog_32_m {
+Я бы хотел отдохнуть в своей почивальне.
+}
+Residence_dialog_32_f {
+Я бы хотела отдохнуть в своей почивальне.
+}
+Residence_dialog_33 {
+Есть для тебя одно поручение...
+}
+Residence_dialog_34_m {
+Не бери в голову, красотка.
+}
+Residence_dialog_34_f {
+Не бери в голову.
+}
+Residence_dialog_35 {
+Благодарю, но в данный момент мне не требуется помощь.
+}
+Residence_dialog_36 {
+@<RandPhraseSimple>
+}
+Residence_dialog_37 {
+Не берите в голову.
+}
+Residence_dialog_38 {
+Благодарю, но в данный момент мне не требуется помощь.
+}
+Residence_dialog_39 {
+@<RandPhraseSimple>
+}
+Residence_dialog_40 {
+Прикажите ли разбудить вас к определённому времени?
+}
+Residence_dialog_41 {
+Есть ли необходимость проследить, чтобы вы проснулись вовремя?
+}
+Residence_dialog_42 {
+@<RandPhraseSimple>
+}
+Residence_dialog_43 {
+Утром меня ждут дела.
+}
+Residence_dialog_44 {
+Сначала мне нужно разобраться с парой вопросов.
+}
+Residence_dialog_45 {
+Мне нужно проснуться следующим утром.
+}
+Residence_dialog_46_m {
+К ночи я должен быть на ногах.
+}
+Residence_dialog_46_f {
+К ночи я должна быть на ногах.
+}
+Residence_dialog_47 {
+Пока нет. У меня ещё остались незаконченные дела.
+}
+Residence_dialog_48 {
+Хорошо, @<GetAddress_Form>. Утром я принесу вам сытный завтрак и застелю постель.
+}
+Residence_dialog_49 {
+Здорово. Тогда мне пора ложиться...
+}
+Residence_dialog_50_m {
+Постой, я передумал. Ещё слишком рано.
+}
+Residence_dialog_50_f {
+Постой, я передумала. Ещё слишком рано.
+}
+Residence_dialog_51_m {
+Как будет угодно господину губернатору.
+}
+Residence_dialog_51_f {
+Как будет угодно госпоже губернатору.
+}
+Residence_dialog_52 {
+Прекрасно.
+}
+Residence_dialog_53_m {
+Я тут подумал, мне нужно кое-куда сбегать.
+}
+Residence_dialog_53_f {
+Я тут подумала, мне нужно кое-куда сбегать.
+}
+Residence_dialog_54 {
+Внимательно слушаю вас.
+}
+Residence_dialog_55 {
+Я вся во внимании.
+}
+Residence_dialog_56 {
+@<RandPhraseSimple>
+}
+Residence_dialog_57 {
+Полезай на кровать, детка, покувыркаемся!
+}
+Residence_dialog_58 {
+Думаю, сейчас самое время развлечься на моей кровати.
+}
+Residence_dialog_59_m {
+Неважно, я передумал.
+}
+Residence_dialog_59_f {
+Неважно, я передумала.
+}
+Residence_dialog_60 {
+Хотя, пожалуй, сейчас мне ничего не нужно.
+}
+Residence_dialog_61 {
+@<RandPhraseSimple>
+}
+Residence_dialog_62 {
+Не скрою, господин, вы мне очень симпатичны. Постараюсь не разочаровать.
+}
+Residence_dialog_63 {
+Ах, я и мечтать не могла о таком горячем и отважном мужчине...
+}
+Residence_dialog_64 {
+@<RandPhraseSimple>
+}
+Residence_dialog_65 {
+Наслышана о ваших подвигах, капитан. Ох, как же мне повезло оказаться сейчас рядом с вами...
+}
+Residence_dialog_66 {
+Как неожиданно, что простая служанка привлекла ваше внимание! С удовольствием исполню ваше ''поручение''...
+}
+Residence_dialog_67 {
+@<RandPhraseSimple>
+}
+Residence_dialog_68 {
+За дело, крошка!
+}
+Residence_dialog_69 {
+О, да!
+}
+Residence_dialog_70 {
+@<RandPhraseSimple>
+}
+Residence_dialog_71 {
+Повеселимся!
+}
+Residence_dialog_72 {
+Умничка. Со мной не соскучишься!
+}
+Residence_dialog_73 {
+@<RandPhraseSimple>
+}
+Residence_dialog_74 {
+Господин, вы ставите меня в затруднительное положение... Дело в том, что я нахожусь в довольно близких отношениях с вашим наместником. @<UpperFirst> @<gover> иногда приглашает меня, чтобы... хорошо провести время. Мне бы не хотелось разозлить его и потерять работу...
+}
+Residence_dialog_75 {
+Ой, боюсь, в этом случае наместник @<gover> может затаить на меня обиду. Он регулярно проявляет ко мне интерес... Вдруг он захочет выставить меня, если обо всём узнает...
+}
+Residence_dialog_76 {
+@<RandPhraseSimple>
+}
+Residence_dialog_77 {
+Спокойней, милочка, здесь я решаю, кто и где будет работать. @<gover> - мой подчиненный, и в городе он находится, чтобы следить за порядком, а не плести мелкие интрижки с обслугой. К тому же тебя никто не просит трепаться об этом.
+}
+Residence_dialog_78 {
+М-да. Пожалуй, не стоит лямзить девочек у своих офицеров. Надеюсь, хоть казённые деньги он на вас не спускает...
+}
+Residence_dialog_79 {
+Польщена вашим вниманием, господин губернатор. Но вынуждена отказать, так как я замужем.
+}
+Residence_dialog_80 {
+Признаюсь, мне льстит, что такого могущественного человека заинтересовала моя скромная персона, но не могу согласиться. Моё сердце уже принадлежит одному мужчине.
+}
+Residence_dialog_81 {
+@<RandPhraseSimple>
+}
+Residence_dialog_82 {
+И что с того? Я хозяин этого города, ты не можешь перечить своему правителю.
+}
+Residence_dialog_83 {
+Послушай, не надо всё усложнять. Эта маленькая шалость останется между нами.
+}
+Residence_dialog_84 {
+@<RandPhraseSimple>
+}
+Residence_dialog_85 {
+Ладно, малышка, расслабься. Возвращайся к своей работе.
+}
+Residence_dialog_86 {
+Простите, сэр, я не смогу пойти на такой грех... Прошу, позвольте мне продолжить уборку.
+}
+Residence_dialog_87 {
+Пожалуйста, войдите в моё положение, я не хочу предавать свою семью!
+}
+Residence_dialog_88 {
+@<RandPhraseSimple>
+}
+Residence_dialog_89 {
+Делай, что велено, или я выброшу тебя отсюда!
+}
+Residence_dialog_90 {
+Кажется, ты не понимаешь своего положения. Не вынуждай меня идти на крайние меры!
+}
+Residence_dialog_91 {
+@<RandPhraseSimple>
+}
+Residence_dialog_92 {
+Так уж и быть, оставим этот разговор.
+}
+Residence_dialog_93 {
+Ну хорошо, сэр губернатор. Только пусть это останется между нами...
+}
+Residence_dialog_94 {
+Как скажете, господин. Постараюсь не разочаровать вас.
+}
+Residence_dialog_95 {
+@<RandPhraseSimple>
+}
+Residence_dialog_96 {
+За дело, крошка!
+}
+Residence_dialog_97 {
+О, да!
+}
+Residence_dialog_98 {
+@<RandPhraseSimple>
+}
+Residence_dialog_99 {
+Повеселимся!
+}
+Residence_dialog_100 {
+Умничка. Со мной не соскучишься!
+}
+Residence_dialog_101 {
+@<RandPhraseSimple>
+}
+Residence_dialog_102 {
+Прошу, пощадите, я хочу жить!
+}
+Residence_dialog_103 {
+Я ничего вам не сделала! Смилуйтесь, господин!
+}
+Residence_dialog_104 {
+@<RandPhraseSimple>
+}
+Residence_dialog_105 {
+Придержи язык и не мешайся под ногами.
+}
+Residence_dialog_106 {
+Помолчи, дура.
+}
+Residence_dialog_107 {
+@<RandPhraseSimple>
+}
+Residence_dialog_108 {
+М-м-м, это было великолепно!
+}
+Residence_dialog_109 {
+Вы настоящий морской волк, @<pchar>.
+}
+Residence_dialog_110 {
+@<RandPhraseSimple>
+}
+Residence_dialog_111 {
+Рад, что тебе понравилось.
+}
+Residence_dialog_112 {
+Я ещё и не на такое способен...
+}
+Residence_dialog_113 {
+@<RandPhraseSimple>
+}
+Residence_dialog_114 {
+Ой, что же это делается?! А я-то, дура, хожу, ничего не замечаю... Охрана!!!
+}
+Residence_dialog_115 {
+Заткнись, дура...
+}
+Residence_dialog_116_m {
+Пошёл вон отсюда, мерзавец!
+}
+Residence_dialog_116_f {
+Пошла вон отсюда, мерзавка!
+}
+Residence_dialog_117_m {
+Немедленно убирайся из дома губернатора, негодяй!
+}
+Residence_dialog_117_f {
+Немедленно убирайся из дома губернатора, негодяйка!
+}
+Residence_dialog_118 {
+Мне нет дела до того, что тебе нужно в доме губернатора @<XI_ConvertString>. Но дам тебе совет - убирайся отсюда!
+}
+Residence_dialog_119 {
+@<LinkRandPhrase>
+}
+Residence_dialog_120 {
+Полегче, родной...
+}
+Residence_dialog_121 {
+Смотри, не подавись своими словами!
+}
+Residence_dialog_122 {
+@<RandPhraseSimple>
+}
+Residence_dialog_123 {
+Здравствуйте. Я - слуга губернатора. Меня зовут @<GetFullName>.
+}
+Residence_dialog_124 {
+Я присматриваю здесь за порядком, @<GetAddress_Form>.
+}
+Residence_dialog_125 {
+Вы знаете, @<GetAddress_Form>, наш губернатор - хороший человек, и неплохо платит прислуге...
+}
+Residence_dialog_126 {
+@<LinkRandPhrase>
+}
+Residence_dialog_127 {
+Очень хорошо.
+}
+Residence_dialog_128 {
+Хм, прекрасно...
+}
+Residence_dialog_129 {
+@<RandPhraseSimple>
+}
+Residence_dialog_130 {
+Добро пожаловать в резиденцию, господин. Меня зовут @<GetFullName>, я присматриваю здесь за порядком.
+}
+Residence_dialog_131 {
+Для меня честь служить вам, сэр!
+}
+Residence_dialog_132 {
+@<RandPhraseSimple>
+}
+Residence_dialog_133 {
+Очень хорошо.
+}
+Residence_dialog_134 {
+Хм, прекрасно...
+}
+Residence_dialog_135 {
+@<RandPhraseSimple>
+}
+Residence_dialog_136_m {
+Да ты никак вздумал обворовать губернатора?! Охрана, держи вора!!
+}
+Residence_dialog_136_f {
+Да ты никак вздумала обворовать губернатора?! Охрана, держи воровку!!
+}
+Residence_dialog_137 {
+Закрой пасть...
+}
+Residence_dialog_138_m {
+Шёл бы отсюда, приятель...
+}
+Residence_dialog_138_f {
+Шла бы отсюда, подруга...
+}
+Residence_dialog_139 {
+Проваливай отсюда!
+}
+Residence_dialog_140_m {
+Ты, часом, дверью не ошибся? Это дом губернатора @<XI_ConvertString>. Тебе лучше уйти!
+}
+Residence_dialog_140_f {
+Ты, часом, дверью не ошиблась? Это дом губернатора @<XI_ConvertString>. Тебе лучше уйти!
+}
+Residence_dialog_141 {
+@<LinkRandPhrase>
+}
+Residence_dialog_142 {
+Уйду, когда захочу!
+}
+Residence_dialog_143 {
+Не лезь не в своё дело...
+}
+Residence_dialog_144 {
+@<RandPhraseSimple>
+}
+Residence_dialog_145 {
+Сегодня меня поставили в наряд к губернатору. Неплохое место...
+}
+Residence_dialog_146 {
+Я охраняю дом губернатора, @<GetAddress_Form>.
+}
+Residence_dialog_147 {
+Моя задача - охранять дом губернатора.
+}
+Residence_dialog_148 {
+@<LinkRandPhrase>
+}
+Residence_dialog_149 {
+Здорово.
+}
+Residence_dialog_150 {
+Хм, понятно...
+}
+Residence_dialog_151 {
+@<RandPhraseSimple>
+}
+Residence_dialog_152_m {
+Я охраняю вашу резиденцию, господин губернатор.
+}
+Residence_dialog_152_f {
+Я охраняю вашу резиденцию, госпожа губернатор.
+}
+Residence_dialog_153 {
+Для меня честь служить вам, @<GetAddress_Form>!
+}
+Residence_dialog_154 {
+@<RandPhraseSimple>
+}
+Residence_dialog_155 {
+Здорово.
+}
+Residence_dialog_156 {
+Хм, прекрасно...
+}
+Residence_dialog_157 {
+@<RandPhraseSimple>
+}

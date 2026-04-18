@@ -1,0 +1,564 @@
+Raiders_1 {
+Did you hear? The local robber @<GetFullName> has found another victim. Some captain lost his nerve and paid him off. Rumor has it he shelled out @<FindMoneyString>, heh-heh...
+}
+Raiders_2 {
+Aye, Captain @<GetFullName>, I already heard you had to hand over @<FindMoneyString> to buy off the local bandit @<GetFullName>. Well, what can I say—tough luck! Ha-ha-ha!
+}
+Raiders_3 {
+Have you heard that some local bandits attacked a captain? They robbed him of a whole @<FindMoneyString>!
+}
+Raiders_4 {
+@<LinkRandPhrase>
+}
+Raiders_5_m {
+Did you hear? They finally found a way to deal with that bandit @<GetFullName>. He and his pals tried to rob some captain, but he turned out to be more than they could handle. In the end, our brave robber ended up soiling his own breeches, ha-ha! Serves him right—robbing a real captain isn’t the same as shaking down the local farmers for pocket change.
+}
+Raiders_5_f {
+Did you hear? They finally found a way to deal with that bandit @<GetFullName>. He and his pals tried to rob some sailor woman, but she turned out to be more than they could handle. In the end, our brave robber ended up soiling himself, ha-ha! Serves him right—shaking down local farmers for pocket change is one thing, but this was something else.
+}
+Raiders_6 {
+Thank you, Captain @<GetFullName>, for finally driving off that bandit @<GetFullName> and his gang. Life had become unbearable with those scoundrels around. Sometimes I was even afraid to send a messenger to the farm for milk—who knows, they might run into them and lose all their money.
+}
+Raiders_7 {
+@<RandPhraseSimple>
+}
+Raiders_8_m {
+Did you hear? At last, some captain finally gave that cutthroat @<GetFullName> a proper thrashing—the one who was terrorizing the jungles and scaring the local farmers. I wonder if that'll put them off banditry for long.
+}
+Raiders_8_f {
+Did you hear? Some sailor woman gave that thug @<GetFullName> a proper beating—the one who was terrorizing the farmers and prowling the jungle. I wonder if that'll keep them from banditry for long.
+}
+Raiders_9_m {
+Have you heard that the local bandit @<GetFullName> and his thugs tried to rob some captain? Well, it didn’t go as planned—the captain turned out to be a tough nut to crack. Word is, he chased those would-be robbers through the jungle like a shark after a school of sardines. Thank the Lord there are still people who can stand up for us in times like these, when the authorities do nothing, too busy with their own affairs...
+}
+Raiders_9_f {
+Haven’t you heard that the local bandit @<GetFullName> and his lackeys tried to rob some lady captain? Well, it didn’t go as planned — the captain turned out to be tough as nails. They say she chased those would-be robbers through the jungle like a shark after a school of sardines. Thank the Lord there are still people who can stand up for us in times like these, when the authorities are too busy with their own affairs to do anything...
+}
+Raiders_10 {
+@<LinkRandPhrase>
+}
+Raiders_11 {
+Stop! Drop your weapon! Hand over the gold, or you'll die right here!
+}
+Raiders_12_m {
+Don’t move, traveler! Keep your hands off your weapon, and don’t even think about making jokes if you value your life!
+}
+Raiders_12_f {
+Don't move, girl! Keep your hands off the weapons, and don’t even think about getting clever if you value your life!
+}
+Raiders_13_m {
+Hold it, traveler! This is a toll road! If you want to pass, pay the fee.
+}
+Raiders_13_f {
+Hold it, girl! This is a toll road! If you want to pass, pay the fee.
+}
+Raiders_14 {
+@<LinkRandPhrase>
+}
+Raiders_15_m {
+Hey there, mate! Not so fast! I want to see if your purse isn’t a bit too heavy.
+}
+Raiders_15_f {
+Hey there, lass! Not so fast! I want to see if your purse isn’t a bit too heavy.
+}
+Raiders_16_m {
+Come a little closer, friend. I want to hear the jingle of gold in your purse.
+}
+Raiders_16_f {
+Come a little closer, darling. I want to hear the jingle of gold in your purse.
+}
+Raiders_17_m {
+Hold on there, mate. My pals and I had a little wager—just how much gold your purse can hold. Now, we ought to check before things get ugly.
+}
+Raiders_17_f {
+Hold on there, lass. My mates and I had a wager—just how much gold could fit in your purse. Best we find out now, before things turn ugly.
+}
+Raiders_18 {
+@<LinkRandPhrase>
+}
+Raiders_19_m {
+Don’t rush off, stranger! I’d like to have a heart-to-heart with you.
+}
+Raiders_19_f {
+No rush, darling! I want to have a heart-to-heart with you.
+}
+Raiders_20 {
+@<LinkRandPhrase>
+}
+Raiders_21 {
+What are you talking about?
+}
+Raiders_22 {
+What's the matter?
+}
+Raiders_23 {
+What are you talking about?
+}
+Raiders_24 {
+@<LinkRandPhrase>
+}
+Raiders_25 {
+What do you mean?
+}
+Raiders_26 {
+What are you getting at?
+}
+Raiders_27 {
+@<LinkRandPhrase>
+}
+Raiders_28 {
+Bandits, are you?! Well then, let’s see what you’re made of!
+}
+Raiders_29 {
+Bandits, are you?! Running from justice, I bet? Well, looks like justice has come to you...
+}
+Raiders_30_m {
+Didn't anyone ever teach you it's rude to bother strangers with nonsense? Looks like you'll need a lesson...
+}
+Raiders_30_f {
+Didn’t anyone ever teach you it’s rude to bother a lady with nonsense? Looks like you need a lesson...
+}
+Raiders_31 {
+@<LinkRandPhrase>
+}
+Raiders_32 {
+Ah, you scoundrel! I hope your blade is as sharp as your tongue.
+}
+Raiders_33 {
+I see you’ve got a sharp tongue. Let’s hope you handle a blade just as well.
+}
+Raiders_34 {
+Ah, little bandits! They keep hanging you, and yet you never give up...
+}
+Raiders_35 {
+@<LinkRandPhrase>
+}
+Raiders_36 {
+Ah, bandits! I don’t waste words on your kind!
+}
+Raiders_37_m {
+Well, you’ve got some nerve! You reek from a mile away, yet you barge in trying to talk to a decent person.
+}
+Raiders_37_f {
+Well, you’ve got some nerve! You reek from a mile away, and yet you come bothering a decent girl with your talk.
+}
+Raiders_38 {
+@<RandPhraseSimple>
+}
+Raiders_39 {
+With folks like you, it’s usually my pistol that does the talking!
+}
+Raiders_40 {
+Bandits again! Well, I can't promise you the gallows, but I can sure put a couple of holes in your guts!
+}
+Raiders_41 {
+@<LinkRandPhrase>
+}
+Raiders_42 {
+@<LinkRandPhrase>
+}
+Raiders_43 {
+Do you know there’s a patrol squad hot on my heels? All I have to do is whistle, and you’re dead men.
+}
+Raiders_44 {
+Aren’t you afraid I’ll call the patrol? They’re nearby, looking for you right now.
+}
+Raiders_45 {
+A patrol squad has already been sent after you—they’ll be here any minute now, so you’re taking quite a risk.
+}
+Raiders_46 {
+@<RandPhraseSimple>
+}
+Raiders_47_m {
+You’d better get out of here quickly. A patrol squad is on its way—I just spoke with their officer.
+}
+Raiders_47_f {
+You’d better get out of here fast. A patrol squad is on its way—I just spoke with their officer.
+}
+Raiders_48_m {
+I’d be glad to continue our conversation, but I’m afraid the patrol I just ran into won’t let our acquaintance blossom into a close friendship.
+}
+Raiders_48_f {
+I’d be glad to continue our conversation, but I’m afraid the patrol I just ran into won’t let our acquaintance blossom into a close friendship.
+}
+Raiders_49 {
+@<RandPhraseSimple>
+}
+Raiders_50 {
+@<LinkRandPhrase>
+}
+Raiders_51 {
+Don’t play the fool! Hand over your gold, and maybe I’ll let you go!
+}
+Raiders_52_m {
+Haven’t you heard of travel expenses? If you won’t part with your gold, you’ll part with your head!
+}
+Raiders_52_f {
+Haven’t you heard of travel expenses? If you won’t part with your gold, you’ll part with your head!
+}
+Raiders_53 {
+Heh, this is just your average roadside adventure that'll cost you your purse... unless I get angry.
+}
+Raiders_54 {
+@<LinkRandPhrase>
+}
+Raiders_55 {
+It’s real simple — you hand over your gold and walk away, or you stay here and we leave with your gold. But trust me, you won’t like the second option, heh-heh.
+}
+Raiders_56 {
+Don’t play dumb. Hand over your purse! Unless you want me to take it off your corpse!
+}
+Raiders_57 {
+@<RandPhraseSimple>
+}
+Raiders_58_m {
+Let me spell it out for you, since you’re so slow—hand over all your money if you want to live!
+}
+Raiders_58_f {
+Let me spell it out for you, since you’re so slow—hand over all your money if you want to live!
+}
+Raiders_59 {
+@<LinkRandPhrase>
+}
+Raiders_60 {
+Damn it! Scoundrel! I only have @<FindMoneyString> on me.
+}
+Raiders_61 {
+Looking for money, are you? Then come and take it, and I'll see just how many pence you're worth.
+}
+Raiders_62 {
+How dare you, you boor! Looks like you need a lesson in proper manners!
+}
+Raiders_63_m {
+Such arrogance! Well then, let’s see if a naval officer is too much for you landlubbers to handle!
+}
+Raiders_63_f {
+Such arrogance! Well then, let’s see if these landlubber rats can handle a sea she-wolf!
+}
+Raiders_64 {
+@<LinkRandPhrase>
+}
+Raiders_65 {
+You ought to be flogged for such insolence!
+}
+Raiders_66 {
+Ah, you scoundrels! Well then, pray to your devils!
+}
+Raiders_67 {
+You scoundrels should’ve been hanged in the square! But looks like I’ll have to dirty my blade instead!
+}
+Raiders_68 {
+@<LinkRandPhrase>
+}
+Raiders_69 {
+And what makes you think I’ll go waving my purse in front of you?
+}
+Raiders_70_m {
+Doesn't it bother you that I'm well-armed and didn't just stumble into the jungle half-asleep?
+}
+Raiders_70_f {
+Doesn't it bother you that I'm well-armed and didn't just stumble into the jungle half-asleep?
+}
+Raiders_71 {
+@<RandPhraseSimple>
+}
+Raiders_72 {
+@<LinkRandPhrase>
+}
+Raiders_73 {
+Damn it! All right, farewell. And don’t you dare make a fuss.
+}
+Raiders_74_m {
+You got lucky this time, but next time you’ll owe me double! Don’t forget to remind me, heh-heh.
+}
+Raiders_74_f {
+You got lucky this time, but next time you’ll owe me double! Don’t forget to remind me, heh-heh.
+}
+Raiders_75 {
+@<RandPhraseSimple>
+}
+Raiders_76 {
+How could you?
+}
+Raiders_77 {
+Go on, run while you still can.
+}
+Raiders_78 {
+@<RandPhraseSimple>
+}
+Raiders_79 {
+And we’ll slit your throat so quietly, you won’t even have time to squeak.
+}
+Raiders_80_m {
+Damn it! I'll have to cut you down quick, before you raise the alarm.
+}
+Raiders_80_f {
+Damn it! I'll have to cut you down quick, before you raise the alarm.
+}
+Raiders_81 {
+@<RandPhraseSimple>
+}
+Raiders_82_m {
+Well, as you wish. I warned you.
+}
+Raiders_82_f {
+Well, as you wish. I warned you.
+}
+Raiders_83 {
+Why should I care about your patrol? I’ve got everything under control here, and everyone’s been paid off. So hand over your purse and keep your mouth shut.
+}
+Raiders_84_m {
+Who are you trying to scare?! In this forest, I’m the patrol for the likes of you. No one’s ever left without paying the toll!
+}
+Raiders_84_f {
+Who are you trying to scare?! In this forest, I’m the patrol for the likes of you. No one’s ever left without paying the toll!
+}
+Raiders_85 {
+@<RandPhraseSimple>
+}
+Raiders_86 {
+Damn it! Scoundrel! I only have @<FindMoneyString> on me.
+}
+Raiders_87 {
+Hmm, it’s not your place to be giving me orders.
+}
+Raiders_88 {
+For such insolence, I’ll put a couple of holes in your skull. Let your brains get some fresh air.
+}
+Raiders_89 {
+Such audacity cannot go unpunished!
+}
+Raiders_90 {
+@<LinkRandPhrase>
+}
+Raiders_91 {
+Ah, you’ve picked the wrong fight...
+}
+Raiders_92 {
+@<RandPhraseSimple>
+}
+Raiders_93_m {
+Hey, don’t get so worked up, mate! I was just joking! Go on your way!
+}
+Raiders_93_f {
+Hey, don’t get so worked up, lass! I was just joking! Go on your way!
+}
+Raiders_94_m {
+Alright, I’ve changed my mind. You can go, since you’re so tough.
+}
+Raiders_94_f {
+Alright, I’ve changed my mind. You can go, since you’re so fierce.
+}
+Raiders_95 {
+@<RandPhraseSimple>
+}
+Raiders_96_m {
+What, “brave captain” again? Fine, go in peace...
+}
+Raiders_96_f {
+What, “the fighting girl” again? Fine, go in peace...
+}
+Raiders_97_m {
+Easy, friend. Can’t you see, it was a mistake—we took you for a merchant. Best you move along and stay out of trouble.
+}
+Raiders_97_f {
+Easy there, lass. Can’t you see we’ve made a mistake? Best you walk away before trouble finds you.
+}
+Raiders_98 {
+@<LinkRandPhrase>
+}
+Raiders_99 {
+Well then, until we meet again!
+}
+Raiders_100 {
+You’d best drop this business before you get yourself skinned.
+}
+Raiders_101 {
+Well, just make sure you don’t cross my path again.
+}
+Raiders_102 {
+@<LinkRandPhrase>
+}
+Raiders_103 {
+Next time, watch who you’re mouthing off to.
+}
+Raiders_104_m {
+Thank your lucky stars I’m in a good mood today.
+}
+Raiders_104_f {
+Thank your lucky stars I’m in a good mood today.
+}
+Raiders_105 {
+@<RandPhraseSimple>
+}
+Raiders_106 {
+This kind of trade will bring you nothing but trouble. Farewell.
+}
+Raiders_107 {
+Well, that's a wise decision. Farewell!
+}
+Raiders_108 {
+@<RandPhraseSimple>
+}
+Raiders_109 {
+@<LinkRandPhrase>
+}
+Raiders_110 {
+No way, mate. Looks like you need a lesson in manners.
+}
+Raiders_111 {
+Lost your nerve, have you?! But you’ve got to answer for your actions! Isn’t that right?
+}
+Raiders_112 {
+No way! I won’t rest until I’ve given you a good thrashing.
+}
+Raiders_113 {
+@<LinkRandPhrase>
+}
+Raiders_114_m {
+You could’ve walked away in peace! Now you’ve only yourself to blame!
+}
+Raiders_114_f {
+You could’ve walked away in peace! Now you’ve only yourself to blame!
+}
+Raiders_115_m {
+You shouldn't have started this, you scoundrel! Now you'll die like a dog!
+}
+Raiders_115_f {
+You shouldn't have started this, you scoundrel! Now you'll die like a dog!
+}
+Raiders_116 {
+Oh, is that so! I’ll tear you to pieces! Cut out your liver and feed it to the dogs!
+}
+Raiders_117 {
+@<LinkRandPhrase>
+}
+Raiders_118 {
+I'll shove those words right down your throat!
+}
+Raiders_119 {
+Who are you threatening, scum?!
+}
+Raiders_120 {
+@<RandPhraseSimple>
+}
+Raiders_121 {
+Alright! Hand them over and get lost!
+}
+Raiders_122 {
+Not much, but better than nothing. It’s good to deal with a smart person! You may go.
+}
+Raiders_123 {
+@<RandPhraseSimple>
+}
+Raiders_124 {
+Now that’s more like it! As an old friend of mine used to say—it's a pleasure to listen to a smart person, but with a fool, you can at least have a chat—heh-heh.
+}
+Raiders_125_m {
+In exchange for your gold, here’s some advice—don’t go wandering through the jungle if you’re such a weakling! Better stay in the port tavern and drink your rum—you’ll live longer that way.
+}
+Raiders_125_f {
+In exchange for your gold, here’s some advice—don’t go wandering through the jungle, girl. You might end up with more than just your purse stolen.
+}
+Raiders_126 {
+@<LinkRandPhrase>
+}
+Raiders_127 {
+Cursed hangmen!
+}
+Raiders_128 {
+Seems like you’re trying to pull a fast one on me! But that’s all right, I’ll tickle you a bit—let’s see what falls out.
+}
+Raiders_129 {
+Damn it!
+}
+Raiders_130 {
+You again? Go on, run home to your mama! Or I might just lose my temper.
+}
+Raiders_131_m {
+What? Didn’t hand over all the gold? Ha-ha-ha!
+}
+Raiders_131_f {
+What? Didn’t hand over all the gold? Ha-ha-ha!
+}
+Raiders_132_m {
+Listen, mate, I’ve had enough of you! Get out of my sight while you still can!
+}
+Raiders_132_f {
+Listen, lass, I’ve had enough of you! Get out of my sight while you still can!
+}
+Raiders_133 {
+@<LinkRandPhrase>
+}
+Raiders_134 {
+Yes, I’m leaving already.
+}
+Raiders_135_m {
+I figured that wouldn’t be fair. So, I decided to even the score...
+}
+Raiders_135_f {
+I thought it wouldn’t be fair otherwise. So, I decided to even the score...
+}
+Raiders_136 {
+What do you want? We agreed you’d leave!
+}
+Raiders_137_m {
+Leave me alone, boy. I’ve got my own business, you’ve got yours—best we don’t get to know each other any further!
+}
+Raiders_137_f {
+Leave me alone, girl. I’ve got my own business, you’ve got yours—best we don’t get to know each other any further!
+}
+Raiders_138_m {
+Get out of here, mate! Damn it, do you really want to hand over your money after all?
+}
+Raiders_138_f {
+Get out of here, lass! Damn it, do you really want to hand over your money?
+}
+Raiders_139 {
+@<LinkRandPhrase>
+}
+Raiders_140 {
+Yes, I’m leaving already.
+}
+Raiders_141_m {
+I remembered you didn’t say goodbye! So go on then... say your farewells!
+}
+Raiders_141_f {
+I remembered that you didn’t say goodbye! So go on then... say your farewells!
+}
+Raiders_142 {
+Leave me alone! Get away! I want to live!
+}
+Raiders_143_m {
+Help! He’s a madman! Don’t kill me!
+}
+Raiders_143_f {
+Help! She’s a maniac! Don’t kill me!
+}
+Raiders_144 {
+Spare me! I'm just a humble bandit! I'm too young to die!
+}
+Raiders_145 {
+@<LinkRandPhrase>
+}
+Raiders_146 {
+Should’ve stayed home — you’d have lived longer!
+}
+Raiders_147 {
+You should’ve thought of that earlier!
+}
+Raiders_148 {
+You knew what you were getting into!
+}
+Raiders_149 {
+@<LinkRandPhrase>
+}
+Raiders_150 {
+Sooner or later, it was bound to happen.
+}
+Raiders_151 {
+Too late for regrets—defend yourselves!
+}
+Raiders_152 {
+@<LinkRandPhrase>
+}

@@ -1,0 +1,612 @@
+ElizaCalvo_1 {
+Vaya tormenta, @<GetAddress_Form>. Has tenido suerte de llegar hasta aquí… Mi nombre es @<GetFullName>, y soy la dueña de esta casa.
+}
+ElizaCalvo_2 {
+Esa fue una tormenta feroz, @<GetAddress_Form>. Tuviste suerte de llegar hasta nosotros... Mi nombre es @<GetFullName>.
+}
+ElizaCalvo_3 {
+@<GetFullName> a su servicio, señora. Dígame, ¿cuánto tiempo duró esa tormenta?
+}
+ElizaCalvo_4_m {
+¡Hola! Si no me equivoco, fuiste el último en salir con vida.
+}
+ElizaCalvo_4_f {
+¡Hola! Si no me equivoco, fuiste el último en salir con vida.
+}
+ElizaCalvo_5 {
+@<GetFullName> a su servicio, señora. Sí, soy yo.
+}
+ElizaCalvo_6 {
+¿Qué quieres en mi casa, @<GetAddress_Form>?
+}
+ElizaCalvo_7 {
+Te escucho, @<GetAddress_Form>.
+}
+ElizaCalvo_8 {
+Sabes, estoy buscando a alguien. ¿Podrías ayudarme?
+}
+ElizaCalvo_9_m {
+Quería hacerte una pregunta.
+}
+ElizaCalvo_9_f {
+Quería hacerte una pregunta.
+}
+ElizaCalvo_10 {
+¿Me contará algo interesante, señora?
+}
+ElizaCalvo_11 {
+¿Qué hay de nuevo en el pueblo?
+}
+ElizaCalvo_12_m {
+Ah, me encantaría escuchar los últimos chismes...
+}
+ElizaCalvo_12_f {
+Ah, me encantaría escuchar los últimos chismes...
+}
+ElizaCalvo_13 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_14 {
+Sabes, estoy buscando algunas mercancías. ¿Podrías ayudarme?
+}
+ElizaCalvo_15 {
+Estoy aquí por las bombas.
+}
+ElizaCalvo_16 {
+¡No tienes idea de lo codicioso y egoísta que es realmente Erik Jost!
+}
+ElizaCalvo_17 {
+Aquí es tan aburrido. Si al menos supiera tocar el laúd... ¿Querías algo?
+}
+ElizaCalvo_18 {
+Sabes, estoy reuniendo una tripulación para salir de aquí. Te ofrezco la oportunidad de venir conmigo al continente.
+}
+ElizaCalvo_19 {
+Nada...
+}
+ElizaCalvo_20 {
+Más o menos una semana. Es difícil decirlo con certeza. Ya sabes, cuando pasan cosas así por todas partes, uno pierde la noción del tiempo.
+}
+ElizaCalvo_21 {
+Sí, lo entiendo.
+}
+ElizaCalvo_22 {
+Por cierto, todos los que llegan a la Ciudad deben presentarse ante el almirante Chad Capper y obtener la ciudadanía. Si aún no lo has hecho, te sugiero que te des prisa.
+}
+ElizaCalvo_23 {
+¿Y dónde está él, ese Chad Capper?
+}
+ElizaCalvo_24_m {
+Sí, ya conozco a su almirante...
+}
+ElizaCalvo_24_f {
+Sí, ya conozco a su almirante...
+}
+ElizaCalvo_25 {
+En la residencia de la ciudad, a bordo del 'San Augustin'.
+}
+ElizaCalvo_26 {
+Gracias.
+}
+ElizaCalvo_27 {
+Y mi nombre es @<GetFullName>. Soy la dueña de este camarote—o de esta casa, si prefieres llamar refugio a este lugar.
+}
+ElizaCalvo_28 {
+Quizás “hogar” sería más apropiado.
+}
+ElizaCalvo_29 {
+Yo también lo creo. Bien, entonces, bienvenido a mi casa.
+}
+ElizaCalvo_30 {
+Gracias.
+}
+ElizaCalvo_31_m {
+¡Eres un ladrón! ¡Eso es una violación de la Ley de la Ciudad!
+}
+ElizaCalvo_31_f {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+ElizaCalvo_32 {
+¡Vaya, mira nada más! Me doy la vuelta un instante y ya estás metido de cabeza en el cofre. ¡Él rompió la ley!
+}
+ElizaCalvo_33_m {
+¡Milicia! ¡Robo! ¡Atrápenlo, ha quebrantado la ley!
+}
+ElizaCalvo_33_f {
+¡Milicia! ¡Robo! ¡Deténganlos, ella rompió la ley!
+}
+ElizaCalvo_34 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_35 {
+¡A-ay, maldición!
+}
+ElizaCalvo_36 {
+¡Ah, así que eso es lo que haces?! ¿Te dio por hurgar en los cofres, eh?! ¡Ahora los habitantes y los guardias te van a destrozar como a un trapo viejo!
+}
+ElizaCalvo_37 {
+¡Qué tonto!
+}
+ElizaCalvo_38_m {
+Oye, mejor guarda tu arma. Me estás poniendo un poco nervioso...
+}
+ElizaCalvo_38_f {
+Escucha, quizá deberías guardar tu arma. Me estás poniendo un poco nervioso...
+}
+ElizaCalvo_39 {
+Sabes, no está bien visto andar blandiendo el sable por aquí. Guarda tu arma.
+}
+ElizaCalvo_40_m {
+Oye, ¿por qué andas corriendo como los Tres Mosqueteros, blandiendo la espada? Guarda tu arma, no le queda bien a un hombre serio...
+}
+ElizaCalvo_40_f {
+Oye, ¿por qué andas corriendo como los tres mosqueteros, blandiendo la espada? Guarda tu arma, eso no le queda bien a una dama...
+}
+ElizaCalvo_41 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_42 {
+De acuerdo.
+}
+ElizaCalvo_43 {
+De acuerdo.
+}
+ElizaCalvo_44 {
+Como usted diga...
+}
+ElizaCalvo_45 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_46_m {
+Escucha, como ciudadano de esta ciudad, te pido que no andes por aquí con la espada desenvainada.
+}
+ElizaCalvo_46_f {
+Mire, como ciudadano de esta ciudad, le pido que no ande por aquí con el arma desenvainada.
+}
+ElizaCalvo_47 {
+De acuerdo.
+}
+ElizaCalvo_48 {
+De acuerdo.
+}
+ElizaCalvo_49 {
+Como desees...
+}
+ElizaCalvo_50 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_51_m {
+Ten cuidado al girar cuando lleves un arma en las manos. Podría ponerme algo nervioso…
+}
+ElizaCalvo_51_f {
+No me gusta que la gente pase frente a mí con las armas preparadas. Me asusta...
+}
+ElizaCalvo_52_m {
+Entendido.
+}
+ElizaCalvo_52_f {
+Entendido.
+}
+ElizaCalvo_53 {
+Lo estoy guardando.
+}
+ElizaCalvo_54 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_55 {
+Con gusto te ayudaré si puedo, por supuesto. Entonces, ¿a quién buscas?
+}
+ElizaCalvo_56 {
+Lo siento, pero no tengo idea de quién hablas. Para poder ayudarte, necesito un nombre y apellido.
+}
+ElizaCalvo_57 {
+Hmm. Déjame intentar nombrarlos de nuevo.
+}
+ElizaCalvo_58_m {
+Gracias, pero prefiero buscar yo mismo.
+}
+ElizaCalvo_58_f {
+Gracias, pero prefiero buscarlo yo mismo.
+}
+ElizaCalvo_59 {
+Hm, disculpa, pero soy a quien buscas. Soy yo.
+}
+ElizaCalvo_60 {
+¡Vaya, mira eso!
+}
+ElizaCalvo_61 {
+@<GetFullName>, ¿te refieres a él?
+}
+ElizaCalvo_62 {
+Ese es.
+}
+ElizaCalvo_63 {
+No, me refería a otra persona.
+}
+ElizaCalvo_64 {
+@<GetFullName>, ¿hablabas de ella?
+}
+ElizaCalvo_65 {
+Exactamente, sobre ella.
+}
+ElizaCalvo_66 {
+No, no es sobre ella. ¿Quizás debería intentar ponerle otro nombre?
+}
+ElizaCalvo_67 {
+Sabes, gracias, pero ya no quiero preguntar por nadie más.
+}
+ElizaCalvo_68 {
+Entonces tendrás que decir tu nombre y apellido otra vez.
+}
+ElizaCalvo_69 {
+No tengo idea de dónde está.
+}
+ElizaCalvo_70 {
+No tengo la menor idea de dónde está ahora.
+}
+ElizaCalvo_71 {
+Hace bastante que no lo veo. Así que no sabría decirte.
+}
+ElizaCalvo_72 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_73 {
+Entendido.
+}
+ElizaCalvo_74 {
+Ya veo... Bueno, gracias.
+}
+ElizaCalvo_75 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_76 {
+No tengo idea de dónde está.
+}
+ElizaCalvo_77 {
+No tengo la menor idea de dónde está ahora.
+}
+ElizaCalvo_78 {
+Hace bastante que no la veo. Así que no sabría decir.
+}
+ElizaCalvo_79 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_80 {
+Entendido.
+}
+ElizaCalvo_81 {
+Ya veo... Bueno, gracias.
+}
+ElizaCalvo_82 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_83 {
+Está aquí, en este barco. Por favor, fíjate mejor.
+}
+ElizaCalvo_84 {
+Hmm, pero ahora mismo está en este barco...
+}
+ElizaCalvo_85 {
+Está en este barco; es curioso que aún no se hayan conocido.
+}
+ElizaCalvo_86 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_87 {
+Lo vi hace poco, @<npchar>.
+}
+ElizaCalvo_88 {
+Sabes, lo conocí hace poco, @<npchar>. Así que búscalo allí.
+}
+ElizaCalvo_89 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ElizaCalvo_90 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_91 {
+Lo siento, pero él está justo aquí, @<npchar>. Debes prestar atención.
+}
+ElizaCalvo_92 {
+Hmm, ¡él está aquí, entre nosotros!
+}
+ElizaCalvo_93 {
+Si hubieras mirado con más atención, ya lo habrías visto...
+}
+ElizaCalvo_94 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_95 {
+Lo vi hace poco, @<npchar>.
+}
+ElizaCalvo_96 {
+Lo conocí hace poco en @<npchar>. Así que podrás encontrarlo allí.
+}
+ElizaCalvo_97 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ElizaCalvo_98 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_99 {
+Ah, ya veo. ¡Gracias!
+}
+ElizaCalvo_100 {
+Muchas gracias.
+}
+ElizaCalvo_101 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_102 {
+Ella está aquí, en este barco. Por favor, fíjate mejor.
+}
+ElizaCalvo_103 {
+Hmm, pero ahora mismo ella está en este barco...
+}
+ElizaCalvo_104 {
+Está en este barco; es curioso que aún no se hayan conocido.
+}
+ElizaCalvo_105 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_106 {
+La vi hace poco, @<npchar>.
+}
+ElizaCalvo_107 {
+Sabes, la conocí hace poco en @<npchar>. Así que búscala allí.
+}
+ElizaCalvo_108 {
+Hasta donde sé, ella está actualmente en @<npchar>.
+}
+ElizaCalvo_109 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_110 {
+Lo siento, pero ella está justo aquí, @<npchar>. Debes prestar atención.
+}
+ElizaCalvo_111 {
+Hmm, ¡ella está aquí, entre nosotros!
+}
+ElizaCalvo_112 {
+Si hubieras prestado más atención, seguro que ya la habrías visto...
+}
+ElizaCalvo_113 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_114 {
+La vi hace poco, @<npchar>.
+}
+ElizaCalvo_115 {
+Me encontré con ella hace poco en @<npchar>. Así que podrás encontrarla allí.
+}
+ElizaCalvo_116 {
+Hasta donde sé, ahora está en @<npchar>.
+}
+ElizaCalvo_117 {
+@<LinkRandPhrase>
+}
+ElizaCalvo_118 {
+Ah, ya veo. ¡Gracias!
+}
+ElizaCalvo_119 {
+Muchas gracias.
+}
+ElizaCalvo_120 {
+@<RandPhraseSimple>
+}
+ElizaCalvo_121 {
+Te escucho atentamente.
+}
+ElizaCalvo_122 {
+Escucha, ¿qué isla es esta?
+}
+ElizaCalvo_123 {
+¿Suelen venir tormentas por aquí?
+}
+ElizaCalvo_124 {
+Dime, ¿llevas mucho tiempo viviendo aquí?
+}
+ElizaCalvo_125 {
+No tengo preguntas para ti, lo siento.
+}
+ElizaCalvo_126 {
+Esta isla se llama la Ciudad de los Barcos Perdidos. Y déjame decirte que el nombre le queda perfecto.
+}
+ElizaCalvo_127 {
+Entendido.
+}
+ElizaCalvo_128 {
+Bastante seguido. Da miedo, por supuesto, pero ya nos hemos acostumbrado...
+}
+ElizaCalvo_129 {
+¡Sí, bueno, no hay a dónde más ir!
+}
+ElizaCalvo_130 {
+Hace bastante tiempo, unos tres años. ¿Por qué lo preguntas?
+}
+ElizaCalvo_131 {
+Oh, nada importante. ¿El difunto Hill Brunner ya estaba aquí cuando llegaste?
+}
+ElizaCalvo_132 {
+Sí, por supuesto que lo era. Era un veterano en la ciudad. Es una lástima que haya muerto...
+}
+ElizaCalvo_133 {
+Sí, una lástima...
+}
+ElizaCalvo_134 {
+Si puedo, por supuesto que ayudaré.
+}
+ElizaCalvo_135 {
+Ya has preguntado eso.
+}
+ElizaCalvo_136 {
+Ya lo pregunté...
+}
+ElizaCalvo_137 {
+Ya me preguntaste por estas mercancías. ¡No sé nada!
+}
+ElizaCalvo_138 {
+Busco balas de cañón, bombas, metralla, balas encadenadas, provisiones, medicinas...
+}
+ElizaCalvo_139_m {
+Sí... Perdón, se me pasó.
+}
+ElizaCalvo_139_f {
+Sí... Perdón, lo olvidé.
+}
+ElizaCalvo_140 {
+Ah, claro.
+}
+ElizaCalvo_141_m {
+Entendido, entendido...
+}
+ElizaCalvo_141_f {
+Entendido, entendido...
+}
+ElizaCalvo_142 {
+Bombas... Creo que tengo algo así... ¡Sí, es cierto! ¿Cuántas necesitas?
+}
+ElizaCalvo_143 {
+Cien serán más que suficientes.
+}
+ElizaCalvo_144 {
+Eso se puede arreglar. Pero tendrás que hacer algo por mí a cambio.
+}
+ElizaCalvo_145 {
+Siempre a su disposición.
+}
+ElizaCalvo_146 {
+Tráeme 10 racimos de uvas, tres botellas de vino y un laúd. Estoy de buen humor: voy a cantar y aprender a tocar.
+}
+ElizaCalvo_147 {
+¿Y hay alguien que te enseñe?
+}
+ElizaCalvo_148_m {
+¿Estás insinuando que eres tú? No te molestes, ese lugar ya está ocupado...
+}
+ElizaCalvo_148_f {
+Sí, no te preocupes.
+}
+ElizaCalvo_149_m {
+Para nada, solo preguntaba. Creo que si comes tantas uvas y bebes tanto vino, difícilmente aprenderás a jugar.
+}
+ElizaCalvo_149_f {
+Sí... Creo que si comes tantas uvas y bebes tanto vino, no vas a aprender a jugar.
+}
+ElizaCalvo_150 {
+Eso no es asunto tuyo. Trae lo que te pedí, y punto.
+}
+ElizaCalvo_151 {
+Está bien, está bien, como digas.
+}
+ElizaCalvo_152 {
+¿Trajiste lo que te pedí?
+}
+ElizaCalvo_153 {
+Sí, tengo todo. Aquí tienes.
+}
+ElizaCalvo_154 {
+Todavía no, no lo encuentro. ¿Quizás ya perdiste el interés en aprender a tocar?
+}
+ElizaCalvo_155 {
+No...
+}
+ElizaCalvo_156 {
+Entendido.
+}
+ElizaCalvo_157 {
+De acuerdo. Puedes llevarte tus bombas.
+}
+ElizaCalvo_158 {
+Gracias. ¿Hay alguna manera de que lo envíen al 'San Gabriel'? Se lo ruego.
+}
+ElizaCalvo_159_m {
+En el 'San Gabriel'... Está bien, guapo. Por tu esfuerzo, lo arreglaré. Le pediré a mi elegido que se encargue de todo.
+}
+ElizaCalvo_159_f {
+En el 'San Gabriel'... Está bien, preciosa. Por tu esfuerzo, me encargaré de eso. Le pediré a mi elegido, se ocupará de todo.
+}
+ElizaCalvo_160 {
+¡Magnífico! Muchas gracias a ti y a tu elegido. Tiene mucha suerte...
+}
+ElizaCalvo_161_m {
+Gracias... ¡Ah, veo que eres un adulador!
+}
+ElizaCalvo_161_f {
+Gracias...
+}
+ElizaCalvo_162_m {
+A veces... Bueno, que te vaya bien.
+}
+ElizaCalvo_162_f {
+Bueno, que te vaya bien.
+}
+ElizaCalvo_163 {
+¡Qué audaz eres! ¿Y quebrantas la ley con tanta facilidad?
+}
+ElizaCalvo_164 {
+No tengo otra opción, estoy salvando mi propia vida. También puedo salvar la tuya.
+}
+ElizaCalvo_165 {
+Hmm, explícalo.
+}
+ElizaCalvo_166 {
+El asunto es que la tormenta que se acerca probablemente destruirá la ciudad. El Mecánico lo calculó.
+}
+ElizaCalvo_167 {
+Ya veo... Bien, acepto subir a tu barco. ¿Qué debo hacer?
+}
+ElizaCalvo_168 {
+Dirígete al 'San Gabriel'. Malcolm Fawn te llevará a mi barco. ¡Y no tardes!
+}
+ElizaCalvo_169 {
+De acuerdo, pronto estaré en el San Gabriel.
+}
+ElizaCalvo_170 {
+Por favor, date prisa...
+}
+ElizaCalvo_171 {
+¿Y qué?
+}
+ElizaCalvo_172 {
+Ya hemos hablado de esto.
+}
+ElizaCalvo_173 {
+Esto ya se ha hablado, te lo digo por segunda vez.
+}
+ElizaCalvo_174 {
+¡Basta, detente!
+}
+ElizaCalvo_175 {
+¡Está pidiendo un precio escandaloso por el mapa de la Ciudad, imagínate! ¡Es un robo!
+}
+ElizaCalvo_176_m {
+Sí... Perdón, se me pasó.
+}
+ElizaCalvo_176_f {
+Sí... Perdón, se me olvidó.
+}
+ElizaCalvo_177 {
+Exactamente...
+}
+ElizaCalvo_178 {
+De acuerdo, entonces...
+}
+ElizaCalvo_179 {
+Ay, por favor... Me da igual. Ve a molestar a otro con tus quejas.
+}
+ElizaCalvo_180 {
+Ajá... Ya veo...
+}
+ElizaCalvo_181 {
+Por fin, @<GetAddress_Form>, has vuelto. Estaba tan cansada de esperar... Estuve revisando mis cosas y encontré unos dibujos de bombas. Tómalos, tú sabes más de esto que yo. ¡Por cierto! Escuché que pronto nos llevarán al barco. ¿Alguien me ayudará con mi equipaje?
+}
+ElizaCalvo_182 {
+Deja todo lo que no puedas cargar. No tenemos espacio ni tiempo para todas tus cosas.
+}
+ElizaCalvo_183 {
+¡Ah, eso es todo! Tome este pergamino, capitán. Estoy listo para que me lleven, pero solo si esas bombas que le di no deciden darme una despedida explosiva de la Ciudad. Quiero decir, me gustan los buenos espectáculos, ¡pero no a costa de mi propia vida! Aunque, pensándolo bien, todavía me queda un poco de vino... Si pasa algo, tal vez simplemente beba y ni siquiera note cuando me prenda fuego.
+}
+ElizaCalvo_184 {
+Eliza, las bombas están en silencio por ahora, ¡pero tú no! Si no subes ahora mismo, las explosiones serán el menor de tus problemas. La tormenta ya está aquí, y pronto la Ciudad será tu propio acuario. ¡Corre con Malcolm antes de que sea demasiado tarde!
+}

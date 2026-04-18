@@ -1,0 +1,637 @@
+MayorQuests_dialog_1_m {
+Dinheiro na mesa, camarada! Meu nome é @<GetFullName>, e não gosto de insolência...
+}
+MayorQuests_dialog_1_f {
+Dinheiro na mesa, moça! Meu nome é @<GetFullName>, e não gosto de insolência...
+}
+MayorQuests_dialog_2_m {
+Mostre o que tem na sua bolsa, amigo, e seja rápido! Meu nome é @<GetFullName>, espero que já tenha ouvido falar de mim...
+}
+MayorQuests_dialog_2_f {
+Mostre o que tem na sua bolsa, moça, e seja rápida! Meu nome é @<GetFullName>, espero que já tenha ouvido falar de mim...
+}
+MayorQuests_dialog_3 {
+Entregue tudo de valor que você tem—estou tomando posse do conteúdo da sua bolsa. E seja rápido, porque eu, @<GetFullName>, não sou do tipo paciente. Mas sou muito, muito sanguinário!
+}
+MayorQuests_dialog_4 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_5 {
+Heh, então você é o famoso @<GetFullName> de quem o governador local @<sTemp> vive falando?
+}
+MayorQuests_dialog_6 {
+Ah, então você é o famoso fora da lei que o governador local @<sTemp> está caçando?!
+}
+MayorQuests_dialog_7_m {
+Que bom ver você, @<GetFullName>. O governador local, @<sTemp>, fala de você o tempo todo...
+}
+MayorQuests_dialog_7_f {
+Que bom ver você, @<GetFullName>. O governador local, @<sTemp>, fala de você o tempo todo...
+}
+MayorQuests_dialog_8 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_9_m {
+Sim, sou bem conhecido por aqui, heh-heh... Espera, você não é mais um dos cães do governador que ele mandou atrás de mim, é?
+}
+MayorQuests_dialog_9_f {
+Sim, sou bem conhecido por aqui, heh-heh... Espera aí, você não é mais um dos capangas do governador que ele mandou atrás de mim, é?
+}
+MayorQuests_dialog_10_m {
+O governador? Ele é um grande amigo meu, não vou negar! Ha, ou será que você é só mais um herói que ele mandou para pegar minha cabeça?
+}
+MayorQuests_dialog_10_f {
+O governador é um grande amigo meu, não adianta esconder. Ha! Ou será que você é mais uma heroína que ele mandou para pegar minha cabeça?
+}
+MayorQuests_dialog_11 {
+A disposição “amigável” do governador em relação a mim é um fato, heh-heh. Mas como você sabe disso? Será que ele te mandou atrás de mim?
+}
+MayorQuests_dialog_12 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_13 {
+Isso mesmo, canalha. Prepare-se para morrer!
+}
+MayorQuests_dialog_14 {
+Ora, que espertinho você é. Mas agora, está na hora de me livrar de você. Chega de conversa...
+}
+MayorQuests_dialog_15 {
+É isso mesmo, sou eu. Saque sua arma, camarada! Vamos ver de que cor é o seu sangue.
+}
+MayorQuests_dialog_16 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_17 {
+Ah não, de jeito nenhum! Eu realmente não preciso desse tipo de problema...
+}
+MayorQuests_dialog_18 {
+Não, eu não aceito esse tipo de trabalho, não sou herói, entende...
+}
+MayorQuests_dialog_19 {
+Não, não, de jeito nenhum! Não quero confusão...
+}
+MayorQuests_dialog_20 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_21_m {
+Assim está melhor, camarada... Agora suma daqui!
+}
+MayorQuests_dialog_21_f {
+Assim está melhor, moça... Agora suma daqui!
+}
+MayorQuests_dialog_22_m {
+E essa é a escolha certa. Se você soubesse quantos heróis já mandei para o outro mundo... Chega de poesia. Cai fora daqui, seu saco de merda!
+}
+MayorQuests_dialog_22_f {
+E essa é a escolha certa. Se você soubesse quantos heróis já mandei para o outro mundo... Chega de poesia. Cai fora daqui, vadia!
+}
+MayorQuests_dialog_23_m {
+Muito bem, meus parabéns! Essa é uma maneira sábia de viver — não se meta onde não é chamado... Certo, pode ir agora.
+}
+MayorQuests_dialog_23_f {
+Muito bem, meus parabéns! Essa é uma maneira sábia de viver — não se meta onde não é chamada... Certo, pode ir, moça.
+}
+MayorQuests_dialog_24 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_25 {
+Adeus, e que você se mantenha com saúde...
+}
+MayorQuests_dialog_26 {
+O que você quer, @<GetAddress_Form>?
+}
+MayorQuests_dialog_27 {
+Preciso saber quem é você. Diga agora mesmo — quem é você e o que está fazendo aqui?
+}
+MayorQuests_dialog_28_m {
+E quem é você para que eu deva responder às suas perguntas?
+}
+MayorQuests_dialog_28_f {
+E quem é você para que eu deva responder às suas perguntas?
+}
+MayorQuests_dialog_29 {
+Estou agindo sob ordens do governador, procurando um espião inimigo!
+}
+MayorQuests_dialog_30 {
+E o que isso tem a ver comigo?
+}
+MayorQuests_dialog_31 {
+Talvez não tenha nada a ver, mas vamos primeiro ao escritório do comandante. Lá a gente resolve isso…
+}
+MayorQuests_dialog_32_m {
+Não, não vou ao gabinete do comandante. Considere o espião encontrado. Agora vamos ver se você consegue sair daqui com vida!
+}
+MayorQuests_dialog_32_f {
+Não, não vou ao gabinete do comandante. Digamos apenas que você foi pego espionando. Agora tente sair daqui com vida!
+}
+MayorQuests_dialog_33 {
+Heh, é, vou dar um jeito de sair daqui...
+}
+MayorQuests_dialog_34_m {
+Ah, é você, @<GetFullName>, seu velho safado
+}
+MayorQuests_dialog_34_f {
+Ah, é você, @<GetFullName>, a moça corajosa.
+}
+MayorQuests_dialog_35_m {
+Bom te ver, velho amigo@<Pchar>
+}
+MayorQuests_dialog_35_f {
+Fico feliz em te ver, linda@<Pchar>
+}
+MayorQuests_dialog_36_m {
+Ora, se não é o próprio capitão @<GetFullName>.
+}
+MayorQuests_dialog_36_f {
+Ora, vejam só se não é a própria capitã, @<GetFullName>
+}
+MayorQuests_dialog_37 {
+Pensei que você já tivesse partido deste mundo há muito tempo!
+}
+MayorQuests_dialog_38_m {
+E, provavelmente, bêbado como sempre.
+}
+MayorQuests_dialog_38_f {
+E, provavelmente, como sempre, bêbado.
+}
+MayorQuests_dialog_39 {
+E vejo que continua com o espírito livre!
+}
+MayorQuests_dialog_40 {
+Vamos, fale logo—o que você quer?
+}
+MayorQuests_dialog_41 {
+O que você quer desta vez?
+}
+MayorQuests_dialog_42 {
+Você está me incomodando à toa de novo?
+}
+MayorQuests_dialog_43 {
+@<LinkRandPhrase>. @<LinkRandPhrase> @<LinkRandPhrase>
+}
+MayorQuests_dialog_44 {
+@<TimeGreeting>, Capitão
+}
+MayorQuests_dialog_45 {
+Olá @<GetAddress_Form>
+}
+MayorQuests_dialog_46 {
+Saudações, Capitão
+}
+MayorQuests_dialog_47_m {
+O que uma pessoa respeitável como você poderia querer de mim?
+}
+MayorQuests_dialog_47_f {
+O que uma jovem ousada como você poderia querer de mim?
+}
+MayorQuests_dialog_48 {
+Por que você veio?
+}
+MayorQuests_dialog_49 {
+O que você quer saber desta vez?
+}
+MayorQuests_dialog_50 {
+@<LinkRandPhrase> @<GetFullName>. @<LinkRandPhrase>
+}
+MayorQuests_dialog_51 {
+Olá, Capitão
+}
+MayorQuests_dialog_52 {
+Saudações, ah, é você @<GetAddress_Form>
+}
+MayorQuests_dialog_53 {
+Ah, capitão
+}
+MayorQuests_dialog_54_m {
+Achei que não fôssemos nos encontrar de novo,
+}
+MayorQuests_dialog_54_f {
+Achei que não fôssemos nos encontrar de novo,
+}
+MayorQuests_dialog_55_m {
+não posso dizer que estou feliz em te ver, mas
+}
+MayorQuests_dialog_55_f {
+não posso dizer que estou feliz em te ver, mas
+}
+MayorQuests_dialog_56 {
+Vejo que você ainda está vivo, infelizmente. E
+}
+MayorQuests_dialog_57 {
+O que você quer?
+}
+MayorQuests_dialog_58 {
+por que você veio?
+}
+MayorQuests_dialog_59_m {
+Como posso ajudar?
+}
+MayorQuests_dialog_59_f {
+Em que posso ajudar?
+}
+MayorQuests_dialog_60 {
+@<LinkRandPhrase> @<GetFullName> @<LinkRandPhrase>@<LinkRandPhrase>
+}
+MayorQuests_dialog_61 {
+@<TimeGreeting>, capitão @<GetFullName>. Como posso ajudar?
+}
+MayorQuests_dialog_62 {
+Ora, se não é o próprio Capitão @<GetFullName>! O que você quer saber desta vez?
+}
+MayorQuests_dialog_63 {
+Olá, @<GetAddress_Form> @<Pchar>. Você precisava de alguma coisa?
+}
+MayorQuests_dialog_64 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_65 {
+Deve ter imaginado, estou indo embora.
+}
+MayorQuests_dialog_66_m {
+Não, nada—só estou indo para a taverna.
+}
+MayorQuests_dialog_66_f {
+Não, não é nada — eu só estava indo para a taverna.
+}
+MayorQuests_dialog_67 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_68 {
+Tudo bem, deixa pra lá. Boa sorte!
+}
+MayorQuests_dialog_69 {
+Só estou dando uma olhada pela cidade. Até logo.
+}
+MayorQuests_dialog_70 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_71 {
+Tenho uma pergunta para você.
+}
+MayorQuests_dialog_72 {
+Preciso de informações.
+}
+MayorQuests_dialog_73 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_74 {
+Espere, pare! Diga quem você é, agora mesmo!
+}
+MayorQuests_dialog_75 {
+, espere um momento!
+}
+MayorQuests_dialog_76 {
+Espere, espere! Precisamos conversar!
+}
+MayorQuests_dialog_77 {
+Estou procurando um espião inimigo por ordem do governador @<XI_ConvertString>!
+}
+MayorQuests_dialog_78 {
+Estou agindo nos interesses da cidade @<XI_ConvertString> sob as ordens do governador. Estou procurando por um agente inimigo na cidade.
+}
+MayorQuests_dialog_79 {
+O governador local @<GetCharacterIndex> está ansioso para encontrar o espião na cidade...
+}
+MayorQuests_dialog_80_m {
+Homem @<LinkRandPhrase> @<LinkRandPhrase>
+}
+MayorQuests_dialog_80_f {
+Mulher @<LinkRandPhrase> @<LinkRandPhrase>
+}
+MayorQuests_dialog_81_m {
+Queria perguntar algumas coisas sobre este assentamento!
+}
+MayorQuests_dialog_81_f {
+Queria perguntar algo sobre este assentamento!
+}
+MayorQuests_dialog_82_m {
+Queria perguntar algumas coisas sobre a cidade.
+}
+MayorQuests_dialog_82_f {
+Queria perguntar algo sobre a cidade.
+}
+MayorQuests_dialog_83_m {
+Ah, sim, estou tão feliz em te ver quanto fico com uma boa bebida. Pergunte o que quiser.
+}
+MayorQuests_dialog_83_f {
+Ah, sim, estou tão feliz em te ver quanto ficaria com uma garrafa de rum—pergunte o que quiser.
+}
+MayorQuests_dialog_84 {
+Gosta de conversar, capitão? Pois eu também... Ainda mais com uma caneca de rum.
+}
+MayorQuests_dialog_85 {
+Sim, @<PChar>?
+}
+MayorQuests_dialog_86 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_87 {
+E então, o que você quer agora?
+}
+MayorQuests_dialog_88_m {
+Entendi, Capitão @<PChar>, está com vontade de conversar?
+}
+MayorQuests_dialog_88_f {
+Entendi, Capitã @<PChar>, está com vontade de conversar, caçadora?
+}
+MayorQuests_dialog_89_m {
+Você está me cansando com tantas perguntas, capitão — não seria melhor uma rodada de rum?
+}
+MayorQuests_dialog_89_f {
+Você está me cansando com tantas perguntas, Capitão. Uma rodada de rum seria melhor.
+}
+MayorQuests_dialog_90 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_91 {
+O que você queria saber @<GetAddress_Form>?
+}
+MayorQuests_dialog_92 {
+Estou ouvindo, Capitão.
+}
+MayorQuests_dialog_93 {
+Preciso ir, então pergunte rápido, Capitão.
+}
+MayorQuests_dialog_94 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_95_m {
+Sempre fico feliz com uma companhia agradável, @<GetAddress_Form> @<PChar>. Fale.
+}
+MayorQuests_dialog_95_f {
+Sempre fico feliz com uma companhia agradável, @<GetAddress_Form> @<PChar>. Fale.
+}
+MayorQuests_dialog_96 {
+Sim, @<GetAddress_Form>?
+}
+MayorQuests_dialog_97 {
+Gosta de conversar, capitão? Pois eu também...
+}
+MayorQuests_dialog_98 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_99 {
+Que histórias estão circulando nesta taverna?
+}
+MayorQuests_dialog_100 {
+O que há de novo por aqui?
+}
+MayorQuests_dialog_101 {
+Como anda a vida em terra ultimamente?
+}
+MayorQuests_dialog_102 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_103 {
+Você pode me mostrar o caminho?
+}
+MayorQuests_dialog_104 {
+Parece que simplesmente não consigo encontrar o caminho para algum lugar...
+}
+MayorQuests_dialog_105 {
+Você poderia me indicar o caminho...
+}
+MayorQuests_dialog_106 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_107 {
+Me fale sobre a sua colônia.
+}
+MayorQuests_dialog_108 {
+Temos um assunto importante!
+}
+MayorQuests_dialog_109 {
+Tenho assuntos a tratar com você.
+}
+MayorQuests_dialog_110 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_111 {
+Deve ter imaginado, estou indo.
+}
+MayorQuests_dialog_112_m {
+Não, não é nada — só estou indo para a taverna.
+}
+MayorQuests_dialog_112_f {
+Não, não é nada — eu só estava indo para a taverna.
+}
+MayorQuests_dialog_113 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_114 {
+Tudo bem, deixa pra lá. Boa sorte!
+}
+MayorQuests_dialog_115 {
+Só estou dando uma olhada pela cidade. Até logo.
+}
+MayorQuests_dialog_116 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_117 {
+Para ser sincero, não sei muito sobre isso. Mas posso te contar uma coisa ou outra.
+}
+MayorQuests_dialog_118 {
+O que traz você à nossa colônia?
+}
+MayorQuests_dialog_119 {
+Você é sempre bem-vindo. Sobre o que gostaria de ouvir?
+}
+MayorQuests_dialog_120 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_121 {
+Que cidade é esta?
+}
+MayorQuests_dialog_122 {
+O que você sabe sobre o forte que protege a cidade?
+}
+MayorQuests_dialog_123 {
+Vamos falar de outra coisa.
+}
+MayorQuests_dialog_124 {
+@<UpperFirst>, nosso assentamento se chama @<XI_ConvertString>.
+}
+MayorQuests_dialog_125 {
+Obrigado.
+}
+MayorQuests_dialog_126 {
+Não sei nada sobre isso.
+}
+MayorQuests_dialog_127 {
+Que pena.
+}
+MayorQuests_dialog_128 {
+Ora, o que isso tem a ver comigo? Eu sou daqui!
+}
+MayorQuests_dialog_129 {
+Quem pode confirmar o que você disse?
+}
+MayorQuests_dialog_130 {
+Todos podem confirmar, todos!!!
+}
+MayorQuests_dialog_131 {
+Todo mundo? Quem exatamente? Cite pelo menos um morador da cidade, @<XI_ConvertString>!
+}
+MayorQuests_dialog_132 {
+Ah... Só um instante... Hm...
+}
+MayorQuests_dialog_133 {
+Muito bem, camarada, é você mesmo que eu estou procurando! Venha comigo, ou eu acabo com você aqui mesmo. Entendeu?!
+}
+MayorQuests_dialog_134 {
+Droga! Fui um idiota por me meter nisso... Tudo bem, vou ficar com você—ainda valorizo minha vida...
+}
+MayorQuests_dialog_135 {
+Muito bem. Estamos indo até o governador — ele queria falar com você…
+}
+MayorQuests_dialog_136_m {
+Dizem que o governador @<sTemp> encarregou um certo capitão @<GetMainCharacterNameGen> de encontrar um espião inimigo na cidade. E sabe o que aconteceu? Ele pegou o sujeito bem no meio da rua!
+}
+MayorQuests_dialog_136_f {
+Dizem que o governador @<sTemp> encarregou a capitã @<GetMainCharacterNameGen> de encontrar um espião inimigo na cidade. E sabe o que mais? Ela o pegou bem no meio da rua!
+}
+MayorQuests_dialog_137_m {
+Nosso governador deu ao capitão @<GetMainCharacterNameGen> a missão de encontrar um agente inimigo na cidade. E esse capitão encontrou o espião entre os moradores!
+}
+MayorQuests_dialog_137_f {
+Nosso governador deu ao capitão @<GetMainCharacterNameGen> a missão de encontrar um agente inimigo na cidade. E essa jovem encontrou o espião entre os moradores!
+}
+MayorQuests_dialog_138 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_139_m {
+Então você decidiu voltar, afinal...
+}
+MayorQuests_dialog_139_f {
+Então você decidiu voltar, afinal...
+}
+MayorQuests_dialog_140_m {
+Ah, esqueci de algo...
+}
+MayorQuests_dialog_140_f {
+Ah, esqueci de algo...
+}
+MayorQuests_dialog_141_m {
+Quem diabos é você?!
+}
+MayorQuests_dialog_141_f {
+Quem diabos é você, caramba?!
+}
+MayorQuests_dialog_142_m {
+Vim buscar sua cabeça, camarada. O governador @<XI_ConvertString> quer vê-la pregada nos portões da cidade.
+}
+MayorQuests_dialog_142_f {
+Vim buscar sua cabeça, camarada. O governador @<XI_ConvertString> quer vê-la pregada nos portões da cidade.
+}
+MayorQuests_dialog_143 {
+Que diabos, subestimei você no começo.\nMuito bem, vamos continuar?..
+}
+MayorQuests_dialog_144 {
+Vamos em frente, camarada!
+}
+MayorQuests_dialog_145 {
+Heh, entendi... Bem, vou fazer o possível para não dar esse gostinho a ele!
+}
+MayorQuests_dialog_146 {
+Faça o seu melhor...
+}
+MayorQuests_dialog_147_m {
+Fico feliz em ver você a bordo do meu navio, camarada. O que te traz aqui?
+}
+MayorQuests_dialog_147_f {
+Fico feliz em ver você a bordo do meu navio, moça. O que te traz aqui?
+}
+MayorQuests_dialog_148 {
+Estou agindo em nome do governador @<XI_ConvertString>, procurando por um pirata que tem rondado estas águas ultimamente.
+}
+MayorQuests_dialog_149 {
+Não posso dizer que esta seja uma tarefa adequada para um capitão...
+}
+MayorQuests_dialog_150 {
+O que isso significa?!
+}
+MayorQuests_dialog_151 {
+Exatamente o que estou te dizendo agora. Caçar corsários livres só para o governador local pendurar nossos corpos pela cidade — esse não é um trabalho digno de um capitão de navio.
+}
+MayorQuests_dialog_152 {
+Então vocês são os piratas famosos...
+}
+MayorQuests_dialog_153_m {
+Isso mesmo, o capanga do governador.
+É, você está numa situação complicada—sozinho, no meu navio...
+}
+MayorQuests_dialog_153_f {
+Isso mesmo, o cão de guarda do governador.\nPois é, você está em apuros—sozinho, no meu navio...
+}
+MayorQuests_dialog_154 {
+Então, o que você pretende fazer agora?
+}
+MayorQuests_dialog_155 {
+Hmm, então... Cheguei perto demais do forte, então não vou arriscar e vou te manter aqui por um tempo. Diga à sua tripulação que você vai navegar comigo para um lugar chamado @<sTemp>, e que eles esperem por você em @<XI_ConvertString>. Faça isso e eu poupo sua vida. Caso contrário, vou abrir sua barriga bem aqui no convés.\nE agora, o que acha das suas chances?
+}
+MayorQuests_dialog_156 {
+Eu não diria que são tentadoras. Como posso saber que você vai cumprir sua palavra quando o forte não puder mais te alcançar?
+}
+MayorQuests_dialog_157_m {
+Acho que vou deixar você ir, cachorrinho do governador. Você vai pagar pela minha generosidade com o seu bolso.\nAgora suma daqui enquanto ainda estou de bom humor...
+}
+MayorQuests_dialog_157_f {
+Acho que vou deixar você ir, cachorrinho do governador. Vai pagar pela minha misericórdia com seu dinheiro.\nAgora suma daqui enquanto ainda estou de bom humor...
+}
+MayorQuests_dialog_158 {
+Obrigado por isso, ao menos. Adeus...
+}
+MayorQuests_dialog_159 {
+Quer saber? Acho que vou cortar sua garganta antes que toda a sua tripulação apareça...
+}
+MayorQuests_dialog_160 {
+E então você vai dizer à sua tripulação que está navegando comigo para um lugar chamado @<sTemp>, enquanto eles esperam por você em @<XI_ConvertString>. Faça isso e eu deixo você viver. Caso contrário, vou abrir sua barriga bem aqui no convés.\nO que acha desse futuro?
+}
+MayorQuests_dialog_161_m {
+Eu não diria que são tentadoras. Como posso saber que você vai cumprir sua palavra quando eu estiver sozinho?
+}
+MayorQuests_dialog_161_f {
+Eu não diria que são tentadoras. Como posso saber que você vai cumprir sua palavra quando eu estiver sozinha?
+}
+MayorQuests_dialog_162 {
+Heh, você não tem como saber com certeza, mas pode contar com a minha palavra. Caso contrário, a morte te espera agora mesmo. Acho que a escolha é óbvia...
+}
+MayorQuests_dialog_163_m {
+Hmm, então está bem, eu concordo. Espero que cumpra sua palavra...
+}
+MayorQuests_dialog_163_f {
+Hmm, então está certo. Espero que cumpra sua palavra...
+}
+MayorQuests_dialog_164 {
+Do jeito que vejo, é exatamente assim. E a escolha é clara—ficar e lutar, aqui e agora. Às armas, seus canalhas!
+}
+MayorQuests_dialog_165 {
+Vou segurá-los, não se preocupe.
+}
+MayorQuests_dialog_166_m {
+Então estou pronto. Vamos começar.
+}
+MayorQuests_dialog_166_f {
+Então estou pronto. Vamos começar.
+}
+MayorQuests_dialog_167 {
+Se eu te vir de novo, vai acabar pendurado no mastro — lembre-se disso...
+}
+MayorQuests_dialog_168 {
+Entendi...
+}
+MayorQuests_dialog_169 {
+Ainda está aqui? Se eu fosse você, não ficaria por perto...
+}
+MayorQuests_dialog_170 {
+Estou indo embora.
+}
+MayorQuests_dialog_171_m {
+Ora, veja só você, alma corajosa! Admiro sua coragem — uma pena que vou ter que matar você.\nEi, no convés! Derrubem esse insolente, mas façam isso com cuidado enquanto preparo o navio para a batalha. E sem alarde!
+}
+MayorQuests_dialog_171_f {
+Ora, mas você é mesmo corajosa! Admiro sua coragem — uma pena que vou ter que te matar.\nEi, no convés! Derrubem esse insolente, mas façam isso com cuidado enquanto preparo o navio para a batalha. E sem alarde!
+}
+MayorQuests_dialog_172 {
+É uma pena que você esteja nos deixando...
+}

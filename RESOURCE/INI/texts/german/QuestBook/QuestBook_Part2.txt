@@ -1,0 +1,1195 @@
+GhostShipQuest {Geisterschiff}
+GhostShipQuest.1 {In der Taverne hörte ich zufällig eine Geschichte über ein Geisterschiff, das seit vielen Jahren durch die Gewässer des Archipels segelt.}
+GhostShipQuest.2 {Gerüchte über das Geisterschiff sind tatsächlich ziemlich weit verbreitet. Der Legende nach hieß dieses Schiff „Flying Dutchman“. Das Schiff und seine Crew stehen unter einem Zauber oder vielmehr unter einem Fluch und finden keine Ruhe, weshalb sie weiterhin friedliche Schiffe und sogar Städte überfallen, ohne jemanden zu verschonen.}
+GhostShipQuest.3 {Man sagt, ER wurde in der Nähe der Insel gesehen. Vielleicht sollte ich mir dieses "Wunder der Natur" selbst anschauen... Zeit, in See zu stechen!}
+GhostShipQuest.3_1 {Heute bin ich auf See der legendären „Flying Dutchman“ begegnet.}
+GhostShipQuest.4 {Während meiner Arbeit bei den Perlenfischern unter den Einheimischen begegnete ich einem Halbblut, den alle White Boy nennen, obwohl er längst kein Junge mehr ist. Sein Vater war Kapitän eines großen Schiffes, seine Mutter die Tochter des Schamanen des Stammes.}
+GhostShipQuest.5
+{
+Der Halbblut hat mir die Geschichte vom Ursprung des Geisterschiffs und das Geheimnis seiner Erlösung erzählt. Ich muss 666 schwarze Perlen sammeln und sie ihm bringen; dann wird er sie seinem Großvater, dem Schamanen, geben, der den Fluch aufheben wird, und die Besatzung der Flying Dutchman wird sterblich werden.
+Die Perlen kann ich nur von den Matrosen des Schiffs bekommen, und zwar in der Stunde, wenn sie an Land gehen.
+}
+GhostShipQuest.6 {Also, ich habe ihm 666 schwarze Perlen geliefert. Jetzt kann ich mich auf die letzte Begegnung mit der Flying Dutchman vorbereiten. Ich glaube, diesmal kann ich endgültig mit ihm abrechnen. Jetzt muss ich ihn nur noch einmal finden.}
+GhostShipQuest.Survive_1
+{
+Seltsam, ich habe das Treffen mit diesem Geist überlebt. Ja, das ist alles sehr merkwürdig, das Schiff hätte eigentlich zerstört werden müssen: Es war kaum noch seetüchtig, aber es hat mich versenkt.
+Ich habe alles verloren!! Ich muss herausfinden, wo ich bin, ein neues Schiff finden, mein zerschlagenes Vermögen wiederherstellen und die Suche fortsetzen...
+}
+GhostShipQuest.Survive_2 {Das entwickelt sich langsam zu einer schönen Tradition – nach jeder Begegnung mit dem Geisterschiff alles zu verlieren. Erstaunlich, dass ich schon wieder überlebt habe. Vielleicht hat das einen Grund?}
+GhostShipQuest.Dead_1 {Hm... Das war ein seltsamer Geist – ist ohne Widerstand untergegangen. Der Kampf war heftig, das Schiff drehte sich wie ein Kreisel, aber ich habe es geschafft. Trotzdem habe ich das Gefühl, dass wir uns wiedersehen werden...}
+GhostShipQuest.Dead_2 {Geschafft! Ich habe es vollbracht! Die Legende vom Geist ist nun wirklich nur noch eine Legende. Sie wurden sterblich und fielen ehrlichem Stahl, wie es Sterblichen gebührt.}
+GhostShipQuest.help_t1
+{
+In der Stadt @<sCity> wurde ich gebeten, bei der Verteidigung gegen einen Angriff von Piraten eines Geisterschiffs zu helfen.
+Im Hafen tobt bereits die Schlacht, ich muss mich beeilen.
+}
+GhostShipQuest.help_t2 {Das war ein heftiger Kampf! Aber jetzt sind meine Taschen voller schwarzer Perlen.}
+GhostShipQuest.dum {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Gen_CityCapture {Chronik der Stadteroberungen}
+Gen_CityCapture.t1 {Die Stadt @<sCity> wurde von meinen Truppen im Namen von @<sNation> eingenommen.}
+Gen_CityCapture.t2 {Ich habe die Stadt @<sCity> geplündert.}
+Gen_CityCapture.t3 {Ich habe die Stadt @<sCity> für mich selbst erobert.}
+Gen_CityCapture.t3_1 {Ich habe Offizier @<sName> zum Gouverneur von @<sCity> ernannt.}
+Gen_CityCapture.t3_2 {Der Gouverneur von @<sCity> @<sName> wurde seines Amtes enthoben.}
+Gen_CityCapture.t4 {Meine Stadt @<sCity> ist unter die Kontrolle von @<sNation> geraten.}
+Gen_CityCapture.t5 {Ein Geschwader von @<sNation> belagert meine Stadt @<sCity>. Ich habe @<sDay> Zeit, die Belagerung aufzuheben.}
+Gen_CityCapture.t5_1 {Ein Landungstrupp von @<sNation> ist in der Nähe meiner Stadt @<sCity> gelandet. Ich habe @<sDay> Zeit, die Belagerung aufzuheben.}
+Gen_CityCapture.t6 {Das Geschwader von @<sNation> ist besiegt, meine Stadt @<sCity> ist frei.}
+Gen_CityCapture.t6_1 {Die Landungstruppe von @<sNation> wurde besiegt, meine Stadt @<sCity> ist frei.}
+Gen_CityCapture.t7 {Mit Hilfe eines Vermittlers habe ich die Stadt @<sCity> von @<sNation> gekauft.}
+Gen_CityCapture.t8 {Ich habe mit dem Generalgouverneur von @<sNation> eine Vereinbarung getroffen, die von mir eroberte Stadt @<sCity> zu übergeben.}
+Gen_CityCapture.dum {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Gen_Contraband {Schmuggelware verkaufen}
+Gen_Contraband.t1 {Sie werden auf der Insel @<sIsland> an einem Ort namens @<sLoc> auf mich warten.}
+Gen_Contraband.t1_1 {Sie werden auf dem Festland an einem Ort namens @<sLoc> auf mich warten.}
+Gen_Contraband.dum {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Gen_ContrabandTravel {Mit Schmugglern segeln}
+Gen_ContrabandTravel.1
+{
+Ich habe erfahren, dass ich den Ort @<sLocTo> in der Nähe von @<sPlaceTo> erreichen kann. Das Schmugglerschiff wird in @<sDays> bei @<sLoc> auf mich warten.
+Bis dahin muss ich irgendwo @<sPrice> auftreiben.
+}
+Gen_ContrabandTravel.2 {Ich habe für die Überfahrt bezahlt, jetzt muss ich nur noch darauf achten, das Schiff nicht zu verpassen.}
+Gen_ContrabandTravel.3 {Ich habe das Treffen verpasst. Jetzt muss ich auf die nächste Überfahrt warten.}
+Gen_ContrabandTravel.4 {Wir sind angekommen. Das ist @<sLocTo>. Ich gehe an Land.}
+Gen_ContrabandTravel.5 {Wir haben unser Ziel erreicht, aber ich wollte meine Chance nicht verpassen. Jetzt gehört das Schmugglerschiff mir, und ich bin wieder auf Kurs.}
+Gen_ContrabandTravel.dum {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Gen_StrangeInfo {Seltsame Gerüchte}
+Gen_StrangeInfo.1 {Ich habe gehört, dass @<sName> sich mit Schmugglern an einem Ort namens @<sLoc> treffen will. Ich glaube, das ist illegal. Vielleicht sollte ich jemanden informieren?}
+Gen_StrangeInfo.dum {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Gen_PGGQuest1 {Angebot des Piraten}
+Gen_PGGQuest1.q1_Tavern {In der Taverne traf ich einen seltsamen Piraten. Er meinte, er hätte ein interessantes Angebot für mich. Sein Schiff "@<sShipName>" liegt in den Küstengewässern vor Anker, und er wartet an Bord auf mich. Vielleicht sollte ich ihm einen Besuch abstatten…}
+Gen_PGGQuest1.q1_Tavern_1 {In der Taverne traf ich einen seltsamen Piraten. Wir kamen ins Gespräch, und ich schlug ihm ein gemeinsames Vorhaben vor. Um nicht belauscht zu werden, schlug er vor, an Bord seines Schiffs "@<sShipName>" zu gehen...}
+Gen_PGGQuest1.q1_Close {Sein Angebot hat mir nicht gefallen, also habe ich abgelehnt.}
+Gen_PGGQuest1.q1_Detail_A {Ein Karawanenzug von @<sNation>, der @<sGoods> transportiert, hat nahe @<sColony> Halt gemacht, um Vorräte aufzunehmen. Wir könnten versuchen, eine ordentliche Ladung zu erbeuten.}
+Gen_PGGQuest1.q1_Detail_B {Ein Karawanenzug von @<sNation>, der @<sGoods> transportierte, geriet nahe @<sColony> in einen Sturm und sank, doch es gelang ihnen, einen Teil der Ladung zu retten und in der Bucht von @<sShore> an Land zu gehen, wo sie nun auf Hilfe warten.}
+Gen_PGGQuest1.q1_RefuseFight {Ich weigerte mich, gegen @<sNation> zu kämpfen, aber @<sPsName> dachte, ich wollte den Auftrag allein durchziehen, und seine Offiziere griffen mich an. Kaum waren wir an Bord, eröffnete sein Schiff das Feuer auf uns.}
+Gen_PGGQuest1.q1_Accept {Das Angebot hat mir gefallen. Wir haben nur @<nDays>, um die Ladung abzufangen.}
+Gen_PGGQuest1.q1_Accept_1 {Mein Angebot hat ihm gefallen. Wir haben nur @<nDays>, um die Ladung abzufangen. Er weiß genau, wie man diesen Ort schnell findet.}
+Gen_PGGQuest1.q1_PGGDeadNoShips {Leider ist @<sPsName> unterwegs gestorben. Wo genau ich nach dem Karawan suchen soll, weiß ich nicht... Schade, aber diese Beute ist mir entgangen.}
+Gen_PGGQuest1.q1_PGGDeadNoShips_1 {Leider ist @<sPsName> unterwegs gestorben. Allein schaffe ich das nicht... Schade, aber diese Beute ist mir entgangen.}
+Gen_PGGQuest1.q1_PGGDeadShips {Leider wurde @<sPsName> im Kampf mit den Karawanenschiffen getötet. Ich werde die ganze Beute für mich behalten müssen.}
+Gen_PGGQuest1.q1_PGGDead {Leider ist @<sPsName> unterwegs gestorben. Ich werde die ganze Beute für mich behalten müssen.}
+Gen_PGGQuest1.q1_Time2Late {Wir kamen zu spät, und die Beute entkam uns.}
+Gen_PGGQuest1.q1_Fail {Unsere Beute war doch nicht so wertvoll, wie wir gedacht hatten.}
+Gen_PGGQuest1.q1_FailPay {@<sPsName> behauptete, dass alles meine Schuld sei und ich ihm eine Strafe schulde. Vielleicht ist da etwas Wahres dran. Um unser Verhältnis nicht zu belasten, habe ich ihm bezahlt.}
+Gen_PGGQuest1.q1_FailNotPay {@<sPsName> behauptete, ich sei an allem schuld>, und ich müsse ihm eine Strafe zahlen. Ich habe ihm gesagt, er soll zur Hölle fahren.}
+Gen_PGGQuest1.q1_OkShare {Wir haben die Beute nach dem Gesetz der Bruderschaft der Küste aufgeteilt. Ich hoffe, das war nicht unser letzter Auftrag.}
+Gen_PGGQuest1.q1_OkNotShare {Ich fand es töricht, die Beute zu teilen – besser, noch ein paar Kehlen durchzuschneiden und alles für mich zu behalten.}
+Gen_PGGQuest1.dum {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Rumour_GoldFleet {Spanische Schatzflotte}
+Rumour_GoldFleet.1 {Man munkelt, dass die Flotte, die jährlich Gold und Silber zur spanischen Schatzkammer bringt, kürzlich den Hafen von Portobelo verlassen und Kurs auf Havanna genommen hat. Der Konvoi könnte sein Ziel noch nicht erreicht haben. Es könnte sich lohnen, ihn abzufangen.}
+Rumour_GoldFleet.2 {Eine spanische Flottille ist aus Portobelo ausgelaufen und transportiert eine unbezahlbare Ladung aus Inka- und Aztekengold und -silber. Die Konvoischiffe steuern auf Havanna zu. Du kannst versuchen, sie abzufangen, bevor der Schatz nach Spanien gebracht wird.}
+Rumour_GoldFleet.3 {Der spanische Goldkonvoi ist mit einer Ladung Gold und Silber von Portobelo nach Havanna aufgebrochen. Die Flotte wird stark bewacht. Sollen wir versuchen, sie abzufangen?}
+Rumour_GoldFleet.4 {Die spanische Schatzflotte, die mit einer Ladung Gold und Silber aus Portobelo auslief, liegt nun auf dem Meeresgrund. Es war ein harter Kampf, aber die Beute war es wert.}
+Rumour_GoldFleet.5 {Dank meines Einsatzes wird der spanische Goldkonvoi, der von Portobelo nach Havanna unterwegs war, sein Ziel nie erreichen. Und seine Ladung befindet sich jetzt in meinem Laderaum.}
+Rumour_GoldFleet.6 {Es ist mir gelungen, die Goldflotte mit ihren gewaltigen Schätzen aus Portobelo zu vernichten und eine reiche Beute zu machen.}
+Rumour_GoldFleet.7 {Man sagt, die spanische Schatzflotte ist wohlbehalten in Kuba angekommen. Nun werden all das gesammelte Gold und Silber unter schwerer Bewachung nach Spanien gebracht.}
+Rumour_GoldFleet.8 {Man sagt, der spanische Schatzkonvoi ist sicher in Kuba angekommen. Nun werden all das gesammelte Gold und Silber unter schwerer Bewachung nach Spanien gebracht.}
+Rumour_GoldFleet.9 {Man sagt, der spanische Goldkonvoi ist sicher in Kuba angekommen. Nun werden das gesamte gesammelte Gold und Silber unter schwerer Bewachung nach Spanien gebracht.}
+Rumour_GoldFleet.10 {Ich habe erfahren, dass in Portobelo eine spanische Schatzflotte ausgerüstet wird. Sie soll Anfang @<smonth> nach Kuba aufbrechen.}
+Rumour_GoldFleet.11 {Man sagt, dass in Portobelo die Vorbereitungen für die Schatzflotte in vollem Gange sind. Der Konvoi wird in der ersten Hälfte von @<smonth> nach Kuba aufbrechen.}
+Rumour_GoldFleet.12 {Der Goldkonvoi soll Anfang @<smonth> von Portobelo nach Kuba aufbrechen. Bis dahin wird das gesamte geförderte Gold in die Laderäume verladen sein.}
+Rumour_GoldFleet.13 {Wir haben den Spaniern ordentlich zugesetzt – mehrere Schiffe werden nie mehr in den Hafen von Havanna zurückkehren. Die Beute hätte größer ausfallen können, aber ich musste mich aus der Schlacht zurückziehen.}
+Rumour_GoldFleet.14 {Während des Angriffs auf die spanische Schatzflotte gelang es mir, mehrere Schiffe von der Staffel zu trennen. Wir nahmen ihnen ihre Ladung ab und zogen uns aus der Schlacht zurück.}
+Rumour_GoldFleet.15 {Es ist mir gelungen, die Kriegsschiffe des Goldkonvois auszutricksen und mehrere Schiffe mit Gold und Silber zu kapern.}
+Rumour_GoldFleet.15_none {///////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+MerchantOnMap {Leichte Beute}
+MerchantOnMap.1 {Ich habe Informationen über das Handelsschiff "@<sShipName>", das unter der Flagge von @<snation> von der Kolonie @<sColony> mit einer Ladung @<sQuestGoodsIdx> nach @<sNextColony> unterwegs ist, möglicherweise mit einer kleinen Eskorte. Ich denke, es lohnt sich, ihm diese Ladung abzunehmen.}
+MerchantOnMap.2 {Kürzlich habe ich von einem Schiff namens "@<sShipName>" aus der Kolonie @<sColony> erfahren, dessen Laderaum voller @<sQuestGoodsIdx> ist. Das Schiff segelt unter der Flagge von @<snation> nach @<sNextColony>. Vielleicht sollte ich einen Blick in seinen Laderaum werfen...}
+MerchantOnMap.3 {Ein Händler auf dem Schiff "@<sShipName>" unter der Flagge von @<snation>, beladen mit @<sQuestGoodsIdx> aus der Kolonie @<sColony>, ist auf dem Weg nach @<sNextColony>. Doch auf See kann alles passieren – vielleicht kommt er nie an.}
+MerchantOnMap.4 {Es ist mir gelungen, das @<snation>-Schiff "@<sShipName>" mit einer Ladung @<sQuestGoodsIdx> zu kapern.}
+MerchantOnMap.5 {Während des Gefechts ist das Schiff '@<sShipName>' gesunken und die gesamte Ladung @<sQuestGoodsIdx> liegt nun auf dem Meeresgrund!}
+MerchantOnMap.6 {Im Laderaum der "@<sShipName>" erwartete mich anstelle von @<sQuestGoodsIdx> ein Trupp gut ausgebildeter Soldaten, die erst kürzlich aus @<snation> angekommen waren. Sieht ganz so aus, als wäre es eine Falle!}
+MerchantOnMap.7_NONE {///////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+HeadHunter {Kopfgeldjäger}
+HeadHunter.HeadHunter_free
+{
+Als ich am Ufer von @<sLoc> ankam, wurde ich bereits von den Söldnern von @<sNation> herzlich empfangen.
+Es gelang mir, sie davon zu überzeugen, dass sie sich geirrt hatten.
+}
+HeadHunter.HeadHunter_battle
+{
+Als ich am Ufer von @<sLoc> ankam, wurde ich bereits von den Söldnern von @<sNation> herzlich empfangen.
+Ich musste ihnen eine Lektion im Fechten erteilen.
+}
+HeadHunter.HeadHunter_Buy
+{
+Als ich am Ufer von @<sLoc> ankam, wurde ich bereits von den Söldnern von @<sNation> herzlich empfangen.
+Mit Geld konnte ich eine Auseinandersetzung vermeiden.
+}
+HeadHunter.HeadHunter_GiveUp
+{
+Als ich am Ufer von @<sLoc> ankam, wurde ich bereits von den Söldnern von @<sNation> herzlich empfangen.
+Ich beschloss, ihren Befehlen zu folgen und ergab mich.
+}
+HeadHunter.HeadHunter_GiveUpFree {Im Gefängnis von @<sCity> konnte ich den Kommandanten überzeugen, mich in Frieden gehen zu lassen. Doch das Kopfgeld auf mich ist eine schwere Last.}
+HeadHunter.HeadHunter_Sea {Auf See bin ich auf @<sNation>-Strafverfolger gestoßen.}
+HeadHunter.HeadHunter_NONE {//////////////////////////////////////////////////////////////////////////////////////////////////////////}
+ShipTuning {Schiffsverbesserung}
+ShipTuning.t1 {@<sText>}
+ShipTuning.End {Das Schiffsupgrade war erfolgreich.}
+ShipTuning.Lose {Ich habe das Schiff gewechselt und damit den Vertrag gebrochen.}
+ShipTuning.dum {/////////////////////////////////////////////////////////}
+DELIVERY_TRADE_QUEST {Warenlieferung für Läden}
+DELIVERY_TRADE_QUEST.1 {Ich habe den Auftrag, eine Lieferung @<sGoodGen> aus dem Laden in @<sBaseColony> (Menge: @<sGoodQty>) zum Laden in @<sTargetColony>@<island> zu bringen. Die Lieferung muss innerhalb von @<sTermsDelivery> erfolgen, die Belohnung beträgt @<sMoney>.}
+DELIVERY_TRADE_QUEST.2 {Die Lieferung der Fracht @<sGoodGen> an das Geschäft in @<sTargetColony> wurde präzise und pünktlich abgeschlossen.}
+DELIVERY_TRADE_QUEST.3 {Der Auftrag zur Warenlieferung ist gescheitert. Es ist mir nicht gelungen, die Fracht @<sGoodGen> rechtzeitig zum Laden in @<sTargetColony> zu bringen. Jetzt muss ich zu meinem Auftraggeber zurückkehren und mich erklären.}
+DELIVERY_TRADE_QUEST.4 {Der Ladenbesitzer in @<sTargetColony> hat mich wirklich übers Ohr gehauen. Er weigerte sich, die für ihn vorbereitete Lieferung @<sGoodGen> anzunehmen, und schlug vor, ich solle sie selbst behalten.}
+DELIVERY_TRADE_QUEST.5
+{
+Ich musste dem Ladenbesitzer in @<sTargetColony> einen Betrag von @<sMoney> zahlen. Das ist eine Handelsstrafe für die verspätete Lieferung der @<sGoodGen>-Fracht.
+Aber jetzt kann ich wieder Lieferaufträge für verschiedene Waren annehmen. Mein Ruf bei den Händlern hat zwar gelitten, ist aber nicht verloren.
+}
+DELIVERY_TRADE_QUEST.6 {Der Ladenbesitzer in @<sTargetColony> hat die Rückgabe der Ladung von @<sGoodGen> in der Menge von @<sGoodQty> akzeptiert. Das ist für mich wirklich eine Lösung aus der Situation.}
+DELIVERY_TRADE_QUEST.7
+{
+Der Ladenbesitzer in @<sTargetColony> verlangt von mir @<sMoney> als Entschädigung für entgangenen Handelsgewinn.
+Solange ich den geforderten Betrag nicht zahle, werde ich keine Frachtauslieferungen übernehmen.
+}
+DELIVERY_TRADE_QUEST.8
+{
+Zum Zeitpunkt der Abrechnung fehlen mir @<sHaveNotQty> @<sGoodGen>.
+Ich muss die Lieferung vervollständigen und vollständig abgeben, sonst bekomme ich keine weiteren Frachtaufträge.
+}
+DELIVERY_TRADE_QUEST.8_NONE {//////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Gen_LoanFindCitizen {Hilfe für die Geldverleiher. Finde den Schuldner}
+Gen_LoanFindCitizen.1
+{
+Eine Schuld muss eingetrieben werden — @<sName>, wohnhaft in @<sCity>, schuldet dem Geldverleiher aus @<sFromCity> @<sMoney>.
+Die Zinsen betragen @<sMyMoney> — das ist mein Lohn für den Auftrag.
+}
+Gen_LoanFindCitizen.2 {Fehlschlag! Der Schuldner hat nicht bezahlt. Ich muss zum Auftraggeber zurückkehren und den Misserfolg melden. Andernfalls könnte er in einem Monat Maßnahmen ergreifen, weil er denkt, ich hätte das Geld behalten.}
+Gen_LoanFindCitizen.3 {Es ist erledigt, ich habe das Geld. Ich muss zu meinem Auftraggeber zurückkehren und die Schuld begleichen. Andernfalls könnte er in einem Monat gegen mich vorgehen.}
+Gen_LoanFindCitizen.4 {Das Geld wurde dem Auftraggeber übergeben.}
+Gen_LoanFindCitizen.5 {Ich meldete mich bei meinem Auftraggeber und sagte, dass es mir nicht gelungen ist, das Geld zu bekommen.}
+Gen_LoanFindCitizen.6 {Ich lehnte den Auftrag ab und verwies auf Schwierigkeiten mit dem Schuldner.}
+Gen_LoanTakeChest {Hilfe für die Geldverleiher. Das Gold liefern}
+Gen_LoanTakeChest.1
+{
+Auftrag des Geldverleihers aus @<sFromCity>.
+Du sollst einen Kredit – @<sQty> in Gold – nach @<sCity> für einen Mann namens @<sName> bringen. Er ist dort ein @<sType>.
+Die Belohnung beträgt @<sMoney>. Das muss innerhalb von @<sDay> erledigt werden.
+}
+Gen_LoanTakeChest.2 {Ich habe es nicht geschafft, das Darlehen rechtzeitig zu überbringen. Jetzt muss ich meinem Auftraggeber Bericht erstatten und mich erklären, sonst wird mir niemand mehr solche Aufgaben anvertrauen.}
+Gen_LoanTakeChest.3 {Der Kredit wurde dem Empfänger zugestellt.}
+Gen_LoanTakeChest.4 {Ich musste die Goldtruhen durch reines Münzgeld aus eigener Tasche ersetzen.}
+Gen_LoanTakeChest.5 {Ich habe die Quest abgelehnt.}
+Gen_LoanTakeChest.5_NONE {//////////////////////////////////////////////////////////////////////////////////////////////////////////}
+convoy_quest {Händlerschutz}
+convoy_quest.1 {Ich habe zugestimmt, den Händler bis @<sDay> nach @<sCity> zu begleiten. Bei Erfolg erhalte ich @<sMoney>.}
+convoy_quest.2 {Der Händler hatte genug davon, mit mir zu segeln und darauf zu warten, dass ich ihn begleite. Er hat mein Geschwader verlassen.}
+convoy_quest.3 {Der Händler ist tot. Die Aufgabe ist vollständig gescheitert.}
+convoy_quest.4 {Quest abgeschlossen.}
+convoy_quest.5 {Der Händler hat mein Geschwader verlassen. Nun, das ist meine Schuld; ich hätte nicht versuchen sollen, ihn anzugreifen.}
+Gen_convoy_passenger {Bringe den Passagier namens @<sName> nach @<sCity>}
+Gen_convoy_passenger.1 {Ich habe mich bereit erklärt, einen Passagier namens @<sName> bis spätestens @<sDay> zur Taverne in @<sCity> zu bringen. Bei Erfolg erhalte ich @<sMoney> als Lohn.}
+Gen_convoy_passenger.2 {Der Passagier hatte es satt, mit mir zu segeln und darauf zu warten, dass ich ihn endlich an sein Ziel bringe. Er hat mich verlassen.}
+Gen_convoy_passenger.3 {Der Passagier ist gestorben und wurde selbstverständlich nicht zum Ziel gebracht. Die Mission ist vollständig gescheitert.}
+Gen_convoy_passenger.4 {Quest abgeschlossen.}
+Gen_convoy_passenger.5 {Ich bin mit dem Auftrag im Verzug. Der Passagier hat mir eine Woche Aufschub gewährt und das Honorar wegen der Verspätung reduziert; jetzt beträgt es @<sMoney>.}
+Gen_convoy_passenger.6 {Ich habe dem Passagier einen bösen Streich gespielt – jetzt ist er mein Sklave.}
+MayorsQuestsList {Gouverneursaufträge}
+MayorsQuestsList.1
+{
+Der Gouverneur von @<ColonyName>, @<MayorName>, hat mir den Auftrag gegeben, eine Bande am Stadtrand ausfindig zu machen und auszuschalten. Angeführt wird die Bande von @<GangName>.
+All dies muss innerhalb von @<sDay> erledigt werden, das festgesetzte Kopfgeld beträgt @<sMoney>.
+}
+MayorsQuestsList.2 {Die Aufgabe des Gouverneurs für @<ColonyName> ist erledigt – @<GangName> ist tot und seine Bande existiert nicht mehr. Ich nehme an, Gouverneur @<MayorName> wird zufrieden sein. Zeit, meine Belohnung einzufordern.}
+MayorsQuestsList.3
+{
+Der Gouverneur von @<ColonyName> @<MayorName> hat mir den Auftrag gegeben, einen feindlichen Spion in der Stadt zu finden.
+Ich muss innerhalb von @<sDay> eine erfolgreiche Suche durchführen, und die Belohnung beträgt @<sMoney>.
+}
+MayorsQuestsList.4 {Die Aufgabe des Gouverneurs in @<ColonyName> ist erledigt. Der feindliche Spion wurde in einem der Häuser der Stadt gefunden und ausgeschaltet. Ich denke, Gouverneur @<MayorName> wird zufrieden sein. Zeit, die Belohnung abzuholen.}
+MayorsQuestsList.5 {Die Mission des Gouverneurs in @<ColonyName> ist abgeschlossen. Ich habe den feindlichen Spion unter den Stadtbewohnern gefunden. Ich denke, Gouverneur @<MayorName> wird zufrieden sein, wenn ich ihm den Spion persönlich bringe.}
+MayorsQuestsList.6
+{
+Der Gouverneur von @<ColonyName>, @<MayorName>, hat mir aufgetragen, mich heimlich nach @<sCity> auf @<sIsland> zu begeben, dort den örtlichen @<sWho> namens @<SpyName> zu finden und von ihm ein Paket mit Dokumenten zu erhalten.
+Dieses Paket muss innerhalb von @<sDay> persönlich dem Gouverneur übergeben werden. Die Belohnung für diesen Auftrag beträgt @<sMoney>.
+Wichtig: Ich darf in @<sCity2> keinen Alarm auslösen, sonst wird der Agent aus Sicherheitsgründen keinen Kontakt aufnehmen.
+}
+MayorsQuestsList.7 {Der Auftrag des Gouverneurs für @<ColonyName> ist erledigt. In @<sCity> habe ich @<sWho> namens @<SpyName> gefunden und das Paket besorgt, das der Gouverneur benötigt. Jetzt darf ich keine Zeit verlieren—@<MayorName> wartet auf diese Dokumente.}
+MayorsQuestsList.8
+{
+Der Gouverneur von @<ColonyName> @<MayorName> hat mir den Auftrag erteilt, die Schmuggler aufzuspüren und auszuschalten, die in der Umgebung der Stadt ihr Unwesen treiben.
+Dieser Auftrag muss innerhalb von @<sDay> erledigt werden. Die Belohnung beträgt @<sMoney>.
+}
+MayorsQuestsList.9 {Die Aufgabe des Gouverneurs für @<ColonyName> ist erledigt. In der Umgebung von @<sCity> ist es mir gelungen, die Schmugglerbande aufzuspüren und auszuschalten. Ich denke, Gouverneur @<MayorName> wird zufrieden sein; ich kann meine Belohnung abholen.}
+MayorsQuestsList.10
+{
+Der Gouverneur von @<ColonyName>, @<MayorName>, hat mir den Auftrag erteilt, ein Piratenschiff aufzuspüren und zu zerstören, das in den umliegenden Gewässern Handelsschiffe überfällt. Die Aufgabe ist nicht einfach; ich muss auf See suchen und alle überprüfen, denen ich begegne.
+Dieser Auftrag muss innerhalb von @<sDay> erledigt werden. Die Belohnung beträgt @<sMoney>.
+}
+MayorsQuestsList.11 {Die Aufgabe des Gouverneurs in @<ColonyName> ist erfüllt: Es ist mir gelungen, die @<ShipType> aufzuspüren und zu vernichten. Ich denke, Gouverneur @<MayorName> wird zufrieden sein – Zeit, meine Belohnung abzuholen.}
+MayorsQuestsList.12 {Wie unangenehm sich doch alles entwickelt hat. Es fing so vielversprechend an, doch endete so ruhmlos in der Bucht von @<Shore>...}
+MayorsQuestsList.20 {Die Gouverneursmission für @<ColonyName> ist wegen Zeitüberschreitung gescheitert; ich glaube nicht, dass @<MayorName> darüber erfreut sein wird.}
+MayorsQuestsList.21 {Die Mission des Gouverneurs in @<ColonyName> ist gescheitert. Ich habe das Ziel gefunden, konnte es aber nicht ausschalten. @<MayorName> wird darüber sicher nicht erfreut sein...}
+MalyavaDeliver {Gefängnisangelegenheiten (Notiz)}
+MalyavaDeliver.1 {Im Gefängnis von @<sCity> hat mich ein Gefangener namens @<sName> gebeten, eine Diebesnotiz an seine Freunde in der Stadt zu überbringen, die sich in einem der Häuser verstecken. Ich habe zugestimmt und die Notiz bei mir. Ich habe zwei Tage Zeit, um die Aufgabe zu erledigen.}
+MalyavaDeliver.2 {Ich habe es nicht geschafft, die Nachricht rechtzeitig zu überbringen. Die Aufgabe ist wegen Fristüberschreitung gescheitert.}
+MalyavaDeliver.3 {Ich habe die Nachricht erfolgreich an die Freunde des Gefangenen namens @<sName> überbracht. Zu meiner Überraschung wollten sie mich statt einer Belohnung sogar ausrauben. So viel zum Vertrauen in Sträflinge. Ich musste sie alle töten.}
+MalyavaDeliver.4 {Der Auftrag ist erledigt, die Diebesnotiz wurde den Empfängern überbracht. Aus reiner Herzensgüte haben mir die Opfer ganze @<iMoney> gegeben. Mein Glück kennt keine Grenzen.}
+MalyavaDeliver.5 {Von den Freunden des Gefangenen habe ich – nicht umsonst – erfahren, dass in den kommenden @<sDay> zwei Handelsschiffe, '@<sShipName1>' und '@<sShipName2>', vor der Küste von @<sShoreName> liegen werden, deren Laderäume voller @<sGoods> sind. Wir sollten versuchen, sie abzufangen.}
+MalyavaDeliver.6 {Ich bin rechtzeitig angekommen! Die Schiffe '@<sShipName1>' und '@<sShipName2>' sind in Sichtweite. Angriff!}
+MalyavaDeliver.7 {Ich war zu spät, und die Handelsschiffe '@<sShipName1>' und '@<sShipName2>' sind schon irgendwohin aufgebrochen. Vielleicht klappt es ja beim nächsten Mal...}
+MalyavaDeliver.8 {Von den Gefährten des Gefangenen habe ich – nicht umsonst – erfahren, dass in den kommenden @<sDay> ein Kurier­schiff @<sText> mit dem Namen '@<sShipName>' nahe der Küste von @<sShoreName> vorbeifahren wird, das eine große Ladung Wertgegenstände transportiert. Ich sollte versuchen, es abzufangen.}
+MalyavaDeliver.9 {Ich bin rechtzeitig angekommen! Das Schiff '@<sShipName>' ist in Sichtweite. Angriff!}
+MalyavaDeliver.10 {Ich war zu spät, und das Kurierschiff '@<sShipName>' ist schon irgendwohin aufgebrochen. Na gut, vielleicht habe ich beim nächsten Mal mehr Glück...}
+MalyavaDeliver.11 {Ich kam pünktlich an, aber die Handelsschiffe '@<sShipName1>' und '@<sShipName2>' waren am angegebenen Ort nicht zu finden. Diese verdammten Halunken haben mich reingelegt – so endet es, wenn man Schurken vertraut...}
+MalyavaDeliver.12 {Ich habe die Nachricht erfolgreich an die Freunde des Gefangenen überbracht. Statt einer Belohnung boten sie mir an, mir gegen eine stolze Summe Informationen zu verkaufen. Ich lehnte ab – ihr Auftreten war alles andere als vertrauenerweckend.}
+MalyavaDeliver.13 {Ich habe den Zettel erfolgreich an die Freunde des Gefangenen überbracht, aber statt einer Belohnung haben sie mich auch noch ausgeraubt. So viel zum Vertrauen in Sträflinge...}
+GivePrisonFree {Gefängnisangelegenheiten (Befreiung)}
+GivePrisonFree.1 {Es ist mir gelungen, einen Gefangenen namens @<sName> aus dem Gefängnis von @<sCity> zu befreien. Ich muss versuchen, ihn lebend zur Grotte auf @<sIsland> zu bringen; bis dahin wird er ständig bei mir bleiben. Wenn es uns gelingt, teilen wir den auf der Insel versteckten Schatz zu gleichen Teilen.}
+GivePrisonFree.2 {Fehlschlag! @<sName> ist tot. Jetzt werde ich wohl kaum noch an seinen Schatz kommen...}
+GivePrisonFree.3_1 {Wir haben den Schatz gefunden, von dem @<sName> gesprochen hat, und ihn gerecht aufgeteilt. So einen Haufen Reichtümer habe ich schon lange nicht mehr gesehen!}
+GivePrisonFree.3_2 {Wir haben den Schatz gefunden, von dem @<sName> gesprochen hat, und ihn gerecht aufgeteilt. Der Wert meines Anteils wird meine Ausgaben für die Expedition kaum decken. Einziger Trost ist, dass wir im Versteck ein altes indianisches Artefakt entdeckt haben, das zusätzlich zu meinem Anteil an mich ging.}
+GivePrisonFree.3_3 {@<sName> hat mich getäuscht und meine Hilfe genutzt, um die Freiheit zu erlangen. Einen Schatz gab es nicht. Statt Reichtümern hatte @<sName> hier seine Kampfausrüstung versteckt, die er mir als Lohn überließ. Nun ja, besser als nichts.}
+GivePrisonFree.3_4 {Es gab keinen Schatz. @<sName> benutzte ein Stück einer Schatzkarte, das eigentlich gar nicht zeigt, wo der Schatz ist, und hat natürlich die falsche Insel gewählt. Ich habe mir diesen Fetzen Papier genommen – jetzt versuche ich, das fehlende Fragment zu finden, und dann gehört der ganze Schatz mir.}
+GivePrisonFree.4 {Sieht so aus, als hätte @<sName> mich einfach hereingelegt. Wir haben keinen Schatz gefunden. Ich sollte vorsichtiger sein, wem ich vertraue.}
+GivePrisonFree.5 {Ich habe zugestimmt, einem Gefangenen im Gefängnis von @<sCity> namens @<sName> zu helfen. Ich sollte mit dem Gefängnisleiter sprechen; vielleicht lässt sich eine Lösung finden.}
+GivePrisonFree.6 {Die zwei Tage, die mir gegeben wurden, sind vergangen, und ich habe es immer noch nicht geschafft, die Befreiung des Gefangenen namens @<sName> zu regeln. Schade, aber er muss im Gefängnis bleiben.}
+GivePrisonFree.7 {Es ist mir nicht gelungen, den Gefangenen namens @<sName> zu befreien. Na gut, ich komme auch ohne seinen Schatz aus.}
+Tutorial_Fra {Hinweis: Was passiert in Frankreich?}
+Tutorial_Fra.1
+{
+Am 10. März 1661 starb Kardinal Mazarin, und der junge König Ludwig XIV. übernahm die uneingeschränkte Macht. In kürzester Zeit brachte Ludwig Ordnung in den Staat; nichts entging seiner Aufmerksamkeit. Er war ein Herrscher, der „alles wissen und können wollte“: Der König stellte seinen Ministern Fragen, um die Staatsgeschäfte besser zu verstehen, dem Präsidenten des Parlaments, um das Regieren zu erlernen, den Richtern, um kein Detail zu übersehen, und den Damen, um in den Künsten der Galanterie nicht zurückzubleiben. Frankreich hatte wahrlich Glück mit seinem Monarchen.
+
+Umso mehr, da dies nicht nur ein König war, sondern der Sonnenkönig, umgeben von einer im Vergleich zu anderen europäischen Monarchen besonders kultivierten Verehrung. Wie der König selbst erklärte: So wie die Sonne ihre Wärme und ihr Licht auf die Erde richtet und allem Leben spendet, so wärmt der Sonnenkönig das Volk Frankreichs mit seinem göttlichen Glanz.
+
+Solche Schmeichelei ist einem freien Korsaren zuwider, doch muss man anerkennen, dass die fast vier Jahre der Reformen Ludwigs XIV. Frankreich insgesamt und insbesondere seiner Wirtschaft sehr zugutegekommen sind.
+
+1664 legte der Generaldirektor der Finanzen, Jean-Baptiste Colbert, der das uneingeschränkte Vertrauen des Königs genoss, Ludwig XIV. sein berühmtes Reformprogramm vor. Colbert konzentrierte sich vor allem darauf, das gewaltige Haushaltsdefizit des Staates zu verringern. Er veröffentlichte sogar die jährliche Haushaltsbilanz Frankreichs in der Presse – etwas, das ihm der Adel nie verzeihen sollte. Colbert, selbst Beamter, wusste nur zu gut: Wenn dem Staat Geld fehlt, dann stehlen es die Beamten.
+
+Unter den vielen Meistern der Jurisprudenz wählte Colbert 23 Intendanten für Polizei, Justiz und Finanzen aus. Intendanten mit militärischen Aufgaben trugen zur Schaffung einer regulären königlichen Armee und Marine bei. Nach und nach wurden Einfluss und Befugnisse der Provinzgouverneure eingeschränkt.
+
+Die Stärke der französischen Marine war ebenfalls gesichert; auch darum kümmerte sich Jean-Baptiste Colbert. In den Werften Frankreichs stand der Stapellauf eines dreideckigen Linienschiffs erster Klasse mit gewaltiger Feuerkraft bevor, das selbstverständlich „Der Sonnenkönig“ heißen sollte.
+
+Insgesamt verhielt sich Frankreich in der Karibik eher zurückhaltend, da es in Europa mit Angelegenheiten ausgelastet war. Für Ludwig XIV. stand hier vor allem die Sicherheit der französischen Siedlungen und Handelswege im Vordergrund, sowie natürlich die militärische Konkurrenz zu Spanien und der Handelswettbewerb mit den Niederlanden. Diese Ziele ließen sich leicht erreichen, ohne einen einzigen Sou zu investieren, sondern sogar mit Gewinn – man musste nur die Bukaniere unterstützen.
+
+Die Insel Tortuga hatte große strategische Bedeutung, besonders für die Spanier. Der Kampf um diese Insel dauerte mehrere Jahrzehnte, wobei Tortuga abwechselnd in französische und spanische Hände fiel. 1654 eroberten die Spanier die Insel erneut, doch schon 1659 nahmen die Brüder der Küste sie unter dem Kommando von Jérémy du Rousset zurück, der die Bewohner auf persönliche Treue einschwören ließ. 1662 übergab er die Verwaltung vorübergehend seinem Neffen Frédéric Deschamps de la Place und reiste nach Europa, um Tortuga zu verkaufen. Nach zwei Jahren in der Bastille für diesen Versuch verkaufte er Tortuga schließlich für den lächerlichen Preis von fünfzehntausend französischen Livres an die French West India Company.
+
+1664 übertrug Ludwig XIV. offiziell West-Hispaniola (ein anderer Name für Tortuga) an die French West India Company und ernannte Bertrand d’Ogeron, einen ehemaligen Bukanier, zum Gouverneur des Gebiets. Die Brüder der Küste hatten sich auch unter früheren Gouverneuren von Tortuga nicht beklagt, doch nun war Tortuga ein Paradies für Bukaniere. Gouverneur d’Ogeron befahl sogar, Frauen aus Europa auf seine Insel zu bringen!!! Ein Paradies für den Bukanier!
+}
+Tutorial_Hol {Hinweis: Was passiert in Holland?}
+Tutorial_Hol.1
+{
+Seit 1556 herrscht die spanische Fremdherrschaft, die für das Land unerträglich drückend ist. Der Grund für den Angriff Spaniens auf die Niederlande war die „Notwendigkeit“, die „Reinheit“ des katholischen Glaubens zu bewahren – was jedoch genau das Gegenteil bewirkte. In einer Zeit geistiger Unterdrückung und politischer Gewalt verbreitete sich in den Niederlanden eine neue religiöse Lehre: der Calvinismus, der sich dem katholischen Glaubenssystem entgegenstellte. Erfasst vom religiösen Protest, entfachte das niederländische Volk einen Bildersturm, bei dem Ikonen, Heiligenstatuen und andere religiöse Gegenstände zerstört wurden. Die von den Spaniern entsandte Strafarmee entfachte den härtesten Terror. Es brach ein landesweiter Krieg aus, der als Achtzigjähriger Unabhängigkeitskrieg (1566–1648) bekannt wurde.
+
+Angeführt wurde der Befreiungskampf von Wilhelm von Oranien. Der Widerstand gegen die spanischen Unterdrücker förderte das nationale Bewusstsein. Gerade in dieser Zeit des allgemeinen revolutionären Kampfes wurden die Niederländer zu einer geeinten Nation mit einer gemeinsamen Sprache.
+
+1581 erklärten die nördlichen Provinzen ihre Unabhängigkeit und wurden zur Republik der Vereinigten Provinzen calvinistischen Glaubens. Es wurde Bürgerkrieg erklärt, und der spanische Monarch Philipp II. erklärte Wilhelm I. von Oranien offiziell zum „Feind des Menschengeschlechts“ und setzte ein Kopfgeld auf ihn aus. Wilhelm wurde von einem Katholiken getötet. Der Krieg ging weiter, doch das hinderte nicht die erfolgreiche Gründung des neuen Staates. 1648 erkannte Philipp VI. die Unabhängigkeit der Republik der Vereinigten Provinzen an, die später zu einem der mächtigsten europäischen Staaten des 17. Jahrhunderts wurde.
+
+1650 starb Wilhelm II. von Oranien, Statthalter von Holland, und im selben Jahr, wenige Monate nach seinem Tod, wurde sein Erbe Wilhelm III. von Oranien geboren.
+
+Johan de Witt war ab 1650 de facto Herrscher der Republik der Vereinigten Provinzen und ab 1653 Großpensionär, Vertreter der niederländischen Kaufmannsoligarchie. Er erreichte die Entmachtung der Oranier und die Abschaffung des Amtes des Statthalters – des Chefs der Exekutive in den Niederlanden.
+
+Bemerkenswert ist, dass Holland nach der Erlangung der Unabhängigkeit der Welt einen beispiellosen wirtschaftlichen Aufschwung zeigte. Heute verfügt die Handelsflotte des Landes über mehr Schiffe als die vereinten Handelsflotten Englands und Frankreichs! Doch die Niederländer können sich kaum auf mehr als ihre Handelsflotte verlassen – sie können keine großen Schiffe bauen, da ihre Häfen zu seicht sind und moderne Kriegsschiffe einen sehr großen Tiefgang haben.
+
+Der Handel ist sowohl die Stärke als auch die Schwäche der Niederländer. Sie sind wohlhabend, aber schutzlos. Die Engländer missgönnen der Handelsmacht der Niederlande zutiefst; es gab bereits mehrere anglo-niederländische Handelskriege, und weitere werden folgen. Und Spanien, das immer noch einige niederländische Gebiete hält, schlägt wie ein verwundetes Tier um sich.
+
+Man kann die Niederländer also nicht beneiden. Sie balancieren auf Messers Schneide, doch das kann nicht lange so weitergehen.
+}
+Tenochtitlan_info {Tenochtitlan und die Azteken}
+Tenochtitlan_info.1
+{
+Es gibt keinen anderen Ort in ganz Amerika, der die präkolumbianischen Indianer so sehr anzog wie das kleine Gebiet an den Ufern der mexikanischen Seen, genauer gesagt, an einem zentralen See – Texcoco. Die Tepaneken, die primitiven Bauern, die Teotihuacanos und die Tolteken – sie alle lebten an den Ufern dieses Sees oder in dessen Nähe.
+
+Schon bevor die Azteken ins Tal von Mexiko und an den See Texcoco kamen, war dieses kleine Gebiet, sozusagen, überbevölkert. Dutzende Städte und Dörfer entstanden direkt an den Ufern des Sees und in seiner unmittelbaren Umgebung: Zumpango, Chalco, Ecatepec, Tecpayocan, Citlaltepec, Cuautitlan, Popotla, Xochimilco, Tlacopan, Coyoacan und viele andere. Von diesen waren drei Städte am Seeufer für die spätere Geschichte der Azteken am bedeutendsten, da sie bei der Ankunft der Azteken im Tal von Mexiko die größten und mächtigsten waren: Azcapotzalco, Culhuacan und Texcoco.
+
+Jede dieser Städte war ein unabhängiger Staat, an dessen Spitze der oberste Häuptling des Stammes stand. Azcapotzalco war, wie wir bereits wissen, das Zentrum des Tepanekenstaates; Texcoco wurde von den Nachkommen Xolotls regiert, die von Herkunft Chichimeken waren; und schließlich betrachteten sich die Bewohner von Culhuacan (und das zu Recht) als Nachfahren der Tolteken, die nach dem Untergang des Toltekenstaates Tula verließen, nach Süden ins Tal von Mexiko zogen und diese Stadt am See gründeten. Sie selbst nannten ihren alten toltekischen Stamm jedoch Acolhua. So sehen wir, dass alle Stämme, die die Stadtstaaten an den Ufern von Texcoco gründeten, erst kurz vor den Azteken hierher kamen, und alle aus dem Norden. Auch die Azteken selbst kamen im 13. Jahrhundert n. Chr. auf demselben Weg hierher.
+
+Die Azteken selbst nannten sich Mexica, in Erinnerung an den legendären alten Stammesführer Mexitli, der sie damals anführte, als sie ihre sagenhafte Urheimat Aztlan verließen (das Wort „Azteke“ leitet sich von diesem Namen ab). Offenbar war dies eine Insel inmitten eines großen Sees. Die Mexica lebten dort bis 1068. In jenem Jahr, so berichtet die Legende, packten sie ihre Habseligkeiten und zogen zusammen mit acht anderen verwandten Stämmen, die in der Nähe lebten, nach Süden. All diese und viele andere mesoamerikanische Stämme sprachen – und sprechen noch heute – Dialekte derselben Sprache: Nahuatl. Deshalb fassen wir all diese Stämme unter dem gemeinsamen Namen Nahua zusammen.
+
+Die zukünftigen Azteken, angeführt von ihrem Häuptling Mexitli, trugen vor sich eine Statue ihres Stammesgottes Huitzilopochtli (offenbar einer der vergöttlichten alten Anführer der Mexica), die angeblich die Gabe der menschlichen Sprache und der Weissagung besaß und den Mexica zeigte, wohin, auf welchem Weg und wann sie gehen sollten. Auf ihrem Weg nach Süden ins zentrale Mexiko machten sie laut aztekischer Überlieferung immer wieder Halt – jedes Mal mindestens für ein Jahr. Sie suchten geeignetes Land, pflügten und besäten es. Wenn die Felder Ernte brachten und die Frauen Zeit hatten, Kinder zu gebären, zogen sie weiter.
+
+Während eines dieser Aufenthalte lebten die Mexica mehrere Jahre an ihrer zweiten, nicht weniger legendären Heimat – Chicomoztoc (Ort der sieben Höhlen). Vielleicht symbolisierten diese sieben Höhlen die sieben Sippen, aus denen der Stamm der Mexica damals bestand. Es ist aber auch möglich, dass Chicomoztoc einfach ein anderer Name für Aztlan ist.
+
+Von den weiteren Stationen der Mexica erwähnen die Chronisten auch einen Ort namens Coatepec (Schlangenberg). Hier feierten die zukünftigen Azteken im Jahr 1143 das Ende eines zweiundfünfzigjährigen Zyklus – das Neue-Feuer-Fest. Drei Jahre später erreichten sie Tula, das zu dieser Zeit bereits unbewohnt war. Und obwohl die Hauptstadt des Toltekenstaates schon seit 86 Jahren tot war, bereicherte der Kontakt mit den Tolteken, die noch in der Umgebung von Tula lebten (die Tolteken waren den Azteken sprachlich eng verwandt, da auch sie Nahuat
+}
+Tenochtitlan_info.2
+{
+Von diesem Zeitpunkt an war der Stamm der Mexica über hundert Jahre lang in zwei unabhängige Stadtstaaten geteilt. Die Mehrheit der Azteken lebte jedoch weiterhin im deutlich größeren Tenochtitlan. Einundfünfzig Jahre nach der Gründung von Tenochtitlan wählten die Azteken ihren ersten wahren Herrscher. Bis dahin wurden sie von einem Stammesoberhaupt geführt. Der erste wirkliche Herrscher der Azteken war Acamapichtli (1376–1395). Seine Wahl brachte den Azteken Glück. Die Mutter dieses Herrschers war die Tochter des mächtigen Herrschers von Culhuacan, sein Vater war ein Azteke. Dieses Familienbündnis sicherte den Azteken Unterstützung von Culhuacan im Kampf gegen Azcapotzalco. Und als nach Acamapichtlis Tod sein vierter Sohn zum Herrscher wurde – der zweite wahre Anführer der Azteken, Huitzilihuitl (Kolibrifeder) – wurde der Tribut, den die Azteken bis dahin an Azcapotzalco gezahlt hatten, durch eine rein symbolische Gabe von ein paar Fischen ersetzt.
+
+Auf Vorschlag des aztekischen Rates heiratete Huitzilihuitl die Tochter des Herrschers von Azcapotzalco, deren Name Ayauhcihuatl war. Das Kind aus dieser Ehe wurde zum wichtigsten „Argument“, das den Herrscher von Azcapotzalco dazu bewog, Tenochtitlan von dem demütigenden Tribut zu befreien.
+
+Inzwischen verschärften sich am Ufer des Sees die Konflikte zwischen den verschiedenen mächtigen Stadtstaaten. Dem tepanekischen Azcapotzalco stand zunächst das chichimekische Texcoco gegenüber. Die Azteken, auf die wir uns nun konzentrieren, waren auch mit Texcoco durch familiäre Bande verbunden. Der Herrscher dieser Stadt, Ixtlilxochitl (nicht zu verwechseln mit seinem späteren Namensvetter, auf dessen Berichte wir uns hier stützen), heiratete eine der Töchter des ersten Mexica-Herrschers Acamapichtli. Aus dieser Ehe ging der bedeutendste nicht-aztekische Herrscher im gesamten Tal von Mexiko hervor, der berühmte Nezahualcoyotl.
+
+Der lange Krieg, den Texcocos Ixtlilxochitl gegen Azcapotzalcos Tezozomoc führte, endete schließlich mit einem Waffenstillstand.
+
+Zu dieser Zeit starb Huitzilihuitl in Tenochtitlan, und die Mexica wählten Chimalpopoca (Rauchendes Schild) zu ihrem Herrscher. Seine Regierungszeit wurde stärker von äußeren Beziehungen als von inneren Veränderungen in Tenochtitlan geprägt. Der Grund war, dass am Ufer erneut ein Krieg zwischen dem kriegerischen, aber inzwischen alten Tezozomoc und Ixtlilxochitl, dem Herrscher von Texcoco, ausgebrochen war. Die Azteken nutzten die Kriegsablenkung Azcapotzalcos und schufen in kurzer Zeit eines ihrer größten Bauwerke – einen Damm, der Tenochtitlan mit dem Ufer verband. Nun konnten sie das Seeufer zu Fuß erreichen. Außerdem erleichterte der Damm die Versorgung der schnell wachsenden aztekischen Hauptstadt mit Trinkwasser erheblich.
+
+So war der Kreis der Isolation durchbrochen. Doch die Vergeltung ließ nicht lange auf sich warten. Als der kriegerische Tezozomoc starb, wurde sein jüngerer Sohn Maxtla (bis dahin Herrscher der tepanekischen Stadt Coyoacan) Herrscher der Tepaneken. Maxtla war ebenso kriegerisch wie sein Vater, zeigte sich aber auch als hinterlistig und grausam. Er schickte seine Männer aus und befahl ihnen, die Herrscher aller Städte, die den Tepaneken im Weg stehen könnten, heimtückisch zu töten. Natürlich war das erste Opfer (im Jahr 1428) der Erbauer des Damms, der Mexica-Anführer Chimalpopoca. Sein Schicksal teilten Nezahualcoyotl – der neue Herrscher von Texcoco –, der Herrscher von Culhuacan und viele andere.
+
+Alle bedrohten Stadtoberhäupter versammelten sich zur Beerdigung von Chimalpopoca, und da Maxtlas hinterhältiger Plan ihnen bereits bekannt war, einigten sie sich heimlich darauf, ihre Kräfte zu vereinen und Azcapotzalco ohne Verzögerung aus mehreren Richtungen anzugreifen. Inzwischen wählten die Azteken, ungeachtet der Ratschläge Azcap
+}
+Tenochtitlan_info.3
+{
+Der aztekische Rat – der Tlatocan – wählte „im Namen des ganzen Volkes“ sechs hohe Vertreter des aztekischen Staates. Unter ihnen spielte die Person, die die Außenpolitik leitete (ursprünglich nur für Tenochtitlan, später für die gesamte Konföderation) und zugleich Oberbefehlshaber des aztekischen Heeres war, die führende Rolle (für ein kriegerisches Volk war dies das Wichtigste überhaupt). Dementsprechend wurde der Herrscher von Tenochtitlan Tlatoani genannt, entsprechend dieser Hauptaufgabe. Diesen Titel trug zum Beispiel Moctezuma II., ebenso wie alle seine zuvor genannten Vorgänger. Das Amt des Tlatoani wurde von Mitgliedern privilegierter aztekischer Familien geerbt. Mit dem Tlatoani hatten es die ersten Spanier zu tun, denn diese Person regelte alle Beziehungen zu Fremden, erklärte den Krieg und schloss Frieden.
+
+Der aztekische Tlatoani bestimmte zu Lebzeiten seinen Nachfolger (meist aus dem engsten Familienkreis). Formal jedoch wurde der Herrscher der Mexica (Azteken) bis zu den letzten Tagen des Staates gewählt. In dieser Hinsicht unterschieden sich die Sitten von Tenochtitlan deutlich von den Traditionen des verbündeten Texcoco, wo laut Gesetz der neue Herrscher der Sohn der ersten Frau war. (Neben der Hauptfrau hatte der Herrscher Hunderte oder sogar Tausende weiterer Frauen. So soll der Herrscher von Texcoco, Nezahualpilli, Sohn von Nezahualcoyotl, mehr als zweitausend Frauen gehabt haben.)
+
+Der nächstwichtige Würdenträger nach dem Tlatoani, diesem „Kaiser“ im europäischen Sinne, war der Cihuacoatl, wörtlich „Frau-Schlange“. Er war der eigentliche „Vizekönig“ der Mexica. Wenn der Tlatoani die Truppen der Konföderation in den Krieg führte, vertrat ihn der Cihuacoatl und war die höchste Autorität in allen inneren Angelegenheiten; außerdem stand er dem obersten Gerichtshof vor, dem dreizehn weitere hoch angesehene Männer angehörten.
+
+Im „Staatsrat“ saßen neben dem Tlatoani und dem Cihuacoatl noch vier weitere hohe Beamte.
+
+Auf der unteren Stufe der sozialen Leiter standen die gewöhnlichen Azteken – die Macehualtin (Gemeine). Jeder Macehualli lebte in einem der zwanzig Calpulli von Tenochtitlan. Die Hauptbeschäftigung der Mexica war die Landwirtschaft. Vom Gemeinschaftsland, dem Calpoalli, wies der Clan jedem Macehualli ein Stück Land zu, dessen Ertrag ihn und seine Familie ernährte.
+
+Die wichtigste von den Mexica angebaute Feldfrucht war Mais. Daraus stellten sie Mehl her und buken Fladenbrote. Der Mais, das Hauptnahrungsmittel der Azteken, hatte eine eigene Schutzgottheit – den Gott Centeotl. Aztekische Bauern bauten außerdem Agave, Bohnen und Chili an, und aus eroberten Regionen erhielten sie Kakao, aus dessen Bohnen sie ein Getränk namens Chocolatl herstellten. (Tatsächlich verdankt die Menschheit den Azteken neben vielen anderen Gaben den Anbau der Kakaobäume, die Zubereitungsmethode und sogar den Namen „Schokolade“.) Auch das Wort „Tomate“ (Tomatl) stammt von den Azteken, denn sie waren die ersten, die Tomaten kultivierten. Die Azteken rauchten und bauten daher auch Tabak an. Die Bauern hielten einige Haustiere zur Fleischgewinnung, vor allem Hunde und Truthähne.
+
+Manche glauben, dass die Weißen die Indianer mit alkoholischen Getränken bekannt machten. Das stimmt so nicht ganz. Aus den Blättern der Agave (die die Azteken Maguey nannten) gewannen sie Saft, der durch Gärung zu einem starken Schnaps namens Octli wurde (heute nennen die Mexikaner ihn Pulque). Die Azteken nutzten die Agave vielseitig: Aus ihren Stacheln fertigten sie Nadeln und Stifte, die Wurzeln dienten als Nahrung, und mit den Blättern deckten sie ihre Häuser. Das wichtigste landwirtschaftliche Werkzeug der Azteken war die Coa – eine Art hölzerne Hacke.
+
+Neben der Feldarbeit war eine weitere Hauptpflicht des Macehualli der Dienst in der Armee der Konföderation. Sie kämpften gern. Und zwar nicht nur, weil die Teilnahme an der Schlacht für die Azteken das spannendste Spiel
+}
+Tenochtitlan_info.4
+{
+Als Tlatelolco wieder mit Tenochtitlan vereint wurde, entstanden auch in dieser Stadt ähnliche Vereinigungen, die Privilegien und Vorteile genossen. Als die ersten Spanier eintrafen, existierten solche Händlergilden bereits in acht Städten des Tals von Mexiko.
+Die Händler mehrten den Reichtum des Aztekenstaates. Doch die Hauptrolle bei der Ausweitung der Macht und des Ruhms von Tenochtitlan und der gesamten Konföderation kam dem Heer der Dreierallianz zu, in dem von Anfang an natürlich die Mexica selbst die führende Stellung innehatten. Tenochtitlan unterhielt ständig kleine Kriegertrupps. Doch ein wirklich furchterregendes Heer wurde nur im Kriegsfall aufgestellt. Dann wurden alle aztekischen Männer, die Waffen tragen konnten, zu Kriegern. Selbst Priester waren verpflichtet, an Feldzügen teilzunehmen. Die Gefährten von Cortés schätzten die Gesamtstärke des aztekischen Heeres auf 150.000 Mann. Keine europäische Macht verfügte damals über eine derart große Armee. Die Mitglieder des aztekischen Calpulli (Clans) bildeten eine militärische Einheit. Das aztekische Heer, das die Hauptstreitmacht der Dreierallianz war, bestand daher aus zwanzig Abteilungen, jede mit eigenem Clanwappen und eigenem Befehlshaber. Das Calpulli sorgte auch für die Versorgung seiner Einheit. Fünf solcher Abteilungen bildeten eine größere Formation, eine Art „Korps“. Es gab vier dieser Formationen – eine für jede Phratrie. Die Befehlshaber dieser militärischen Einheiten wurden Tlacateccatl genannt (wörtlich: „der, der Männer drillt“). Für die meisten von ihnen war der Krieg die einzige Beschäftigung, und sie genossen viele Privilegien. Je nach Rang trugen aztekische Kommandeure eine spezielle Uniform, die mit gelben oder grünen Federn und manchmal mit Gold geschmückt war. Der oberste Herrscher der Azteken (zum Beispiel Moctezuma) trug einen prächtigen, bunten Umhang aus Vogelfedern, verziert mit Jadeanhängern. Auf dem Rücken war dieser Umhang mit dem Bild eines Schmetterlings mit goldenem Körper und Flügeln aus grünen Vogelfedern geschmückt. Der goldene Schmetterling war das Symbol des aztekischen Kriegsgottes Itzpapalotl. Gewöhnliche Krieger trugen einfache Baumwollkleidung.
+Krieger und Kommandeure niedriger Herkunft, die sich im Kampf hervortaten, konnten in privilegierte Ränge aufsteigen. Aztekische „Verdienst-Ritter“, die ihren Mut betonen wollten, nannten sich „Adler“ oder „Jaguare“. Vor der Schlacht legten sie Jaguarpelze an oder schmückten sich mit Adlerfedern. Nach aztekischem Glauben behielten sie ihre Privilegien auch im Jenseits. „Verdienst-Ritter“ konnten sogar zu höchsten Kommandeuren aufsteigen. Doch nur der „wahre“, erbliche Adel konnte die obersten militärischen Ämter erreichen.
+Krieg (in der aztekischen Sprache: yaoyotl) galt den Mexica als eine Form des Dienstes an den Göttern. Die beiden Symbole – Wasser plus Feuer –, mit denen „Krieg“ in den aztekischen Codices bezeichnet wurde und die zusammen den Ausdruck „atl tlachinolli“ bildeten, zeigen bereits, dass der Krieg im aztekischen Denken eine zweite, verborgene mystische Bedeutung hatte.
+Die Durchführung des „heiligen Krieges“ folgte selbstverständlich strengen Regeln. Schon die Kriegserklärung selbst war eine komplexe Zeremonie. Wenn die Dreierallianz beschloss, ein unabhängiges Land oder einen noch nicht unterworfenen Stamm zu unterwerfen, wurden nacheinander drei Delegationen zu den Herrschern dieser Stadt oder dieses Landes entsandt, die jeweils versuchten, sie zum freiwilligen Beitritt zur Konföderation zu bewegen. Zuerst wurde eine Gesandtschaft aus Tenochtitlan, angeführt von einem speziell ernannten Botschafter – dem Cacahnoztli – zum „bestimmten Feind“ geschickt. Der Cacahnoztli wandte sich an den obersten Rat der Stadt mit dem Vorschlag, der Dreierallianz freiwillig beizutreten, versprach Schutz und forderte, dass ihren Händlern Zugang zum Gebiet gewährt werde, dass ein Bild des Gottes Huitzilopochtli im Haupttempel aufgestellt werde und dass sie ohne Widerstand die
+}
+Tenochtitlan_info.5
+{
+In der wissenschaftlichen Literatur liest man bisweilen vom „riesigen Reich“ der Azteken. Tatsächlich spielten die Kolonien jedoch keine Rolle in den Staatsangelegenheiten der Azteken. Das Gebiet des aztekischen Staates beschränkte sich im Grunde auf die Stadt Tenochtitlan und deren unmittelbare Umgebung. Alles außerhalb dieser Grenzen betrachteten die Azteken nicht als ihr eigenes Territorium oder ihren Staat; es waren lediglich Länder, die sich ihnen unterworfen hatten. Daher ist es zutreffender, nicht vom großen „Reich“ der Azteken zu sprechen, sondern von dem weiten Gebiet, über das sie Herrschaft ausübten.
+
+Auf diesem Gebiet existierten 38 Stämme und Staaten, die in ihren inneren Angelegenheiten teilweise autonom waren (von relativ groß bis sehr klein) und die man mit Recht als Protektorate bezeichnen kann. Mit Zustimmung der Konföderation herrschten in diesen Protektoraten die lokalen Häuptlinge. In den Hauptstädten der Protektorate gab es selbstverständlich aztekische Statthalter – Petacalcátl –, deren Aufgabe es war, sicherzustellen, dass die lokalen Herrscher und Stammesführer eine Politik im Sinne Tenochtitlans verfolgten und vor allem, dass die Protektorate regelmäßig und pünktlich (alle 20 oder 80 Tage oder alle sechs Monate) den vorgeschriebenen Tribut an die Lagerhäuser und Kornspeicher von Tenochtitlan, Texcoco und Tlacopan sandten.
+
+Zur Eintreibung des Tributs schuf die Konföderation einen umfangreichen Apparat der sogenannten Calpixque – Steuereintreiber, die das gesamte aztekisch abhängige Gebiet bereisten. In der Hauptstadt jedes Protektorats gab es eine Art Provinzsteueramt, in dem neben den Steuereintreibern Dutzende von Schreibern beschäftigt waren, die alle Steuerpflichten und deren Erfüllung sorgfältig dokumentierten.
+
+Die Gesamtmenge des von allen 38 Protektoraten der Konföderation eingezogenen Tributs war enorm. Im zweiten Teil des sogenannten Codex Mendoza findet sich eine Liste der Steuerpflichten der aztekischen Kolonien für ein halbes Jahr (in den spanischen Maßeinheiten jener Zeit). Unter anderem mussten die Kolonien an die ausbeutende Stadt liefern:
+
+Mais – 140.000 Fanegas (1 Fanega entspricht 55,5 Litern)
+Bohnen – 105.000 Fanegas
+Ölsaat (Salvia chia) – 105.000 Fanegas
+Kakaobohnen – 1.260 Säcke
+Salz – 6.000 Köpfe
+Roter Pfeffer – 1.600 Säcke
+Agaven-Wodka – 2.400 Krüge
+Honig – 1.700 Krüge
+mexikanische „Zigarren“ – 36.000 Bündel
+Bauholz – 5.400 Ladungen
+Stämme – 5.400 Stück
+Bretter – 10.800 Stück
+Bambusstangen – 18.000 Bündel
+bemalte Kürbisse (Gefäße) – 27.600 Stück
+Schlafmatten – 12.000 Stück
+Kalk – 19.200 Ladungen
+Baumwolle – 4.800 Ballen
+Vogelfedern für Schmuck – 32.880 Bündel
+Kleidung für Krieger – 600 Garnituren
+Kleidung für hohe Offiziere, verziert mit den kostbarsten Federn – 65 Garnituren
+Agavenpapier – 48.000 Packungen
+Copalharz für religiöse Rituale – 3.600
+Körbe mit Bällen für rituelle Spiele – 16.000 Stück
+besonders feine Federn für religiöse Rituale – 20 Säcke.
+
+Der „Gehorsam“ der Bewohner dieser 38 Protektorate wurde durch Garnisonen der Armeen der Dreierallianz gesichert, die an strategischen Punkten stationiert waren.
+
+So kannte die Bevölkerung der Provinzen des aztekischen „Reiches“ nur drei Vertreter der Konföderation: den Statthalter, die Besatzungsarmee und die besonders verhassten Calpixque. Selbst Bernal Díaz, der erste Chronist der Expedition von Cortés, erinnert sich daran, wie hochmütig und arrogant die aztekischen Steuereintreiber mit der Bevölkerung der eroberten Länder umgingen (Díaz sah die aztekischen Steuereintreiber erstmals an der Küste Mexikos – im Land der Totonaken, in der Stadt Kiahuistlan). Und wehe denen, die nichts zu zahlen hatten
+}
+Tenochtitlan_info.6
+{
+Die militärischen Feldzüge der Azteken, deren Ziel nun nicht mehr so sehr die Eroberung neuer Gebiete, sondern vor allem die Bestrafung der Ungehorsamen und die Befriedung von Aufständischen war, setzten sich auch während der Herrschaft der letzten aztekischen Herrscher fort – Tizoc, Bruder von Axayacatl, der nur drei Jahre regierte (1483–1486), ein weiterer Bruder von Axayacatl, Ahuitzotl (1486–1502), und schließlich der berühmte aztekische Herrscher Moctezuma der Zweite, genannt Xocoyotzin (der Jüngere).
+
+Detaillierte Informationen über diese letzte Periode der aztekischen Geschichte finden sich in den Werken der ersten Chronisten. Besonders bemerkenswert ist die Tatsache, dass kurz vor der Ankunft der Spanier erstmals scharfe Gegensätze innerhalb der Konföderation auftraten. Eine der drei Städte der Konföderation, Tlacopan, hatte bereits völlig an Bedeutung verloren, und die Autorität ihres Herrschers, Totocihuatzin, war im Wesentlichen nur noch formell. Die Angelegenheiten der gesamten Konföderation wurden von den Azteken aus Tenochtitlan geführt. Solange Nezahualpilli in der dritten Stadt des Dreibundes – Texcoco – regierte, war alles in Ordnung. Doch zu Lebzeiten bestimmte Nezahualpilli keinen seiner zahlreichen Söhne zu seinem Nachfolger (wie es zuvor in Texcoco üblich war). So kam es, dass nach seinem Tod im Jahr 1515 mehrere Thronanwärter in Texcoco auftraten. Viele der vornehmsten Vertreter des Stadtstaates wollten, dass „Prinz“ Ixtlilxochitl, ein Verwandter und Namensvetter des Autors zweier bekannter Bücher über die Geschichte des indianischen Mexiko, über sie herrschte. Doch der Thron in Texcoco wurde von einem anderen Sohn Nezahualpillis eingenommen – Cacama, der den Azteken treu ergeben war und zudem Neffe von Moctezuma dem Zweiten war, der zu dieser Zeit in Tenochtitlan regierte.
+
+Es schien, als sei alles wieder in geordneten Bahnen. Doch Ixtlilxochitl und seine Anhänger warteten nur auf eine günstige Gelegenheit, um Cacama – die Marionette der Azteken – zu vertreiben. Vorerst blieb die alte Ordnung bestehen: Die Azteken herrschten nicht nur über die Konföderation, sondern setzten auch ihren Willen gegenüber Dutzenden abhängiger Stämme in ganz Mexiko durch. Doch jede Gesellschaft, deren Macht auf Zwang beruht, wird schließlich schwächer. Als die Spanier ihre Schwerter mit den Obsidian-Klingen der Azteken kreuzten, konnten sich die Mexica nicht mehr auf die Hilfe der ihnen unterworfenen Stämme verlassen. Dies beeinflusste den Verlauf und das Endergebnis des verhängnisvollen Kampfes.
+
+Inter arma silent musae! Wenn die Kanonen donnern, schweigen die Musen. So sagten die alten Römer, mit denen wir die Azteken in vielerlei Hinsicht vergleichen können. Und doch dürfen wir sagen, dass bei den Mexica nicht nur Schwerter klangen, sondern auch Lieder, und dass die Musen einen ehrenvollen Platz in der aztekischen Gesellschaft einnahmen. Wir wissen bereits, dass die einst halbwilden Tenochca in ihrer neuen Heimat rasch das kulturelle Erbe der legendären Tolteken aufnahmen und während ihrer Eroberungszeit die Zivilisation vieler anderer bedeutender präkolumbischer Völker Mexikos, insbesondere der Mixteken, assimilierten. Die Musen begleiteten jeden Azteken schon von der Jugend an. In Tenochtitlan gab es eine Art staatliche Schulen, und zwar zwei Arten. In der ersten Art von Schule, im Aztekischen telpochcalli genannt, wurden die Söhne gewöhnlicher Mitglieder der Gesellschaft unterrichtet. Hier lernten die Kinder Geschichte (das Hauptfach), landwirtschaftliche Arbeit und Handwerk, und – ganz natürlich für ein so kriegerisches Volk – wurde der „militärischen Ausbildung“ große Aufmerksamkeit geschenkt. In der zweiten Art von Schule (calmecac genannt) wurden Jungen aus privilegierten Familien unterrichtet, insbesondere jene, die für das Priesteramt oder als militärische Führer und Würdenträger des Clans oder Stammes bestimmt waren. Hier waren die Hauptfächer die aztekische Religion, die Organisation und Geschichte des aztekischen Staates, Schreiben, Lesen,
+}
+Tenochtitlan_info.7
+{
+Das aztekische Kalendersystem gipfelte in den sogenannten Zyklen, von denen jeder viermal dreizehn Jahre, also 52 Jahre, dauerte. Am Ende eines solchen Zyklus erwarteten die Azteken, wie wir aus der mexikanischen Mythologie wissen, stets eine große, zerstörerische Naturkatastrophe. Auf dieses „Weltende“ bereiteten sich die Azteken während der letzten fünf „unglücklichen“ Tage des zweiundfünfzigsten Jahres des Zyklus vor. In diesen Tagen wurden Kinder und schwangere Frauen im Haus eingeschlossen. Alle Feuer wurden gelöscht. Am wichtigsten aber war, dass sämtliches Haushaltsgeschirr ohne Ausnahme zerbrochen werden musste.
+
+In Erwartung des Endes des „alten Zyklus“ (das letzte Mal wurde dies 1507 gefeiert) versammelten sich die Bewohner von Tenochtitlan auf einem Hügel, der als Sternenberg bekannt wurde. Das Ende des Zyklus trat ein, wenn der Stern Aldebaran (nach einer anderen Version ein Stern aus dem Sternbild der Plejaden) seinen Zenit erreichte. Dann entzündete der Herrscher feierlich ein neues Feuer, und im ganzen Land, in ganz Mexiko, wurde ein großes Fest zu Ehren des Neuen Feuers gefeiert – ein Fest, das das glückliche Ende des alten Kalenderzyklus und den Beginn eines neuen markierte. Überall wurden wieder Feuer entfacht, schwangere Frauen und Kinder durften ihre Häuser verlassen, und die Handwerker begannen, neues Geschirr herzustellen.
+
+Kommen wir nun kurz auf die aztekische Literatur zu sprechen sowie auf die Frage, wie und worauf die Mexica schrieben. Sie schrieben entweder auf vorbereitetem Hirschleder oder auf aztekischem Papier, das aus Maguey (Agave) hergestellt wurde. Die Blätter der aus solchem Papier gefertigten Codices wurden zusammengeklebt; auf diese Weise schufen die mexikanischen Schreiber, die zu Recht als Künstler galten, etwas Ähnliches wie unsere Leporellobücher. Die aztekische Schrift war eine Bilderschrift, das heißt, sie bestand aus einzelnen Zeichensymbolen, wobei die Kombination mehrerer solcher Zeichen ein Wort oder einen Begriff mit einer ganz anderen Bedeutung als die einzelnen Zeichen für sich genommen bezeichnen konnte. Die Azteken übernahmen die Bilderschrift von den Mixteken. Von ihnen übernahmen sie auch die Zahlen. Die Eins wurde als Finger dargestellt, aber manchmal wurden alle Zahlen von eins bis zwanzig einfach durch Punkte oder Striche angegeben. Zwanzig wurde durch eine Fahne dargestellt. Die letzte Zahl der zweiten Ordnung (202) wurde als brennender Baum dargestellt (was bedeutete „so viele wie Haare auf einem Kopf“). Schließlich zeichneten die Azteken zur Darstellung von 203, also 8.000, einen Sack (was bedeutete „so unzählig wie die Kakaobohnen in einem Sack“).
+
+Die Azteken schufen eine erstaunlich reiche, außerordentlich reife Literatur. Ihr bester Kenner, der mexikanische Amerikanist Angel Maria Garibay, nennt eine ganze Reihe von Literaturgattungen, die den Mexica bekannt waren: lehrhafte Abhandlungen, dramatische Werke, Prosa. Doch all diese literarischen Gattungen spielten bei den Azteken nur eine untergeordnete Rolle. Unter Literatur verstanden die Azteken, wie auch andere Nahuatl sprechende und schreibende Völker des vorkolumbianischen Mexiko, vor allem Dichtung. Schlägt man im Nahuatl-Wörterbuch nach, sieht man, dass das Wort „cuicani“ zwei Bedeutungen hat – Dichter und Sänger. Daraus lässt sich schließen, dass die aztekische Dichtung in erster Linie für öffentliche Aufführungen bestimmt war. Die Werke der Dichter-Sänger, die in der aztekischen Gesellschaft besonders großen Anklang fanden, wurden durch mündliche Überlieferung von Generation zu Generation weitergegeben. In solchen Gedichtliedern stellten sich die cuicani oft selbst dar...
+
+Sieh, ich bin es, der Sänger, der Verse dichtet, glänzend wie kostbare Jade, schimmernd wie die Wellen des Meeres, ich gebiete meiner Stimme, ich lenke die Harmonie der singenden Flöten und das Läuten der Glocken, das Läuten goldener Glocken. Ich singe mein duftendes Lied, wie bunte Ornamente, ein Lied, das mit Edelsteinen funkelt, mit Jade schimmert, ich singe meinen Hymnus auf den blühenden Frühling.
+
+Hier sei daran erinnert, dass die außergewöhnliche Entwicklung der künstlerischen Literatur im alten Mexiko in erster Linie durch die gemeinsame Sprache der Mexica-Stämme –
+}
+Tenochtitlan_info.8
+{
+Die Architektur nahm unter den Künsten der Azteken eine einzigartige, aber äußerst wichtige Stellung ein. Nur wenige der monumentalen Werke aztekischer Baumeister sind erhalten geblieben: die Fundamente von Tempeln in Mexiko-Stadt, die Stadtmauern von Huexotla, der runde Tempel in Calixtlahuaca und schließlich der kürzlich entdeckte Tempel in Malinalco. Dieser gesamte Tempel, der die Form einer traditionellen aztekischen Pyramide hatte, wurde direkt in den Felsen gehauen. Sein Bau erforderte zweifellos enorme körperliche Anstrengung von den Arbeitern, die nur Steinwerkzeuge verwendeten.
+
+Ein herausragendes Werk aztekischer Architekten und Stadtplaner war die prächtige Reichshauptstadt Tenochtitlan, die damals größte Stadt Amerikas und vermutlich auch die größte der damaligen Welt. Am 8. November 1519, als Cortés mit seinen Soldaten erstmals diese wunderschöne Stadt betrat, lebten in Tenochtitlan etwa 650.000 Menschen.
+
+Als Cortés Tenochtitlan betrat, war er von dem fantastischen Anblick überwältigt. Offenbar versuchten die Konquistadoren später aus diesem Grund, keine Spur von Tenochtitlan zu hinterlassen, damit ihr Sieg überzeugender erschien. Zum Glück beschrieb einer von Cortés’ Soldaten, Bernal Díaz, alles, was er sah. Dank seines Berichts, dessen Genauigkeit durch bedeutende archäologische Ausgrabungen bestätigt wurde, wissen wir heute, wie diese größte Stadt ihrer Zeit aussah.
+
+Tenochtitlan erhob sich mitten in einem Salzsee. Die Stadt lag auf miteinander verbundenen Inseln, und einige ihrer Gebäude standen auf Pfählen. Drei Dämme verbanden die Stadt mit dem Festland, entsprechend der Zahl der Stadttore. Einer führte nach Tepeyac, ein anderer nach Tlacopan und der dritte in die schöne Küstenstadt Chapultepec. Tenochtitlan wurde nicht nur von Straßen, sondern auch von Kanälen durchzogen, was einige Historiker dazu veranlasste, Tenochtitlan mit Venedig zu vergleichen. Der Stolz der Stadt, Ausdruck der Macht der Azteken und ihrer Herrscher, war der Palast eines Vorgängers von Montezuma II., Axayacatl, und noch mehr der Palast von Montezuma II. selbst. Aus den Berichten der Mitglieder der spanischen Expedition, denen Montezuma Unterkunft im Palast von Axayacatl anbot, wissen wir, wie dieser Palast aussah. Er bestand aus mehreren Dutzend einstöckigen Steingebäuden, sodass alle siebentausend Mitglieder von Cortés’ Expedition dort bequem untergebracht werden konnten. Montezumas Palast war noch prächtiger. Seine Hauptattraktion war eine Art zoologischer Garten, in dem viele Tausend Vögel mit farbenprächtigem Gefieder und zahlreiche Tiere gehalten wurden. Allein für Montezumas Vögel sorgten dreihundert Diener; Schlangen, die besonderen Gegenstand aztekischer Verehrung waren, wurden in Holzkäfigen gehalten, die mit den leuchtenden Federn seltener Vögel ausgekleidet waren. Neben exotischen Vögeln und Tieren wurden im Palast Montezumas auch exotische Menschen „gesammelt“: Zwerge und allerlei Kuriositäten. Der Status von Montezumas Untertanen wird durch diese Tatsache illustriert: Viele Eltern deformierten ihre Kinder absichtlich, um ihnen ein lebenslanges Auskommen in diesem traurigen „anthropologischen“ Museum zu sichern.
+
+Montezuma lebte wahrhaftig wie ein Gott der aztekischen Legenden. Selbst der feudale Glanz des königlichen Hofes in Madrid verblasste in den Augen der Spanier angesichts des Reichtums und der Pracht von Montezumas Palast. Am Tag nach ihrer Ankunft in Tenochtitlan wurden Cortés und seine Gefährten von Montezuma zu einem Festmahl eingeladen, und so wissen wir, wie Montezuma speiste. Die Speisen wurden von eigens bestimmten Mitgliedern des aztekischen Adels serviert. Die schönsten Mädchen, ausgewählt aus allen Stämmen seines Reiches, bedienten Montezuma. Montezuma aß viel Fleisch – Wild, Truthähne, junge Hunde. Täglich wurde ihm frischer Fisch aus dem Golf von Mexiko gebracht. Er trank Chocolatl (Schokolade) aus einem goldenen Becher. Auch die Tabakpfeife, die er nach dem Essen rauchte, war mit Gold verziert. Unterhalten wurde er von Narren und Künstlern. Abends wurde sein Palast von Fackeln
+}
+Tenochtitlan_info.9
+{
+Neben diesen drei Hauptgöttern verehrten die Azteken auch zahlreiche Götter und Göttinnen der Ernte, der Fruchtbarkeit, des Regens, Schutzpatrone einzelner Pflanzen und so weiter. Unter ihnen stand vor allem der Gott Tlaloc – oder vielmehr die Vielzahl der Tlalocs. Tlaloc, der Gott des Regens, wurde in der gesamten Meseta schon lange vor der Ankunft der Mexica verehrt, und jede Gemeinschaft hatte zudem ihren eigenen „örtlichen“ Tlaloc. Die Gemahlin des Haupt-Tlaloc war die Göttin der Flüsse und Seen, Chalchiuhtlicue. Sie wurde als junge, anmutige Frau dargestellt. Tlalocs Schwester war die Göttin der Ernte, Chicomecoatl (Sieben Schlangen). Die Göttin der Blumen war Xochiquetzal, die auch als Schutzpatronin der Handwerker galt. Die Göttin der Agave war Mayahuel, und ihre vierhundert göttlichen Söhne waren die Schutzpatrone des Alkohols – Octli. Ein weiterer Gott des Alkohols war Tepoztecatl, der zugleich der höchste Stammesgott in Tepoztlan war. Die Gottheit, die ursprünglich als Schutzpatron der Landwirtschaft galt, war wahrscheinlich auch der aztekische Gott der Menschenopfer, Xipe Totec.
+
+Auch die religiösen Rituale der Azteken sind recht interessant. Der wichtigste Bestandteil des aztekischen Rituals war das Opfer, und das höchste Opfer galt als menschliches Blut, denn nach dem Glauben der Mexica war es die „Speise der Götter“. In aztekischen Codices wurde das Zeichen für „Blut“ manchmal durch das Zeichen für „Edelstein“ oder „Blume“ ersetzt. Die Azteken betrachteten es als ihre heiligste Pflicht, den Göttern diese Speise – das heilige Blut mit besonderer magischer Kraft – zu bringen. Es konnte den Göttern tropfenweise dargebracht werden, aber ein ritueller Mord galt als ungleich wirksameres Opfer. Das vorgesehene Opfer wurde auf einen runden Opferstein gelegt, woraufhin der Zeremonienmeister mit einem Obsidianmesser die Brust des lebenden Opfers aufschnitt, das Herz herausriss und mit diesem blutenden, noch schlagenden Herzen den Altar besprengte. Als die Spanier aus Cortés’ Expedition den Haupttempel von Tenochtitlan betraten, zählten sie nach ihren Berichten dort 130.000 menschliche Schädel. All diese Menschen waren in nur wenigen Jahren vor der Ankunft der Spanier geopfert worden. Religiöser Fanatismus war einer der Hauptgründe für die aztekischen Eroberungen. Im Kampf zielten die Azteken keineswegs darauf ab, den Feind zu töten. In ihren Augen war ein gefangener Feind viel wertvoller – er konnte den Göttern geopfert werden.
+
+Manchmal opferten sich die Azteken auch freiwillig den Göttern, um „Seligkeit im Jenseits“ zu erlangen. Menschen, die von den Priestern für das Opfer ausgewählt wurden, wurden mit großer Ehre behandelt, besonders jene, die für das Opfer an Tezcatlipoca bestimmt waren. Ein Jahr vor dem Opfer wurde unter den Kriegsgefangenen der schönste und edelste ausgewählt, und ein ganzes Jahr lang brachten ihm acht Priester die herrschaftlichen und majestätischen Manieren eines Herrschers bei. Alle um ihn herum erwiesen ihm göttliche Ehren. In Begleitung der Priester spazierte er durch Tenochtitlan, spielte Flöte, und die Menschen begrüßten ihn respektvoll. Einen Monat vor dem Opfer wurden für ihn vier der schönsten Mädchen ausgewählt, die verpflichtet waren, jeden seiner Wünsche zu erfüllen. Dann kam der Tag des Todes. In einer feierlichen Prozession schritt der zum Tode Bestimmte zum Tempel. Dort verabschiedete er sich von seinen Frauen, und die acht Priester, die sich das ganze Jahr um ihn gekümmert hatten, führten ihn langsam die breite Treppe hinauf. Auf jeder Stufe des Tempels zerbrach er eine heilige Flöte. Und nun war er oben angekommen. Dort packten ihn die Priester, und der Hohepriester riss ihm das Herz aus der Brust... Doch nur die edelsten Kriegsgefangenen wurden mit einer so feierlichen Tötung geehrt. Gewöhnliche Gefangene wurden zu Hunderten bei weniger formellen lokalen Zeremonien geopfert.
+
+Manchmal wurde bei Opfern eine Methode angewandt, die die Spanier später „gladiatorisch“ nan
+}
+Tutorial_Dictonary {Hilfe: Glossar der Begriffe}
+Tutorial_Dictonary.1
+{
+ENTERN – sich längsseits legen, ein Schiff Seite an Seite mit einem anderen bringen. Entern – ein Schiff im Nahkampf stürmen und erobern.
+*
+BACKSTAGWIND – ein schräger achterlicher Wind, zwischen Vorwind (vor dem Wind) und Halbwind, sowie der Kurs, die Route oder Richtung eines Schiffs bei diesem Wind, weshalb ein Schiff auf Steuerbord- oder Backbordbug segelt, je nachdem, ob der Wind von rechts oder links kommt.
+*
+VORSCHIFF (niederl. bak) – ein Aufbau am Bug des Decks, der bis zum Steven reicht. Früher bezeichnete das Vorschiff den vorderen Teil des Oberdecks (vor dem Fockmast). Es dient dazu, das Oberdeck vor überkommenden Wellen zu schützen, die Schwimmfähigkeit zu erhöhen, Diensträume unterzubringen usw.
+*
+BARK – ein Seegefäß mit drei oder vier Masten, Rahsegeln an den vorderen Masten und Schratsegeln am hinteren (Besan-)Mast.
+*
+AM WIND – ein Segelkurs, bei dem die Längsachse des Schiffs einen Winkel von weniger als 90 Grad zur Windrichtung bildet. Am Wind segeln bedeutet, fast gegen den Wind zu fahren, der leicht von rechts oder links vom Bug kommt.
+*
+BESANMAST (aus dem Niederländischen mast) – eine senkrechte Metall- oder Holzkonstruktion auf dem Deck. Der hintere Mast, der auf den Großmast folgt, wird Besanmast genannt.
+*
+BRANDER – ein Schiff, das mit brennbaren und explosiven Stoffen beladen ist; in der Segelschiffszeit wurde es verwendet, um feindliche Schiffe in Brand zu setzen.
+*
+BRIGG – ein zweimastiges Segelschiff mit Rahsegeln, im Wesentlichen eine kleinere, zweimastige Fregatte.
+*
+BRIGANTINE – ein zweimastiges Schiff mit Rahsegeln am Fockmast und Schratsegeln am hinteren Mast.
+*
+BUCCANIERES (französisch boucaniers), Viehhirten, von denen viele später Freibeuter wurden, ansässig auf den Inseln der Westindischen Inseln. Sie griffen spanische Kolonien in Amerika sowie spanische und andere Handelsschiffe an.
+*
+BUGSPRIT – ein schräg nach vorn ragender, runder Holzbalken, der am Bug eines Schiffs befestigt ist. Zusammen mit seiner Verlängerung, dem Klüverbaum, dient er zur Befestigung der unteren Enden der Stage, die den Fockmast und dessen Stengen von vorn abstützen.
+*
+WERFT (aus dem Niederländischen werf) – ein Betrieb zum Bau von Schiffen.
+*
+VERDRÄNGUNG – die Menge Wasser, die ein schwimmendes Schiff verdrängt; ein Maß für die Größe eines Schiffs. Es gibt die Massenverdrängung, die der Masse des Schiffs entspricht, also der Masse des Wassers im Volumen des unter Wasser liegenden Teils, und das Volumenverdrängung (das Volumen des Schiffs unterhalb der Wasserlinie).
+*
+GALLEONE – ein großes, dreimastiges Schiff von besonders robuster Bauweise, ausgestattet mit schwerer Artillerie. Diese Schiffe wurden zum Transport von Waren aus spanischen und portugiesischen Kolonien verwendet.
+*
+GALIOT – ein flachbodiges niederländisches Schiff für die Küstenfahrt (Kabotage).
+*
+BUG – der Kurs eines Schiffs relativ zum Wind (z. B. fährt ein Schiff auf Steuerbordbug, wenn der Wind von der rechten Seite kommt).
+*
+HALBWIND (niederl. halfwind, wörtlich „Halbwind“) – ein Segelkurs, bei dem die Längsachse des Schiffs senkrecht zur Windrichtung steht.
+*
+GAFFEL (aus dem Niederländischen gaffel, wörtlich „Gabel“) – ein schräger Baum, der mit seinem unteren Ende am oberen Teil eines Masts befestigt ist. Er dient zum Hissen von Flaggen und Signalen; auf Segelschiffen wird das obere Ende eines Schratsegels an der Gaffel befestigt.
+*
+GROßMAST – der zweite Mast vom Bug des Schiffs aus gesehen.
+*
+KABELLÄNGE – eine nautische Längeneinheit (185,2 Meter), ein Zehntel einer Seemeile.
+*
+KABOTAGE (französisch cabotage) – Schifffahrt zwischen Häfen desselben Landes. Es gibt die große Kabotage (zwischen Häfen verschiedener Meere, z. B. Ost
+}
+Tutorial_Seafight_Info {Hilfe: Seeschlachten auf Schiffen}
+Tutorial_Seafight_Info.1
+{
+Seeschlachten auf Schiffen
+***
+Neuer Crew-Schaden!
+Im Originalspiel 1.3.2 konnte man durch Kartätsche sofort Crew-Schaden verursachen und erhalten. In "Age of Pirates" wurde die Mechanik überarbeitet. Jetzt muss zunächst die Rumpfintegrität eines Schiffs verringert werden, bevor der Crew ernsthafter Schaden zugefügt werden kann. Natürlich gilt diese Schadensmechanik auch für das eigene Schiff.
+*
+Der Kartätschenschaden an der Crew richtet sich nun nach dem prozentualen Zustand des Rumpfs und der Schiffsklasse:
+*
+6. Klasse:
+100% - 90% Rumpf: 85% Schaden an der Crew
+Danach folgt eine Steigerung.
+90% - 70% Rumpf: 85% - 100% Schaden an der Crew
+*
+5. Klasse:
+100% - 85% Rumpf: 75% Schaden an der Crew
+Danach folgt eine Steigerung.
+85% - 65% Rumpf: 75% - 100% Schaden an der Crew
+*
+4. Klasse:
+100% - 85% Rumpf: 65% Schaden an der Crew
+Danach folgt eine Steigerung.
+85% - 60% Rumpf: 60% - 100% Schaden an der Crew
+*
+3. Klasse:
+100% - 80% Rumpf: 55% Schaden an der Crew
+Danach folgt eine Steigerung.
+80% - 55% Rumpf: 55% - 100% Schaden an der Crew
+*
+2. Klasse:
+100% - 80% Rumpf: 45% Schaden an der Crew
+Danach folgt eine Steigerung.
+80% - 45% Rumpf: 45% - 100% Schaden an der Crew
+*
+1. Klasse:
+100% - 75% Rumpf: 35% Schaden an der Crew
+Danach folgt eine Steigerung.
+75% - 35% Rumpf: 35% - 100% Schaden an der Crew
+***
+Neue Ballistik!
+Direktfeuer-Ballistik wurde für Schiffe und Forts eingeführt. Projektile fliegen auf kurze Distanz nun in gerader Linie, und Wellen können sowohl dich als auch dein Ziel leicht schützen (außer wenn die Kanonen deutlich über den Wellen liegen, wie etwa bei einem Fort).
+*
+Erhöhter Streuradius für alle Geschütze:
+1. Erhöht die Überlebenschancen kleiner Schiffe gegen größere Klassen, da sie bei Manövern schwerer zu treffen sind.
+2. Für effektive Gefechte ist nun ein guter Kanonier mit hoher Genauigkeit und hochwertigen Kanonen unerlässlich, was den Wert dieses Offiziers deutlich steigert.
+3. Verbessert die Qualität der Gefechte, sodass der Ausgang nicht mehr nur durch wenige Salven mächtiger Schiffe entschieden wird.
+***
+Nationale Schiffsfarben:
+Große Kriegsschiffe (Battle, Ship of the Line, Warship, Man-of-war) sind jetzt an ein einheitliches nationales Farbschema gebunden.
+}
+Eng_Line_1_Albermal {Eskorte des Duke Albemarle}
+Eng_Line_1_Albermal.1 {Ich hatte das Glück, einen wichtigen Auftrag von Sir Thomas Modyford, dem Generalgouverneur der englischen Kolonien, zu erhalten. Ich muss mit dem Duke of Albemarle sprechen, der sich im Privatzimmer von Modyfords Residenz aufhält.}
+Eng_Line_1_Albermal.2 {Der Duke of Albemarle ist nun meinem Schiff zugeteilt. Meine Aufgabe ist es, den Duke nach Saint John's auf der Insel Antigua zu bringen. Nach der Ankunft in Saint John's muss ich den Duke direkt zur Residenz des Gouverneurs begleiten. Ich muss vorsichtig sein: Es scheint, als hätte Modyford Grund zu der Annahme, dass die Spanier Jagd auf den Duke of Albemarle machen...}
+Eng_Line_1_Albermal.3 {Als ich mich Antigua näherte, wurde ich von einer spanischen Fluyt angegriffen. Es sah so aus, als wäre es einer dieser Patrouillen, die Jagd auf Duke Albemarle machen. Der Spanier ist verschwunden, und ich liege vor Anker in St. John’s. Nur noch eine letzte Sache bleibt zu tun.}
+Eng_Line_1_Albermal.4 {Medfords Auftrag ist erfüllt, und Duke Albemarle wurde sicher abgeliefert. Ich habe Albemarles Depesche für Medford bei mir und kann nun nach Port Royal zurückkehren, um meine wohlverdiente Belohnung zu erhalten.}
+Eng_Line_2_Talking {Überzeuge die berühmten Piraten, Curaçao anzugreifen}
+Eng_Line_2_Talking.1 {Der Gouverneur von Jamaika hat mir aufgetragen, mit vier Freibeutern zu verhandeln: Edward Mansfield in der Bukaniersiedlung La Vega auf Hispaniola, Henry Morgan in der Stadt Saint John's auf Antigua, Jackman auf Bermuda und John Morris auf der Insel Trinidad. Ich muss sie davon überzeugen, die niederländische Stadt Curaçao anzugreifen.}
+Eng_Line_2_Talking.2 {Ich habe mit Morgan gesprochen und keine Erlaubnis erhalten, Curaçao anzugreifen. Der Grund ist, dass momentan nicht genügend Kräfte für eine solche Operation zur Verfügung stehen.}
+Eng_Line_2_Talking.3 {Edward Mansfield weigerte sich, Curaçao anzugreifen. Wie sich herausstellte, ist er Niederländer und lehnt feindselige Handlungen gegen seine Landsleute ab.}
+Eng_Line_2_Talking.4 {Jackman hat sich geweigert, Curaçao anzugreifen, und die Piraten von Bermuda wollen die Niederländer nicht angreifen.}
+Eng_Line_2_Talking.5 {Jack Morris wird nicht am Angriff auf Curacao teilnehmen. Außerdem habe ich erfahren, dass Modyford Morris nicht mag.}
+Eng_Line_2_Talking.6 {Ich habe Modyford berichtet, dass keiner der von ihm genannten Piraten bereit war, Curaçao anzugreifen. Modyford war enttäuscht, aber für all die Lauferei habe ich trotzdem eine Belohnung bekommen.}
+Eng_Line_3_Morgan {Angebot von Henry Morgan}
+Eng_Line_3_Morgan.1 {Henry Morgan hat deutlich auf einen „heißen Auftrag“ für einen echten Freibeuter angespielt. Es ist sicher klug, sich mit Morgan gutzustellen – und es lohnt sich auch. Sobald ich frei bin, sollte ich bei ihm zu Hause in Port Royal, Jamaika, vorbeischauen.}
+Eng_Line_3_Morgan.2 {Morgan hat mir vorgeschlagen, Belize anzugreifen. Ich habe abgelehnt. Offenbar hat mein Ansehen bei Henry Morgan dadurch stark gelitten.}
+Eng_Line_3_Morgan.3
+{
+Henry Morgan hat mich eingeladen, an einer Expedition in die spanische Stadt Belize auf dem Festland teilzunehmen. Es gibt Hinweise darauf, dass sich dort derzeit eine riesige Menge Gold befindet, bereit zur Verschiffung in die Alte Welt. Dieses Gold soll uns gehören. Wir werden die Stadt stürmen.
+Wir müssen das Geschwader verstärken, also soll ich zu Jackman auf Bermuda und zu John Morris in Port of Spain auf Trinidad reisen. Sie sind bereit und warten nur darauf, dass wir eintreffen, damit sie sich uns anschließen können.
+Sobald unser Geschwader versammelt ist, nehmen wir Kurs auf Belize.
+Wir müssen Belize innerhalb von fünfzig Tagen einnehmen, sonst wird das Gold nach Spanien gebracht.
+}
+Eng_Line_3_Morgan.4 {Wir sind stärker geworden. Jackman ist jetzt bei uns.}
+Eng_Line_3_Morgan.5 {John Morris ist unserem Geschwader beigetreten.}
+Eng_Line_3_Morgan.6
+{
+Es ist mir nicht gelungen, das Geschwader rechtzeitig nach Belize zu bringen. Das Gold ist bereits fort, ein Angriff wäre sinnlos...
+Meine Komplizen haben mich im Stich gelassen. Ich muss leider zugeben, dass ich ein wertloser Kapitän bin...
+}
+Eng_Line_3_Morgan.7 {Wir haben Belize eingenommen und das von den Spaniern versteckte Gold gefunden. Es waren tatsächlich über drei Tonnen!!! Unsere Laderäume sind bis zum Rand gefüllt.}
+Eng_Line_3_Morgan.8
+{
+Verdammt! Ich hätte früher nach Morgan suchen sollen – er hat doch angedeutet, dass ich ihn finden soll! Dann hätte ich die Chance gehabt, am Angriff auf Belize teilzunehmen!
+Jetzt ist alles verloren, Morgan hat alles ohne mich gemacht. Wie schade...
+}
+Eng_Line_4_Intelligence_Curacao {Erkundung auf Curaçao}
+Eng_Line_4_Intelligence_Curacao.1 {Ich habe einen weiteren Auftrag vom englischen Generalgouverneur Sir Thomas Modyford erhalten. Jetzt bin ich ein Späher. Ich muss mich nach Curaçao schleichen und herausfinden, was in der Stadt vor sich geht. Es wäre hilfreich, mit einem Händler dort Kontakt aufzunehmen – solche Leute haben kein Gewissen...}
+Eng_Line_4_Intelligence_Curacao.2 {Der örtliche Geldverleiher, Josef Nunen de Fonquesao, ist genau der Mann, den ich brauche. Für Geld würde er jeden verraten – genau das ist es, was ich suche.}
+Eng_Line_4_Intelligence_Curacao.3 {Josef hat mich auf eine Korvette hingewiesen, die im Hafen von Curacao auf Reede liegt und abfahrbereit ist. Ich muss an Bord gehen und die Kajüte gründlich durchsuchen.}
+Eng_Line_4_Intelligence_Curacao.4 {Verdammt, Josef verlangt 100.000!!! Was für ein Appetit! Aber ich muss wohl den vollen Betrag zahlen.}
+Eng_Line_4_Intelligence_Curacao.5 {Ich habe die Beherrschung verloren, dieser Halunke Josef hat mich zur Weißglut gebracht. Ich wollte ihn still und leise erledigen, aber er hat die Wachen gerufen. Die ganze Stadt war in Aufruhr. Tja, Medfords Auftrag ist wohl gescheitert.}
+Eng_Line_4_Intelligence_Curacao.6 {Verdammt, ich sitze in einem niederländischen Gefängnis. Sie haben mir meine Waffen und mein Geld abgenommen, und ich habe keine Ahnung, was ich jetzt tun soll ...}
+Eng_Line_4_Intelligence_Curacao.7
+{
+Verdammt, ich sitze in einem niederländischen Gefängnis. Sie haben mir meine Waffen und mein Geld abgenommen.
+Doch selbst im Gefängnis von Curacao findet man unerwartete Verbündete. Der Kerkermeister Goverd Tantum hat mich freigelassen – er hat noch eine Rechnung mit diesem Schurken Joseph offen. Ich bin frei, aber die Mission ist gescheitert; jetzt muss ich aus der Stadt entkommen und zurück zu meinem Schiff. Ich habe immer noch nichts herausgefunden.
+}
+Eng_Line_4_Intelligence_Curacao.8 {Verdammt! Es ist mir nicht gelungen, die Korvette zu entern! Ich habe nichts herausgefunden, die Mission ist gescheitert!}
+Eng_Line_4_Intelligence_Curacao.9 {Nach dem Entern habe ich das Schiff gründlich durchsucht und gefunden, was ich brauchte. In der Kapitänskajüte entdeckte ich einen geheimen Befehl für Fort Orange. Laut dem Dokument sollen die Niederländer Fort Orange dringend verstärken. Modyford muss so schnell wie möglich davon erfahren.}
+Eng_Line_4_Intelligence_Curacao.10 {Mediford benimmt sich wie ein echter Geizhals: Er hat mir 110.000 bezahlt!!! Und das, wo ich den Geldverleiher in Curacao für 100.000 gekauft und dem Tavernenwirt sogar 1.000 bezahlt habe! Das ist ein völlig unrentables Geschäft!}
+Eng_Line_4_Intelligence_Curacao.11 {Es ist mir gelungen, die gesuchte Korvette zu entern. Doch ich habe nichts gefunden, was mir bei der Lösung der Aufgabe helfen könnte. Die Mission ist gescheitert, und ich muss mit leeren Händen zu Modyford zurückkehren.}
+Eng_Line_5_AttackFortOrange {Angriff auf die niederländische Siedlung Fort Orange}
+Eng_Line_5_AttackFortOrange.1
+{
+Ein neuer Auftrag vom englischen Generalgouverneur: Greife die niederländische Siedlung auf Jamaika namens Fort Orange an. Am besten lande ich in der Negril Point Bay, aber ich kann auch über Land vorrücken. Auf zum Preis! Und nicht vergessen, die Residenz des Kommandanten zu durchsuchen!
+
+Übrigens könnten die Niederländer das Fort inzwischen verstärkt haben. Ich sollte mich auf einen harten Kampf vorbereiten.
+}
+Eng_Line_5_AttackFortOrange.2 {Fort Orange ist eingenommen. Ich stapfe knietief durch Blut. Heh, was für ein Spaß!}
+Eng_Line_6_MorrisWillams {Kapitän der Kaperfregatte Morris Williams}
+Eng_Line_6_MorrisWillams.1 {Ich habe einen neuen Auftrag von Modyford. Ich soll ein vertrauliches Gespräch mit dem glücklichen englischen Freibeuter Morris Williams führen. Seine Fregatte, die 'Favorite', liegt vor Anker in Port Royal, und ihr Laderaum ist voll mit Beute von spanischen Galeonen! Ich habe Modyfords Erlaubnis, die Williams’ Fregatte die Einfahrt nach Port Royal gestattet, und muss dieses Dokument persönlich an Williams übergeben – am besten ohne Zeugen. Warum das Ganze ohne Zeugen ablaufen soll, ist mir nicht ganz klar. Aber das ist nicht mein Problem.}
+Eng_Line_6_MorrisWillams.2 {Quest abgeschlossen, Williams läuft in den Hafen ein. Jetzt Bericht an Modyford erstatten.}
+Eng_Line_6_MorrisWillams.3 {Mediford hat mir 5.000 Münzen fast ohne Gegenleistung bezahlt. Das ist alles sehr seltsam.}
+Eng_Line_6_MorrisWillams.4 {Also hat Modyford meine Autorität genutzt, um Williams nach Port Royal zu locken und die Ladung zu beschlagnahmen! Das muss ich klären – ich gehe zu Modyfords Residenz!}
+Eng_Line_6_MorrisWillams.5 {Irgendwo in Europa hat Karl II. mit den Spaniern einen Handel gemacht, und jetzt müssen wir diese absurden Vorstellungen von Freundschaft mit diesen blutigen Teufeln in die Tat umsetzen! Ich weiß gar nicht, was ich Williams sagen soll.}
+Eng_Line_6_MorrisWillams.6 {Morris Williams schuldet den Gläubigern hundertvierzigtausend! Das ist sein Problem; ich brauche keine fremden Schulden. Wir wünschten uns alles Gute und gingen unserer Wege.}
+Eng_Line_6_MorrisWillams.7 {Ich habe Morris Williams hundertvierzigtausend gegeben, um seine Schulden zu begleichen. Es war meine Ehrenpflicht, denn ich war es, der ihn nach Port Royal eingeladen hat. Nun, mein Gewissen ist rein.}
+Eng_Line_6_MorrisWillams.8 {Ich habe es mir zur Aufgabe gemacht, die Ware ihrem rechtmäßigen Besitzer, Morris Williams, zurückzugeben. Ich muss herausfinden, mit welchem Schiff die Indigo-Ladung aus Port Royal verschifft wird. Dafür werde ich in der Stadt herumgehen und mit verschiedenen Leuten sprechen müssen.}
+Eng_Line_6_MorrisWillams.9 {Vom Hafenmeister habe ich erfahren, wo sich Williams’ Waren befinden. Sie sind auf der spanischen Pinasse „Santa Agueda“, die gestern nach San Juan ausgelaufen ist. Ich muss die Pinasse entern, die Waren auf mein eigenes Schiff bringen und mit Williams’ Ladung nach Port Royal zurückkehren. Hoffentlich kann ich die „Santa Agueda“ noch einholen; dafür muss ich in weniger als einer Stunde auslaufen und die Verfolgung aufnehmen. Die Zeit drängt.}
+Eng_Line_6_MorrisWillams.10 {Ich habe die spanische Pinasse 'Santa Agueda' gekapert, aber Williams' Waren waren nicht im Laderaum. Allerdings fand ich hundertvierzigtausend Münzen in der Kapitänskajüte! Offenbar haben die Besitzer der Ladung Williams' Waren auf dem Weg nach San Juan verkauft.}
+Eng_Line_6_MorrisWillams.11 {Verdammt! Es ist mir nicht gelungen, Morris Williams’ Ladung zu erbeuten – die Pinasse und ihre Fracht sind auf den Grund gesunken! Für den armen Williams ist alles vorbei.}
+Eng_Line_6_MorrisWillams.12 {Verdammt! Es ist mir nicht gelungen, Morris Williams’ Waren zu erbeuten – dieser Kerl war einfach zu hart für mich, und ich musste mit leeren Händen abziehen. Für den armen Williams ist alles vorbei.}
+Eng_Line_6_MorrisWillams.13 {Nach einigem Überlegen habe ich beschlossen, Williams die hundertvierzigtausend, die wir von der spanischen Pinasse erbeutet haben, nicht zu geben. Das ist kein Indigo oder Mahagoni, sondern Goldmünzen, die meine Crew mit ihrem eigenen Blut verdient hat...}
+Eng_Line_6_MorrisWillams.14 {Ich habe die auf der spanischen Pinasse gefundenen hundertvierzigtausend Williams gegeben – das ist nur gerecht. Nun kann dieser ehrenwerte Freibeuter seine Schulden begleichen, und mein Gewissen ist rein.}
+Eng_Line_6_MorrisWillams.15 {Der arme Williams ist im Gefängnis von Port Royal gelandet. Meine Ehre verpflichtet mich, ihn dort herauszuholen. Als Erstes sollte ich mit dem Gefängniswärter über Williams sprechen – zumal der Wärter selbst an der Festnahme beteiligt war.}
+Eng_Line_6_MorrisWillams.16 {Ich muss eine Audienz bei Modyford bekommen, um die Freilassung von Morris Williams zu erbitten.}
+Eng_Line_6_MorrisWillams.17 {Auf zum Geldverleiher in Port Royal, wir müssen Williams’ Schuldenproblem klären.}
+Eng_Line_6_MorrisWillams.18 {Ich konnte kein Gespräch mit dem Geldverleiher führen; er hat mich einfach abgewimmelt. Ich sollte die Leute in der Stadt nach ihm fragen – vielleicht finde ich einen Weg, an ihn heranzukommen.}
+Eng_Line_6_MorrisWillams.19 {Ich habe mit dem örtlichen Priester über den Geldverleiher gesprochen. Er verwies mich an eine seiner Gemeindemitglieder, namens Gillian Atterbury. Laut dem Geistlichen hat sie Probleme mit dem Geldverleiher. Vielleicht ist das genau das, was ich brauche.}
+Eng_Line_6_MorrisWillams.20 {Eine seltsame Geschichte über das Verschwinden des Ehemanns einer jungen Frau. Es gibt allen Grund zu glauben, dass ein blutsaugender Geldverleiher darin verwickelt ist. Du musst den Mann finden – tot oder lebendig – und die Wahrheit ans Licht bringen.}
+Eng_Line_6_MorrisWillams.21 {Es ist mir gelungen, Tom Etterberry lebend zu finden und ihn den Schmugglern zu entreißen. Jetzt ist der Geldverleiher in meiner Hand – Zeit, ihm einen Besuch abzustatten.}
+Eng_Line_6_MorrisWillams.22 {Der Geldverleiher hat Williams’ Schuld erlassen. Auch wenn Morris die Prämienware verloren hat, blieb uns das Schlimmste erspart. Mein Gewissen ist rein.}
+Eng_Line_6_MorrisWillams.23 {Es ist mir gelungen, die spanische Pinasse 'Santa Agueda' zu kapern, aber Williams' Waren waren nicht im Laderaum. Es wurde nichts Bedeutendes gefunden, nicht einmal ein Hinweis darauf, wohin die Ladung verschwunden sein könnte. Für den armen Williams ist alles vorbei.}
+Eng_Line_7_SevenTresures {Finde die Schätze berühmter Korsaren}
+Eng_Line_7_SevenTresures.1
+{
+Du musst dich einer ziemlich unangenehmen Aufgabe stellen: Modyford hat dir befohlen, die von bekannten Piraten versteckten Schätze zu finden und sie ihm zu bringen. Die Fundorte der Schätze sind wie folgt:
+1. Whitson – Cartagena
+2. Swart – Trinidad
+3. Gay – Turks
+4. Cooper – Dominica
+5. Breningham – Cayman
+6. Goodley – Cuba
+7. Blayvelt – Guadeloupe
+Alles dort gefundene Gold muss an Modyford abgeliefert werden. Und es sollten 2.100 Nuggets sein!
+}
+Eng_Line_7_SevenTresures.2 {Medfords Auftrag ist erfüllt. Ich habe 2.100 Goldnuggets gefunden und in die Residenz des englischen Generalgouverneurs gebracht.}
+Eng_Line_7_SevenTresures.3 {@<GoldQtyGaveModiford> Nuggets an Medford geliefert. @<GoldQtyForSeek> noch zu finden.}
+Eng_Line_7_SevenTresures.4 {Ich habe mich geweigert, diese Aufgabe zu erfüllen, da sie sich zu einer äußerst ermüdenden Angelegenheit entwickelt hat. Mein Ansehen in Medifords Augen hat gelitten...}
+Eng_Line_8_ToMansfield {Zu Edward Mansfeld wegen Gold}
+Eng_Line_8_ToMansfield.1
+{
+Ein weiterer Auftrag von Madyford: Ich soll eine große Goldlieferung aus La Vega überbringen. Dazu muss ich meinen alten Bekannten Edward Mansfield finden.
+Und wieder einmal vertraut Madyford mir eine „Geldangelegenheit“ an. Es scheint, als werde ich zum Vertrauten des Generalgouverneurs von England.
+}
+Eng_Line_8_ToMansfield.2 {Die Siedlung der Bukaniere wurde von den Spaniern überfallen. Mansfield ist tot. Das Gold ist verschwunden. Ich muss versuchen, die Galeonen einzuholen, die vermutlich nach Santiago unterwegs sind.}
+Eng_Line_8_ToMansfield.3 {Verdammt, was für eine seltsame Geschichte. Im Fort der Bukaniere war niemand. Ich habe die Siedlung durchsucht, aber niemanden gefunden. Ich weiß nicht, was ich davon halten soll. Ich muss zu Modyford zurückkehren und ihm Bericht erstatten ...}
+Eng_Line_8_ToMansfield.4
+{
+Ich konnte die spanischen Galeonen, die La Vega angegriffen haben, nicht finden. Ich habe Kuba nicht rechtzeitig erreicht.
+Jetzt muss ich Modyford dringend über alles Bericht erstatten, was passiert ist.
+}
+Eng_Line_8_ToMansfield.5 {In der Nähe von Santiago holte ich eine der Galeonen ein und enternte sie. In der Kapitänskajüte fand ich einen Brief von Pardal an den Generalgouverneur von Spanien. Doch von erbeutetem Gold fehlte jede Spur.}
+Eng_Line_8_ToMansfield.6 {In der Nähe von Santiago holte ich eine der Galeonen ein und enternte sie. Auf der Galeone fand ich kein gestohlenes Gold. Es ist außerdem unklar, wo sich die beiden anderen Galeonen befinden, die an dem Überfall auf die Bukaniere beteiligt waren.}
+Eng_Line_8_ToMansfield.7 {In der Nähe von Santiago habe ich einen der Galeonen eingeholt und versenkt. Wo sich die beiden anderen Galeonen befinden, die an dem Angriff auf die Bukaniere beteiligt waren, weiß ich nicht.}
+Eng_Line_9_AttackSantiago {Angriff auf Santiago}
+Eng_Line_9_AttackSantiago.1 {Medford hat mir befohlen, die spanische Stadt Santiago anzugreifen. Die Stadt darf ich nach Belieben plündern. Das Einzige, was Medford will, ist der Gouverneur von Santiago, José Sancho Jiménez.}
+Eng_Line_9_AttackSantiago.2 {Wir haben Santiago im Sturm genommen. Gouverneur Jose Sancho Jimenez ist mein Gefangener. Wir können nach Jamaika zurückkehren.}
+Eng_Line_9_AttackSantiago.3 {Am Ausgang der Bucht von Santiago wurden wir von dem Geschwader von Manoel Rivero Pardal überfallen, der tatsächlich zur Hilfe für Santiago eilte. Wir kämpften und siegten; wir hatten einfach keine andere Wahl.}
+Eng_Line_9_AttackSantiago.4 {Am Ausgang der Bucht von Santiago gerieten wir in einen Hinterhalt des Geschwaders von Manoel Rivero Pardal, der tatsächlich zur Hilfe für Santiago eilte. Nach dem Sturm auf Santiago hatte ich keine Kraft mehr für eine weitere ernsthafte Schlacht. Ich musste fliehen.}
+Eng_Line_10_SpanishAttack {Angriff des spanischen Geschwaders auf Port Royal}
+Eng_Line_10_SpanishAttack.1 {Port Royal wird von einem spanischen Geschwader belagert. Der Zeitpunkt könnte schlechter nicht sein: Fast alle Freibeuter sind mit Morgan fort, sodass die Stadt schutzlos ist. Ich muss dieses Problem lösen und den spanischen Angriff abwehren.}
+Eng_Line_10_SpanishAttack.2 {Das spanische Geschwader wurde vor Port Royal besiegt.}
+Eng_Line_10_SpanishAttack.3 {Das spanische Geschwader war mir überlegen, und ich musste das Schlachtfeld verlassen. Port Royal ist ihrem Angriff erlegen und gehört nun den Spaniern. England zu dienen ist keine Option mehr.}
+Eng_Line_11_OccupyMein {Eroberung von Caracas und Cumaná}
+Eng_Line_11_OccupyMein.1 {Im Auftrag von Sir Thomas Modyford, dem Generalgouverneur von Jamaika, soll ich die spanischen Städte Cumaná und Caracas einnehmen und sie dazu bringen, der englischen Krone die Treue zu schwören.}
+Eng_Line_11_OccupyMein.2 {Caracas wurde erobert und gehört jetzt England.}
+Eng_Line_11_OccupyMein.3 {Cumana wurde erobert und gehört nun England.}
+Eng_Line_12_ColonelLinch {Klärung der Lage in Saint John's}
+Eng_Line_12_ColonelLinch.1 {Ich muss zur Residenz des Gouverneurs in der Stadt St. John's auf Antigua gehen und herausfinden, warum die Stadtbehörden dem Generalgouverneur von England die erforderlichen Berichte nicht vorlegen.}
+Eng_Line_12_ColonelLinch.2
+{
+In der Residenz von Saint John's traf ich Colonel Thomas Lynch. Er teilte mir mit, dass Modyford ein Staatsverbrecher ist.
+Ich muss Modyford verhaften.
+}
+Eng_Line_12_ColonelLinch.3 {Bei seiner Festnahme leistete Mediford Widerstand. Dennoch landete er hinter Gittern. Der Auftrag von Colonel Thomas Lynch ist erfüllt.}
+Eng_Line_12_ColonelLinch.3_NONE {/////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Hol_Line_1_Chumakeiro {Bringe den Jansenisten-Anführer Chumaqueiro nach Willemstad}
+Hol_Line_1_Chumakeiro.1 {Ich habe meinen ersten Auftrag von Peter Stuyvesant, dem Generalgouverneur der niederländischen Kolonien, erhalten. Ich soll Aaron Mendes Chumacero, den Anführer einer bestimmten jansenistischen Gemeinde, aus der Stadt Marigot auf der Insel Saint Martin zum Generalgouverneur bringen.}
+Hol_Line_1_Chumakeiro.2 {Ich habe das Haus gefunden, das Chumakero gemietet hatte. Doch als ich eintrat, entdeckte ich mehrere verdächtige Gestalten, die das Zimmer durchwühlten. Es stellte sich heraus, dass Chumakero bei einem Raubüberfall angegriffen wurde. Ich musste die Räuber töten. Jetzt ist Aaron bei mir an Bord und wir fahren nach Curacao.}
+Hol_Line_1_Chumakeiro.3 {Chumakero wurde erfolgreich nach Willemstad gebracht. Als Dank für meine Hilfe habe ich von Aaron dreißigtausend Münzen erhalten.}
+Hol_Line_2_TakeFoodCuracao {Kaufe eine Warenladung in Fort Orange und liefere alles nach Willemstad}
+Hol_Line_2_TakeFoodCuracao.1
+{
+Der Generalgouverneur von Holland hat mir erneut einen Auftrag erteilt. Diesmal muss ich Fort Orange auf der Insel Jamaika erreichen und von dort eine Lieferung abholen – Kaffee, Blackwood, Redwood und Sandelholz.
+Ich muss von jedem Artikel 400 Einheiten kaufen, das Gesamtgewicht der Ladung beträgt 5.600 Zentner. Für diese Aufgabe habe ich zwei Monate Zeit.
+}
+Hol_Line_2_TakeFoodCuracao.2 {Die Papiere sind beim Gouverneur von Fort Orange abgeliefert, jetzt noch zum Laden, um Vorräte zu kaufen – und dann Kurs auf Curaçao!}
+Hol_Line_2_TakeFoodCuracao.3
+{
+Noch zu liefern an Stuyvesant, in Stückzahl:
+Ebenholz: @<EbonyQtyElseNeed>.
+Kaffee: @<CoffeeQtyElseNeed>.
+Mahagoni: @<MahoganyQtyElseNeed>.
+Sandelholz: @<SandalQtyElseNeed>.
+}
+Hol_Line_2_TakeFoodCuracao.4 {Die Aufgabe des Generalgouverneurs Stuyvesant ist vollständig erfüllt. Die Ladung wurde komplett geliefert.}
+Hol_Line_3_WormEnglishPlans {Beschaffe Informationen über die englischen Pläne im Zusammenhang mit dem Handelskrieg}
+Hol_Line_3_WormEnglishPlans.1 {Ich habe einen neuen Auftrag vom niederländischen Generalgouverneur. Diesmal muss ich Edward Mansfield erreichen, der in der Bukaniersiedlung La Vega auf Hispaniola lebt. Von ihm soll ich erfahren, welche Pläne die Engländer im Zusammenhang mit dem Ausbruch des Handelskriegs zwischen England und den Niederlanden haben.}
+Hol_Line_3_WormEnglishPlans.2 {Edward Mansfield weiß nichts über Medifords Pläne. Allerdings hat er mich mit einer Empfehlung zu Henry Morgan nach Port Royal geschickt. Vielleicht kann Morgan mir weiterhelfen.}
+Hol_Line_3_WormEnglishPlans.3 {Von Morgans Sekretär Oliver Green habe ich erfahren, dass Morgan sich derzeit in seinem Haus auf Antigua aufhält. Ich muss sofort dorthin gehen.}
+Hol_Line_3_WormEnglishPlans.4 {Morgan hat mir einen Auftrag mit unklarer Belohnung angeboten. Ich habe abgelehnt.}
+Hol_Line_3_WormEnglishPlans.5 {Sieht so aus, als hätte ich diese Aufgabe vermasselt. Stuyvesant hat mich ausgeschimpft wie @<sSex1>.}
+Hol_Line_3_WormEnglishPlans.6
+{
+Ich habe mich bereit erklärt, einen ziemlich interessanten Auftrag für Henry Morgan zu übernehmen. Ich soll nach Tortuga reisen und so viele Informationen wie möglich über einen Freibeuter namens Pierre der Picardianer sammeln.
+Am besten frage ich wohl die Einheimischen aus, indem ich vorgebe, nach Pierre zu suchen. Pierre selbst sollte ich wohl besser nicht treffen...
+}
+Hol_Line_3_WormEnglishPlans.7 {Der Wirt in Tortuga sagte, dass Pierre bei ihm ein Zimmer gemietet und ein Jahr im Voraus bezahlt hat. Sehr interessant.}
+Hol_Line_3_WormEnglishPlans.8 {Der Ladenbesitzer in Tortuga hat ausgeplaudert, dass der Picardianer in seinem Geschäft fast alle Juwelen aufkauft! Pierre hat definitiv Geld.}
+Hol_Line_3_WormEnglishPlans.9 {Der Werftbesitzer sagte, dass Pierre eine ordentliche Summe in neue Kartaunen investiert hat. Die Sache wird immer spannender.}
+Hol_Line_3_WormEnglishPlans.10 {Der Geldverleiher leiht niemandem mehr Geld! Er hat Pierre dem Picarden so viel abgenommen, dass er jetzt grübelt, wie er das alles wieder in Umlauf bringen soll.}
+Hol_Line_3_WormEnglishPlans.11 {Der Picardier ist auch Stammgast im Bordell. Er lebt wirklich gut, dieser Glückspilz!}
+Hol_Line_3_WormEnglishPlans.12 {Morgan hat kein Wort zu mir gesagt, er hat mich einfach rausgeworfen.}
+Hol_Line_3_WormEnglishPlans.13 {Ich muss einen englischen Offizier aus dem Gefängnis holen. Er soll mir sagen, wo Modyford seinen Angriff plant.}
+Hol_Line_3_WormEnglishPlans.14 {Ich habe alles herausgefunden. Medford bereitet einen Angriff auf Fort Orange vor. Jetzt muss ich Stuyvesant sofort informieren.}
+Hol_Line_4_DefenceOrange {Verteidige Fort Orange gegen den bevorstehenden englischen Angriff}
+Hol_Line_4_DefenceOrange.1 {Ich habe einen neuen Auftrag vom Generalgouverneur der Niederlande erhalten. Jetzt ist es meine Aufgabe, die englische Landungsexpedition abzufangen und Fort Orange vor Plünderung zu bewahren.}
+Hol_Line_4_DefenceOrange.2 {Die englischen Schiffe sind zerstört. Jetzt müssen wir die Zugänge zu Fort Orange erkunden – vielleicht ist es den Engländern gelungen, Truppen an Land zu bringen.}
+Hol_Line_4_DefenceOrange.3 {Ich kam zu spät, Fort Orange wurde zerstört. Keiner der Bewohner hat überlebt. So traurig es auch ist, ich muss Stuyvesant alles berichten.}
+Hol_Line_4_DefenceOrange.4 {Die englische Landungstruppe bei Fort Orange wurde vernichtet. Es sieht so aus, als hätte ich den englischen Angriff auf das Fort abgewehrt.}
+Hol_Line_4_DefenceOrange.5 {Ich konnte die englische Gruppe nicht besiegen und musste mich zurückziehen. Fort Orange ist verloren, das ist wirklich schade.}
+Hol_Line_5_ThreeFleutes {Eskortiere drei Fluyts zur Bukaniersiedlung La Vega und zurück}
+Hol_Line_5_ThreeFleutes.1
+{
+Ich habe einen weiteren Auftrag vom Gouverneur von Curacao erhalten. Diesmal ist es nicht allzu kompliziert – ich soll lediglich drei bis zur Wasserlinie beladene Fluyts zum bekannten Bukanier-Siedlung La Vega auf der Insel Hispaniola eskortieren und wieder zurückbringen.
+Zu meinen Aufgaben gehört außerdem die Durchführung von Handelsgeschäften. Ich muss alle Waren von den Fluyts verkaufen, 7.000 Zentner Proviant laden und diese an den niederländischen Generalgouverneur Peter Stuyvesant liefern.
+}
+Hol_Line_5_ThreeFleutes.2 {Stuyvesant muss darüber informiert werden, dass die Siedlung der Bukaniere von den Spaniern angegriffen wurde. Edward Mansfield ist getötet worden.}
+Hol_Line_5_ThreeFleutes.3 {In der Nähe von Hispaniola wurde ich von einem ganzen spanischen Geschwader angegriffen. Ich musste das Schlachtfeld verlassen und die Fluyts ihrem Schicksal überlassen.}
+Hol_Line_5_ThreeFleutes.4 {In der Nähe von Hispaniola wurde ich von einem ganzen spanischen Geschwader angegriffen. Es gelang mir, die mir anvertrauten Fluyts zu schützen.}
+Hol_Line_5_ThreeFleutes.5 {Nahe Hispaniola wurde ich von einem ganzen spanischen Geschwader angegriffen. Die Spanier wurden versenkt, aber auch ich habe Verluste erlitten. Von den mir anvertrauten Fluyts sind nur noch folgende auf See: @<QtyFleutes>.}
+Hol_Line_5_ThreeFleutes.6 {In der Nähe von Hispaniola griff mich ein ganzes spanisches Geschwader an. Ich konnte sie abwehren, aber all meine Fluyts landeten auf dem Meeresgrund. Sehr schlecht.}
+Hol_Line_6_RevengeMansfield {Rache für Mansfields Tod}
+Hol_Line_6_RevengeMansfield.1 {Ich muss Henry Morgan finden und ihm mitteilen, dass die Niederländer auf spanisches Blut aus sind. Ich muss mein Vorgehen mit ihm abstimmen. Es wird Zeit, dass die Spanier für den Tod von Edward Mansveld bezahlen.}
+Hol_Line_6_RevengeMansfield.2 {Henry Morgan hat mich in die Vergeltungsaktion eingebunden. Meine Aufgabe bei dieser Angelegenheit ist eine Aufklärungsmission. Ich muss mich nach Santiago schleichen und herausfinden, ob Gouverneur Jose Sancho Jimenez dort ist. Es wäre auch gut, seinen Zeitplan für die nächste Zeit zu erfahren.}
+Hol_Line_6_RevengeMansfield.3 {Ich habe herausgefunden, dass der Gouverneur von Santiago, José Sancho Jiménez, die Stadt in nächster Zeit nicht verlassen wird. Jetzt muss ich Morgan Bericht erstatten.}
+Hol_Line_6_RevengeMansfield.4 {Morgan ist über alles informiert, der Auftrag ist erledigt. Jetzt kann ich mit gutem Gewissen zu Stuyvesant gehen.}
+Hol_Line_7_DelivLettTortuga {Überbringe die Depesche an Gouverneur Bertrand d’Ogeron von Tortuga}
+Hol_Line_7_DelivLettTortuga.1 {Ich habe einen neuen Auftrag von Stuyvesant. Ich muss eine streng geheime Depesche an den französischen Generalgouverneur, Monsieur d’Ogeron, auf Tortuga überbringen.}
+Hol_Line_7_DelivLettTortuga.2 {Das Paket wurde dem Empfänger übergeben. Doch bevor ich nach Curacao zurücksegle, muss ich mich in zwei Stunden bei d’Ogeron melden.}
+Hol_Line_7_DelivLettTortuga.3 {Ich habe ein Antwortpaket von d’Ogeron erhalten. Nun führt mein Weg nach Curacao — dieses Paket muss so schnell wie möglich an Stuyvesant übergeben werden.}
+Hol_Line_7_DelivLettTortuga.4 {Verdammt! Das ist wohl eine Falle! Die d’Ogeron-Depesche ist weg! Was soll ich tun?!}
+Hol_Line_7_DelivLettTortuga.5 {Das Paket wurde von Unbekannten an Bord der Brigg 'La Rochelle' gestohlen. Laut dem Hafenmeister ist die Brigg in Richtung der Stadt San Juan auf der Insel Puerto Rico ausgelaufen. Ich muss sie einholen, das Schiff entern und das gestohlene Paket unbedingt zurückholen. Andernfalls mag ich mir kaum ausmalen, was geschehen könnte...}
+Hol_Line_7_DelivLettTortuga.6 {Die Brigg ist gesunken, ich konnte d'Ogerons Paket nicht bergen. Das ist eine Katastrophe ...}
+Hol_Line_7_DelivLettTortuga.7 {Es ist mir nicht gelungen, die Brigg La Rochelle einzuholen. d’Ogerons Paket ist für immer verloren. Das ist eine Katastrophe.}
+Hol_Line_7_DelivLettTortuga.8
+{
+Ich habe die Brigg 'La Rochelle' geentert. Ihr Kapitän sagte vor seinem Tod, dass er den Depeschendieb Antonio de Barras auf das spanische Kriegsgaleone 'Isabella' gebracht habe. Natürlich steckt dahinter die spanische Hand...
+
+Die 'Isabella' hat Kurs auf das Festland genommen und steuert die Stadt Santa Catalina an. Ich muss versuchen, das Galeone einzuholen, bevor sie meinen guten Freund Antonio in Santa Catalina an Land setzt.
+}
+Hol_Line_7_DelivLettTortuga.9 {Es ist mir nicht gelungen, die Kriegsgaleone 'Isabella' einzuholen. d'Ogerons Paket ist für immer verloren. Das ist eine Katastrophe...}
+Hol_Line_7_DelivLettTortuga.10 {Ich habe die 'Isabella' bei Santa Catalina eingeholt, doch leider ist die Galeone während des Gefechts gesunken. d'Ogerons Paket ist für immer verloren. Das ist eine Katastrophe...}
+Hol_Line_7_DelivLettTortuga.11 {Die 'Isabella' wurde geentert, mein 'Freund' Antonio verhört und gefangen genommen. Und das Wichtigste: d'Ogerons Depesche ist wieder in meiner Tasche!}
+Hol_Line_8_SeekBible {Abordnung zu Aaron Mendes Chumakeiro}
+Hol_Line_8_SeekBible.1 {Ich wurde dem Kommando von Aaron Mendes Chumacero, dem Leiter der Jansenisten-Gemeinde auf Curaçao, unterstellt.}
+Hol_Line_8_SeekBible.2 {Aaron Mendes Chumaceiro hat mich beauftragt, ein Buch zu finden, das ein englischer Freibeuter in der Piratensiedlung auf Bermuda verkaufen wollte. Dann machen wir uns auf die Suche!}
+Hol_Line_8_SeekBible.3 {Jackman sagte, dass im Bordell von Fort-de-France einer der Piraten über dieses Buch gesprochen hat.}
+Hol_Line_8_SeekBible.4 {Ich habe den Namen des Piraten herausgefunden, der das Buch zum Verkauf angeboten hat. Er heißt Laurens de Graaf und hält sich meist auf Tortuga auf. Ich muss ihn dort finden.}
+Hol_Line_8_SeekBible.5 {Vom Wirt in Tortuga habe ich erfahren, dass Laurens de Graaf vor zwei Wochen zu einem Überfall nach Cartagena aufgebrochen ist. Ich muss dorthin aufbrechen.}
+Hol_Line_8_SeekBible.6 {In der Nähe von Cartagena stieß ich auf fünf spanische Schiffe, die de Graff angriffen. Ich konnte nichts Entscheidendes tun und musste das Schlachtfeld verlassen. Die Spur ist kalt geworden; ich fürchte, ich kann Chumaceros Auftrag nun nicht mehr erfüllen.}
+Hol_Line_8_SeekBible.7 {In der Nähe von Cartagena stieß ich auf fünf spanische Schiffe, die de Graff angriffen. Ich griff in die Schlacht ein, konnte de Graff jedoch nicht retten – seine Fregatte wurde versenkt. Die Spur ist kalt geworden; ich fürchte, Chumaceros Auftrag kann ich nun nicht mehr erfüllen.}
+Hol_Line_8_SeekBible.8 {In der Nähe von Cartagena stieß ich auf fünf spanische Schiffe, die de Graff angriffen. Ich griff in die Schlacht ein und versenkte das spanische Geschwader. Jetzt muss ich mit Laurent sprechen.}
+Hol_Line_8_SeekBible.9 {Es ist mir gelungen, von Laurens de Graaf eine Karte mit dem Standort des Schatzes zu kaufen. Das Buch, das ich suche, befindet sich in diesem Schatz.}
+Hol_Line_8_SeekBible.10 {Für das erfolgreiche Auffinden des Buches habe ich eine ganze Million bekommen!!! Das ist fantastisch.}
+Hol_Line_9_TakeThreeShips {Erobere vier Linienschiffe ersten Ranges – Manowars}
+Hol_Line_9_TakeThreeShips.1 {Ich habe einen neuen und ziemlich ungewöhnlichen Auftrag vom Generalgouverneur. Wie du weißt, hat die Niederlande derzeit Schwierigkeiten, große Kriegsschiffe zu bauen, daher soll ich vier Linienschiffe ersten Ranges (Linienschiffe) aufbringen, sie in den Hafen von Curaçao bringen und an die niederländische Flotte übergeben. Das wird einiges an Arbeit erfordern, aber für jedes Schiff bekomme ich 200.000 Münzen.}
+Hol_Line_9_TakeThreeShips.2
+{
+An Stuyvesant gelieferte Schiffe: @<QtyTook>.
+Verbleibende zu liefernde Schiffe: @<QtyElse>.
+}
+Hol_Line_9_TakeThreeShips.3 {Stuyvesants Auftrag ist vollständig erfüllt; die vom niederländischen Flottenkommando geforderten Linienschiffe ersten Ranges wurden an die Republik der Vereinigten Provinzen übergeben.}
+Hol_Line_10_SpaAttackCuracao {Wehre den Angriff des spanischen Geschwaders auf Curacao ab}
+Hol_Line_10_SpaAttackCuracao.1 {Ein großes spanisches Geschwader ist vor Curaçao aufgetaucht, um anzugreifen. Ich muss helfen, den Angriff abzuwehren.}
+Hol_Line_10_SpaAttackCuracao.2 {Das spanische Geschwader wurde versenkt, Willemstad ist gerettet.}
+Hol_Line_10_SpaAttackCuracao.3 {Die spanischen Truppen waren einfach zu stark ... Ich musste das Schlachtfeld verlassen. Ich kann wohl vergessen, je wieder für Holland zu dienen.}
+Hol_Line_11_SpaAttackSentMartin {Wehre den spanischen Angriff auf San Martin ab}
+Hol_Line_11_SpaAttackSentMartin.1 {Ich muss die Stadt Marigot auf der Insel Saint Martin retten, die derzeit von den Spaniern belagert wird.}
+Hol_Line_11_SpaAttackSentMartin.2 {Das spanische Geschwader wurde versenkt, die Bewohner von Marigot sind gerettet.}
+Hol_Line_11_SpaAttackSentMartin.3 {Die spanischen Truppen waren einfach zu stark... Ich musste das Schlachtfeld verlassen. Ich schätze, mein Dienst für Holland ist nun vorbei.}
+Hol_Line_11_SpaAttackSentMartin.4 {Ich kam zu spät zur Belagerung, Marigot gehört jetzt zu Spanien. Quest gescheitert.}
+Hol_Line_12_OccupyMaracaibo {Eroberung von Maracaibo.}
+Hol_Line_12_OccupyMaracaibo.1 {Ich habe den Auftrag erhalten, Maracaibo einzunehmen und seine Bewohner zum Treueschwur auf die Republik der Vereinigten Provinzen zu bewegen.}
+Hol_Line_12_OccupyMaracaibo.2 {Maracaibo wurde erobert; es ist jetzt eine niederländische Stadt.}
+Hol_Line_12_OccupyMaracaibo.2_NONE {/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Spa_Line_1_SaveCitizens {Befreie drei spanische Bürger}
+Spa_Line_1_SaveCitizens.1 {Dies ist mein erster Auftrag im Dienst Spaniens, den mir Francisco Oregon y Gascon, der Generalgouverneur der spanischen Kolonien, anvertraut hat. Ich muss drei Spanier befreien, die in Port Royal gefangen gehalten werden, und sie sicher nach Havanna bringen.}
+Spa_Line_1_SaveCitizens.2 {Die Gefangenen sind frei. Jetzt zum Schiff – und weiter nach Havanna!}
+Spa_Line_2_Inquisition {Arbeit für die Heilige Inquisition}
+Spa_Line_2_Inquisition.1
+{
+Ich stehe jetzt im Dienst der Heiligen Inquisition. Soweit ich diese Herren kenne, wird der Auftrag lukrativ, aber schmutzig.
+Also muss ich in Santiago den Jesuiten-Bonzen Antonio de Souza finden. Dorthin mache ich mich auf den Weg.
+}
+Spa_Line_2_Inquisition.2 {Ich muss nach Curacao und von Joao Ilhayo, Joseph Nunen de Fonquesao und Jacob Lopez de Fonseca jeweils 50.000 verlangen – für die päpstliche Begnadigung. Eine vorläufige Begnadigung.}
+Spa_Line_2_Inquisition.3 {Ich habe mich bereit erklärt, Joao Ilhayo bei der Suche nach seinem Gefährten Yakov Lopez de Fonseca zu helfen, dessen Spur sich in Panama verloren hat.}
+Spa_Line_2_Inquisition.4 {Ich konnte keinen Kontakt zu dem Geldverleiher Josef herstellen, also werde ich auf diesem Weg kein Geld bekommen...}
+Spa_Line_2_Inquisition.5 {Ich sollte die Stadtbewohner nach diesem Josef befragen. Wahrscheinlich kommt dabei etwas Unangenehmes ans Licht.}
+Spa_Line_2_Inquisition.6
+{
+Tanneken Clemens, die Kellnerin aus der Taverne, sagte, dass der Sohn des Geldverleihers gestern auf einem Piraten-Lugger nach Fort Orange auf Jamaika aufgebrochen ist. Ich werde versuchen, ihn gefangen zu nehmen. Das sollte seinem Vater Eindruck machen.
+Außerdem gibt es einen Grund: Der junge de Fonquesao ist offenbar ein ziemlicher Halunke.
+}
+Spa_Line_2_Inquisition.7 {Der Piraten-Lugger, mit dem der junge de Fonquesao entkommen ist, ist mir entwischt. Ich konnte den Sohn des Geldverleihers von Curaçao nicht fassen, also gibt es mit dem Geldverleiher selbst nichts mehr zu besprechen. Von ihm werde ich jetzt kein Geld mehr bekommen.}
+Spa_Line_2_Inquisition.8 {Der Piraten-Lugger wurde geentert, und der junge de Fonsecaio befindet sich in meinem Laderaum. Jetzt ist es an der Zeit, de Fonsecaio Senior meine Forderungen zu stellen.}
+Spa_Line_2_Inquisition.9 {Der Piraten-Lugger, mit dem der junge de Fonquesao entkommen ist, ist gesunken. Wie bedauerlich... Jetzt gibt es dem armen Vater nichts mehr zu sagen, und auch Geld ist von ihm nicht mehr zu holen.}
+Spa_Line_2_Inquisition.10 {Josef Nunen de Fonquesao hat seine 50.000 beigesteuert.}
+Spa_Line_2_Inquisition.11 {Der Ladenbesitzer in Panama sagte, er habe Jakov vor etwa einem Monat gesehen. Er kam vorbei, versprach am nächsten Tag wiederzukommen, tauchte aber nie auf. Das ist seltsam... Ich muss ganz Panama gründlich absuchen.}
+Spa_Line_2_Inquisition.12 {Gefährte Joao Ilhayo wurde von Banditen als Geisel genommen. Die Banditen hatten kein Glück. Jacob Lopez de Fonseca ist befreit worden. Jetzt muss er nach Curacao gebracht werden.}
+Spa_Line_2_Inquisition.13 {Jacob Lopez de Fonseca hat mir erzählt, dass ein Mann mit einer alten christlichen Reliquie in der Werft von Bermuda verschwunden ist. Ich überlege, ob ich Jacob helfen soll oder nicht.}
+Spa_Line_2_Inquisition.14 {João Ilhayo und Jacova Lopez de Fonseca haben ihren Beitrag geleistet. Dazu kommen weitere 100.000 von der Heiligen Inquisition.}
+Spa_Line_2_Inquisition.15 {Die Mission der Inquisition ist völlig gescheitert. Das ist ein totales Fiasko. Ich kann nach Havanna zurückkehren.}
+Spa_Line_2_Inquisition.16 {Der Auftrag der Inquisition ist teilweise erfüllt. Nicht vollständig, natürlich, aber dennoch ein Erfolg. Zeit, nach Havanna zurückzukehren.}
+Spa_Line_2_Inquisition.17 {Die Aufgabe der Inquisition ist vollständig erfüllt. Ein unbestreitbarer Erfolg! Jetzt kann ich mit reinem Gewissen nach Havana zurückkehren.}
+Spa_Line_3_RockBrasilian {Roca den Brasilianer gefangen nehmen}
+Spa_Line_3_RockBrasilian.1
+{
+Verdammt, was für einen Auftrag hat mir Don Francisco da aufgehalst! Ich soll Roc den Brasilianer fangen, lebendig, wie einen Tiger für den Käfig. Das ist mehr als schwierig.
+Ich schätze, als Erstes sollte ich auf Tortuga auftauchen und herausfinden, wo Roc sich gerade aufhält. Dann sehen wir weiter.
+}
+Spa_Line_3_RockBrasilian.2
+{
+Roche Braziliano hat begonnen, spanische Schiffe bei Maracaibo zu überfallen. Ich muss zugeben, er hat seinen Platz gut gewählt: Wer in der Nähe der Guajira-Bucht patrouilliert, lässt kein einziges spanisches Schiff unbemerkt passieren. Die Korvette ist ein schnelles Schiff, sodass jedes ausgewählte Ziel sicher eingeholt wird.
+Ich denke, es ist Zeit, Roche Brazilianos Pläne ein wenig zu durchkreuzen. Ich werde auf die Jagd nach dieser Bestie gehen!
+}
+Spa_Line_3_RockBrasilian.3 {Ich musste das Schlachtfeld verlassen, Roc the Brazilian ist mir entkommen. Quest gescheitert.}
+Spa_Line_3_RockBrasilian.4 {Während des Gefechts ist die Korvette von Roc the Brazilian zusammen mit ihrem Kapitän gesunken. Quest gescheitert.}
+Spa_Line_3_RockBrasilian.5 {Roc der Brasilianer ist in meinem Laderaum. Ohne falsche Bescheidenheit kann ich sagen, dass dies ein unglaublicher Glücksfall ist, ein Triumph des eisernen spanischen Willens über die dreckigen Ladrons. Jetzt zu Monsignore Antonio – ich muss diesen Piraten so schnell wie möglich der Heiligen Inquisition übergeben.}
+Spa_Line_3_RockBrasilian.6 {Roc der Brasilianer wurde von mir in die sichere Obhut der Heiligen Inquisition übergeben. Jetzt kann ich mich bei Señor Francisco Oregon y Gascon melden.}
+Spa_Line_3_RockBrasilian.7
+{
+Heute habe ich @<MoneyTaken> aus den Verstecken von Roc the Brazilian beim Generalgouverneur abgeliefert.
+Ich muss noch @<MoneyElse> finden und abliefern, das entspricht @<QtyMoney> in Bündeln zu je 500 Piastern, genau wie der Brazilianer sein Geld aufbewahrte.
+}
+Spa_Line_3_RockBrasilian.8
+{
+Monsignore Antonio hat beim Brasilianer ganze Arbeit geleistet; er hat Informationen über verstecktes Geld auf Kuba, Hispaniola und in der Nähe von Belize preisgegeben. Insgesamt muss ich 500.000 Piaster finden und dem Generalgouverneur in Havanna übergeben. Das Beste daran ist, dass ein Fünftel des Geldes mir gehört.
+Ich beginne mit der Suche.
+}
+Spa_Line_3_RockBrasilian.9 {Ich muss in ein paar Tagen Gouverneur-General Oregon y Gascon aufsuchen.}
+Spa_Line_4_MirderDetection {Untersuchung des Mordes am Kommandanten von Havanna Jose Ramirez de Leyva}
+Spa_Line_4_MirderDetection.1
+{
+Eine völlig unerwartete Wendung in meinem Leben – ich bin zum Detektiv geworden. Don Francisco hat mir aufgetragen, den seltsamen Mord am Kommandanten von Havana, Don José Ramírez de Leyva, zu untersuchen. Er wurde in seinem eigenen Haus getötet, und vier seiner Diener lagen ebenfalls in Blutlachen – ein regelrechtes Massaker. Doch das Merkwürdigste an diesem Fall ist das rätselhafte Verschwinden von Don Josés Frau.
+Ich habe keine Ahnung, wo ich anfangen soll ...
+}
+Spa_Line_4_MirderDetection.2
+{
+Ich habe im Verlauf der Ermittlungen einige Fortschritte gemacht. Im Zimmer der vermissten Donna Anna Ramirez de Leyva habe ich einen unvollendeten Brief gefunden. Offenbar plante Donna Anna, zu fliehen, und verabschiedete sich auf diese Weise von ihrem Ehemann. Im Brief steht, dass sie Nachricht über die Ankunft einer Person erhalten hat, die sie zu jemand anderem bringen sollte. Diese Nachricht konnte sie nur von einem Einheimischen erhalten haben, auf keine andere Weise.
+Ich muss die Person finden, die Donna Anna diese Nachricht überbracht hat.
+}
+Spa_Line_4_MirderDetection.3
+{
+Also, die Kellnerin aus der Taverne hat Donna Anna einen Ring gebracht, den sie wiedererkannte. Nach dem Auftritt, den Don Juan gemacht hat, hat er wohl herausgefunden, dass Donna Anna fliehen wollte und auf jemanden wartete, der ihr helfen sollte. Er bewaffnete sich und seine Diener und lauerte auf diese Person, unterschätzte sie aber offensichtlich.
+Die Kellnerin meinte, er sah aus wie ein Ladrón. Ich denke, ich sollte den Generalgouverneur aufsuchen und ihm davon berichten.
+}
+Spa_Line_4_MirderDetection.4 {Der Gouverneur von Havana hat mir den Auftrag gegeben, nach Tortuga zu reisen, um die Ermittlungen in diesem rätselhaften Verbrechen fortzusetzen.}
+Spa_Line_4_MirderDetection.5 {Es ist mir gelungen, sowohl Donna Anna als auch den mutmaßlichen Mörder von Don Jose zu finden. Ich denke, ich sollte diesen Vertrauten des Generalgouverneurs d’Ogeron aufsuchen.}
+Spa_Line_4_MirderDetection.6
+{
+Es ist mir gelungen, den Mörder von Don Juan und den Entführer seiner Frau zu finden und zu bestrafen. Donna Anna werde ich nicht besuchen, denn ich bin dazu einfach nicht in der Lage. Außerdem habe ich dort nichts mehr zu suchen, wenn ihre Gefühle für d'Ogeron erwidert werden. Es sei denn, ich wollte Donna Anna selbst bestrafen – aber zum Mörder einer Frau werde ich ganz sicher nicht.
+Die Untersuchung ist abgeschlossen, ich kann nach Havanna zurückkehren.
+}
+Spa_Line_5_LaVegaAttack {Geschäftsreise nach Santiago}
+Spa_Line_5_LaVegaAttack.1
+{
+Ich stehe nun unter dem Befehl des Gouverneurs von Santiago, José Sancho Jiménez. Laut Don Francisco soll ich an einer wichtigen Militäroperation teilnehmen. Jiménez selbst wird mir den Auftrag erteilen.
+Ich mache mich auf den Weg nach Santiago – zum Glück ist es nicht weit von hier.
+}
+Spa_Line_5_LaVegaAttack.2 {Ich muss einen Angriff auf die Bukaniersiedlung La Vega auf der Insel Hispaniola führen. Diese Siedlung muss zerstört und ihre Bevölkerung vollständig ausgelöscht werden.}
+Spa_Line_5_LaVegaAttack.3
+{
+La Vega wurde eingenommen, Garnison und Bewohner wurden niedergemetzelt. Edward Mansfield fiel durch meine Hand.
+Jetzt – nach Santiago, zu Jimenez!
+}
+Spa_Line_5_LaVegaAttack.4 {Eine Belohnung von einhunderttausend Piastern aus der Stadt Santiago ist eingegangen. Ein gutes Geschäft...}
+Spa_Line_6_TakeMessangeer {Abfangen des Boten des niederländischen Generalgouverneurs}
+Spa_Line_6_TakeMessangeer.1 {Ich muss erneut heimlich nach Tortuga gelangen und den Boten des niederländischen Generalgouverneurs Peter Stuyvesant abfangen. Ich soll die diplomatische Korrespondenz zwischen den Niederländern und den Franzosen in meinen Besitz bringen. Ein Beglaubigungsschreiben der Dutch West India Company für eine Warenlieferung verschafft mir ungehinderten Zugang zum Hafen von Tortuga.}
+Spa_Line_6_TakeMessangeer.2 {Die Vollmacht der Dutch West India Company, die mir Don Juan so vorausschauend ausgestellt hat, wirkt Wunder. Der Hafenmeister hat sich bereit erklärt, mir zu helfen; jetzt muss ich auf seinen Boten warten, der mich über die Ankunft des Gesandten des niederländischen Generalgouverneurs informieren wird.}
+Spa_Line_6_TakeMessangeer.3 {Stuyvesants Bote, wie ich erfahren habe, ist ein niederländischer Offizier, der angekommen ist und sich nun bei Generalgouverneur d’Ogeron aufhält. Bald wird er die Residenz verlassen und zum Hafen gehen. Ich muss irgendwie an die Papiere kommen, die er bei sich trägt. Gewalt wäre eine Möglichkeit, aber besser wäre es, ihn mit List in eine Falle zu locken und unnötigen Aufruhr auf den Straßen zu vermeiden.}
+Spa_Line_6_TakeMessangeer.4 {Jetzt ins Zimmer der Taverne, dort warten wir auf den Boten...}
+Spa_Line_7_SavePardal {Manoel Rivero Pardal unterstützen}
+Spa_Line_7_SavePardal.1 {Ich muss so schnell wie möglich zur englischen Insel Antigua gelangen. In der Nähe der Insel jagt unser berühmter Freibeuter Manoel Rivero Pardal die Briten. Doch französische Bukaniere unter dem Kommando von Moise Vauclin haben vor, Pardal gefangen zu nehmen. Ich muss Manoel helfen, dieses Problem zu lösen.}
+Spa_Line_7_SavePardal.2 {Vor der Küste von Antigua traf ich auf Pardal, der gegen eine Übermacht von Freibeutern kämpfte. Gemeinsam gelang es uns, die Franzosen zu besiegen; der Auftrag des Señor Generalgouverneurs ist erfüllt.}
+Spa_Line_7_SavePardal.3 {Es ist mir nicht gelungen, Pardal aus der Klemme zu helfen. Quest gescheitert.}
+Spa_Line_7_SavePardal.4 {In einer erbitterten Schlacht nahe Antigua mit einem Freibeuter-Geschwader wurde Pardals Schiff "Escado" versenkt, und er ist ertrunken. Die Mission des Señor Generalgouverneurs ist gescheitert.}
+Spa_Line_8_SaveCumana {Verteidigung von Cumana gegen den Angriff des vereinten französisch-englischen Piratengeschwaders}
+Spa_Line_8_SaveCumana.1 {Ich habe einen neuen Auftrag vom spanischen Generalgouverneur Francisco Oregon y Gascon. Ein gemeinsames französisch-britisches Geschwader von Freibeutern unter dem Kommando von Kapitän Ansel steuert auf Cumana zu, um die Stadt einzunehmen. Ich muss der Garnison von Cumana helfen, den Angriff abzuwehren und die Flotte der Freibeuter zu besiegen.}
+Spa_Line_8_SaveCumana.2 {Ich habe es nicht rechtzeitig nach Cumana geschafft. Die Piraten haben ganze Arbeit geleistet – Cumana wurde geplündert und verwüstet.}
+Spa_Line_8_SaveCumana.3 {Ich habe es geschafft, rechtzeitig in Cumana anzukommen. Ich habe die Piraten angegriffen und alle ihre Schiffe versenkt. Cumana ist gerettet.}
+Spa_Line_8_SaveCumana.4 {Ich kam gerade noch rechtzeitig in Cumana an – die Piraten belagerten bereits die Stadt. Doch ich konnte nicht helfen; die Kräfte der Piraten waren zu stark. Ich musste mich zurückziehen...}
+Spa_Line_9_FourGolgGaleons {Eskortauftrag des Gouverneurs von Portobelo}
+Spa_Line_9_FourGolgGaleons.1 {Ich habe den Auftrag erhalten, mich beim Gouverneur von Portobelo zu melden.}
+Spa_Line_9_FourGolgGaleons.2
+{
+Also, der Auftrag ist erteilt. Ich muss vier mit Gold beladene Galeonen zu der unbewohnten Insel Cayman eskortieren. Dort wird eine spanische Marine-Eskadre auf uns warten, und ich soll die Galeonen an sie übergeben.
+Die gesamte Goldmenge auf allen Galeonen beträgt 5.000 Barren, was einem Gewicht von 10.000 Zentnern entspricht.
+}
+Spa_Line_9_FourGolgGaleons.3
+{
+Bei Cayman erwartete mich eine große Überraschung! Statt eines spanischen Militärgeschwaders patrouillierte dort ein Piratengeschwader mit fünf Schiffen. Ich griff sie an und versenkte alle Piraten, aber ich konnte nicht alle Galeonen retten – nur eine mit Gold beladene Galeone blieb übrig, die anderen sanken auf den Grund.
+Ich schätze, jetzt muss ich nach Havana zu Oregon y Gascon gehen, da er mich zum Gouverneur von Portobelo geschickt hat. Ich verstehe überhaupt nichts ...
+}
+Spa_Line_9_FourGolgGaleons.4
+{
+Bei Cayman erwartete mich eine große Überraschung! Statt eines spanischen Militärgeschwaders patrouillierte dort ein Piratengeschwader mit fünf Schiffen. Ich habe sie bekämpft und alle Piraten versenkt, aber nicht alle Galeonen retten können. Mir bleiben nur noch @<QtyGaleons> Galeonen, beladen mit Gold.
+Ich schätze, jetzt muss ich nach Havanna zu Oregon-y-Gascon gehen, denn er war es, der mich zum Gouverneur von Portobelo geschickt hat. Ich verstehe gar nichts mehr...
+}
+Spa_Line_9_FourGolgGaleons.5
+{
+Bei Cayman erwartete mich eine große Überraschung! Statt eines spanischen Marinegeschwaders patrouillierte dort ein Piratengeschwader mit fünf Schiffen. Ich griff sie an, versenkte alle Piraten und brachte alle mir unterstellten Galeonen sicher durch. Ohne falsche Bescheidenheit – eine ausgezeichnete Leistung.
+Ich nehme an, jetzt muss ich nach Havanna zu Oregon y Gascon gehen, schließlich war er es, der mich zum Gouverneur von Portobelo geschickt hat. Ich verstehe überhaupt nichts ...
+}
+Spa_Line_9_FourGolgGaleons.6
+{
+Bei Cayman erwartete mich eine große Überraschung! Statt eines spanischen Marinegeschwaders patrouillierte dort ein Piratengeschwader mit fünf Schiffen. Die Kräfte waren ungleich, und ich musste die Galeonen ihrem Schicksal überlassen und mich eilig aus dem Gebiet von Cayman zurückziehen.
+Ich schätze, jetzt muss ich wohl nach Havanna zu Oregon y Gascon gehen, da er mich zum Gouverneur von Portobelo geschickt hat. Ich verstehe gar nichts mehr ...
+}
+Spa_Line_10_Maracaibo {Verteidigung von Maracaibo gegen eine mögliche Invasion}
+Spa_Line_10_Maracaibo.1 {Ich habe einen neuen Auftrag. Ich muss dringend in die Stadt Maracaibo auf dem Festland reisen. Ich stehe unter dem Befehl des Gouverneurs der Stadt, um bei der Verteidigung gegen mögliche Angriffe zu helfen.}
+Spa_Line_10_Maracaibo.2 {Englische Piraten greifen Maracaibo an! Ich bin gerade noch rechtzeitig angekommen. Ich muss sofort zum Gouverneur – wir müssen unseren Handlungsplan abstimmen.}
+Spa_Line_10_Maracaibo.3 {Das englische Piratengeschwader wurde vernichtet.}
+Spa_Line_10_Maracaibo.4 {Das englische Piratengeschwader war zu stark für mich. Ich musste das Schlachtfeld verlassen und Maracaibo seinem Schicksal überlassen.}
+Spa_Line_11_DestrHolland {Zerstörung der niederländischen Kolonien}
+Spa_Line_11_DestrHolland.1 {Ich habe den Auftrag erhalten, die niederländischen Kolonien Willemstad auf der Insel Curaçao und Marigot auf der Insel Saint Martin zu überfallen.}
+Spa_Line_11_DestrHolland.2 {Willemstad wurde erobert und geplündert.}
+Spa_Line_11_DestrHolland.3 {Marigot wurde gestürmt und geplündert.}
+Spa_Line_12_OccupyPortPax {Eroberung von Port-au-Prince}
+Spa_Line_12_OccupyPortPax.1 {Wieder einmal habe ich den Auftrag erhalten, eine Stadt anzugreifen. Doch diesmal soll ich sie nicht nur plündern – ich soll die französische Kolonie auf Hispaniola, die Stadt Port-au-Prince, einnehmen.}
+Spa_Line_12_OccupyPortPax.2 {Port-au-Prince wurde erobert und ist von heute an eine spanische Kolonie.}
+Spa_Line_12_OccupyPortPax.2_none {/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Fra_Line_1_LegranDis {Bringe Pierre Legrand zur Bucht von Le Marin auf der Insel Martinique}
+Fra_Line_1_LegranDis.1 {Ich habe den Auftrag, den glücklichen Freibeuter Pierre Legrand zur Bucht von Le Marin auf der Insel Martinique zu eskortieren. Legrand wartet in der Taverne.}
+Fra_Line_1_LegranDis.2 {Legrand ist unter meinen Passagieren. Jetzt nach Martinique.}
+Fra_Line_1_LegranDis.3
+{
+Am Ufer der Bucht von Le Marin wartete bereits eine Bande Halunken auf uns. Wir mussten sie den Krabben zum Fraß vorwerfen.
+Pierre Legrand wurde abgeliefert, die Belohnung erhalten. Ich kann zu d’Ogeron zurückkehren.
+}
+Fra_Line_1_LegranDis.4
+{
+Am Ufer der Bucht von Le Marin wartete bereits eine Bande Halunken auf uns. Wir mussten sie den Krabben zum Fraß vorwerfen.
+Tja, und dann war es an der Zeit, sich um Legrand selbst zu kümmern. Es wäre töricht gewesen, so viel Geld entkommen zu lassen ...
+}
+Fra_Line_1_LegranDis.5
+{
+Am Ufer der Bucht von Le Marin wartete bereits eine Bande von Halunken auf uns. Wir mussten sie den Krabben zum Fraß vorwerfen.
+Das Schlimmste ist, dass Legrand selbst getötet wurde... Nun ja, so ist das Leben. Ich sollte wohl Pierres Taschen durchsuchen – sein Geld könnte mir nützlich sein.
+}
+Fra_Line_2_DelivLetter {Überbringung von d’Ogerons Brief zur Insel Curaçao}
+Fra_Line_2_DelivLetter.1 {Ein langweiliger Kurierauftrag – bringe so schnell wie möglich einen Brief zum Generalgouverneur Stuyvesant nach Curaçao und hole d’Ogerons Antwort zurück.}
+Fra_Line_2_DelivLetter.2 {Sie haben mich, @<sSex> des französischen Generalgouverneurs, wie einen gewöhnlichen Verbrecher ins Gefängnis geworfen! Irgendetwas stimmt hier nicht ...}
+Fra_Line_2_DelivLetter.3 {Ich bin frei. Technisch gesehen ist die Mission erfüllt und ich könnte nach Tortuga zurückkehren. Doch irgendetwas stimmt im dänischen Königreich nicht – ich werde versuchen, es herauszufinden.}
+Fra_Line_2_DelivLetter.4
+{
+Es sieht so aus, als wären Spanier in der Nähe von Curacao aktiv! Im Moment warten sie auf ihre Galeone, die in der Palm Shore Bay ankommen soll.
+Ich muss diese Galeone aufbringen und den Kapitän verhören – nur dann kann ich dem Gouverneur von Curacao mit Gewissheit sagen, dass die Bukaniere nichts mit den Problemen der Insel zu tun haben.
+}
+Fra_Line_2_DelivLetter.5 {Die spanische Galeone wurde erobert. Vom Kapitän habe ich die Bestätigung erhalten, dass es sich tatsächlich um das Schiff handelt, das vor Curaçao als Pirat unterwegs war. Ich muss alles dem niederländischen Generalgouverneur Stuyvesant melden.}
+Fra_Line_2_DelivLetter.6 {Ich habe eine Belohnung von Stuyvesant für das Versenken der Galeone erhalten. Jetzt kann ich beruhigt Kurs auf Tortuga nehmen.}
+Fra_Line_2_DelivLetter.7 {Der Wirt zeigte mir zwei verdächtig aussehende Männer. Ich versuchte, mit ihnen zu sprechen, doch sie rannten aus der Stadt. Letztlich konnte ich nichts Nützliches in Erfahrung bringen.}
+Fra_Line_3_TakeAnna {Finde einen Weg, Donna Anna nach Tortuga zu bringen}
+Fra_Line_3_TakeAnna.1 {Also bin ich nun der Vertraute von Gouverneur-General d’Ogeron: Er möchte, dass ich ihm bei seinen Liebesangelegenheiten helfe. Ich soll die Frau des Kommandanten von Havanna, Don Jose Ramirez de Leyva, nach Tortuga bringen.}
+Fra_Line_3_TakeAnna.2 {Die Kellnerin in der Taverne von Havana hat sich bereit erklärt, d’Ogerons Ring an Donna Anna Ramire de Leyva zu übergeben. Ich muss ein paar Tage warten, bis diese Schlitzohrin den richtigen Moment abpasst und tut, was sie versprochen hat.}
+Fra_Line_3_TakeAnna.3 {Ich habe Donna Annas Nachricht gelesen. Heute Nacht nach Mitternacht muss ich mich in de Leyvas Haus schleichen. Die Tür wird offen sein, und wir können leise entkommen.}
+Fra_Line_3_TakeAnna.4 {Quest abgeschlossen. Anna Ramirez de Leyva, nun eine Witwe, ist an Bord meines Schiffs. Ich nehme an, der Generalgouverneur wird sehr erfreut sein.}
+Fra_Line_3_TakeAnna.5 {Es ist mir nicht gelungen, die gestellte Aufgabe zu erfüllen. Anna ist nicht an Bord meines Schiffs. Die Mission ist gescheitert. Ich weiß nicht einmal, was ich d’Ogeron sagen soll.}
+Fra_Line_4_SoleiRoyal {Eskortiere das Linienschiff 'Soleil Royal' nach Guadeloupe}
+Fra_Line_4_SoleiRoyal.1
+{
+Ich wurde beauftragt, das Linienschiff Soleil Royal nach Dominica zu eskortieren. Der Generalgouverneur befürchtet, dass die Spanier dieses prächtige Schiff in ihre Gewalt bringen wollen.
+Ich muss mich beim Hafenmeister in Tortuga melden, um das Kommando über das Schiff zu übernehmen.
+}
+Fra_Line_4_SoleiRoyal.2 {Das prächtige Linienschiff Soleil Royal ist in meinem Geschwader. Jetzt Kurs auf Dominica.}
+Fra_Line_4_SoleiRoyal.3
+{
+d'Ogerons Befürchtungen waren berechtigt – in der Nähe von Dominica wurde ich von einem spanischen Geschwader angegriffen, doch das Geschwader aus Guadeloupe war nirgends zu sehen. Für mich ist jedoch alles gut ausgegangen. Die Spanier liegen auf dem Meeresgrund und die Soleil Royal ist noch immer seetüchtig.
+Der Gouverneur der Stadt Basse-Terre auf Guadeloupe sollte das französische Geschwader nach Dominica entsenden. Ich denke, ich muss den Gouverneur von Basse-Terre fragen, was passiert ist und warum er nicht getan hat, was er sollte.
+}
+Fra_Line_4_SoleiRoyal.4 {d'Ogerons Befürchtungen waren berechtigt – nahe Dominica wurde ich von einem spanischen Geschwader angegriffen, doch das Geschwader aus Guadeloupe war nirgends zu sehen. Es gelang mir, das spanische Geschwader zu versenken, aber die Soleil Royal wurde ebenfalls versenkt. Die Mission ist gescheitert.}
+Fra_Line_4_SoleiRoyal.5 {D’Ogerons Befürchtungen waren berechtigt – nahe Dominica wurde ich von einem spanischen Geschwader angegriffen, doch das Geschwader aus Guadeloupe war nirgends zu sehen. Die spanischen Kräfte waren überwältigend, und ich musste das Schlachtfeld verlassen und die Soleil Royal ihrem Schicksal überlassen. Letztlich sollte ein Linienschiff erster Klasse für sich selbst einstehen können...}
+Fra_Line_4_SoleiRoyal.6 {Das Schiff wurde abgeliefert, der Auftrag ist erfüllt. Zeit, nach Tortuga zurückzukehren.}
+Fra_Line_4_SoleiRoyal.7 {Es ist mir nicht gelungen, die Soleil Royal in meinem Geschwader zu halten.}
+Fra_Line_5_KillAnnaHanters {Rache an Doña Anna durch ihre Landsleute}
+Fra_Line_5_KillAnnaHanters.1 {Meine Bekannte Donna Anna hat einige Probleme. Ich muss sie finden und alles herausfinden, was sie weiß.}
+Fra_Line_5_KillAnnaHanters.2 {Ich reise nach Havana, um eine Verschwörung gegen Doña Ramirez de Leyva aufzudecken.}
+Fra_Line_5_KillAnnaHanters.3 {Ich habe erfahren, dass die Verwandten von Don Jose, den ich getötet habe, auf Rache aus sind und offenbar versuchen, nach Tortuga zu gelangen. Ich muss sie finden und die Bedrohung für Donna Annas Leben beseitigen. Außerdem werden sie früher oder später auch hinter mir her sein, also ist es besser, der Gefahr vorbereitet entgegenzutreten.}
+Fra_Line_5_KillAnnaHanters.4 {Ein Problem weniger. Doña Anna kann jetzt ruhig schlafen, und die furchteinflößenden kastilischen Adligen können wieder herkommen. Ich denke, ich werde auch den Neuankömmlingen im Dschungel einen angemessenen Empfang bereiten – ganz wie heute.}
+Fra_Line_6_Olone {Überbringe den Brief an den Freibeuter François L’Olonnais}
+Fra_Line_6_Olone.1 {Auf Guadeloupe muss ich den berüchtigten blutrünstigen Freibeuter Jean David, besser bekannt als François L’Olonnais, finden und ihm ein Paket vom Generalgouverneur d’Ogeron übergeben.}
+Fra_Line_6_Olone.2 {Der Brief wurde dem Empfänger übergeben. Die Belohnung war nicht gerade großzügig. Wie auch immer, der Auftrag ist erledigt, ich kann nach Tortuga zurückkehren.}
+Fra_Line_6_Olone.3 {Ich habe zugestimmt, am Angriff auf Cumaná als Teil von Olonnes Geschwader teilzunehmen. Kurs auf Cumaná!}
+Fra_Line_6_Olone.4 {Wir kamen zu spät nach Cumana, und es war kein Geld mehr übrig. L’Olonnais gab mir an allem die Schuld, und ich musste im Korsarenduell gegen ihn antreten.}
+Fra_Line_6_Olone.5 {Wir haben Cumaná eingenommen, das Geld aufgeteilt und sind dann getrennte Wege gegangen. Ein erfolgreicher Zug.}
+Fra_Line_6_Olone.6 {Olonne hat mich des Diebstahls der Beute beschuldigt. Ein Kampf ist unvermeidlich.}
+Fra_Line_6_Olone.7 {Als ich mich Guadeloupe näherte, wurde ich von einem spanischen Kriegsschiff angegriffen. Das scheint mir kein Zufall zu sein.}
+Fra_Line_6_Olone.8 {Ich wollte mit L’Olonnais nicht teilen. Das ist mein Geld!!!}
+Fra_Line_7_RockBras {Roc the Brazilian aus dem Gefängnis befreien}
+Fra_Line_7_RockBras.1
+{Roche den Brasilianer höchstpersönlich aus der Gefangenschaft der spanischen Inquisition zu befreien... das ist wohl noch schwieriger, als die ganze Stadt einzunehmen! Und wo genau er festgehalten wird, ist nicht bekannt...
+
+ Wie dem auch sei, selbst die abscheulichsten Verbrecher haben die Möglichkeit, vor Gottes Gericht Buße zu tun, bevor sie unter der Folter ihr Leben aushauchen. Ich vermute, dass der Hochwürden wissen muss, wo sich die Kasematten der Inquisition befinden...}
+Fra_Line_7_RockBras.2 {Ich habe Roc the Brazilian in der Zelle der Inquisition gefunden!!}
+Fra_Line_7_RockBras.3 {Ich bin auf meinem Schiff, und Roc the Brazilian ist unter meinen Passagieren. Die Aufgabe ist erledigt. Jetzt zu Gouverneur-General d'Ogeron.}
+Fra_Line_7_RockBras.4 {Nach meinen Abenteuern mit der Inquisition habe ich es endlich zu meinem Schiff geschafft. Doch Roca der Brasilianer ist nicht bei mir – er ist tot. Ich habe alles getan, was ich konnte; jetzt ist es Zeit, zu Gouverneur d’Ogeron zu gehen.}
+Fra_Line_8_ThreeCorsairs {Melde dich beim Kommando von Marquis Bonrepos}
+Fra_Line_8_ThreeCorsairs.1 {Neue geheime Spielchen der Herrscher! Ich soll mich umgehend nach Guadeloupe begeben, um einen unbekannten Auftrag von niemand Geringerem als Marquis Bonrepos persönlich zu erhalten – dem obersten Marineoffizier Frankreichs!}
+Fra_Line_8_ThreeCorsairs.2 {Sie haben versucht, mich festzunehmen! So einfach ist das nämlich nicht...}
+Fra_Line_8_ThreeCorsairs.3 {Anstatt seine Vasallen zu bezahlen, regelt der Sonnenkönig seine Angelegenheiten auf ihre Kosten! Das ist nicht der beste Auftrag, den ich je erhalten habe. Ich muss mich mit Piraten treffen: Morgan auf Jamaika, Jackman auf Bermuda und Morris auf Trinidad und Tobago. Ich soll sie davon überzeugen, nicht am Krieg gegen die Niederländer teilzunehmen.}
+Fra_Line_8_ThreeCorsairs.4 {Morgan hat mir eine ordentliche Summe abgenommen, aber am Kampf wird er nicht teilnehmen.}
+Fra_Line_8_ThreeCorsairs.5 {Jackman selbst hatte nicht vor, an diesem Krieg teilzunehmen.}
+Fra_Line_8_ThreeCorsairs.6 {Um Morris davon zu überzeugen, nicht am Krieg teilzunehmen, muss ich das Logbuch eines gewissen Captain Grey beschaffen, der sich irgendwo in Port Royal herumtreibt.}
+Fra_Line_8_ThreeCorsairs.7 {Morris wird nicht für Mediford arbeiten – dafür habe ich gesorgt.}
+Fra_Line_8_ThreeCorsairs.8 {Also, nach all diesen Abenteuern bin ich @<sSex>... Aber das Anwesen muss ich mir wohl selbst beschaffen. Nun, viele verbringen ihr ganzes Leben damit, einen Weg in die oberen Kreise der französischen Gesellschaft zu finden. Doch ich muss zugeben, so ein unrentables Unterfangen hatte ich noch nie!}
+Fra_Line_9_GuardPortPax {Abwehr des spanischen Angriffs auf Port-au-Prince}
+Fra_Line_9_GuardPortPax.1
+{
+Mir wurde das Linienschiff erster Klasse 'Soleil Royal' zugeteilt. Damit soll ich aktiv am Devolutionskrieg Frankreichs gegen Spanien teilnehmen.
+Meine erste Aufgabe wird es sein, Port-au-Prince zu verteidigen.
+Und noch eine Kleinigkeit — obwohl mir die 'Soleil Royal' anvertraut wurde, darf ich sie unter keinen Umständen verlieren.
+}
+Fra_Line_9_GuardPortPax.2 {Das spanische Geschwader, das Port-au-Prince angegriffen hat, wurde versenkt. Soleil Royal ist unversehrt, also ist alles in bester Ordnung. Die erste Mission wurde ehrenvoll erfüllt, und wir können nach Tortuga zurückkehren.}
+Fra_Line_9_GuardPortPax.3 {Das spanische Geschwader, das Port-au-Prince angegriffen hat, wurde versenkt – ein Erfolg. Allerdings ist auch die Soleil Royal untergegangen, und das ist wirklich, wirklich schlimm. Ich fürchte, Ärger ist jetzt unausweichlich.}
+Fra_Line_9_GuardPortPax.4
+{
+Verdammt, es waren so viele Spanier! Wie konnten sie hier in der Karibik eine so mächtige Flotte versammeln?
+Ich musste das Schlachtfeld verlassen. Port-au-Prince und das prächtige Schiff 'Soleil Royal' sind ihrem Schicksal überlassen. Die Mission ist gescheitert...
+}
+Fra_Line_9_GuardPortPax.5 {Ich habe es nicht rechtzeitig nach Port-au-Prince geschafft, die Stadt wurde von den Spaniern eingenommen, die Mission ist gescheitert.}
+Fra_Line_10_OccupySantoDomingo {Eroberung von Santo Domingo}
+Fra_Line_10_OccupySantoDomingo.1 {Als Reaktion auf den spanischen Versuch, Port-au-Prince einzunehmen, wurde mir der Auftrag erteilt, Santo Domingo zu erobern.}
+Fra_Line_10_OccupySantoDomingo.2 {Santo Domingo wurde erobert und hat Frankreich die Treue geschworen. Nun gehört die gesamte Insel Hispaniola Ludwig XIV. Gut gemacht.}
+Fra_Line_11_OccupySantaCatalina {Eroberung von Santa Catalina}
+Fra_Line_11_OccupySantaCatalina.1
+{
+Ein neuer Auftrag ist vom Generalgouverneur d’Ogeron eingetroffen, der allerdings dem vorherigen sehr ähnelt. Ich soll erneut eine spanische Stadt einnehmen—Santa Catalina.
+Die französische Regierung weiß, was sie tut—wer Santa Catalina kontrolliert, beherrscht die Perlenfischerei an der Westküste der Neuen Welt...
+}
+Fra_Line_11_OccupySantaCatalina.2 {Der Auftrag ist erfüllt – Santa Catalina ist eingenommen. Zeit, nach Tortuga zurückzukehren.}
+Fra_Line_12_EndOfWar {Treffen mit Marquis Bonrepos}
+Fra_Line_12_EndOfWar.1 {Ich muss in die Stadt Basse-Terre auf Guadeloupe reisen und mich mit Marquis Bonrepos treffen.}
+Fra_Line_12_EndOfWar.2 {Für meinen Dienst an Frankreich habe ich nie Geld erhalten. Also muss ich mir holen, was ich will.}
+Fra_Line_12_EndOfWar.2_NONE {//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Romantic_Line {Die Geschichte der schönen Isabella}
+Romantic_Line.1 {Als ich in ihrem Schlafzimmer erschien, schlug Donna Isabella Alarm und rief ihren Ehemann, der mir nicht zuhören wollte. Ich musste ihn auf andere Weise beruhigen – mit scharfem Stahl. Ich fürchte, jeder weitere Kontakt mit der schönen Spanierin ist nun unmöglich...}
+Romantic_Line.2 {Als ich in ihrem Schlafzimmer erschien, schlug Donna Isabella Alarm und rief nach ihrem Ehemann, doch er und ich hatten uns bereits kennengelernt und den Vorfall friedlich geklärt.}
+Romantic_Line.3 {Verdammt soll ich sein, wenn ich mir nicht das von Salvatore gestohlene Schatz hole! Aber wie komme ich ins Haus? Es wäre gut, mit den Besitzern Freundschaft zu schließen, damit ich ungehindert in die Gemächer der Frau gelangen kann. Hm, ich kann nur davon träumen, dass Don Salvatore selbst abwesend ist – das würde alles viel einfacher machen. Zuerst muss ich aber ihr Haus finden. Die Dame geht wahrscheinlich in die Kirche. Ich werde versuchen, den Priester in San Juan zu fragen.}
+Romantic_Line.4 {Anscheinend hat Don Salvatore Geldprobleme. Sehr merkwürdig. Habe ich mir das nur eingebildet, oder habe ich in Isabellas Blick wirklich mehr als bloße Dankbarkeit gesehen?}
+Romantic_Line.5
+{
+Warum bin ich nach San Juan gekommen? Ach ja, Attilas Juwelen, die hatte ich völlig vergessen... Eigentlich habe ich alles auf der Welt vergessen, als ich diese bezaubernde Frau sah. Was ist nur mit mir los? Ich wäre bereit, bis ans Ende der Welt zu rennen, nur um ihre Gunst zu gewinnen...
+Ich glaube, der Sturm hat die Brigg „Five Wounds of Christ“ in irgendeinen Hafen getrieben. Vielleicht musste sie nach Cumana zurückkehren.
+}
+Romantic_Line.6 {Ich habe den Kapitän der Brigg "Five Wounds of Christ" gefunden. Das Schiff wurde tatsächlich im Sturm beschädigt, und ich habe zugestimmt, Miguel de Valdes im Hafen zu treffen und ihn zu seiner Schwester zu bringen.}
+Romantic_Line.7 {Don Miguel de Valdes ist an Bord meines Schiffes. Ich eile nach San Juan, um die schöne Isabella zu sehen und das versprochene Lächeln zu erhalten!}
+Romantic_Line.8 {Die Ereignisse haben eine tragische Wendung genommen. Unbekannte Betrüger haben Isabellas Vater bestohlen. Ich hoffe, dass ich Isabella in dieser schweren Zeit beistehen kann. Sie hat mich eingeladen, sie heute Nacht um Mitternacht zum Abendessen zu besuchen.}
+Romantic_Line.9 {Das Rätsel um die Schuldscheine wurde also sehr schnell gelöst. Salvatore hat Isabellas Vater bestohlen und ihren Bruder getötet. Ich denke, ich sollte zuerst mit Isabella sprechen, bevor ich zur Obrigkeit gehe.}
+Romantic_Line.10
+{
+Was für ein Durcheinander! Dieser kleine Unruhestifter Salvatore hat mich beschuldigt, Isabellas Bruder getötet zu haben, und ist dann selbst verschwunden. Ich musste San Juan verlassen, sonst wäre ich verhaftet worden. Salvatore konnte ich nicht finden. Ich habe keine Ahnung, was ich jetzt tun soll...
+Wenn ich die Gelegenheit habe, sollte ich Attila alles erzählen – schließlich hat mit ihm alles angefangen...
+}
+Romantic_Line.11
+{
+Atilla hat versprochen, selbst alles über Salvatore herauszufinden. Er hat ein Treffen in seinem Haus in zwei Monaten vereinbart.
+Und vielleicht sollte ich noch einmal versuchen, in Isabellas Haus in San Juan zu gelangen? Einen Versuch ist es wert...
+}
+Romantic_Line.12 {In Salvatores Haus lauerten bezahlte Mörder auf mich.}
+Romantic_Line.13
+{
+Atilla hat herausgefunden, dass der Halunke Salvatore die Abreise von Isabella aus San Juan auf der Brigg "Enthusiastic" arrangiert hat. Die Brigg ist nach Portobelo unterwegs.
+Wenn ich Isabella lebend wiedersehen will, muss ich ihn innerhalb von 15-16 Tagen in der Nähe von Portobelo einholen.
+}
+Romantic_Line.14 {Ich habe die Piratenbrigg mit Isabella nicht eingeholt. Meine schlimmsten Befürchtungen beginnen sich zu bewahrheiten.}
+Romantic_Line.15 {Ich holte die Brigg "Enthusiastic" vor der Küste von Portobelo ein. Während des Gefechts sank die Brigg, und die dunklen Wasser schlossen sich über meiner Isabella. Eine Tragödie...}
+Romantic_Line.16 {Ich habe die Brigg "Vostorzhenny" vor der Küste von Portobelo eingeholt, aber es ist mir nicht gelungen, sie zu entern. Die Brigg konnte entkommen, und nun ist Isabella für immer verloren...}
+Romantic_Line.17 {Es gelang mir, die Brigg "Enthusiastic" zu entern. Isabella war an Bord, doch unser Wiedersehen verlief so schlecht wie nur möglich. Isabella glaubte kein einziges Wort von dem, was ich sagte, und wählte den Tod auf dem sinkenden Schiff. Ein trauriges Ende einer romantischen Geschichte...}
+Romantic_Line.18
+{
+Es ist mir gelungen, die Brigg "Vostorzhenny" zu entern. Gott sei Dank – Isabella war an Bord. Wir haben gesprochen, und nun muss ich die reizende Señora Isabella zu ihrer Cousine Rosita Fernandez nach Belize bringen.
+Doch zuerst sollte ich versuchen, denjenigen zu finden, der in Portobelo auf Isabella wartet. Ich sollte die Stadt gründlich durchsuchen...
+}
+Romantic_Line.19
+{
+Isabella wurde zu ihrem Cousin Fernandez nach Belize gebracht. Wir haben unsere Beziehung geklärt, und jetzt ist mir absolut klar, dass Isabella meine Gefühle erwidert. Jetzt muss ich sie so schnell wie möglich zur Witwe machen.
+Im Moment kann mir nur Attila helfen, Salvatore zu finden, also werde ich zu ihm gehen...
+}
+Romantic_Line.20 {Atilla hat mir erzählt, dass Salvatore vor etwa zwei Tagen nach Belize aufgebrochen ist! Es sieht so aus, als hätte er herausgefunden, wo Isabella jetzt ist. Ich muss mich beeilen...}
+Romantic_Line.21 {Es scheint, schlimmer könnte es nicht kommen – Isabella ist gestern zusammen mit ihrer Zofe von zu Hause verschwunden. Wir müssen sofort die Stadt und die Umgebung absuchen.}
+Romantic_Line.22
+{
+Salvator ist endlich tot. Isabella hat meinen Heiratsantrag angenommen – unter einer kleinen Bedingung: Ich soll der Kaperfahrt abschwören. Ich denke, ich habe genug Blut vergossen, und meine Braut ist schön und aufrichtig. Geld habe ich, also – auf in die Zukunft!
+In einem Monat wird Isabella in San Juan auf mich warten, und wir werden uns in der Kirche vor Ort das Jawort geben. Gesegnete Zeiten stehen bevor...
+}
+Romantic_Line.23 {Morgen früh muss ich zur örtlichen Kirche gehen, um an der Trauung teilzunehmen. Isabella ist eine wunderbare Frau...}
+Romantic_Line.24 {Ich habe das Haus gefunden, in dem Salvatore's Söldner sich versteckten und auf die Brigg mit Isabella warteten. Es gelang mir, mit ihnen fertigzuwerden, und auch Isabella besuchte das Haus und sah mit eigenen Augen, was sie dort erwartet hätte.}
+Romantic_Line.25
+{
+Mein Herz zerbricht vor Kummer!.. Im feierlichsten Moment der Trauung stürmte eine von Salvatore angeheuerte Bande von Banditen in die Kirche. Sie haben meine Frau Isabella getötet...
+Ich weiß nicht einmal, an wem ich mich für ihren Tod rächen soll – Salvatore ist schon tot, und die Banditen habe ich an Ort und Stelle getötet...
+Verdammt, ich bin der unglücklichste Mensch der Welt!!
+}
+Romantic_Line.26 {Ja, das war kaum vorstellbar! Wir wurden in der Kirche direkt während der Trauung angegriffen! Ich konnte sie abwehren, und ich hoffe, das war Salvatores letzter Überraschungsangriff...}
+Romantic_Line.27 {Ich habe mit dem örtlichen Gouverneur über den Vorfall in der Kirche gesprochen. Alles ist so gut wie möglich geregelt, also kann ich jetzt zu Isabella gehen.}
+Romantic_Line.28
+{
+Isabella erwies sich als harte Nuss. Folgende Bedingungen wurden mir gestellt:
+1. Um Stadt- und andere Steuern zu zahlen, muss ich jeden Monat @<IsabellaBuget> ins Haus bringen.
+2. Keine Kaperfahrten mehr. Das heißt, keine Städte oder Forts erobern, keine Schiffe versenken...
+Das Leben hat sich jedoch grundlegend verändert.
+}
+Romantic_Line.29
+{
+Die Tür ist verschlossen, sie lassen mich nicht ins Haus! Unglaublich...
+
+Ich sollte wohl mit meiner Cousine Rosita sprechen, die in Belize lebt. Von ihr werde ich erfahren, was hier los ist.
+}
+Romantic_Line.30 {Nun, Cousine Fernandez hat versprochen, dafür zu sorgen, dass Isabella mir endlich die Tür öffnet. Es scheint, als sei dieses Problem entstanden, weil ich so lange nicht zu Hause war.}
+Romantic_Line.31
+{
+Was für ein Durcheinander! Dieser kleine Unruhestifter Salvatore hat mich beschuldigt, Isabellas Bruder getötet zu haben, und ist dann selbst verschwunden. Ich konnte Salvatore nicht finden. Ich habe keine Ahnung, was ich jetzt tun soll...
+Wenn ich die Gelegenheit habe, sollte ich Attila alles erzählen – schließlich hat das alles mit ihm angefangen...
+}
+Romantic_Line.31_NONE {//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////}
+Ascold {Suche nach Mumienpulver}
+Ascold.1 {@<sName>, der Besitzer des Ladens in @<sCity>, hat mich um einen Gefallen gebeten. Falls ich irgendwo Mumienpulver finde, soll ich es dem Ladenbesitzer bringen. Er hat einen guten Kunden für diesen ziemlich seltsamen Artikel. Es scheint ums Geld zu gehen. Ich denke, es lohnt sich, das anzunehmen.}
+Ascold.2 {Ich muss das gefundene Mumienpulver zu Askold bringen, der auf der Insel Guadeloupe in der Stadt Basse-Terre lebt.}
+Ascold.3 {Ich habe mich bereit erklärt, für Askold drei Gegenstände der indigenen Verehrung zu finden: die Tlaloc-Statuette, ein zeremonielles Gefäß und ein zeremonielles Messer.}
+Ascold.4 {Die drei gesuchten indianischen Artefakte wurden gefunden. Askold hat mich gebeten, ab und zu vorbeizuschauen, aber im Moment hat er keine lukrativen Aufträge für mich.}
+Ascold.5 {Askold hat mich wieder einmal verwirrt. Ich muss die Situation bezüglich der Sammlung indianischer Kultgegenstände in Havanna klären. Außerdem brauche ich ein Verzeichnis dieser Gegenstände.}
+Ascold.6
+{
+Aus meinem Gespräch mit dem Tavernenwirt habe ich erfahren, dass die Bewohner von Havana beim Beladen eines Linienschiffs geholfen haben. Um welches Schiff es sich handelte und wohin es fuhr, ist unklar.
+Ich muss jemanden finden, der Licht ins Dunkel bringen kann. Askold erwähnte einige Freunde, die ihm gegen Bezahlung Informationen gaben. Ich sollte nach diesem Informanten Ausschau halten.
+}
+Ascold.7
+{
+Vom spanischen Offizier Fernando Gonzalez, einem Freund und Informanten von Askold, habe ich erfahren, dass das betreffende Linienschiff zur Amatique-Bucht südlich von Belize unterwegs ist. Auf dem Weg soll es auf der Cayman-Insel Halt machen.
+Er erzählte mir außerdem, dass die Spanier unweit der Bucht, im Landesinneren des Festlands, einen indianischen Tempel gefunden haben, in dem eine Expedition arbeitet. Offenbar wird ein groß angelegter Abtransport von Wertgegenständen nach Spanien vorbereitet, und die Amatique-Bucht sowie die Cayman-Insel dienen als Sammelpunkte für spanische Schiffe.
+}
+Ascold.8 {Ich muss alle spanischen Schiffe versenken, die sich bei Cayman Island versammelt haben, und außerdem alle Spanier bei den Tempelruinen unweit der Amatique Bay ausschalten.}
+Ascold.9 {Das spanische Geschwader ist vernichtet! Verdammt, ich habe es geschafft!}
+Ascold.9_1 {Der Feind war zu stark für mich – ich musste mich zurückziehen, ohne das spanische Geschwader zu vernichten. Ich kehre zu Askold zurück.}
+Ascold.10 {Ich habe die Inventarliste besorgt und an Askold übergeben.}
+Ascold.11 {Nachdem ich die Pyramide betreten hatte, geriet ich in einen Hinterhalt. Wenn es mir gelingt, auch diese Soldaten zu besiegen, ist die Aufgabe erledigt.}
+Ascold.12 {Ich habe eine Menge Arbeit geleistet, aber von Askold habe ich immer noch kein Geld bekommen. Ich muss warten, bis das Geld von seinem Gönner aus Frankreich bei ihm eintrifft.}
+Ascold.13
+{
+Askold hat mir aufgetragen, irgendein Grab von Gott-weiß-wem auf der Insel Guadeloupe zu finden. Dann machen wir uns mal auf die Suche.
+Es erscheint mir sinnlos, das Logbuch mit Einträgen über meine Angelegenheiten mit Askold zu füllen, also verschwende ich dafür kein Papier mehr.
+}
+Ascold.14 {Die Spanier an der Pyramide wurden ausgeschaltet.}
+Azzy_HellSign {Aktuelle Nachricht an die Abonnenten des Büros der Hölle}
+Azzy_HellSign.1
+{
+Absender: Abteilung der Hölle für Menschenbuchhaltung.
+Aktueller Kontostand für den Unverwundbarkeitsvertrag des Kunden @<sName>.
+Tägliches Vertragskontingent des Kunden: @<DayQuota>.
+Gesamtes Vertragskontingent gemäß vertraglicher Verpflichtungen: @<AllQuota>.
+Vom Kunden im Rahmen der vertraglichen Verpflichtungen getötete Gesamtzahl: @<CurKilled>.
+Aktueller Abrechnungssaldo: @<CurBalance>.
+}
+Azzy_HellSign.2 {Für die Nichterfüllung Ihrer vertraglichen Verpflichtungen wurde Ihnen Folgendes abgezogen: @<Penalty>.}
+BerglarsGang {Eine Frage von Leben und Tod}
+BerglarsGang.1 {In den Straßen von @<sCity> traf ich einen scheinbar respektablen Bürger, der, nachdem er meinen Namen erfahren hatte, ein „Anliegen von Leben und Tod“ besprechen wollte. Er lehnte es ab, in die Taverne zu gehen, und schlug stattdessen das nächste Verlies vor, da er ohne neugierige Blicke und Ohren sprechen wollte. Er wird bis Sonnenuntergang heute im nächsten Verlies warten. Ich sollte hingehen.}
+BerglarsGang.2 {Na sowas! Die „Sache von Leben und Tod“ entpuppte sich als altbekannte Falle für Raub und Mord, und derjenige, der mich hineingelockt hat, war ein erfahrener Bandit. Er meinte, er müsse mich unbedingt töten, und dass der Schein trügt – das sollte ich mir wohl für die Zukunft merken... Was das wohl zu bedeuten hat? Gibt es etwa mehrere von seiner Sorte im Archipel? Hm...}
+BerglarsGang.3 {So etwas ist mir schon einmal passiert: Ein Mann sprach mich in der Stadt @<sCity> an, fragte nach meinem Namen und machte mir ein sehr dringendes, geheimnisvolles Angebot. Das ist nun schon die zweite Person, die ein Treffen mit mir an einem abgelegenen Ort wie diesem arrangiert. Er sieht nicht wie ein Kopfgeldjäger aus, aber nach meiner Erfahrung mit dem ersten Treffen sollte ich wachsam bleiben. Was, wenn er mich ebenfalls tot sehen will? Sie warten bis zum Sonnenuntergang auf mich; wenn ich das verpasse, hat es keinen Sinn, ihn noch zu suchen.}
+BerglarsGang.4 {Mein Gespür hat mich nicht getäuscht. Wie erwartet, hat der Halunke versucht, mich auszurauben. Er war etwas überrascht, als er erfuhr, dass er nicht der Erste war, mit dem ich es zu tun hatte. Doch statt weiterzureden, zog er den Kampf vor. Und noch etwas... Es scheint, dass hier eine organisierte Bande am Werk ist. Ich sollte herausfinden, wer sie sind. War das nur Zufall, oder hat jemand es gezielt auf mich abgesehen?}
+BerglarsGang.5
+{
+Die Lage wird immer interessanter. Schon wieder bin ich auf den Straßen von @<sCity> einem Mann begegnet, der wirres Zeug über „Optimaten“, irgendwelche „Proskriptionen“ und noch vieles andere Unverständliche redete. Richtig überrascht war ich allerdings, als er behauptete, ich hätte „zweimal“ einer tödlichen Falle entkommen! Woher weiß er das? Offenbar handelt es sich um eine Bande, die sich auf das Töten von Kapitänen spezialisiert hat.
+Und trotz seiner offensichtlichen geistigen Probleme konnte der ehemalige Wiederholungstäter mir zu jedem Mitglied ein paar Dinge erzählen:
+Erstens: Clever Nick, aus irgendeinem Grund auch „Anti-Guaro“ genannt. Er mag die Regel der drei Farben: Grün, Orange und Rot. Am liebsten mag er Orange. Vielleicht ein Ire?
+Zweitens: Der Alte Schildkröten-Chevalier, also ein Franzose mit guten Beziehungen zur feinen Gesellschaft. Er soll im März geboren sein. Aber was interessiert mich sein Geburtsmonat?
+Drittens: Bloody Sideburns auf Cocos Island. Wahrscheinlich erkennt man ihn an buschigen Koteletten und einem finsteren Gesicht. Aber was ist dieses Cocos Island?
+Viertens: Green-Skinned, wie er genannt wurde, hitzköpfig und leicht reizbar, und ein Toquilla-Hut würde ihm guttun. Irgendetwas war auch mit seinem Sehvermögen. Ehrlich gesagt, bezweifle ich, dass mir das weiterhilft.
+Fünftens: The Cooper, ein ehemaliger Zimmermann, der seine Opfer gern in kleinen Booten aufs Meer schickt! Interessant war auch die Erwähnung von Indian Carthage. Unsinn oder ein Hinweis?
+Sechstens: The Jolly Gardener, der keinen Trubel mag und neben seinem Garten mit seltsam gefärbten Pflanzen lebt. Wahrscheinlich vergräbt er dort seine Opfer, ganz sicher. Ach ja, da war noch die Rede von einer Catherine of Alexandria...
+Und was den Anführer angeht, den „God-Demiurge“, hat er den Namen – Austin, wenn ich richtig gehört habe – beiläufig erwähnt.
+Es scheint, als hätte der arme Kerl in diesem Strom aus wirren Rätseln sogar sich selbst und diejenigen genannt, die ich bereits gesehen habe. Was soll ich machen, eine klarere Erklärung konnte ich ihm nicht entlocken. Eines ist jedoch klar – ich muss Austin erreichen, bevor sie merken, dass ich zwei von ihnen ausgeschaltet habe. Das Wichtigste ist, vorsichtig zu handeln und sie nicht zu verschrecken. Wenn ich auch nur einen Banditen übersehe, komme ich nicht an Austin heran! Ich hoffe nur, der Verrückte hat endgültig den Verstand verloren und verrät mich nicht.
+}
+BerglarsGang.6 {Verdammt, warum konnte ich nicht einfach den Mund halten. Ich hätte auf den Verrückten hören sollen! Kaum habe ich erwähnt, dass ich schon zu Treffen in den Verliesen gerufen wurde, ist der Halunke erschrocken und abgehauen. Ich bin sicher, die anderen werden sich auch in ihren Löchern verkriechen...}
+BerglarsGang.7
+{
+Den nächsten zu finden war gar nicht so einfach und ging natürlich nicht ohne ein paar Hinweise... Aber! Ein weiterer von Austins Räubern war in der Stadt @<sCity> und scheint nichts über mich zu wissen, außer meinem Namen. Diesmal wird mir ein besonderes Stück angeboten – der Jade-Schädel. Wie klischeehaft: Ich bin sicher, er hat gar nichts. Trotzdem musste ich mitspielen. Soll er ruhig glauben, alles läuft nach ihrem raffinierten Plan.
+Der Treffpunkt ist das Verlies, vor Sonnenuntergang. Wie immer. Ich werde versuchen, ihm etwas über Austin zu entlocken.
+}
+BerglarsGang.8 {Kein Wunder, dass es ein Geldbetrug von Austins Bande war. Eine Einigung war nicht möglich. Vielleicht ist der Gegner beim nächsten Mal kooperativer. Doch das Wichtigste ist – sie ahnen wirklich immer noch nichts! Indem sie diesen Verrückten getötet haben, dachten sie, das Risiko entdeckt zu werden, sei beseitigt. Sie haben sich geirrt! Vier sind es schon. Wir suchen weiter.}
+BerglarsGang.9 {Verdammt... Das Gespräch mit dem Ostianer lief völlig schief, und ich habe mich eindeutig verraten. Natürlich ist er abgehauen, vermutlich direkt zum Boss.}
+BerglarsGang.10 {In der Stadt @<sCity> ist wieder einer von Austins Leuten auf meinen Köder hereingefallen. Diesmal bietet er einen besonders lukrativen Transportauftrag an, und wie immer soll ich vor Sonnenuntergang im nächsten Verlies erscheinen. Hoffentlich ist er nicht so stur wie der letzte.}
+BerglarsGang.11 {Was ist das denn – auch dieser hier hat beschlossen, die Geheimnisse der Bande nicht preiszugeben. Hat Austin ihnen solche Angst eingejagt, oder sind sie ihm einfach so treu? Ich werde weitersuchen, wenn ich kann.}
+BerglarsGang.12 {Anscheinend hat Austin endlich herausgefunden, wer sich in der Karibik um seine Handlanger kümmert. Denn diesmal hat sein Mann in der Stadt @<sCity> keine Ausflüchte gemacht und mir einfach ausgerichtet, dass Austin persönlich mich treffen will. Ich soll vor Sonnenuntergang in den Kerker kommen. Ich habe das Gefühl, das ist wieder eine Falle.}
+BerglarsGang.13 {Und doch habe ich es geschafft! Alle Mitglieder von Austins Bande sind erledigt, und ich habe Informationen über den ungefähren Aufenthaltsort des Anführers dieser Mörderbande. Er hat sich geschickt versteckt – weit weg von allen! Ich muss mit ihm persönlich sprechen. Ich sollte ihn in den Siedlungen bei den Perlenfischereien an der Westküste von Main suchen. Es gibt nur zwei Siedlungen: entweder von der Amatique-Bucht südlich von Belize aus oder zur San Juan del Norte-Bucht südlich von Santa Catalina. Ich muss beide überprüfen – wahrscheinlich hat er dort ein Haus. Ich sollte mich beeilen, Austin könnte es sich anders überlegen!}
+BerglarsGang.14 {Es ist vollbracht – Austin ist seiner Bande ins Jenseits gefolgt. Man muss ihm lassen: Er verstand es, Menschen zu überreden und zu manipulieren, aber bei mir zog dieser Trick nicht. Der gerissene Kerl wollte gewöhnliche Morde in Kellern und Katakomben mit dem Kaperwesen gleichsetzen und dabei mein Gewissen ansprechen! Im Gegensatz zu ihm riskiere ich auf See persönlich meinen Hals und gebe meinen Gegnern immer die Chance, sich zu ergeben – die Entscheidung zwischen Stolz und Leben liegt bei ihnen.}
+BerglarsGang.15 {Offenbar bin ich entweder aus Eile oder Unachtsamkeit nicht rechtzeitig zum Treffen im Kerker erschienen. Diese Gelegenheit ist für immer verloren – vielleicht sogar ein ganzes Abenteuer?}
+BerglarsGang.16 {Jetzt wird Austin untertauchen, und ich werde ihn nie wiederfinden!}
+QM_Port_Royal {Fundort des geschenkten Gegenstands in Port Royal}
+QM_Port_Royal.1 {In Port Royal hat mir eine Frau namens @<sName> für die richtige Antwort auf ihre Frage verraten, wo ich einen Offizierskürass finden kann. Er ist auf Jamaika in der Portland Bay versteckt.}
+QM_Port_Of_Spein {Standort des geschenkten Gegenstands in Port of Spain}
+QM_Port_Of_Spein.1 {In Port of Spain hat mir ein Mann namens @<sName> für die Beantwortung einer Frage eine Schatzkarte gegeben. Es ist Zeit, mit der Suche zu beginnen!}
+QM_Port_Of_Spein.2 {In Port of Spain hat mir ein Mann namens @<sName> auf meine Frage geantwortet, dass ich in der Piratensiedlung La Vega in das Fort gehen soll. Links unter dem Fenster des Steinhauses ist ein Steinschlossgewehr im Boden versteckt. Ich muss hingehen und es holen.}

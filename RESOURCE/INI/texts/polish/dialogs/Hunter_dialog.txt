@@ -1,0 +1,231 @@
+Hunter_dialog_1 {
+@<GetFullName>! Tropiliśmy cię przez długi czas i w końcu jesteś w naszych rękach.
+}
+Hunter_dialog_2 {
+Kim jesteście i czego ode mnie chcecie?
+}
+Hunter_dialog_3_m {
+@<XI_ConvertString> zapłaciła za twoją głowę niezłą sumę, nieważne, czy dostarczymy cię żywego, czy martwego.
+}
+Hunter_dialog_3_f {
+@<XI_ConvertString> zapłaciła niezłą sumę za twoją głowę, bez względu na to, czy dostarczymy cię żywą, czy martwą.
+}
+Hunter_dialog_4_m {
+Jestem gotów zapłacić wam jeszcze więcej, bylebyście dali mi spokój.
+}
+Hunter_dialog_4_f {
+Jestem gotowa zapłacić wam jeszcze więcej, bylebyście dali mi spokój.
+}
+Hunter_dialog_5_m {
+Proszę wybaczyć, ale chyba mnie z kimś pomyliliście. Jestem znanym w tych stronach kupcem. Nazywam się @<GetFullName>.
+}
+Hunter_dialog_5_f {
+Proszę wybaczyć, ale chyba się pan pomylił. Jestem zwykłą dziewczyną, a mój ojciec to znany w tych stronach kupiec. Nazywa się @<GetFullName>.
+}
+Hunter_dialog_6 {
+No dobrze, spróbujcie swojego szczęścia.
+}
+Hunter_dialog_7 {
+O! Najwyraźniej się pomyliliśmy, proszę nam wybaczyć, @<GetAddress_Form>.
+}
+Hunter_dialog_8 {
+Oczywiście, zdarza się...
+}
+Hunter_dialog_9 {
+Wygląda na to, że kłamiesz!
+}
+Hunter_dialog_10_m {
+Jestem gotów zapłacić wam jeszcze więcej, bylebyście dali mi spokój.
+}
+Hunter_dialog_10_f {
+Jestem gotowa zapłacić wam więcej, bylebyście dali mi spokój.
+}
+Hunter_dialog_11 {
+No dobrze, spróbujcie swojego szczęścia.
+}
+Hunter_dialog_12 {
+Myślę, że @<FindMoneyString> nam odpowiada.
+}
+Hunter_dialog_13 {
+Nie mam takich pieniędzy.
+}
+Hunter_dialog_14 {
+Oto wasze pieniądze, bierzcie je i znikajcie.
+}
+Hunter_dialog_15 {
+Taką sumę wam, dranie... Lepiej już wszystkich was tutaj potnę!
+}
+Hunter_dialog_16 {
+W takim razie rozmowa skończona!
+}
+Hunter_dialog_17_m {
+Żywego mnie nie pojmiecie.
+}
+Hunter_dialog_17_f {
+Żywego mnie nie pojmiecie.
+}
+Hunter_dialog_18_m {
+Zaczekaj, przyjacielu... Wydaje mi się, że masz coś ciekawego. Skarbami znalezionymi trzeba się dzielić z bliskimi.
+}
+Hunter_dialog_18_f {
+Zaczekaj, przyjaciółko... Wydaje mi się, że masz coś ciekawego. Skarbami znalezionymi trzeba się dzielić z bliskimi.
+}
+Hunter_dialog_19_m {
+Dobrze, jestem gotów zapłacić, bylebyście dali mi spokój.
+}
+Hunter_dialog_19_f {
+Dobrze, jestem gotowa zapłacić, bylebyście dali mi spokój.
+}
+Hunter_dialog_20_m {
+Proszę wybaczyć, ale chyba się pan pomylił. Jestem tu dobrze znaną osobą, a nie żadnym poszukiwaczem skarbów. Nazywam się @<GetFullName>! Słyszał pan o mnie?
+}
+Hunter_dialog_20_f {
+Proszę wybaczyć, ale chyba się pan pomylił. Jestem zwykłą dziewczyną, a nie poszukiwaczką skarbów! Mój ojciec to znana postać w tych stronach. Nazywa się @<GetFullName>! Słyszał pan o nim?
+}
+Hunter_dialog_21 {
+Cóż, nadszedł czas, by wasze głowy rozstały się z ciałem.
+}
+Hunter_dialog_22 {
+O! Najwyraźniej się pomyliliśmy, proszę nam wybaczyć, @<GetAddress_Form>.
+}
+Hunter_dialog_23 {
+Oczywiście, zdarza się...
+}
+Hunter_dialog_24 {
+Wygląda na to, że kłamiesz!
+}
+Hunter_dialog_25 {
+W takim razie posłuchaj, jak śpiewa moja szabla.
+}
+Hunter_dialog_26 {
+A oto i nasze złoto się pojawiło. Nie na darmo cię tu wyczekiwaliśmy.
+}
+Hunter_dialog_27_m {
+O czym mówicie, panowie? Jestem przedstawicielem Holenderskiej Kompanii Zachodnioindyjskiej i jestem tu tylko przejazdem! Zatrzymałem się, żeby podziwiać wybrzeże!
+}
+Hunter_dialog_27_f {
+O czym mówicie, panowie? Jestem przedstawicielką Holenderskiej Kompanii Zachodnioindyjskiej i jestem tu tylko przejazdem! Zatrzymałam się, żeby podziwiać wybrzeże!
+}
+Hunter_dialog_28_m {
+Wydaje mi się, że myli mnie pan z kimś innym. Jestem przyrodnikiem Jacques François Paganel i zbieram okazy miejscowej flory. Czy chciałby pan zobaczyć moją kolekcję liści jukki? Można tu znaleźć naprawdę ciekawe egzemplarze!
+}
+Hunter_dialog_28_f {
+Wydaje mi się, że myli mnie pan z kimś innym. Jestem Maria-Teresa, przyrodniczka, i zbieram okazy miejscowej flory. Chciałby pan zobaczyć moją kolekcję liści jukki? Można tu znaleźć naprawdę ciekawe egzemplarze!
+}
+Hunter_dialog_29 {
+@<RandPhraseSimple>
+}
+Hunter_dialog_30 {
+Czego chcesz?! Zejdź mi z drogi!
+}
+Hunter_dialog_31_m {
+Ej, nie, panie dobry. Tak to nie przejdzie... Dobrze wiemy, że mapa @<GetName> trafiła do ciebie. A on był niezłym sknerą, jego kufry pękały od piastrów. Więc z pustymi rękami nie odejdziemy.
+}
+Hunter_dialog_31_f {
+Ej, nie, kochanieńka. Tak to nie przejdzie... Dobrze wiemy, że mapa @<GetName> trafiła do ciebie. A on był niezłym sknerą, jego kufry pękały od piastrów. Więc z pustymi rękami nie odejdziemy.
+}
+Hunter_dialog_32 {
+Masz rację. Skrzynie były pełne. Ale nie dostaniesz ich. Możesz zajrzeć do jaskini, zostały tam jeszcze dwa dziurawe wiadra.
+}
+Hunter_dialog_33 {
+Masz rację, zabierz swoje skarby. Ale nie przyniosą ci szczęścia — zbyt wiele krwi na nich ciąży...
+}
+Hunter_dialog_34_m {
+Ach, kapitanie. Taki młody, całe życie jeszcze przed tobą...
+}
+Hunter_dialog_34_f {
+Ech, dziewczyno. Taka młoda, całe życie było jeszcze przed tobą...
+}
+Hunter_dialog_35 {
+A ja wcale nie zamierzam umierać!
+}
+Hunter_dialog_36 {
+To są rozsądne słowa człowieka myślącego trzeźwo!
+}
+Hunter_dialog_37 {
+Niech was diabli wezmą razem z tymi skarbami...
+}
+Hunter_dialog_38_m {
+Hej, przyjacielu! @<GetName> powiedział, że masz coś dla nas.
+}
+Hunter_dialog_38_f {
+Hej, przyjaciółko! @<GetName> mówił, że masz coś dla nas.
+}
+Hunter_dialog_39 {
+Co ma pan na myśli?
+}
+Hunter_dialog_40 {
+Mapa @<GetName>
+}
+Hunter_dialog_41 {
+Weźcie to i przekażcie pozdrowienia @<GetName>. Powiedzcie, że wkrótce się spotkamy...
+}
+Hunter_dialog_42 {
+@<GetName> bardzo się myli, jeśli myśli, że będę dla niego wyciągać kasztany z ognia.
+}
+Hunter_dialog_43_m {
+Błyskotki, które zwędziłeś gubernatorowi.
+}
+Hunter_dialog_43_f {
+Błyskotki, które ukradłaś gubernatorowi.
+}
+Hunter_dialog_44 {
+Weźcie to i przekażcie pozdrowienia @<GetName>. Powiedzcie, że wkrótce się spotkamy...
+}
+Hunter_dialog_45 {
+@<GetName> bardzo się myli, jeśli myśli, że będę dla niego wyciągać kasztany z ognia.
+}
+Hunter_dialog_46_m {
+Hej, przyjacielu! @<GetName> ma do ciebie kilka pytań.
+}
+Hunter_dialog_46_f {
+Hej, koleżanko! @<GetName> ma do ciebie kilka pytań.
+}
+Hunter_dialog_47 {
+A czemu sam ich nie zada?
+}
+Hunter_dialog_48_m {
+Nie na twoim poziomie... Przez ciebie operacja się nie powiodła i straciliśmy @<FindMoneyString>. Masz więc dług do spłacenia.
+}
+Hunter_dialog_48_f {
+Nie na twoim poziomie... Przez ciebie operacja się nie powiodła i straciliśmy @<FindMoneyString>. Masz więc u mnie dług.
+}
+Hunter_dialog_49 {
+Weźcie to i przekażcie pozdrowienia @<GetName>. Powiedzcie, że wkrótce się spotkamy...
+}
+Hunter_dialog_50 {
+@<GetName> bardzo się myli, jeśli myśli, że będę dla niego wyciągać kasztany z ognia.
+}
+Hunter_dialog_51_m {
+Nie masz tylu pieniędzy! Cóż, dokonałeś już wyboru...
+}
+Hunter_dialog_51_f {
+Nie masz tyle pieniędzy! Cóż, dokonałaś już wyboru...
+}
+Hunter_dialog_52 {
+Dawno...
+}
+Hunter_dialog_53_m {
+No cóż, dokonałeś już wyboru...
+}
+Hunter_dialog_53_f {
+No cóż, dokonałaś już wyboru...
+}
+Hunter_dialog_54 {
+Dawno...
+}
+Hunter_dialog_55 {
+wyspy @<LanguageConvertString>
+}
+Hunter_dialog_56 {
+kontynentu
+}
+Hunter_dialog_57 {
+mapa
+}
+Hunter_dialog_58 {
+kosztowności
+}
+Hunter_dialog_59 {
+pieniądze
+}

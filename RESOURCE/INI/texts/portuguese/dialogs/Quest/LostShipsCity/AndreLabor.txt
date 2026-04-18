@@ -1,0 +1,498 @@
+AndreLabor_1 {
+Bem-vindo à Cidade dos Navios Perdidos, capitão. Eu sou @<GetFullName>. E então, o que acha do nosso clima? Bem agitado, não é?!
+}
+AndreLabor_2 {
+“Diversão” é pouco para descrever!.. @<GetFullName> às suas ordens, monsieur @<npchar>. Isso acontece com frequência por aqui?
+}
+AndreLabor_3 {
+Bem-vindo à Cidade dos Navios Perdidos, capitão. Eu sou @<GetFullName>.
+}
+AndreLabor_4 {
+@<GetFullName> às suas ordens, monsieur @<npchar>. De onde você é?
+}
+AndreLabor_5 {
+O que você queria, @<GetAddress_Form>?
+}
+AndreLabor_6 {
+Escute, estou procurando por alguém. Você sabe onde ele está agora?
+}
+AndreLabor_7 {
+Tenho uma pergunta para você.
+}
+AndreLabor_8 {
+Tem alguma história interessante para me contar?
+}
+AndreLabor_9 {
+Quais são as novidades na cidade?
+}
+AndreLabor_10_m {
+Ah, eu adoraria ouvir as últimas fofocas...
+}
+AndreLabor_10_f {
+Ah, eu adoraria ouvir as últimas fofocas...
+}
+AndreLabor_11 {
+@<LinkRandPhrase>
+}
+AndreLabor_12 {
+Nada...
+}
+AndreLabor_13 {
+E aí, camarada, tudo bem? Como vai a vida?
+}
+AndreLabor_14 {
+Acontece, @<GetAddress_Form>... No começo, eu morria de medo em dias assim, mas agora já me acostumei.
+}
+AndreLabor_15 {
+Entendo... Me diga, de onde você é?
+}
+AndreLabor_16 {
+Naquela época, fui aprendiz do mestre do estaleiro em Tortuga e, depois, servi como carpinteiro a bordo da fragata 'Andromeda'. Infelizmente, acabamos no lugar errado na hora errada.
+}
+AndreLabor_17 {
+O que aconteceu?
+}
+AndreLabor_18 {
+Aconteceu tanta coisa, @<GetAddress_Form>, tanta coisa. E tudo de uma vez, você consegue imaginar? Primeiro, os escravizados se revoltaram e, bem no meio de tentar conter isso, fomos atacados por caçadores de recompensas — porque tínhamos alguém a bordo que eles procuravam.\nComeçou uma luta feroz no convés, e então uma tempestade caiu sobre nós — ou melhor, parecia que fomos arrastados direto para o meio dela. Depois disso, nossa fragata bateu em rochas ou recifes, começou a entrar água e afundou. Consegui me agarrar a um barril vazio e me amarrei nele. Isso salvou minha vida. Fiquei à deriva no oceano por um dia inteiro até ser trazido para cá.
+}
+AndreLabor_19 {
+Ousado...
+}
+AndreLabor_20 {
+Você quer mesmo sair daqui, não é?
+}
+AndreLabor_21 {
+E você acha que isso é possível?
+}
+AndreLabor_22 {
+Não sei, nunca ouvi falar de algo assim. Se eu tivesse a chance de criar algo desse tipo, com certeza tentaria. Mas é proibido pela lei...
+}
+AndreLabor_23 {
+Ou talvez a gente tente juntos?
+}
+AndreLabor_24_m {
+Não, camarada, estou fora. Com o nosso almirante, você pode acabar no fundo antes mesmo de levantar âncora.
+}
+AndreLabor_24_f {
+Não, mademoiselle, vou deixar passar. Com o nosso almirante, você pode acabar no fundo antes mesmo de levantar âncora.
+}
+AndreLabor_25 {
+É... Foi bom te conhecer, @<npchar>. Se cuida.
+}
+AndreLabor_26_m {
+Você é um ladrão! Está violando a Lei da Cidade!
+}
+AndreLabor_26_f {
+Você é um ladrão! Está violando a lei da cidade!
+}
+AndreLabor_27_m {
+Ora, veja só! Eu só desviei o olhar por um instante, e você já mergulhou de cabeça no baú! Ele quebrou a lei!
+}
+AndreLabor_27_f {
+Ora, veja só! Bastou eu me distrair um instante, e você já mergulhou de cabeça no baú! Ela quebrou a Lei!
+}
+AndreLabor_28_m {
+Guardas! Ladrões!!! Parem ele, quebrou a lei!
+}
+AndreLabor_28_f {
+Guardas! Ladrões!!! Parem ela, ela quebrou a lei!
+}
+AndreLabor_29 {
+@<LinkRandPhrase>
+}
+AndreLabor_30 {
+A-argh, droga!!!
+}
+AndreLabor_31 {
+Ah, então é assim?! Resolveu vasculhar os baús, foi?! Agora o povo da cidade e a milícia vão acabar com você feito um trapo velho!
+}
+AndreLabor_32 {
+Que tola ela é!..
+}
+AndreLabor_33 {
+Olha, é melhor guardar sua arma. Você está me deixando um pouco nervoso...
+}
+AndreLabor_34 {
+Olha, por aqui a gente não fica brandindo espada. Guarde sua arma.
+}
+AndreLabor_35_m {
+Ei, por que você está correndo por aí feito os Três Mosqueteiros, brandindo sua espada? Guarde essa arma, isso não combina com um homem sério...
+}
+AndreLabor_35_f {
+Ei, por que você está correndo por aí feito um dos Três Mosqueteiros, brandindo sua espada? Guarde essa arma, isso não combina com uma dama...
+}
+AndreLabor_36 {
+@<LinkRandPhrase>
+}
+AndreLabor_37 {
+Certo.
+}
+AndreLabor_38 {
+Tudo bem.
+}
+AndreLabor_39 {
+Como você quiser...
+}
+AndreLabor_40 {
+@<LinkRandPhrase>
+}
+AndreLabor_41_m {
+Ouça, como cidadão da Cidade, peço que não ande por aqui com a espada desembainhada.
+}
+AndreLabor_41_f {
+Olha, como cidadão da Cidade, peço que não ande por aqui com a espada desembainhada.
+}
+AndreLabor_42 {
+Tudo bem.
+}
+AndreLabor_43 {
+Certo.
+}
+AndreLabor_44 {
+Como quiser...
+}
+AndreLabor_45 {
+@<LinkRandPhrase>
+}
+AndreLabor_46_m {
+Cuidado nas curvas quando estiver correndo com uma arma na mão. Posso acabar me assustando...
+}
+AndreLabor_46_f {
+Não gosto quando as pessoas passam na minha frente com as armas em punho. Isso me assusta...
+}
+AndreLabor_47_m {
+Entendido.
+}
+AndreLabor_47_f {
+Entendi.
+}
+AndreLabor_48 {
+Vou guardar.
+}
+AndreLabor_49 {
+@<RandPhraseSimple>
+}
+AndreLabor_50 {
+E quem você está procurando?
+}
+AndreLabor_51 {
+Não entendo de quem você está falando. Preciso saber o nome e o sobrenome dessa pessoa.
+}
+AndreLabor_52 {
+Entendido. Vou tentar nomear de novo.
+}
+AndreLabor_53_m {
+Obrigado, prefiro procurar eu mesmo.
+}
+AndreLabor_53_f {
+Obrigado, prefiro procurar eu mesmo.
+}
+AndreLabor_54 {
+Mas sou eu!
+}
+AndreLabor_55_m {
+Ora, veja só, eu realmente te encontrei!
+}
+AndreLabor_55_f {
+Ora, veja só, acabei te encontrando afinal!
+}
+AndreLabor_56 {
+@<GetFullName>, você está falando dele?
+}
+AndreLabor_57 {
+Sim, sim, é ele mesmo.
+}
+AndreLabor_58 {
+Não, não sobre ele. Deixe-me nomear de novo.
+}
+AndreLabor_59 {
+@<GetFullName>, você está falando dela?
+}
+AndreLabor_60 {
+Sim, é esse mesmo.
+}
+AndreLabor_61 {
+Não, não sobre ela. Ouça, deixe-me tentar nomear de novo.
+}
+AndreLabor_62 {
+Sabe, não quero mais perguntar sobre ninguém. Adeus.
+}
+AndreLabor_63 {
+Então diga seu nome e sobrenome mais uma vez.
+}
+AndreLabor_64 {
+Não sei, faz tempo que não o vejo.
+}
+AndreLabor_65 {
+Sei lá onde ele está...
+}
+AndreLabor_66 {
+Faz tempo que não o vejo, então não saberia dizer.
+}
+AndreLabor_67 {
+@<LinkRandPhrase>
+}
+AndreLabor_68 {
+Entendido.
+}
+AndreLabor_69 {
+Que pena...
+}
+AndreLabor_70 {
+@<RandPhraseSimple>
+}
+AndreLabor_71 {
+Faz bastante tempo que não a vejo, infelizmente.
+}
+AndreLabor_72 {
+Não faço ideia de onde ela está agora.
+}
+AndreLabor_73 {
+Hmm, não sei onde ela pode estar agora.
+}
+AndreLabor_74 {
+@<LinkRandPhrase>
+}
+AndreLabor_75 {
+Entendi.
+}
+AndreLabor_76 {
+Que pena...
+}
+AndreLabor_77 {
+@<RandPhraseSimple>
+}
+AndreLabor_78 {
+Ele está aqui, neste navio. Procure com mais atenção.
+}
+AndreLabor_79 {
+Ha, então ele está aqui, neste navio!
+}
+AndreLabor_80 {
+Ele está neste navio — estranho você ainda não tê-lo visto.
+}
+AndreLabor_81 {
+@<LinkRandPhrase>
+}
+AndreLabor_82 {
+Eu o vi há pouco tempo @<npchar>.
+}
+AndreLabor_83 {
+Encontrei com ele recentemente em @<npchar>. Então procure por ele lá.
+}
+AndreLabor_84 {
+Até onde eu sei, neste momento ele está em @<npchar>.
+}
+AndreLabor_85 {
+@<LinkRandPhrase>
+}
+AndreLabor_86 {
+Então ele está bem aqui, @<npchar>. Olhe com mais atenção.
+}
+AndreLabor_87 {
+Mas ele está bem aqui, entre nós!
+}
+AndreLabor_88 {
+Está olhando para onde? Ele está por aqui, escondido.
+}
+AndreLabor_89 {
+@<LinkRandPhrase>
+}
+AndreLabor_90 {
+Eu o vi recentemente @<npchar>.
+}
+AndreLabor_91 {
+Encontrei com ele recentemente em @<npchar>. Então procure por ele lá.
+}
+AndreLabor_92 {
+Pelo que sei, neste momento ele está em @<npchar>.
+}
+AndreLabor_93 {
+@<LinkRandPhrase>
+}
+AndreLabor_94 {
+Ah, entendi. Obrigado.
+}
+AndreLabor_95 {
+Obrigado!
+}
+AndreLabor_96 {
+@<RandPhraseSimple>
+}
+AndreLabor_97 {
+Ela está aqui, neste navio. Procure com mais atenção.
+}
+AndreLabor_98 {
+Ha, então ela está aqui, neste próprio navio!
+}
+AndreLabor_99 {
+Ela está neste navio — estranho você ainda não tê-la visto.
+}
+AndreLabor_100 {
+@<LinkRandPhrase>
+}
+AndreLabor_101 {
+Eu a vi recentemente, @<npchar>.
+}
+AndreLabor_102 {
+Conheci ela recentemente, @<npchar>. Chegamos até a conversar.
+}
+AndreLabor_103 {
+Até onde sei, ela está atualmente em @<npchar>.
+}
+AndreLabor_104 {
+@<LinkRandPhrase>
+}
+AndreLabor_105 {
+Então ela está bem aqui, @<npchar>. Olhe com mais atenção.
+}
+AndreLabor_106 {
+Mas ela está bem aqui, entre nós!
+}
+AndreLabor_107 {
+Onde você está olhando? Ela está por aqui em algum lugar.
+}
+AndreLabor_108 {
+@<LinkRandPhrase>
+}
+AndreLabor_109 {
+Eu a vi há pouco tempo, @<npchar>.
+}
+AndreLabor_110 {
+Conheci ela recentemente, @<npchar>. Chegamos até a conversar.
+}
+AndreLabor_111 {
+Até onde sei, ela está atualmente em @<npchar>.
+}
+AndreLabor_112 {
+@<LinkRandPhrase>
+}
+AndreLabor_113 {
+Ah, entendi. Obrigado, @<GetAddress_FormToNPC>.
+}
+AndreLabor_114 {
+Obrigado!
+}
+AndreLabor_115 {
+@<RandPhraseSimple>
+}
+AndreLabor_116_m {
+Estou ouvindo, amigo.
+}
+AndreLabor_116_f {
+Estou ouvindo atentamente, mademoiselle.
+}
+AndreLabor_117 {
+Me diga, como esses navios conseguem se manter à tona durante uma tempestade?
+}
+AndreLabor_118 {
+Por que ninguém se une contra essas proibições na Lei?
+}
+AndreLabor_119 {
+Escute, você sabe de onde veio esta Cidade?
+}
+AndreLabor_120 {
+Já houve algum navio ou esquadra que tenha chegado aqui sem antes naufragar?
+}
+AndreLabor_121 {
+Altos funcionários e oficiais realmente nunca acabam aqui?
+}
+AndreLabor_122 {
+Sem perguntas. Desculpe...
+}
+AndreLabor_123 {
+Não faço ideia. E eu não recomendaria descobrir — é perigoso demais.
+}
+AndreLabor_124 {
+Por que é perigoso?
+}
+AndreLabor_125 {
+Heh, para descobrir, você teria que mergulhar sob os navios. E quem mergulha lá embaixo, não volta...
+}
+AndreLabor_126 {
+Agora entendi.
+}
+AndreLabor_127 {
+Hmm, unir forças? Bem, tente a sorte — que o vento encha suas velas tortas. Eu... nós gostamos de execuções, gostamos de ver gente como você sumindo aos poucos nas profundezas do mar.
+}
+AndreLabor_128 {
+Não estou ansioso para ver o mundo debaixo d’água.
+}
+AndreLabor_129 {
+Como é que eu vou saber! Sou só um carpinteiro, não fico pensando nessas coisas de filosofia natural.
+}
+AndreLabor_130 {
+E então, você tem alguma opinião?
+}
+AndreLabor_131 {
+Mais ou menos, de modo geral. Acho que há recifes embaixo da Cidade, e é isso que está prendendo todos aqueles navios. O primeiro ficou preso, depois outro se enroscou nele, e aí toda aquela confusão só foi se acumulando.
+}
+AndreLabor_132 {
+Ha! Teoria interessante...
+}
+AndreLabor_133 {
+Não posso dizer que me lembro disso.
+}
+AndreLabor_134 {
+Mas isso é possível?
+}
+AndreLabor_135_m {
+Só se acontecer um milagre. Pense bem—pedras e recifes por toda parte...
+}
+AndreLabor_135_f {
+Só se acontecer um milagre. Pensa bem—rochas e recifes por toda parte...
+}
+AndreLabor_136 {
+Hmm, com certeza.
+}
+AndreLabor_137 {
+Eles apanham, para onde mais poderiam ir.
+}
+AndreLabor_138 {
+E daí?
+}
+AndreLabor_139 {
+E daí? Kapper é um pirata!
+}
+AndreLabor_140 {
+Ele está matando eles?
+}
+AndreLabor_141 {
+De jeito nenhum. Se perceberem a tempo qual é o seu lugar e para onde todos os seus privilégios já foram, podem continuar vivos.
+}
+AndreLabor_142 {
+Engraçado.
+}
+AndreLabor_143 {
+Sim, está tudo bem.
+}
+AndreLabor_144 {
+Ei, você não consegue construir algum tipo de embarcação? Talvez uma jangada ou um barquinho...
+}
+AndreLabor_145 {
+Heh, você ao menos conhece a Lei? Isso é proibido!
+}
+AndreLabor_146 {
+Vamos lá! Você ajudou o Teaser Dan, então ajude também os outros que precisam.
+}
+AndreLabor_147_m {
+Teaser Dan? Ora!.. Você realmente me surpreendeu, camarada. Teaser Dan está morto.
+}
+AndreLabor_147_f {
+Teaser Dan? Ora!.. Você realmente me surpreendeu, bela. Teaser Dan está morto.
+}
+AndreLabor_148 {
+Neste momento específico, sim. Mas antes, não. Heh-heh...
+}
+AndreLabor_149 {
+Hmm, tem algo estranho aqui... Sabe de uma coisa, vamos conversar sobre isso em outro lugar. Você sabe onde está a corveta 'Protector'? Vá até lá e me espere na cabine. Eu vou depois, assim não andamos juntos e não levantamos suspeitas.
+}
+AndreLabor_150 {
+Boa ideia! Tenho novidades para contar que acho que vão te deixar muito feliz. Então não me faça esperar.
+}
+AndreLabor_151 {
+Eu estarei lá, você tem minha palavra!
+}
+AndreLabor_152 {
+Certo, vou te esperar no 'Protector'.
+}

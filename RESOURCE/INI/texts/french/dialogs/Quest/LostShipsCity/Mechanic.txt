@@ -1,0 +1,900 @@
+Mechanic_1_m {
+Bonjour! Alors c’est toi le héros qui a réussi à arriver jusqu’à moi?
+}
+Mechanic_1_f {
+Bonjour! Alors c’est toi l’héroïne qui a réussi à arriver jusqu’à moi?
+}
+Mechanic_2 {
+Oui, c'est moi.
+}
+Mechanic_3_m {
+Vous êtes un voleur! Violation de la loi de la ville!
+}
+Mechanic_3_f {
+Tu es un voleur! Tu enfreins la loi de la ville!
+}
+Mechanic_4_m {
+Eh bien, regarde-moi ça! J’ai détourné les yeux un instant, et tu as plongé la tête la première dans le coffre! Il a enfreint la Loi!
+}
+Mechanic_4_f {
+Eh bien, regarde-moi ça! J’ai détourné les yeux un instant, et tu as plongé la tête la première dans le coffre! Elle a enfreint la Loi!
+}
+Mechanic_5_m {
+Milice! Au voleur! Arrêtez-le, il a enfreint la loi!
+}
+Mechanic_5_f {
+Milice! Au voleur! Arrêtez-la, elle a enfreint la loi!
+}
+Mechanic_6 {
+@<LinkRandPhrase>
+}
+Mechanic_7 {
+A-ah, zut alors!!!
+}
+Mechanic_8 {
+Ah, c’est comme ça?! Tu as décidé de fouiller dans les coffres, hein?! Maintenant, les habitants et les gardes vont te mettre en pièces comme une vieille loque!
+}
+Mechanic_9 {
+Quel imbécile!
+}
+Mechanic_10_m {
+Hé, tu pourrais peut-être ranger ton arme. Tu me rends un peu nerveux...
+}
+Mechanic_10_f {
+Écoute, tu devrais peut-être ranger ton arme. Tu me rends un peu nerveux...
+}
+Mechanic_11 {
+Tu sais, ici on ne brandit pas les lames n’importe comment. Range ton arme.
+}
+Mechanic_12_m {
+Hé, pourquoi brandis-tu cette lame? Range ton arme, ce n’est pas digne d’un jeune homme respectable...
+}
+Mechanic_12_f {
+Hé, pourquoi brandis-tu cette lame devant moi? Range ton arme, ce n’est pas ainsi qu’une vraie dame devrait se comporter...
+}
+Mechanic_13 {
+@<LinkRandPhrase>
+}
+Mechanic_14 {
+D’accord.
+}
+Mechanic_15 {
+Très bien.
+}
+Mechanic_16 {
+Comme vous voulez...
+}
+Mechanic_17 {
+@<LinkRandPhrase>
+}
+Mechanic_18_m {
+Écoutez, en tant que citoyen de cette ville, je vous demande de ne pas vous promener ici l’arme à la main.
+}
+Mechanic_18_f {
+Vous savez, en tant que citoyen de cette ville, je vous demande de ne pas vous promener ici l’arme à la main.
+}
+Mechanic_19 {
+D’accord.
+}
+Mechanic_20 {
+D’accord.
+}
+Mechanic_21 {
+Comme vous voulez...
+}
+Mechanic_22 {
+@<LinkRandPhrase>
+}
+Mechanic_23_m {
+Fais attention dans les virages quand tu cours avec une arme à la main. Mieux vaut la ranger, par précaution...
+}
+Mechanic_23_f {
+Je n’aime pas quand des gens se promènent ici avec leurs armes dégainées. Ça me met un peu mal à l’aise…
+}
+Mechanic_24_m {
+Compris.
+}
+Mechanic_24_f {
+Compris.
+}
+Mechanic_25 {
+Je le range.
+}
+Mechanic_26 {
+@<RandPhraseSimple>
+}
+Mechanic_27_m {
+Très bien, très bien... Auriez-vous l’amabilité de me dire votre nom, jeune homme courageux?
+}
+Mechanic_27_f {
+Très bien, très bien... Auriez-vous l’amabilité de me donner votre nom, jeune demoiselle courageuse?
+}
+Mechanic_28 {
+Je m'appelle capitaine @<GetFullName>. Et vous êtes, si je ne me trompe pas, Henrik Wedeker, qu’on appelle le Mécanicien.
+}
+Mechanic_29 {
+C’est exact!... Mais comment me connaissez-vous?
+}
+Mechanic_30 {
+Oh, mieux vaut ne pas demander, c’est une longue histoire...
+}
+Mechanic_31 {
+Tout de même, j’aimerais écouter. Vous savez, cela fait longtemps que je n’ai pas eu de compagnie normale. Même les “Caspers” évitaient de me parler. À propos du clan Casper… Est-ce que, par hasard, vous vous êtes occupé de tous?
+}
+Mechanic_32_m {
+Tous, sans exception. Et avant ça, j’ai aussi anéanti le clan « Narwhal ».
+}
+Mechanic_32_f {
+Chacun d’eux. Et avant cela, j’ai aussi envoyé le clan « Narwhal » à la potence.
+}
+Mechanic_33 {
+Hé hé, alors la Ville est débarrassée de ces bandits? Eh bien, je vous tire mon chapeau, comme on dit.\nMaintenant, auriez-vous l’amabilité de me dire ce qui vous a poussé à accomplir de tels exploits?
+}
+Mechanic_34_m {
+Comment dire... Vous voyez, je suis venu sur cette île de mon propre chef, pour enquêter sur l’affaire Teaser Dan. Et maintenant, je veux juste partir d’ici.
+}
+Mechanic_34_f {
+Comment dire... Voyez-vous, je suis venu sur cette île de ma propre initiative, pour enquêter sur l’affaire Teaser Dan. Et maintenant, je veux juste partir d’ici.
+}
+Mechanic_35 {
+Teaser Dan? Tu connaissais Teaser?
+}
+Mechanic_36 {
+Pas exactement, mais je peux dire qu’il est arrivé sain et sauf sur le continent. Malheureusement, il a été tué par des agents de la Compagnie néerlandaise des Indes occidentales.
+}
+Mechanic_37 {
+C’est dommage. Tu sais, c’est moi qui lui ai construit le navire avec lequel il est parti en mer d’ici.
+}
+Mechanic_38 {
+Ah oui? Et comment a-t-il réussi à t’atteindre en passant devant les “Kaspers”?
+}
+Mechanic_39 {
+Il naviguait souvent à bord du « Fernando Diffindur ». Lors d’un de ces voyages, j’étais sur ma plateforme, en train de me préparer à plonger...
+}
+Mechanic_40 {
+Plongée?
+}
+Mechanic_41 {
+Oui... Je t’expliquerai plus tard. Donc, on s’est rencontrés, on a parlé, et j’ai tout fait pour qu’il reparte d’ici et raconte cette île aux autres.
+}
+Mechanic_42 {
+Bien qu’il ait atteint son objectif, ce sont les récits sur la Ville qui ont causé sa perte. La Compagnie néerlandaise des Indes occidentales pense que d’immenses richesses sont cachées dans la Ville, et leur apparition soudaine sur le marché pourrait briser l’influence de la Compagnie. Dans ce cas, leur domination sur le commerce s’effondrerait complètement.
+}
+Mechanic_43 {
+Ça semble douteux, mais je ne suis pas trésorier non plus. Très bien. Donc, Teaser a tenu la promesse qu’il m’avait faite, jusqu’au bout, même au péril de sa vie. Dommage que ça se soit terminé ainsi pour lui.
+}
+Mechanic_44_m {
+C’est bien dommage, évidemment. Tu sais, tant de braves gens sont morts récemment que je n’ai même plus la force de pleurer...
+}
+Mechanic_44_f {
+C’est dommage, bien sûr. Tu sais, tant de braves gens sont morts récemment que je suis tout simplement trop fatigué pour encore pleurer...
+}
+Mechanic_45 {
+Eh bien, ne nous attardons pas sur des choses tristes. Tu sais, ta Compagnie hollandaise a raison au sujet des trésors de la Ville. On trouve de tout ici. Et encore plus... sous l’eau.
+}
+Mechanic_46 {
+Sérieusement? Et comment le sais-tu?
+}
+Mechanic_47_m {
+Je l’ai vu de mes propres yeux... Mais peu importe, ce sera pour une autre fois. Pour l’instant, jeune homme, dis-moi ce qui se passe en ville et pourquoi tu es venu me voir.
+}
+Mechanic_47_f {
+Je l’ai vu de mes propres yeux... Mais peu importe, ce sera une histoire pour plus tard. Pour l’instant, dites-moi, ma chère dame, que se passe-t-il en ville et qu’est-ce qui vous amène jusqu’à moi?
+}
+Mechanic_48_m {
+L’amiral Chad Capper dirige la ville. Les habitants vivent selon la Loi, et l’une de ses règles interdit de construire tout type de navire. Quant à moi, j’ai entendu parler du Mécanicien et j’ai décidé qu’il fallait absolument que je vous rencontre, quoi qu’il arrive. Voilà tout...
+}
+Mechanic_48_f {
+L’amiral Chad Capper dirige la ville. Les habitants vivent selon la Loi, et l’une de ses règles interdit de construire tout type de navire. Quant à moi, j’ai entendu parler du Mécanicien et j’ai décidé qu’il fallait absolument que je vous rencontre, quoi qu’il arrive. Voilà, c’est tout...
+}
+Mechanic_49 {
+Chad Capper tient toujours fermement les rênes de la Ville, comme auparavant...
+}
+Mechanic_50_m {
+Dans le passé... Hé... Eh bien, je ne dirais pas que la situation était stable. Deux clans ont été anéantis l’un après l’autre, des citoyens assassinés. Les gens sont mécontents de l’amiral et de sa milice — après tout, c’est à eux d’assurer la sécurité de tous!
+}
+Mechanic_50_f {
+Dans le passé... Hé... Disons que la situation n’était pas vraiment stable. Deux clans ont été anéantis l’un après l’autre, des citoyens assassinés. Les gens sont mécontents de l’amiral et de sa milice — après tout, c’est à eux d’assurer la sécurité de tous!
+}
+Mechanic_51_m {
+Vous savez, jeune homme, je ne serais pas du tout surpris d’apprendre que l’amiral est, d’une façon ou d’une autre, derrière tout ce qui se passe en ville.
+}
+Mechanic_51_f {
+Vous savez, mademoiselle, je ne serais pas du tout étonné si l’amiral était, d’une façon ou d’une autre, derrière tout ce qui se passe en ville.
+}
+Mechanic_52 {
+Et tu aurais raison. Mais maintenant, je mène ma propre partie. Et la preuve, c’est l’absence du clan Caspar à bord du brick “San Gabriel.”
+}
+Mechanic_53 {
+Hmm, je me doutais que le clan Casper collaborait avec Capper, donc je ne peux qu’être d’accord avec toi. Eh bien, grâce à toi, la vie dans la Ville a pas mal changé...
+}
+Mechanic_54 {
+C’est exact! Et maintenant, je propose que nous organisions une élection pour le poste d’amiral. Je souhaite présenter ma candidature.
+}
+Mechanic_55_m {
+Quels choix, garçon! Il faut sauver notre peau tant qu’il en est encore temps.
+}
+Mechanic_55_f {
+Quels choix, fille! Il faut d’abord sauver notre peau avant qu’il ne soit trop tard.
+}
+Mechanic_56 {
+De quoi parles-tu?
+}
+Mechanic_57 {
+Tu sais pourquoi on m’appelle le Mécanicien?
+}
+Mechanic_58_m {
+Je sais. C’est toi qui as trouvé comment attacher les navires de la Ville ensemble. Et d’après ce que j’ai entendu, fabriquer ce genre de chose ne te pose aucun problème.
+}
+Mechanic_58_f {
+Je sais. Tu as trouvé un moyen d’attacher les navires de la Ville ensemble. Et d’après ce que j’ai entendu, fabriquer quelque chose comme ça ne te pose aucun problème.
+}
+Mechanic_59 {
+Très bien. Tu te doutes sûrement que je connais la Ville mieux que n’importe quel autre habitant. Et puis, cette fois, je ne fais pas de suppositions : je parle avec une certitude absolue, car j’ai étudié la structure de la Cité des Navires Perdus sous l’eau.
+}
+Mechanic_60 {
+Sous l’eau?
+}
+Mechanic_61 {
+Oui. Il y a quelques années, j’ai fabriqué une combinaison pour respirer sous l’eau. Je m’en suis servi pour plonger à plusieurs reprises, chaque fois que j’en avais l’occasion. Et laissez-moi vous dire ceci : la Ville sera sûrement détruite par une grande tempête.
+}
+Mechanic_62 {
+À ma connaissance, les tempêtes ne sont pas rares dans cette région...
+}
+Mechanic_63 {
+Toi aussi, là-bas! Ne discute pas avec moi, c’est une question de vie ou de mort!
+}
+Mechanic_64 {
+D’accord, d’accord... Alors, qu’est-ce que tu disais à propos de respirer sous l’eau?
+}
+Mechanic_65 {
+Je suis allé sous l’eau, j’ai examiné les récifs. Écoute, toute la Ville repose sur seulement trois navires échoués sur les récifs. Le reste n’est qu’assemblé autour de ces trois-là! Tu te rends compte de ce que ça signifie?
+}
+Mechanic_66 {
+Oui, ce n’est pas une idée agréable... Mais si la Ville se libère, qu’est-ce qui va se passer? On va se retrouver à la dérive?
+}
+Mechanic_67 {
+Rien de tout cela! Permettez-moi de citer : « Pas de pitié! — et il lâchera les chiens de guerre, pour que le monde entier reconnaisse la cruauté à l’odeur des cadavres réclamant une sépulture. »
+}
+Mechanic_68 {
+C’est Shakespeare… Tu veux dire que la tempête sera comme la fureur de Marc Antoine, vengeant César?
+}
+Mechanic_69 {
+Euh... De quoi tu parles?
+}
+Mechanic_70_m {
+Tu devrais lire davantage, garçon. C’est « Jules César », une tragédie de William Shakespeare.
+}
+Mechanic_70_f {
+Vous devriez lire davantage, mademoiselle. C’est « Jules César » — une tragédie de William Shakespeare.
+}
+Mechanic_71 {
+D’accord, d’accord… Mais je ne comprends toujours pas ce que tu essaies de me dire.
+}
+Mechanic_72 {
+Ce que je veux dire, c’est que si une catastrophe survient, tout sombrera—car les navires de la Ville ne sont pas à flot. Personne ne survivra, puisque la destruction de la Ville se produira pendant une tempête, et pas n’importe laquelle—un ouragan.
+}
+Mechanic_73 {
+Une sorte d’apocalypse… Et c’est censé arriver quand?
+}
+Mechanic_74 {
+Le problème, c’est que je ne peux pas l’affirmer avec certitude. Je suis un érudit, pas un voyant.\nHonnêtement, cela pourrait arriver à tout moment.
+}
+Mechanic_75 {
+Hmm... Alors, et maintenant?
+}
+Mechanic_76 {
+Je peux t'aider, si tu m'aides.
+}
+Mechanic_77 {
+Proposition intéressante. Je vous écoute, dites-m'en plus.
+}
+Mechanic_78 {
+Voilà le fait : j’ai un navire prêt à prendre la mer. Il y a deux ans, une corvette avec une petite brèche dans la coque est arrivée au port, et j’ai réussi à la réparer. Tant que j’en avais encore l’occasion...
+}
+Mechanic_79 {
+Tu as déjà parlé plusieurs fois d’une occasion manquée...
+}
+Mechanic_80 {
+Ah, eh bien, c’est la capacité de plonger sous l’eau avec ma combinaison. Le problème, c’est qu’il y a maintenant d’énormes créatures là-dessous, qui parcourent les fonds marins et dévorent tout ce qu’elles trouvent. Alors je n’ose plus y descendre. Je suis un érudit, pas un combattant…
+}
+Mechanic_81_m {
+Compris. Alors, qu’est-ce que je dois faire?
+}
+Mechanic_81_f {
+Compris. Alors, qu’est-ce que je dois faire?
+}
+Mechanic_82 {
+D’abord, il faut m’acheter une corvette. Ensuite, il faudra récupérer quelque chose dans les profondeurs—sans cela, nous ne pourrons pas libérer le navire des vaisseaux qui le retiennent.
+}
+Mechanic_83 {
+L’acheter?! Hmm, tu n’as pas envie de sortir d’ici et de sauver ta peau? Après tout, si l’apocalypse que tu annonces arrive, tu mourras aussi!
+}
+Mechanic_84_m {
+Eh bien, je ne peux pas dire exactement quand le malheur pourrait frapper. D’ailleurs, je vois bien que vous êtes un jeune homme audacieux et compétent, et vous ne devriez avoir aucun mal à remplir mes conditions. Après tout, je ne demande pas grand-chose—seulement un million et demi pour la corvette et la possibilité de plonger une fois sous l’eau.
+}
+Mechanic_84_f {
+Eh bien, je ne peux pas dire avec certitude quand le malheur pourrait frapper. D’ailleurs, je vois bien que vous êtes une jeune femme audacieuse et compétente, et remplir mes conditions devrait être tout à fait à votre portée. Après tout, je ne demande pas grand-chose : seulement un million et demi pour la corvette et une seule occasion de plonger sous les vagues.
+}
+Mechanic_85_m {
+Un million et demi?! Ai-je bien entendu?
+}
+Mechanic_85_f {
+Un million et demi?! J’ai bien entendu?
+}
+Mechanic_86 {
+Non, c'est exact.
+}
+Mechanic_87 {
+Mais je n’ai pas cette somme!
+}
+Mechanic_88 {
+C’est une belle somme, sans aucun doute, mais si cela peut me sauver, je suis prêt à payer.
+}
+Mechanic_89_m {
+Eh bien, l’argent n’est pas un problème ici, garçon. Regarde autour de toi, je suis certain que tu trouveras facilement la somme qu’il me faut—la ville déborde littéralement de richesses. Et puis, tu peux toujours emprunter chez le prêteur ; il prête volontiers jusqu’à un million de pièces.
+}
+Mechanic_89_f {
+Eh bien, l’argent n’est pas un problème ici, mademoiselle. Regardez autour de vous et je suis sûr que vous trouverez facilement la somme dont j’ai besoin—la ville déborde littéralement de richesses. Sinon, vous pourriez emprunter chez le prêteur ; il se fera un plaisir de vous prêter jusqu’à un million de pièces.
+}
+Mechanic_90 {
+Eh bien, tu ne crois pas aux rumeurs disant que c’est un sorcier?
+}
+Mechanic_91 {
+Voilà, comme tous les autres. Écoutez, je suis un érudit—je n’ai aucune patience pour la superstition... En plus, je vais vous laisser une chance de plonger pour le trésor, et il y a encore plus d’argent là-dessous!
+}
+Mechanic_92 {
+Oui, mais il y a aussi toutes sortes de créatures qui vivent là-bas!
+}
+Mechanic_93 {
+Mais tu t’es occupé des Caspers, tu t’en sortiras aussi cette fois... Alors pourquoi tu hésites? Comme si ce n’était pas toi qui venais de mettre à terre toute une bande de coupe-gorge...
+}
+Mechanic_94_m {
+D’accord, j’accepte.
+}
+Mechanic_94_f {
+D’accord, j’accepte.
+}
+Mechanic_95_m {
+Eh bien, très bien! Je t’attendrai avec l’argent, garçon, et ce n’est que la première affaire. Pour l’instant, tu dois aller voir Chad Capper et lui dire que je suis libre, en quelque sorte... Mais ne t’avise pas de prendre des initiatives! Sinon, il te tuera.
+}
+Mechanic_95_f {
+Eh bien, très bien! Je t’attendrai avec l’argent, ma fille, et ce n’est que la première affaire. Maintenant, tu dois aller voir Chad Capper, lui dire que je suis libre, pour ainsi dire... Mais pas de coups tordus! Sinon, il te tuera.
+}
+Mechanic_96_m {
+J’ai compris que les élections n’en valent pas la peine.
+}
+Mechanic_96_f {
+J’ai compris que les élections n’en valent pas la peine.
+}
+Mechanic_97 {
+Elles n’arriveront tout simplement pas, c’est tout… Bref, transmets mes salutations à Chad et dis-lui que le clan « Kaspar » a été éliminé. Je doute qu’il en soit ravi, mais c’était nécessaire.
+}
+Mechanic_98 {
+Pourquoi?
+}
+Mechanic_99 {
+Mais il finira par l’apprendre de toute façon, s’il ne le sait pas déjà. Il vaudrait donc mieux l’en informer au nom de l’invité d’honneur, pour ainsi dire. Il faut être très prudent avec Chad, sinon…
+}
+Mechanic_100 {
+Que veux-tu dire par « autrement »?
+}
+Mechanic_101_m {
+Sinon, il t’achèvera, gamin. Mieux vaut ne pas mettre l’amiral en colère, mais c’est déjà fait. Chad avait des affaires avec les caspers, et j’ai entendu dire qu’il se préparait à partir en mer avec eux depuis la Ville.
+}
+Mechanic_101_f {
+Sinon, il t’achèvera, ma chère. Mieux vaut ne pas mettre l’amiral en colère, mais c’est déjà fait. Chad avait des affaires avec les Caspers, et j’ai entendu dire qu’il se préparait à partir en mer avec eux depuis la Ville.
+}
+Mechanic_102 {
+Intéressant... Mais pourquoi les autres ne sont-ils pas autorisés à entrer?
+}
+Mechanic_103 {
+Pour que personne ne découvre la ville avant la date fixée par Chad.
+}
+Mechanic_104_m {
+Je vois... Très bien, je comprends. Je retourne à mes affaires.
+}
+Mechanic_104_f {
+Je vois... Très bien, j'ai tout compris. Je vais m'occuper de mes tâches.
+}
+Mechanic_105 {
+Alors, où en est-on avec mon argent?
+}
+Mechanic_106_m {
+Je n’en ai pas encore assez rassemblé.
+}
+Mechanic_106_f {
+Je n’en ai pas encore assez rassemblé.
+}
+Mechanic_107_m {
+Je suis prêt à vous remettre la somme entière.
+}
+Mechanic_107_f {
+Je suis prêt à vous remettre la somme complète.
+}
+Mechanic_108 {
+Eh bien, fais de ton mieux—je suis sûr que tu t’en sortiras très bien.
+}
+Mechanic_109 {
+Je le pense aussi.
+}
+Mechanic_110 {
+Eh bien, c’est fait. J’ai reçu la somme convenue — la corvette est à vous maintenant.
+}
+Mechanic_111 {
+Très bien. Et maintenant?
+}
+Mechanic_112 {
+À présent, il faut libérer la corvette. Le problème, c’est qu’elle est coincée sur l’anneau extérieur des épaves autour de l’île, bloquée de tous côtés par les débris.
+}
+Mechanic_113 {
+Alors, comment je fais ça?
+}
+Mechanic_114 {
+J’ai tout préparé. Un treuil est installé sur la plateforme, et je l’ai fixé à l’épave autour de la corvette. Il ne me reste plus qu’à actionner le mécanisme—et voilà, la corvette est dégagée!
+}
+Mechanic_115 {
+Ça a l'air parfait. Où est le piège?
+}
+Mechanic_116 {
+Oui, il y a un problème. J’ai fait tomber l’engrenage du treuil dans l’eau. Il va falloir aller le récupérer au fond.
+}
+Mechanic_117 {
+Hmm... Si je me souviens bien, tu as dit que tu possèdes une combinaison pour respirer sous l’eau. C’est avec ça que je vais plonger jusqu’au fond?
+}
+Mechanic_118 {
+Oui, exactement. Je l’aurais fait moi-même depuis longtemps, mais j’ai trop peur. Il y a ces énormes bêtes là-dedans!...
+}
+Mechanic_119 {
+Vous les avez vus?
+}
+Mechanic_120 {
+Est-ce qu’ils ressemblent un peu à des crabes, par hasard? Ou bien tu ne les as pas vus?
+}
+Mechanic_121 {
+Je les ai vus, et pour être honnête, j’ai failli me faire dessus de peur... Malheureusement, je ne les ai pas bien distingués. Mais franchement, ce n’est pas étonnant qu’une population aussi vorace vive sous la Ville.
+}
+Mechanic_122 {
+Eh bien, peut-être qu'ils sont inoffensifs? Comment sais-tu qu'ils sont affamés et avides de chair humaine?
+}
+Mechanic_123 {
+Ils survivent grâce à tout ce que les habitants jettent par-dessus bord! C’est la seule raison pour laquelle ces créatures se sont installées ici.
+}
+Mechanic_124_m {
+Compris... Très bien, je suis prêt.
+}
+Mechanic_124_f {
+Je vois... Très bien, je suis prêt.
+}
+Mechanic_125 {
+Très bien, laissez-moi vous expliquer comment utiliser la combinaison. Elle est remplie d’air comprimé, que vous allez respirer. Vous aurez assez d’air pour six minutes de respiration continue sous l’eau. Pendant ce temps, il faudra remonter à la surface. Si vous n’y parvenez pas… eh bien, ce sera fini pour vous. Tout est clair?
+}
+Mechanic_126_m {
+Je comprends que mon temps sous l’eau est limité. Le reste n’est pas clair.
+}
+Mechanic_126_f {
+Je comprends que mon temps sous l’eau est limité. Le reste n’est pas clair.
+}
+Mechanic_127 {
+Et c’est la chose la plus importante à retenir. Maintenant, vous pouvez vous rendre sur la plateforme — la combinaison vous y attend, gonflée pour une seule plongée. Je suis sûr que vous saurez l’enfiler sans difficulté. N’oubliez pas, vous ne pouvez plonger que pendant la journée, de dix à dix-neuf heures. Une fois terminé, ramenez la combinaison à l’endroit où vous l’avez trouvée. Bonne exploration du monde sous-marin!
+}
+Mechanic_128 {
+Merci...
+}
+Mechanic_129 {
+Tu sais, il y a un certain Mécanicien qui est arrivé en ville. On dit que c’est le plus ancien habitant! Tu te rends compte…
+}
+Mechanic_130 {
+Tu as entendu parler de Henrik Wedeker? Eh bien, ça alors! Il paraît qu’il a été enfermé sur le 'San Gabriel' pendant des années.
+}
+Mechanic_131 {
+On dit que l’un des premiers colons de la ville, un certain Henrik Wedeker, est un homme très compétent.
+}
+Mechanic_132 {
+Je ne crois pas que ce mécanicien soit si important pour la ville. On s’en est bien sortis sans lui avant, on s’en sortira encore…
+}
+Mechanic_133 {
+Alors, comment ça se passe pour vous?
+}
+Mechanic_134 {
+Je me prépare à plonger. Je te dirai comment ça se passe.
+}
+Mechanic_135_m {
+Je dois replonger au fond une fois de plus. Je n’ai pas pu faire tout ce que je voulais là-bas.
+}
+Mechanic_135_f {
+Je dois retourner dans les profondeurs. Je n’ai pas réussi à faire tout ce que je voulais là-bas.
+}
+Mechanic_136_m {
+J’ai trouvé l’équipement, le voilà!
+}
+Mechanic_136_f {
+J’ai trouvé l’équipement, le voilà!
+}
+Mechanic_137 {
+Ça ne me dérange pas, la combinaison est toujours à votre disposition. Mais je devrai vous facturer 30 000 piastres pour chaque plongée. Alors, posez l’argent sur la table.
+}
+Mechanic_138_m {
+Tu as encore besoin d’argent? Je t’ai déjà apporté un million et demi!
+}
+Mechanic_138_f {
+Tu as encore besoin d’argent? Je t’ai déjà apporté un million et demi!
+}
+Mechanic_139 {
+Cet argent paie la corvette et une seule plongée. Je ne t’ai jamais promis de te vendre la combinaison — elle reste à moi. Je te la loue, c’est tout. L’usure, tu comprends…
+}
+Mechanic_140 {
+Quelle amortissement?
+}
+Mechanic_141 {
+L’usure de l’équipement — tu ne savais pas? Bref, ça ne sert à rien de discuter. Trente mille, et tu pars affronter le diable des mers. Pas d’argent, pas de plongée.
+}
+Mechanic_142 {
+Hmm, pas mal...
+}
+Mechanic_143_m {
+Je ne vois pas pourquoi tu te plains. Je t’offre l’occasion de gagner bien plus. Il y a plein de trésors là-dessous. Si tu t’es contenté de te promener, eh bien, excuse-moi... Bref, il faut être plus rapide au fond de la mer.
+}
+Mechanic_143_f {
+Je ne vois pas pourquoi tu te plains. Je t’offre une occasion de gagner bien plus. Il y a plein de trésors là-dessous. Si tu faisais simplement une promenade au fond de la mer, eh bien, excuse-moi… Quoi qu’il en soit, il faut que tu sois plus rapide là-dessous.
+}
+Mechanic_144 {
+Je vois...
+}
+Mechanic_145 {
+Alors, comment ça se passe?
+}
+Mechanic_146 {
+Je reprends des forces pour une autre plongée.
+}
+Mechanic_147 {
+Je veux plonger à nouveau dans les profondeurs.
+}
+Mechanic_148_m {
+J'ai trouvé l'équipement, le voilà!
+}
+Mechanic_148_f {
+J'ai trouvé l'équipement, le voilà!
+}
+Mechanic_149_m {
+C’est fini, j’en ai terminé avec la plongée. Le monde sous-marin ne m’intéresse plus.
+}
+Mechanic_149_f {
+C’est fini, j’en ai terminé avec la plongée. Le monde sous-marin ne m’intéresse plus.
+}
+Mechanic_150 {
+Tu as préparé l’argent?
+}
+Mechanic_151_m {
+Oui, je suis prêt à payer.
+}
+Mechanic_151_f {
+Oui, je suis prêt à payer.
+}
+Mechanic_152 {
+Pas encore... Mais je les aurai, c’est certain.
+}
+Mechanic_153 {
+Excellent! Revenez demain à la même heure. J’aurai le costume prêt pour le travail.
+}
+Mechanic_154 {
+D’accord.
+}
+Mechanic_155 {
+Tout est prêt, la combinaison fonctionne et est remplie d’air. Tout est en ordre pour la plongée. Bonne chance.
+}
+Mechanic_156 {
+Merci.
+}
+Mechanic_157 {
+Le costume n’est pas encore prêt. Revenez plus tard.
+}
+Mechanic_158 {
+Très bien.
+}
+Mechanic_159 {
+Magnifique! Allons la chercher vite...
+}
+Mechanic_160 {
+Oui, bien sûr.
+}
+Mechanic_161 {
+Très bien, je peux maintenant commencer à réparer le mécanisme du treuil. Dites-moi, allez-vous plonger à nouveau?
+}
+Mechanic_162 {
+Oui, je veux explorer les fonds marins plus en détail.
+}
+Mechanic_163 {
+Non, le royaume sous-marin ne m’intéresse plus.
+}
+Mechanic_164 {
+Très bien, c’est une bonne idée. Tu connais mes conditions : 30 000 pièces pour chaque plongée. Vas-y.
+}
+Mechanic_165 {
+D’accord.
+}
+Mechanic_166 {
+Très bien, comme vous voulez. Je vais ranger la tenue.
+}
+Mechanic_167 {
+Comme vous voulez.
+}
+Mechanic_168 {
+Maintenant que j'ai tout ce qu'il me faut, je vais commencer à réparer le mécanisme du treuil qui libérera votre corvette. Cela me prendra un certain temps. Quant à vous, ne vous reposez pas sur vos lauriers — il vous reste encore des préparatifs importants à faire.
+}
+Mechanic_169 {
+Que veux-tu dire?
+}
+Mechanic_170_m {
+Tu dois t’assurer que le navire a tout ce qu’il lui faut pendant que je m’occupe de libérer la corvette. Il nous faudra une barque ou un radeau… L’idéal serait de trouver quelqu’un pour nous aider, quelqu’un qui pourrait apporter des provisions à la corvette pendant que nous sommes occupés ailleurs. Tu ne t’attends tout de même pas à ce que je porte des charges lourdes à mon âge, hein, garçon?
+}
+Mechanic_170_f {
+Tu dois t’assurer que le navire a tout ce qu’il lui faut pendant que je m’occupe de libérer la corvette. Il nous faudra une barque ou un radeau… L’idéal serait de trouver quelqu’un pour transporter les provisions jusqu’à la corvette pendant que nous sommes occupés ailleurs. Tu ne comptes tout de même pas sur moi pour porter des charges lourdes à mon âge, hein, ma fille?
+}
+Mechanic_171 {
+Un assistant... Hmm... Admettons que j’accepte, mais la construction de tout type de navire est interdite par la loi en ville. Où suis-je censé en trouver un?
+}
+Mechanic_172 {
+Interdiction de parler... Je pourrais nous construire une petite embarcation, à l’abri des regards indiscrets, mais cela prendrait plusieurs mois. D’après mes calculs, nous n’avons pas le luxe d’attendre aussi longtemps.
+}
+Mechanic_173 {
+Alors nous devrions réfléchir à qui possède déjà un navire.
+}
+Mechanic_174 {
+Petit rappel : nous devons trouver quelqu’un pour s’occuper du transport de la cargaison vers les Caspers. Tu t’es déjà occupé de cette tâche?
+}
+Mechanic_175 {
+Oui, ce serait bien Malcolm Fawn. Il a son propre bateau, et faire de la contrebande de marchandises n’a rien de nouveau pour lui.
+}
+Mechanic_176 {
+Recherche en cours.
+}
+Mechanic_177_m {
+Excellent. Nous nous occuperons du transport depuis la plateforme Phoenix. Tout doit être prêt pour l’expédition—ah, oui… Bon, peu importe. Très bien, garçon, Malcolm et moi allons régler les questions d’organisation.
+}
+Mechanic_177_f {
+Excellent. Nous nous occuperons du transport depuis la plateforme Phoenix. Tout doit être prêt pour l’expédition—ah, oui… Bon, peu importe. Très bien, mademoiselle, Malcolm et moi nous chargerons de la logistique.
+}
+Mechanic_178 {
+Très bien, quelle est la suite?
+}
+Mechanic_179 {
+Ensuite, votre tâche sera de ravitailler le navire avec tout ce dont il a besoin : munitions, vivres, armes... Enfin, je n’ai pas à vous apprendre cela. Apportez tout ce que vous trouverez au 'San Gabriel', et Malcolm et moi nous chargerons de le transférer sur la corvette.
+}
+Mechanic_180_m {
+Je comprends, je ferai de mon mieux.
+}
+Mechanic_180_f {
+Je comprends, je ferai de mon mieux.
+}
+Mechanic_181 {
+Bonjour. Alors, comment avance la cale de la corvette?
+}
+Mechanic_182 {
+Les boulets de canon de @<npchar>,
+}
+Mechanic_183 {
+@<npchar> mitraille,
+}
+Mechanic_184 {
+@<npchar> boulet chaîné,
+}
+Mechanic_185 {
+Les bombes de @<npchar>,
+}
+Mechanic_186 {
+toile de @<npchar>,
+}
+Mechanic_187 {
+@<npchar> planches,
+}
+Mechanic_188 {
+Poudre de @<npchar>,
+}
+Mechanic_189 {
+@<npchar> provisions,
+}
+Mechanic_190 {
+l’arme de @<npchar>
+}
+Mechanic_191 {
+@<npchar> les fournitures médicales,
+}
+Mechanic_192_m {
+Je n’ai encore rien trouvé, mais je cherche.
+}
+Mechanic_192_f {
+Je n’ai encore rien trouvé, mais je cherche.
+}
+Mechanic_193 {
+J’en ai déjà récupéré une partie. J’ai réussi à trouver @<npchar>. Il ne me reste plus qu’à trouver @<npchar> maintenant.
+}
+Mechanic_194 {
+Tout ce dont vous avez besoin pour le voyage devrait vous avoir été apporté ici.
+}
+Mechanic_195 {
+Eh bien, bonne chance. Et essayez de ne pas faire traîner les choses.
+}
+Mechanic_196 {
+C'est dans mon intérêt.
+}
+Mechanic_197_m {
+Excellent, garçon, tout est déjà rangé dans la cale de ta corvette. Maintenant, tu dois recruter un équipage parmi les habitants de la ville. Tu comprends bien que nous trois ne pouvons pas manœuvrer une corvette seuls.
+}
+Mechanic_197_f {
+Excellent, chérie, tout est déjà rangé dans la cale de ta corvette. Maintenant, il te faudra recruter un équipage parmi les habitants de la ville. Tu comprends bien que nous trois ne pouvons pas manœuvrer une corvette seuls.
+}
+Mechanic_198_m {
+Eh bien, tu n’aurais pas pu le dire plus tôt? J’ai parcouru toute la ville à la recherche de provisions pour la corvette—j’aurais pu recruter un équipage en même temps.
+}
+Mechanic_198_f {
+Eh bien, tu n’aurais pas pu le dire plus tôt? J’ai parcouru toute la ville à la recherche de provisions pour la corvette — j’aurais pu recruter un équipage en même temps.
+}
+Mechanic_199 {
+Eh bien, tout d’abord, je doute que l’amiral aurait apprécié cela. Et puis, je n’étais pas vraiment pressé. Mais maintenant, les choses prennent une très mauvaise tournure.
+}
+Mechanic_200 {
+Que veux-tu dire?
+}
+Mechanic_201 {
+Vous voyez, j’ai passé tant d’années à me demander quelle tempête serait la dernière pour la Ville que j’en ai fini par me lasser d’attendre dans l’ignorance. Il n’y a pas si longtemps, j’ai construit un appareil qui indique quand les tempêtes approchent. Je l’appelle le « Stormomètre »! C’est vraiment fascinant, vous savez…
+}
+Mechanic_202 {
+Comme tout ce que tu fais... Et cette sale affaire, alors?
+}
+Mechanic_203 {
+Ah, oui... Donc, mon Stormomètre indique que ce qui se dirige vers la ville n’est pas simplement une tempête, mais un véritable ouragan dévastateur. Je n’arrive même pas à en mesurer la force — c’est hors échelle.
+}
+Mechanic_204 {
+Alors, le moment est venu?
+}
+Mechanic_205 {
+C’est exact, @<pchar>. Je peux dire avec une grande certitude que la ville est sur le point d’être détruite. Alors dépêche-toi.
+}
+Mechanic_206 {
+Très bien, je vais faire ça. Au fait, as-tu réussi à libérer la corvette?
+}
+Mechanic_207 {
+Pas encore, mais j’ai testé le treuil — il est prêt. Organise-toi avec les autres, fais-les venir ici, et Malcolm les fera monter discrètement à bord du navire. Il nous faut au moins quinze personnes avant de pouvoir lever l’ancre. Dès que tu as réuni assez de monde, viens directement ici. Une fois à bord du San Gabriel, nous utiliserons le treuil pour libérer la corvette. L’essentiel, c’est que l’amiral ne se doute de rien.
+}
+Mechanic_208_m {
+Très bien, je comprends. Je vais commencer à m’organiser.
+}
+Mechanic_208_f {
+Très bien, je vous comprends. Je vais commencer à m’organiser.
+}
+Mechanic_209 {
+Peut-être devrions-nous essayer de rassembler tous les habitants au même endroit?
+}
+Mechanic_210 {
+Il nous faut une raison solide. Quelque chose qui les fera venir... Hmm...
+}
+Mechanic_211 {
+Vous pourriez profiter du fait que beaucoup de gens en ville sont intrigués par vous et aimeraient vous rencontrer en personne.
+}
+Mechanic_212 {
+Bien sûr, je peux m’adresser à la population par une déclaration, mais pour cela, il faut que la nouvelle se répande rapidement dans toute la ville.
+}
+Mechanic_213 {
+Je vais donc essayer de parler à Aurélie Bertin. Si cette amatrice de ragots répand la nouvelle que le légendaire Mécanicien va s’adresser au public, la taverne sera pleine en quelques heures.
+}
+Mechanic_214 {
+Alors nous devrions saisir cette occasion et ne pas perdre notre temps précieux.
+}
+Mechanic_215 {
+Marché conclu. Je vais voir Aurélie, et toi, prépare ce discours motivant, Henrik.
+}
+Mechanic_216 {
+Motiver les autres n’est pas vraiment mon point fort... Ils ne me croiront pas sur parole, alors tu participeras aussi. Et n’oublions pas : l’amiral pourrait remarquer un rassemblement aussi important. Il n’en serait sûrement pas ravi... Il faut se préparer à ce que les choses changent après la réunion.
+}
+Mechanic_217 {
+Ce dont cette ville a besoin, c’est justement de changement. Et s’il y a bien quelqu’un qui peut convaincre tout le monde de partir avec nous, c’est toi. Laisse-moi m’occuper du problème de l’amiral.
+}
+Mechanic_218_m {
+J’espère que tu ne te trompes pas, jeune homme. Bien, vas-y, dépêche-toi maintenant.
+}
+Mechanic_218_f {
+J’espère que tu ne te trompes pas, chéri. Allez, dépêche-toi.
+}
+Mechanic_219 {
+Ça va s'arranger, Henrik. J'arrive.
+}
+Mechanic_220 {
+Votre plan de répandre des rumeurs a-t-il porté ses fruits?
+}
+Mechanic_221 {
+Bien sûr! Toute la ville ne parle que de ça. Tout le monde t’attendra à la taverne.
+}
+Mechanic_222 {
+Vous n’avez pas encore réuni assez d’équipage pour le voyage. Jusqu’à présent, seuls @<FindPeoplesString> sont arrivés. Continuez, et s’il vous plaît… dépêchez-vous.
+}
+Mechanic_223 {
+Tu n’as encore convaincu personne de rejoindre ton équipage. Dépêche-toi!
+}
+Mechanic_224 {
+D’accord.
+}
+Mechanic_225 {
+C’est parfait. Alors je viens avec toi—ce sera plus facile de convaincre les gens ainsi. Mais d’abord, je dois régler quelque chose sur la plateforme Phoenix. Va à la taverne et veille à ce que tout le monde reste là. Je vous rejoins dans quelques minutes.
+}
+Mechanic_226 {
+Exactement! On va te sortir de ce piège.
+}
+Mechanic_227 {
+Ah, te voilà!
+}
+Mechanic_228 {
+Exactement! On va te sortir de ce piège.
+}
+Mechanic_229 {
+Eh bien, merci, je ne m’y attendais pas... Mais tout cela n’a servi à rien.
+}
+Mechanic_230 {
+Comment ça?
+}
+Mechanic_231 {
+Je suis enfermé dans cette cellule, et les gardes ont remis la clé à l’amiral. C’était son ordre au geôlier. Je n’ai aucun moyen de sortir de cette cage.
+}
+Mechanic_232_m {
+L’amiral n’est plus là, je me suis occupé de lui. Mais je n’ai trouvé aucune clé… Je vais retourner la chercher!
+}
+Mechanic_232_f {
+L’amiral n’est plus, je me suis occupé de lui. Mais je n’ai trouvé aucune clé... Je vais retourner la chercher!
+}
+Mechanic_233_m {
+Trop tard, garçon. La tempête se lève.
+}
+Mechanic_233_f {
+Trop tard, ma chère. La tempête se lève.
+}
+Mechanic_234 {
+Je vais y arriver!
+}
+Mechanic_235 {
+Non, c’est peu probable. Et cela ne vaut pas la peine de risquer le Dog of War ni la vie de tant de personnes qui ne sont même pas encore à bord. Écoute, voici ce que tu dois faire…
+}
+Mechanic_236 {
+Henrik, on va se retrouver ensemble sur... le Hound of War?
+}
+Mechanic_237 {
+Oui, c’est exactement pour cela que j’ai choisi ce nom pour mon navire. Au moment du lancement, le temps s’est soudainement gâté. Et cette célèbre citation de Shakespeare m’est revenue en tête...
+}
+Mechanic_238 {
+Il n’y a pas de coïncidences! Voyons voir comment je peux te faire sortir d’ici…
+}
+Mechanic_239 {
+J'ai décidé de rester. Comme on dit, je vais voir par moi-même si ma théorie et mon invention tiennent la route. C'est une grande chose pour un savant : assister de ses propres yeux à la réalisation de ses prédictions.\nEt puis, peut-être que je me trompais, et que la ville résistera à la fureur des éléments. Alors, ceux qui resteront ici commenceront une nouvelle vie, libérés des clans et de l'amiral.
+}
+Mechanic_240 {
+Vous en êtes sûr?
+}
+Mechanic_241_m {
+Cent pour cent, garçon. Maintenant écoute bien, voici ce que tu dois faire pour monter à bord de la corvette.
+}
+Mechanic_241_f {
+Cent pour cent, ma chérie. Maintenant écoute bien : voici ce que tu dois faire pour monter à bord de la corvette.
+}
+Mechanic_242 {
+Je vous écoute.
+}
+Mechanic_243 {
+Monte à la passerelle principale du 'Fernando Diffindur'—de là, le navire est à portée de main. J’ai réussi à utiliser le treuil avant d’être arrêté et j’ai écarté les navires qui entouraient la corvette. Maintenant, tu pourras t’éloigner de la Ville sans difficulté.\nLa tempête s’intensifie, et je crains que les choses ne deviennent difficiles pour toi... En quittant le 'Tartarus', tu dois être parfaitement clair : il faut rejoindre le 'Fernando Diffindur' aussi vite que possible—c’était le plan de secours de Malcolm et moi. Tu as environ une heure. Deux tout au plus. Agis avec précision et coordination. Sinon, tu seras perdu dans ce chaos.\nJe le répète : tu dois te diriger vers la poupe du 'Fernando Diffindur'—c’est là que tous les habitants survivants doivent se rassembler.
+}
+Mechanic_244_m {
+Je comprends, merci... Y a-t-il quelque chose que je puisse faire pour vous, Henrik?
+}
+Mechanic_244_f {
+Je comprends, merci... Y a-t-il quelque chose que je puisse faire pour vous, Henrik?
+}
+Mechanic_245 {
+Oui... J’ai passé de nombreuses années sur cette île maudite, et la plupart de mes inventions seront perdues à jamais dans les profondeurs, mais pas le Stormometer! Je vous en supplie, prenez-le—ne laissez pas ma dernière invention disparaître.\nAvec, vous trouverez un petit manuel qui explique comment fonctionne cet appareil. C’est un dispositif complexe, même si j’ai manqué de ressources et de temps, mais comme vous pouvez le voir, il fonctionne. Maintenant, dépêchez-vous. Vous avez déjà passé ici plus de temps que vous ne le pouvez.
+}
+Mechanic_246 {
+Je vais garder ton invention en sécurité, je te le promets! Mais on devrait peut-être essayer d’ouvrir cette fichue cage, non?
+}
+Mechanic_247 {
+Adieu, ce fut un plaisir de faire affaire avec vous. Mon destin ne vous concerne plus...
+}
+Mechanic_248 {
+Adieu, Henrik Wedeker.
+}

@@ -1,0 +1,106 @@
+InfoMessage_Title
+{
+An informational paper 'Personal Anchors'!
+}
+
+;An introductory message
+InfoMessage_Text_0
+{"Wild Caribbean"
+This free perk - «Wild Caribbean» - turn several «normal» random encounters into insane and unbelievable ones! Do not pick this perk if you don't want your adventures to be a little bit insane. But be careful, as you can't turn it off after choosing to play with it!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ "Wild Caribbean" includes:
+- presence of skeletal spheres;
+- spawning skeletons when you open treasure chests, like in caves;
+- availability of the quest "Ghost Ship";
+- clearing out the undead, not the Indians, in the "Church needs help" quest;
+- changing the visual part of some quests.
+}
+
+;A message about land combat
+InfoMessage_Text_1
+{
+Added a mechanic of dashes - you may evade damage with them:
+- a chance to evade damage from a pistol or a swing with correct timing is 100%;
+- it requires not 3 base energy, but 2 in any direction;
+- energy requirements for dashing it based off your equipment weight (2 base energy + 0.1*weight in pounds);
+- when lacking sufficient energy your chance to dash is decreased - and exhausted player does dash, but the chance to evade damage is two times lower;
+- all cool fighters, veterans and officers have a 25% chance to use the dash;
+- normal enemies do not dash.
+}
+
+;A message about shrapnel damage rework
+InfoMessage_Text_2
+{
+"New ballistics and damage to the crew"
+-
+Ballistics for ships and forts are redone: 
+When the enemy is close you fire in a straight line, so the waves may protect you or your target from damage (except cases when the one firing is above the waves, like some forts).
+-
+Increased scatter when firing for the sake of: 
+1. survivability of smaller ships against high class ones - now they are harder to hit when manuevering. 
+2. increasing the value of a good cannoneer officer with high accuracy and cannons stats.
+3. improving the quality of naval battles so that, as before, it does not end with just a few volleys of cannons from higher-ranking ships.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Updated mechanics for dealing damage to a ship's crew: now it is required to damage the ship first, lowering its durability, before being able to damage the crew significantly. This mechanic obviously applies to the player's ship.
+-
+Now canister shot damage is calculated depending on the % of hull's durability. Details can be found at the Log Book in the Encyclopedia tab (Sea battles on ships).
+Details ​​can be found at the 'Documentation' - 'Reference Book' - 'Naval Battles on Ships' tab.
+}
+
+;A message received upon entering the global map
+InfoMessage_Text_3
+{
+In the current version many town, and even islands, were changed and added for the sake of exploration:
+Fort-de-France, Le Francois, Willemstad, Fort Orange, La Vega, Santo Domingo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+New island - Old Providence! A pirate island and base on a global and local map.
+- Docking is only possible under the pirate flag. 
+- Pirate ships in this area will not attack the player under the pirate flag.
+
+New town - Providencia! A fortified pirate and privateers base of operations, with Edward Collier - Morgan's right hand man - in charge. 
+- This town has: a pirate residence, a tavern, a brothel and a store (improvements expected).
+- The island Old Providence has its own jungle and two bays: Morgan's head and playa Manzanillo.
+- Added treasure support on the island of Old Providence: in a grotto, oposite to the playa Manzanillo.
+}
+
+;A message received when plundering a ship
+InfoMessage_Text_4
+{
+Quick looting
+\n\n
+If the captain of a boarded ship surrendered, then the trophy team will surely stop by his cabin and will seek any hidden items, same goes for the pockets.
+\n\n
+In case you chose an option to transfer all the trophies into the chest in ship's hold don't forget to sometimes check it. The chest quickly becomes cluttered with frequent boarding, as the sailors collect everything they find.
+\n\n
+In case the captain or the boatswain has the 'Diamond Eye' perk, the crew will be a lot more attentative and picky, completely ignoring literal trash for more useful things.
+\n\n
+The effectiveness of being so 'picky' at sea is dependant on the 'Boarding' of your boatswain
+- no requirements for ships rank 7 and 6
+- from 15 to 29 points for ships rank 5
+- from 30 to 44 points for ships rank 4
+- from 45 to 59 points for ships rank 3
+- from 60 to 74 points for ships rank 2
+- 75+ points for ships rank 1
+- no requirement on land
+\n\n
+In case the boatswain and/or the crew are absent this option is unavailable.
+}
+
+;A message received when changing music
+InfoMessage_Text_5
+{
+There have been technical improvements towards the musical part of the game.
+\n\n
+A single track looping is now a distant memory - now music will change after a track ends.
+Pressing the F10 button will force the track playing at the moment to end and will turn the next one on (with a fair randomness to it).
+\n\n
+Now there's an option to add your own music through a simple placing of mp3 files into the music folders.
+Read the ditail in the readmekz (custommusic).txt file
+Attention!
+You do not need to put the original music into the CUSTOM folder - these track will play anyway.
+\n\n
+Added an option to make sure a song doesn't change when traversing locations of the same type.
+It's in settings under the F4 button.
+}

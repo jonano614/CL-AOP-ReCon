@@ -1,0 +1,594 @@
+Berglars_1_m {
+Espere um pouco, amigo... Seja gentil, diga-me, qual é o seu nome?
+}
+Berglars_1_f {
+Espere um pouco, moça... Você poderia me dizer seu nome?
+}
+Berglars_2 {
+@<GetFullName> em pessoa. O que está acontecendo?
+}
+Berglars_3 {
+Ei, por que você está bloqueando o caminho? Saia da frente, me deixe passar!
+}
+Berglars_4_m {
+Ah, é de você mesmo que eu preciso...
+}
+Berglars_4_f {
+Ah, é de você mesmo que eu preciso...
+}
+Berglars_5 {
+Ouvindo atentamente.
+}
+Berglars_6 {
+sob
+}
+Berglars_7 {
+para
+}
+Berglars_8 {
+É bom que você esteja atento, porque precisamos conversar sobre algo importante... É o seguinte: vou esperar por você na masmorra sob a cidade de @<sStr>.
+}
+Berglars_9 {
+Que tal irmos até a taverna e conversarmos lá? Por que diabos estamos nos escondendo nesses buracos?
+}
+Berglars_10 {
+Não, não precisamos de mais olhos ou ouvidos por aqui, pode confiar em mim...
+}
+Berglars_11 {
+Hmm, não sei... Será que vale mesmo a pena?
+}
+Berglars_12_m {
+É uma questão de vida ou morte, amigo. De qualquer forma, não tenho tempo para ficar conversando. Vou te esperar na masmorra até o pôr do sol. Se você não aparecer... bem, é uma escolha sua...
+}
+Berglars_12_f {
+É uma questão de vida ou morte, meu amigo. De qualquer forma, não tenho tempo para ficar aqui conversando. Vou te esperar na masmorra até o pôr do sol. Se você não aparecer... bem, é uma escolha sua...
+}
+Berglars_13_m {
+Tem mais uma coisa que eu queria perguntar...
+}
+Berglars_13_f {
+Tem mais uma coisa que eu queria perguntar...
+}
+Berglars_14_m {
+Ah, então você apareceu mesmo...
+}
+Berglars_14_f {
+Ah, então você veio mesmo...
+}
+Berglars_15_m {
+Sim, estou aqui. Então, qual é esse assunto de vida ou morte que você tem?
+}
+Berglars_15_f {
+Sim, estou aqui. Então, qual é esse assunto de vida ou morte que você queria conversar?
+}
+Berglars_16_m {
+Isso mesmo, camarada, isso mesmo... Vamos acertar os detalhes — sua morte e minha vida estão em jogo.
+}
+Berglars_16_f {
+Isso mesmo, meu amigo, isso mesmo... Vamos aos detalhes — a questão da sua morte e da minha vida.
+}
+Berglars_17 {
+Do que você está falando?
+}
+Berglars_18_m {
+Espero que você tenha confessado seus pecados recentemente. Você está prestes a encontrar seu criador, e seria melhor ir com a alma limpa — caso contrário, talvez eu até me preocupe com você…
+}
+Berglars_18_f {
+Espero que você tenha se confessado recentemente. Você está prestes a encontrar seu criador, e seria melhor ir absolvido — caso contrário, eu poderia me preocupar com você…
+}
+Berglars_19_m {
+Heh, agradeço a preocupação. Mas você sabe com quem está falando para falar assim comigo?
+}
+Berglars_19_f {
+Heh, agradeço a preocupação. Mas você sabe com quem está falando para falar assim comigo?
+}
+Berglars_20_m {
+Só mais um capitão, e é tudo o que preciso saber. Você não é o primeiro tolo a aparecer por aqui, e a maioria acaba ficando para sempre. Aliás, você está bem em cima de um deles — era um bom rapaz. Bonito como Apolo, também.\nVeja, eu preciso te matar, não tem outro jeito. Ele vai descobrir de qualquer forma, e traição não é tolerada por aqui!
+}
+Berglars_20_f {
+Um tipo de capitã, é só isso que preciso saber. Você não é a primeira tola a aparecer por aqui, e a maioria acaba ficando para sempre. Na verdade, você é a primeira tola — os outros eram homens. Aliás, você está bem em cima de um deles. Ele era um bom rapaz. Bonito como um Apolo, também.\nVeja, eu preciso te matar, não tem outro jeito. Ele vai descobrir de qualquer forma, e traição não é tolerada aqui!
+}
+Berglars_21_m {
+Quem diria que por trás dessa aparência se esconde um assassino de sangue frio...
+}
+Berglars_21_f {
+Bem, eu nunca teria imaginado que por trás dessa aparência pudesse se esconder um assassino a sangue frio...
+}
+Berglars_22_m {
+Heh, essa é a ideia, camarada — as aparências enganam. Ia até dizer pra lembrar disso no futuro, mas que futuro você tem...
+}
+Berglars_22_f {
+Heh, essa é a ideia, moça — as aparências enganam. Ia até dizer pra lembrar disso no futuro, mas que futuro você tem...
+}
+Berglars_23 {
+Eu gostaria de pensar—melhor do que a sua...
+}
+Berglars_24 {
+Ah, acredito que você é exatamente quem estou procurando — a menos que eu esteja enganado...
+}
+Berglars_25 {
+Quem sabe, você tem algum assunto comigo?
+}
+Berglars_26 {
+Para começar, você poderia me dizer seu nome?
+}
+Berglars_27 {
+@<GetFullName>. E daí?
+}
+Berglars_28 {
+Excelente! Você é exatamente quem eu preciso. Tenho algo para você, mas preciso encontrá-lo em um lugar mais reservado.
+}
+Berglars_29 {
+Vamos até a taverna e conversamos tomando uma caneca de cerveja.
+}
+Berglars_30 {
+sob
+}
+Berglars_31 {
+para
+}
+Berglars_32 {
+Me desculpe, mas não posso fazer isso, e acredite, há um motivo. Não tenho tempo para conversar muito, então peço que venha até a masmorra sob a cidade de @<sStr>. Você poderá receber o que lhe é devido com tranquilidade. Apresse-se, esteja lá antes da meia-noite.
+}
+Berglars_33 {
+Vou tentar estar lá. Dá uma sensação de déjà vu, não é?
+}
+Berglars_34 {
+Você não faz ideia de como estou feliz em te ver! Heh-heh-heh...
+}
+Berglars_35_m {
+Sim, como você pode ver, estou aqui. O que você quer de mim? Fale logo!
+}
+Berglars_35_f {
+Sim, como pode ver, estou aqui. O que você quer de mim? Fale logo!
+}
+Berglars_36 {
+Conte tudo o que sabe — fale sobre seu navio, a carga que está transportando e o que o trouxe à cidade.
+}
+Berglars_37 {
+E por que exatamente?
+}
+Berglars_38_m {
+Fale logo, idiota, ou vamos descobrir tudo sobre você e seus comparsas por conta própria!
+}
+Berglars_38_f {
+Fale logo, seu tolo, ou vamos descobrir tudo sobre você e seus comparsas de qualquer jeito!
+}
+Berglars_39_m {
+Eu sabia! Você é o segundo canalha a me atrair para um encontro assim. Vocês são algum tipo de gangue?
+}
+Berglars_39_f {
+Eu sabia! Você é o segundo canalha a me atrair para um encontro assim. Vocês estão todos em alguma espécie de grupo?
+}
+Berglars_40_m {
+Hm, você não é tão tolo quanto ele pensava.\nMuito bem, agora você certamente não vai sair vivo! Entenda, eu não tenho escolha — se eu não fizer isso, vão me chamar de traidor e me matar do mesmo jeito.
+}
+Berglars_40_f {
+Hm, você não é tão tolo quanto ele pensava.\nMuito bem, agora você certamente não vai sair vivo! Entenda, eu não tenho escolha — caso contrário, vão me chamar de traidor e me matar do mesmo jeito.
+}
+Berglars_41 {
+Já ouvi esse tipo de conversa antes. Vamos ver se a sorte está do seu lado.
+}
+Berglars_42_m {
+Ah, sim! Cuidado com os optimates, camarada!
+}
+Berglars_42_f {
+Ah, sim! Cuidado com os optimates, camarada!
+}
+Berglars_43 {
+Desculpe, o que você disse?
+}
+Berglars_44 {
+As procrições de Sula — pura maldade! Se ao menos ele soubesse o que isso faria ao império...
+}
+Berglars_45 {
+Do que você está falando?
+}
+Berglars_46 {
+Como assim, “sobre o quê”? Como você não entende?!\n“Cuidado com o jovem que se prepara mal” — foi isso que Sula alertou os optimates, e ele estava certo! O divino Júlio destruiu o que restava da República...
+}
+Berglars_47 {
+Companheiro, pelo jeito você está bem doente. Então, desculpa, mas eu vou nessa...
+}
+Berglars_48_m {
+Onde?! Para onde você vai? O mal espreita em cada esquina, e você já teve o azar de sentir seu toque gelado. Cair em uma armadilha duas vezes e escapar da morte, hee-hee-hee...
+}
+Berglars_48_f {
+Onde?! Para onde você vai? O mal espreita em cada esquina, e você já teve o azar de sentir seu toque gelado. Cair na armadilha dele duas vezes e escapar da morte, hee-hee-hee...
+}
+Berglars_49 {
+Você está falando sobre aquelas pessoas estranhas que me atraíram para a masmorra e tentaram me matar?
+}
+Berglars_50_m {
+Você entende rápido! Heh-heh-heh! É isso mesmo, meu amigo, é exatamente assim...
+}
+Berglars_50_f {
+Você entende rápido! Heh-heh-heh! Acertou em cheio, querida, é exatamente isso mesmo...
+}
+Berglars_51 {
+Droga, quem são eles?! Será que alguém está por trás disso? E por que estão atrás de mim, justamente?
+}
+Berglars_52_m {
+Hehehe, não vou te contar... E não tem... nada que você possa fazer comigo... Assim como eles não conseguiram naquela floresta, você devia saber!
+}
+Berglars_52_f {
+Hehehe, não vou te contar... E não tem... nada que você possa fazer comigo... Assim como eles naquela floresta, você devia saber!
+}
+Berglars_53 {
+Não tente me enganar! Você vai me contar tudo, ou vai se arrepender!
+}
+Berglars_54 {
+Eu tenho uma ideia melhor! Charadas! Vocês adoram, eu sei de todos vocês! Conheço cada um de nós de cor! Sou como uma esfinge diante de vocês!\nPrimeiro, tem aquele apelidado de Cloverhand! Com certeza um Anti-Guaroy, esse aí! Ele adora a regra das três cores: verde, laranja e vermelho! Aposto que a preferida dele é laranja! Ou talvez verde, o que você acha?!\nSegundo, tem o Chevalier Old Turtle—sortudo com contatos na alta sociedade, talvez tenha nascido em março?!\nTerceiro, com aquele apelido bobo de Bloody Sideburns, lá na Ilha Cocos! Hee-hee-hee! Ele não gosta nada disso. Ele nunca está satisfeito. E você?\nQuarto, apelidado de Green-Skin, cabeça quente e sempre perdendo o juízo! Um gorro na cabeça não faria mal! Hee-hee-hee! Mas talvez seja só o jeito que ele vê o mundo?!\nO quinto é um novato, chamado Barrelman! Adora mandar as vítimas para o mar em... hee-hee, barquinhos! A Cartago das Índias ficaria encantada com um carpinteiro desses, não acha?! Hee-hee!\nEspera, tem um sexto—apelidado de Jolly Gardener! Ele não gosta de tanta confusão, mas que hortinha ele tem! E a cor das plantas dele é tão estranha! E você nunca vai adivinhar por quê?! Hee-hee-hee! Dizem que ele usa um fertilizante especial! Talvez ele faça isso por Catarina de Alexandria, hein? Hee-hee!\nE atrás deles está a máscara—o próprio deus-demiurgo em forma humana. Ele não entregaria o trono da divindade suprema para Júpiter, de jeito nenhum!
+}
+Berglars_55 {
+Droga, isso não são enigmas, é só um monte de bobagem. Ainda assim, é algum tipo de informação—então realmente existe uma organização...
+}
+Berglars_56_m {
+Então vá atrás deles e mate todos! Só assim você vai chamar a atenção de Austin. Tente fazer isso antes que eles percebam suas intenções. Seja cuidadoso e astuto—não deixe que desconfiem de nada, aja como se não soubesse de nada, senão tudo vai por água abaixo!
+}
+Berglars_56_f {
+Então vá atrás deles e mate cada um deles! Só assim você vai chamar a atenção do Austin. Tente fazer isso antes que eles desconfiem das suas intenções. Seja cuidadoso e astuto—não deixe que percebam nada, aja como se não soubesse de nada, senão tudo vai por água abaixo!
+}
+Berglars_57 {
+Devo cortar sua garganta só para garantir? Espere, Austin?
+}
+Berglars_58 {
+Droga! Agora não tenho mais nada a perder! Ha! Nem tenho mais medo... Já matei capitães também, tive que fazer isso... Aaaah, o medo devorou minha alma naquela época!!! Não! Não! Não! Não vamos mais fazer isso!!! Você não vai ousar! Ele não vai descobrir! H\nMas eu sei! Tenho meus próprios assuntos com os Caesars! Preciso me apressar! Tenho que avisar Augustus para não esquentar a vesícula, mas sim usar uma compressa fria. Assim a bile vai sair...
+}
+Berglars_59 {
+Boa sorte para você também...
+}
+Berglars_60 {
+Olá, se não me engano, você é @<GetFullName>.
+}
+Berglars_61_m {
+Olá. O que te traz aqui?
+}
+Berglars_61_f {
+Olá. A que devo o prazer?
+}
+Berglars_62 {
+Escute, tenho algo aqui que com certeza vai te interessar. E por um preço justo!
+}
+Berglars_63_m {
+Muito bem, estou sempre aberto a propostas de negócios. Vamos ver o que você tem.
+}
+Berglars_63_f {
+Muito bem, estou sempre aberto a propostas de negócio. Mostre o que você tem.
+}
+Berglars_64 {
+sob
+}
+Berglars_65 {
+para
+}
+Berglars_66 {
+Só não aqui, @<GetAddress_Form>. Não precisamos de olhos ou ouvidos a mais. A mercadoria não é exatamente, digamos, legal, e eu não vou arriscar meu pescoço. É um artefato indiano muito raro—um crânio de jade que dizem conceder vida eterna. Os guardas nos prenderiam ou cortariam nossas gargantas por algo assim, então tive que escondê-lo bem. Vou esperar por você até a meia-noite na masmorra sob a cidade de @<sStr>. Venha, não demore!
+}
+Berglars_67 {
+Sabe, camarada, você não é o primeiro sujeito suspeito a me atrair para essas catacumbas locais com essa desculpa. Nas duas últimas vezes, isso acabou dando um baita problema...
+}
+Berglars_68 {
+Sim, claro! Vou ao local do encontro com prazer — você despertou minha curiosidade. Imagino que esse item seja bastante valioso, não?
+}
+Berglars_69 {
+Ah, entendi... Peço desculpas, então nosso acordo está desfeito. Adeus.
+}
+Berglars_70 {
+Espere, calma! Por que você está tão assustado?! Droga...
+}
+Berglars_71 {
+Sim, não é barato, mas ouvi dizer que há um comprador especial em Curaçao. Ele vai te pagar muito mais do que você gastou.
+}
+Berglars_72 {
+Entendi, obrigado pela informação! Vou tentar pegar todo o dinheiro!
+}
+Berglars_73 {
+Com certeza vamos chegar a um acordo sobre o preço, pode confiar... Estou ansioso para vê-lo, @<GetAddress_Form>.
+}
+Berglars_74 {
+Fique tranquilo, você não vai precisar esperar muito.
+}
+Berglars_75_m {
+Ah, finalmente você trouxe esses ossos cansados até aqui, @<GetFullName>!
+}
+Berglars_75_f {
+Ah, finalmente você trouxe seus ossos cansados até aqui, @<GetFullName>!
+}
+Berglars_76 {
+Muito bem, então me mostre seu pequeno amuleto dos nativos.
+}
+Berglars_77_m {
+Heh, é isso aí, manda ver! Quanto dinheiro você trouxe?
+}
+Berglars_77_f {
+Heh, é, vamos ver o que você tem! Quanto dinheiro você trouxe?
+}
+Berglars_78 {
+Mostre-me suas mercadorias primeiro, embora eu duvide que você tenha alguma.
+}
+Berglars_79_m {
+Você está certo! Não há carga nenhuma! Como foi que você percebeu isso tão rápido?
+}
+Berglars_79_f {
+E você está certo! Não há carga nenhuma! Como será que você percebeu isso tão rápido?
+}
+Berglars_80 {
+Não precisa ser um gênio para perceber isso. Você é o terceiro que tenta me roubar desse jeito. O seu próprio comparsa te entregou! Então fala logo—quem são vocês, e quem é Austin?
+}
+Berglars_81 {
+Não vi isso chegando... Maldito louco, conseguiu nos expor no final das contas! Maldição!
+}
+Berglars_82 {
+Entendo... Bem, chega de lamentações. Você caiu nessa armadilha por conta própria, então responda às minhas perguntas ou morra!
+}
+Berglars_83_m {
+E você, canalha, ainda não entendeu que traição não é tolerada aqui?! Aquele louco já deve estar no outro mundo, aposto. E pelos meus irmãos, seu desgraçado, vou me vingar aqui e agora!
+}
+Berglars_83_f {
+E você, desgraçado, ainda não percebeu que não toleramos traidores aqui?! Aquele louco já deve estar no outro mundo, aposto. E pelos meus irmãos, seu canalha, vou me vingar aqui e agora!
+}
+Berglars_84 {
+Você simplesmente nunca aprende, não é...
+}
+Berglars_85_m {
+Olá, @<GetAddress_Form>. Diga-me, você não é o famoso capitão que trouxe uma grande carga de escravos do Velho Mundo?
+}
+Berglars_85_f {
+Olá, @<GetAddress_Form>. Diga-me, você não é aquele famoso capitão que trouxe uma grande carga de escravos do Velho Mundo?
+}
+Berglars_86 {
+De fato, sou capitão, mas não trabalho com remessas de trânsito vindas do Velho Mundo.
+}
+Berglars_87_m {
+Ah, que pena, que desperdício! Eu estava prestes a oferecer àquele capitão um negócio extremamente lucrativo.
+}
+Berglars_87_f {
+Ah, que pena, que desperdício! Eu ia oferecer a ela um negócio extremamente lucrativo.
+}
+Berglars_88 {
+Você precisa especificamente de escravos? Não é necessário ir até o Velho Mundo para isso.
+}
+Berglars_89 {
+Não, de jeito nenhum! Tenho mercadorias compactas, mas de alto valor. Exatamente o que os capitães mercantes sonham — ocupam pouco espaço no navio, mas trazem o máximo de lucro.
+}
+Berglars_90 {
+E que tipo de mercadoria é essa? Talvez eu não queira levar esse item no meu navio. E se for amaldiçoado?
+}
+Berglars_91 {
+Hmm, capitão, não posso simplesmente dizer isso assim. Você entende—segurança e confidencialidade vêm em primeiro lugar. Não posso revelar tudo para o primeiro desconhecido que encontro.
+}
+Berglars_92 {
+Mas como eu, ou qualquer outro capitão, posso avaliar se o acordo faz sentido se você nem diz qual é a carga?
+}
+Berglars_93 {
+sob
+}
+Berglars_94 {
+para
+}
+Berglars_95 {
+Estou pronto para discutir tudo em detalhes, mas não aqui. Sugiro que nos encontremos em particular na masmorra sob @<sStr> a cidade. Não vai demorar, mas assim me sentirei mais seguro.
+}
+Berglars_96 {
+Heh, já fui convidado para um encontro nas masmorras para ver algum artefato. Vocês estão se repetindo — não conseguem pensar em algo mais original? Aposto que estão só tentando me enganar!
+}
+Berglars_97 {
+Acho que é uma exigência justa. Eu entendo isso melhor do que ninguém. Hoje em dia, é preciso ter muuuito cuidado...
+}
+Berglars_98 {
+O quê? Como você pode pensar isso de mim! Não temos mais nada para conversar! Adeus!
+}
+Berglars_99_m {
+Acho que me empolguei. Droga...
+}
+Berglars_99_f {
+Parece que me empolguei. Droga...
+}
+Berglars_100 {
+Então está combinado. Vou te esperar lá até o pôr do sol — se você não aparecer, acabou. E você não vai me ver de novo!
+}
+Berglars_101_m {
+Claro, eu entendo. Vou sim!
+}
+Berglars_101_f {
+Claro, eu entendo. Vou sim!
+}
+Berglars_102 {
+Ora, ora, excelente! Você veio, @<GetFullName>.
+}
+Berglars_103 {
+Dispensamos apresentações, ótimo. Então, onde está a mercadoria, meu caro?
+}
+Berglars_104_m {
+Sabe, tenho más notícias. As mercadorias sumiram, mas é você quem vai ter que pagar por elas. Vire os bolsos, seu tolo.
+}
+Berglars_104_f {
+Sabe, tenho más notícias. As mercadorias sumiram, mas é você quem vai ter que pagar por elas. Vira os bolsos, covarde.
+}
+Berglars_105 {
+Hmm, como sempre...
+}
+Berglars_106 {
+Do que você está falando?
+}
+Berglars_107 {
+Vocês não estão fazendo um bom trabalho, rapazes — isso está simples demais. Talvez eu deva conversar com Austin, ver se ele consegue inspirar um pouco de criatividade em vocês. O que foi, agora é temporada de caça aos tolos?
+}
+Berglars_108_m {
+Eu sabia que tinha sido você quem matou todos eles! Finalmente, um adversário à altura!
+}
+Berglars_108_f {
+Eu sabia que tinha sido você quem matou todos eles! Finalmente, um adversário à altura!
+}
+Berglars_109 {
+Não me elogie—apenas diga onde está Austin.
+}
+Berglars_110 {
+Se eu te contar onde o Austin está, estou perdido de qualquer jeito — a gangue não perdoa traição. Mas assim, ainda tenho uma chance de sobreviver.
+}
+Berglars_111_m {
+Por que você é tão teimoso?! Já mandei muitos como você alimentar os ratos. Renda-se, e talvez viva um pouco mais!
+}
+Berglars_111_f {
+Por que você é tão teimoso?! Já mandei muitos como você servir de comida para os ratos. Renda-se, e talvez viva um pouco mais!
+}
+Berglars_112 {
+Nem pensar! Ninguém nunca conseguiu me vencer!
+}
+Berglars_113 {
+Vamos ver...
+}
+Berglars_114 {
+Olá, @<GetAddress_Form>. Diga-me, você é o capitão @<GetFullName>?
+}
+Berglars_115 {
+Sim, está certo.
+}
+Berglars_116 {
+Tenho um recado para você: alguém chamado Austin quer se encontrar com você. Sabe do que se trata?
+}
+Berglars_117_m {
+Assim, direto ao ponto? Inesperado. Claro que sei do que você está falando. Hum, concordo. Onde ele está?
+}
+Berglars_117_f {
+Assim, direto ao ponto? Inesperado. Claro que sei do que se trata. Hmm, concordo. Onde ele está?
+}
+Berglars_118 {
+sob
+}
+Berglars_119 {
+para
+}
+Berglars_120 {
+Ainda bem que você concordou de boa vontade, Capitão. Ele vai esperar por você até o pôr do sol, na masmorra sob a cidade.
+}
+Berglars_121 {
+Ah, então é como sempre... Tudo bem—diga a eles que eu vou, com certeza.
+}
+Berglars_122 {
+Ah, aí está você, @<GetFullName>!
+}
+Berglars_123 {
+Então, onde está o próprio Austin?
+}
+Berglars_124 {
+Ele mesmo não está aqui, mas manda lembranças e exige que você pare de caçar nossos irmãos.
+}
+Berglars_125 {
+Hm, então ele tem medo de mim, afinal. Para ser sincero, estou ficando cansado de você. Diga onde ele está—quero resolver isso pessoalmente com ele!
+}
+Berglars_126 {
+Você o julga com muita severidade, @<GetFullName> — ele está disposto a encontrá-lo pessoalmente e disse que você pode encontrá-lo em um dos assentamentos de mergulhadores de pérolas na costa oeste do continente.
+}
+Berglars_127_m {
+Bem, obrigado pela informação. Eu nunca teria imaginado que o líder de uma quadrilha de ladrões e assassinos estava escondido tão longe. Mas por que tivemos que nos encontrar aqui para isso?
+}
+Berglars_127_f {
+Bem, obrigado pela informação. Eu nunca teria imaginado que o líder de uma quadrilha de ladrões e assassinos estava escondido tão longe. Mas por que tivemos que nos encontrar aqui para isso?
+}
+Berglars_128_m {
+Como eu não poderia?! Primeiro, vamos ver se você realmente consegue usar as informações que te dei! Segundo, você achou mesmo que eu não tentaria vingar minha tripulação e entregar sua cabeça ao Austin numa bandeja?!
+}
+Berglars_128_f {
+Como eu não poderia?! Primeiro, vamos ver se você consegue mesmo usar as informações que te dei! Segundo, você realmente achou que eu não tentaria vingar meus companheiros e entregar sua cabeça ao Austin numa bandeja?!
+}
+Berglars_129 {
+Você sabe o que aconteceu com quem tentou antes de você, não sabe?
+}
+Berglars_130 {
+Eu sei, mas ele é o mais forte da nossa tripulação e você não tem muita chance.
+}
+Berglars_131 {
+Como você disser, camarada. Quanto menos de vocês, melhor.
+}
+Berglars_132 {
+Ah, vivemos tempos inquietos, @<GetAddress_Form>. Recentemente, um navio ancorou em nosso porto, o capitão desembarcou e nunca mais voltou ao navio. Só uma semana depois, os guardas encontraram o corpo dele nas cavernas fora da cidade... com a garganta cortada de fora a fora! Durante a investigação, os moradores disseram ter visto o capitão indo em direção às cavernas com um sujeito que, à primeira vista, parecia completamente comum. Então, por aqui, é melhor ficar sempre atento...
+}
+Berglars_133 {
+Já tivemos uma história parecida por aqui—um capitão sumiu... desceu do navio e desapareceu sem deixar rastro. Encontraram ele quase um mês depois, numa caverna fora da cidade. Um tiro na cabeça, sem uma moeda nos bolsos! Mas isso, @<GetAddress_Form>, vou te dizer, não foi obra de nenhum espírito maligno! Espírito nenhum revira bolso de gente. Tem outra coisa acontecendo aqui, com certeza!.. Ouvi dizer que capitães já sumiram do mesmo jeito em St. John’s, mais de uma vez... Pois bem, vamos beber a isso...
+}
+Berglars_134 {
+Saudações, visitante. É raro ver alguém por aqui nesses confins. O que te traz aqui?
+}
+Berglars_135_m {
+Bom dia, Austin. Decidi vir vê-lo pessoalmente, por assim dizer. Caso contrário, são sempre só recados sendo entregues, e todos lá nos calabouços...
+}
+Berglars_135_f {
+Bom dia, Austin. Resolvi vir te ver pessoalmente, por assim dizer. Caso contrário, é sempre só recado pra lá e pra cá, e todos eles lá nos calabouços...
+}
+Berglars_136_m {
+Austin? Poucos me conhecem por esse nome... Ah, entendi. Você deve ser o capitão que matou alguns dos meus homens. @<GetFullName>, se não me engano?
+}
+Berglars_136_f {
+Austin? Poucos me conhecem por esse nome... Ah, entendi. Então você é o capitão que matou alguns dos meus homens. @<GetFullName>, se não me engano?
+}
+Berglars_137 {
+Isso mesmo, Austin. Me diga, amigo, onde vamos parar? Assassinos andam pelas cidades, atraindo capitães desavisados e os matando como peixes.
+}
+Berglars_138_m {
+Não acredito no que estou ouvindo! Está tentando me envergonhar? E isso vindo de um capitão que faz exatamente a mesma coisa!
+}
+Berglars_138_f {
+Não acredito no que estou ouvindo! Você está tentando me envergonhar? E isso vindo de uma garota que faz exatamente a mesma coisa!
+}
+Berglars_139 {
+O que isso quer dizer?!
+}
+Berglars_140_m {
+Não é você quem persegue mercadores pelo mar? Não é você quem mata pessoas aos montes? E eu quero te perguntar — por quê? E eu mesmo respondo — por dinheiro.\nVocê e eu somos irmãos, ligados pelo sangue de nossas vítimas. Só que eu sou um irmão da terra.
+}
+Berglars_140_f {
+Não é você quem persegue mercadores pelo mar? Não é você quem mata pessoas aos montes? E eu quero te perguntar, por quê? Mas eu mesmo respondo — por dinheiro.\nVocê e eu somos parecidos, ligados pelo sangue das nossas vítimas, só que eu sou seu irmão em terra firme.
+}
+Berglars_141 {
+Eu não atraio pessoas para armadilhas com engano!
+}
+Berglars_142 {
+Hmm, não é você quem hasteia bandeiras de outros países para enganar suas presas e se aproximar sem levantar suspeitas?
+}
+Berglars_143 {
+Isso é só um palpite seu, Austin!
+}
+Berglars_144_m {
+É a mesma coisa, camarada! Engano, assassinato, tomar os bens da vítima. No fim, tudo é igual, irmão do mar.\nEntão, respondendo à sua pergunta do começo da conversa — nada fora do comum está acontecendo, tudo continua como sempre foi.
+}
+Berglars_144_f {
+É a mesma coisa, irmã! Engano, assassinato, tomar os bens da vítima. No fim, tudo é igual, irmã do mar.\nEntão, respondendo à pergunta que você fez no começo da nossa conversa — nada fora do comum está acontecendo, tudo segue como sempre foi.
+}
+Berglars_145 {
+Você fala bonito, mas talvez só esteja com medo, Austin.
+}
+Berglars_146_m {
+Hmm... Então? Fale, o que te traz aqui, irmão do mar?
+}
+Berglars_146_f {
+Hmm... Então? Fale, irmã do mar—o que te traz aqui?
+}
+Berglars_147_m {
+Você realmente sabe manipular as pessoas — não é à toa que sua tripulação ficou fiel até o fim. Você conseguiu entrar na cabeça deles. Mas saiba que eu também não sou nenhum tolo. E vou te dizer uma coisa — há um abismo entre nós. Eu dou às pessoas uma escolha: rendam-se ou enfrentem a morte. Você não dá escolha nenhuma, e todas as suas vítimas acabam enterradas nessas masmorras. E aqui está a verdadeira diferença: eu arrisco o meu próprio pescoço, ao contrário de você, que se esconde nessa casinha confortável. Vocês não passam de verdadeiros ratos de terra! Então não, você não é meu irmão.
+}
+Berglars_147_f {
+Você realmente sabe manipular as pessoas — não é à toa que sua tripulação ficou fiel até o fim. Você conseguiu entrar na cabeça deles. Mas saiba que eu também não sou nenhum tolo. E vou te dizer uma coisa — existe um abismo entre nós. Eu dou às pessoas uma escolha: se render ou enfrentar a morte. Você não dá nada, e todas as suas vítimas acabam enterradas naquelas masmorras. E aqui está a verdadeira diferença: eu arrisco a minha própria vida, ao contrário de você, que se esconde nessa casa confortável. Vocês são todos verdadeiros ratos de terra! Então não, você não é meu irmão.
+}
+Berglars_148_m {
+Você ousa insultar a mim e à minha tripulação na minha própria casa?! Foi para isso que veio aqui?
+}
+Berglars_148_f {
+Você ousa insultar a mim e à minha tripulação na minha própria casa?! Foi por isso que veio aqui?
+}
+Berglars_149 {
+Ainda não, Austin. Quero terminar o que comecei e me livrar de você!
+}
+Berglars_150_m {
+Muito bem, assim é melhor. Já cansei de você também. Vamos começar, @<GetAddress_Form>!
+}
+Berglars_150_f {
+Bem, é melhor assim. Também estou bem cansado de você. Vamos começar, @<GetAddress_Form>!
+}
+Berglars_151_m {
+Esperei muito por isso!
+}
+Berglars_151_f {
+Esperei muito tempo por isso!
+}

@@ -1,0 +1,543 @@
+FelixMendoza_1 {
+Witamy w Mieście Zaginionych Okrętów, kapitanie @<pchar>. Jak podoba się panu/pani nowe miejsce zamieszkania? Pogoda odpowiada?
+}
+FelixMendoza_2_m {
+Jestem marynarzem, każda pogoda mi odpowiada, byle tylko być na morzu. Zaraz, skąd mnie znasz?
+}
+FelixMendoza_2_f {
+Jestem marynarką, każda pogoda mi odpowiada, byleby być na morzu. Zaraz, skąd mnie znasz?
+}
+FelixMendoza_3 {
+Witamy w Mieście Zaginionych Okrętów, kapitanie @<pchar>.
+}
+FelixMendoza_4 {
+Zna mnie pan?
+}
+FelixMendoza_5 {
+Czy mogę w czymś pomóc, @<GetAddress_Form>?
+}
+FelixMendoza_6 {
+Posłuchaj, szukam pewnej osoby. Nie wiesz, gdzie teraz jest?
+}
+FelixMendoza_7 {
+Chciałbym zadać wam pytanie.
+}
+FelixMendoza_8 {
+Opowiesz mi coś ciekawego?
+}
+FelixMendoza_9 {
+Co nowego w Mieście?
+}
+FelixMendoza_10_m {
+Ach, z przyjemnością posłuchałbym najnowszych plotek...
+}
+FelixMendoza_10_f {
+Ach, z przyjemnością posłuchałabym najnowszych plotek...
+}
+FelixMendoza_11 {
+@<LinkRandPhrase>
+}
+FelixMendoza_12 {
+Słuchaj, przyjacielu, muszę coś przenieść na bark „San Gabriel”. Pomożesz mi z tym?
+}
+FelixMendoza_13_m {
+Czy ma pan jakieś ważne wieści, señor?
+}
+FelixMendoza_13_f {
+Masz jakieś ważne wieści, señorita?
+}
+FelixMendoza_14 {
+Wie pan, zbieram załogę, żeby stąd odejść. Proponuję, żeby pan poszedł ze mną.
+}
+FelixMendoza_15 {
+Nic...
+}
+FelixMendoza_16 {
+Jakże mógłbym nie znać, @<GetAddress_Form>. Nazywam się @<GetFullName> i niegdyś stanąłem przeciwko wam w bitwie.
+}
+FelixMendoza_17 {
+Czy walczyliśmy ze sobą?
+}
+FelixMendoza_18 {
+Tutaj przeszłość nie ma znaczenia, podobnie jak wasza ranga czy narodowość. Nie uważam was za wroga, dopóki jesteśmy tutaj, i wam też tego nie radzę. Nasza brygantyna zniknęła w otchłani wieczności, tak jak wszyscy moi ludzie, a ja tutaj zacząłem nowe życie.
+}
+FelixMendoza_19 {
+Od dawna tu jesteście?
+}
+FelixMendoza_20 {
+Parę miesięcy albo... może pół roku.
+}
+FelixMendoza_21 {
+Próbowałeś odpłynąć?
+}
+FelixMendoza_22 {
+Ha, nie potępiłbym tchórzostwa u tych, którzy nawet o tym nie myślą. Nie warto próbować – to nie odwaga, to szaleństwo.
+}
+FelixMendoza_23 {
+Dlaczego nie? Nie ma rzeczy niemożliwych.
+}
+FelixMendoza_24 {
+No tak? Wygląda na to, że wiesz o tym miejscu więcej ode mnie, hmm?
+}
+FelixMendoza_25 {
+Plotki dotarły na kontynent. Jeśli nikt stąd się nie wydostał, to skąd by się wzięły?
+}
+FelixMendoza_26_m {
+Mój drogi, uwierz mi — to przypadek. Nie zaprzątaj sobie głowy płonnymi nadziejami.
+}
+FelixMendoza_26_f {
+Moja droga, proszę mi wierzyć – to tylko zbieg okoliczności. I nie zaprzątaj sobie głowy płonnymi nadziejami.
+}
+FelixMendoza_27 {
+Dziękuję za radę.
+}
+FelixMendoza_28_m {
+Ty jesteś złodziejem! To naruszenie prawa miasta!
+}
+FelixMendoza_28_f {
+Ty złodziejko!!! Naruszenie prawa miasta!
+}
+FelixMendoza_29_m {
+No proszę! Wystarczyło, że się na chwilę zagapiłem, a ty już z głową w skrzyni! On złamał prawo!
+}
+FelixMendoza_29_f {
+No proszę! Ledwo się zagapiłem, a ty już z głową w skrzyni! Ona złamała Prawo!
+}
+FelixMendoza_30_m {
+Milicja! Rabunek!!! Łap go, złamał prawo!
+}
+FelixMendoza_30_f {
+Milicja! Rabunek!!! Łapcie ją, złamała prawo!
+}
+FelixMendoza_31 {
+@<LinkRandPhrase>
+}
+FelixMendoza_32 {
+A-a, diabli nadali!!!
+}
+FelixMendoza_33 {
+A więc tak?! Postanowiłeś grzebać po cudzych kufrach?! Teraz mieszkańcy i straż miejska rozszarpią cię na strzępy!
+}
+FelixMendoza_34 {
+Ależ idiotka!
+}
+FelixMendoza_35_m {
+Słuchaj, schowaj broń. Trochę mnie to niepokoi...
+}
+FelixMendoza_35_f {
+Słuchaj, może byś schowała broń. Trochę mnie to niepokoi...
+}
+FelixMendoza_36 {
+Wiesz, tutaj nie zwykło się machać szablą. Schowaj broń.
+}
+FelixMendoza_37_m {
+Słuchaj, czemu zachowujesz się jak trzej muszkieterowie, biegasz tu i wymachujesz szpadą? Schowaj broń, to nie przystoi poważnemu mężczyźnie...
+}
+FelixMendoza_37_f {
+Słuchaj, czemu zachowujesz się jak trzej muszkieterowie, biegasz tu i wymachujesz szpadą? Schowaj broń, to nie przystoi dziewczynie...
+}
+FelixMendoza_38 {
+@<LinkRandPhrase>
+}
+FelixMendoza_39 {
+Dobrze.
+}
+FelixMendoza_40 {
+Dobrze.
+}
+FelixMendoza_41 {
+Jak sobie życzysz...
+}
+FelixMendoza_42 {
+@<LinkRandPhrase>
+}
+FelixMendoza_43_m {
+Proszę posłuchać, jako obywatel tego miasta proszę, by nie chodził pan u nas z dobytym ostrzem.
+}
+FelixMendoza_43_f {
+Wie pan, jako obywatelka tego miasta, proszę pana, żeby nie chodził pan tutaj z dobytym ostrzem.
+}
+FelixMendoza_44 {
+Dobrze.
+}
+FelixMendoza_45 {
+Dobrze.
+}
+FelixMendoza_46 {
+Jak pan/pani każe...
+}
+FelixMendoza_47 {
+@<LinkRandPhrase>
+}
+FelixMendoza_48_m {
+Uważaj na zakrętach, gdy biegniesz z bronią w ręku. Mogę się przez to zdenerwować...
+}
+FelixMendoza_48_f {
+Nie podoba mi się, gdy ktoś przechodzi przede mną z bronią gotową do użycia. To mnie przeraża...
+}
+FelixMendoza_49_m {
+Zrozumiałem.
+}
+FelixMendoza_49_f {
+Zrozumiałam.
+}
+FelixMendoza_50 {
+Sprzątam.
+}
+FelixMendoza_51 {
+@<RandPhraseSimple>
+}
+FelixMendoza_52 {
+A kogo pan/pani szuka?
+}
+FelixMendoza_53 {
+Nie rozumiem, o kim mówisz. Potrzebuję imienia i nazwiska tej osoby.
+}
+FelixMendoza_54 {
+Rozumiem. Pozwólcie, że spróbuję jeszcze raz podać nazwę.
+}
+FelixMendoza_55_m {
+Dziękuję, poszukam sam.
+}
+FelixMendoza_55_f {
+Dziękuję, wolę poszukać sama.
+}
+FelixMendoza_56 {
+Przecież to ja!
+}
+FelixMendoza_57_m {
+No proszę, rzeczywiście trafiłem właśnie na ciebie!
+}
+FelixMendoza_57_f {
+No proszę, rzeczywiście trafiłam na was!
+}
+FelixMendoza_58 {
+@<GetFullName>, mówisz o nim?
+}
+FelixMendoza_59 {
+Tak, tak, to na pewno on.
+}
+FelixMendoza_60 {
+Nie, nie o nim. Pozwólcie, że powiem jeszcze raz.
+}
+FelixMendoza_61 {
+@<GetFullName>, mówisz o niej?
+}
+FelixMendoza_62 {
+Tak, właśnie o niej.
+}
+FelixMendoza_63 {
+Nie, nie o niej. Proszę, pozwólcie mi spróbować jeszcze raz wymienić.
+}
+FelixMendoza_64 {
+Wiecie co, nie chcę już nikogo więcej pytać. Do widzenia.
+}
+FelixMendoza_65 {
+Proszę więc jeszcze raz podać imię i nazwisko.
+}
+FelixMendoza_66 {
+Nie wiem, dawno go nie widziałem.
+}
+FelixMendoza_67 {
+Diabli wiedzą, gdzie on jest...
+}
+FelixMendoza_68 {
+Nie widziałem go już od dawna, więc nie wiem.
+}
+FelixMendoza_69 {
+@<LinkRandPhrase>
+}
+FelixMendoza_70 {
+Jasne.
+}
+FelixMendoza_71 {
+Szkoda...
+}
+FelixMendoza_72 {
+@<RandPhraseSimple>
+}
+FelixMendoza_73 {
+Nie widziałem jej już od dość dawna, przykro mi.
+}
+FelixMendoza_74 {
+Nie mam pojęcia, gdzie ona teraz jest.
+}
+FelixMendoza_75 {
+Hm, nie wiem, gdzie ona może teraz być.
+}
+FelixMendoza_76 {
+@<LinkRandPhrase>
+}
+FelixMendoza_77 {
+Jasne.
+}
+FelixMendoza_78 {
+Szkoda...
+}
+FelixMendoza_79 {
+@<RandPhraseSimple>
+}
+FelixMendoza_80 {
+On jest tutaj, na tym okręcie. Szukajcie uważniej.
+}
+FelixMendoza_81 {
+Ha, więc on jest tutaj, na tym statku!
+}
+FelixMendoza_82 {
+On jest na tym statku, dziwne, że jeszcze go nie widzieliście.
+}
+FelixMendoza_83 {
+@<LinkRandPhrase>
+}
+FelixMendoza_84 {
+Widziałem go całkiem niedawno @<npchar>.
+}
+FelixMendoza_85 {
+Niedawno spotkałem go u @<npchar>. Szukajcie go tam.
+}
+FelixMendoza_86 {
+Z tego co wiem, teraz jest @<npchar>.
+}
+FelixMendoza_87 {
+@<LinkRandPhrase>
+}
+FelixMendoza_88 {
+A więc on tu jest, @<npchar>. Proszę się przyjrzeć uważniej.
+}
+FelixMendoza_89 {
+Przecież on jest tutaj, wśród nas!
+}
+FelixMendoza_90 {
+Gdzie się pan(i) gapi? Przecież on tu się kręci.
+}
+FelixMendoza_91 {
+@<LinkRandPhrase>
+}
+FelixMendoza_92 {
+Widziałem go całkiem niedawno @<npchar>.
+}
+FelixMendoza_93 {
+Niedawno spotkałem go u @<npchar>. Więc szukajcie go tam.
+}
+FelixMendoza_94 {
+Z tego co wiem, teraz jest @<npchar>.
+}
+FelixMendoza_95 {
+@<LinkRandPhrase>
+}
+FelixMendoza_96 {
+Aha, rozumiem. Dziękuję.
+}
+FelixMendoza_97 {
+Dziękuję wam!
+}
+FelixMendoza_98 {
+@<RandPhraseSimple>
+}
+FelixMendoza_99 {
+Ona jest tutaj, na tym statku. Szukajcie uważniej.
+}
+FelixMendoza_100 {
+Ha, więc ona jest tutaj, na tym statku!
+}
+FelixMendoza_101 {
+Jest na tym statku, dziwne, że jeszcze jej nie widzieliście.
+}
+FelixMendoza_102 {
+@<LinkRandPhrase>
+}
+FelixMendoza_103 {
+Widziałem ją całkiem niedawno @<npchar>.
+}
+FelixMendoza_104 {
+Niedawno spotkałem ją @<npchar>. Nawet porozmawialiśmy.
+}
+FelixMendoza_105 {
+Z tego co wiem, teraz jest @<npchar>.
+}
+FelixMendoza_106 {
+@<LinkRandPhrase>
+}
+FelixMendoza_107 {
+Więc ona tu jest, @<npchar>. Proszę przyjrzeć się uważniej.
+}
+FelixMendoza_108 {
+Przecież ona jest tutaj, wśród nas!
+}
+FelixMendoza_109 {
+Gdzie się patrzycie? Przecież ona gdzieś tu krąży.
+}
+FelixMendoza_110 {
+@<LinkRandPhrase>
+}
+FelixMendoza_111 {
+Widziałem ją całkiem niedawno, @<npchar>.
+}
+FelixMendoza_112 {
+Niedawno spotkałem ją, @<npchar>. Nawet zamieniliśmy kilka słów.
+}
+FelixMendoza_113 {
+Z tego co wiem, teraz jest u @<npchar>.
+}
+FelixMendoza_114 {
+@<LinkRandPhrase>
+}
+FelixMendoza_115 {
+Aha, rozumiem. Dziękuję, @<GetAddress_FormToNPC>.
+}
+FelixMendoza_116 {
+Dziękuję wam!
+}
+FelixMendoza_117 {
+@<RandPhraseSimple>
+}
+FelixMendoza_118_m {
+Uważnie pana słucham, señor.
+}
+FelixMendoza_118_f {
+Uważnie panią słucham, señorita.
+}
+FelixMendoza_119 {
+Często są tu sztormy?
+}
+FelixMendoza_120 {
+Jak pogodziliście się z tutejszymi zwyczajami?
+}
+FelixMendoza_121 {
+Mam wrażenie, czy tylko mi się wydaje, że ludzie wokół nigdzie się nie spieszą?
+}
+FelixMendoza_122 {
+Proszę powiedzieć, jak długo już tu mieszkacie?
+}
+FelixMendoza_123 {
+Nie mam pytań. Przepraszam...
+}
+FelixMendoza_124 {
+Tak, często. Szczególnie daje się to odczuć, gdy stale przebywasz na morzu, tak jak my wszyscy tutaj.
+}
+FelixMendoza_125 {
+Jeszcze ci się nie znudziło?
+}
+FelixMendoza_126_m {
+A co mam zrobić? Nie mam dokąd pójść, señor!
+}
+FelixMendoza_126_f {
+A co mam zrobić? Nie mam wyjścia, señorita!
+}
+FelixMendoza_127 {
+Hm, to smutne...
+}
+FelixMendoza_128 {
+Nie dało się nie pogodzić z tym. Ja też, jak wielu innych, próbowałem się czemuś przeciwstawić, ale nie posuwałem się do absurdów.
+}
+FelixMendoza_129 {
+Do absurdu?
+}
+FelixMendoza_130 {
+Innymi słowy, aż do własnej zguby.
+}
+FelixMendoza_131 {
+Hm...
+}
+FelixMendoza_132 {
+Nie pierwszy raz słyszę to pytanie... tak, ha-ha. Był tu kiedyś taki żartowniś – Bert. Wbił kilku osobom do głowy, że na tej przeklętej wyspie życie płynie wolniej...
+}
+FelixMendoza_133 {
+I co z tego?..
+}
+FelixMendoza_134 {
+On po prostu zażartował, tak naprawdę, ale ci głupcy mu uwierzyli. Co więcej, zaczęli rozpowiadać tę jego „teorię”. Narwale to jedni z nich, swoją drogą. I tak doszło do tego, że ci, którzy w to wierzą, umierają z nudów i myślą, że zostaną na tej wyspie na zawsze.
+}
+FelixMendoza_135 {
+Bardzo interesujące.
+}
+FelixMendoza_136 {
+No, chyba ze dwa lata. Dokładnie już nie pamiętam.
+}
+FelixMendoza_137 {
+Czy Hill Brunner był już tutaj, kiedy się tu pojawiłeś?
+}
+FelixMendoza_138 {
+Tak, oczywiście. Hill Brunner był jednym z najstarszych mieszkańców. Szkoda, że go zamordowano.
+}
+FelixMendoza_139 {
+Tak, naprawdę szkoda.
+}
+FelixMendoza_140 {
+Ha! A niby dlaczego?
+}
+FelixMendoza_141 {
+Wszystko postanowione.
+}
+FelixMendoza_142 {
+Wszystko zrobię.
+}
+FelixMendoza_143_m {
+Ależ ty jesteś uparty.
+}
+FelixMendoza_143_f {
+Oj, ależ jesteś uparta.
+}
+FelixMendoza_144_m {
+Alice Taylor powiedziała mi, żebym z tym zwrócił się do ciebie...
+}
+FelixMendoza_144_f {
+Alice Taylor powiedziała mi, żebym zwróciła się z tym do ciebie...
+}
+FelixMendoza_145 {
+Świetnie!
+}
+FelixMendoza_146 {
+A, no tak.
+}
+FelixMendoza_147 {
+Aha.
+}
+FelixMendoza_148 {
+Rozumiem. Cóż, to zmienia postać rzeczy, jestem jej coś winien. Co mam przenieść, skąd i dokąd?
+}
+FelixMendoza_149 {
+Ze 100 kul armatnich znajdujących się na fleucie "Ceres Smithy" należy dostarczyć na bark "San Gabriel".
+}
+FelixMendoza_150 {
+Zrobimy to z chłopakami, nie ma problemu.
+}
+FelixMendoza_151 {
+Dzięki ci, przyjacielu!
+}
+FelixMendoza_152 {
+Czy to naprawdę możliwe?!
+}
+FelixMendoza_153 {
+Oczywiście, to możliwe. Czekam na odpowiedź.
+}
+FelixMendoza_154 {
+Zgadzam się. Co mam zrobić?
+}
+FelixMendoza_155 {
+Od razu udaj się na "San Gabriel" — tam zorganizowano przeprawę na korwetę.
+}
+FelixMendoza_156 {
+Dobrze. Za godzinę będę na "San Gabrielu".
+}
+FelixMendoza_157 {
+No dobrze, witaj. Nie spóźnij się.
+}
+FelixMendoza_158_m {
+Tak, wszyscy tu pomrzemy.\nO, to ty! Señor, jeśli naprawdę się uratujemy, to będzie prawdziwy cud! W przeciwnym razie, na darmo targałem te wszystkie kule na nasz statek... No właśnie!
+}
+FelixMendoza_158_f {
+Tu wszyscy tu pomrzemy.\nO, to ty! Señorita, jeśli naprawdę się uratujemy, to będzie prawdziwy cud! W przeciwnym razie na darmo targałem te wszystkie kule na nasz statek... No właśnie!
+}
+FelixMendoza_159 {
+Pamiętam, że kiedyś nazywałeś odpłynięcie z wyspy absurdem i pewną śmiercią, Feliksie. Ale masz rację – powinniśmy jak najszybciej razem opuścić tę Wyspę.
+}
+FelixMendoza_160_m {
+Pomyśleć tylko, señor, a przecież kiedyś byliśmy wrogami! Nie mam nic szczególnego, ale weź tę mapę – niech ci się przyda. Dla mnie to tylko przypomnienie o tym, jak mój dom został podstępnie zajęty przez piratów Henry’ego Morgana.\nAle nie czas na smutki – musimy ruszać jak najszybciej, pogoda się psuje, kapitanie.
+}
+FelixMendoza_160_f {
+Pomyśleć tylko, señorita, a przecież kiedyś byliśmy wrogami! Nie mam nic szczególnego, ale weź tę mapę – niech będzie przy tobie. Dla mnie to tylko przypomnienie o tym, jak mój dom został podstępnie zajęty przez piratów Henry’ego Morgana.\nAle to nie czas na smutek – musimy ruszać jak najszybciej, pogoda się burzy, kapitanie.
+}
+FelixMendoza_161 {
+Teraz nikt nam nie przeszkodzi w przejściu na korwetę. Wejdź na górny pokład, Malcolm już przewozi ludzi.
+}

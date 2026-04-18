@@ -1,0 +1,942 @@
+questNPC_1 {
+Robbery in broad daylight?! What in blazes is going on?! Just you wait, mate...
+}
+questNPC_2 {
+Hey, what are you messing around with over there?! Planning to rob me, are you? Well, that’s the end of you...
+}
+questNPC_3 {
+Hold on, where do you think you're going? So, you're a thief after all! Well, looks like your luck just ran out, mate...
+}
+questNPC_4 {
+@<LinkRandPhrase>
+}
+questNPC_5 {
+Devil!!
+}
+questNPC_6 {
+Caramba!!
+}
+questNPC_7 {
+A-argh, damn!
+}
+questNPC_8 {
+@<LinkRandPhrase>
+}
+questNPC_9 {
+There he is—grab him!
+}
+questNPC_10 {
+Grab him, lads!
+}
+questNPC_11 {
+Hey, stop right there!
+}
+questNPC_12 {
+@<LinkRandPhrase>
+}
+questNPC_13 {
+Devil!!
+}
+questNPC_14 {
+Not a chance!
+}
+questNPC_15 {
+A-argh, damn!
+}
+questNPC_16 {
+@<LinkRandPhrase>
+}
+questNPC_17 {
+Error
+}
+questNPC_18 {
+Go your own way and don’t distract me.
+}
+questNPC_19 {
+I’m afraid it’s serious. A Spanish spy has slipped into the city—maybe even a mercenary. He went to the gunsmith’s house, and now Griffin’s door is tightly shut.
+}
+questNPC_20 {
+Stop! Surrender your weapons! Follow me!
+}
+questNPC_21 {
+Runaway slave! Seize him at once!
+}
+questNPC_22 {
+@<RandPhraseSimple>
+}
+questNPC_23 {
+Shut up, you halfwit!
+}
+questNPC_24 {
+Not a chance!
+}
+questNPC_25 {
+@<RandPhraseSimple>
+}
+questNPC_26 {
+Why is that slave loafing around here doing nothing?
+}
+questNPC_27 {
+I’m carrying out Colonel Bishop’s orders.
+}
+questNPC_28 {
+Ah, it’s you, Doctor Blood. You treated me when I was discharged from the "Pride of Devon."
+}
+questNPC_29 {
+I’m glad you’ve recovered.
+}
+questNPC_30 {
+Get lost, slave!
+}
+questNPC_31 {
+Glad to see you too, whoever you are.
+}
+questNPC_32 {
+What weather, and yet I have to stand here. My only entertainment is swatting flies from my face.
+}
+questNPC_33 {
+I sympathize. But I can't help you—it's just the job you have.
+}
+questNPC_34 {
+If you’re in the mood for a chat, go find someone else—or better yet, head back to the plantations.
+}
+questNPC_35 {
+Certainly.
+}
+questNPC_36 {
+Go your own way and don’t distract me.
+}
+questNPC_37 {
+As you say, soldier.
+}
+questNPC_38 {
+@<TimeGreeting>, doctor.
+}
+questNPC_39 {
+Hello.
+}
+questNPC_40 {
+Could you tell me where I can find Doctor Wacker?
+}
+questNPC_41 {
+I need Doctor Wacker. Have you seen him?
+}
+questNPC_42 {
+@<RandPhraseSimple>
+}
+questNPC_43 {
+I need to get somewhere—could you recommend a capable captain?
+}
+questNPC_44 {
+I'm looking for a captain who can take my friend somewhere for a reasonable fee. Do you know anyone?
+}
+questNPC_45 {
+@<RandPhraseSimple>
+}
+questNPC_46_m {
+Oh, Doctor Blood, hello! I never did thank you for saving my little boy back then, something I still remember often and regret. How wonderful to see you today!
+}
+questNPC_46_f {
+Oh, Doctor Blood, hello! I never did thank you for saving my little boy back then, and I still think of it often and regret it. How wonderful to have met you today!
+}
+questNPC_47_m {
+Truly, how splendid it is when people feel the urge to show their gratitude at just the right moment. Tell me, dear friend, where might I quickly get my hands on a few boarding sabers and a couple of pistols—quietly, without any fuss?
+}
+questNPC_47_f {
+Truly, how wonderful it is when people are eager to show their gratitude at just the right moment. Tell me, my dear, where might I quickly get my hands on a few boarding sabers and a couple of pistols—quietly, without any fuss?
+}
+questNPC_48 {
+@<TimeGreeting>, doctor.
+}
+questNPC_49 {
+Hello.
+}
+questNPC_50 {
+You're blocking my goods. Get lost, you slave scum!
+}
+questNPC_51 {
+I'm leaving already.
+}
+questNPC_52 {
+I'm so tired—I can barely stand.
+}
+questNPC_53 {
+I can't go on living like this!
+}
+questNPC_54 {
+@<RandPhraseSimple>
+}
+questNPC_55 {
+This job is too hard for me.
+}
+questNPC_56 {
+The overseers have already flogged me raw!
+}
+questNPC_57 {
+@<RandPhraseSimple>
+}
+questNPC_58 {
+@<RandPhraseSimple>
+}
+questNPC_59 {
+Yes, life in captivity is a hard trial. Tell me, is @<pchar> among you?
+}
+questNPC_60 {
+Yeah, you’ve got it rough... There’s a slave named @<pchar> working somewhere on the plantation. You wouldn’t happen to know him, would you?
+}
+questNPC_61 {
+@<RandPhraseSimple>
+}
+questNPC_62 {
+Sorry for your troubles, mate.
+}
+questNPC_63 {
+I pity you.
+}
+questNPC_64 {
+@<RandPhraseSimple>
+}
+questNPC_65 {
+Hey, lad, spare a coin... Oh, it's you, Doctor Blood.
+}
+questNPC_66 {
+Good luck.
+}
+questNPC_67 {
+@<TimeGreeting>, doctor.
+}
+questNPC_68 {
+And to you.
+}
+questNPC_69 {
+Since when do slaves roam wherever they please, armed?
+}
+questNPC_70 {
+You're Colonel Bishop's slave, so why are you armed?
+}
+questNPC_71 {
+@<RandPhraseSimple>
+}
+questNPC_72 {
+Uh...
+}
+questNPC_73 {
+I can't make sense of it myself...
+}
+questNPC_74 {
+@<RandPhraseSimple>
+}
+questNPC_75 {
+What the hell are you doing here?! Get out, now!
+}
+questNPC_76 {
+Sorry, but this woman is with me.
+}
+questNPC_77 {
+What the hell are you doing here?! Get out, now!
+}
+questNPC_78 {
+No need to be rude! I have business with you.
+}
+questNPC_79 {
+Hic! Oh, mate, you look like a seasoned old salt! How about buying me a glass of rum?
+}
+questNPC_80 {
+I may be a sea dog, but that doesn’t mean I’ll serve grog to every ragtag drifter...
+}
+questNPC_81 {
+Get out of my house!
+}
+questNPC_82 {
+I'm leaving already.
+}
+questNPC_83 {
+Get lost!
+}
+questNPC_84 {
+I'm leaving already.
+}
+questNPC_85 {
+At last! I was starting to think you wouldn’t show up! So, ahem, did you manage to find out anything?
+}
+questNPC_86 {
+Uh... yes, of course.
+}
+questNPC_87 {
+You’ve mistaken me for someone else.
+}
+questNPC_88 {
+Won’t you pour me a drink, eh? Hic...
+}
+questNPC_89 {
+I don't think so.
+}
+questNPC_90 {
+What do you want?
+}
+questNPC_91 {
+I'm here to find out if you're planning to leave town, forgetting that you owe someone thirty thousand.
+}
+questNPC_92 {
+I'm afraid your situation is quite serious. Your deception, uh... Raph, has been uncovered!
+}
+questNPC_93 {
+Hey, old friend, what's up? Have you forgotten all about me?
+}
+questNPC_94 {
+He wasn’t lucky today. The poor fellow was flogged and thrown in irons. You’ll find him in the barracks yard. I fear he won’t last long under this scorching sun...
+}
+questNPC_95 {
+Thanks, mate.
+}
+questNPC_96 {
+He dashed into the tavern—look for him there. Don’t forget to check under the tables.
+}
+questNPC_97 {
+I was in the tavern recently, I think. If I remember right, I haven’t left since.
+}
+questNPC_98 {
+Just popped into the tavern... hungover, maybe?
+}
+questNPC_99 {
+@<LinkRandPhrase>
+}
+questNPC_100 {
+Thank you.
+}
+questNPC_101 {
+I don't know, get lost!
+}
+questNPC_102 {
+I can't help with that.
+}
+questNPC_103 {
+@<RandPhraseSimple>
+}
+questNPC_104 {
+Get lost, you slave scum!
+}
+questNPC_105 {
+And who’s this? I only know Doctor Blood... Oh, it’s you, hello.
+}
+questNPC_106 {
+@<RandPhraseSimple>
+}
+questNPC_107 {
+@<RandPhraseSimple>
+}
+questNPC_108 {
+Thank you.
+}
+questNPC_109 {
+Doctor, you've already asked me about this.
+}
+questNPC_110 {
+Sorry.
+}
+questNPC_111 {
+I can't help you with anything.
+}
+questNPC_112 {
+With all due respect, doctor, that's not something you should be asking about in your position.
+}
+questNPC_113 {
+Alas, I have no one to recommend to you, Doctor Blood.
+}
+questNPC_114 {
+@<LinkRandPhrase>
+}
+questNPC_115 {
+Thank you.
+}
+questNPC_116 {
+I won’t ask why you need this, and if anyone asks me, I won’t have to lie or make excuses. However, I won’t be asked for a report until the day after tomorrow, so...
+}
+questNPC_117 {
+The day after tomorrow, you’ll be able to say with confidence that you lent a few sabers and pistols, free of charge, to Doctor Peter Blood—the very same who served as a doctor in Bridgetown. I doubt Colonel Bishop will object...
+}
+questNPC_118 {
+My son owes you his life, as do I. Here, take this, Doctor Blood. And good luck to you!
+}
+questNPC_119 {
+Much obliged.
+}
+questNPC_120 {
+And good luck to you, Doctor Blood!
+}
+questNPC_121 {
+Thank you.
+}
+questNPC_122 {
+Hand over all your weapons, now! Someone needs to tell Colonel Bishop so he can give you a proper thrashing...
+}
+questNPC_123 {
+Here, take it, and let's forget this ever happened.
+}
+questNPC_124 {
+Let’s see who gives whom a thrashing now!
+}
+questNPC_125 {
+Ah, fine, get lost.
+}
+questNPC_126 {
+What the hell are you doing running around town with a drawn blade? Put your weapon away, now!
+}
+questNPC_127 {
+I order you to sheathe your weapon at once!
+}
+questNPC_128 {
+Hey, mate, stop scaring people! Sheathe your weapon.
+}
+questNPC_129 {
+@<LinkRandPhrase>
+}
+questNPC_130 {
+Alright.
+}
+questNPC_131 {
+Alright.
+}
+questNPC_132 {
+As you say...
+}
+questNPC_133 {
+@<LinkRandPhrase>
+}
+questNPC_134 {
+Not a chance!
+}
+questNPC_135 {
+Keep dreaming...
+}
+questNPC_136 {
+When pigs fly.
+}
+questNPC_137 {
+@<LinkRandPhrase>
+}
+questNPC_138 {
+Since when do slaves roam around wherever they please, armed?
+}
+questNPC_139 {
+You're Colonel Bishop's slave—why are you armed?
+}
+questNPC_140 {
+Hey, hand over all your weapons right now! Someone needs to tell Colonel Bishop so he can teach you a proper lesson...
+}
+questNPC_141 {
+Here, take this, and let’s forget all about it.
+}
+questNPC_142 {
+Let’s see who gives who a thrashing now!
+}
+questNPC_143 {
+Ah, fine, get lost.
+}
+questNPC_144 {
+Colonel Bishop has been looking everywhere for you. Get yourself to the plantation at once...
+}
+questNPC_145 {
+As you say.
+}
+questNPC_146 {
+A Spaniard? You’ve got to be kidding me!.. A Spaniard couldn’t have... or could he...?
+}
+questNPC_147 {
+I assure you, it was a Spaniard.
+}
+questNPC_148 {
+I'm heading there right away. Where is this house?
+}
+questNPC_149 {
+This is Mr. Griffin’s house, it’s not far from the governor’s estate.
+}
+questNPC_150 {
+Hello, Mister Blood, glad to see you in good health. In the state you arrived at the plantation, you wouldn’t have lasted long. Good thing the lads and I managed to nurse you back, though we’re no doctors ourselves.\nBut you, if I’m not mistaken, are one, aren’t you? Maybe you could give me something for a headache? Sometimes my head aches unbearably after that cursed storm. Why did the captain have to go there in the first place...
+}
+questNPC_151 {
+Of course, Sandro. After what you and Hopkins did for me and the lads, it's my duty to help you. Here, take this potion—it'll cure your migraine.
+}
+questNPC_152 {
+Unfortunately, I don’t have anything for headaches, Sandro. And Colonel Bishop most likely won’t give any money to buy the necessary medicine, since he believes all his slaves’ illnesses come from idleness. Sadly, all I can suggest is to rest as much as you can, whenever possible.
+}
+questNPC_153 {
+Doctor, in my situation, it’s hard to follow your advice. I have no money, but I do have something that might be of great use to you. So if you do manage to find something for me, I won’t forget your kindness.
+}
+questNPC_154 {
+Alright, I’ll try to get you some medicine. I’ll see if the town doctor has any to spare.
+}
+questNPC_155 {
+Oh, I hope you’ll give me some medicine, doctor?
+}
+questNPC_156 {
+Yes, I brought the migraine remedy, Sandro.
+}
+questNPC_157 {
+Probably not.
+}
+questNPC_158 {
+No, I haven’t managed to get the right potion yet.
+}
+questNPC_159 {
+Thank you! As a token of my gratitude, please accept this dagger. I’ve kept it hidden from the overseers for a long time, but I think you’ll find it more useful now. Given the current situation...
+}
+questNPC_160 {
+Yes, but slaves aren’t allowed to have weapons, are they? And what situation are you talking about?
+}
+questNPC_161 {
+Don’t worry, Doctor, it’s easy to hide under your clothes, so no one will notice a thing. Unless you start waving it around in front of the soldiers. And the time will come when you’ll have to wave it, and I think I know why... But I won’t give you away, don’t worry—I’m on your side.
+}
+questNPC_162 {
+Thank you, my friend. I suggest you have a word with Jeremy. Get well soon!
+}
+questNPC_163 {
+What are you babbling about, you wretched slave?! What business could you possibly have with me?!
+}
+questNPC_164 {
+I need this ring...
+}
+questNPC_165 {
+A ring?! I wouldn’t sell it to you for any amount of money! Go buy another one from some merchant woman who’s willing to deal with a slave!
+}
+questNPC_166 {
+I need not just the ring, but the finger it’s on.
+}
+questNPC_167 {
+You’ll pay dearly for your words!
+}
+questNPC_168 {
+I knew it. Best to handle things like this without witnesses. Meet me by the city gate in an hour.
+}
+questNPC_169 {
+All right then, let’s meet outside the gates in an hour. I’ll even bring you some kind of blade, just to make it feel a bit more like a real duel.
+}
+questNPC_170 {
+See you soon.
+}
+questNPC_171 {
+Well, what do you want now?
+}
+questNPC_172 {
+I don't have much time—I want to finish you off right now!
+}
+questNPC_173 {
+Just wanted to remind you about our meeting.
+}
+questNPC_174 {
+Hm, you chose your own fate!
+}
+questNPC_175 {
+Let’s get down to business.
+}
+questNPC_176 {
+So, are you ready to head into hell?
+}
+questNPC_177 {
+Yeah. Let’s see who comes out on top!
+}
+questNPC_178 {
+What are you babbling about, you wretched slave?!
+}
+questNPC_179 {
+I bring you news that the pleasant pastime is canceled.
+}
+questNPC_180 {
+You’ve got three seconds to crawl back to wherever you came from—and pray we never cross paths again.
+}
+questNPC_181 {
+I’ve got a better idea. How about you get angry and challenge me to a duel, while I just stand here and wait?
+}
+questNPC_182 {
+Hic! Oh, mate, you look like a seasoned old salt! How about we share a glass of rum? My treat.
+}
+questNPC_183 {
+I may be a sea dog, but that doesn’t mean I’ll drink with just anyone.
+}
+questNPC_184 {
+I’d be glad to join you myself, for the company.
+}
+questNPC_185 {
+Hic! Now that’s what I’m talking about! That’s the spirit! Drinks are on me tonight!
+}
+questNPC_186 {
+Innkeeper, rum!
+}
+questNPC_187 {
+You’re a true friend! Here’s to new acquaintances!
+}
+questNPC_188 {
+Hic! What a rum! Well... bottoms up!
+}
+questNPC_189 {
+To your health, and to your swift release!
+}
+questNPC_190 {
+@<LinkRandPhrase>
+}
+questNPC_191 {
+Tell me, brother, what tales are making the rounds in the taverns?
+}
+questNPC_192 {
+Nothing particularly new... A merchant arrived recently on a voyage from Jamaica. Rumor has it he brought a very valuable cargo. If I’m not mistaken, he’s an old acquaintance of Colonel Bishop. He’s staying in one of the town’s houses and plans to remain here for another day or two.
+}
+questNPC_193 {
+Yeah, that was a good time, but I should be going now.
+}
+questNPC_194 {
+Then get out!
+}
+questNPC_195 {
+So how many are there?
+}
+questNPC_196 {
+They're all there.
+}
+questNPC_197 {
+There are five of them.
+}
+questNPC_198 {
+There are more of them than I could count.
+}
+questNPC_199 {
+Is that all? What are you talking about?! Get out of here, you damned adventurer!
+}
+questNPC_200 {
+Five of them... hmm. That explains it. Are they armed?
+}
+questNPC_201 {
+They carry light weapons, and don’t flaunt them.
+}
+questNPC_202 {
+No, they’re behaving quite peacefully.
+}
+questNPC_203 {
+Them... what?! Get out of my house, you liar!
+}
+questNPC_204 {
+I knew it! Griffin sold them the weapons! Are they asking about me or about my goods?
+}
+questNPC_205 {
+They were asking about you, questioning the guards.
+}
+questNPC_206 {
+They tried to pry some information about you from the innkeeper.
+}
+questNPC_207 {
+Peacefully? Are you mad?
+}
+questNPC_208 {
+Guardsmen? A jester, though a clever one! Go to hell!
+}
+questNPC_209 {
+The old dog won’t betray me. How did they get into the city?
+}
+questNPC_210 {
+A Spanish ship docked—they arrived on it.
+}
+questNPC_211 {
+They slipped into the town at night through the jungle.
+}
+questNPC_212 {
+They've been here for quite a while, just keeping out of sight.
+}
+questNPC_213 {
+On... the ship? But... you’re lying! Damn you!
+}
+questNPC_214 {
+The jungle... with just five of you? Don’t make me laugh! Get lost!
+}
+questNPC_215 {
+That's right, I'm sure I've seen them before. Alright, you did a good job, lad. Still... who are they?
+}
+questNPC_216 {
+The Spanish.
+}
+questNPC_217 {
+Pirates.
+}
+questNPC_218 {
+Bounty hunters.
+}
+questNPC_219 {
+Not a bad try... I reckon they've already paid you. Just leave.
+}
+questNPC_220 {
+Pirates? Ha-ha! You sure know how to make me laugh. Get the hell out of here!
+}
+questNPC_221 {
+Take your money. Tell him I’m pleased with your work.
+}
+questNPC_222 {
+Ahh... today, I suppose the drinks are on me. Just like yesterday, and the day before, and every day since... well, never mind.
+}
+questNPC_223 {
+No, let me treat the best fisherman in Barbados!
+}
+questNPC_224 {
+As you command, lord... of the fish.
+}
+questNPC_225 {
+You're damn right, hell yeah! Let's drink to that!
+}
+questNPC_226 {
+To the best fisherman! (downing the contents of the mug) How long have you been at this, Arnie?
+}
+questNPC_227 {
+What’s your problem, eh? Hell, I’m the best fisherman in the whole archipelago!
+}
+questNPC_228 {
+It’s no wonder you’re the best where there aren’t any fish... I’ve fished too... for fish.
+}
+questNPC_229 {
+It’s been decades now, my friend. Decades... but I’ve never seen anything like this before, by the anchor...
+}
+questNPC_230 {
+Never seen anything like THAT before, eh? All right, let’s have another drink to THAT!
+}
+questNPC_231 {
+No? No fish?! You have to know the right spots, you bungler! I found a special place... the net fills to the brim overnight—God is my witness!
+}
+questNPC_232 {
+Spots... I was looking for good spots too, tried everywhere... there’s no fish here, and no good places either. To hell with fishing—it’s a losing game!
+}
+questNPC_233 {
+Let’s have a drink... This... this place... it’s...
+}
+questNPC_234 {
+Well? What is this place?!
+}
+questNPC_235 {
+You don’t know how to search! I can show you how it’s done... what it feels like...
+}
+questNPC_236 {
+Well? What is this place?!
+}
+questNPC_237 {
+...it’s very close. @<Pchar>
+}
+questNPC_238 {
+Incredible!.. But I must be going now.
+}
+questNPC_239 {
+You... get lost, you sniveling spy!
+}
+questNPC_240 {
+May the sea devil take you!
+}
+questNPC_241 {
+Who the hell are you, anyway? My name is Alex Winner, I’m a merchant! Get lost, or I’ll buy you off your master and send you to the bottom hugging a cannonball!
+}
+questNPC_242 {
+Um...
+}
+questNPC_243 {
+Mmm... do we know each other? I might've forgotten, who are you..?
+}
+questNPC_244 {
+Of course, Raph! But... if you’ve forgotten what I owe you, then...
+}
+questNPC_245 {
+What are you talking about? For what? What trickery?!
+}
+questNPC_246 {
+Hand over 30,000 piastres to the swindled moneylender, and I’ll tell Governor Steed that you returned them of your own free will. Then I’ll let you go, and you won’t have to swing from the gallows.
+}
+questNPC_247 {
+I remember... I think. Right. So, when will you pay me back?
+}
+questNPC_248 {
+The debt of life, my friend... Where would you choose to die? Perhaps right here?
+}
+questNPC_249 {
+What?! You wouldn’t dare!..
+}
+questNPC_250 {
+You betrayed me, Guinness! Because of you, I lost everything!.. You will die!
+}
+questNPC_251 {
+No, wait... Look... I have 55,000 piastres! Take them and go! That’s all I have, I beg you...
+}
+questNPC_252 {
+Oh, how the tune has changed, my dear friend. Glad we’ve come to an agreement. Now get lost, you miserable worm.
+}
+questNPC_253 {
+You... Damn it... Fine. Here, take it, it's yours! I almost pulled it off...
+}
+questNPC_254 {
+Much obliged, my dear friend. Now get out of my sight.
+}
+questNPC_255 {
+Hello, stranger. Are you here on business? If not, move along.
+}
+questNPC_256 {
+Not very polite... And who might you be? Haven’t heard anything about our factor being replaced.
+}
+questNPC_257 {
+Maybe... it's because he never changed, eh, my friend?
+}
+questNPC_258 {
+I don’t have the honor of calling you a friend. Let me guess... You’re a pirate?
+}
+questNPC_259 {
+You’re astonishingly ignorant! Have you truly never heard of Captain Jacques Solovey?
+}
+questNPC_260 {
+Was I supposed to have heard?
+}
+questNPC_261 {
+Hm, allow me to fill this regrettable gap in your knowledge. So, let me introduce myself! Captain Jacques Nightingale, also known as...
+}
+questNPC_262 {
+That’s all very interesting, but—where’s your ship, captain?
+}
+questNPC_263 {
+Uh... He’s at the anchorage... Somewhere...
+}
+questNPC_264 {
+Keeping an eye on him here?.. If so, I’ve got one in mind.
+}
+questNPC_265 {
+Come on... What's the point of all this chatter? My ship is gone! Unless you’ve got a sail hidden under those rags...
+}
+questNPC_266 {
+Believe me, I plan to gain much more than just a sail in the near future.
+}
+questNPC_267 {
+Slave galleys? No way.\nLet’s be honest—after all, we’re friends now, aren’t we? When two people break into the same shop, at the same time, without the owner’s knowledge, it’s like the Lord Himself is telling them to become friends, you see?
+}
+questNPC_268 {
+Suppose so.
+}
+questNPC_269 {
+Well, I’ve already “borrowed” a few piastres from the owner of this fine place...
+}
+questNPC_270 {
+That’s exactly the sort of thing I could use myself.
+}
+questNPC_271 {
+You think it’s wise to pick a fight with a pirate?.. I’d say that’s not in your best interest. So here’s the deal—listen up.\nFind someone willing to take me to Port Royal for three thousand, and I’ll give you fifteen hundred. Deal? In your situation, every last piece of eight counts.
+}
+questNPC_272 {
+Yeah... Tempting offer. Not like I have much of a choice. Deal.
+}
+questNPC_273 {
+You know, you should just... Go fool some young idiots instead! I’ve had enough for today.
+}
+questNPC_274 {
+Splendid. One condition, mon chéri—no names. Well, you can give yours if you like... but mine... Just say you forgot it. Or better yet, say I’m a beautiful young miss! Let’s say... Taylor. Yes, Taylor. Got it?
+}
+questNPC_275 {
+Young miss?.. All right, I’ll think of something.
+}
+questNPC_276 {
+Glad to see you, my new friend. So, were you able to do me that favor we talked about?
+}
+questNPC_277 {
+The corvette 'Floating Briton' under Captain John Miner is already waiting for you.
+}
+questNPC_278 {
+Well, what can I say—a bow and my deepest thanks to you, oh...
+}
+questNPC_279 {
+Fifteen hundred, Jacques.
+}
+questNPC_280 {
+Of course, of course! I merely wished to express my sincere gratitude and offer you a taste of this most marvelous rum, so that we might seal the bonds of our fine friendship with a shared toast, which from this day forth...
+}
+questNPC_281 {
+Fifteen hundred! I’m waiting... my new friend.
+}
+questNPC_282 {
+Quiet, you! Here, here’s your money!..
+}
+questNPC_283 {
+Thank you.
+}
+questNPC_284 {
+I’m grateful to you... friend. Go on—spend your money on something nice.
+}
+questNPC_285 {
+And good luck to you... hmm.
+}
+questNPC_286 {
+John Miner, captain of the corvette 'Floating Briton', at your service. How can I assist you?
+}
+questNPC_287 {
+Good day, my name is Peter Blood. May I ask you for a favor, captain? A certain, uh... friend of mine needs to get to Port Royal, and he's willing to part with three thousand pieces of eight.
+}
+questNPC_288 {
+May I know your friend’s name, Mr. Blood?
+}
+questNPC_289 {
+Of course. His name is... her... well, yes — actually, it’s her...
+}
+questNPC_290 {
+Of course. His name’s Jacques Nightingale, ever heard of him?..
+}
+questNPC_291 {
+No.
+}
+questNPC_292 {
+Miss? Your friend... or rather, your lady friend, is heading to Port Royal?
+}
+questNPC_293 {
+And why not? Port Royal is a perfectly respectable port. Why shouldn’t a young lady go there?
+}
+questNPC_294 {
+I... I've heard, yes. Well, I'll be waiting for him aboard. Thank you for your honest answer, Mr. Blood.
+}
+questNPC_295 {
+Honesty is a double-edged blade. All the best. I hope you won't regret your decision.
+}
+questNPC_296 {
+No? How can I agree to take on a passenger if I don’t even know their name?!
+}
+questNPC_297 {
+You certainly can. Let's put it this way, it's a certain Miss Taylor... Yes, that's right — Miss Taylor, who will give you three thousand in silver if you stop asking questions.
+}
+questNPC_298 {
+Alright, I’ll take him... her. Tell my future passenger that the ‘Floating Briton’ is ready to set sail.
+}
+questNPC_299 {
+Thank you.
+}
+questNPC_300 {
+Should’ve said so from the start! It’s a deal—I’ll be waiting for Miss Taylor, aboard.
+}
+questNPC_301 {
+I’ll let her know. All the best, Captain.
+}
+questNPC_302 {
+Ah, English dog!
+}
+questNPC_303 {
+I hope you're ready to meet your maker.
+}
+questNPC_304 {
+You saved me? Who are you?!
+}
+questNPC_305 {
+I'm Peter Blood, uh... the local doctor. Are you going to wait while I show you my papers? And what the devil is going on here?
+}
+questNPC_306 {
+The Spaniards... they... That big ship, the one allowed to sail so calmly into our bay today under a false flag, turned out to be a Spanish privateer. Their trick with the flag went unnoticed, so much so that, without raising any suspicion, they sailed right into the bay and fired a broadside salute at the fort from point-blank range with twenty cannons...
+}
+questNPC_307 {
+And now, as I understand it, this privateer's crew is plundering the town?
+}
+questNPC_308 {
+Yes, by sunset our garrison had surrendered, and two hundred and fifty Spaniards became the masters of Bridgetown.
+}
+questNPC_309 {
+That’s what you call a timely twist of fate. Though only the devil knows how this will all turn out! As for you—run into the woods and hide until the Spaniards leave town.
+}
+questNPC_310 {
+Captain Hobart! According to our spy's information, rebels are hiding out in this estate. There are five dragoons at your disposal. Search the building and seize anyone lurking inside! Don't handle this scum with kid gloves. You're acting in the name of the King!
+}
+questNPC_311 {
+Yes, sir!
+}
+questNPC_312 {
+Did you hear the colonel? The rebels are hiding there! Search everything, turn the house upside down and seize everyone you find! Get to it!
+}

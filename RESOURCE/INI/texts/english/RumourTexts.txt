@@ -1,0 +1,63 @@
+Start_GoldFleet_t0 {People talk about a fleet, which annualy delivers gold and silver to the Spanish crown, has recently left the shores of Portobelo for Havana.}
+Start_GoldFleet_t1 {Just a few days ago a spanish fleet with an immesurable amount of gold and silver of Incas and Aztecs left Portobelo. This convoy is heading to Havana, from where this treasure is delivered to Spain.}
+Start_GoldFleet_t2 {There are rumors about a spanish golden convoy leaving Portobelo for Havana with a cargo of gold and silver. The fleet is guarded by Frigates, each of them have two decks, full of cannons, as well as some other war ships.}
+
+End_GoldFleet_t0 {The spanish golden convoy has reached Cuba in one piece. Now all the gold and silver they collected will be delivered to Spain.}
+End_GoldFleet_t1 {All the ships of the spanish golden fleet has reached Havana without a scratch. All this gold and silver from Mexico and Peru will soon be delivered to Europe.}
+End_GoldFleet_t2 {The spanish golden fleet has reached Havana. All the gold and silver are safe and will soon be delivered to Spain.}
+
+Defeat_GoldFleet_t0 {People talk about how the spanish golden convoy has left Portobelo but hasn't reached Havana yet. I can't say why, but I believe it were either the pirates or storms.}
+Defeat_GoldFleet_t1 {The spanish golden fleet, which was swimming to Havana with gold and silver of the redskins, has dissapeared. No one is sure why, but people say it might've been the pirates!}
+Defeat_GoldFleet_t2 {The golden fleet, which was delivering immesurable treasures from Portobelo, hasn't reached Havana, even though it should've by now. Who knows - maybe the storms sealed their fate.}
+
+Attak_GoldFleet_t0 {People speak of the spanish golden fleet, carrying the goods from the New World to Havana, has been attacked! Several ships were lost as a result.}
+Attak_GoldFleet_t1 {The sea has become completely unsafe! The spanish golden fleet was attacked by either pirates or English cappers, I am not sure... But the audacity! I wish I could see the bastards hanged!}
+Attak_GoldFleet_t2 {Each day is worse than the last! Now even the spanish golden fleet with the goods of the New World has been attacked! The world's damned! Oh Holy Mother of God, help us!}
+
+Init_GoldFleet_t0 {There are rumors that the spanish golden fleet at Portobelo is preparing to sail off to Havana. The time of leaving is heavily implied to be at the start of #sgold_month#.}
+Init_GoldFleet_t1 {There are whispers of a cargo of gold and silver is loaded onto the ships of the spanish golden fleet at Portobelo. This convoy will sail off to Cuba in the first half of #sgold_month#.}
+Init_GoldFleet_t2 {The beginning of #sgold_month# is supposed to be the time of the spanish golden fleet to sail off to Cuba. All their gold and silver will be loaded in by that time, too.}
+
+MerchantOnMapTo_t0 {People say that a ship by the name of "#sShipName#" of #snation# from #ssColony# is sailing here, filled with #sQuestGoodsIdx#.}
+MerchantOnMapTo_t1 {Our local trader is expecting a ship by the name of "#sShipName#" under the #snation# flag from #ssColony# to arrive with a cargo of #sQuestGoodsIdx#.}
+MerchantOnMapTo_t2 {I've heard of a trader on a ship by the name of "#sShipName#" under the #snation# flag, who is sailing with a cargo of #sQuestGoodsIdx# from the colony of #ssColony#.}
+
+MerchantOnMap_t0 {People talk about a trading ship by the name of "#sShipName#" under the #snation# flag is waiting for a good wind in our harbour to sail to #ssNextColony# with a cargo of #sQuestGoodsIdx#.}
+MerchantOnMap_t1 {There are rumors about a rich merchant of #snation# chartered a ship by the name of "#sShipName#". Soon enough it shall sail off to #ssNextColony# with a cargo of #sQuestGoodsIdx#.}
+MerchantOnMap_t2 {Our local trader got himself a ship - "#sShipName#", with a cargo of #sQuestGoodsIdx# for #snation#, and will sail off to #ssNextColony# soon.}
+
+MerchantRumour_t0 {I've heard rumors about a ship by the name of "#sShipName#" under the #snation# flag, which left the colony of #ssColony# for #ssNextColony# with a cargo of #sQuestGoodsIdx#, was sunk by an unknown pirate!}
+MerchantRumour_t1 {People say that "#sShipName#" under the #snation# flag has left #ssColony#, while having a cargo of #sQuestGoodsIdx# for #ssNextColony# has dissapeared complete: crew and cargo both!}
+MerchantRumour_t2 {There are horrible rumors spread around these days: some pirate boarded "#sShipName#" of #snation# from the colony of #ssColony#. Killing the entire crew, he took the cargo of #sQuestGoodsIdx#. That wasn't you, right?}
+
+GetColonyPrices_t0 {While drinking some ale, the quartermaster of the East-Indies told me the prices in #sColony#'s store.}
+GetColonyPrices_t1 {A captain of a trade ship, which came here recently from #sColony#, told me the prices at their local store.}
+GetColonyPrices_t2 {Heard at the tavern the other day, how two captains were discussing the prices in #sColony#'s store.}
+
+WaitInTavern_t0 {I've heard people say that #sPsHero_Name# has lost his ship and is now drinking his sorrows away at #sTown_Name#.}
+WaitInTavern_t1 {Overheard a drunk sailor, the one that was arrested yesterday for theft, tell his mates that #sPsHero_Name# lost his ship in a card game, and how he's now waiting for any luck at the tavern of #sTown_Name#.}
+WaitInTavern_t2 {Sailors at the tavern keep talking how #sPsHero_Name# isn't very fortunate: a patrol has sunken his ship, while he barely evaded being executed at #sTown_Name#.}
+
+WorkOnMayor_t0 {Today I saw#sPsHero_Name# talking to our governor. Seems like he got himself anothe "interesting" mission.}
+WorkOnMayor_t1 {Townfolk are whispering about our governor's new protege - captain #sPsHero_Name# comes to the residence often enough to do some menial tasks and care for Our Lord's daughter.}
+WorkOnMayor_t2 {The cook told me how Our Lord's maid told her about #sPsHero_Name# being in close ties with the governor. Today, early morning, he was in a hurry for... something at the residence.}
+
+SailToIsland_t0 {#sPsHero_Name# spoke of being in a hurry to #sTo# #sTown_Name#. Probably to buy something.}
+SailToIsland_t1 {#sPsHero_Name# is sailing off to #sTo# #sTown_Name# on trade business. Heard about that from a sailor of his at the tavern.}
+SailToIsland_t2 {Yesterday #sPsHero_Name# got deathly drunk at the tavern, got his hands on all the girls and kept shouting about his business at #sTo# #sTown_Name#.}
+
+WorkOnStore_t0 {One sailor at the tavern was talking how #sPsHero_Name# decided to deliver a cargo of #sGood# to #sTown_Name#.}
+WorkOnStore_t1 {Our trader's right hand told me how #sPsHero_Name# took a job to deliver a cargo of #sGood# to a store in #sTown_Name#.}
+WorkOnStore_t2 {Our barkeeper talked about how #sPsHero_Name# got himself a crew to sail off to #sTown_Name# with a cargo of #sGood# from our local store.}
+
+WorkWithContra_t0 {I saw how #sPsHero_Name# was talking to some shadow-y figure. I heard that it was a contrabandists.}
+WorkWithContra_t1 {People talk how #sPsHero_Name# has brought an entire ship, full of contraband. Maybe sold, maybe not yet...}
+WorkWithContra_t2 {I managed to eavesdrop on a conversation between the local contrabandist and #sPsHero_Name#: they agreed to meet at a place, called #sContraPlace#.}
+
+DuelCoward_t0 {What a shame! #sName# hasn't appeared on his duel! Now everyone says he's a coward!}
+DuelCoward_t1 {Ha, #sName# didn't come to duel this last time! I suppose he won't be as popular with women now...}
+DuelCoward_t2 {Have you heard? #sName# didn't come to his duel! People say he got so drunk last night he couldn't walk.}
+
+DuelHero_t0 {Did you know that #sName# is a record duelist? He's killed #sKill# already. I wouldn't want to meet him personally...}
+DuelHero_t1 {People speak of #sName# as if he sold his soul to the Devil, which is why he's an undefeatable duelist! The souls of those he killed, and he killed #sKill# go straight to Hell... They also say that, if he stops his killing spree, the Devil will take HIS soul!}
+DuelHero_t2 {This upstart #sName# is incredibly lucky! He's already killed #sKill# on duels, and yet not a scratch on him! Can you believe it?}

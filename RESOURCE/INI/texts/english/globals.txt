@@ -1,0 +1,106 @@
+CARDS_RULE {"The rules are simple. Blackjack. 36 cards, from sixes to aces. Ace goes for 11 points, kings - 4, Lord (horse knight) - 3, Nobile (foot soldier) - 2, the rest has the same value as written. Your goal is to get 21 points\nClick a deck to take one more card. Each card is a stake. Click a portrait at top right in order to finish your turn. You need enough money for at least three stakes if you want to play. Press esc or a cross if you are done."}
+DICE_RULE {"Craps. Five to each players. You can overthrow all five or any of them but only once. Each dice is a stake. Your goal is to get the maximum score.\nHere goes combinations: duo (2), two duos (2+2), triad (3), full (3+2), square (4), street (dices in a row) and poker (5). \nClick a cup to throw, click a dice to overthrow this particular dice, click a portrait in order to finish your turn (in case you don't need to overthrow or don't have enough money to do so)."}
+
+Address_Form_Spa {senor}
+Address_Form_Fra {monsieur}
+Address_Form_Eng {sir}
+Address_Form_Hol {mynheer}
+Address_Form_Por {senhor}
+Address_Form_Pir {sir}
+
+Address_Form_SpaWoman {senorita}
+Address_Form_FraWoman {mademoiselle}
+Address_Form_EngWoman {miss}
+Address_Form_HolWoman {mefrau}
+Address_Form_PirWoman {miss}
+
+Address_Form_SpaWoman2 {senora}
+Address_Form_FraWoman2 {madam}
+Address_Form_EngWoman2 {missis}
+Address_Form_HolWoman2 {frau}
+Address_Form_PirWoman2 {missis}
+
+BaronTitle {baron}
+BaronWomanTitle {baroness}
+
+Officer Attack {Officers attack!}
+Officer Follow {Officers follow me!}
+Officer Stay {Officers hold position!}
+
+Potion_Not_Found {Potion not found!}
+Used_Antidote {Antidote used}
+No_Search_Anyone {No one to loot}
+
+Address_Form_Spa_Title1 {Corsario}
+Address_Form_Fra_Title1 {Corsair}
+Address_Form_Eng_Title1 {Privateer}
+Address_Form_Hol_Title1 {Filibuster}
+Address_Form_Pir_Title1 {Buccaneer}
+
+Address_Form_Spa_Title2 {Lieutenant}
+Address_Form_Fra_Title2 {Lieutenant}
+Address_Form_Eng_Title2 {Lieutenant}
+Address_Form_Hol_Title2 {Lieutenant}
+Address_Form_Pir_Title2 {Sea Wolf}
+
+Address_Form_Spa_Title3 {Captain}
+Address_Form_Fra_Title3 {Captain}
+Address_Form_Eng_Title3 {Captain}
+Address_Form_Hol_Title3 {Captain}
+Address_Form_Pir_Title3 {Veteran}
+
+Address_Form_Spa_Title4 {Commodore}
+Address_Form_Fra_Title4 {Commodore}
+Address_Form_Eng_Title4 {Commodore}
+Address_Form_Hol_Title4 {Commodore}
+Address_Form_Pir_Title4 {Lord}
+
+Address_Form_Spa_Title5 {Admiral}
+Address_Form_Fra_Title5 {Admiral}
+Address_Form_Eng_Title5 {Admiral}
+Address_Form_Hol_Title5 {Admiral}
+Address_Form_Pir_Title5 {Legend}
+
+NationKingsName_Spa {His Catholic Majesty Carlos II Habsburg}
+NationKingsName_Fra {His Most Christian Majesty Louis XIV}
+NationKingsName_Eng {His Majesty Charles II Stuart}
+NationKingsName_Hol {Stadtholder William III}
+NationKingsName_Por {Afonso VI the Victorious}
+NationKingsName_Pir {Pirate Brethren of the Coast}
+
+NationKingsCrown_Spa {Spanish crown}
+NationKingsCrown_Fra {French crown}
+NationKingsCrown_Eng {English throne}
+NationKingsCrown_Hol {Republic of the Seven United Provinces}
+NationKingsCrown_Por {Portuguese crown}
+NationKingsCrown_Pir {Brethren of the Coast}
+
+Swear_1 {Caramba!}
+Swear_2 {Damn it!}
+Swear_3 {Devil!}
+Swear_4 {Goddammit!}
+Swear_5 {May my liver pop!}
+Swear_6 {A thousand sharks!}
+Swear_7 {Argh!!!}
+Swear_8 {Shiver me timbers!}
+Swear_9 {Blistering barnacles!}
+Swear_10 {Blimey!}
+Swear_11 {Argh, this sucks!}
+Swear_12 {Oh, crap...}
+Swear_13 {Blistering barnacles!}
+Swear_14 {What a hell!}
+Swear_15 {A thousand devils!}
+
+Exclamation_1 {Oh my God!!}
+Exclamation_2 {Oh heavens!}
+Exclamation_3 {Saint Madonna!}
+
+MorningGreeting {Good morning}
+DayGreeting {Good day}
+EveningGreeting {Good evening}
+NightGreeting {Good night}
+TimeGreeting {Good evening}
+
+rat_spoiled {spoiled}
+rat_damaged {damaged}
+rat_destroyed {destroyed}

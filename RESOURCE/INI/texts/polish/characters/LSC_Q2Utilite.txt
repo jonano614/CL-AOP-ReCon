@@ -1,0 +1,85 @@
+LSC_Q2Utilite_1 {Kapitan Sharp był tutaj, widziałem go. Ale teraz nie ma go w mieście i nie wiem, dokąd poszedł.}
+LSC_Q2Utilite_2 {Kapitan Sharp odwiedził nasze miasto. Nie wiem, gdzie jest teraz, ale na pewno nie ma go tutaj.}
+LSC_Q2Utilite_3 {Kapitan Bartholomew Sharp opuścił miasto zaledwie kilka dni temu...}
+LSC_Q2Utilite_4 {Kapitan Bartholomew Sharp był w naszym mieście i, jak zawsze, zdążył się wyróżnić... Ale teraz go tu nie ma. Mówią, że poszedł do @<XI_ConvertString>.}
+LSC_Q2Utilite_5 {Wie pan, kapitan Sharp był ostatnio w mieście. Wesoły pirat, ten Bartholomew... Dobrze jednak, że opuścił nasze miasto. Chyba poszedł do @<XI_ConvertString>.}
+LSC_Q2Utilite_6 {Wie pan, niedawno zaszczycił nas swoją obecnością kapitan Sharp. Niestety, ku naszemu rozczarowaniu, nie usłyszeliśmy żadnego nowego karaibskiego dowcipu „od Sharpa”. Szkoda... A teraz nie ma go w naszym mieście. Mówią, że poszedł do @<XI_ConvertString>. Może tam będą mieli więcej szczęścia...}
+LSC_Q2Utilite_7 {Wie pan, kapitan Sharp właśnie opuścił miasto na swoim brygu. Gdyby przybył pan pół godziny wcześniej, zobaczyłby go pan prosto w porcie.}
+LSC_Q2Utilite_8 {Kapitan Sharp... No cóż, to dopiero kapitan. Wie pan, właśnie opuścił nasze miasto. Jeśli się pospieszysz, możesz go jeszcze złapać na pobliskich wodach.}
+LSC_Q2Utilite_9 {Bartholomew Sharp dosłownie godzinę temu opuścił nasz port i wypłynął w morze.}
+LSC_Q2Utilite_10 {Kilka minut temu kapitan Sharp wpadł na mnie twarzą w twarz. Kręci się tu po ulicach—dziwne, że nie siedzi w burdelu...}
+LSC_Q2Utilite_11 {Właśnie miałem okazję porozmawiać z kapitanem Sharpem na ulicy. Ciekawy facet, wie pan...}
+LSC_Q2Utilite_12 {Kapitan Sharp właśnie spaceruje po ulicach. A my wszyscy czekamy, co znowu wymyśli...}
+LSC_Q2Utilite_13 {Wie pan, miejscowy kupiec, @<GetFullName>, znów wysyła swój własny fluit '@<pchar>' do Starego Świata po towary. Fluit niedawno opuścił port.}
+LSC_Q2Utilite_14 {Hmm, nasz rodzimy kupiec radzi sobie całkiem nieźle! @<GetFullName> znów wysłał swój własny fluit '@<pchar>' po towary—statek właśnie opuścił nasz port.}
+LSC_Q2Utilite_15 {No proszę, @<GetFullName> robi się coraz bogatszy. Jeszcze wczoraj jego żaglowiec rozładowywał się w porcie, a dziś port już się z nim pożegnał. Fluita '@<pchar>' znów wypłynęła po kolejne towary, ot co!}
+LSC_Q2Utilite_16 {na pancerniku 'Tartarus', gdzie znajduje się więzienie}
+LSC_Q2Utilite_17 {na fregacie Carolina}
+LSC_Q2Utilite_18 {na fluycie 'Ceres Smiti'}
+LSC_Q2Utilite_19 {na galeonie 'Esmeralda', gdzie jest sklep}
+LSC_Q2Utilite_20 {na karaweli 'Fleuron', gdzie jest tawerna}
+LSC_Q2Utilite_21 {na pinasie 'Fury', na dziobie}
+LSC_Q2Utilite_22 {na pinasie 'Fury', w części rufowej}
+LSC_Q2Utilite_23 {na galeonie 'Gloria', gdzie jest kościół}
+LSC_Q2Utilite_24 {na flecie 'Pluto'}
+LSC_Q2Utilite_25 {na korwecie 'Protector'}
+LSC_Q2Utilite_26 {na okręcie wojennym 'San Augustin', gdzie znajduje się rezydencja admirała}
+LSC_Q2Utilite_27 {na barku 'San Gabriel', w części dziobowej}
+LSC_Q2Utilite_28 {na barku 'San Gabriel', w części rufowej}
+LSC_Q2Utilite_29 {na brygu 'Santa Florentina'}
+LSC_Q2Utilite_30 {na galeonie 'Eva'}
+LSC_Q2Utilite_31 {na galeonie Velasco}
+LSC_Q2Utilite_32 {na platformie Phoenix}
+LSC_Q2Utilite_33 {na galeonie Eva}
+LSC_Q2Utilite_34 {na fregacie 'Carolina'}
+LSC_Q2Utilite_35 {na fluicie 'Ceres Smithy'}
+LSC_Q2Utilite_36 {na galeonie "Esmeralda", w sklepie}
+LSC_Q2Utilite_37 {na platformie Phoenix}
+LSC_Q2Utilite_38 {na fluycie 'Fernando Diffindur'}
+LSC_Q2Utilite_39 {na karaweli 'Fleuron', w tawernie}
+LSC_Q2Utilite_40 {na pokładzie pinasy Fury}
+LSC_Q2Utilite_41 {na galeonie "Gloria", w kościele}
+LSC_Q2Utilite_42 {we flocie 'Pluto'}
+LSC_Q2Utilite_43 {na pokładzie korwety Protector}
+LSC_Q2Utilite_44 {na okręcie wojennym 'San Augustin', w rezydencji admirała}
+LSC_Q2Utilite_45 {na barku "San Gabriel"}
+LSC_Q2Utilite_46 {na brygu "Santa Florentina"}
+LSC_Q2Utilite_47 {na pancerniku 'Tartarus', w więzieniu}
+LSC_Q2Utilite_48 {na galeonie 'Velasco'}
+LSC_Q2Utilite_49 {Kapitan @<GetStrSmallRegister> '@<sld>' jest teraz w mieście. Chyba nazywa się @<GetFullName>. Powinien być teraz u zarządcy portu.}
+LSC_Q2Utilite_50 {Wie pan, kapitana @<GetStrSmallRegister> '@<sld>' można teraz znaleźć u władz portowych.}
+LSC_Q2Utilite_51 {Jeśli chcesz porozmawiać z kapitanem @<GetStrSmallRegister> '@<sld>', idź prosto do mistrza portu. @<GetFullName> jest tam teraz...}
+LSC_Q2Utilite_52 {@<LinkRandPhrase>}
+LSC_Q2Utilite_53 {Kapitan @<GetStrSmallRegister> '@<sld>' stoi na redzie w porcie. Chyba nazywa się @<GetFullName>. Dziwny z niego człowiek — w ogóle nie schodzi na ląd.}
+LSC_Q2Utilite_54 {Wie pan, kapitana @<GetStrSmallRegister> '@<sld>' można teraz spotkać tylko wtedy, gdy popłynie się łodzią do portu. Statek stoi na redzie, ale kapitan nie schodzi do miasta, woli zostać na pokładzie. Jeszcze mu się to nie znudziło?..}
+LSC_Q2Utilite_55 {Jeśli chcesz porozmawiać z kapitanem @<GetStrSmallRegister> „@<sld>”, idź do portu. Chyba nazywa się @<GetFullName>... W każdym razie rzucił kotwicę w porcie, ale nie schodzi na ląd. Prawdziwy wilk morski — nawet z kołysania pokładu nie chce rezygnować.}
+LSC_Q2Utilite_56 {@<LinkRandPhrase>}
+LSC_Q2Utilite_57 {Kapitan @<GetStrSmallRegister> '@<sld>' jest w mieście. Chyba nazywa się @<GetFullName>.}
+LSC_Q2Utilite_58 {Wie pan, kapitana @<GetStrSmallRegister> '@<sld>' można teraz spotkać w mieście.}
+LSC_Q2Utilite_59 {Jeśli chcesz porozmawiać z kapitanem @<GetStrSmallRegister> „@<sld>”, poszukaj go na ulicach. Chyba nazywa się @<GetFullName>...}
+LSC_Q2Utilite_60 {@<LinkRandPhrase>}
+LSC_Q2Utilite_61 {Kapitan @<GetStrSmallRegister> „@<sld>” stoi na kotwicy w porcie. Chyba nazywa się @<GetFullName>.}
+LSC_Q2Utilite_62 {Wie pan, kapitana @<GetStrSmallRegister> '@<sld>' można teraz spotkać w naszym porcie. Jego statek stoi na redzie.}
+LSC_Q2Utilite_63 {Jeśli chcesz porozmawiać z kapitanem @<GetStrSmallRegister> „@<sld>”, poszukaj jego statku w naszym porcie. Chyba nazywa się @<GetFullName>...}
+LSC_Q2Utilite_64 {@<LinkRandPhrase>}
+LSC_Q2Utilite_65 {Kapitanie, krążą pogłoski, że przy @<XI_ConvertString> cumuje teraz piracka brygantyna. Miejscowi widzieli, jak piraci schodzili na ląd i ładowali coś na swój statek.}
+LSC_Q2Utilite_66 {Wyobrażasz sobie? Do naszego miasta przykuśtykał niewolnik. Cały pobity i chory. Mówi, że uciekł z pirackiej brygantyny 'Arrow', gdy stała przy @<XI_ConvertString>. Moja rada, kapitanie: nie idź tam, a nuż brygantyna wciąż tam jest?}
+LSC_Q2Utilite_67 {Wszyscy teraz mówią o mnichu @<sRumourName>. Uwielbiał źródło przy @<XI_ConvertString>. Twierdził, że tamta woda jest święta! Podobno leczyła go ze wszystkich dolegliwości w mgnieniu oka. Bzdura, oczywiście—mój jęczmień nie zniknął po wypiciu tej wody.\n W każdym razie... Ostatnim razem, gdy wrócił stamtąd, był wściekły. Mówił, że diabły—może z łukami, może z kuszami—urządzają sabat i wszystko tam bezczeszczą. Wziął swój młot i poszedł je przepędzić. Minęły już trzy dni, a on wciąż nie wrócił...}
+LSC_Q2Utilite_68 {@<LinkRandPhrase>}
+LSC_Q2Utilite_69 {Pewien kapitan opowiadał mi, jak @<XI_ConvertString> natknął się na stary, opuszczony fregat. Jednak gdy próbował go obejrzeć, okazało się, że wcale nie był opuszczony: po pokładzie snuły się szkielety! Zabawna historia, prawda? Jak to mówią, picie na morzu nie służy rozumowi.}
+LSC_Q2Utilite_70 {Różne rzeczy się dzieją na tym świecie! Na przykład wczoraj mój kompan od kieliszka opowiedział mi ciekawą historię. Łowił ryby przy @<XI_ConvertString>, gdy natknął się na stary fregat, najwyraźniej opuszczony. Jednak gdy zbliżył się do statku, usłyszał dziwne dźwięki, jakby ktoś chodził po pokładzie. Nagle z ciemnego ładowni wyszli marynarze—ożywieni na nowo—którzy zaczęli tańczyć w rytm upiornej muzyki. No i uciekł od razu... Od tamtej pory pije już od tygodnia...}
+LSC_Q2Utilite_71 {Znajomy opowiedział mi niesamowitą historię. Twierdził, że @<XI_ConvertString> natknął się na starożytną fregatę. Na jej pokładzie leżały szkielety martwych marynarzy. Najciekawsze jest to, że te szkielety się poruszały i, mimo śmierci, wciąż wykonywały swoje obowiązki. Chciałbym mieć taką determinację, kapitanie! Na pewno nie tkwiłbym w tej dziurze...}
+LSC_Q2Utilite_72 {@<LinkRandPhrase>}
+LSC_Q2Utilite_73 {Słyszałeś, że Chad Capper zgubił jakiś ważny dla siebie klucz? Teraz biega po całym Mieście i go szuka...}
+LSC_Q2Utilite_74 {admirał}
+LSC_Q2Utilite_75 {admirał}
+LSC_Q2Utilite_76 {karczmarz}
+LSC_Q2Utilite_77 {karczmarz}
+LSC_Q2Utilite_78 {karczmarz}
+LSC_Q2Utilite_79 {karczmarz}
+LSC_Q2Utilite_80 {karczmarz}
+LSC_Q2Utilite_81 {karczmarza}
+LSC_Q2Utilite_82 {kelnerka}
+LSC_Q2Utilite_83 {kelnerkę}
+LSC_Q2Utilite_84 {mechanik}
+LSC_Q2Utilite_85 {mechanik}

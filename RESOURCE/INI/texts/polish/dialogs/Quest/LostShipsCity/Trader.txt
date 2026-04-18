@@ -1,0 +1,405 @@
+Trader_1_m {
+Cholerna burza! Chociaż już słabnie... Rozumiem, że jesteś nowym mieszkańcem Miasta.
+}
+Trader_1_f {
+Cholerna burza! Chociaż już słabnie... Rozumiem, że jesteś nową mieszkanką Miasta.
+}
+Trader_2 {
+Kapitan @<GetFullName> we własnej osobie. A burza to nie problem!
+}
+Trader_3_m {
+A, więc w końcu do mnie przyszedłeś. Rozumiem, że jesteś nowym obywatelem Miasta.
+}
+Trader_3_f {
+A, a więc w końcu do mnie przyszłaś. Rozumiem, że jesteś nową obywatelką Miasta.
+}
+Trader_4 {
+Kapitan @<GetFullName> we własnej osobie.
+}
+Trader_5 {
+Chcesz coś kupić albo sprzedać?
+}
+Trader_6 {
+Pokaż, co tam masz.
+}
+Trader_7_m {
+Przyjacielu, słyszałem, że masz mapę Miasta. Wiesz, teraz bardzo by mi się przydała. Błąkam się tu jak ślepy kociak, jeszcze się nie odnajduję...
+}
+Trader_7_f {
+Przyjacielu, słyszałam, że masz mapę Miasta. Wiesz, w tej chwili bardzo by mi się przydała. Biegam tu jak ślepy kociak, jeszcze się nie odnajduję...
+}
+Trader_8 {
+Przyjacielu, czy ty przypadkiem nie oszalałeś? Takie pieniądze za byle świstek papieru, dumnie nazywany mapą Miasta?
+}
+Trader_9 {
+Posłuchaj, przyjacielu, @<npchar> poprosiła mnie, żebym jeszcze raz porozmawiał z tobą o mapie Miasta.
+}
+Trader_10 {
+Dziękuję, nie jestem tym zainteresowany.
+}
+Trader_11 {
+Słuchaj, chcę kupić od ciebie coś wyjątkowego.
+}
+Trader_12 {
+Chodzi mi o zakup tych towarów, które mi obiecałeś.
+}
+Trader_13 {
+Słuchaj, musimy poważnie porozmawiać. Zbieram załogę.
+}
+Trader_14 {
+Nie ma pan przypadkiem porządnej butelki wina?
+}
+Trader_15 {
+Szukam stałego dostawcy świec dla parafii!
+}
+Trader_16 {
+A skąd ty wiesz, co jest kłopotem, a co nie?.. Dobra, mam dziś kiepski humor. Nazywam się @<GetFullName>, jestem właścicielem tego sklepu. Miło poznać.
+}
+Trader_17 {
+Będziemy.
+}
+Trader_18 {
+Świetnie! A ja nazywam się @<GetFullName>, jestem właścicielem tego sklepu. Miło mi cię poznać.
+}
+Trader_19 {
+Będziemy.
+}
+Trader_20 {
+Co ty wyprawiasz, grzebiąc w mojej skrzyni! Nie znasz praw Miasta? No cóż, zaraz się dowiesz...
+}
+Trader_21_m {
+Hej, obywatelu, co ty wyprawiasz? Prawo ci tego zabrania! Ukarzę cię...
+}
+Trader_21_f {
+Hej, obywatelko, co ty wyprawiasz? Prawo ci tego zabrania! Ukarzę cię...
+}
+Trader_22_m {
+Zaczekaj, dokąd się wybierasz? W Mieście pojawił się złodziej! No, teraz masz przechlapane...
+}
+Trader_22_f {
+Zaczekaj, dokąd się wybierasz? W Mieście pojawił się złodziej! No, teraz już nie odpuszczę...
+}
+Trader_23 {
+@<LinkRandPhrase>
+}
+Trader_24 {
+Diabeł!!
+}
+Trader_25 {
+Karramba!!
+}
+Trader_26 {
+A-a, cholera!
+}
+Trader_27 {
+@<LinkRandPhrase>
+}
+Trader_28 {
+A więc tak?! Postanowiłeś grzebać po cudzych kufrach?! Teraz mieszkańcy i straż miejska rozszarpią cię na strzępy!
+}
+Trader_29 {
+Ależ głupia!
+}
+Trader_30_m {
+Słuchaj, schowaj broń. Trochę mnie to niepokoi...
+}
+Trader_30_f {
+Słuchaj, może schowaj broń. Trochę mnie to niepokoi...
+}
+Trader_31 {
+Wiesz, tutaj nie zwykło się wymachiwać szablą. Schowaj broń.
+}
+Trader_32_m {
+Słuchaj, czemu biegasz tu jak d’Artagnan i wymachujesz szpadą? Schowaj broń, to nie przystoi poważnemu mężczyźnie...
+}
+Trader_32_f {
+Słuchaj, czemu biegasz tu jak d’Artagnan i wymachujesz szpadą? Schowaj broń, to nie przystoi dziewczynie...
+}
+Trader_33 {
+@<LinkRandPhrase>
+}
+Trader_34 {
+Dobrze.
+}
+Trader_35 {
+Dobrze.
+}
+Trader_36 {
+Jak sobie życzysz...
+}
+Trader_37 {
+@<LinkRandPhrase>
+}
+Trader_38_m {
+Proszę posłuchać, jako obywatel tego miasta proszę, aby nie chodził pan tutaj z dobytym ostrzem.
+}
+Trader_38_f {
+Wie pan, jako obywatelka tego miasta, proszę pana, żeby nie chodził pan tutaj z dobytym mieczem.
+}
+Trader_39 {
+Dobrze.
+}
+Trader_40 {
+Dobrze.
+}
+Trader_41 {
+Jak pan/pani każe...
+}
+Trader_42 {
+@<LinkRandPhrase>
+}
+Trader_43_m {
+Uważaj na zakrętach, gdy biegniesz z bronią w ręku. Mogę się przez to zdenerwować...
+}
+Trader_43_f {
+Nie podoba mi się, gdy ktoś przechodzi przede mną z bronią gotową do użycia. To mnie przeraża...
+}
+Trader_44_m {
+Zrozumiałem.
+}
+Trader_44_f {
+Zrozumiałam.
+}
+Trader_45 {
+Sprzątam.
+}
+Trader_46 {
+@<RandPhraseSimple>
+}
+Trader_47 {
+Zawsze do twojej dyspozycji. Zamawiaj!
+}
+Trader_48_m {
+Słuchaj, takich towarów jeszcze u ciebie nie widziałem. To bomby, kartacze, proch, prowiant, płótno żaglowe, deski, lekarstwa...
+}
+Trader_48_f {
+Słuchaj, jeszcze nie spotkałam takich towarów w twojej ofercie. To bomby, kartacze, proch, prowiant, płótno żaglowe, deski, lekarstwa...
+}
+Trader_49_m {
+Z tego, co wymieniłeś, tutaj ceni się tylko prowiant, płótno żaglowe, deski i lekarstwa. Reszta nikomu się nie przyda.
+}
+Trader_49_f {
+Cóż, z tego, co wymieniłaś, tutaj ceni się tylko prowiant, płótno żaglowe, deski i lekarstwa. Reszta po prostu nikomu nie jest potrzebna.
+}
+Trader_50 {
+A ty masz coś?
+}
+Trader_51 {
+Mogę ci sprzedać prowiant. Jest dość drogi.
+}
+Trader_52 {
+Potrzebuję 20 cetnarów. Ile to będzie kosztować?
+}
+Trader_53 {
+Trzydzieści pięć tysięcy monet.
+}
+Trader_54 {
+Ile?! A ze zniżką?
+}
+Trader_55 {
+Wybacz, ale nie przewidziano żadnych zniżek. Dorzucę ci jeszcze płótna żaglowego i desek za pięć tysięcy piastrów. Razem, jeśli chcesz to wszystko kupić, przygotuj czterdzieści tysięcy.
+}
+Trader_56_m {
+Jestem gotów zapłacić.
+}
+Trader_56_f {
+Jestem gotowa zapłacić.
+}
+Trader_57 {
+Nie mam takich pieniędzy.
+}
+Trader_58 {
+No to przyjdź, jak będą.
+}
+Trader_59 {
+Dobrze.
+}
+Trader_60 {
+Świetnie. Gdzie mam ci to wszystko rozładować?
+}
+Trader_61 {
+Słuchaj, wyślij to wszystko na 'San Gabriel'. 'Kasperov' już tam nie ma, jeśli nie wiesz...
+}
+Trader_62 {
+Wiem. Zajmę się tym.
+}
+Trader_63 {
+Dzięki ci, przyjacielu.
+}
+Trader_64_m {
+Masz już pieniądze?
+}
+Trader_64_f {
+Zdobyłaś pieniądze?
+}
+Trader_65_m {
+Tak. I jestem gotów zapłacić.
+}
+Trader_65_f {
+Tak. I jestem gotowa zapłacić.
+}
+Trader_66 {
+Jeszcze nie...
+}
+Trader_67 {
+Rozmawiający z Bogiem w końcu postanowił sięgnąć do kieszeni? Co, znudziło mu się siedzenie w ciemności? I msze też trudno odprawiać bez świec, prawda? Trzeba było wcześniej u mnie je kupować, a teraz cena poszła w górę! Za pięćset sztuk świec kościelnych – 25 000 piastrów!
+}
+Trader_68 {
+Właściwie potrzebuję tylko czterystu... Dobrze, niech będzie, wyślij całą dostawę na "Glorię".
+}
+Trader_69 {
+Posłuchaj, to nie są zwykłe świece — wielu ludziom w tym zapomnianym przez Boga miejscu brakuje wiary i nadziei... Wdzięczni parafianie na pewno docenią wkład w życie duchowe! Ale jeśli dowiedzą się, kto odpowiada za brak świec...
+}
+Trader_70 {
+Ile? Zwariowałeś?
+}
+Trader_71 {
+Nie zamierzam niczego wysyłać! Płacisz gotówką i zabierasz swój towar!
+}
+Trader_72 {
+Niesamowite...
+}
+Trader_73 {
+Nie ma pieniędzy – nie ma świec.
+}
+Trader_74 {
+No cóż, bywa...
+}
+Trader_75 {
+Jest w twoich słowach trochę prawdy. Zadowoleni mieszczanie to hojni mieszczanie. A te świece, poza nabożeństwami, do niczego się nie nadają. Hm... Dobrze, niech będzie, weź czterysta, a nie pięćset. Ale to pierwszy i ostatni raz! I nie zamierzam niczego dostarczać!
+}
+Trader_76 {
+Słusznie myślisz – po duchowym zawsze ma się ochotę na coś materialnego! Bardzo dziękuję!
+}
+Trader_77 {
+Zajmuję się handlem, a nie dobroczynnością. Więc nawet nie proś — to nie ma sensu.
+}
+Trader_78 {
+No dobrze, skąpcu, zgoda, wyślij całą dostawę na 'Glorię'.
+}
+Trader_79 {
+Phi... Znajdę świece i bez twojego handlu.
+}
+Trader_80 {
+Jaką załogę?
+}
+Trader_81 {
+Już o tym rozmawialiśmy.
+}
+Trader_82 {
+To już było omówione, powtarzam po raz drugi.
+}
+Trader_83_m {
+Wystarczy, zmęczyłeś mnie...
+}
+Trader_83_f {
+Wystarczy, zmęczyłaś mnie...
+}
+Trader_84 {
+Na mój statek. Wychodzę z Miasta.
+}
+Trader_85_m {
+Tak... Przepraszam, zapomniałem.
+}
+Trader_85_f {
+Tak... Przepraszam, zapomniałam.
+}
+Trader_86 {
+Jak chcesz...
+}
+Trader_87 {
+No dobrze...
+}
+Trader_88 {
+Heh, daleko jeszcze zajdziesz... Wiesz przecież, że łamiesz Prawo Miasta?
+}
+Trader_89 {
+Wiem. Ale ratuję własne życie. Chodzi o to, że Miasto zostanie zniszczone przez nadciągającą burzę.
+}
+Trader_90 {
+No tak, to oczywiste...
+}
+Trader_91 {
+Nie wierzysz mi?
+}
+Trader_92 {
+Nie, nie wierzę. I nie chcę już o tym rozmawiać.
+}
+Trader_93 {
+Hm... Jak uważasz.
+}
+Trader_94 {
+Była tu gdzieś jedna całkiem niezła, zaraz wystawię ją na sprzedaż.
+}
+Trader_95 {
+Dziękuję!
+}
+Trader_96 {
+Rozumiem, z nowymi obywatelami zawsze tak bywa...
+}
+Trader_97 {
+No i co, masz tę mapę?
+}
+Trader_98 {
+Tak, nie okłamali cię.
+}
+Trader_99 {
+Szanowny panie, bardzo jej potrzebuję!
+}
+Trader_100 {
+No to kupuj. Jak zwykle, znajdziesz ją na ladzie wśród innych towarów.
+}
+Trader_101_m {
+Zrozumiałem!
+}
+Trader_101_f {
+Zrozumiałam!
+}
+Trader_102_m {
+Nie zrozumiałeś. Nie za papier, tylko za to, co jest na nim narysowane.\nA tak w ogóle, jak ci się nie podoba – nie kupuj. W czym problem?
+}
+Trader_102_f {
+Nie zrozumiałaś. Nie chodzi o papier, tylko o to, co jest na nim narysowane.\nA tak w ogóle, jak ci się nie podoba, to nie kupuj. W czym problem?
+}
+Trader_103 {
+Potrzebuję tej mapy. Ale to za drogo!
+}
+Trader_104_m {
+Szanowny, nie zamierzam się targować. Chcesz biegać jak idiota po Mieście – biegaj. Nie chcesz – płać.\nNie mam ci już nic więcej do powiedzenia w tej sprawie.
+}
+Trader_104_f {
+Szanowna pani, nie będę się targować. Chcesz biegać jak głupia po Mieście – biegaj. Nie chcesz – dawaj monetę.\nNie mam ci nic więcej do powiedzenia w tej sprawie.
+}
+Trader_105 {
+Ale naprawdę bardzo potrzebuję tej mapy! Proszę cię, spuść trochę z ceny.
+}
+Trader_106_m {
+Przyjacielu, dobroczynnością zajmują się w kościele, a ja prowadzę interesy. Ze swoimi łzawymi opowieściami możesz iść do kobiety. Nawet mnie nie proś — to nie ma sensu.
+}
+Trader_106_f {
+Przyjaciółko, dobroczynnością zajmują się w kościele, a ja prowadzę interesy. Możesz się wypłakać w czyjąś spódnicę ze swoimi żałosnymi historiami. Nawet mnie nie proś — to nie ma sensu.
+}
+Trader_107 {
+A teraz to się poskarżę!
+}
+Trader_108 {
+No to trudno z tobą...
+}
+Trader_109 {
+Dobrze, obniżę cenę, niech będzie...
+}
+Trader_110 {
+Dziękuję ci! A ile teraz za nią zażądasz?
+}
+Trader_111 {
+Nie wiem. @<npchar> jeszcze nic mi nie powiedziała.
+}
+Trader_112 {
+Pewnie jeszcze nie zdążyła. Wpadnę później, wtedy o tym porozmawiamy.
+}
+Trader_113 {
+Przeprowadźmy procedurę kupna-sprzedaży w ustalonej formie.
+}
+Trader_114 {
+Dobrze, jak chcesz.
+}

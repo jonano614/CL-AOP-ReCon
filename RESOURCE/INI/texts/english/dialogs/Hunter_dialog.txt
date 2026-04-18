@@ -1,0 +1,231 @@
+Hunter_dialog_1 {
+@<GetFullName>! We've been hunting you for a long time, and now, at last, we've got you.
+}
+Hunter_dialog_2 {
+Who are you, and what do you want from me?
+}
+Hunter_dialog_3_m {
+@<XI_ConvertString> put a good price on your head, whether we bring you in alive or dead.
+}
+Hunter_dialog_3_f {
+@<XI_ConvertString> put a good price on your head, whether we bring you in alive or dead.
+}
+Hunter_dialog_4_m {
+I'm willing to pay you more, just leave me alone.
+}
+Hunter_dialog_4_f {
+I'm willing to pay you more, just leave me alone.
+}
+Hunter_dialog_5_m {
+Excuse me, but it seems you’re mistaken. I’m a well-known merchant in these parts. My name is @<GetFullName>.
+}
+Hunter_dialog_5_f {
+Excuse me, but it seems you’re mistaken. I’m just a simple girl, and my father is a well-known merchant in these parts. His name is @<GetFullName>.
+}
+Hunter_dialog_6 {
+Well then, try your luck.
+}
+Hunter_dialog_7 {
+Oh! We must have made a mistake, forgive us, @<GetAddress_Form>.
+}
+Hunter_dialog_8 {
+Of course, it happens...
+}
+Hunter_dialog_9 {
+Looks like you’re lying!
+}
+Hunter_dialog_10_m {
+I’m willing to pay you more, just leave me alone.
+}
+Hunter_dialog_10_f {
+I’m willing to pay you more, just leave me alone.
+}
+Hunter_dialog_11 {
+Well then, try your luck.
+}
+Hunter_dialog_12 {
+I think @<FindMoneyString> will suit us just fine.
+}
+Hunter_dialog_13 {
+I don’t have that kind of money.
+}
+Hunter_dialog_14 {
+Here’s your money, now take it and get lost.
+}
+Hunter_dialog_15 {
+That much, you scoundrels... I'd sooner cut you all down right here!!!
+}
+Hunter_dialog_16 {
+In that case, the conversation is over!
+}
+Hunter_dialog_17_m {
+You won't take me alive.
+}
+Hunter_dialog_17_f {
+You won't take me alive.
+}
+Hunter_dialog_18_m {
+Hold on there, mate... Seems like you’ve got something interesting. Treasures found should be shared among friends, don’t you think?
+}
+Hunter_dialog_18_f {
+Hold on there, lass... Seems you've got something interesting. Best to share newfound treasures with your mates.
+}
+Hunter_dialog_19_m {
+Alright, I’m willing to pay you, just leave me alone.
+}
+Hunter_dialog_19_f {
+Alright, I'm willing to pay you—just leave me alone.
+}
+Hunter_dialog_20_m {
+Excuse me, but it seems you’ve mistaken me for someone else. I’m a well-known figure in these parts, not some treasure hunter. My name is @<GetFullName>! Heard of it?
+}
+Hunter_dialog_20_f {
+Excuse me, but it seems you’re mistaken. I’m just a simple girl, not some treasure hunter! My father is a well-known figure in these parts. His name is @<GetFullName>! Have you heard of him?
+}
+Hunter_dialog_21 {
+Well then, it's time for your heads to part ways with your bodies.
+}
+Hunter_dialog_22 {
+Oh! We must have made a mistake, forgive us, @<GetAddress_Form>.
+}
+Hunter_dialog_23 {
+Of course, it happens...
+}
+Hunter_dialog_24 {
+Looks like you’re lying!
+}
+Hunter_dialog_25 {
+Then listen to the song of my saber.
+}
+Hunter_dialog_26 {
+And here comes our gold at last. Good thing we were waiting for you.
+}
+Hunter_dialog_27_m {
+What are you talking about, gentlemen? I'm a representative of the Dutch West India Company, just passing through! Stopped to admire the coastline!
+}
+Hunter_dialog_27_f {
+What are you talking about, gentlemen? I’m a representative of the Dutch West India Company, just passing through! I only stopped to admire the coastline!
+}
+Hunter_dialog_28_m {
+I think you’re mistaking me for someone else. I’m Jacques François Paganel, a naturalist, and I collect samples of the local flora. Would you care to take a look at my collection of yucca leaves? There are some truly fascinating specimens here!
+}
+Hunter_dialog_28_f {
+I think you must be mistaking me for someone else. I am Maria-Teresa, a naturalist, and I collect samples of the local flora. Would you like to see my collection of yucca leaves? There are some truly fascinating specimens here!
+}
+Hunter_dialog_29 {
+@<RandPhraseSimple>
+}
+Hunter_dialog_30 {
+What do you want?! Get out of the way!
+}
+Hunter_dialog_31_m {
+Oh no, good sir. That won’t do... We know for sure that you got @<GetName>’s map. And he was a real miser—his chests were bursting with doubloons. So we won’t be leaving empty-handed.
+}
+Hunter_dialog_31_f {
+Oh no, darling. That won’t do... We know for sure that you got @<GetName>’s map. He was a real miser, and his chests were bursting with doubloons. So we’re not leaving here empty-handed.
+}
+Hunter_dialog_32 {
+You’re right. The chests were full. But you won’t be getting them. You can go check the cave—there’s still a couple of leaky buckets left.
+}
+Hunter_dialog_33 {
+You’re right, take your treasures. But they won’t bring you happiness—there’s too much blood on them...
+}
+Hunter_dialog_34_m {
+Ah, captain. So young, with your whole life still ahead of you...
+}
+Hunter_dialog_34_f {
+Ah, girl. So young, with your whole life still ahead of you...
+}
+Hunter_dialog_35 {
+I have no intention of dying!
+}
+Hunter_dialog_36 {
+Now those are the words of a sensible person!
+}
+Hunter_dialog_37 {
+Curse you and your blasted treasure...
+}
+Hunter_dialog_38_m {
+Hey, mate! @<GetName> said you've got something for us.
+}
+Hunter_dialog_38_f {
+Hey, lass! @<GetName> said you’ve got something for us.
+}
+Hunter_dialog_39 {
+What do you mean?
+}
+Hunter_dialog_40 {
+Map of @<GetName>
+}
+Hunter_dialog_41 {
+Take it, and give my regards to @<GetName>. Tell them we’ll meet again soon...
+}
+Hunter_dialog_42 {
+@<GetName> is sorely mistaken if they think I’ll be pulling their chestnuts out of the fire.
+}
+Hunter_dialog_43_m {
+The trinkets you swiped from the governor.
+}
+Hunter_dialog_43_f {
+The trinkets you swiped from the governor.
+}
+Hunter_dialog_44 {
+Take it, and give my regards to @<GetName>. Tell them we’ll meet again soon...
+}
+Hunter_dialog_45 {
+@<GetName> is sorely mistaken if they think I'll be pulling their chestnuts out of the fire.
+}
+Hunter_dialog_46_m {
+Hey, mate! @<GetName> has a couple of questions for you.
+}
+Hunter_dialog_46_f {
+Hey, lass! @<GetName> has a couple of questions for you.
+}
+Hunter_dialog_47 {
+Why doesn’t he ask them himself, then?
+}
+Hunter_dialog_48_m {
+Out of line... You botched the operation, and now we’ve lost @<FindMoneyString>. So you owe us.
+}
+Hunter_dialog_48_f {
+Out of line... You botched the job, and we lost @<FindMoneyString> because of it. So now you owe us.
+}
+Hunter_dialog_49 {
+Take it, and give my regards to @<GetName>. Tell them we’ll meet again soon...
+}
+Hunter_dialog_50 {
+@GetName is sorely mistaken if he thinks I’ll be pulling his chestnuts out of the fire.
+}
+Hunter_dialog_51_m {
+You don't have that kind of money! Well then, you've made your choice...
+}
+Hunter_dialog_51_f {
+You don't have that kind of money! Well then, you've made your choice...
+}
+Hunter_dialog_52 {
+Long ago...
+}
+Hunter_dialog_53_m {
+Well then, you've made your choice...
+}
+Hunter_dialog_53_f {
+Well then, you've made your choice...
+}
+Hunter_dialog_54 {
+Long ago...
+}
+Hunter_dialog_55 {
+islands @<LanguageConvertString>
+}
+Hunter_dialog_56 {
+of the mainland
+}
+Hunter_dialog_57 {
+map
+}
+Hunter_dialog_58 {
+valuables
+}
+Hunter_dialog_59 {
+money
+}

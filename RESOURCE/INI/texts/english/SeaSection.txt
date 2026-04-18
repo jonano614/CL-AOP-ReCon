@@ -1,0 +1,64 @@
+Ship_critical		{Critical Hit!}
+Ship_critical_notif	{' - Critical Hit!}
+Ship_sunk			{%1 "%2" is sunk. +%3 experience obtained.}
+Ship_sunk_other		{%1 "%2" is sunk.}
+Ship_got_good		{%1 centners of %2 are taken on board}
+Ship_cant_got_good	{No room for %1}
+
+Fort_destroy		{Fort %1 is destroyed. +%2 experience obtained.}
+Fort_destroy_notif	{Fort Artillery Suppressed!}
+Fort_cannon			{Fort's cannon is destroyed!}
+
+seg_Balls			{solid shots}
+seg_Grapes			{canister shots}
+seg_Knippels		{chain shots}
+seg_Bombs			{bombshells}
+seg_Sailcloth		{sailcloth}
+seg_Planks 			{planks}
+seg_Slaves 			{slaves}
+seg_Wheat			{wheat}
+seg_Ebony			{ebony}
+seg_Chocolate		{cocoa}
+seg_Sugar			{sugar}
+seg_Wine			{wine}
+seg_Linen			{linen}
+seg_Rum				{rum}
+seg_Tobacco			{tobacco}
+seg_Coffee			{coffee}
+seg_Mahogany		{mahogany}
+seg_Cinnamon		{vanilla}
+seg_Copra			{copra}
+seg_Paprika			{paprika}
+seg_Fruits			{fruits}
+seg_Ale				{ale}
+seg_Silk			{silk}
+seg_Clothes			{clothes}
+seg_Cotton			{cotton}
+seg_Sandal			{sandalwood}
+seg_Leather			{leather}
+seg_Oil				{oil}
+seg_Food 	     	{food}
+seg_Weapon 			{weapons}
+seg_Gold 			{gold}
+seg_Silver 			{silver}
+seg_Powder 			{gunpowder}
+seg_Brick 			{bricks}
+seg_Medicament 		{medicines}
+
+seg_Cannon_3		{3p. falconets}
+seg_Cannon_6		{6-pounders cannons}
+seg_Cannon_8		{8-pounders cannons}
+seg_Cannon_12		{12-pounders cannons}
+seg_Cannon_16		{16-pounders cannons}
+seg_Cannon_20		{20-pounders cannons}
+seg_Cannon_24		{24-pounders cannons}
+seg_Cannon_32		{32-pounders cannons}
+seg_Cannon_36		{36-pounders cannons}
+seg_Cannon_42		{42-pounders cannons}
+seg_Culverine_8		{8-pounders culverins}
+seg_Culverine_12	{12-pounders culverins}
+seg_Culverine_16	{16-pounders culverins}
+seg_Culverine_24	{24-pounders culverins}
+seg_Culverine_32	{32-pounders culverins}
+
+sea_exp_add			{+%1 exp gained}

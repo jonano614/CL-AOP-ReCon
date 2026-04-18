@@ -1,0 +1,437 @@
+Usurer_1_m {
+Ajá, ¿así que eres uno de nuestros ciudadanos más recientes? Pues bienvenido, condenado.
+}
+Usurer_1_f {
+Ajá, así que eres uno de nuestros ciudadanos más recientes, ¿verdad? Pues bienvenido, condenado.
+}
+Usurer_2 {
+Gracias... Mi nombre es @<GetFullName>.
+}
+Usurer_3 {
+Hola. ¿Necesitabas algo?
+}
+Usurer_4 {
+Necesito dinero.
+}
+Usurer_5 {
+Quiero saber la contraseña actual del clan para entrar en su territorio.
+}
+Usurer_6_m {
+No, solo pasé a hacer una visita.
+}
+Usurer_6_f {
+No, solo pasé por aquí sin ningún motivo en especial.
+}
+Usurer_7_m {
+He oído rumores extraños sobre ti... Dicen que sabes manejar problemas poco comunes.
+}
+Usurer_7_f {
+He oído rumores extraños sobre ti... Dicen que sabes manejar problemas poco comunes.
+}
+Usurer_8 {
+Escuchen, tengo algo importante que tratar. Estoy formando una tripulación.
+}
+Usurer_9 {
+Un placer conocerte. Mi nombre es Augusto Brams. Trabajo para la Oficina de Servicios de Crédito e Información. Permíteme presentarme.
+}
+Usurer_10 {
+De acuerdo.
+}
+Usurer_11 {
+Si necesitas dinero, ven a verme; puedo ayudarte. Además, si necesitas cruzar el territorio exterior de los clanes, puedo organizarlo por una tarifa razonable, por supuesto.
+}
+Usurer_12 {
+Genial, me alegra saberlo...
+}
+Usurer_13_m {
+¡No tienes idea de con quién te estás metiendo! Los condenados encontrarán su final...
+}
+Usurer_13_f {
+¡No tienes idea de con quién te estás metiendo! La Condenada encontrará su final...
+}
+Usurer_14 {
+¡A-ay, maldición!
+}
+Usurer_15 {
+¡Ah, así que eso es lo que haces?! ¡¿Te dio por hurgar en los cofres, eh?! ¡Ahora los habitantes y los guardias te van a destrozar como si fueras papel viejo!
+}
+Usurer_16 {
+¡Maldita sea!..
+}
+Usurer_17 {
+Hm, curioso... Guarda tu arma.
+}
+Usurer_18 {
+De acuerdo.
+}
+Usurer_19 {
+De acuerdo.
+}
+Usurer_20 {
+Como desees...
+}
+Usurer_21 {
+@<LinkRandPhrase>
+}
+Usurer_22_m {
+Escucha, como ciudadano de esta ciudad, te pido que no andes por aquí con la espada desenvainada.
+}
+Usurer_22_f {
+Sabes, como ciudadano de la Ciudad, te pido que no andes por aquí con el arma desenvainada.
+}
+Usurer_23 {
+De acuerdo.
+}
+Usurer_24 {
+De acuerdo.
+}
+Usurer_25 {
+Como usted diga...
+}
+Usurer_26 {
+@<LinkRandPhrase>
+}
+Usurer_27_m {
+Ten cuidado al doblar las esquinas cuando corres con un arma en la mano. Podría ponerme algo nervioso…
+}
+Usurer_27_f {
+No me gusta que la gente ande blandiendo armas delante de mí. Eso podría terminar mal... Para ti...
+}
+Usurer_28_m {
+Entendido.
+}
+Usurer_28_f {
+Entendido.
+}
+Usurer_29 {
+Lo estoy guardando.
+}
+Usurer_30 {
+@<RandPhraseSimple>
+}
+Usurer_31 {
+¿La contraseña de qué clan buscas?
+}
+Usurer_32 {
+Del clan 'Narwhal'.
+}
+Usurer_33 {
+Del clan 'Kasper'.
+}
+Usurer_34 {
+¿Listo para un paseo increíble a bordo del galeón de Velasco, verdad?
+}
+Usurer_35 {
+Exactamente. Entonces, ¿sabes la contraseña actual de narwhal?
+}
+Usurer_36 {
+del clan 'Narwhal'
+}
+Usurer_37 {
+¿Has decidido ir hasta Ceres Smithy sin mojarte los pantalones?
+}
+Usurer_38 {
+Algo así. Entonces, ¿sabes la contraseña actual del clan 'Kasper'?
+}
+Usurer_39 {
+del clan 'Kasper'
+}
+Usurer_40 {
+¡Por supuesto! Pero primero, permíteme darte una breve explicación. Las contraseñas del clan son una sola palabra específica y cambian cuatro veces al mes, prácticamente cada semana. Se actualizan los días siete, catorce, veintiuno y veintiocho de cada mes.\nAsí que presta atención a la fecha actual, para que no te tome por sorpresa. Y, como imaginarás, no te daré la contraseña gratis. El precio de este servicio es de cincuenta mil piastras.
+}
+Usurer_41 {
+¿Cincuenta mil? ¡Eso es una fortuna en plata!
+}
+Usurer_42 {
+Por supuesto. Ya conoces el precio. ¿Tienes cincuenta mil piastras contigo?
+}
+Usurer_43 {
+Sí. Aquí tienes tu pago.
+}
+Usurer_44 {
+Lamentablemente, no tengo suficiente en este momento. Tal vez más tarde...
+}
+Usurer_45 {
+Tranquilo, no hace falta ponerse así. No seas avaricioso, créeme: sé perfectamente cuánto vale mi información. No estás subiendo a este barco por placer, ¿verdad? Por supuesto que no. Así que debías saber que tendrías que soltar algo de dinero... Entonces, ¿estás listo para pagar cincuenta mil piastras?
+}
+Usurer_46 {
+Sí. Aquí tienes tu pago.
+}
+Usurer_47 {
+Lamentablemente, no tengo suficiente. Tal vez más tarde...
+}
+Usurer_48 {
+¡Excelente! Es un placer hacer negocios contigo. La contraseña actual es @<npchar>: '@<npchar>'. Recuérdala bien y no te equivoques al decirla, o no daré ni un centavo por tu vida.
+}
+Usurer_49 {
+Sí, ya lo sé, ya lo sé... ¡Gracias por la información!
+}
+Usurer_50 {
+Lo sé.
+}
+Usurer_51 {
+Ya hemos hablado de esto.
+}
+Usurer_52 {
+Esto ya se ha hablado, te lo digo por segunda vez.
+}
+Usurer_53 {
+Basta, me estás cansando...
+}
+Usurer_54 {
+¿Sabes? ¿Cómo es eso?
+}
+Usurer_55_m {
+Sí... Perdón, se me pasó.
+}
+Usurer_55_f {
+Sí... Perdón, lo olvidé.
+}
+Usurer_56 {
+Como desees...
+}
+Usurer_57 {
+Muy bien, entonces...
+}
+Usurer_58 {
+Sé bastante... ¿Querías invitarme a acompañarte?
+}
+Usurer_59 {
+Sí. ¿Te unirás a mi tripulación?
+}
+Usurer_60 {
+No. Me quedaré aquí hasta el último momento.
+}
+Usurer_61 {
+Por cierto, ese momento final se acerca. Una tormenta de fuerza sin precedentes se dirige hacia la ciudad.
+}
+Usurer_62 {
+Lo sé, pero me quedaré de todos modos. Quiero verlo con mis propios ojos. No te preocupes, no corro ningún peligro.
+}
+Usurer_63 {
+Eres un personaje bastante interesante... Bueno, como quieras. ¡Adiós!
+}
+Usurer_64 {
+Has agotado completamente tu cuota asignada. Tu línea de crédito está cerrada.
+}
+Usurer_65 {
+Entendido.
+}
+Usurer_66 {
+Estoy listo para considerar tu solicitud.
+}
+Usurer_67 {
+¡Excelente!
+}
+Usurer_68 {
+Muy bien. ¿Y conoces las condiciones en las que ofrezco préstamos?
+}
+Usurer_69 {
+Todavía no. Pero espero que me lo cuentes.
+}
+Usurer_70 {
+Por supuesto. Ahora, el monto del préstamo está limitado a un millón de piastras. Puedes pedir prestada cualquier suma dentro de ese límite.
+}
+Usurer_71 {
+Ya veo. ¿Y cuál es la tasa de interés anual?
+}
+Usurer_72 {
+No cobro intereses según el tiempo. Simplemente tendrás que devolverme cinco veces la cantidad cuando mi agente lo solicite por primera vez.
+}
+Usurer_73 {
+¡¿Qué?!
+}
+Usurer_74_m {
+¿Acaso eres sordo, desdichado?
+}
+Usurer_74_f {
+¿Acaso eres sordo, desdichado?
+}
+Usurer_75_m {
+No, solo me sorprendió un poco...
+}
+Usurer_75_f {
+No, solo me sorprendió un poco...
+}
+Usurer_76 {
+No tengo otras condiciones, ni favorezco a nadie en particular.
+}
+Usurer_77 {
+Hmm, ya veo...
+}
+Usurer_78 {
+¿Cuánto te gustaría pedirme prestado?
+}
+Usurer_79 {
+Hmm, supongo que ahora no tengo ganas.
+}
+Usurer_80 {
+La cantidad solicitada supera el límite de un millón. Puedo darte @<FindMoneyString>, nada más.
+}
+Usurer_81 {
+Ya veo...
+}
+Usurer_82_m {
+¿Un bromista, eh? No te recomendaría jugar conmigo.
+}
+Usurer_82_f {
+¿Un bromista, eh? No te aconsejo que juegues conmigo.
+}
+Usurer_83 {
+Está bien...
+}
+Usurer_84 {
+De acuerdo, estoy dispuesto a entregar la suma solicitada.
+}
+Usurer_85 {
+¡Excelente! De verdad me ayudaste, Augusto.
+}
+Usurer_86 {
+Me alegra mucho. Confío en que recordarás los términos de nuestro acuerdo de préstamo. Cuando llegue el momento, me deberás cinco veces la suma original. Por ahora, eso es @<FindMoneyString>.
+}
+Usurer_87 {
+Sí, lo recuerdo. Pero ¿y si no puedo devolverlos de inmediato?
+}
+Usurer_88_m {
+Hmm, sería mejor que los tuvieras tú, condenado. La alternativa es, por decirlo suavemente, desagradable. Mucho.
+}
+Usurer_88_f {
+Hmm, sería mejor que los tuvieras tú, condenado. La alternativa es, por decirlo suavemente, desagradable. Mucho.
+}
+Usurer_89 {
+Entendido. Muy bien, haré lo posible para evitarlo.
+}
+Usurer_90_m {
+Bueno, como quieras, condenado. Piénsalo bien, todavía podrías cambiar de opinión.
+}
+Usurer_90_f {
+Bueno, como quieras, condenado. Piénsalo bien, todavía podrías cambiar de opinión.
+}
+Usurer_91 {
+Sí, por supuesto...
+}
+Usurer_92 {
+Oh, qué curiosos rumores han llegado a tus oídos
+}
+Usurer_93 {
+Hmm. ¿Y dónde escuchaste cosas tan interesantes?
+}
+Usurer_94 {
+@<RandPhraseSimple>\nPero dime, ¿qué tipo de “problemas inusuales” te están preocupando?
+}
+Usurer_95 {
+La cubierta. Los Caspers. Los quiero... fuera.
+}
+Usurer_96_m {
+Quizás me equivoqué. Olvídalo.
+}
+Usurer_96_f {
+Quizás me equivoqué. Olvídalo.
+}
+Usurer_97_m {
+Así que el condenado quiere deshacerse de unos vecinos problemáticos, ¿eh? Supongamos que realmente puedo ayudarte con tu... problema. Pero no será gratis. Tendrás que aceptar el préstamo más grande que puedo ofrecerte: un millón en plata.
+}
+Usurer_97_f {
+Así que el condenado quiere deshacerse de unos vecinos problemáticos, ¿eh? Supongamos que realmente puedo ayudarte con tu… problema. Pero no será gratis. Tendrás que pedirme el mayor préstamo posible: un millón en plata.
+}
+Usurer_98 {
+Hablas como si solo se tratara de ahuyentar a unas ratas molestas... ¿No te dan miedo los clanes?
+}
+Usurer_99_m {
+No hacen falta más palabras. Estoy de acuerdo. ¿Cómo harás que los Caspers desaparezcan?
+}
+Usurer_99_f {
+No hacen falta más palabras. Estoy de acuerdo. ¿Cómo harás que los Caspers desaparezcan?
+}
+Usurer_100 {
+Demasiado caro. Buscaré otra manera.
+}
+Usurer_101 {
+Todos los clanes aquí me deben. Y según los términos de nuestro contrato, soy libre de hacer con ellos lo que quiera. Llegado cierto punto, ¿sabes? A la gente le gusta llamarlo descarada trampa legal. Pero personalmente, prefiero llamarlo los matices de cerrar un trato.
+}
+Usurer_102 {
+¿Tú mismo vas a extorsionarlos por dinero? Cuesta creerlo...
+}
+Usurer_103_m {
+Oh, alma ingenua y condenada... Cuando tomas mi dinero, firmas un contrato—no con tinta sobre papel, sino con tu propia alma.\nLos clanes creían que recibían una parte por las contraseñas, pero en realidad, no importa por qué alguien acepta mi moneda. En el instante en que mi dinero toca sus manos, el trato queda sellado. Les advertí... Se rieron.
+¿Crees que esos sirvientes solo ‘pasaban el dinero’? No. Llevaban algo mucho más valioso: sus propias almas, selladas dentro de las monedas. Cada moneda que pasó por sus manos los ató a la deuda. Y ahora... se han convertido en sellos vivientes.
+}
+Usurer_103_f {
+Oh, ingenuo y condenado... Al tomar mi dinero, firmas un contrato—no con tinta sobre papel, sino con tu propia alma.\nLos clanes creían que recibirían una parte por las contraseñas, pero en realidad, no importa por qué alguien toma dinero de mí. De cualquier modo, en el momento en que mis monedas tocan sus manos, el trato queda sellado. Les advertí... Se rieron.
+¿Crees que esos sirvientes solo ‘pasaban el dinero’? No. Llevaban algo mucho más valioso: sus propias almas, selladas dentro de las monedas. Cada moneda que pasó por sus manos los ató a la deuda. Y ahora... se han convertido en sellos vivientes.
+}
+Usurer_104 {
+¿Sirvientes? ¿Te refieres a los que están en la cubierta superior?
+}
+Usurer_105 {
+Entonces, cuando cayeron los narvales...
+}
+Usurer_106 {
+Exactamente. Novatos, muchachos que llevaban dinero para sus mayores. Sus “sirvientes” serán llamados primero; al fin y al cabo, son sus firmas las que arden en el contrato. No importa si lo saben o no. Cuando llegue el momento, se convertirán en... piezas del rompecabezas.
+}
+Usurer_107 {
+¿Y si tomo un millón... eso los “liberará”?
+}
+Usurer_108 {
+Esto es algún tipo de truco diabólico...
+}
+Usurer_109_m {
+¿Engaño? No. Siempre soy honesto. Ellos conocían el precio; simplemente no creyeron que tendrían que pagarlo.\nPero a ti, condenado, te doy una opción: un millón, y te quedas con su “parte”. O… espera, y verás cuando su deuda también venga a buscarte.
+}
+Usurer_109_f {
+¿Engaño? No. Siempre soy honesto. Ellos conocían el precio, simplemente no creyeron que tendrían que pagarlo.\nPero a ti, condenado, te ofrezco una elección: un millón, y te quedas con su “parte”. O… espera, y verás cómo su deuda también viene por ti.
+}
+Usurer_110 {
+No entiendo... ¿Esto los liberará de su deuda?
+}
+Usurer_111 {
+¿Liberarte? No. Redirigirte. Tus monedas se convertirán en un nuevo navío. Serás el siguiente eslabón de la cadena.\nAunque... podrías esperar hasta que empiece a devorarlas, como a todas las demás. Sin esperanza.
+}
+Usurer_112 {
+Todavía no entiendo por qué tengo que firmar un contrato. ¿No puedo simplemente pagar?
+}
+Usurer_113_m {
+Exactamente. El asunto es que mataste a los narvales... y nos robaste sus almas.\nAhora mis pactos con los clanes están desequilibrados... y antiguos poderes ansían venganza. Necesito ofrecerles algo a cambio... Algo igual de grandioso y valioso. Si aceptas el trato, saldarás la deuda de los narvales y recibirás un “boleto” para los caspers como bonificación para el recorrido.\n¿Y por qué? Porque es una buena inversión: tu alma vale mucho más que la de ellos, y no te queda mucho tiempo, condenado.
+}
+Usurer_113_f {
+Exactamente. El asunto es que mataste a los narvales... y nos arrebataste sus almas.\nAhora mis pactos con los clanes están desequilibrados... y antiguos poderes ansían venganza. Necesito ofrecerles algo a cambio... Algo igual de grandioso y valioso. Si aceptas el trato, saldarás la deuda de los narvales y recibirás un “boleto” para los caspers como bonificación por tu excursión.\n¿Y por qué? Porque es una inversión inteligente: tu alma vale mucho más que la de ellos, y no te queda mucho tiempo, condenado.
+}
+Usurer_114 {
+¡¿Qué quieres decir?!
+}
+Usurer_115 {
+Ja, ja... ¿No es obvio? Ya estás mucho más atado a este lugar de lo que imaginas. Los Caspers son solo piezas en el engranaje. Pero tú... tú podrías ser la clave. Pero esa es una historia para otro momento. Por ahora, decide: acepta el trato y su deuda quedará saldada antes de tiempo.
+}
+Usurer_116 {
+Al diablo... Trato hecho. ¿Cómo será?
+}
+Usurer_117 {
+No. ¡No voy a ser parte de esta locura!
+}
+Usurer_118 {
+¡Oh, esto será todo un espectáculo! Simplemente... desaparecerán en el aire. Y tú terminarás justo en la entrada de su guarida. Puedes traer a un par de amigos—los transportaré también.
+}
+Usurer_119 {
+Muy bien, entrega tu millón y prepara el “recorrido”.
+}
+Usurer_120 {
+Ya veremos. Ya me debes. El resto hasta un millón es @<FindMoneyString>. Paga extra por el recorrido.
+}
+Usurer_121 {
+A juzgar por... Escucha, ya te has llevado el millón completo. ¡Eso te convierte en mi cliente VIP! Los Kaspers desaparecerán por un tiempo. Espera y verás.
+}
+Usurer_122 {
+Aquí tienes tu millón. Espera la señal; cuando llegue el momento, te encontrarás en la entrada de su guarida.
+}
+Usurer_123_m {
+Estoy listo. Que desaparezcan.
+}
+Usurer_123_f {
+Estoy listo. Que desaparezcan.
+}
+Usurer_124 {
+¡Excelente! Vuelve en un par de días, todo estará listo. Y no te preocupes, sabré a quién de los tuyos enviarte.
+}
+Usurer_125 {
+Entendido. Esperaré.
+}

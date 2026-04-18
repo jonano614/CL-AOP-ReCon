@@ -1,0 +1,984 @@
+Habitue_dialog_1 {
+Voici le menu de sélection du type d’ivresse (bêta test)
+}
+Habitue_dialog_2 {
+Qu’il soit un ivrogne
+}
+Habitue_dialog_3 {
+Joueur de cartes
+}
+Habitue_dialog_4 {
+Joueur de dés
+}
+Habitue_dialog_5 {
+Ivrogne sélectionné
+}
+Habitue_dialog_6 {
+Continuer
+}
+Habitue_dialog_7 {
+Joueur de cartes (30 %% de chances de vous renvoyer dès la première tentative)
+}
+Habitue_dialog_8 {
+Continuer
+}
+Habitue_dialog_9 {
+Joueur de dés (30 %% de chances de vous renvoyer dès la première tentative)
+}
+Habitue_dialog_10 {
+Continuer
+}
+Habitue_dialog_11 {
+Je suis peut-être ivre, mais je n’ai pas perdu la tête. Si je bois avec toi maintenant, les soldats m’attraperont aussi! Non...
+}
+Habitue_dialog_12 {
+Je ne suis pas un ennemi de la ville où je vis. Je ne boirai pas avec toi!
+}
+Habitue_dialog_13_m {
+Mon gars, tu ferais mieux de filer d’ici tant que tu le peux encore...
+}
+Habitue_dialog_13_f {
+Ma petite, tu ferais mieux de partir d’ici tant que tu le peux…
+}
+Habitue_dialog_14 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_15 {
+Comme tu veux...
+}
+Habitue_dialog_16 {
+Hé, inutile de me rouler dans la farine! Ce n’est pas le moment.
+}
+Habitue_dialog_17 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_18_m {
+Ah, monsieur, j’ai entendu parler de vous, oh oui, oh oui, hé hé. Dans les tavernes, on raconte que vous êtes un fameux bagarreur et duelliste, et qu’au cours de rixes alcoolisées, vous avez déjà envoyé près d’une douzaine de personnes rejoindre leur Créateur. Vous savez, chez nous, on n’est pas du genre peureux, mais qui voudrait risquer sa vie pour une chope de rhum? Quant à moi, je ne me sens même pas à l’aise de partager une table avec vous, alors je crois que je vais prendre congé.
+}
+Habitue_dialog_18_f {
+Ah, madame, j’ai entendu parler de vous, oh oui, hé hé. Dans les tavernes, on raconte que vous êtes une faiseuse d’ennuis notoire et une duelliste, et qu’au cours de rixes alcoolisées, vous avez déjà envoyé près d’une douzaine de personnes rejoindre leur Créateur. Vous savez, les gens d’ici n’ont pas vraiment froid aux yeux, mais qui voudrait perdre la vie pour une chope de rhum? Quant à moi, je suis déjà nerveux rien qu’à partager cette table avec vous, alors je crois que je vais prendre congé.
+}
+Habitue_dialog_19 {
+Eh bien, tant mieux alors!
+}
+Habitue_dialog_20_m {
+Disparaissez tant que je suis encore de bonne humeur...
+}
+Habitue_dialog_20_f {
+Disparais tant que je suis encore de bonne humeur...
+}
+Habitue_dialog_21 {
+Allez, file! Dépêche-toi, appât à poisson!
+}
+Habitue_dialog_22 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_23_m {
+Attends, je voulais te demander quelque chose...
+}
+Habitue_dialog_23_f {
+Attends, je voulais te demander quelque chose...
+}
+Habitue_dialog_24 {
+Ne me bouche pas la lumière, je ne vois plus les mouches dans ma chope!
+}
+Habitue_dialog_25_m {
+Déjà parti en mer...
+}
+Habitue_dialog_25_f {
+Déjà parti...
+}
+Habitue_dialog_26_m {
+H-hic! Oh, l’ami, tu as l’air d’un vieux loup de mer expérimenté! Tu ne m’offrirais pas un verre de rhum?
+}
+Habitue_dialog_26_f {
+Hic! Oh, ma belle, tu as vraiment l’allure d’un loup de mer! Tu ne m’offrirais pas un verre de rhum?
+}
+Habitue_dialog_27_m {
+Peut-être que je suis un vieux loup de mer, mais ça ne veut pas dire que je vais servir à boire à chaque vagabond de passage...
+}
+Habitue_dialog_27_f {
+Peut-être que je suis une louve de mer, mais ça ne veut pas dire que je vais servir à boire au premier vagabond venu...
+}
+Habitue_dialog_28_m {
+Je serais ravi de me joindre à vous, pour la compagnie.
+}
+Habitue_dialog_28_f {
+Je serais ravi de me joindre à vous, pour la compagnie.
+}
+Habitue_dialog_29 {
+Et pourquoi donc?
+}
+Habitue_dialog_30 {
+J'ai déjà tout perdu, ce n'est vraiment pas mon jour.
+}
+Habitue_dialog_31 {
+D’accord.
+}
+Habitue_dialog_32 {
+J'en ai assez, je ne jouerai plus.
+}
+Habitue_dialog_33 {
+D’accord.
+}
+Habitue_dialog_34 {
+On joue aux cartes? C’est un jeu passionnant!
+}
+Habitue_dialog_35 {
+Que dirais-tu d'une partie de cartes? Ça te tente?
+}
+Habitue_dialog_36 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_37 {
+Pourquoi ne pas jouer? Jouons.
+}
+Habitue_dialog_38 {
+Et quelles sont les règles du jeu?
+}
+Habitue_dialog_39 {
+Pas maintenant.
+}
+Habitue_dialog_40 {
+Non, je ne veux plus jouer aux cartes avec toi.
+}
+Habitue_dialog_41 {
+Très bien, fais comme tu veux.
+}
+Habitue_dialog_42 {
+On joue aux dés? C’est un jeu vraiment intéressant!
+}
+Habitue_dialog_43 {
+Et si on lançait les dés? Qu’en dis-tu?
+}
+Habitue_dialog_44 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_45 {
+Pourquoi ne pas jouer? Faisons une partie.
+}
+Habitue_dialog_46 {
+Et quelles sont les règles du jeu?
+}
+Habitue_dialog_47 {
+Pas maintenant.
+}
+Habitue_dialog_48 {
+Non, je ne veux plus jouer aux dés avec toi.
+}
+Habitue_dialog_49 {
+Très bien, fais comme tu veux.
+}
+Habitue_dialog_50 {
+@<RandSwear> Tu as triché!!!
+}
+Habitue_dialog_51 {
+Dégage de ma table!
+}
+Habitue_dialog_52 {
+Hein... quoi? Qui est là?... H-hic... Dégage!
+}
+Habitue_dialog_53 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_54 {
+L’ivresse est en train de détruire ton âme pécheresse—reprends-toi!
+}
+Habitue_dialog_55 {
+Pas la peine d’être grossier avec moi.
+}
+Habitue_dialog_56 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_57 {
+Comment oses-tu me parler ainsi, espèce de porc! Je vais t’apprendre les bonnes manières sur-le-champ.
+}
+Habitue_dialog_58 {
+Je vais t’en coller une tout de suite, ça va te réveiller d’un coup.
+}
+Habitue_dialog_59 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_60_m {
+Rien du tout, monsieur, je ne vous dirai rien! Et je doute que qui que ce soit d’autre le fasse non plus—parler avec vous ne mène jamais à rien de bon... Mais la mémoire des gens est courte—dans un mois ou deux, vos exploits seront presque oubliés. Sauf si, bien sûr, vous décidez de la raviver, hé hé... Adieu, monsieur.
+}
+Habitue_dialog_60_f {
+Rien du tout, madame, je ne vous dirai rien! Et je doute que quelqu’un d’autre le fasse non plus — parler avec vous ne mène jamais à rien de bon... Mais les gens oublient vite : dans un mois ou deux, toutes vos aventures seront à moitié oubliées. Sauf si, bien sûr, vous décidez de leur rafraîchir la mémoire, hé hé... Adieu, madame.
+}
+Habitue_dialog_61 {
+Très bien alors...
+}
+Habitue_dialog_62 {
+Très bien, commençons!
+}
+Habitue_dialog_63 {
+Non, ce n’est pas pour moi…
+}
+Habitue_dialog_64 {
+Alors mettons-nous d’accord sur la mise (saisissez votre pari).
+}
+Habitue_dialog_65 {
+Je suppose qu'il est temps pour moi de partir.
+}
+Habitue_dialog_66 {
+Tu as la réputation d’être imbattable aux cartes. Je ne jouerai pas avec toi, pas du tout.
+}
+Habitue_dialog_67 {
+Tout le monde ment! Très bien, ça m’est égal.
+}
+Habitue_dialog_68_m {
+On dirait que tu n’as plus un sou. Reviens quand tu auras de l’argent.
+}
+Habitue_dialog_68_f {
+Tu n’as plus un sou, chéri. Reviens quand tu auras de l’argent.
+}
+Habitue_dialog_69 {
+D’accord.
+}
+Habitue_dialog_70 {
+Baissons les enjeux, sinon je ne jouerai pas avec toi!
+}
+Habitue_dialog_71 {
+Oui, peut-être. Il faudrait réduire la mise.
+}
+Habitue_dialog_72_m {
+J’ai changé d’avis à propos de la partie.
+}
+Habitue_dialog_72_f {
+J’ai changé d’avis à propos de la partie.
+}
+Habitue_dialog_73 {
+Hé, tu plaisantes?! Jouer pour @<FindMoneyString>?! Changeons les enjeux, sinon je ne joue pas avec toi!
+}
+Habitue_dialog_74 {
+Oui, je suppose. Autant augmenter les enjeux.
+}
+Habitue_dialog_75_m {
+Je crois que j’ai changé d’avis à propos de la partie.
+}
+Habitue_dialog_75_f {
+Je crois que j’ai changé d’avis concernant le jeu.
+}
+Habitue_dialog_76 {
+Jouer pour une telle somme? Hors de question... Changeons les enjeux!
+}
+Habitue_dialog_77 {
+Oui, tu as raison. Il faut réduire les enjeux.
+}
+Habitue_dialog_78_m {
+Je ne suis pas sûr d’avoir encore envie de jouer.
+}
+Habitue_dialog_78_f {
+Je n’ai plus vraiment envie de jouer.
+}
+Habitue_dialog_79 {
+Très bien, on joue pour @<iLa_Puesta> pièces.
+}
+Habitue_dialog_80 {
+Rendez-vous!
+}
+Habitue_dialog_81 {
+Alors, quelle est ta mise? (Indique ton pari.)
+}
+Habitue_dialog_82 {
+Je crois que je vais passer mon tour...
+}
+Habitue_dialog_83 {
+Très bien, commençons!
+}
+Habitue_dialog_84 {
+Non, ce n’est pas pour moi…
+}
+Habitue_dialog_85 {
+Faisons un pari (saisissez votre mise).
+}
+Habitue_dialog_86 {
+Je suppose qu'il est temps pour moi de partir.
+}
+Habitue_dialog_87 {
+On dit partout que tu es un tricheur imbattable. Je ne jouerai pas aux dés avec toi.
+}
+Habitue_dialog_88 {
+Tout le monde ment! De toute façon, je n’ai pas besoin d’eux.
+}
+Habitue_dialog_89_m {
+On dirait que tu n’as plus un sou, l’ami. Reviens quand tu auras de l’argent.
+}
+Habitue_dialog_89_f {
+T'es fauché, chéri. Reviens quand tu auras un peu d'argent.
+}
+Habitue_dialog_90 {
+D’accord.
+}
+Habitue_dialog_91 {
+Baissons les enjeux, sinon je ne jouerai pas avec toi!
+}
+Habitue_dialog_92 {
+Oui, je suppose. Les enjeux devraient être revus à la baisse.
+}
+Habitue_dialog_93_m {
+Je crois que j’ai changé d’avis à propos de jouer.
+}
+Habitue_dialog_93_f {
+J’ai changé d’avis à propos de la partie.
+}
+Habitue_dialog_94 {
+Hein, tu te moques de moi?! Jouer pour @<FindMoneyString> par dé?! Changeons les enjeux, sinon je ne joue pas avec toi!
+}
+Habitue_dialog_95 {
+Oui, je suppose. Il est peut-être temps de corser un peu les choses.
+}
+Habitue_dialog_96_m {
+Je crois que j’ai changé d’avis à propos de la partie.
+}
+Habitue_dialog_96_f {
+J’ai changé d’avis à propos de la partie.
+}
+Habitue_dialog_97 {
+Jouer aux dés pour une telle somme? Hors de question... Changeons les enjeux!
+}
+Habitue_dialog_98 {
+Oui, tu as raison. Il faut réduire les enjeux.
+}
+Habitue_dialog_99_m {
+Je commence à penser que je ne jouerai pas du tout.
+}
+Habitue_dialog_99_f {
+Je n’ai plus vraiment envie de jouer.
+}
+Habitue_dialog_100 {
+Très bien, on joue pour @<iLa_Puesta> pièces par dé.
+}
+Habitue_dialog_101 {
+Allons-y!
+}
+Habitue_dialog_102 {
+Alors, quelle est ta mise? (Indique ton pari.)
+}
+Habitue_dialog_103 {
+Je pense que je vais passer mon tour...
+}
+Habitue_dialog_104 {
+Eh bien... Hip! J’en ai vu des horreurs—un navire fantôme, avec pour équipage rien d’autre que des morts... On raconte qu’il navigue dans ces eaux depuis l’époque de Christophe Colomb...
+}
+Habitue_dialog_105 {
+Tu mens, c’est certain!
+}
+Habitue_dialog_106 {
+Est-ce que je mens? Hic! Ça fait deux semaines que je bois sans arrêt, juste pour oublier ce que j’ai vu... La façon dont il est entré dans la baie avec ces voiles noires, en lambeaux...
+}
+Habitue_dialog_107 {
+Et comment as-tu survécu?
+}
+Habitue_dialog_108_m {
+Quand je les ai vus débarquer, j’ai failli me faire dessus. Hic!… Et ne te moque pas—tu aurais fait pareil! Alors j’ai pris mes jambes à mon cou, tout de suite…
+}
+Habitue_dialog_108_f {
+Quand je les ai vus débarquer, j’ai failli me faire dessus. Hic!… Et ne te moque pas—tu aurais fait pareil! Alors je me suis enfui de là aussi vite que possible…
+}
+Habitue_dialog_109 {
+Hmm... Tu es vraiment un menteur, tu as complètement perdu la tête à force de boire.
+}
+Habitue_dialog_110 {
+Que se passe-t-il? Pas grand-chose, en fait... Mais il paraît que le Flying Dutchman a encore envoyé un convoi d’or par le fond.
+}
+Habitue_dialog_111 {
+De quel Hollandais parlez-vous?
+}
+Habitue_dialog_112 {
+« Le Flying One »! Alors, le vaisseau fantôme est de retour dans l’archipel. Je croyais qu’il avait disparu depuis des années... Il devait être dans l’au-delà, sans aucun doute. Comment expliquer autrement que tout l’équipage soit maudit, avec des balles qui leur traversent le corps?
+}
+Habitue_dialog_113 {
+Alors quoi, tu n’arrives pas à les tuer?
+}
+Habitue_dialog_114 {
+Il y a eu des moments où des villes étaient prises d’assaut, toute la garnison du fort massacrée, et il y avait des milliers de soldats dans le fort! J’ai entendu dire qu’ils ont déjà coulé une fois, mais qu’est-ce que ça change pour les morts — ils traîneront leur navire jusqu’au rivage au fond de la mer, le rafistoleront comme ils peuvent, et repartiront semer la terreur.
+}
+Habitue_dialog_115 {
+Ah, les gens ont vraiment le don d’inventer des histoires… « Traîner sur le fond de la mer », vraiment. Enfin, merci, c’est une histoire intéressante.
+}
+Habitue_dialog_116 {
+On dit qu’ils préparent encore une attaque contre un fort. Lequel? Je l’ignore. Demande aux gouverneurs, peut-être que quelqu’un a besoin d’aide.
+}
+Habitue_dialog_117 {
+Ah, vraiment! Merci, mais je dois y aller.
+}
+Habitue_dialog_118 {
+« Le Flying Dutchman »? Oui, ce navire existe, même si beaucoup refusent d’y croire.
+}
+Habitue_dialog_119_m {
+Je l’ai vu de mes propres yeux! J’ai failli ne pas m’en sortir vivant. Où puis-je le trouver?
+}
+Habitue_dialog_119_f {
+Je l’ai vu de mes propres yeux! J’ai failli ne pas m’en sortir vivant. Où puis-je le trouver?
+}
+Habitue_dialog_120 {
+D’accord, je te crois. Où puis-je le trouver?
+}
+Habitue_dialog_121 {
+Des contrebandiers locaux m'ont dit qu'il est arrivé dans notre baie hier.
+}
+Habitue_dialog_122 {
+Juste ici, tout près? Il est toujours là?
+}
+Habitue_dialog_123 {
+Comment pourrais-je le savoir? Ils sont sans doute partis en mer. Les contrebandiers se sont enfuis de leur côté, ils ont tout perdu...
+}
+Habitue_dialog_124 {
+Eh bien, je vais essayer de le rattraper—nous n’en avons pas fini avec cette conversation!
+}
+Habitue_dialog_125 {
+Très bien, je vais essayer de le rattraper et voir de quel genre de fantôme il s'agit.
+}
+Habitue_dialog_126 {
+Eh bien... Hip! Parfois, tout semble parfait dans ce monde... Hip! Difficile de dire pourquoi au début... Hip! C’est juste que le rhum passe si bien... Hip! Du rhum noir de la Jamaïque... Hip!\nPrends ta chope, sers-toi!
+}
+Habitue_dialog_127 {
+Et ensuite?
+}
+Habitue_dialog_128 {
+Oh, fiche le camp!
+}
+Habitue_dialog_129 {
+Des chopes, des visages, des talons qui défilent... Hip! Et un coup sur la tête. Je bois avec tout le monde, partout... Hip! Où est la gnôle? J’en ai besoin!
+}
+Habitue_dialog_130 {
+Et ensuite?
+}
+Habitue_dialog_131 {
+Oh, fiche le camp!
+}
+Habitue_dialog_132 {
+Quand ton cœur est lourd et que tu sens le froid t’envahir, prends donc quelques chopes de rhum pour réchauffer ton âme! Tous tes soucis et faux-semblants disparaîtront. Et là, tu verras que je suis vraiment ton meilleur ami!
+}
+Habitue_dialog_133 {
+Oh, fiche le camp!
+}
+Habitue_dialog_134 {
+Hips! Voilà ce que je voulais dire! C’est l’esprit! Alors, qu’en dis-tu? Tu me sers une chope de rhum?
+}
+Habitue_dialog_135 {
+Asseyez-vous, @<GetAddress_Form>, et partageons une chope de bon rhum jamaïcain. Ça n’a jamais fait de mal à personne. Et pour quelqu’un qui a le sens des affaires, il n’y a pas de meilleur endroit qu’une taverne, croyez-moi... Quelques pièces, deux ou trois bons verres—et vous saurez tout ce que vous voulez... et même plus. Faites confiance à un habitué...
+}
+Habitue_dialog_136_m {
+Heh-heh, asseyez-vous, mon bon monsieur, prenons un verre... Pourquoi ne pas trinquer en si bonne compagnie? Dans la taverne du port, on entend parfois des choses très intéressantes, à condition d’être patient et de savourer son rhum lentement, pour ne pas finir sous la table... Un capitaine ou un autre charge parfois un peu trop de marchandises et se met à se vanter de ses exploits, ou quelqu’un, dans de bonnes dispositions, peut laisser échapper une information précieuse... Toutes sortes de gens se retrouvent ici, et croyez-moi, monsieur, beaucoup ont des histoires à raconter.
+}
+Habitue_dialog_136_f {
+Heh-heh, asseyez-vous, madame, prenons un verre… Pourquoi pas, en si bonne compagnie? Dans la taverne du port, on peut surprendre des choses très intéressantes, à condition d’être patient et de boire doucement, pour ne pas se laisser emporter… Parfois, un capitaine charge un peu trop et se met à raconter ses exploits, parfois quelqu’un d’informé laisse échapper un secret au bon moment… Toutes sortes de gens se retrouvent ici, et beaucoup ont des histoires à raconter, croyez-moi, madame.
+}
+Habitue_dialog_137 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_138 {
+Pas de problème! Aubergiste, du rhum!
+}
+Habitue_dialog_139_m {
+Bien sûr! J’ai entendu dire qu’ils se mettent même à voler les églises maintenant!
+}
+Habitue_dialog_139_f {
+Bien sûr! J’ai entendu dire qu’ils se mettent même à voler des églises maintenant!
+}
+Habitue_dialog_140 {
+Eh bien, seuls les pirates sont capables d’une chose pareille...
+}
+Habitue_dialog_141 {
+Des pirates? N’importe quoi! Juste de vulgaires vauriens du coin, et des locaux, ça ne fait aucun doute—comment des pirates sauraient-ils quand les coffres de l’église sont pleins à craquer? Et puis, ils n’oseraient jamais s’en mêler.
+}
+Habitue_dialog_142 {
+Des gars courageux, tout de même. Ils ont forcé sans hésiter la serrure fragile de l’église...
+}
+Habitue_dialog_143 {
+Exactement. Et en plus, quelle intelligence. Qui se fait piéger de cette façon?
+}
+Habitue_dialog_144 {
+Tu as raison. Toute la paroisse s’est serré la ceinture, économisant chaque sou pour la mettre dans le tronc de l’église, et maintenant, certains petits malins se sont enrichis d’un coup? Ils ne s’en tireront pas comme ça—tout le monde va se mettre à leur poursuite.
+}
+Habitue_dialog_145 {
+Non. Qui va les attraper? Ils ont vidé la boîte à dons et se sont volatilisés—partis au-delà des limites de la ville. Et ces jungles sont immenses ; tu pourrais chercher éternellement sans jamais les retrouver. Dans un mois ou deux, tout le monde aura oublié cette histoire. Mais ce n’est pas ça que je voulais dire...
+}
+Habitue_dialog_146 {
+Tu sais, les gens ne pardonnent pas ce genre de choses.
+}
+Habitue_dialog_147 {
+La mémoire des gens, c’est comme une barque qui prend l’eau. Les gens finissent par pardonner. Mais Dieu, lui? Il voit tout... C’est de Lui qu’il faut avoir peur! Il y a une dizaine d’années, il est arrivé une chose terrible à un de mes amis — il a failli finir dans la gueule du démon des mers, tout ça pour avoir manqué de respect au Créateur...
+}
+Habitue_dialog_148 {
+Désolé, l’ami, j’écouterai ton histoire une autre fois. Adieu.
+}
+Habitue_dialog_149 {
+Ah, François! Je me souviens, je me souviens de lui... Non, je n’en sais pas beaucoup. Mais voilà ce que je peux te dire : va demander à notre serveuse à son sujet. Il est resté ici un bon moment — elle courait dans sa chambre chaque nuit. Une vraie effrontée, cette fille. Peut-être qu’il lui a laissé échapper quelque chose.
+}
+Habitue_dialog_150 {
+Merci, l’ami, pour ce bon conseil. Je vais aller lui parler.
+}
+Habitue_dialog_151 {
+Ah, on ne sait jamais ce qu’on peut voir en mer… Lors de mon dernier voyage, il m’est arrivé quelque chose de vraiment incroyable…
+}
+Habitue_dialog_152 {
+Très bien, parle—mais ne me raconte pas trop d’histoires. Je vais nous servir un peu plus de rhum en attendant.
+}
+Habitue_dialog_153_m {
+Croix de bois, croix de fer, noble monsieur—je l’ai vu de mes propres yeux... Il y avait un navire qui voguait, et à la place de l’équipage, il y avait des singes monstrueux... euh... des gorilles... ou peut-être des macaques, qui peut savoir...
+}
+Habitue_dialog_153_f {
+Croix de bois, noble dame, je l’ai vu de mes propres yeux… Un navire qui passait, et à la place de l’équipage, il y avait des singes monstrueux… euh… des gorilles… ou peut-être des macaques, qui sait…
+}
+Habitue_dialog_154 {
+Quoi? Dis-moi, l’ami, tu bois même quand tu es de quart?
+}
+Habitue_dialog_155_m {
+Que je sois cloué sur place si je mens! Tu n’as jamais entendu parler du Monkey Ship? Eh bien, c’était lui… par les moustaches d’une crevette!
+}
+Habitue_dialog_155_f {
+Que le ciel me foudroie si je mens! Tu n’as jamais entendu parler du Monkey Ship? Eh bien, c’était lui… nom d’un chien, minus!
+}
+Habitue_dialog_156_m {
+Qu’est-ce que tu veux dire par un navire singe? Non, jamais entendu parler.
+}
+Habitue_dialog_156_f {
+Comment ça, un navire singe? Non, jamais entendu parler.
+}
+Habitue_dialog_157 {
+Oh... mais je vous assure, je l’ai vu de mes propres yeux. C’était pendant une tempête, @<pchar>. Il faisait si noir qu’on ne voyait même pas sa main devant son visage—et soudain, elle est apparue : un navire aux voiles en lambeaux... Son mât de misaine était brisé, le grand mât aussi, la vergue, la proue—tout était fracassé! Pourtant, il avançait droit contre le vent, comme si de rien n’était!\nEt sur le pont—tant de singes en haillons, serrés les uns contre les autres comme des phoques sur la plage! Et à la barre, il y avait un vrai gorille! Presque trois mètres de haut, une chemise rouge, et à la place d’une croix sur la poitrine, des dents de requin... Ses yeux brillaient, ses crocs luisaient, il nous a repérés et a poussé un cri—pas humain, mais sauvage...
+}
+Habitue_dialog_158 {
+Eh bien, mon frère, tu racontes vraiment des histoires. Qui sait ce qu’un ivrogne peut voir. Tu vas bientôt me dire qu’il y avait “Flying Dutchman” écrit sur sa poupe.
+}
+Habitue_dialog_159 {
+Hé, non, ce n’était pas le « Dutchman ». Je vous assure—je ne mens pas! C’était une barque, et @<pchar> était écrit sur la poupe.
+}
+Habitue_dialog_160 {
+Kha-rkh!! Bon sang! Je crois que je sais qui étaient ces singes... Le rhum délie vraiment les langues, il suffit d’écouter.
+}
+Habitue_dialog_161 {
+Je te l’avais dit, non! Mais tu ne voulais pas me croire!... Allez, buvons un dernier verre et c’est fini... J’accoste.
+}
+Habitue_dialog_162 {
+Très bien, merci pour cette histoire intéressante. Je dois y aller. Prends soin de toi.
+}
+Habitue_dialog_163 {
+C’est arrivé, mais en quoi ça vous concerne, capitaine? Dès que les marins aperçoivent la terre ferme et du rhum avec les filles, ils perdent la tête—et s’ils avaient un peu de bon sens, ici, ça ne se verrait pas.
+}
+Habitue_dialog_164_m {
+C’est vrai, bien sûr... c’est juste que mon ami—c’est le navigateur de cette pinasse, et son capitaine a oublié de s’enregistrer au port. Et quand j’ai appris qu’ils avaient accosté ici, je me suis dit : pourquoi ne pas rendre visite à un vieux camarade? Peut-être avez-vous entendu où ils comptaient aller?
+}
+Habitue_dialog_164_f {
+Oui, bien sûr... c’est juste que mon ami — c’est le navigateur de cette pinasse, et son capitaine a oublié de s’enregistrer au port. J’ai appris qu’ils avaient accosté ici, alors je me suis dit : pourquoi ne pas rendre visite à un vieil ami? Peut-être avez-vous entendu où ils comptaient aller?
+}
+Habitue_dialog_165 {
+Qui pourrait le dire, capitaine? Tout ce que j’ai entendu, c’est ces marins se vanter qu’ils iraient caresser des prostituées françaises au bordel, une fois qu’ils commenceraient à dépenser l’or que leur maître leur paierait pour le voyage. Peut-être qu’ils sont partis pour l’Ancien Monde, ou ailleurs. Ils n’en ont pas dit beaucoup plus—ils chantaient des chansons et commandaient du rhum.
+}
+Habitue_dialog_166 {
+Alors, tu dis que tu flirtes avec des Françaises... Bon, je ferais mieux d’y aller. Merci pour l’info!
+}
+Habitue_dialog_167 {
+Si ces tartanes traînent près des côtes de Turks, c’est uniquement pour plonger chercher des perles. Il n’y a rien d’autre à faire là-bas.
+}
+Habitue_dialog_168 {
+Intéressant comme idée. Les perles sont vraiment une belle prise. Bon, je dois y aller.
+}
+Habitue_dialog_169_m {
+Tu es un véritable ami! À de nouvelles rencontres!
+}
+Habitue_dialog_169_f {
+Tu es un vrai marin! Trinquons à notre rencontre!
+}
+Habitue_dialog_170 {
+Hips! Quel rhum! Bon... à la vôtre!
+}
+Habitue_dialog_171 {
+À votre santé et à votre générosité!
+}
+Habitue_dialog_172 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_173 {
+Ah, du rhum fort. Bon, je vais y aller maintenant—profitez bien de la soirée.
+}
+Habitue_dialog_174 {
+On en reprend un autre.
+}
+Habitue_dialog_175_m {
+J’ai l’impression d’avoir passé une éternité en mer. Quoi de neuf par ici?
+}
+Habitue_dialog_175_f {
+J’ai l’impression d’avoir passé une éternité en mer. Quoi de neuf par ici?
+}
+Habitue_dialog_176 {
+Alors, dis-moi, quelles sont les dernières rumeurs? Je ne te sers pas du rhum pour rien...
+}
+Habitue_dialog_177 {
+Dis-moi, frère, quelles histoires circulent dans les tavernes?
+}
+Habitue_dialog_178 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_179 {
+Oh! Excellente idée!
+}
+Habitue_dialog_180 {
+Aubergiste! Du rhum!
+}
+Habitue_dialog_181_m {
+Alors, @<GetAddress_Form>, tu crois sans doute que tout le monde t’admire, n’est-ce pas? Eh bien, pour moi, tu n’es qu’un brigand de plus… et un meurtrier. « Pirate noble », tu dis? Un bandit reste un bandit, que ce soit sur terre ou en mer…
+}
+Habitue_dialog_181_f {
+Alors, @<GetAddress_Form>, tu crois sans doute que tout le monde t’admire, n’est-ce pas? Mais pour moi, tu n’es qu’un vulgaire assassin! …et un meurtrier. « Noble pirate », tu dis? Tu parles! Un bandit reste un bandit, sur terre comme en mer…
+}
+Habitue_dialog_182_m {
+Hips! Toi... espèce de vaurien! Tu... tu veux me saouler, hic! Et me voler mon argent!
+}
+Habitue_dialog_182_f {
+Hic! C-cette piquette! Tu essaies de me saouler, hic! Et de me voler mon argent!
+}
+Habitue_dialog_183 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_184 {
+Je vois que tu as déjà un peu trop bu à bord... Allez, va dormir, il est temps que j’aille me coucher moi aussi.
+}
+Habitue_dialog_185 {
+Je n’aime pas trop ton ton. Tu ferais mieux de surveiller tes paroles.
+}
+Habitue_dialog_186 {
+À qui tu traites de bandit, espèce de marin d’eau douce? On va voir si tu chantes aussi bien avec un trou dans le ventre!
+}
+Habitue_dialog_187_m {
+Pourquoi tu me regardes comme ça? T-tu comptes sûrement me saouler pour me détrousser! Il y a toute une bande de vauriens ici! Hips!... Un homme honnête ne peut même plus mettre les pieds dans une taverne!
+}
+Habitue_dialog_187_f {
+Pourquoi tu me regardes comme ça? T-tu veux sûrement me saouler et me détrousser! Toutes sortes de vauriens ont envahi cet endroit! Hips!... Un homme honnête ne peut même plus mettre les pieds dans une taverne!
+}
+Habitue_dialog_188 {
+Tu me respectes?... Je te demande si tu me respectes?! Tu ferais mieux de faire attention... Je ne laisserai rien passer — je peux te tirer une balle en plein entre les yeux, comme ça... et ce sera fini — il te faudra un prêtre pour l’enterrement.
+}
+Habitue_dialog_189 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_190 {
+Mon ami, je vois que ta cale est pleine à craquer. Tu ferais mieux de rentrer... et il est temps que je fasse de même.
+}
+Habitue_dialog_191 {
+Pas si vite, garçon. Tu ferais bien de te rappeler à qui tu t’adresses...
+}
+Habitue_dialog_192 {
+À qui crois-tu parler sur ce ton? Je vais t’apprendre à respecter!
+}
+Habitue_dialog_193 {
+Doucement! Tu as oublié? Je suis ton seul véritable ami!
+}
+Habitue_dialog_194 {
+Écoutez! V-vous êtes quelqu’un de bien! P-peut-être que vous pourriez m’aider avec... avec... avec un petit travail?
+}
+Habitue_dialog_195 {
+Non, je pense qu’il est temps pour moi de partir.
+}
+Habitue_dialog_196 {
+B-bien sûr! Après tout, nous sommes... hic... amis!
+}
+Habitue_dialog_197 {
+... Et puis j’ai attrapé son épée par la lame et...
+}
+Habitue_dialog_198 {
+... et voilà qu’elle vient me dire...
+}
+Habitue_dialog_199 {
+... Et puis j'ai attrapé son épée par la lame et...
+}
+Habitue_dialog_200 {
+... e-et hic! elle me dit...
+}
+Habitue_dialog_201 {
+À toi! Ah, zut! Qui est là?!
+}
+Habitue_dialog_202 {
+Hein? Quoi? Où? J’ai dû rêver.
+}
+Habitue_dialog_203 {
+On en reprend une autre.
+}
+Habitue_dialog_204 {
+Ah, du rhum fort. Bon, je ferais mieux d’y aller maintenant—profitez du reste de votre soirée.
+}
+Habitue_dialog_205 {
+Quelles histoires raconte-t-on dans les tavernes?
+}
+Habitue_dialog_206 {
+Que se passe-t-il dans ces eaux?
+}
+Habitue_dialog_207 {
+Dis-moi, frère, que sais-tu du navire fantôme, le Flying Dutchman?
+}
+Habitue_dialog_208 {
+Si on boit, alors buvons! Une autre tournée?
+}
+Habitue_dialog_209 {
+Versez!
+}
+Habitue_dialog_210 {
+On en reprend un autre.
+}
+Habitue_dialog_211 {
+Ah, du rhum fort. Bon, je ferais mieux d’y aller—profitez du reste de votre soirée.
+}
+Habitue_dialog_212 {
+Peux-tu me raconter quelque chose d’intéressant, vraiment intéressant?
+}
+Habitue_dialog_213 {
+On en reprend un autre.
+}
+Habitue_dialog_214 {
+Ah, ce rhum est corsé. Bon, je vais y aller maintenant—profitez bien de votre soirée.
+}
+Habitue_dialog_215 {
+Hé, l’ami, tu n’aurais pas croisé Monsieur Jean-Jacques Granier dans le coin?
+}
+Habitue_dialog_216 {
+On en reprend un autre.
+}
+Habitue_dialog_217 {
+Ah, du rhum fort. Bon, je ferais mieux d’y aller maintenant—profite du reste de ta soirée.
+}
+Habitue_dialog_218 {
+Matelot, as-tu entendu parler du capitaine Joseph Fouché?
+}
+Habitue_dialog_219 {
+Allez, bois donc! Une autre tournée?
+}
+Habitue_dialog_220 {
+Sers-moi un verre!
+}
+Habitue_dialog_221 {
+Pourquoi pas, est-ce que je ne l’ai jamais rencontré? Si, je l’ai déjà vu. Mais il ne passait pas beaucoup de temps à la taverne — toujours occupé, toujours absorbé par ses propres affaires…
+}
+Habitue_dialog_222 {
+Pourquoi dis-tu « était »? Il lui est arrivé quelque chose?
+}
+Habitue_dialog_223 {
+Pourquoi ne pas le dire à un homme bien... h-hic. On raconte que son navire a été vendu il n’y a pas longtemps, et qu’il a disparu sans laisser de trace.
+}
+Habitue_dialog_224 {
+Eh bien, c’est une belle pagaille… Où a-t-il bien pu disparaître?
+}
+Habitue_dialog_225 {
+Vous savez, les gens d’ici ne sont pas très curieux. Si quelqu’un disparaît, c’est que quelqu’un l’a voulu, et si c’est le cas, mieux vaut ne pas se mêler de ce qui ne vous regarde pas—sinon vous pourriez bien... euh... disparaître à votre tour, ha ha ha ha!
+}
+Habitue_dialog_226 {
+Vous êtes tous devenus fous ici : un homme a disparu, mais ça n’intéresse personne. Très bien, adieu, vieux soûlard.
+}
+Habitue_dialog_227 {
+Bien sûr que j’ai entendu. Il y a un capitaine qui porte ce nom.
+}
+Habitue_dialog_228 {
+Tu as une idée d’où il pourrait être en ce moment?
+}
+Habitue_dialog_229 {
+Qui sait. Tu sais comment c’est—la vie en mer ne suit pas vraiment de cap précis. Ces derniers temps, il traîne pas mal avec les contrebandiers. Peut-être qu’ils pourront t’aider.
+}
+Habitue_dialog_230 {
+C’est déjà ça, merci.
+}
+Habitue_dialog_231 {
+Pas grand-chose, en fait, seulement des rumeurs disant que les jeux de cartes ici ne sont pas tout à fait honnêtes.
+}
+Habitue_dialog_232 {
+Et où joue-t-on encore honnêtement de nos jours?
+}
+Habitue_dialog_233 {
+Ça, euh... tu te trompes. Partout ailleurs, on joue honnêtement, mais ici, les gens se font arnaquer. On raconte que, tout récemment, un marchand...
+}
+Habitue_dialog_234 {
+Allez, vas-y, raconte—et le marchand?
+}
+Habitue_dialog_235 {
+Quel marchand? Ah, fiche-moi la paix avec tes bavardages, tu veux bien... hic...
+}
+Habitue_dialog_236 {
+Alors, un gentilhomme de fortune, c’est bien ça?
+}
+Habitue_dialog_237 {
+On peut dire ça comme ça...
+}
+Habitue_dialog_238 {
+Et tes armes sont en bon état, tu es bien habillé—on dirait que la chance te sourit.
+}
+Habitue_dialog_239 {
+Oui, j’ai un peu d’argent—je dépense lentement l’héritage de mon père...
+}
+Habitue_dialog_240 {
+Hé, garçon, envie de tenter ta chance et de gagner un peu d’argent?
+}
+Habitue_dialog_241 {
+Et qu’entendez-vous par « bonne somme »?
+}
+Habitue_dialog_242 {
+Un bon pactole, garçon, c’est quand on ne joue pas ces quelques piécettes, mais au moins 5 000 pièces d’or — et que les gains sont à la hauteur. Alors, qu’en dis-tu, tu as le cran?
+}
+Habitue_dialog_243 {
+Si tout est réglo, je suis partant. La chance est avec moi aujourd’hui.
+}
+Habitue_dialog_244 {
+Alors, garçon, passe donc ce soir à la maison à droite du chantier naval—celle avec la niche près de la porte. Des gens respectables et fortunés s’y réuniront. C’est là que nous jouerons. Loin des regards et des oreilles indiscrets. Alors, tu viendras?
+}
+Habitue_dialog_245 {
+Oui, bien sûr, le soir. J’arrive, on me frappe à la tête, et je perds mon argent.
+}
+Habitue_dialog_246 {
+Vous me blessez! Je vous l’ai dit, ce sont des gens respectables — des marchands, des négociants, des nobles.
+}
+Habitue_dialog_247 {
+Eh bien, si c’est comme tu dis, je viendrai tenter ma chance. Mais attention, si tu essaies de me tromper, je t’empalerai comme un insecte.
+}
+Habitue_dialog_248 {
+Bien, alors. Frappez trois fois à la porte, dites que c’est le vieux François qui vous envoie, et ils vous laisseront entrer.
+}
+Habitue_dialog_249 {
+Pourquoi s’embarrasser de telles formalités?
+}
+Habitue_dialog_250 {
+Eh bien, réfléchis par toi-même : pourquoi voudrions-nous des yeux et des oreilles en plus dans les parages? Les gens qui se réunissent ici sont respectables ; ils ne veulent attirer l’attention de personne.
+}
+Habitue_dialog_251 {
+C’est vrai...
+}
+Habitue_dialog_252 {
+Le fait est que l’un des soldats m’a insultée. Voilà tout!
+}
+Habitue_dialog_253 {
+Un s-soldat? N-non, je crois que je vais passer mon tour.
+}
+Habitue_dialog_254 {
+Doucement! Tu as oublié? Je suis ton seul véritable ami!
+}
+Habitue_dialog_255 {
+Toi? Q-quel genre d’ami es-tu pour moi?! N-non! Tu veux… hic… tu veux me tuer! L-là!
+}
+Habitue_dialog_256 {
+Très bien, je vois que vous en avez assez pour aujourd’hui. Au revoir.
+}
+Habitue_dialog_257 {
+Quoi? Je vais te montrer tout de suite que je ne veux pas te tuer! Je vais juste... hic... te couper la main!
+}
+Habitue_dialog_258_m {
+Aaaah! Éloignez-le de moi!!
+}
+Habitue_dialog_258_f {
+Aaaah! Éloignez-la de moi!!
+}
+Habitue_dialog_259 {
+Hé, du calme... hic... ça ne fera pas mal!
+}
+Habitue_dialog_260 {
+Ne cherche pas à m’effrayer!.. Tu t’es attaqué à la mauvaise personne, squawk!.. C’est à la potence que des gens comme toi finissent, comme tous les traîtres, squawk! Tu as beau faire le fier, je sens la pourriture à des kilomètres. Et je ne vais pas peser mes mots avec quelqu’un comme toi, squawk!
+}
+Habitue_dialog_261 {
+Qu’est-ce que tu veux attendre d’un ivrogne pareil. Je vais prendre un peu l’air…
+}
+Habitue_dialog_262 {
+Tu as dépassé les bornes, garçon. Tu vas ravaler tes paroles!
+}
+Habitue_dialog_263 {
+Quoi?! Je vais t’attraper de mes propres mains… Hips! Personne ne m’a jamais échappé!
+}
+Habitue_dialog_264 {
+Quel ivrogne, il a gâché toute la soirée. Très bien, va donc courir après tes cafards, moi je m’en vais.
+}
+Habitue_dialog_265 {
+@<RandSwear> Je vois que tu ne vas pas te calmer. Il va falloir que je t’apprenne les bonnes manières.
+}
+Habitue_dialog_266 {
+Viens ici, vaurien! Tu vas avoir ce que tu mérites!
+}
+Habitue_dialog_267 {
+@<RandSwear> Je vais vraiment t’ouvrir en deux!
+}
+Habitue_dialog_268_m {
+Ha! Allez, marin — voyons ce que tu vaux sur la terre ferme!
+}
+Habitue_dialog_268_f {
+Ha! Allez, petite matelote—voyons ce que tu vaux sur la terre ferme!
+}
+Habitue_dialog_269 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_270 {
+Je te jure, tu vas le regretter!
+}
+Habitue_dialog_271 {
+Je vais t’arracher cette sale langue jusqu’aux oreilles!
+}
+Habitue_dialog_272 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_273 {
+Je vais t’éventrer comme un hareng!
+}
+Habitue_dialog_274 {
+Je te jure, je vais te faire taire!
+}
+Habitue_dialog_275 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_276 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_277 {
+Très bien, les gars! On va chasser cette vermine de notre ville!
+}
+Habitue_dialog_278 {
+@<RandSwear> Priez, misérables!
+}
+Habitue_dialog_279 {
+Ah, je vois que vous n’êtes pas seul! Eh bien, l’enfer aura de la compagnie!
+}
+Habitue_dialog_280 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_281 {
+Viens ici, vaurien! Tu vas avoir ce que tu mérites!
+}
+Habitue_dialog_282 {
+@<RandSwear> Je vais t’ouvrir en deux!
+}
+Habitue_dialog_283_m {
+Ha! Allez, marin — voyons ce que tu vaux sur la terre ferme!
+}
+Habitue_dialog_283_f {
+Ha! Allez, petite matelote — voyons ce que tu vaux à terre!
+}
+Habitue_dialog_284 {
+@<LinkRandPhrase>
+}
+Habitue_dialog_285 {
+Je te jure, tu vas le regretter!
+}
+Habitue_dialog_286 {
+Je vais t’arracher cette sale langue jusqu’aux oreilles!
+}
+Habitue_dialog_287 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_288 {
+Je vais t’éventrer comme un hareng!
+}
+Habitue_dialog_289 {
+Je te jure, je vais te faire taire!
+}
+Habitue_dialog_290 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_291 {
+@<RandPhraseSimple>
+}
+Habitue_dialog_292 {
+Très bien, les gars! On va chasser cette vermine de notre ville!
+}
+Habitue_dialog_293 {
+@<RandSwear> Priez maintenant, sales morveux!
+}
+Habitue_dialog_294 {
+Ah, tu n’es pas seul, à ce que je vois! Eh bien, tu auras de la compagnie en enfer!
+}
+Habitue_dialog_295 {
+@<RandPhraseSimple>
+}

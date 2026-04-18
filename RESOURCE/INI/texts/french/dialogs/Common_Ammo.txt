@@ -1,0 +1,201 @@
+Common_Ammo_1 {
+Écoutez, j'ai une affaire importante à discuter avec vous. J'espère que vous pourrez m'aider...
+}
+Common_Ammo_2 {
+Capitaine, seriez-vous intéressé par une proposition plutôt lucrative?
+}
+Common_Ammo_3 {
+@<RandPhraseSimple>
+}
+Common_Ammo_4 {
+Je pensais que vous pourriez peut-être nous aider avec une affaire assez importante.
+}
+Common_Ammo_5 {
+Capitaine, j’ai une proposition délicate à vous faire—une qui pourrait nous être profitable à tous les deux.
+}
+Common_Ammo_6 {
+@<RandPhraseSimple>
+}
+Common_Ammo_7 {
+@<RandPhraseSimple>
+}
+Common_Ammo_8 {
+Allez-y, voyons si nous pouvons régler ça...
+}
+Common_Ammo_9 {
+Je suis le commandant du fort. Que voulez-vous ici?
+}
+Common_Ammo_10 {
+Que voulez-vous? Pourquoi êtes-vous venu au fort?
+}
+Common_Ammo_11 {
+@<RandPhraseSimple>
+}
+Common_Ammo_12_m {
+Rien de particulier, je me promène simplement en ville, tu sais. Je suis tombé ici par hasard.
+}
+Common_Ammo_12_f {
+Rien de particulier, je fais juste un tour en ville, tu sais. Je suis tombé ici par hasard.
+}
+Common_Ammo_13 {
+Je souhaite discuter affaires avec vous.
+}
+Common_Ammo_14 {
+Je viens au sujet de votre commande de livraison de canons.
+}
+Common_Ammo_15 {
+Le problème, c’est que les canons de notre fort sont en très mauvais état. Le trésor a bien alloué des fonds pour les remplacer, mais acheter du neuf coûte une fortune en ce moment. Alors, je me suis dit que les canons des navires que vous avez capturés pourraient nous être très utiles ici.
+}
+Common_Ammo_16 {
+Je dois remplacer la batterie de canons du fort. Les fonds sont alloués, mais, vous savez... J’aimerais le faire un peu moins cher si possible... Enfin, j’espère que vous me comprenez.
+}
+Common_Ammo_17 {
+On m’a ordonné de remplacer les canons usés du fort, mais il y a un problème : je n’arrive tout simplement pas à en trouver assez, nulle part.
+}
+Common_Ammo_18 {
+@<LinkRandPhrase>
+}
+Common_Ammo_19 {
+Hmm, pouvez-vous être plus précis—calibre, quantité... et le prix, pour commencer.
+}
+Common_Ammo_20 {
+Bien sûr, @<GetAddress_Form>! J’ai besoin de @<pchar>, exactement @<sti> pièces. Je suis prêt à payer @<FindMoneyString> pièces d’or, soit @<FindMoneyString> pour chacune. Qu’en dites-vous?… Ah, et encore une chose — je prendrai tout le lot d’un coup, mais pas avant un mois… l’argent est encore en route.
+}
+Common_Ammo_21 {
+Non, officier, votre offre ne m’intéresse pas… Désolé.
+}
+Common_Ammo_22 {
+C’est tentant, bien sûr, mais je vais devoir refuser. Permettez-moi de ne pas expliquer ma décision...
+}
+Common_Ammo_23 {
+@<RandPhraseSimple>
+}
+Common_Ammo_24 {
+Je ne vais pas le nier, c’est une offre intéressante. Marché conclu.
+}
+Common_Ammo_25 {
+Je suppose que je vais m’en charger. Ce n’est pas difficile pour moi, et le bénéfice est évident.
+}
+Common_Ammo_26 {
+@<RandPhraseSimple>
+}
+Common_Ammo_27 {
+C’est dommage… vraiment dommage, capitaine, je comptais sur vous. E-et… j’espère que cette conversation restera entre les murs du fort?
+}
+Common_Ammo_28 {
+Ce rappel était inutile. Adieu.
+}
+Common_Ammo_29 {
+C’est entendu, alors. Je ne vais pas fixer de délai strict, mais essayez de ne pas faire traîner ça pendant six mois. Et j’imagine que vous comprenez que cette affaire est confidentielle?
+}
+Common_Ammo_30 {
+Je comprends. À bientôt.
+}
+Common_Ammo_31 {
+Je t'avais dit de ne pas te montrer avant au moins un mois!
+}
+Common_Ammo_32_m {
+Mince! Je me suis tellement laissé emporter que j'ai perdu la notion du temps... Désolé, je repasserai plus tard, comme on l'avait convenu.
+}
+Common_Ammo_32_f {
+Mince! Je me suis tellement laissé emporter que j’ai perdu la notion du temps... Désolé, je repasserai plus tard, comme on l’avait convenu.
+}
+Common_Ammo_33 {
+Hmm... Tu sais, cela fait plus de six mois que nous avons passé notre « accord ». J'ai déjà obtenu les armes. Ou pensais-tu que je t'attendrais indéfiniment?
+}
+Common_Ammo_34 {
+Bon sang! Qu’est-ce que tu veux qu’on fasse d’eux maintenant?
+}
+Common_Ammo_35 {
+Oui, tu es prêt à me rendre heureux?
+}
+Common_Ammo_36_m {
+Non, j’y travaille encore. Je voulais juste m’assurer que notre accord tient toujours.
+}
+Common_Ammo_36_f {
+Non, j’y travaille encore. Je voulais juste m’assurer que notre accord tient toujours.
+}
+Common_Ammo_37_m {
+C’est prêt. Toute la cargaison est en cale — @<sTemp> pièces, comme convenu.
+}
+Common_Ammo_37_f {
+C’est prêt. Tout le lot est dans la cale — @<sTemp> pièces, comme convenu.
+}
+Common_Ammo_38 {
+Je ne vois pas votre navire dans le port. Ou comptez-vous transporter les canons à travers la jungle? Accostez dans notre port et revenez.
+}
+Common_Ammo_39 {
+Mon navire est de l’autre côté de l’île. Je vais l’amener au port maintenant.
+}
+Common_Ammo_40 {
+Je dois l’admettre, je me sens un peu gêné, mais je dois annuler notre accord. Un audit a été lancé, et vous savez à quel point ils sont pointilleux sur ce genre de choses. Malheureusement, il n’y a vraiment pas d’autre solution. Je suis désolé.
+}
+Common_Ammo_41 {
+Capitaine, voilà la situation... Nous avons reçu des canons de la métropole, et naturellement, j’ai dû les acheter. Les prix sont exorbitants, bien sûr, mais... Je suis désolé de vous avoir déçu, mais je suis moi-même assez contrarié.
+}
+Common_Ammo_42 {
+@<RandPhraseSimple>
+}
+Common_Ammo_43 {
+Merde! Qu’est-ce que tu proposes de faire maintenant?
+}
+Common_Ammo_44 {
+Excellent. J’envoie immédiatement une garnison pour décharger.
+}
+Common_Ammo_45 {
+Splendide. Les soldats aideront vos hommes à décharger.
+}
+Common_Ammo_46 {
+@<RandPhraseSimple>
+}
+Common_Ammo_47 {
+Avez-vous préparé le paiement?
+}
+Common_Ammo_48 {
+Je ne sais pas. Vends-le au chantier naval, équipe un navire marchand, coule-le... Franchement, je n’en ai aucune idée. Et s’il te plaît, je t’en prie, n’en parle à personne.
+}
+Common_Ammo_49 {
+Incroyable! Je ne trouve même pas les mots!
+}
+Common_Ammo_50 {
+Je ne sais pas. C’est ton problème. Vends-le, jette-le, coule-le — ça m’est égal.
+}
+Common_Ammo_51_m {
+Ah, quelle perte de temps...
+}
+Common_Ammo_51_f {
+Ah, j’ai juste perdu mon temps pour rien...
+}
+Common_Ammo_52 {
+J'ai reçu les fonds pour les canons dans les coffres de crédit. Veuillez récupérer votre part de @<GetTextChestsQuantity>.
+}
+Common_Ammo_53 {
+Comment pourrait-il en être autrement! Mais on m’a apporté l’argent dans des coffres de crédit. Selon notre accord, vous avez droit à @<iTemp> coffres. Tenez, veuillez les accepter.
+}
+Common_Ammo_54 {
+@<RandPhraseSimple>
+}
+Common_Ammo_55 {
+Des coffres, donc. Merci beaucoup. C’est un plaisir de faire affaire avec vous.
+}
+Common_Ammo_56 {
+Merci, vous m'avez beaucoup aidé. Et s'il vous plaît, gardons cet accord entre nous.
+}
+Common_Ammo_57 {
+Eh bien, cela va de soi. Bonne continuation.
+}
+Common_Ammo_58 {
+Canons de 24 livres
+}
+Common_Ammo_59 {
+Couleuvrines de 24 livres
+}
+Common_Ammo_60 {
+Canons de calibre 32
+}
+Common_Ammo_61 {
+Culverines de calibre 32
+}
+Common_Ammo_62 {
+Canons de calibre 42
+}

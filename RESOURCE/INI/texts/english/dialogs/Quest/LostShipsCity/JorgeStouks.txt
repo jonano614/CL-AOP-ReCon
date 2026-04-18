@@ -1,0 +1,713 @@
+JorgeStouks_1 {
+New faces! That’s a welcome sight—around here, it’s nothing but dreadful storms and hardly any fun. My name is @<GetFullName>, and I’m delighted to be the first to greet you in the City!
+}
+JorgeStouks_2 {
+Thank you for the warm welcome, though my arrival turned out a bit damp!.. My name is Captain @<GetFullName>.
+}
+JorgeStouks_3 {
+What did you want, @<GetAddress_Form>?
+}
+JorgeStouks_4 {
+Listen, I’m looking for someone. Do you know where he is right now?
+}
+JorgeStouks_5 {
+I want to ask you a question.
+}
+JorgeStouks_6 {
+Got any interesting tales to share with me?
+}
+JorgeStouks_7 {
+What's new in town?
+}
+JorgeStouks_8_m {
+Ah, I’d love to hear the latest gossip...
+}
+JorgeStouks_8_f {
+Ah, I’d love to hear the latest gossip...
+}
+JorgeStouks_9 {
+@<LinkRandPhrase>
+}
+JorgeStouks_10 {
+Listen, I’m looking for some goods.
+}
+JorgeStouks_11 {
+It’s so noisy here... I long for some peace. What do you want?
+}
+JorgeStouks_12 {
+You know, I'm putting together a crew to get out of here. I’m offering you a chance to come with me.
+}
+JorgeStouks_13 {
+Nothing...
+}
+JorgeStouks_14_m {
+Captain, it seems you’re the only survivor of this storm. I’m truly sorry...
+}
+JorgeStouks_14_f {
+Captain, it seems you’re the only survivor of this storm. I’m truly sorry...
+}
+JorgeStouks_15 {
+Most likely... What is this place, sir?
+}
+JorgeStouks_16 {
+This is the City of Lost Ships.
+}
+JorgeStouks_17 {
+Not the Isle of Justice?
+}
+JorgeStouks_18 {
+Hmm, no... Although, you know, they say that name was used once, back in the day. But those times were before my own.
+}
+JorgeStouks_19 {
+I see...
+}
+JorgeStouks_20 {
+Well then, I suppose it’s my duty, so to speak, to enlighten you about our Town.
+}
+JorgeStouks_21 {
+I’ll gladly and gratefully listen to whatever you have to say.
+}
+JorgeStouks_22 {
+The first thing you need to do upon arrival is obtain City citizenship. To do that, you must report to the City Admiral, Chad Capper.
+}
+JorgeStouks_23 {
+Chad Capper?.. That name sounds familiar to me...
+}
+JorgeStouks_24 {
+You can reminisce later—first, hear me out... So, Chad Capper is the head of the Town. It’s an elected position, so he came to power, you could say, by democratic means. His duty is to see that the Law is upheld...
+}
+JorgeStouks_25 {
+...collect taxes...
+}
+JorgeStouks_26 {
+What taxes? There are no taxes here, nobody pays him anything, except for the initial fee...
+}
+JorgeStouks_27 {
+No taxes?! Well, I'll be! It really is the Isle of Justice...
+}
+JorgeStouks_28 {
+Well, maybe so... I'll go on. You need to report to the admiral for registration as soon as possible. There's a storm right now, so there aren't many people on deck. But as soon as it passes, Kapper will find you himself, no matter what. And I advise you not to delay with the registration.
+}
+JorgeStouks_29_m {
+Alright, I understand that. And when do you think this storm will end?
+}
+JorgeStouks_29_f {
+Alright, I understand that. And when, in your opinion, will this storm end?
+}
+JorgeStouks_30 {
+By tomorrow evening, everything will have calmed down for sure. The storm is already dying down.
+}
+JorgeStouks_31 {
+Understood. What else do I need to know?
+}
+JorgeStouks_32 {
+The Admiral will tell you more about the Law we all live by, but I can sum up its main tenets in a few words.
+}
+JorgeStouks_33 {
+Very interesting!
+}
+JorgeStouks_34 {
+So, it’s forbidden to kill citizens, steal from them, or dismantle ships to build something in order to escape from here...
+}
+JorgeStouks_35 {
+Stop! Does that mean I won’t be able to sail out of here?!
+}
+JorgeStouks_36 {
+Of course not! That’s forbidden by Law!.. You know, I’d rather not get into these matters—it’s not my place. Go see the admiral, he’ll tell you everything.
+}
+JorgeStouks_37 {
+And where is he?
+}
+JorgeStouks_38 {
+Aboard the warship 'San Augustin'. It's very close, I was just heading there myself and you can follow me. Otherwise,
+Sorry, but I can't give you more precise directions since you don't know the landmarks. Look for the way up to the 'San Augustin'!
+}
+JorgeStouks_39 {
+I see... Tell me, did you ever know a man named Teaser Dan?
+}
+JorgeStouks_40 {
+No, that name doesn’t ring a bell. Ask our tavern keeper—Hill Brunner. He’s a good man and an old-timer in this town. He knows everyone around here.
+}
+JorgeStouks_41 {
+Ah, I see... Well then, thank you for the information.
+}
+JorgeStouks_42 {
+You're welcome. Always at your service, @<GetAddress_Form>... Wait, I almost forgot something crucial!
+}
+JorgeStouks_43 {
+Which one?
+}
+JorgeStouks_44 {
+Never even think of taking a stroll aboard the bark 'San Gabriel' or the galleon 'Velasco'!
+}
+JorgeStouks_45 {
+But why?
+}
+JorgeStouks_46 {
+You'll be killed. Those ships belong to the Narwhal and Casper clans. You can't just roam freely through their territory!
+}
+JorgeStouks_47 {
+Hmm, well, I see. I’ll keep that in mind. Thanks again for the warm welcome.
+}
+JorgeStouks_48_m {
+You're a thief! Breaking the City Law!
+}
+JorgeStouks_48_f {
+You're a thief!!! Breaking the City Law!
+}
+JorgeStouks_49_m {
+Well, would you look at that! I just glanced away for a moment, and you dove headfirst into the chest! He broke the Law!
+}
+JorgeStouks_49_f {
+Well, would you look at that! I just glanced away for a moment, and you dove headfirst into the chest! She broke the Law!
+}
+JorgeStouks_50_m {
+Militia! Robbery!!! Grab him, he broke the Law!
+}
+JorgeStouks_50_f {
+Militia! We're being robbed! Stop her, she broke the Law!
+}
+JorgeStouks_51 {
+@<LinkRandPhrase>
+}
+JorgeStouks_52 {
+A-argh, damn it!!!
+}
+JorgeStouks_53 {
+Oh, so that’s how it is?! Decided to rummage through the chests, did you?! Now the townsfolk and the militia will tear you apart like an old rag!
+}
+JorgeStouks_54 {
+What a fool!
+}
+JorgeStouks_55_m {
+Hey, maybe put your weapon away. You're making me a bit nervous...
+}
+JorgeStouks_55_f {
+Hey, maybe you should put your weapon away. You're making me a bit nervous...
+}
+JorgeStouks_56 {
+You know, around here we don’t go waving swords about. Put your weapon away.
+}
+JorgeStouks_57_m {
+Hey, why are you running around like the Three Musketeers, waving your sword about? Put your weapon away, that’s not fitting for a serious man...
+}
+JorgeStouks_57_f {
+Hey, why are you running around like the Three Musketeers, waving your sword? Put your weapon away, that doesn’t suit a lady...
+}
+JorgeStouks_58 {
+@<LinkRandPhrase>
+}
+JorgeStouks_59 {
+Alright.
+}
+JorgeStouks_60 {
+Alright.
+}
+JorgeStouks_61 {
+As you say...
+}
+JorgeStouks_62 {
+@<LinkRandPhrase>
+}
+JorgeStouks_63_m {
+Listen, as a citizen of this town, I ask you not to walk around here with your blade drawn.
+}
+JorgeStouks_63_f {
+You know, as a citizen of this town, I ask you not to walk around here with a drawn blade.
+}
+JorgeStouks_64 {
+Alright.
+}
+JorgeStouks_65 {
+Alright.
+}
+JorgeStouks_66 {
+As you wish...
+}
+JorgeStouks_67 {
+@<LinkRandPhrase>
+}
+JorgeStouks_68_m {
+Careful on the turns when you’re running with a weapon in hand. I might just get a bit jumpy...
+}
+JorgeStouks_68_f {
+I don't like it when people walk around in front of me with weapons at the ready. It makes me nervous...
+}
+JorgeStouks_69_m {
+Got it.
+}
+JorgeStouks_69_f {
+Got it.
+}
+JorgeStouks_70 {
+I'm putting it away.
+}
+JorgeStouks_71 {
+@<RandPhraseSimple>
+}
+JorgeStouks_72 {
+And who are you looking for?
+}
+JorgeStouks_73 {
+I don’t understand who you’re talking about. I need to know this person’s first and last name.
+}
+JorgeStouks_74 {
+Understood. Let me try naming it again.
+}
+JorgeStouks_75_m {
+Thanks, I’d rather look for it myself.
+}
+JorgeStouks_75_f {
+Thanks, I’d rather look for it myself.
+}
+JorgeStouks_76 {
+But that’s me!
+}
+JorgeStouks_77_m {
+Well, would you look at that, found you right on the mark!
+}
+JorgeStouks_77_f {
+Well, would you look at that, I found you after all!
+}
+JorgeStouks_78 {
+@<GetFullName>, are you talking about him?
+}
+JorgeStouks_79 {
+Yes, yes, that's him, exactly.
+}
+JorgeStouks_80 {
+No, not about him. Let me name it again.
+}
+JorgeStouks_81 {
+@<GetFullName>, are you talking about her?
+}
+JorgeStouks_82 {
+Aye, that’s the one.
+}
+JorgeStouks_83 {
+No, not about her. Listen, let me try naming it again.
+}
+JorgeStouks_84 {
+You know, I don’t want to ask about anyone else anymore. Goodbye.
+}
+JorgeStouks_85 {
+Then state your first and last name again.
+}
+JorgeStouks_86 {
+I don't know, haven't seen him in a while.
+}
+JorgeStouks_87 {
+Hell if I know where he is...
+}
+JorgeStouks_88 {
+Haven’t seen him in quite a while, so I wouldn’t know.
+}
+JorgeStouks_89 {
+@<LinkRandPhrase>
+}
+JorgeStouks_90 {
+Understood.
+}
+JorgeStouks_91 {
+Pity...
+}
+JorgeStouks_92 {
+@<RandPhraseSimple>
+}
+JorgeStouks_93 {
+I haven’t seen her for quite some time, I’m afraid.
+}
+JorgeStouks_94 {
+I have no idea where she is now.
+}
+JorgeStouks_95 {
+Hmm, I don't know where she might be right now.
+}
+JorgeStouks_96 {
+@<LinkRandPhrase>
+}
+JorgeStouks_97 {
+Got it.
+}
+JorgeStouks_98 {
+Pity...
+}
+JorgeStouks_99 {
+@<RandPhraseSimple>
+}
+JorgeStouks_100 {
+He’s here, on this ship. Search more carefully.
+}
+JorgeStouks_101 {
+Ha, so he’s here, on this ship!
+}
+JorgeStouks_102 {
+He’s on this ship—strange you haven’t seen him yet.
+}
+JorgeStouks_103 {
+@<LinkRandPhrase>
+}
+JorgeStouks_104 {
+I saw him just recently @<npchar>.
+}
+JorgeStouks_105 {
+I ran into him at @<npchar> not long ago. So look for him there.
+}
+JorgeStouks_106 {
+As far as I know, right now he’s at @<npchar>.
+}
+JorgeStouks_107 {
+@<LinkRandPhrase>
+}
+JorgeStouks_108 {
+So he’s right here, @<npchar>. Look more closely.
+}
+JorgeStouks_109 {
+But he’s right here, among us!
+}
+JorgeStouks_110 {
+Where are you looking? He’s lurking around here.
+}
+JorgeStouks_111 {
+@<LinkRandPhrase>
+}
+JorgeStouks_112 {
+I saw him just recently, @<npchar>.
+}
+JorgeStouks_113 {
+I ran into him at @<npchar> not long ago. So look for him there.
+}
+JorgeStouks_114 {
+As far as I know, right now he’s at @<npchar>.
+}
+JorgeStouks_115 {
+@<LinkRandPhrase>
+}
+JorgeStouks_116 {
+Ah, I see. Thank you.
+}
+JorgeStouks_117 {
+Thank you!
+}
+JorgeStouks_118 {
+@<RandPhraseSimple>
+}
+JorgeStouks_119 {
+She’s here, on this ship. Search more carefully.
+}
+JorgeStouks_120 {
+Ha, so she’s here, on this very ship!
+}
+JorgeStouks_121 {
+She’s on this ship—strange you haven’t seen her yet.
+}
+JorgeStouks_122 {
+@<LinkRandPhrase>
+}
+JorgeStouks_123 {
+I saw her just recently @<npchar>.
+}
+JorgeStouks_124 {
+I met her recently, @<npchar>. We even had a chat.
+}
+JorgeStouks_125 {
+As far as I know, she’s currently at @<npchar>.
+}
+JorgeStouks_126 {
+@<LinkRandPhrase>
+}
+JorgeStouks_127 {
+So she’s right here, @<npchar>. Look more closely.
+}
+JorgeStouks_128 {
+But she’s right here, among us!
+}
+JorgeStouks_129 {
+Where are you looking? She’s somewhere around here.
+}
+JorgeStouks_130 {
+@<LinkRandPhrase>
+}
+JorgeStouks_131 {
+I saw her just recently @<npchar>.
+}
+JorgeStouks_132 {
+I met her recently, @<npchar>. We even had a chat.
+}
+JorgeStouks_133 {
+As far as I know, she’s currently at @<npchar>.
+}
+JorgeStouks_134 {
+@<LinkRandPhrase>
+}
+JorgeStouks_135 {
+Ah, I see. Thank you, @<GetAddress_FormToNPC>.
+}
+JorgeStouks_136 {
+Thank you!
+}
+JorgeStouks_137 {
+@<RandPhraseSimple>
+}
+JorgeStouks_138_m {
+I’m all ears, mate.
+}
+JorgeStouks_138_f {
+I'm listening closely, ma'am.
+}
+JorgeStouks_139 {
+This city... where did it come from?
+}
+JorgeStouks_140 {
+Have you been living here long?
+}
+JorgeStouks_141 {
+Do many people die here?
+}
+JorgeStouks_142 {
+Listen, do you know what Diffindur is?
+}
+JorgeStouks_143 {
+What interesting things do you have in the Town? Besides Chad Capper’s residence, of course...
+}
+JorgeStouks_144 {
+How am I supposed to get my bearings here..?
+}
+JorgeStouks_145 {
+No questions. Sorry...
+}
+JorgeStouks_146 {
+Some say it’s a natural formation, strangely drawing ships to it... Others are certain the place is cursed and will only grow with each new wreck... It’s hard to say, hard to sift the truth from all the rumors and wild tales.
+}
+JorgeStouks_147 {
+Well, what do you think?
+}
+JorgeStouks_148 {
+Does my opinion matter? Of course, no more and no less than anyone else's.
+}
+JorgeStouks_149 {
+And yet?..
+}
+JorgeStouks_150 {
+Look around, listen closely... You can hear their voices—the moans and cries of thousands of lost sailors echo within you, within each of us. As you walk the deck, you might catch faint, elusive sounds... But if you pay them heed, you’ll realize they are nothing less than echoes of the days when this ship sailed the open seas. It is the Depth calling to you.
+}
+JorgeStouks_151 {
+What does that mean?
+}
+JorgeStouks_152 {
+The city restrains more than just us, captain. It ensnares souls and time itself; it can deceive eternity.
+}
+JorgeStouks_153_m {
+And foolish me, I thought it was Chad Capper holding us back...
+}
+JorgeStouks_153_f {
+And foolish me, I thought it was Chad Capper holding us back...
+}
+JorgeStouks_154 {
+No, about three months. There was a night battle with pirates who had captured a huge warship. Our captain was one of those reckless madmen, so he charged into a hopeless fight on a brig. Of course, with the very first broadside, the ship of the line swept everything living and not so living from our deck, including the captain and half the officers.\nI’d never experienced anything like it before—I rushed onto the deck and barely made it through the wreckage of the masts and the shreds of rigging... There’s nothing quite like that sight, captain. Though you probably know what I mean—
+Anyway, not wanting to wait for the next broadside, which would surely have finished me off along with the rest of the crew and the ship itself, I jumped overboard and swam to the nearest piece of wreckage big enough to hold on to. After that, I must have blacked out—I don’t remember—but... by morning, I was here.
+}
+JorgeStouks_155 {
+Exciting...
+}
+JorgeStouks_156 {
+Absolutely! It took my breath away—I nearly soiled myself... But that's all behind me now, and I actually like it here. It's peaceful, quiet, and interesting.
+}
+JorgeStouks_157 {
+I see you’re not the only one.
+}
+JorgeStouks_158 {
+Of course. Why fight it? At first—yes, everything feels hostile, you just want to get as far away from this cursed place as possible, but... it all settles down, trust me. You'll get used to it, just like the rest of us.
+}
+JorgeStouks_159_m {
+Not sure I like this whole getting used to it idea.
+}
+JorgeStouks_159_f {
+Not sure I like this whole getting used to it idea.
+}
+JorgeStouks_160 {
+Well, I’m not sure anyone’s going to ask your opinion. I’m not the first, and I won’t be the last to say it’s best to forget everything that happened to you before. Start a new life! You’ll see, it’s not so bad here.
+}
+JorgeStouks_161 {
+Thank you for the advice, Mr. @<npchar>.
+}
+JorgeStouks_162 {
+More than ever. But even more have been arriving lately.
+}
+JorgeStouks_163 {
+Lately? Why?
+}
+JorgeStouks_164 {
+I’m not sure, but it seems word of the City has spread across the archipelago.
+}
+JorgeStouks_165 {
+Rumors are swirling about the Island of Justice. This must be the City they were talking about...
+}
+JorgeStouks_166 {
+Maybe. However, if that's the case, then how did the rumors reach the cities of the Mainland?
+}
+JorgeStouks_167 {
+Let’s just say this was the work of paupers... But it doesn’t matter anymore.
+}
+JorgeStouks_168 {
+Diffindur? Hmm... Maybe that's one of the ships around here, the fluyt 'Fernando Diffindur'?
+}
+JorgeStouks_169 {
+What kind of fluyt is that?
+}
+JorgeStouks_170 {
+A half-sunken ship, split in two and somehow still clinging to the reef. No one lives there—far too dangerous.
+}
+JorgeStouks_171 {
+And where is he?
+}
+JorgeStouks_172_m {
+Definitely on the other side of the Town. But really, you should talk to the tavern keeper about this—he knows a lot around here.
+}
+JorgeStouks_172_f {
+Exactly on the other side of the Town. But really, you should talk to the tavern keeper about this—he knows a lot around here.
+}
+JorgeStouks_173 {
+Suppose so, but what else do you have in the City?
+}
+JorgeStouks_174 {
+We’ve got a prison, a church, and a store here—just like any regular town! There’s also a moneylender named Augusto Brams, but you’d best be careful dealing with him...
+}
+JorgeStouks_175 {
+Ho, that's better!
+}
+JorgeStouks_176 {
+Here you’ll find everything a regular town has—a church, a tavern, a shop. There’s even a moneylender. But let me tell you—lending money here is a fool’s game.
+}
+JorgeStouks_177 {
+Why?
+}
+JorgeStouks_178 {
+There’s so much money in the City that it has no real value anymore. People collect it more out of habit than any hope of actually using it.
+}
+JorgeStouks_179 {
+I don’t get it, does nobody here care about money?
+}
+JorgeStouks_180 {
+No, not at all, why? Money is still money here. But it’s just not as important as it is back on the mainland... You’ll understand soon enough.
+}
+JorgeStouks_181 {
+Hmm, I don’t quite get it yet, but I hope it’ll make sense soon...
+}
+JorgeStouks_182 {
+It'll be tough at first, but you'll soon figure things out.
+}
+JorgeStouks_183 {
+Hmm, that’s a reassuring statement... Well then, do you have the City map?
+}
+JorgeStouks_184 {
+Aye, I’ve even seen one myself.
+}
+JorgeStouks_185 {
+There! And where did you see her?
+}
+JorgeStouks_186 {
+The last time I saw her was at our local shop. But I suspect she’s far from alone.
+}
+JorgeStouks_187_m {
+Got it, thanks.
+}
+JorgeStouks_187_f {
+Got it, thank you.
+}
+JorgeStouks_188 {
+What exactly, if I may ask?
+}
+JorgeStouks_189 {
+You’ve already asked about that.
+}
+JorgeStouks_190 {
+Already asked...
+}
+JorgeStouks_191 {
+You’ve already asked me about these goods. I don’t know anything!
+}
+JorgeStouks_192 {
+Bombs, grapeshot, provisions, medicine, gunpowder, weapons...
+}
+JorgeStouks_193_m {
+Yeah... Sorry, slipped my mind.
+}
+JorgeStouks_193_f {
+Yes... Sorry, I forgot.
+}
+JorgeStouks_194 {
+Ah, right.
+}
+JorgeStouks_195_m {
+Got it, got it...
+}
+JorgeStouks_195_f {
+Got it, got it...
+}
+JorgeStouks_196 {
+I see. Not sure why you need this, but all right.\nYou’d best ask the ship mistresses for grapeshot and bombs—they’ve got plenty of that. But for weapons and powder, go to the admiral.
+}
+JorgeStouks_197 {
+And will he give it?
+}
+JorgeStouks_198 {
+I don't know. Ask him yourself.
+}
+JorgeStouks_199 {
+Understood. Thank you so much.
+}
+JorgeStouks_200 {
+Go with you? Now that's an offer!
+}
+JorgeStouks_201 {
+We’ve already talked about this.
+}
+JorgeStouks_202 {
+This has already been discussed, I'm repeating myself.
+}
+JorgeStouks_203_m {
+Enough, you’re tiring me...
+}
+JorgeStouks_203_f {
+Enough, you’re tiring me...
+}
+JorgeStouks_204 {
+I'm waiting for an answer.
+}
+JorgeStouks_205_m {
+Yeah... Sorry, slipped my mind.
+}
+JorgeStouks_205_f {
+Yeah... Sorry, I forgot.
+}
+JorgeStouks_206 {
+As you wish...
+}
+JorgeStouks_207 {
+Alright then...
+}
+JorgeStouks_208 {
+I think I'll pass. I like it here!
+}
+JorgeStouks_209 {
+Not tired of it yet?
+}
+JorgeStouks_210 {
+No, I’m not tired of it. Everything you need for life is here. And you get it all without any effort.
+}
+JorgeStouks_211 {
+Maybe the approaching storm will make you see reason? The thing is, it will destroy the City.
+}
+JorgeStouks_212 {
+And how do you know that?
+}
+JorgeStouks_213 {
+I know for sure, you can trust me on that.
+}
+JorgeStouks_214 {
+Sorry, I don't believe you... The city will handle this trouble, just like always.
+}
+JorgeStouks_215 {
+Well, as you wish.
+}

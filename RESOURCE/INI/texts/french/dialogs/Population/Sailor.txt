@@ -1,0 +1,144 @@
+Sailor_1 {
+Salutations, @<GetAddress_Form>. Si j’ai bien compris, vous êtes le capitaine de votre propre navire. J’ai une proposition d’affaires à vous faire.
+}
+Sailor_2 {
+Je vous écoute attentivement, @<GetAddress_FormToNPC>. De quoi s'agit-il?
+}
+Sailor_3 {
+Désolé, @<GetAddress_FormToNPC>, mais je suis vraiment pressé.
+}
+Sailor_4 {
+Salutations, capitaine! À quoi dois-je l’honneur, moi, simple marin?
+}
+Sailor_5_m {
+Bonjour, monsieur. Comment puis-je vous aider?
+}
+Sailor_5_f {
+Bonjour, madame. En quoi puis-je vous être utile?
+}
+Sailor_6_m {
+Bonjour, monsieur. Aviez-vous besoin de quelque chose?
+}
+Sailor_6_f {
+Bonjour, madame. Aviez-vous besoin de quelque chose?
+}
+Sailor_7 {
+@<LinkRandPhrase>
+}
+Sailor_8 {
+Ravi de vous rencontrer, monsieur! Je m'appelle @<GetFullName>. Auriez-vous un instant pour discuter?
+}
+Sailor_9 {
+J'ai une question à vous poser.
+}
+Sailor_10 {
+J'ai besoin d'informations sur ce qui se passe dans cette colonie.
+}
+Sailor_11 {
+@<RandPhraseSimple>
+}
+Sailor_12_m {
+Je voulais juste dire bonjour. Au revoir!
+}
+Sailor_12_f {
+Je voulais juste dire bonjour. Au revoir!
+}
+Sailor_13_m {
+C’est encore vous, monsieur? Vous désiriez autre chose?
+}
+Sailor_13_f {
+C’est encore vous, madame? Vous désiriez autre chose?
+}
+Sailor_14 {
+Tu as une minute pour discuter de tout et de rien?
+}
+Sailor_15 {
+J'ai une question à vous poser.
+}
+Sailor_16 {
+J'ai besoin d'informations sur ce qui se passe dans cette colonie.
+}
+Sailor_17 {
+@<RandPhraseSimple>
+}
+Sailor_18 {
+Non, rien du tout. Bonne chance!
+}
+Sailor_19_m {
+@<GetFullName> à votre service, mon ami! Que vouliez-vous savoir?
+}
+Sailor_19_f {
+@<GetFullName> à votre service, ma chère! Que souhaitez-vous savoir?
+}
+Sailor_20 {
+Ravi de discuter, capitaine!
+}
+Sailor_21 {
+Eh bien, je suppose qu'il me reste encore un peu de temps...
+}
+Sailor_22 {
+Malheureusement, je dois y aller. Bonne continuation!
+}
+Sailor_23 {
+Vous avez quelque chose d'intéressant à raconter?
+}
+Sailor_24 {
+Vous avez quelque chose d'intéressant à raconter?
+}
+Sailor_25 {
+Tu veux partager quelque chose d’intéressant?
+}
+Sailor_26 {
+Oui, bien sûr. Bonne chance à vous!
+}
+Sailor_27 {
+Quelques amis et moi avons été débarqués après avoir été blessés. Maintenant que nous sommes rétablis, nous cherchons à embarquer de nouveau comme marins. Accepteriez-vous de nous prendre dans votre équipage?
+}
+Sailor_28 {
+Quelques-uns d’entre nous ont été récemment débarqués d’un navire marchand—notre contrat avec le propriétaire était arrivé à terme. Nous sommes bloqués ici depuis plusieurs jours, à chercher à embarquer comme marins. Auriez-vous besoin de marins expérimentés pour votre équipage?
+}
+Sailor_29 {
+Mes amis et moi sommes revenus d’un voyage il y a deux semaines, le propriétaire nous a réglé, et nous avons bien profité de ces derniers jours. Mais maintenant, il ne reste plus rien dans la poche d’un marin—ce qui veut dire qu’il est temps de reprendre la mer. Est-ce que vous nous engageriez sur votre navire, capitaine?
+}
+Sailor_30_m {
+Très bien, je suis prêt à écouter votre proposition. Combien êtes-vous, et quelles compétences avez-vous à bord d’un navire?
+}
+Sailor_30_f {
+Très bien, je suis prêt à écouter votre proposition. Combien de personnes compte votre équipage, et quelles compétences avez-vous à bord d’un navire?
+}
+Sailor_31 {
+Désolé, marin, mais mon équipage est déjà au complet. Il va falloir que tu trouves un autre capitaine.
+}
+Sailor_32 {
+Mais surtout, nous connaissons parfaitement les voiles et le gréement. Pas de fausse modestie : nous avons de l’expérience, alors vous pouvez compter sur nous, même dans la pire des tempêtes!
+}
+Sailor_33 {
+Mais ce que nous aimons par-dessus tout, c’est le pont-batterie. Personne dans votre équipage ne manie les canons comme nous, je vous l’assure. En pleine bataille, vous pouvez compter sur nous sans hésiter!
+}
+Sailor_34 {
+Mais notre véritable domaine, c’est l’abordage. L’éclat des sabres, l’odeur de la poudre et du sang—voilà ce qui nous anime. Nous affronter au combat n’est pas chose aisée, alors si le danger survient, nos lames seront à vos côtés, Capitaine!
+}
+Sailor_35 {
+Nous sommes @<FindPeoplesString>, et nous n’accepterons de nous engager que si nous partons tous ensemble. Nous savons tout ce qu’un marin doit savoir. @<sTemp>
+}
+Sailor_36 {
+Ça semble plutôt tentant. Combien d’avance souhaitez-vous?
+}
+Sailor_37 {
+Désolé, marin, mais je n’ai pas de place pour vous tous sur mon navire. Il va falloir trouver un autre capitaine.
+}
+Sailor_38 {
+@<FindMoneyString> par frère. Ensuite, ce sera juste la solde habituelle de marin. On n’en demandera pas plus, capitaine.
+}
+Sailor_39 {
+Marché conclu! Voici la somme complète. Rendez-vous sur mon navire, il s’appelle « @<pchar> », il est à l’ancre en rade. Le maître d’équipage vous attribuera une couchette dans le quartier de l’équipage et vous donnera du travail.
+}
+Sailor_40 {
+Malheureusement, je ne peux pas me permettre de payer pour vos services. Vous devrez trouver un autre capitaine.
+}
+Sailor_41 {
+Nous sommes en route, Capitaine! Je rassemble l’équipage et nous embarquons tout de suite!
+}
+Sailor_42 {
+Allez, dépêche-toi, je n’ai pas l’intention de rester ici longtemps.
+}

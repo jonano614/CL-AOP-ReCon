@@ -1,0 +1,549 @@
+ZhilBaru_1 {
+¡Saludos! Según tengo entendido, usted es el capitán que sobrevivió a la última tormenta. Permítame presentarme: mi nombre es @<GetFullName>.
+}
+ZhilBaru_2 {
+Un placer conocerte. Y yo soy @<GetFullName>.
+}
+ZhilBaru_3 {
+¡Saludos! Según tengo entendido, usted es el capitán que estuvo en el reciente desastre. Permítame presentarme: mi nombre es @<GetFullName>.
+}
+ZhilBaru_4 {
+Un placer conocerte. Y yo soy @<GetFullName>.
+}
+ZhilBaru_5 {
+¿Qué querías, @<GetAddress_Form>?
+}
+ZhilBaru_6 {
+Escucha, estoy buscando a alguien. ¿Sabes dónde está ahora?
+}
+ZhilBaru_7 {
+Tengo una pregunta para ti.
+}
+ZhilBaru_8 {
+¿Tienes alguna historia interesante para mí?
+}
+ZhilBaru_9 {
+¿Qué hay de nuevo en el pueblo?
+}
+ZhilBaru_10_m {
+Ah, me encantaría escuchar los últimos chismes...
+}
+ZhilBaru_10_f {
+Ah, me encantaría escuchar los últimos chismes...
+}
+ZhilBaru_11 {
+@<LinkRandPhrase>
+}
+ZhilBaru_12 {
+Necesito hablar contigo sobre Maxim Taylor.
+}
+ZhilBaru_13 {
+¿Es esto solo un truco de viejas chismosas? ¿O realmente está a punto de suceder algo importante aquí? ¡Oh! ¡Qué placer contar con tan agradable compañía! Por favor, tome asiento.
+}
+ZhilBaru_14 {
+Hmm... Sabes, estoy reuniendo una tripulación para salir de aquí.
+}
+ZhilBaru_15 {
+Nada...
+}
+ZhilBaru_16 {
+Entonces, ¿qué opinas de nuestra ciudad bajo el dominio de los elementos, por así decirlo?..
+}
+ZhilBaru_17_m {
+Sabes, ahora mismo no soy exactamente yo—he perdido todo y a todos. Así que mis ánimos no son los mejores en este momento.
+}
+ZhilBaru_17_f {
+Sabes, ahora mismo no soy exactamente yo—he perdido todo y a todos. Así que no me siento muy bien en este momento.
+}
+ZhilBaru_18 {
+Bueno, claro, tiene sentido. Perdón por mi falta de tacto... Sabes, la tormenta pasará pronto.
+}
+ZhilBaru_19 {
+Lo sé, gracias.
+}
+ZhilBaru_20 {
+Sabes, es realmente maravilloso que nuestra ciudad haya ganado a alguien con quien es tan agradable conversar como tú. Realmente maravilloso.
+}
+ZhilBaru_21_m {
+¿Y qué te hace pensar que soy buena compañía?
+}
+ZhilBaru_21_f {
+¿Y qué te hace pensar que soy buena compañía?
+}
+ZhilBaru_22 {
+Gracias por tus amables palabras, pero hoy no tengo ganas de hablar.
+}
+ZhilBaru_23 {
+Hm... así me pareció.
+}
+ZhilBaru_24 {
+Rezas cuando tienes miedo, ¿entendido?
+}
+ZhilBaru_25 {
+¡Bueno, gracias por el cumplido!
+}
+ZhilBaru_26 {
+¡Clarísimo, clarísimo!..
+}
+ZhilBaru_27 {
+Bien, entonces está decidido...
+}
+ZhilBaru_28 {
+De nada. Si tienes alguna pregunta, solo pregúntame.
+}
+ZhilBaru_29 {
+Por supuesto...
+}
+ZhilBaru_30 {
+Entiendo, has pasado por mucho hoy. Cuídate.
+}
+ZhilBaru_31 {
+Adiós.
+}
+ZhilBaru_32_m {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+ZhilBaru_32_f {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+ZhilBaru_33_m {
+¡Vaya, mira nada más! Me doy la vuelta un segundo y ya estás metido de cabeza en el cofre. ¡Él rompió la ley!
+}
+ZhilBaru_33_f {
+¡Vaya, mira eso! Me distraje un momento y te lanzaste de cabeza al cofre. ¡Ella rompió la ley!
+}
+ZhilBaru_34_m {
+¡Milicia! ¡Robo! ¡Deténganlo, ha violado la ley!
+}
+ZhilBaru_34_f {
+¡Milicia! ¡Robo! ¡Deténganla, ha violado la ley!
+}
+ZhilBaru_35 {
+@<LinkRandPhrase>
+}
+ZhilBaru_36 {
+¡Argh, maldición!
+}
+ZhilBaru_37_m {
+¡Ah, así que eso es lo que pasa! ¿Te dio por hurgar en los cofres, eh? ¡Ahora la gente del pueblo y la milicia te van a destrozar sin piedad!
+}
+ZhilBaru_37_f {
+¡Ah, así que eso es lo que pasa! ¿Te dio por hurgar en los cofres, eh? ¡Ahora los habitantes y la milicia te van a destrozar sin pensarlo dos veces!
+}
+ZhilBaru_38 {
+¡Qué tonto!
+}
+ZhilBaru_39_m {
+Oye, mejor guarda tu arma. Me estás poniendo un poco nervioso...
+}
+ZhilBaru_39_f {
+Escucha, quizá deberías guardar tu arma. Me estás poniendo algo nervioso...
+}
+ZhilBaru_40 {
+Mira, por aquí no andamos blandiendo espadas. Guarda tu arma.
+}
+ZhilBaru_41_m {
+Oye, ¿por qué andas corriendo como d’Artagnan, blandiendo la espada? Guarda el arma, eso no le queda bien a un hombre serio…
+}
+ZhilBaru_41_f {
+Oye, ¿por qué andas corriendo como d'Artagnan, blandiendo tu espada? Guarda tu arma, eso no es propio de una dama...
+}
+ZhilBaru_42 {
+@<LinkRandPhrase>
+}
+ZhilBaru_43 {
+De acuerdo.
+}
+ZhilBaru_44 {
+De acuerdo.
+}
+ZhilBaru_45 {
+Como usted diga...
+}
+ZhilBaru_46 {
+@<LinkRandPhrase>
+}
+ZhilBaru_47_m {
+Escucha, como ciudadano de la Ciudad, te pido que no andes por aquí con el arma desenvainada.
+}
+ZhilBaru_47_f {
+Mire, como ciudadano de la Ciudad, le pido que no ande por aquí con el arma desenvainada.
+}
+ZhilBaru_48 {
+De acuerdo.
+}
+ZhilBaru_49 {
+De acuerdo.
+}
+ZhilBaru_50 {
+Como desees...
+}
+ZhilBaru_51 {
+@<LinkRandPhrase>
+}
+ZhilBaru_52_m {
+Ten cuidado al girar cuando lleves un arma en la mano. Podría ponerme algo nervioso…
+}
+ZhilBaru_52_f {
+No me gusta que la gente pase delante de mí con las armas preparadas. Me pone nervioso...
+}
+ZhilBaru_53_m {
+Entendido.
+}
+ZhilBaru_53_f {
+Entendido.
+}
+ZhilBaru_54 {
+Lo estoy guardando.
+}
+ZhilBaru_55 {
+@<RandPhraseSimple>
+}
+ZhilBaru_56 {
+¿Y a quién buscas?
+}
+ZhilBaru_57 {
+No entiendo de quién hablas. Necesito saber el nombre y apellido de esa persona.
+}
+ZhilBaru_58 {
+Entendido. Déjame intentar nombrarlo de nuevo.
+}
+ZhilBaru_59_m {
+Gracias, prefiero buscarlo yo mismo.
+}
+ZhilBaru_59_f {
+Gracias, prefiero buscar yo mismo.
+}
+ZhilBaru_60 {
+¡Pero ese soy yo!
+}
+ZhilBaru_61_m {
+Vaya, mírate, te encontré justo donde esperaba.
+}
+ZhilBaru_61_f {
+Vaya, mira nada más, al final te encontré.
+}
+ZhilBaru_62 {
+@<GetFullName>, ¿estás hablando de él?
+}
+ZhilBaru_63 {
+Sí, sí, es él, sin duda.
+}
+ZhilBaru_64 {
+No, no hablo de él. Déjame repetirlo.
+}
+ZhilBaru_65 {
+@<GetFullName>, ¿hablas de ella?
+}
+ZhilBaru_66 {
+Sí, ese es.
+}
+ZhilBaru_67 {
+No, no es sobre ella. Escucha, déjame intentar nombrarlo de nuevo.
+}
+ZhilBaru_68 {
+Sabes, ya no quiero preguntar por nadie más. Adiós.
+}
+ZhilBaru_69 {
+Entonces diga nuevamente su nombre y apellido.
+}
+ZhilBaru_70 {
+No lo sé, hace tiempo que no lo veo.
+}
+ZhilBaru_71 {
+Ni idea de dónde está...
+}
+ZhilBaru_72 {
+Hace tiempo que no lo veo, así que no sabría decirte.
+}
+ZhilBaru_73 {
+@<LinkRandPhrase>
+}
+ZhilBaru_74 {
+Entendido.
+}
+ZhilBaru_75 {
+Qué lástima...
+}
+ZhilBaru_76 {
+@<RandPhraseSimple>
+}
+ZhilBaru_77 {
+Me temo que no la he visto desde hace bastante tiempo.
+}
+ZhilBaru_78 {
+No tengo idea de dónde está ahora.
+}
+ZhilBaru_79 {
+Hmm, no sé dónde podría estar ella ahora.
+}
+ZhilBaru_80 {
+@<LinkRandPhrase>
+}
+ZhilBaru_81 {
+Entendido.
+}
+ZhilBaru_82 {
+Qué lástima...
+}
+ZhilBaru_83 {
+@<RandPhraseSimple>
+}
+ZhilBaru_84 {
+Está aquí, en este barco. Busquen con más cuidado.
+}
+ZhilBaru_85 {
+¡Ja, así que está aquí, en este barco!
+}
+ZhilBaru_86 {
+Está en este barco; es raro que no lo hayas visto todavía.
+}
+ZhilBaru_87 {
+@<LinkRandPhrase>
+}
+ZhilBaru_88 {
+Lo vi hace poco, @<npchar>.
+}
+ZhilBaru_89 {
+Me lo encontré en @<npchar> hace poco. Así que búscalo allí.
+}
+ZhilBaru_90 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ZhilBaru_91 {
+@<LinkRandPhrase>
+}
+ZhilBaru_92 {
+Así que está justo aquí, @<npchar>. Fíjate bien.
+}
+ZhilBaru_93 {
+¡Pero está aquí mismo, entre nosotros!
+}
+ZhilBaru_94 {
+¿Dónde estás mirando? Él anda merodeando por aquí.
+}
+ZhilBaru_95 {
+@<LinkRandPhrase>
+}
+ZhilBaru_96 {
+Lo vi hace poco @<npchar>.
+}
+ZhilBaru_97 {
+Me lo encontré en @<npchar> hace poco. Así que búscalo allí.
+}
+ZhilBaru_98 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ZhilBaru_99 {
+@<LinkRandPhrase>
+}
+ZhilBaru_100 {
+Ah, ya veo. Gracias.
+}
+ZhilBaru_101 {
+¡Gracias!
+}
+ZhilBaru_102 {
+@<RandPhraseSimple>
+}
+ZhilBaru_103 {
+Está aquí, en este barco. Busca con más cuidado.
+}
+ZhilBaru_104 {
+¡Ja, así que está aquí, en este barco!
+}
+ZhilBaru_105 {
+Está en este barco. Es raro que no la hayas visto todavía.
+}
+ZhilBaru_106 {
+@<LinkRandPhrase>
+}
+ZhilBaru_107 {
+La vi hace poco, @<npchar>.
+}
+ZhilBaru_108 {
+La conocí hace poco, @<npchar>. Incluso conversamos un poco.
+}
+ZhilBaru_109 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ZhilBaru_110 {
+@<LinkRandPhrase>
+}
+ZhilBaru_111 {
+Así que está justo aquí, @<npchar>. Mira con más atención.
+}
+ZhilBaru_112 {
+¡Pero si está aquí, entre nosotros!
+}
+ZhilBaru_113 {
+¿Dónde estás mirando? Ella está por aquí.
+}
+ZhilBaru_114 {
+@<LinkRandPhrase>
+}
+ZhilBaru_115 {
+La vi hace poco, @<npchar>.
+}
+ZhilBaru_116 {
+La conocí hace poco, @<npchar>. Incluso conversamos un poco.
+}
+ZhilBaru_117 {
+Hasta donde sé, ella está ahora en @<npchar>.
+}
+ZhilBaru_118 {
+@<LinkRandPhrase>
+}
+ZhilBaru_119 {
+Ah, ya veo. Gracias, @<GetAddress_FormToNPC>.
+}
+ZhilBaru_120 {
+¡Gracias!
+}
+ZhilBaru_121 {
+@<RandPhraseSimple>
+}
+ZhilBaru_122_m {
+Te escucho, amigo.
+}
+ZhilBaru_122_f {
+La escucho con atención, señorita.
+}
+ZhilBaru_123 {
+Escucha, ¿qué isla es esta?
+}
+ZhilBaru_124 {
+¿Sabes qué causó la formación de esta isla?
+}
+ZhilBaru_125 {
+Dime, ¿cuánto tiempo llevas holgazaneando aquí?
+}
+ZhilBaru_126 {
+Sin preguntas. Lo siento...
+}
+ZhilBaru_127_m {
+Esta es la Ciudad de los Barcos Perdidos, amigo. Aquí las cosas son un poco diferentes que en tierra firme...
+}
+ZhilBaru_127_f {
+Esta es la Ciudad de los Barcos Perdidos, señorita. Aquí las cosas son un poco diferentes que en tierra firme...
+}
+ZhilBaru_128 {
+¿Y qué quieres decir con eso?
+}
+ZhilBaru_129 {
+Aquí la vida sigue su propia ley. En general, las cosas aquí son bastante decentes y justas. Así que creo que te gustará este lugar.
+}
+ZhilBaru_130 {
+Hmm, eso espero.
+}
+ZhilBaru_131 {
+No, y nadie lo sabe con certeza. Algunos dicen que es una corriente fuerte, otros culpan a las algas marinas o a los arrecifes de coral, pero en realidad nadie lo sabe.
+}
+ZhilBaru_132 {
+¿Y nadie intentó averiguarlo?
+}
+ZhilBaru_133 {
+Dicen que ha habido intentos, pero todos terminaron muy, muy mal...
+}
+ZhilBaru_134 {
+Hmm, ya veo.
+}
+ZhilBaru_135 {
+¿Tomándotelo con calma? Se podría decir así... Llevo casi tres años ocupando este asiento.
+}
+ZhilBaru_136 {
+Ha pasado un tiempo. ¿Aún no te has cansado?
+}
+ZhilBaru_137 {
+Quizá estoy cansado de esto...
+}
+ZhilBaru_138 {
+¿Hill Brynner ya estaba aquí cuando llegaste?
+}
+ZhilBaru_139 {
+Por supuesto que lo era. Conocía a todo el mundo en la Ciudad. Es una pena lo de Hill, era realmente un buen hombre...
+}
+ZhilBaru_140 {
+De acuerdo.
+}
+ZhilBaru_141 {
+Perdón, no entendí. ¿Qué dijiste?
+}
+ZhilBaru_142 {
+Te sugiero que salgas de la Ciudad hacia el Continente como parte de la tripulación de mi corbeta.
+}
+ZhilBaru_143 {
+¡Vaya oferta! ¿Y de verdad tienes una corbeta en el agua?
+}
+ZhilBaru_144 {
+Sí, lo hay.
+}
+ZhilBaru_145 {
+Bueno, no hay nada que pensar. Voy contigo.
+}
+ZhilBaru_146 {
+Excelente. Ahora dirígete al 'San Gabriel'. Malcolm Fawn te llevará hasta mi barco.
+}
+ZhilBaru_147 {
+Solo recogeré mis cosas y estaré a tu disposición.
+}
+ZhilBaru_148 {
+¡Excelente!
+}
+ZhilBaru_149 {
+Te escucho.
+}
+ZhilBaru_150_m {
+Escuché que salieron juntos de la taberna el día que arrestaron a Taylor. ¿Qué ocurrió? ¿Cómo terminó en la residencia del almirante?
+}
+ZhilBaru_150_f {
+Escuché que salieron juntos de la taberna el día que arrestaron a Taylor. ¿Qué pasó? ¿Cómo terminó en la residencia del almirante?
+}
+ZhilBaru_151 {
+Perdón, pero ¿a ti qué te importa?
+}
+ZhilBaru_152 {
+La cuestión es que Maxim Taylor pasará el resto de sus días en una celda del 'Tartarus'. Como castigo, el almirante le impuso cadena perpetua.
+}
+ZhilBaru_153 {
+¡Vaya, mira eso!..
+}
+ZhilBaru_154 {
+Exactamente. Me importa el destino de los Taylor, por eso quiero saber qué ocurrió.
+}
+ZhilBaru_155 {
+Maldita sea, nunca pensé que llegaríamos a esto...
+}
+ZhilBaru_156 {
+Explica tus palabras.
+}
+ZhilBaru_157 {
+Oh, cómo decirlo... Bueno, solo le estaba gastando una pequeña broma al almirante. Me ha fastidiado con tantas reglas...
+}
+ZhilBaru_158 {
+¿Qué tiene que ver Taylor con esto?
+}
+ZhilBaru_159 {
+La verdad, no se trata de eso. Ese día simplemente estábamos bebiendo juntos en la taberna y hablando precisamente de este asunto. No paraba de quejarse de que su caso había sido arruinado injustamente... Bueno, cuando Taylor y yo volvimos tambaleándonos a casa, lo llevé al 'San Augustin' y le sugerí que le expresara sus quejas directamente al almirante. Y eso fue exactamente lo que hizo.
+}
+ZhilBaru_160 {
+Vaya, nada mal... Aunque no puedo decir que parezca muy correcto desde un punto de vista moral.
+}
+ZhilBaru_161 {
+Me doy cuenta de que no hice lo correcto. Por eso iré a ver al almirante y le diré que solo fue una broma muy desafortunada.
+}
+ZhilBaru_162 {
+Muy bien, excelente. Iré a ver a Capper también e intentaré conseguir la liberación de Taylor lo antes posible.
+}
+ZhilBaru_163 {
+De acuerdo. Solo espero que el almirante no me acabe...
+}
+ZhilBaru_164 {
+Eso es poco probable. No has infringido ninguna ley.
+}
+ZhilBaru_165 {
+¡Vaya, si no es nuestro héroe del día! Siempre creí en ti, @<GetFullName>. Y una vez más, no nos fallaste. Por fin podemos dejar esta isla, ¿verdad?
+}
+ZhilBaru_166 {
+La adulación burda es peor que la grosería, Gilles. Sube con Malcolm; te marcharás de la isla.
+}

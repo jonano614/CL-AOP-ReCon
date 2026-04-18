@@ -1,0 +1,231 @@
+Hunter_dialog_1 {
+@<GetFullName>! Wir jagen dich schon lange, und jetzt haben wir dich endlich erwischt.
+}
+Hunter_dialog_2 {
+Wer sind Sie, und was wollen Sie von mir?
+}
+Hunter_dialog_3_m {
+@<XI_ConvertString> hat ein ordentliches Kopfgeld auf dich ausgesetzt, egal ob wir dich lebendig oder tot abliefern.
+}
+Hunter_dialog_3_f {
+@<XI_ConvertString> hat ein ordentliches Kopfgeld auf dich ausgesetzt, egal ob wir dich lebendig oder tot abliefern.
+}
+Hunter_dialog_4_m {
+Ich bin bereit, dir mehr zu zahlen, lass mich einfach in Ruhe.
+}
+Hunter_dialog_4_f {
+Ich bin bereit, dir mehr zu zahlen, lass mich einfach in Ruhe.
+}
+Hunter_dialog_5_m {
+Entschuldigen Sie, aber Sie irren sich. Ich bin ein bekannter Händler in dieser Gegend. Mein Name ist @<GetFullName>.
+}
+Hunter_dialog_5_f {
+Entschuldigen Sie, aber Sie irren sich wohl. Ich bin nur ein einfaches Mädchen, und mein Vater ist ein bekannter Händler in dieser Gegend. Sein Name ist @<GetFullName>.
+}
+Hunter_dialog_6 {
+Na dann, versuch dein Glück.
+}
+Hunter_dialog_7 {
+Oh! Wir müssen einen Fehler gemacht haben, verzeihen Sie uns, @<GetAddress_Form>.
+}
+Hunter_dialog_8 {
+Natürlich, das kommt vor...
+}
+Hunter_dialog_9 {
+Sieht so aus, als würdest du lügen!
+}
+Hunter_dialog_10_m {
+Ich bin bereit, Ihnen mehr zu zahlen, lassen Sie mich einfach in Ruhe.
+}
+Hunter_dialog_10_f {
+Ich bin bereit, Ihnen mehr zu zahlen, lassen Sie mich einfach in Ruhe.
+}
+Hunter_dialog_11 {
+Na dann, versuch dein Glück.
+}
+Hunter_dialog_12 {
+Ich denke, @<FindMoneyString> wird uns gut passen.
+}
+Hunter_dialog_13 {
+So viel Geld habe ich nicht.
+}
+Hunter_dialog_14 {
+Hier ist dein Geld, jetzt nimm es und verschwinde.
+}
+Hunter_dialog_15 {
+So viel, ihr Halunken... Ich bringe euch lieber gleich hier alle um!
+}
+Hunter_dialog_16 {
+In diesem Fall ist das Gespräch beendet!
+}
+Hunter_dialog_17_m {
+Ihr werdet mich nicht lebend kriegen.
+}
+Hunter_dialog_17_f {
+Mich kriegst du nicht lebend.
+}
+Hunter_dialog_18_m {
+Halt mal, Freund... Sieht so aus, als hättest du etwas Interessantes. Gefundene Schätze sollte man doch unter Freunden teilen, oder?
+}
+Hunter_dialog_18_f {
+Halt, Mädchen... Sieht so aus, als hättest du etwas Interessantes gefunden. Neue Schätze teilt man am besten mit seinen Kameraden.
+}
+Hunter_dialog_19_m {
+In Ordnung, ich bin bereit, Ihnen zu zahlen, lassen Sie mich einfach in Ruhe.
+}
+Hunter_dialog_19_f {
+In Ordnung, ich bin bereit zu zahlen – lassen Sie mich einfach in Ruhe.
+}
+Hunter_dialog_20_m {
+Entschuldigen Sie, aber Sie verwechseln mich offenbar mit jemand anderem. Ich bin hier in der Gegend bekannt, kein Schatzsucher. Mein Name ist @<GetFullName>! Schon davon gehört?
+}
+Hunter_dialog_20_f {
+Entschuldigen Sie, aber da irren Sie sich. Ich bin nur ein einfaches Mädchen, keine Schatzsucherin! Mein Vater ist hier in der Gegend bekannt. Sein Name ist @<GetFullName>! Haben Sie schon von ihm gehört?
+}
+Hunter_dialog_21 {
+Nun denn, es wird Zeit, dass eure Köpfe sich von euren Körpern trennen.
+}
+Hunter_dialog_22 {
+Oh! Wir müssen einen Fehler gemacht haben, verzeihen Sie uns, @<GetAddress_Form>.
+}
+Hunter_dialog_23 {
+Natürlich, das kommt vor...
+}
+Hunter_dialog_24 {
+Sieht so aus, als würdest du lügen!
+}
+Hunter_dialog_25 {
+Dann hör auf das Lied meines Säbels.
+}
+Hunter_dialog_26 {
+Und da kommt endlich unser Gold. Gut, dass wir auf dich gewartet haben.
+}
+Hunter_dialog_27_m {
+Wovon sprechen Sie, meine Herren? Ich bin ein Vertreter der Niederländischen Westindien-Kompanie, nur auf der Durchreise! Ich habe nur kurz angehalten, um die Küste zu bewundern!
+}
+Hunter_dialog_27_f {
+Wovon reden Sie, meine Herren? Ich bin Vertreter der Niederländischen Westindien-Kompanie und nur auf der Durchreise! Ich habe nur angehalten, um die Küste zu bewundern!
+}
+Hunter_dialog_28_m {
+Ich glaube, Sie verwechseln mich mit jemand anderem. Ich bin Jacques François Paganel, Naturforscher, und sammle Proben der hiesigen Flora. Möchten Sie einen Blick auf meine Sammlung von Yucca-Blättern werfen? Es gibt hier wirklich faszinierende Exemplare!
+}
+Hunter_dialog_28_f {
+Ich glaube, Sie verwechseln mich mit jemand anderem. Ich bin Maria-Teresa, Naturforscherin, und sammle Proben der einheimischen Flora. Möchten Sie meine Sammlung von Yucca-Blättern sehen? Es gibt hier wirklich faszinierende Exemplare!
+}
+Hunter_dialog_29 {
+@<RandPhraseSimple>
+}
+Hunter_dialog_30 {
+Was willst du?! Geh aus dem Weg!
+}
+Hunter_dialog_31_m {
+Oh nein, mein Bester. Das geht nicht... Wir wissen ganz genau, dass du @<GetName>s Karte hast. Und er war ein echter Geizhals – seine Truhen waren voller Dublonen. Also werden wir nicht mit leeren Händen gehen.
+}
+Hunter_dialog_31_f {
+Oh nein, Liebling. Das geht nicht... Wir wissen ganz genau, dass du @<GetName>s Karte hast. Er war ein richtiger Geizhals, und seine Truhen waren voller Dublonen. Also gehen wir hier nicht mit leeren Händen weg.
+}
+Hunter_dialog_32 {
+Du hast recht. Die Truhen waren voll. Aber du wirst sie nicht bekommen. Du kannst die Höhle ruhig nachsehen – ein paar undichte Eimer sind noch übrig.
+}
+Hunter_dialog_33 {
+Du hast recht, nimm deine Schätze. Aber sie werden dir kein Glück bringen – zu viel Blut klebt daran…
+}
+Hunter_dialog_34_m {
+Ah, Kapitän. So jung, das ganze Leben noch vor sich...
+}
+Hunter_dialog_34_f {
+Ach, Mädchen. So jung, das ganze Leben noch vor dir...
+}
+Hunter_dialog_35 {
+Ich habe nicht vor zu sterben!
+}
+Hunter_dialog_36 {
+Das sind die Worte eines vernünftigen Menschen!
+}
+Hunter_dialog_37 {
+Verflucht seist du und dein verdammter Schatz ...
+}
+Hunter_dialog_38_m {
+Hey, Kumpel! @<GetName> meinte, du hast etwas für uns.
+}
+Hunter_dialog_38_f {
+Hey, Mädchen! @<GetName> meinte, du hast etwas für uns.
+}
+Hunter_dialog_39 {
+Was meinst du?
+}
+Hunter_dialog_40 {
+Karte von @<GetName>
+}
+Hunter_dialog_41 {
+Nimm es und richte @<GetName> meine Grüße aus. Sag ihnen, dass wir uns bald wiedersehen werden...
+}
+Hunter_dialog_42 {
+@<GetName> irrt sich gewaltig, wenn sie glauben, dass ich ihre Kastanien aus dem Feuer holen werde.
+}
+Hunter_dialog_43_m {
+Der Schmuck, den du dem Gouverneur gestohlen hast.
+}
+Hunter_dialog_43_f {
+Der Schmuck, den du dem Gouverneur gestohlen hast.
+}
+Hunter_dialog_44 {
+Nimm es, und richte @<GetName> meine Grüße aus. Sag ihnen, dass wir uns bald wiedersehen werden...
+}
+Hunter_dialog_45 {
+@<GetName> irrt sich gewaltig, wenn sie glauben, dass ich ihre Kastanien aus dem Feuer holen werde.
+}
+Hunter_dialog_46_m {
+Hey, Freund! @<GetName> hat ein paar Fragen an dich.
+}
+Hunter_dialog_46_f {
+Hey, Mädchen! @<GetName> hat ein paar Fragen an dich.
+}
+Hunter_dialog_47 {
+Warum fragt er sie dann nicht selbst?
+}
+Hunter_dialog_48_m {
+Das war unangebracht... Du hast die Aktion vermasselt, und jetzt haben wir @<FindMoneyString> verloren. Also stehst du in unserer Schuld.
+}
+Hunter_dialog_48_f {
+Das war unangebracht... Du hast den Auftrag vermasselt, und deshalb haben wir @<FindMoneyString> verloren. Jetzt stehst du in unserer Schuld.
+}
+Hunter_dialog_49 {
+Nimm es und richte @<GetName> meine Grüße aus. Sag ihnen, dass wir uns bald wiedersehen werden...
+}
+Hunter_dialog_50 {
+@GetName irrt sich gewaltig, wenn er glaubt, dass ich ihm aus der Patsche helfe.
+}
+Hunter_dialog_51_m {
+Du hast nicht so viel Geld! Nun gut, du hast deine Entscheidung getroffen...
+}
+Hunter_dialog_51_f {
+Du hast nicht so viel Geld! Na gut, du hast deine Entscheidung getroffen...
+}
+Hunter_dialog_52 {
+Vor langer Zeit ...
+}
+Hunter_dialog_53_m {
+Na gut, du hast deine Entscheidung getroffen...
+}
+Hunter_dialog_53_f {
+Nun gut, du hast deine Entscheidung getroffen...
+}
+Hunter_dialog_54 {
+Vor langer Zeit...
+}
+Hunter_dialog_55 {
+Inseln @<LanguageConvertString>
+}
+Hunter_dialog_56 {
+vom Festland
+}
+Hunter_dialog_57 {
+Karte
+}
+Hunter_dialog_58 {
+Wertsachen
+}
+Hunter_dialog_59 {
+Geld
+}

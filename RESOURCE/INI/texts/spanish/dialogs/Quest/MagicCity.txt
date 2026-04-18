@@ -1,0 +1,849 @@
+MagicCity_1 {
+No hay nada de qué hablar.
+}
+MagicCity_2 {
+Está bien...
+}
+MagicCity_3_m {
+Oye, marinero, ¿quieres unirte también? Nos vendría bien una mano más.
+}
+MagicCity_3_f {
+Oye, chica, ¿tú también quieres unirte? ¡Nos vendría bien otra!
+}
+MagicCity_4 {
+Tal vez me una, si me cuentas de qué se trata.
+}
+MagicCity_5 {
+Hay un hombre lobo escondido aquí en la taberna. Estamos planeando—¡hip!—calentarlo un poco en una hoguera, ¡ja, ja!
+}
+MagicCity_6 {
+¡Estás borracho, amigo! ¡Vete a dormir para que se te pase!
+}
+MagicCity_7 {
+¡Que me quede ciego si miento! Y solo bebí para darme valor, ¡pagué con mi propio dinero! ¿Acaso te cruzas con hombres lobo todos los días o qué?
+}
+MagicCity_8 {
+¿Un hombre lobo, dices? Entonces, ¿qué hacen todos ahí parados? ¡Quemenlo en la hoguera!
+}
+MagicCity_9 {
+¡Así que el tabernero, ese sinvergüenza, se encerró! Entonces los muchachos detrás del mostrador—¡hip!—fueron a tirar la puerta abajo.
+}
+MagicCity_10 {
+¡Oigan, ustedes están a punto de destrozar medio pueblo con su borrachera! Déjenme pasar, averiguaré con qué clase de cambiaformas estamos tratando. Y si alguien intenta seguirme, ¡le corto las orejas!
+}
+MagicCity_11 {
+¿Quién eres y qué quieres?
+}
+MagicCity_12 {
+Soy el capitán @<GetFullName>. ¿Y tú quién eres? Ahí fuera, en la calle, unos tipos decididos se están preparando para venir a verte, y dudo que traigan regalos de Navidad.
+}
+MagicCity_13 {
+¡Van a quemarme! ¡Pero Dios sabe que soy inocente! Huí de Maracaibo, de la terrible maldición que cayó sobre todos los habitantes del pueblo. ¡Capitán! Puede ayudarme. ¡Debo confesar!
+}
+MagicCity_14 {
+Te equivocas de persona, amigo. No soy sacerdote.
+}
+MagicCity_15 {
+Pero puedes traer a un sacerdote aquí, ¿no?
+}
+MagicCity_16_m {
+He condenado a tantas almas que salvar aunque sea una podría jugar a mi favor. ¡Espera aquí y trata de resistir!
+}
+MagicCity_16_f {
+De acuerdo. Quédate aquí e intenta resistir.
+}
+MagicCity_17 {
+¿Y bien? El hombre lobo no se escapó, ¿verdad?
+}
+MagicCity_18 {
+¡Escuchen, será mejor que todos regresen a casa! ¡No hay ningún hombre lobo ahí fuera!
+}
+MagicCity_19 {
+¡Eh, tú! No necesitamos forasteros aquí. Será mejor que sigas tu camino.
+}
+MagicCity_20 {
+Quizás cien relucientes polluelos de oro te enseñen a cacarear con un poco más de cortesía.
+}
+MagicCity_21_m {
+¡Cuidado, no vayas a cantar por última vez, gallito! Da la vuelta mientras puedas, o te obligaremos.
+}
+MagicCity_21_f {
+¡Cuidado, no vayas a meterte en problemas, pollita! Da la vuelta tranquilamente, o te obligaremos.
+}
+MagicCity_22 {
+¿Y quién puede prohibirme caminar donde yo quiera?
+}
+MagicCity_23 {
+¡Tres pulgadas de acero entre las costillas!
+}
+MagicCity_24 {
+Bien, ¿vemos entonces quién tiene el acero más afilado?
+}
+MagicCity_25 {
+¿Qué te trae a nuestro pueblo?
+}
+MagicCity_26 {
+Los visitantes son poco comunes en nuestro pueblo. Entonces, ¿qué te trae por aquí?
+}
+MagicCity_27 {
+No diría que nos alegra verte. ¿Qué te trae por Des Moines?
+}
+MagicCity_28 {
+@<LinkRandPhrase>
+}
+MagicCity_29 {
+Ver cómo vives...
+}
+MagicCity_30_m {
+¡Maldito seas! Vete mientras puedas...
+}
+MagicCity_30_f {
+¡Maldito seas! Vete mientras puedas...
+}
+MagicCity_31_m {
+Vamos, huye, cobarde miserable...
+}
+MagicCity_31_f {
+Vamos, huye, cobarde miserable...
+}
+MagicCity_32 {
+¡Lárgate de aquí! Y no quiero volver a verte por aquí...
+}
+MagicCity_33 {
+@<LinkRandPhrase>
+}
+MagicCity_34 {
+¡Por supuesto!
+}
+MagicCity_35 {
+Dicen que has aceptado ayudarnos. Buena suerte, capitán...
+}
+MagicCity_36_m {
+¡Que el Señor le bendiga, @<GetAddress_Form> Capitán!
+}
+MagicCity_36_f {
+¡Que el Señor te bendiga, @<GetAddress_Form>!
+}
+MagicCity_37 {
+¡Cuánto deseo que todo te salga bien!
+}
+MagicCity_38 {
+@<LinkRandPhrase>
+}
+MagicCity_39 {
+¡Por supuesto!
+}
+MagicCity_40_m {
+@<UpperFirst>, ¡eres nuestro salvador! ¡Que el Señor te proteja!
+}
+MagicCity_40_f {
+@<UpperFirst>, ¡eres nuestro salvador! ¡Que el Señor te proteja!
+}
+MagicCity_41_m {
+Gracias. Me conmueve, de verdad...
+}
+MagicCity_41_f {
+Gracias. Me conmueve, de verdad...
+}
+MagicCity_42 {
+Todo está bien.
+}
+MagicCity_43 {
+¡Vaya, magnífico!
+}
+MagicCity_44 {
+No te recomendaría quedarte mucho tiempo aquí. Nuestro pequeño pueblo no es precisamente acogedor...
+}
+MagicCity_45 {
+Hmm... bueno, ya veremos cómo va.
+}
+MagicCity_46 {
+¡Ha caído una maldición sobre nosotros!
+}
+MagicCity_47 {
+¡Nuestra ciudad está maldita!
+}
+MagicCity_48 {
+¿Ves lo que nos está pasando? ¡Qué desgracia tan terrible!
+}
+MagicCity_49 {
+@<LinkRandPhrase>
+}
+MagicCity_50 {
+Sí, claro...
+}
+MagicCity_51_m {
+¡Maldito seas! Vete mientras puedas...
+}
+MagicCity_51_f {
+¡Maldito seas! Vete mientras aún puedas...
+}
+MagicCity_52_m {
+Vamos, huye, cobarde miserable...
+}
+MagicCity_52_f {
+Vamos, huye, cobarde miserable...
+}
+MagicCity_53 {
+¡Lárgate de aquí! Y no quiero volver a verte por aquí...
+}
+MagicCity_54 {
+@<LinkRandPhrase>
+}
+MagicCity_55 {
+¡Por supuesto!
+}
+MagicCity_56 {
+Dicen que has aceptado ayudarnos. Buena suerte, capitán...
+}
+MagicCity_57 {
+¡Que el Señor te bendiga, @<GetAddress_Form>!
+}
+MagicCity_58 {
+¡Cuánto deseo que todo te salga bien!
+}
+MagicCity_59 {
+@<LinkRandPhrase>
+}
+MagicCity_60 {
+¡Por supuesto!
+}
+MagicCity_61 {
+Ya que has presenciado esta pesadilla, ve a ver a nuestro líder, Fernando Torres. Asegúrate de hablar con él.
+}
+MagicCity_62 {
+De acuerdo.
+}
+MagicCity_63 {
+Hola. ¿Qué te trae por Des Moines?
+}
+MagicCity_64 {
+Solo estoy echando un vistazo, viendo cómo están las cosas... Dime, ¿todo va bien en tu ciudad?
+}
+MagicCity_65_m {
+¿Tienes alguna pregunta, joven?
+}
+MagicCity_65_f {
+¿Tienes alguna pregunta, señorita?
+}
+MagicCity_66 {
+¿Desea preguntar algo, @<GetAddress_Form>?
+}
+MagicCity_67 {
+@<RandPhraseSimple>
+}
+MagicCity_68_m {
+¿Olvidó algo, señor?
+}
+MagicCity_68_f {
+¿Olvidó algo, señora?
+}
+MagicCity_69 {
+¿Otra vez hablando? Espero que esta vez sea algo realmente importante.
+}
+MagicCity_70 {
+@<UpperFirst>, perdona mi franqueza, pero me has dejado agotado...
+}
+MagicCity_71 {
+No, nada. ¡Que te vaya bien!
+}
+MagicCity_72 {
+No, no tengo preguntas. Al menos por ahora.
+}
+MagicCity_73 {
+@<RandPhraseSimple>
+}
+MagicCity_74 {
+Nada importante, lo siento.
+}
+MagicCity_75 {
+No, no, disculpa por molestarte.
+}
+MagicCity_76 {
+@<RandPhraseSimple>
+}
+MagicCity_77 {
+No, no es nada.
+}
+MagicCity_78 {
+Tienes razón, no tiene sentido perder el tiempo con charlas inútiles.
+}
+MagicCity_79 {
+@<RandPhraseSimple>
+}
+MagicCity_80 {
+¿Ah, sí? Bueno, entonces será mejor que me vaya.
+}
+MagicCity_81 {
+¡Vete! No quiero tener nada que ver contigo.
+}
+MagicCity_82 {
+Hm... tú te lo pierdes, entonces.
+}
+MagicCity_83_m {
+@<UpperFirst> Capitán, en cuanto sepa algo nuevo, por favor avíseme de inmediato. La verdad, usted es nuestra última esperanza para una vida digna.
+}
+MagicCity_83_f {
+@<UpperFirst>, en cuanto sepas algo nuevo, avísame de inmediato. La verdad, eres nuestra última esperanza de tener una vida digna.
+}
+MagicCity_84 {
+Haré todo lo que esté en mis manos para romper esta terrible maldición. ¡Ten fe!
+}
+MagicCity_85 {
+¡Hola, capitán! ¿Qué me dice?
+}
+MagicCity_86_m {
+He encontrado a Elizabeth Sheppard.
+}
+MagicCity_86_f {
+He encontrado a Elizabeth Sheppard.
+}
+MagicCity_87 {
+¡Hola, capitán! ¿Qué me dice?
+}
+MagicCity_88_m {
+He partido en busca de la fragata 'Queen'. Parece que este es el último paso hacia tu libertad.
+}
+MagicCity_88_f {
+Salí en busca de la fragata 'Queen'. Parece que este es el último paso hacia tu libertad.
+}
+MagicCity_89 {
+¿Fuiste tú quien rompió la maldición? ¡De repente, todo volvió a la normalidad para nosotros!
+}
+MagicCity_90_m {
+Sí. Encontré la fragata 'Queen' y me encargué de todo. Me alegra haber podido ayudarte.
+}
+MagicCity_90_f {
+Sí. Encontré la fragata 'Queen' y lo hice todo. Me alegra haber podido ayudarte.
+}
+MagicCity_91_m {
+@<UpperFirst>, ¡nuestro salvador! ¿Necesitabas algo?
+}
+MagicCity_91_f {
+@<UpperFirst>, ¡nuestro salvador! ¿Necesitabas algo?
+}
+MagicCity_92 {
+No, nada especial...
+}
+MagicCity_93 {
+Todo está bien. ¿Por qué lo preguntas?
+}
+MagicCity_94_m {
+Sabes, cuando desembarqué en Cape of Broken Hopes, unas personas me atacaron. No tengo idea de por qué.
+}
+MagicCity_94_f {
+Sabes, cuando llegué al Cabo de las Esperanzas Rotas, unas personas me atacaron. No tengo idea de por qué.
+}
+MagicCity_95 {
+No puedo decirte nada sobre eso. No tengo idea de quién fue.
+}
+MagicCity_96 {
+Ya veo... Así que dices que todo está tranquilo en Des Moines.
+}
+MagicCity_97 {
+Exactamente.
+}
+MagicCity_98 {
+Bueno, ya veo. Lo siento...
+}
+MagicCity_99 {
+¡Excelente! ¿Y qué averiguaste?
+}
+MagicCity_100 {
+Ya hemos hablado de esto, capitán.
+}
+MagicCity_101 {
+Capitán, ya hemos hablado de esto.
+}
+MagicCity_102 {
+Capitán, ¿cuánto falta?
+}
+MagicCity_103 {
+Elizabeth no sabe cómo ni por qué se lanzó esta maldición. Pero ha aprendido cómo romperla.
+}
+MagicCity_104 {
+Sí, lo recuerdo.
+}
+MagicCity_105 {
+Sí, por supuesto...
+}
+MagicCity_106_m {
+Simplemente soy así de persistente. Pensé que seguiría preguntando lo mismo—¡quizá ocurra un milagro! Que se rompa el hechizo, o algo así…
+}
+MagicCity_106_f {
+Así soy yo: persistente. Pienso que si sigo preguntando lo mismo, ¡quizá ocurra un milagro! Que se rompa el hechizo, o algo así...
+}
+MagicCity_107 {
+¡Dios mío, capitán! ¡La esperanza está tomando forma ante mis ojos! Dígame rápido, ¿cómo lo logramos?
+}
+MagicCity_108 {
+Con la ayuda de la calavera de jade azteca. Tenemos que conseguirla, y luego Elizabeth nos dirá qué hacer después.
+}
+MagicCity_109 {
+Capitán, le ruego que haga todo lo que esté en su mano.
+}
+MagicCity_110 {
+Lo soy.
+}
+MagicCity_111 {
+¡Muchísimas gracias! En nombre de nuestros ciudadanos, me complace informarle que hemos preparado una recompensa por sus esfuerzos.
+}
+MagicCity_112 {
+¿Cuál es la recompensa?
+}
+MagicCity_113 {
+¡Veinte mil piastras! Puede que no te parezca mucho, pero nuestra ciudad atraviesa tiempos difíciles — es todo lo que tenemos.
+}
+MagicCity_114 {
+Vamos, quédate con el dinero. Ahora lo necesitas más tú.
+}
+MagicCity_115 {
+Acepto tu dinero.
+}
+MagicCity_116 {
+Gracias de nuevo. La verdad, no me esperaba esto...
+}
+MagicCity_117 {
+De nada. Que seas feliz.
+}
+MagicCity_118 {
+¡Excelente! Entonces, todo lo mejor para ti, @<GetAddress_Form>.
+}
+MagicCity_119 {
+Y todo lo mejor para ti.
+}
+MagicCity_120 {
+Ni siquiera recuerdo la última vez que vi a un ser vivo en plena noche, en vez de algún esqueleto mugriento.
+}
+MagicCity_121 {
+¡Madre de Dios, qué lugar tan animado tienes aquí! Por todo lo sagrado, ¿qué está pasando aquí?
+}
+MagicCity_122 {
+¡Vete! No quiero tener nada que ver contigo.
+}
+MagicCity_123 {
+Hm... entonces, tú te lo pierdes.
+}
+MagicCity_124_m {
+@<UpperFirst> Capitán, en cuanto sepa algo nuevo, por favor avíseme de inmediato. Sinceramente, usted es nuestra última esperanza para una vida digna.
+}
+MagicCity_124_f {
+@<UpperFirst>, en cuanto sepas algo nuevo, avísame de inmediato. La verdad, eres nuestra última esperanza de tener una vida digna.
+}
+MagicCity_125 {
+Haré todo lo que esté en mis manos para romper esta terrible maldición. ¡Ten fe!
+}
+MagicCity_126 {
+¡Hola, capitán! ¿Qué me dice?
+}
+MagicCity_127_m {
+He encontrado a Elizabeth Sheppard.
+}
+MagicCity_127_f {
+He encontrado a Elizabeth Sheppard.
+}
+MagicCity_128 {
+¡Hola, capitán! ¿Qué me dice?
+}
+MagicCity_129_m {
+Partí en busca de la fragata 'Queen'. Parece que este es el último paso hacia tu libertad.
+}
+MagicCity_129_f {
+Partí en busca de la fragata 'Queen'. Parece que este es el último paso hacia tu libertad.
+}
+MagicCity_130 {
+¡Te lo diré, si eso es lo que quieres! Aunque esta historia no te llevará muy lejos de todos modos.
+}
+MagicCity_131 {
+No soy de asustarme fácilmente, así que no tienes que intentar asustarme. Vamos, dime.
+}
+MagicCity_132 {
+Una vez, una fragata pirata llamada 'Queen' atracó en nuestro cabo. Los piratas vendieron esclavos aquí a los contrabandistas. Estaban haciendo tratos entre ellos.\nLos piratas vendieron a los esclavos, pero luego, al parecer, surgió una disputa. Parte de la tripulación se quedó aquí, mientras que el resto zarpó con el capitán en la fragata. Así fue como empezó todo.
+}
+MagicCity_133 {
+¿Qué está pasando? ¡Habla claro, por favor!
+}
+MagicCity_134 {
+Bueno, es tal como lo ves. De día, todos parecen normales, pero cuando cae el sol... empieza esta mascarada. Pensamos que todo era culpa de esos piratas, ¡malditos sean! Aunque ellos también se convertían en esqueletos por la noche, aun así reunieron a todos los que quedaban aquí y los enviaron a la hoguera una noche fatídica. No sirvió de nada...
+}
+MagicCity_135 {
+Sí, una historia triste...
+}
+MagicCity_136 {
+Entonces, capitán, ya conoce nuestro secreto y nuestra pena. ¿Entiende que, a partir de ahora, tendrá que compartirlos con nosotros?
+}
+MagicCity_137 {
+¿Qué quieres decir?
+}
+MagicCity_138 {
+En el sentido de que no tienes permitido salir de Des Moines. Nadie quiere que esto se sepa.
+}
+MagicCity_139 {
+Quedarme aquí no está en mis planes.
+}
+MagicCity_140 {
+Los guardias en Cape of Delusive Hopes sinceramente no debían dejarte entrar. Pero aun así lograste pasar por la fuerza. Así que solo puedes culparte a ti mismo.
+}
+MagicCity_141_m {
+No te recomendaría intentar retenerme por la fuerza. Entré aquí por mi cuenta... y puedo salir igual de fácil.
+}
+MagicCity_141_f {
+No te recomendaría intentar retenerme por la fuerza. Entré aquí por mi cuenta... y saldré igual de fácil.
+}
+MagicCity_142 {
+Supongo que sí.\nAun así, nadie va a retenerte aquí por la fuerza. Nadie va a creer tus historias de todos modos, y si lo hacen, enviarán a la Inquisición con cien soldados... Y el destino de todo un pueblo pesará sobre tu conciencia. Pero claro, parece que ya estás acostumbrado a eso, ¿no?
+}
+MagicCity_143 {
+Maldita sea, tienes razón. ¿Quizás pueda ayudarte de alguna manera?
+}
+MagicCity_144 {
+Tiene toda la razón, alcalde. ¿Por qué debería importarme usted o su pequeño pueblo? ¡Que tenga dulces sueños!
+}
+MagicCity_145_m {
+Y lo mismo para usted, estimado capitán.
+}
+MagicCity_145_f {
+Y lo mismo para usted, capitán muy estimado.
+}
+MagicCity_146 {
+Adiós. No te aburras demasiado...
+}
+MagicCity_147 {
+Romper la maldición, ese es nuestro sueño. El problema es que ni siquiera sabemos qué la provoca.
+}
+MagicCity_148 {
+No es bueno... ¿Quizás deberíamos intentar localizar la fragata en la que escaparon los piratas? Parece que es nuestra única pista.
+}
+MagicCity_149 {
+Sabes, hace poco llegó una joven a nuestro pueblo, creo que se llamaba Elizabeth Sheppard. En fin, esta señorita contrató una tartana hacia Maracaibo, navegó hasta aquí y logró convencer a los guardias para que la dejaran verme.
+}
+MagicCity_150 {
+¿Y qué?
+}
+MagicCity_151 {
+Intentó averiguar con detalle lo que ocurrió esa noche entre los piratas. Le pregunté por qué quería saberlo, pero resultó ser bastante astuta. ¡No dijo ni una palabra!
+}
+MagicCity_152 {
+¿Y la dejaste ir?
+}
+MagicCity_153 {
+La dejé ir. Después de todo, nunca nos vio con ese aspecto monstruoso.\nEntonces, ¿por qué te cuento esto? Cuanto más tiempo pasa desde nuestra conversación, más convencido estoy de que la señorita Elizabeth Sheppard sabe algo.
+}
+MagicCity_154 {
+¿Es inglesa?
+}
+MagicCity_155 {
+No hay duda. Admito que fue un error dejarla en libertad. Debí haberle sacado toda la información que tenía. Ahora te pido que la encuentres y averigües todo lo que sepa sobre esos malditos piratas y la fragata 'Queen'.
+}
+MagicCity_156 {
+De acuerdo, haré exactamente eso.
+}
+MagicCity_157 {
+Hola, capitán. ¿A qué debo el placer de verlo en mi casa?
+}
+MagicCity_158_m {
+Hola, Elizabeth. Mi nombre es @<GetFullName>. He venido a hablar contigo sobre un asunto bastante... inusual.
+}
+MagicCity_158_f {
+Hola, Elizabeth. Mi nombre es @<GetFullName>. He venido a hablar contigo sobre un asunto un tanto... inusual.
+}
+MagicCity_159 {
+Le escucho con atención, capitán.
+}
+MagicCity_160_m {
+Hace algún tiempo, visitaste un pequeño asentamiento español: Des Moines. El jefe de este pequeño pueblo, Fernando Torres, a quien creo que conoces, me pidió que te buscara. Y lo hice con gusto.
+}
+MagicCity_160_f {
+Hace algún tiempo, visitaste un pequeño asentamiento español: Des Moines. El jefe de este pequeño pueblo, Fernando Torres, a quien creo que conoces, me pidió que te buscara. Y lo hice con gusto.
+}
+MagicCity_161 {
+Me has sorprendido, capitán. Continúa.
+}
+MagicCity_162 {
+Fernando está pidiendo tu ayuda.
+}
+MagicCity_163 {
+¿En qué puedo ayudarte?
+}
+MagicCity_164 {
+Ayúdame a encontrar la fragata 'Queen'.
+}
+MagicCity_165 {
+¿Por qué necesita él esa fragata?
+}
+MagicCity_166 {
+Verá, señorita, la gente del pueblo cree que esta fragata está de algún modo relacionada con el brote repentino que afectó a la ciudad.
+}
+MagicCity_167 {
+¿La maldición también ha llegado a la gente de Des Moines?
+}
+MagicCity_168 {
+Sí, así es. ¿Entonces sabes sobre la maldición?
+}
+MagicCity_169 {
+¡Por supuesto que lo sé! Lo que pasa es que el capitán de la fragata 'Queen' es alguien muy querido para mí. Últimamente, no he hecho más que intentar desentrañar este lío y romper el hechizo del diablo.
+}
+MagicCity_170 {
+¿Está funcionando?
+}
+MagicCity_171 {
+En parte. Lo que pasa es que soy la hija de un hombre muy conocido entre los piratas. ¡Mi padre, el capitán Staton, fue el aliado más cercano de Edward Mansfield!
+}
+MagicCity_172 {
+Oh, eso es realmente impresionante, señorita...
+}
+MagicCity_173 {
+Así que, sin otra opción, recurrí a Jackman para pedir ayuda. Espero que sepas quién es.
+}
+MagicCity_174 {
+¡Por supuesto!
+}
+MagicCity_175 {
+Lo que los piratas supieron por los esclavos indios solo hizo que los corsarios se echaran a reír juntos. Pero yo no estoy para bromas: ¡lo vi con mis propios ojos!
+}
+MagicCity_176_m {
+Yo también lo vi, Elizabeth. Esqueletos humanos que caminan y hablan; no es precisamente algo agradable de ver. Entonces, ¿qué averiguaron mis colegas con los nativos?
+}
+MagicCity_176_f {
+Yo también lo vi, Elizabeth. Esqueletos humanos que caminan y hablan; no es precisamente algo agradable de ver. Entonces, ¿qué averiguaron mis colegas con los nativos?
+}
+MagicCity_177 {
+Solo el dios azteca de los muertos, Mictlantecuhtli, podría haber hecho algo así.
+}
+MagicCity_178 {
+Hmm... Entonces, ¿qué hacemos ahora?
+}
+MagicCity_179 {
+Tenemos que encontrar la Calavera de Jade, el artefacto de este dios. Solo con su poder se puede romper la maldición.
+}
+MagicCity_180 {
+¿Y dónde crees que está?
+}
+MagicCity_181 {
+En la ciudad perdida de los aztecas.
+}
+MagicCity_182 {
+Elizabeth, entonces, ¿qué ocurrió exactamente en Cape of Unfulfilled Hopes? ¿Por qué cayó esta maldición sobre la gente de Des Moines?
+}
+MagicCity_183 {
+No lo sé. Una noche, hace más de un año, escuché a alguien entrar en la casa. Bajé y vi un esqueleto en descomposición. Fue aterrador.\nGrité. El esqueleto también gritó y salió corriendo. Solo entonces me di cuenta de que era el capitán del 'Queen'. ¡Y fui yo quien lo espantó!
+}
+MagicCity_184 {
+Sabe, señorita, usted tiene una serenidad admirable. La mayoría de las damas en su situación se habrían muerto de miedo.
+}
+MagicCity_185 {
+Sin embargo, alejé a alguien que me era querido. Fue entonces cuando tomé una decisión firme: descubriré la desgracia que cayó sobre el capitán del 'Queen' y lo liberaré.
+}
+MagicCity_186 {
+¡Vaya, qué romántico! Ese pobre tiene suerte de tener una chica tan leal.
+}
+MagicCity_187_m {
+Capitán, le pido que cuide sus palabras. ¡No olvide ante quién está, soy la hija de quien soy!\nAhora que está claro que nos dedicamos a lo mismo, quisiera pedirle que consiga la calavera de jade del dios de los muertos. Como comprenderá, eso está fuera de mis posibilidades.
+}
+MagicCity_187_f {
+Capitán, le pido que cuide sus palabras. ¡No olvide ante quién está, soy la hija de alguien importante!\nAhora que está claro que se dedica a lo mismo, quiero pedirle que consiga la calavera de jade del dios de los muertos. Como comprenderá, eso está fuera de mis posibilidades.
+}
+MagicCity_188 {
+Ya tengo esta calavera, Elizabeth.
+}
+MagicCity_189_m {
+Bien, señorita, estoy dispuesto a encargarme de esto, aunque sea solo en memoria de su padre. Entonces, ¿dice que ese cráneo está en una ciudad indígena?
+}
+MagicCity_189_f {
+Bien, señorita, estoy dispuesto a encargarme de esto, aunque sea solo en memoria de su padre. Entonces, ¿dice que este cráneo está en una ciudad india?
+}
+MagicCity_190 {
+Exactamente. En la capital azteca abandonada, Tenochtitlan.
+}
+MagicCity_191 {
+Entendido. Si logro conseguir ese cráneo, lo primero que haré será venir aquí, a Charlestown.
+}
+MagicCity_192 {
+Muy bien, capitán, te estaré esperando. Gracias.
+}
+MagicCity_193 {
+No le des importancia...
+}
+MagicCity_194 {
+¡¿Cómo lograste hacerte con eso?!
+}
+MagicCity_195 {
+Es una larga historia... Dime qué debo hacer ahora.
+}
+MagicCity_196 {
+¿Trajo el cráneo de jade, capitán?
+}
+MagicCity_197 {
+Lo tengo, Elizabeth.
+}
+MagicCity_198 {
+Todavía no. Pero estoy en ello.
+}
+MagicCity_199 {
+¡Al final lo conseguiste!
+}
+MagicCity_200 {
+No fue nada fácil, te lo aseguro... Entonces, ¿y ahora qué, señorita?
+}
+MagicCity_201 {
+Ahora tenemos la herramienta para levantar la maldición. Debes encontrar la fragata 'Queen' y, bueno, romper la maldición del capitán.
+}
+MagicCity_202 {
+El dios azteca de los muertos—el mismo que me entregó la calavera de jade—mencionó que la calavera puede ayudar a los vivos malditos. Pero nunca explicó cómo...
+}
+MagicCity_203 {
+Supongo que solo tenemos que llevar la calavera a la cabina del capitán en la 'Queen'. Eso debería romper la maldición por sí solo.
+}
+MagicCity_204 {
+Quizás... ¿Y dónde encuentro esa fragata?
+}
+MagicCity_205 {
+No lo sé. Lo más probable es que el capitán esté navegando lejos de las ciudades. Mantente atento, no te perderás esa fragata.
+}
+MagicCity_206 {
+Entendido. Bien, empezaré a buscar.
+}
+MagicCity_207 {
+Capitán, ¿ha encontrado la 'Queen'?
+}
+MagicCity_208 {
+Aún no...
+}
+MagicCity_209 {
+¡De verdad rompiste la maldición!
+}
+MagicCity_210 {
+Sí, lo logré.
+}
+MagicCity_211 {
+¡Dios mío, estoy tan feliz por mi hermana!
+}
+MagicCity_212 {
+Por cierto, Elizabeth, ¿por qué no me dijiste de inmediato que la persona que te es querida es tu hermana?
+}
+MagicCity_213 {
+Por si acaso...
+}
+MagicCity_214 {
+Ya veo. Eres igual que tu padre, eso está claro... Por cierto, Daniella se ha unido a mi tripulación como oficial.
+}
+MagicCity_215 {
+Muy bien. Creo que podrás vigilarla; ha perdido casi por completo el sentido de la moderación con su audacia de corsaria.
+}
+MagicCity_216 {
+Bueno, haré lo mejor que pueda.
+}
+MagicCity_217 {
+¿Necesitaba algo, capitán?
+}
+MagicCity_218 {
+No, nada especial...
+}
+MagicCity_219 {
+¡Voy a derramar tu sangre ahora mismo!
+}
+MagicCity_220 {
+¡Oiga, señora, ¿qué pasa?! Hablemos—¿por qué viene hacia mí tan furiosa?
+}
+MagicCity_221_m {
+No tenemos nada de qué hablar. ¡Atacaste mi fragata!
+}
+MagicCity_221_f {
+No tenemos nada de qué hablar. ¡Atacaste mi fragata!
+}
+MagicCity_222 {
+¡Tuve que entrar en el camarote del capitán, no tenía otra opción!... Espera, ¿este bergantín es tuyo?
+}
+MagicCity_223 {
+Mía desde hace cinco años.
+}
+MagicCity_224_m {
+Así que tú eres quien ocupa el corazón de Elizabeth... Y yo que pensaba que hablaba de un hombre.
+}
+MagicCity_224_f {
+Así que tú eres a quien Elizabeth guarda en su corazón... ¡Y yo que pensaba que hablaba de un hombre!
+}
+MagicCity_225 {
+¿Conoces a mi hermana Elizabeth?
+}
+MagicCity_226 {
+Estoy aquí por sus órdenes. Y usted, si no me equivoco, es su hermana mayor, Danielle Sheppard.
+}
+MagicCity_227_m {
+¡Exactamente! ¿Puedo preguntar quién es usted?
+}
+MagicCity_227_f {
+¡Exactamente! ¿Puedo preguntar quién es usted?
+}
+MagicCity_228_m {
+Me llamo Capitán @<GetFullName>. He venido a buscar tu fragata para romper la maldición. Dime, ¿cómo llegaste a ser maldito por el dios azteca de la muerte?
+}
+MagicCity_228_f {
+Me llamo Capitán @<GetFullName>. He venido a buscar tu fragata para romper la maldición. Dime, ¿cómo llegaste a estar maldito por el dios azteca de la muerte?
+}
+MagicCity_229 {
+¡Así que era eso! Todo este tiempo, no tenía idea de qué era esa criatura.\nOcurrió en el Cabo de las Esperanzas Engañosas, en la bahía de Maracaibo, cerca de Des Moines. Probablemente sepas que soy la hija del capitán Staton. Aunque soy mujer, logré defender mi derecho a capitanear el ‘Queen’.\nUna vez, en Bermudas, contraté a un piloto llamado Pierre Cabal. Fue un error; nadie ha visto jamás a un sinvergüenza igual. Frente a la costa de Santa Catalina, capturó a un joven nativo. Por desgracia, me enteré de eso cuando ya nos acercábamos a Maracaibo. El villano decidió venderlo y quedarse con el dinero. Afirmó que el nativo era su propio botín legítimo.\nPor supuesto, no podía permitir semejante injusticia. En Des Moines, durante el trato, declaré que o vendíamos al nativo y repartíamos el dinero, o lo dejaba en libertad. Al final, tuve que dejarlo ir. Pero ese canalla de Cabal sacó una pistola y le disparó al nativo por la espalda. Parecía que un duelo entre nosotros era inevitable.\nPero el destino tenía otros planes. Apenas el nativo cayó gimiendo en la hierba, de la nada apareció una aterradora criatura emplumada. Tomó al nativo muerto y, con una voz atronadora, declaró que mi tripulación y yo estábamos ahora malditos. Luego desapareció.
+}
+MagicCity_230 {
+Reconozco al propio Mictlantecuhtli en persona.
+}
+MagicCity_231 {
+Todos se quedaron como si hubieran sido alcanzados por un rayo. No podía hablarse de un duelo. Pero tampoco era posible llevar a Cabal a bordo de la fragata. Así que, con la mayor parte de la tripulación, me hice a la mar. Solo se quedaron con Pierre quienes estaban de su lado.
+}
+MagicCity_232 {
+Y entonces te diste cuenta de que la maldición iba en serio...
+}
+MagicCity_233 {
+Esa misma noche. ¡Imagínate nuestro horror!
+}
+MagicCity_234 {
+Me lo imagino. Por cierto, la maldición no solo ha caído sobre ti, sino también sobre la gente de Des Moines.
+}
+MagicCity_235 {
+¡Maldita sea!
+}
+MagicCity_236 {
+Tuviste suerte, Daniel, de que Elizabeth te reconociera en el esqueleto que se le apareció por la noche. Y actuó.
+}
+MagicCity_237 {
+¡Pequeña Lizzie! Vaya, sí que tengo motivos para estar orgulloso de mi hermana.\nAsí que, capitán, si has venido a romper la maldición, ¡hazlo de una vez!
+}
+MagicCity_238_m {
+Parece que el trabajo está hecho. Se suponía que debía acercar la Calavera de Jade de Mictlantecuhtli al capitán de la fragata 'Queen', y eso es exactamente lo que hice.
+}
+MagicCity_238_f {
+Parece que el trabajo está hecho. Se suponía que debía acercar la Calavera de Jade de Mictlantecuhtli al capitán de la fragata 'Queen', y eso es exactamente lo que hice.
+}
+MagicCity_239 {
+¿Se ha roto la maldición? ¿Ya no me convertiré en esqueleto?
+}
+MagicCity_240 {
+No lo creo. Se acabó.
+}
+MagicCity_241 {
+Capitán, ¿cómo podría agradecerle todo lo que ha hecho?
+}
+MagicCity_242_m {
+Agradécele a tu hermana... Aunque, sabes, tengo una propuesta de negocios para ti: únete a mí como oficial. Soy pirata, igual que tú. Creo que haríamos un buen equipo.
+}
+MagicCity_242_f {
+Agradécele a tu hermana... Aunque, sabes, tengo una propuesta de negocios para ti: únete a mí como oficial. Soy una corsaria, igual que tú. Creo que haríamos un buen equipo.
+}
+MagicCity_243 {
+Bueno, ¿por qué no? De acuerdo.
+}
+MagicCity_244 {
+¡Excelente!
+}
+MagicCity_245 {
+¿Oíste lo que dijo el capitán que regresó ayer? Se topó con una fragata que salió volando de la niebla e intentó abordarlo sin disparar un solo tiro. Pero logró esquivar hacia estribor, y justo cuando estaba a punto de disparar una andanada de metralla, el barco desapareció tan repentinamente como había aparecido. Se alejó sobre las olas hacia @<XI_ConvertString> como un pájaro. Dice que solo tuvo tiempo de distinguir el nombre en la popa: ‘Queen’. Y, que me parta un rayo, la cubierta y el aparejo estaban llenos de muertos vivientes. Eso sí que es obra del diablo...
+}
+MagicCity_246 {
+Escucha, el dueño de una goleta mercante estuvo contando una historia bastante increíble aquí. Una noche, en medio de la niebla, ve la silueta de un barco y, sin pensarlo mucho, decide seguirlo. Es más seguro viajar en convoy, ya sabes. Luego, con los primeros rayos de sol, la niebla se disipa... y lo que ve en el otro barco son las cuencas vacías de los ojos de marineros muertos mirándolo fijamente. Bueno, izó todas las velas y se alejó de allí tan rápido como pudo, pero ese barco lleno de cadáveres siguió avanzando hacia @<XI_ConvertString>. El mercante quedó tan asustado que vendió su nave y abandonó el mar para siempre. Dice que prefiere mandar en un almacén antes que volver a poner un pie en el océano.
+}
+MagicCity_247 {
+¿Has oído? ¡No vas a creer lo que @<sRumourName> vio el otro día! Afirma que se topó con una fragata misteriosa en mar abierto, tripulada por esqueletos. De repente, se levantó una densa niebla, seguida de una tormenta terrible. Por algún milagro, fue el único de su tripulación que sobrevivió, y luego lo recogió un barco costero que pasaba por allí. Dice que antes de la tormenta, la fragata se dirigía hacia @<XI_ConvertString>. Así que, capitán, si piensas navegar por esa zona, ¡ten cuidado!
+}
+MagicCity_248 {
+@<LinkRandPhrase>
+}

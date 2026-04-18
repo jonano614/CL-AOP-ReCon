@@ -1,0 +1,129 @@
+;Анимация поднимающейся двери в пещере
+animation = cavernBig1_door.an
+
+data = "Turn speed", "5.5"
+
+;Дверь внизу
+[idle_close]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+
+;Дверь вверху
+[idle_open]
+	speed = 1.0
+	type = normal
+	start_time = 23
+	end_time = 25
+	loop = true
+	data = "Blend time", "0.1"		; sec
+
+;Дверь открывается
+[open]
+	speed = 0.4
+	type = normal
+	start_time = 3
+	end_time = 23
+	loop = false
+	data = "Blend time", "0.1"		; sec
+
+;Дверь закрывается
+[close]
+	speed = 0.4
+	type = reverse
+	start_time = 3
+	end_time = 23
+	loop = false
+	data = "Blend time", "0.1"		; sec
+	
+;Дверь внизу
+[idle_1]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_2]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_3]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_4]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_5]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_6]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_7]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_8]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_9]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_10]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec
+	
+[idle_11]
+	speed = 1.0
+	type = normal
+	start_time = 1
+	end_time = 3
+	loop = true
+	data = "Blend time", "0.1"		; sec

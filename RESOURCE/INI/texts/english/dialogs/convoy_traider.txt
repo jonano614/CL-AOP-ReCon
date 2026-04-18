@@ -1,0 +1,69 @@
+convoy_traider_1_m {
+Oh, hell!! I know who you are! Only a complete fool would hire you to escort their ship. Farewell!
+}
+convoy_traider_1_f {
+Oh, hell!! I know who you are! Only a complete fool would hire you to escort their ship. Farewell!
+}
+convoy_traider_2 {
+Ah, I know who you are! Hire you as an escort?! Find yourself another fool...
+}
+convoy_traider_3 {
+@<RandPhraseSimple>
+}
+convoy_traider_4 {
+Heh, what a scaredy-cat...
+}
+convoy_traider_5 {
+What a skittish lot people have become!
+}
+convoy_traider_6 {
+@<RandPhraseSimple>
+}
+convoy_traider_7 {
+@<TimeGreeting>, @<GetAddress_Form>! I'm @<GetFullName>, a merchant. I heard you're looking for work?
+}
+convoy_traider_8_m {
+Something like that. And you, as I’ve heard, are looking for a captain to escort you and your ship to your destination?
+}
+convoy_traider_8_f {
+Something like that. And you, as I’ve heard, are looking for a captain to escort you and your ship to your destination?
+}
+convoy_traider_9 {
+Exactly right. Moreover, I think you’d make a fine companion for me. What do you say?
+}
+convoy_traider_10 {
+I'll say this—name your price, and maybe we can strike a deal.
+}
+convoy_traider_11 {
+I need an escort to @<XI_ConvertString> on @<XI_ConvertString>, within @<FindDaysString>, and I’ll pay you @<FindMoneyString> for it. What do you say?
+}
+convoy_traider_12_m {
+I agree.
+}
+convoy_traider_12_f {
+I agree.
+}
+convoy_traider_13 {
+I don't think that interests me.
+}
+convoy_traider_14 {
+Oh! Thank you. With you protecting me, I felt safer than ever. Here’s your reward.
+}
+convoy_traider_15 {
+Thank you.
+}
+convoy_traider_16 {
+A certain merchant captain named @<GetFullName> says that @<GetMainCharacterNameDat> can be trusted when it comes to escorting merchant ships.
+}
+convoy_traider_17_m {
+A merchant named @<GetFullName> says that Captain @<GetMainCharacterNameDat> can be trusted. He defended his ship admirably while escorting it to @<XI_ConvertString>.
+}
+convoy_traider_17_f {
+A merchant named @<GetFullName> says that Captain @<GetMainCharacterNameDat> can be trusted. She defended his ship admirably while escorting it to @<XI_ConvertString>.
+}
+convoy_traider_18 {
+I’ve heard you keep your word when it comes to escorting ships for merchant captains. A certain trader by the name of @<GetFullName> speaks very highly of you.
+}
+convoy_traider_19 {
+@<LinkRandPhrase>
+}

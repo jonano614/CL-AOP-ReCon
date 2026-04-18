@@ -1,0 +1,207 @@
+Marginal_1 {
+Ei, capitão! Isso mesmo, você. Chegue mais perto, tenho um assunto para tratar com você...
+}
+Marginal_2 {
+E que tipo de negócio é esse, hein?
+}
+Marginal_3 {
+Amigo, estou com pressa. Talvez outra hora...
+}
+Marginal_4 {
+Ei, capitão, estou ocupado aqui. O que você quer?
+}
+Marginal_5 {
+O que você quer, capitão?
+}
+Marginal_6_m {
+Capitão, não tenho tempo para conversa fiada. O que você quer?
+}
+Marginal_6_f {
+Capitão, não tenho tempo para conversa fiada. O que você queria?
+}
+Marginal_7 {
+@<LinkRandPhrase>
+}
+Marginal_8 {
+Saudações, @<GetAddress_FormToNPC>. Espere um instante, quero que me diga uma coisa.
+}
+Marginal_9 {
+Tenho uma pergunta para você.
+}
+Marginal_10 {
+Preciso de informações.
+}
+Marginal_11 {
+@<RandPhraseSimple>
+}
+Marginal_12 {
+Ah, nada demais, só indo para a taverna...
+}
+Marginal_13 {
+O que você quer?
+}
+Marginal_14 {
+Nada.
+}
+Marginal_15 {
+Tenho uma pergunta para você.
+}
+Marginal_16 {
+Preciso de informações.
+}
+Marginal_17 {
+@<RandPhraseSimple>
+}
+Marginal_18 {
+Hmm. Você é capitão de navio, não parece ser um comerciante, e pelo visto tem algum dinheiro sobrando... Que tal uma informação muito interessante em troca de alguns piastres?
+}
+Marginal_19 {
+Primeiro, me diga se a sua informação vale ao menos uma moeda de prata. E sobre o que é?
+}
+Marginal_20 {
+Vale a pena, capitão, vale sim. Ela vale muito mais do que estou pedindo. Você me dá o ouro, e eu te digo quando e em qual navio certo passageiro vai embarcar—um passageiro que pode render um belo resgate... E ainda te conto quem está com ele. Interessado?
+}
+Marginal_21 {
+E como eu sei que você não vai mentir para mim, hein?
+}
+Marginal_22 {
+Nem pensar. Não me meto com sequestro. Cai fora!
+}
+Marginal_23_m {
+Não vou mentir para você, casaco salgado. Moro nesta cidade e não quero confusão. Por apenas @<FindMoneyString>, te dou todas as informações que precisa. Você vai lucrar muito mais com isso.
+}
+Marginal_23_f {
+Não vou enganar você, senhorita. Moro nesta cidade e não quero confusão. Por apenas @<FindMoneyString>, eu te dou todas as informações que precisa. Você vai lucrar muito mais com esse negócio.
+}
+Marginal_24 {
+Você me convenceu. Aqui, pegue. Mas se tentar me enrolar ou mentir para mim...
+}
+Marginal_25 {
+Não tenho essa quantia comigo agora.
+}
+Marginal_26 {
+Você está brincando comigo? Pagar uma fortuna por sabe-se lá o quê? É melhor você ir embora...
+}
+Marginal_27 {
+Não? Tudo bem. Posso esperar um ou dois dias, e essa informação também pode. Quando encontrar o ouro, venha me procurar — não vai ser difícil me achar, pelo menos hoje, ha-ha!
+}
+Marginal_28 {
+Por que esse sorriso? Tudo bem, se eu mudar de ideia, trago uns sacos pra você...
+}
+Marginal_29_m {
+Então, você trouxe o ouro afinal?
+}
+Marginal_29_f {
+Então, você trouxe o ouro afinal?
+}
+Marginal_30 {
+Sim. Aqui, pegue. Mas se tentar me enrolar ou mentir para mim...
+}
+Marginal_31 {
+Ainda não. Talvez mais tarde...
+}
+Marginal_32_m {
+Não desperdice sua pólvora à toa — você vai precisar dela. Agora preste atenção: em @<FindDaysString>, um @<GetStrSmallRegister> chamado '@<pchar>' vai sair da nossa colônia em direção a @<XI_ConvertString>. Haverá um passageiro a bordo — @<pchar>, o nome é @<pchar>.\nO capitão do @<GetStrSmallRegister> é meio covarde — fazer o quê, ele é um comerciante... então talvez você nem precise lutar com ele. Dê um bom susto nele e ele mesmo vai entregar o passageiro, heh-heh... Depois disso, é só cobrar o resgate.\nComo você deve imaginar, @<pchar>, provavelmente vai receber seu dinheiro, mas depois disso as autoridades vão te caçar sem descanso. Melhor levar seu prêmio para @<XI_ConvertString>. Lá, procure um homem chamado @<pchar>.\n@<pchar> nem vai perguntar seu nome. Quanto ao valor do resgate — isso é com você, pense bem, e não esqueça do ditado — colher grande rasga a boca... Mas pode pedir tranquilamente @<FindMoneyString>. Entendeu tudo?
+}
+Marginal_32_f {
+Não desperdice sua pólvora à toa, você vai precisar dela. Agora preste atenção: em @<FindDaysString>, um(a) @<GetStrSmallRegister> chamado(a) '@<pchar>' vai sair da nossa colônia em direção a @<XI_ConvertString>. Haverá um passageiro a bordo—@<pchar>, de nome @<pchar>.\nO capitão do(a) @<GetStrSmallRegister> é meio covarde—fazer o quê, é um comerciante... então talvez você nem precise lutar com ele. Dê um bom susto e ele mesmo entrega o passageiro, heh-heh... Depois disso, é só cobrar o resgate.\nComo você entende, @<pchar>, provavelmente vai receber seu dinheiro, mas depois as autoridades vão atrás de você. Melhor levar seu prêmio para @<XI_ConvertString>. Lá, procure por alguém chamado @<pchar>.\n@<pchar> nem vai perguntar seu nome. Quanto ao valor do resgate—isso é com você, pense bem, e não esqueça do ditado—quem pede demais acaba ficando sem... Mas pode pedir tranquilamente @<FindMoneyString>. Entendeu tudo?
+}
+Marginal_33 {
+Sim. Vou para o navio agora e anoto para não esquecer.
+}
+Marginal_34 {
+Exatamente! Uma decisão muito sábia. Então, boa sorte com essa tarefa simples. Ah, quase me esqueci: @<GetStrSmallRegister> não vai partir do porto, mas de uma das enseadas próximas—não sei qual. Fique atento. Adeus, e obrigado pela moeda!
+}
+Marginal_35 {
+De nada. Espero que você não gaste tudo na taverna em uma só noite...
+}
+Marginal_36 {
+Então não fique enrolando. Fale logo!
+}
+Marginal_37 {
+Tá bom, o que você quer?
+}
+Marginal_38 {
+Estamos fazendo perguntas? Tudo bem, capitão, estou ouvindo.
+}
+Marginal_39 {
+@<LinkRandPhrase>
+}
+Marginal_40 {
+Quer compartilhar as novidades mais recentes da sua cidade?
+}
+Marginal_41 {
+Me conte, o que tem acontecido ultimamente? Alguma novidade?
+}
+Marginal_42 {
+Ouviu alguma novidade interessante pelo arquipélago?
+}
+Marginal_43 {
+@<LinkRandPhrase>
+}
+Marginal_44 {
+Ele quer se casar com ela e não hesitará em pagar uma boa quantia pela moça.
+}
+Marginal_45 {
+a filha do comerciante, dona da loja
+}
+Marginal_46 {
+na casa do pai dela, o lojista
+}
+Marginal_47 {
+a filha do dono do estaleiro
+}
+Marginal_48 {
+na casa do pai dela, o dono do estaleiro
+}
+Marginal_49 {
+a filha do estalajadeiro
+}
+Marginal_50 {
+na casa do pai dela, o estalajadeiro
+}
+Marginal_51 {
+a filha do agiota
+}
+Marginal_52 {
+com o pai dela, o agiota
+}
+Marginal_53 {
+a filha do chefe da autoridade portuária
+}
+Marginal_54 {
+com o pai dela, o chefe da autoridade portuária
+}
+Marginal_55 {
+Ele vem tentando conquistar a confiança dessa família há muito tempo — não vai hesitar em pagar uma boa quantia pelo prisioneiro.
+}
+Marginal_56 {
+um parente próximo do comerciante, o dono da loja
+}
+Marginal_57 {
+na casa do parente dele, na loja do comerciante
+}
+Marginal_58 {
+um parente próximo do dono do estaleiro
+}
+Marginal_59 {
+na casa do parente dele, o dono do estaleiro
+}
+Marginal_60 {
+um parente próximo do estalajadeiro
+}
+Marginal_61 {
+na casa do parente dele, o estalajadeiro
+}
+Marginal_62 {
+um parente próximo do agiota
+}
+Marginal_63 {
+na casa do parente dele, o agiota
+}
+Marginal_64 {
+um parente próximo do chefe da autoridade portuária
+}
+Marginal_65 {
+com seu parente, o chefe da autoridade portuária
+}

@@ -1,0 +1,48 @@
+Start_GoldFleet_t0 {Se dice que una flota, que cada año transporta oro y plata para la corona española, partió hace poco de las costas de Portobelo rumbo a La Habana.}
+Start_GoldFleet_t1 {Hace apenas unos días, una flota española partió de Portobelo con una cantidad incalculable de oro y plata de los incas y aztecas. Este convoy se dirige a La Habana, desde donde el tesoro será enviado a España.}
+Start_GoldFleet_t2 {Se rumorea que un convoy de oro español ha partido de Portobelo hacia La Habana con un cargamento de oro y plata. La flota está escoltada por fragatas, cada una con dos cubiertas llenas de cañones, además de otros buques de guerra.}
+End_GoldFleet_t0 {El convoy de oro español ha llegado a Cuba sin contratiempos. Ahora todo el oro y la plata recolectados serán enviados a España.}
+End_GoldFleet_t1 {Todos los barcos de la flota de oro española han llegado a La Habana sin un rasguño. Todo ese oro y plata de México y Perú pronto será enviado a Europa.}
+End_GoldFleet_t2 {La flota de oro española ha llegado a La Habana. Todo el oro y la plata están a salvo y pronto serán enviados a España.}
+Defeat_GoldFleet_t0 {Se dice que el convoy de oro español ha salido de Portobelo pero aún no ha llegado a La Habana. No sé por qué, pero creo que fueron los piratas o las tormentas.}
+Defeat_GoldFleet_t1 {La flota de oro española, que navegaba hacia La Habana con el oro y la plata de los indios, ha desaparecido. Nadie sabe con certeza por qué, pero dicen que podrían haber sido los piratas.}
+Defeat_GoldFleet_t2 {La flota dorada, que transportaba tesoros inconmensurables desde Portobelo, no ha llegado a La Habana, aunque ya debería haberlo hecho. Quién sabe, tal vez las tormentas sellaron su destino.}
+Attak_GoldFleet_t0 {Se dice que la flota de oro española, que transportaba riquezas del Nuevo Mundo a La Habana, ha sido atacada. Varias naves se perdieron como resultado.}
+Attak_GoldFleet_t1 {¡El mar se ha vuelto completamente inseguro! La flota de oro española fue atacada por piratas o corsarios ingleses, no estoy seguro... ¡Pero qué descaro! ¡Ojalá pudiera ver a esos bastardos colgados!}
+Attak_GoldFleet_t2 {¡Cada día es peor que el anterior! ¡Ahora hasta la flota de oro española con las riquezas del Nuevo Mundo ha sido atacada! ¡El mundo está condenado! ¡Oh Santa Madre de Dios, ayúdanos!}
+Init_GoldFleet_t0 {Se rumorea que la flota de oro española en Portobelo se está preparando para zarpar hacia La Habana. Se dice que partirán a comienzos de #sgold_month#.}
+Init_GoldFleet_t1 {Se rumorea que en Portobelo se está cargando oro y plata en los barcos de la flota dorada española. Este convoy partirá hacia Cuba en la primera mitad de #sgold_month#.}
+Init_GoldFleet_t2 {El inicio de #sgold_month# marca la salida de la flota de oro española hacia Cuba. Para entonces, todo su oro y plata ya estará cargado.}
+MerchantOnMapTo_t0 {Dicen que un barco llamado "#sShipName#" de #snation# procedente de #ssColony# navega hacia aquí, cargado de #sQuestGoodsIdx#.}
+MerchantOnMapTo_t1 {Nuestro comerciante local espera la llegada del barco "#sShipName#" bajo la bandera de #snation# desde #ssColony# con una carga de #sQuestGoodsIdx#.}
+MerchantOnMapTo_t2 {He oído hablar de un comerciante en un barco llamado "#sShipName#" bajo la bandera de #snation#, que navega con una carga de #sQuestGoodsIdx# desde la colonia de #ssColony#.}
+MerchantOnMap_t0 {Se dice que un barco mercante llamado "#sShipName#" bajo la bandera de #snation# espera buen viento en nuestro puerto para zarpar hacia #ssNextColony# con una carga de #sQuestGoodsIdx#.}
+MerchantOnMap_t1 {Se rumorea que un rico comerciante de #snation# ha fletado un barco llamado "#sShipName#". Pronto zarpará hacia #ssNextColony# con una carga de #sQuestGoodsIdx#.}
+MerchantOnMap_t2 {Nuestro comerciante local consiguió un barco, el "#sShipName#", con una carga de #sQuestGoodsIdx# para #snation#, y pronto zarpará hacia #ssNextColony#.}
+MerchantRumour_t0 {He oído rumores sobre un barco llamado "#sShipName#" bajo la bandera de #snation#, que partió de la colonia de #ssColony# hacia #ssNextColony# con una carga de #sQuestGoodsIdx#, y fue hundido por un pirata desconocido.}
+MerchantRumour_t1 {Dicen que el "#sShipName#" bajo la bandera de #snation#, que salió de #ssColony# con un cargamento de #sQuestGoodsIdx# rumbo a #ssNextColony#, ha desaparecido por completo: ¡tanto la tripulación como la carga!}
+MerchantRumour_t2 {Circulan terribles rumores estos días: un pirata abordó el "#sShipName#" de #snation# procedente de la colonia de #ssColony#. Tras matar a toda la tripulación, se llevó la carga de #sQuestGoodsIdx#. No habrás sido tú, ¿verdad?}
+GetColonyPrices_t0 {Mientras tomaba una jarra de cerveza, el intendente de la East-Indies me contó los precios en la tienda de #sColony#.}
+GetColonyPrices_t1 {Un capitán de un barco mercante, que llegó hace poco desde #sColony#, me contó los precios en su tienda local.}
+GetColonyPrices_t2 {El otro día escuché en la taberna a dos capitanes discutiendo los precios de la tienda de #sColony#.}
+WaitInTavern_t0 {He oído decir que #sPsHero_Name# ha perdido su barco y ahora ahoga sus penas en #sTown_Name#.}
+WaitInTavern_t1 {Escuché a un marinero borracho, el que arrestaron ayer por robo, contarles a sus compañeros que #sPsHero_Name# perdió su barco en una partida de cartas, y que ahora está esperando tener algo de suerte en la taberna de #sTown_Name#.}
+WaitInTavern_t2 {Los marineros en la taberna comentan que #sPsHero_Name# no tiene mucha suerte: una patrulla hundió su barco y apenas logró evitar la horca en #sTown_Name#.}
+WorkOnMayor_t0 {Hoy vi a #sPsHero_Name# hablando con nuestro gobernador. Parece que consiguió otra "interesante" misión.}
+WorkOnMayor_t1 {La gente del pueblo susurra sobre el nuevo protegido de nuestro gobernador: el capitán #sPsHero_Name# visita la residencia con frecuencia para hacer algunos encargos menores y atender a la hija de Su Excelencia.}
+WorkOnMayor_t2 {La cocinera me contó que la doncella de Su Señoría le dijo que #sPsHero_Name# tiene una relación cercana con el gobernador. Hoy, temprano por la mañana, él se apresuró hacia... algo en la residencia.}
+SailToIsland_t0 {#sPsHero_Name# mencionó que tenía prisa por #sTo# #sTown_Name#. Probablemente para comprar algo.}
+SailToIsland_t1 {#sPsHero_Name# zarpa #sTo# #sTown_Name# por asuntos comerciales. Me enteré de eso por un marinero suyo en la taberna.}
+SailToIsland_t2 {Ayer #sPsHero_Name# se emborrachó hasta perder el sentido en la taberna, manoseó a todas las chicas y no paraba de gritar sobre sus asuntos en #sTo# #sTown_Name#.}
+WorkOnStore_t0 {Un marinero en la taberna contaba que #sPsHero_Name# decidió entregar un cargamento de #sGood# a #sTown_Name#.}
+WorkOnStore_t1 {El ayudante de nuestro comerciante me contó que #sPsHero_Name# aceptó un encargo para entregar una carga de #sGood# a una tienda en #sTown_Name#.}
+WorkOnStore_t2 {Nuestro tabernero contó que #sPsHero_Name# reunió una tripulación para zarpar hacia #sTown_Name# con una carga de #sGood# de nuestra tienda local.}
+WorkWithContra_t0 {Vi cómo #sPsHero_Name# hablaba con una figura sombría. Escuché que era un contrabandista.}
+WorkWithContra_t1 {Dicen que #sPsHero_Name# ha traído un barco entero cargado de contrabando. Tal vez ya lo vendió, o tal vez no...}
+WorkWithContra_t2 {Logré escuchar una conversación entre el contrabandista local y #sPsHero_Name#: acordaron reunirse en un lugar llamado #sContraPlace#.}
+DuelCoward_t0 {¡Qué vergüenza! ¡#sName# no se presentó al duelo! ¡Ahora todos dicen que es un cobarde!}
+DuelCoward_t1 {¡Ja, #sName# no vino a batirse esta vez! Supongo que ya no será tan popular entre las mujeres...}
+DuelCoward_t2 {¿Has oído? ¡#sName# no fue a su duelo! Dicen que anoche se emborrachó tanto que no podía ni caminar.}
+DuelHero_t0 {¿Sabías que #sName# es un duelista de renombre? Ya ha matado a #sKill#. No me gustaría cruzarme con él...}
+DuelHero_t1 {Dicen que #sName# vendió su alma al Diablo, y por eso es un duelista invencible. Las almas de aquellos a quienes mató —y ya van #sKill#— van directo al infierno... También cuentan que, si deja de matar, el Diablo se llevará SU alma.}
+DuelHero_t2 {¡Ese advenedizo #sName# tiene una suerte increíble! Ya ha matado a #sKill# en duelos, ¡y ni un rasguño! ¿Puedes creerlo?}

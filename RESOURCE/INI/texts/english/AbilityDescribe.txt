@@ -1,0 +1,519 @@
+
+							;PERSONAL
+
+NachoPuncher				{Hand-to-Hand}
+PerkNachoPuncher			{Allows the character to fight with fists without weapons.
+~
+To fight hand-to-hand, the blade must unequipped. After which, when switching to attack mode, the character will fight with fists. Blocking with bare hands and feints against blades are impossible.}
+
+DrunkenMaster				{Drunken Master}
+PerkDrunkenMaster			{Everybody loves kung fu fighting...}
+
+BasicDefense				{Basic Defensive Arts}
+perkBasicDefense			{Incoming damage to the character is reduced by 10%.}
+
+AdvancedDefense				{Expert Defensive Arts}
+perkAdvancedDefense			{Incoming damage to the character is reduced by 20%.}
+
+Ciras						{Cuirass}
+perkCiras					{This perk allows the character to use cuirasses.}
+
+BasicAttack					{Basic Attack Arts}
+perkBasicAttack				{Adds 5% to the character's melee damage.}
+
+HardHitter					{Heavy Handed}
+perkHardHitter				{The character strikes with such force that they cause enemy to lose his energy.}
+
+CriticalHit					{Critical Hit}
+perkCriticalHit				{The character has a 5% chance to deal critical damage to an enemy when hitting with a melee weapon.}
+
+AdvancedAttack				{Expert Attack Arts}
+perkAdvancedAttack			{Adds 10% to the character's melee damage.}
+
+BladeDancer					{Blade Dance}
+perkBladeDancer				{The character learns an improved Group Attack technique. The spin attack damage bonus gets 30#sBladeDancer#%.}
+
+Sliding						{Irresistible Strike}
+perkSliding					{The have an additional 20#sSliding#% chance to pierce an enemy's block.}
+
+Rush						{Rage}
+perkRush					{An active ability that increases the character's attack power by one and a half times for a period of 10#sRush# seconds.
+~
+Ability cooldown: 60 sec.
+~
+Available only for the Main Character.}
+
+SwordplayProfessional		{Professional Fencer}
+perkSwordplayProfessional	{Chance to deal critical damage increases to 15#sSwordplayProfessional_critical#%. Incoming damage to the character is reduced by 30#sSwordplayProfessional_defence#%.}
+
+Tireless					{Tirelessness}
+perkTireless				{The character has learned to resist fatigue more effectively. The energy recovery rate increases by 15#sTireless#%.}
+
+SecondWind					{Second Wind}
+perkSecondWind				{An active ability that allows an exhausted character to catch a second wind during combat, gradually restoring half of their spent energy.
+~
+Ability cooldown: 60 sec.
+~
+Available only for the Main Character.}
+
+Gunman 						{Basic Shooting Arts}
+perkGunman					{The character is better at handling pistols: reloading is 10% faster, and accuracy is increased by 10%.
+~
+It becomes possible to use shot shells pistols.}
+
+StunningShot 				{Stunning Shot}
+perkStunningShot			{Every successful shot shocks the target, dealing additional energy damage.}
+
+GunAdvanced					{Expert Shooting Arts}
+perkGunAdvanced				{The character is better at handling unusual pistols better: reloading is 15% faster, and accuracy is increased by 15%.
+~
+It becomes possible to use double-barreled pistols.}
+
+Shoottech					{Shooting Technique}
+perkShoottech				{Long training in shooting at sharks was not in vain. The character learned to deal 10% more damage when shooting from any firearm.}
+
+MusketsTraining 			{Musketeer Training}
+perkMusketsTraining			{The character masters the art of using a musket: reloading is 20% faster, and accuracy increases by 20%.
+~
+It becomes possible to equip one-barrel muskets, arquebuses, and hand mortars to a character (the main character and very specific officers).}
+
+GunProfessional 			{Professional Shooting}
+perkGunProfessional			{Reloading of firearms is 25#sGunProfessional_charge#% faster, accuracy is increased by 25#sGunProfessional_accuracy#%.
+~
+You can use multibarreled and repeating firearms.}
+
+DevilsEye					{Devil's Eye}
+perkDevilsEye				{Thanks to long training and a deep understanding of the ballistics, the character has learned to shoot at the vital organs of the enemy. A 10% chance to deal critical damage on the enemy when shooting from any firearm.}
+
+Grus						{Pack Mule}
+perkGrus					{This ability allows you to carry an additional 30#sGrus# lbs.}
+
+SharedExperience			{Sharing Experiences}
+perkSharedExperience		{The experience gained on the Main Character's skills is shared with passengers, officers and companions with twice the amount and is 10%, 50% and 33%, respectively.
+
+#sSharedExperience#
+~
+Unlocks the ability to exchange items with officers during boarding.
+~
+Available only for the Main Character.}
+
+Medic						{Excellent Health}
+perkMedic					{You to restore health faster, if no serious wounds had to be endured during the day. Reduces the decrease of health if the character is wounded. Works while sailing, but slower.
+~
+Available only for the Main Character.}
+
+HPPlus						{Growing Health}
+perkHPPlus					{This ability increases the maximum HP of character by one additional point per each new level.
+~
+Retroactivity - when leveling works as if the character had this ability from the moment the adventure began.}
+
+EnergyPlus					{Growing Energy}
+perkEnergyPlus				{Increases the maximum energy points of the hero by one additional point per each new level.
+~
+Retroactivity when leveling works as if the character had this ability from the moment the adventure began.}
+
+HawkEye						{Diamond Eye}
+perkHawkEye					{Allows the character to find certain items more easily, thanks to mysterious help.
+~
+For example: gems, quest rings and keys.
+~
+With high luck, it allows you to find crystal skulls, treasure maps and other rare items in a barrel on the global map.}
+
+ByWorker					{Moonlighting}
+perkByWorker				{This character can be assigned to the positions of naval officer officer and boarder at the same time.}
+
+ByWorker2					{Jack of All Trades}
+perkByWorker2				{This character can be assigned to two positions of naval officer and boarder at the same time, but with some penalties.
+~
+The key skills of these naval positions will receive a -25% penalty.
+~
+The penalty decreases by 5% for every 25 Leadership points, up to its complete absence.}
+
+Trustworthy					{Art of Deception}
+perkTrustworthy				{Negative character reputation does not affect the hiring decision of most employers, as it deceives them.
+~
+~
+Unlocks additional opportunities for stealth movement in enemy settlements.}
+
+ShipEscape					{Lifeboat rescue}
+perkShipEscape				{Rescue by boat from the main character's sinking ship to one of his other squadron.
+~
+This ability allows you to exchange or transfer to another squadron ship during a battle when the ship's hull is < 15% via the hold menu.
+~
+If the companion has this ability, he will be rescued from the sinking ship or fire ship, returning as a passenger to the main character's ship by lowering a boat.}
+
+WildCaribbean 				{Wild Caribbean}
+perkWildCaribbean			{Turns several "normal" random encounters in the Caribbean into strange and incredible ones! Don't choose this feature if you don't want your adventures to become a little crazy.}
+
+Alchemy	{Alchemy}
+perkAlchemy
+{
+Allows to craft items without the use of special tools such as an alchemist's chest.
+~
+
+Available only for the Main Character.
+}
+
+							;NAVAL
+							
+							;CANNONEER
+
+FastReload 					{Fast Reloading}
+perkFastReload				{Reloading of cannons is accelerated by 10#sFastReload#%.}
+
+ImmediateReload				{Preliminary Reloading}
+perkImmediateReload			{When this ability is activated, weapons will reload 30% faster for 60#sImmediateReload# seconds.
+~
+Ability cooldown: 5 minutes.}
+
+HullDamageUp				{Increased Hull Damage}
+perkHullDamageUp			{Damage to an enemy ship's hull is increased by 15%.}
+
+SailsDamageUp				{Increased Sails Damage}
+perkSailsDamageUp			{Damage to an enemy ship's sails is increased by 15%.}
+
+CrewDamageUp 				{Increased Crew Damage}
+perkCrewDamageUp			{Damage to an enemy ship's crew is increased by 15%.}
+
+CriticalShoot				{Critical Shot}
+perkCriticalShoot			{Improved aiming increases a 5% chance to score a critical hit with a volley fired at the enemy.}
+
+LongRangeShoot				{Increased Firing Range}
+perkLongRangeShoot			{Firing range of cannons is increased by 15#sLongRangeShoot#%.}
+
+CannonProfessional			{Professional Gunner}
+perkCannonProfessional		{Damage to any part of the enemy ship is increased by 30#sCannonProfessional_damage#%. The chance to deal a critical hit becomes 15#sCannonProfessional_critical#%.}
+
+							;BOATSWAIN
+
+LongRangeGrappling			{Long-range Grappling}
+perkLongRangeGrappling		{The boarding range is increased by 15%.}
+
+Brander						{Brander}
+perkBrander					{Unlocks a tactic to send an allied ship to detonate near a enemy ship, dealing huge damage.}
+
+IronWill					{Iron Will}
+perkIronWill				{The probability of mutiny on the ship due to non-payment of wages and hunger is reduced.
+~
+Works for the Main Character and the Boatswain.}
+
+Troopers					{United Landing}
+perkTroopers				{Gives the opportunity to use the crews from all ships in your fleet to assault a fort, sending them as a united force.}
+
+LootCollection				{Quick Looting}
+perkLootCollection			{Allows your crew to automatically loot items from chests and corpses after boarding.
+~
+To activate, you need to talk to the boatswain.
+~
+The ability depends on the level of the boatswain's "Boarding" skill and is only available during boarding and attacks on the colony.}
+
+Mentor                 {Crew Training}
+perkMentor             {The character gains the ability to conduct various shipboard drills, increasing the crew's experience in specific categories.
+~
+The effectiveness depends on the instructor's skill level and the ability has a cooldown period.}
+
+MusketsShoot				{Musket Salvo}
+perkMusketsShoot			{Before boarding, a musket salvo is fired, which kills up to 75% of the enemy crew, but no more than the number of shooters.
+~
+The base damage from a musket salvo is random and ranges from 15#sMusketsShoot#% to 100% of the number of armed crew.
+~
+The enemy's casualties depend on the ship's size and on the amount of active Fighters.}
+
+GrapplingProfessional		{Professional Grappling}
+perkGrapplingProfessional	{The boarding range is increased by 25#sGrapplingProfessional#%. A ship can now be boarded at any angle and ship speed.}
+
+							;NAVIGATOR
+
+ShipSpeedUp					{Increase Ship Speed}
+perkShipSpeedUp				{The maximum speed of the ship is increased by 15%.}
+
+ShipTurnRateUp				{Increased Ship Maneuverability}
+perkShipTurnRateUp			{Maneuverability of the ship is increased by 15%.}
+
+WindCatcher					{Increased Ship Dynamics}
+perkWindCatcher				{The character can sense the slightest change in wind direction and can use it effectively. Ship accelerates 10#sWindCatcher#% faster.}
+
+SailsMan					{Fast Sails}
+perkSailsMan				{All sail operations are performed 10#sSailsMan#% faster.}
+
+StormProfessional			{Navigating in Storms}
+perkStormProfessional		{Damage dealt by storms is reduced by 30#sStormProfessional#%.}
+
+Turn180						{Quick Turnaround}
+perkTurn180					{For one minute the ship's maneuverability increases 4 times.
+~
+Ability cooldown: 3 minutes.}
+
+SailingProfessional			{Professional Navigation}
+perkSailingProfessional		{Increases ship speed by 20#sSailingProfessional_speed#% and maneuverability by 20#sSailingProfessional_turnrate#%.}
+
+SeaDogProfessional			{Master of the Seas}
+perkSeaDogProfessional		{Even the inveterate adventurers and brigands will not dare to try their luck when they see the flag of the Master of the Seas. Prevents attacks by regular enemy squadrons on the global map.
+~
+The ability will not work if there are low-class ships in the squadron.
+~
+Available only for the Main Character.
+}
+
+							;PURSER (CLERK)
+
+BasicCommerce				{Trading Basics}
+perkBasicCommerce			{Having spent a couple of days at the market, the character has learned some tricks of the traders. Extra 10% discount on all trading operations.}
+
+QuickCalculation			{Fast Calculations}
+perkQuickCalculation		{Make calculations 50% faster, which allows the character to make more deals and save precious time.}
+
+ArtOfDeals					{Art of Deals}
+perkArtOfDeals				{Thanks to the ability to establish trusting relationships, the character always finds more opportunities for profitable deals.
+~
+Allows you to choose from three trader freights, instead of one.
+~
+The ability to get a second chance at escort/passenger work.}
+
+AdvancedCommerce			{Expert Trading}
+perkAdvancedCommerce		{Having been among the merchants for a long time, the character has acquired some useful skills. Extra 10% selling bonus on all trading operations.}
+
+Packer						{Cargo Packaging}
+perkPacker					{Passion for optimizing space on the ship led to the character rationally arranging cargo in the hold. Gives an additional 10% of the ship's capacity.}
+
+PriceRecon					{Price Intelligence}
+perkPriceRecon				{Thanks to the ability to use contacts in the merchant world, the character is able to predict price changes. Once a month in any store the character can get up-to-date data on all prices in the colonies already visited.}
+
+Investor                    {Investment Master}
+perkInvestor                {Knowledge of financial mechanisms allows the character to increase the bank deposit rate by 1%, providing additional income.}
+
+ProfessionalCommerce		{Professional Trading}
+perkProfessionalCommerce	{Extra -15#sProfessionalCommerce#% discount and +15% selling bonus on all trading operations.}
+
+							;CARPENTER
+							
+Carpenter					{Basic Repair}
+perkCarpenter				{Increases the speed of autonomous repair. Hull damage and sail rigging on existing masts is restored by 10#sCarpenter#%. 
+~
+Works during land adventures and travels on the global map.
+~
+Requires planks to repair the hull and sailcloth to fix sails.}
+
+Builder						{Expert Repair}
+perkBuilder					{Any repair requires 10#sBuilder#% less of planks and sailcloth.}
+
+LightRepair					{Patching Holes}
+perkLightRepair				{The ability to quickly pump out water and seal leaks in the hull within a minute without additional resources. Restores no more than 10% of the ship's available durability.
+~
+Ability cooldown: 3 minutes.}
+
+InstantRepair				{Emergency Repair}
+perkInstantRepair			{A quick repair, which can be done even in the heat of a battle in exchange of a massive amount of planks and sailcloth. Fallen masts cannot be restored and replenish the crew.
+Maximum restoration of the ship's hull 65#sInstantRepair#%. 
+~
+Ability cooldown: 90 sec.}
+
+Shipbuilder					{Professional Repair}
+perkShipbuilder				{Any repair requires 25% less of planks and sailcloth. Autonomous repairs are twice as fast.}
+
+SelfRepair 					{Self Repair}
+perkSelfRepair				{Allows to fully repair the ship with the efforts of your crew on any convenient shore. Planks and sailcloth are required. Allows to completely restore the hull, sails and masts.
+Repair can only be performed on land in a coastal location.}
+
+BasicBattleState			{Basic Ship Defense}
+perkBasicBattleState		{Overall damage dealt to the ship is reduced by 15%.}
+
+Caulking					{Caulking}
+perkCaulking				{The character has mastered improved caulking technologies, which provides protection against the slow sinking of the vessel if the integrity of the hull is less than 10%.}
+
+AdvancedBattleState			{Expert Ship Defense}
+perkAdvancedBattleState		{Overall damage dealt to the ship is reduced by 25%.}
+
+ShipDefenseProfessional		{Professional Ship Defense}
+perkShipDefenseProfessional	{Overall damage dealt to the ship is reduced by 35#sShipDefenseProfessional_damage#%.
+The chance of receiving critical damage to a ship is reduced by 70#sShipDefenseProfessional_critical#%.}
+
+MasterOverload				{Master of Overload}
+perkMasterOverload			{The character implements the latest technologies into the ship's orlop deck design, expanding and optimizing the crew's living space capacity. Removes the penalty for reducing morale when the crew is overloaded.
+~
+Available only for the Main Character.}
+
+							;DOCTOR
+							
+Naturalcure					{Herbal Medicine}
+perkNaturalcure				{The character is able to find and collect healing substances during travels, which passively increases the supply of medicines.
+Also allows the use of herbs and natural remedies for healing, which reduces the consumption of medicines by 15%.}
+
+Doctor1						{First Aid}
+perkDoctor1					{Increases the effectiveness of first aid in combat conditions, reducing crew losses during naval combat from wounds and projectiles by 10%.}
+
+LifeSupport					{Life Support}
+perkLifeSupport				{The character provides basic medical care without the use of medicines, reducing the death rate of slaves by 60%.}
+
+Aptekar						{Pharmacy}
+perkAptekar					{The character has learned to use optimal combinations of medications and precise dosages when treating patients, which allows to reduce the consumption of medicines during treatment by 30%.}
+
+Doctor2						{Surgery Expert}
+perkDoctor2					{Increases the chances of success of complex operations and treatment of severe wounds. Reduces crew losses during naval combat from wounds and projectiles by 15%.}
+
+Prevention					{Prevention}
+perkPrevention				{The character pays attention to the prevention of diseases and maintaining the physical shape of the crew, which increases the overall health of the boarding troops by 10% during the battle.}
+
+PainResistance				{Pain Resistance}
+perkPainResistance			{Activates in a critical situation, granting the crew protection from damage for 10 seconds. During this time, participants can fight without immediate losses, but all damage received accumulates and is triggered after the ability expires.}
+
+PersonalCare				{Personal Care}
+perkPersonalCare			{All officer fighters gain a 20% increase to their maximum health.
+~
+Additionally activates the personal ability "Excellent Health" for the Main Character, while the character with this ability is assigned to the position of a doctor.}
+
+Doctor3						{Professional Medicine}
+perkDoctor3					{The character, with comprehensive medical experience, can effectively deal with critical conditions of patients in all directions. Reduces crew losses during naval combat from wounds and projectiles by 20#sDoctor2#%.}
+
+Sanitary					{Absolute Sanitary}
+perkSanitary				{The character is actively involved in educating the crew about the importance of observing sanitary standards and teaches sailors the correct methods of maintaining cleanliness. Completely eliminates the possibility of infections and diseases among sailors, allowing the crew to sail without medicines while traveling on the global map.
+~
+Available only for the Main Character.
+~
+Not available yet.}
+
+SeaSavior					{Savior of the Seas}
+perkSeaSavior				{The character gets the ability to rescue shipwrecked sailors while traveling on the global map, thereby periodically passively increasing the number of the crew. A successful rescue requires medicine from the ship's supplies.
+~
+Available only for the Main Character.
+~
+Not available yet.}
+
+Feldsher					{Paramedic}
+perkFeldsher				{Reduces the duration of the epidemic on ships by 50%.
+~
+Not available yet.}
+
+Sanitar						{Sanitation}
+perkSanitar					{Reduces by 2 times the risk of an epidemic.
+~
+Not available yet.}
+
+							;PERSONAL
+
+FlagPir						{Pirate Flag}
+perkFlagPir					{Gives the opportunity to change your flag to the Jolly Roger.
+~
+Available only for the Main Character.}
+
+FlagEng						{English Flag}
+perkFlagEng					{Gives the opportunity to change your flag to the flag of England. The chance that your disguise will not work depends on stealth, number and classes of ships in the squadron and on the number of enemy ships and bounties.
+~
+Available only for the Main Character.}
+
+FlagFra						{French Flag}
+perkFlagFra					{Gives the opportunity to change your flag to the flag of France. The chance that your disguise will not work depends on stealth, number and classes of ships in the squadron and on the number of enemy ships and bounties.
+~
+Available only for the Main Character.}
+
+FlagSpa						{Spanish Flag}
+perkFlagSpa					{Gives the opportunity to change your flag to the flag of Spain. The chance that your disguise will not work depends on stealth, number and classes of ships in the squadron and on the number of enemy ships and bounties.
+~
+
+Available only for the Main Character.}
+
+FlagHol						{Dutch Flag}
+perkFlagHol					{Gives the opportunity to change your flag to the flag of Holland. The chance that your disguise will not work depends on stealth, number and classes of ships in the squadron and on the number of enemy ships and bounties.
+~
+Available only for the Main Character.}
+
+
+							;CHAPLAIN
+
+Capellan1                   {"Sermon"}
+perkCapellan1               {"The chaplain conducts regular sermons, gradually increasing crew morale each day.
+~
+Available only to chaplains."}
+
+Capellan2                   {"Sacraments"}
+perkCapellan2               {"The chaplain performs sacred rites to fortify the crew's spirit before battle. This reduces boarding combat casualties by half.
+~
+Available only to chaplains."}
+
+							;CHEATS
+							
+InstantBoarding				{Instant Boarding}
+
+
+							;TRAITS
+
+							;BONUS ABILITIES
+
+MapMaker					{Cartographer}
+perkMapMaker				{Having collected a complete collection of maps in the atlas, the character became a master of cartography. Plotting routes has become incomparably easier.
+~
+Ship speed on the global map increased by 5%.}
+
+GhostsGift					{Phantom Gift}
+perkGhostsGift				{After a brilliant victory over the dreaded Flying Dutchman, the character felt the powerful spell of the cursed captain.
+~
+Addition to +6% speed, +6% maneuverability, +6% closehaul when controlling any ship.}
+
+Merman						{Waterfowl}
+perkMerman					{After endless aquatic trials in the torturous waters of the cursed island, the character has permanently improved his swimming technique.
+~
+The character's swimming speed is doubled.}
+
+SlaveTraderTrait			{Lord of Slaves}
+perkSlaveTraderTrait		{Having transported thousands of slaves in your ship's holds, you've honed the art of crushing all resistance. Even the most desperate rebels dare not challenge your iron discipline."
+~
+Grants a 50% saving throw to suppress potential slave revolts.}
+
+Duelist						{Renowned Duelist}
+DuelistFem					{Renowned Duelist}
+perkDuelist					{+5% damage dealt -5% incoming damage in melee combat against one enemy, number of allies is not important.}
+
+							;CHARACTER FEATURES}
+
+HighwaySmuggler				{Seasoned Smuggler}
+perkHighwaySmuggler			{This man knows many secret routes and has repeatedly engaged in smuggling, deceiving the law and its guardians.}
+
+Schemer						{Schemer}
+perkSchemer					{(After completing the 'Malcolm's tobacco' quest for a good ending) Possibility of smuggling using a squadron and third-rate ships.}
+
+BasePirate					{Smuggler Agent}
+perkBasePirate				{Possibility of buying contraband even in stores.}
+
+Monk						{Church Servant}
+perkMonk					{A church minister on a ship who provides moral support and spiritual guidance to the crew. His role on the ship is to serve the Lord God.}
+
+SweetBaby					{Irresistible Beauty}
+perkSweetBaby				{A character with a charming appeal that can captivate hearts and attract the attention of everyone around them.
+~
+Can become a romantic interest of Main Character of the opposite sex.}
+
+PGGTrait					{Wayward Captain}
+perkPGGTrait				{A famous captain, famous for his daring plans and courageous actions, who always strives for new discoveries and adventures.}
+
+Nobleman					{Nobleman}
+NoblemanFem					{Noblewoman}
+perkNobleman				{The character has unique skills in communicating with the aristocracy, which allows him to avoid conflicts and find allies among influential individuals.}
+
+OneLegMan					{One-legged}
+perkOneLegMan				{The character lost one leg, but did not lose his fighting skills.}
+
+SaveLoadAbuser				{Scammer}
+perkSaveLoadAbuser			{A notorious gambler who, despite his success in deception, is distrusted by others, making him a loner in the world of gambling.}
+
+							;CHARACTERIZE TRAITS
+
+Energaiser					{Energaiser}
+perkEnergaiser				{The character is at the peak of physical capabilities, due to which energy is restored 1.5 times faster.}
+
+LoyalOff					{Devotion}
+LoyalOffFem					{Devotion}
+perkLoyalOff				{A loyal officer will never question the captain's authority and orders.}
+
+Honest						{Decency}
+HonestFem					{Decency}
+perkHonest					{The character adheres to strict moral principles, always putting justice and the protection of the innocent above personal interests.}
+
+Rebel						{Dishonesty}
+RebelFem					{Dishonesty}
+perkRebel					{The character acts solely in his own interests, not hesitating to use deception and manipulation to achieve his goals, ignoring moral standards and the consequences of his actions.}
+
+Bully						{Cocky}
+perkBully					{An inveterate bully, ready to fight a duel for any, even the most trivial, reason. Tavern patrons are afraid to drink with the character for about 2 months.}
+
+Dignity						{Dignity}
+perkDignity					{Only commoners and drunkards who have lost their honor and dignity wave their fists. A worthy person is inclined to solve problems with a reliable blade.}

@@ -1,0 +1,216 @@
+Minentown_mayor_1_m {
+@<TimeGreeting>, señor. Soy @<GetFullName>, comandante de la mina Oranje-Lavas, súbdito de @<NationKingsName>. Ahora, por favor, indique el motivo de su visita, @<GetAddress_Form>.
+}
+Minentown_mayor_1_f {
+@<TimeGreeting>, señora. Soy @<GetFullName>, comandante de la mina Oranje-Lavas, súbdito de @<NationKingsName>. Ahora, por favor, indique el motivo de su visita, @<GetAddress_Form>.
+}
+Minentown_mayor_2_m {
+Es mi primera vez aquí y me gustaría saber un poco más sobre este asentamiento, las reglas que tienen...
+}
+Minentown_mayor_2_f {
+Es mi primera vez aquí y me gustaría saber un poco más sobre este asentamiento, las reglas y cómo funcionan las cosas por aquí…
+}
+Minentown_mayor_3_m {
+Solo pasé a saludar y ya me voy.
+}
+Minentown_mayor_3_f {
+Solo pasé a saludar y ya me estoy yendo.
+}
+Minentown_mayor_4_m {
+¿Es usted de nuevo, señor? ¿Desea algo más?
+}
+Minentown_mayor_4_f {
+¿Es usted de nuevo, señora? ¿Deseaba algo más?
+}
+Minentown_mayor_5 {
+No, no es nada. Ya me voy.
+}
+Minentown_mayor_6 {
+Quiero preguntarte algo...
+}
+Minentown_mayor_7 {
+Es digno de elogio que seas tan disciplinado. Bien, ya que tienes tanto interés, te pondré al tanto.\nLa mina Oranje-Lavas está bajo el control de la República de las Provincias Unidas. Aquí extraemos mineral de mercurio sin refinar—más precisamente, cinabrio. Todo lo que se extrae aquí pertenece a Holanda y luego se envía fuertemente custodiado al Viejo Mundo.\nLa mina está bien protegida, con una guarnición permanente de soldados de élite. Los piratas han intentado más de una vez asaltar nuestra mina, y todos los intentos terminaron mal... Para ellos, por supuesto. Como habrás notado, la mina está rodeada de montañas, casi imposibles de cruzar. Contamos con excelentes murallas naturales.\nLa única desventaja es que esto también trae problemas—los terremotos son frecuentes en la isla. Debido a un reciente deslizamiento de tierra, el trabajo en la mina ha sido suspendido indefinidamente. Por el momento, el comercio de cinabrio está prohibido tanto en el pueblo como en la mina. Aun así, es posible que nuestro intendente, que también administra la tienda, pueda venderte otros metales y minerales interesantes en el futuro.\nLa mayor parte de la mano de obra de la mina estaba compuesta por convictos, y había menos esclavos negros. Como puedes imaginar, siempre necesitamos trabajadores—no pasa un solo día sin que uno de esos condenados prisioneros muera.\nEn cuanto a la conducta en la mina: no empieces peleas ni duelos, o podrías salir mal parado. No tenemos prisión, pero sí un tribunal militar. No intentes robar nada ni sacar cinabrio de contrabando de la mina—es peligroso y se castiga sin piedad.\nEso es todo. Si sigues estas sencillas reglas, no tendrás problemas. Puedes moverte libremente por la mina. No dejes de visitar la taberna “Blue Lion” en Fort Oranje—¡el ron jamaicano que sirven allí es excelente! ¡Bienvenido!
+}
+Minentown_mayor_8 {
+¡Gracias!
+}
+Minentown_mayor_9 {
+Te escucho atentamente.
+}
+Minentown_mayor_10 {
+Estaba pensando que podríamos organizar envíos regulares de mano de obra aquí. ¿Con qué frecuencia celebran funerales para esas pobres almas?
+}
+Minentown_mayor_11 {
+¡Al diablo con los suministros! Todo el trabajo se detuvo tras un gran derrumbe, así que lo único que queda por enterrar son los holgazanes. Y aun así, el sacerdote de Fort Orange se negó rotundamente a tener algo que ver con los malditos por la sangre del dragón.
+}
+Minentown_mayor_12 {
+¿Perdón, con quién?
+}
+Minentown_mayor_13 {
+Así llaman a quienes trabajan en las minas de cinabrio. Según algunas leyendas, extraen la propia sangre de un dragón, pero tarde o temprano, ese precio se paga con la vida.
+}
+Minentown_mayor_14 {
+¡Malditas historias inventadas! Sembraron la duda en nuestro sacerdote, haciéndole cuestionar si esto es realmente obra de Dios. Y está bien, trajeron a otro de los suyos, ¡pero las cosas solo empeoraron!
+}
+Minentown_mayor_15 {
+¿Qué pasó?
+}
+Minentown_mayor_16 {
+Prometieron que él levantaría la maldición de sangre de dragón de los convictos, pero al día siguiente de sus rituales hubo un derrumbe. Ahora no lo dejamos acercarse a la mina. Bah...
+}
+Minentown_mayor_17 {
+Me gustaría mucho hablar con él, porque tengo la sensación de que este diario solo me traerá problemas ahora y...
+}
+Minentown_mayor_18 {
+¡Ah, tú también! Ese pobre pretexto de sacerdote está escondido en una casita en las afueras, pasando la mina y el pueblo. Pero hazme caso: te convendría buscar a otra persona.
+}
+Minentown_mayor_19 {
+El que no arriesga, no gana, y preguntar nunca le hizo daño a nadie, @<GetFullName>.
+}
+Minentown_mayor_20_m {
+¡Un robo a plena luz del día! ¿Qué está pasando aquí? Ya verás, amigo...
+}
+Minentown_mayor_20_f {
+¡Un robo a plena luz del día! ¿Qué está pasando aquí? Ya verás, muchacha...
+}
+Minentown_mayor_21_m {
+¡Eh, qué buscas husmeando por aquí? ¿Planeas robarme, acaso? Pues hasta aquí llegaste...
+}
+Minentown_mayor_21_f {
+¡Eh, ¿qué andas buscando por aquí?! ¿Planeas robarme, acaso? Pues hasta aquí llegaste...
+}
+Minentown_mayor_22_m {
+Espera, ¿a dónde crees que vas? Así que al final eres un ladrón. Bueno, parece que hasta aquí llegaste, amigo...
+}
+Minentown_mayor_22_f {
+Espera, ¿a dónde crees que vas? Así que al final eres un ladrón. Bueno, parece que se te acabó la suerte, cariño...
+}
+Minentown_mayor_23 {
+@<LinkRandPhrase>
+}
+Minentown_mayor_24 {
+¡Demonio!
+}
+Minentown_mayor_25 {
+¡Caramba!
+}
+Minentown_mayor_26 {
+¡A-ay, maldición!
+}
+Minentown_mayor_27 {
+@<LinkRandPhrase>
+}
+Minentown_mayor_28 {
+¿Qué pasa? ¿Hablaste con nuestro supuesto sacerdote?
+}
+Minentown_mayor_29 {
+Sí, pero eso no es importante ahora. Tengo algo que decirle.
+}
+Minentown_mayor_30 {
+Le escucho.
+}
+Minentown_mayor_31 {
+Su Señoría, estoy aquí por orden personal del Gobernador General Stevesant. Lamento que no se le haya informado antes.
+}
+Minentown_mayor_32 {
+Su Señoría, estoy aquí... eh... por orden del gobernador, sí. En fin, este equipo... es para, bueno, para despejar. Allí, en la mina... un derrumbe, está... está estorbando. Yo... necesitamos... ¿puedo llevar esto... allí, al almacén?
+}
+Minentown_mayor_33 {
+¡Capitán, no permitiré que traigan cualquier cosa a mi territorio sin la documentación adecuada! Regrese cuando tenga una orden por escrito. ¡Fuera!
+}
+Minentown_mayor_34 {
+Está bien.
+}
+Minentown_mayor_35 {
+Está perdonado, capitán. ¿De qué encargo se trata? Expóngalo.
+}
+Minentown_mayor_36 {
+He recibido la orden de entregar equipo especial de ingeniería necesario para despejar el derrumbe que bloquea los trabajos en la mina. Solicito permiso para llevar la carga al almacén de la mina.
+}
+Minentown_mayor_37 {
+¿Equipo especial, dice? ¿Del propio gobernador?
+}
+Minentown_mayor_38 {
+Exactamente.
+}
+Minentown_mayor_39 {
+Esto no es del todo según las reglas... Sin embargo\nBueno, no puedo obstruir las órdenes de su excelencia. Adelante. Pero si noto algo sospechoso, ¡se arrepentirá!
+}
+Minentown_mayor_40 {
+Eso no es todo... En cuanto a su supuesto sacerdote.
+}
+Minentown_mayor_41 {
+No puedo entregárselo... Incluso si es la orden de Su Excelencia, ya que se encuentra fuera...
+}
+Minentown_mayor_42 {
+No se preocupe tanto – solo lo necesito para que me muestre el lugar del ritual.
+}
+Minentown_mayor_43 {
+No puedo entregárselo... Incluso si es la orden de Su Excelencia, ya que se encuentra fuera...
+}
+Minentown_mayor_44 {
+No se preocupe tanto – solo lo necesito para que me muestre el lugar del ritual. Debe ser eliminado primero, de lo contrario los derrumbes continuarán.
+}
+Minentown_mayor_45 {
+No creo mucho en todas estas maquinaciones mágicas, pero si usted lo dice, que así sea.
+}
+Minentown_mayor_46 {
+Por supuesto, mi gente comenzará a trasladar los barriles en breve.
+}
+Minentown_mayor_47 {
+Capitán, ¿@<GetFullName>? ¡¿Es usted?!
+}
+Minentown_mayor_48 {
+Desearía no serlo...
+}
+Minentown_mayor_49 {
+Pensé que era el único superviviente...
+}
+Minentown_mayor_50 {
+Me alcanzó la explosión al inicio del ataque. Por suerte, solo me golpeé la cabeza contra su fuerte empalizada. Pero ¿cómo sobrevivió usted, Su Señoría?
+}
+Minentown_mayor_51 {
+Eh... Yo también... Tuve suerte\n¡No entiendo qué estaba haciendo la guardia de la ciudad en ese momento?!
+}
+Minentown_mayor_52 {
+Lo que no entiendo del todo es, ¿quién llevó a cabo este ataque? ¿Y por qué?
+}
+Minentown_mayor_53 {
+Oh... Pensábamos que la mina estaba bien protegida por muros naturales y... En realidad lo está en general. Pero nos olvidamos por completo de esos malditos cimarrones...
+}
+Minentown_mayor_54 {
+¿A quién, a quién?
+}
+Minentown_mayor_55 {
+Este no es el mejor momento para lecciones de historia, Capitán.
+}
+Minentown_mayor_56 {
+Cierto.
+}
+Minentown_mayor_57 {
+¿Por qué no?
+}
+Minentown_mayor_58 {
+No soy historiador, pero en resumen – son esclavos fugitivos y criminales. Se mezclan con los nativos y luchan por la libertad de sus hermanos negros de la esclavitud\nEn algún lugar de la isla tienen un gran asentamiento oculto – Maroon Town. Se rumorea que está en la parte inglesa de la isla, por lo que no le prestamos mucha atención. Pero al parecer, fue un error\nNo necesita saber más.
+}
+Minentown_mayor_59 {
+Pensé que esto estaba de alguna manera relacionado con... En fin, no importa.
+}
+Minentown_mayor_60 {
+Sea como sea, ahora... ¿Qué es eso? ¿Ese es nuestro sacerdote?!
+}
+Minentown_mayor_61 {
+Por desgracia, sí... Teaz... Ejem... Estaba conmigo cuando nos atacaron. No tuvo tanta suerte como yo.
+}
+Minentown_mayor_62 {
+Maldición... Stevesant me hará ahorcar. Hmm\nCapitán, ¿necesita un soldado experimentado y comandante de una compañía de abordaje? En mis tiempos logré...
+}
+Minentown_mayor_63 {
+Me temo que tendré que declinar, mijnheer. Sin embargo, puedo acompañarle hasta la ciudad.
+}
+Minentown_mayor_64 {
+Entonces deberíamos ir directamente al gobernador con un informe. Espere\nCreo que oigo a alguien detrás de la empalizada.
+}
+Minentown_mayor_65 {
+Podrían ser enemigos. Prepárese para luchar.
+}

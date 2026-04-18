@@ -1,0 +1,144 @@
+Sailor_1 {
+Greetings, @<GetAddress_Form>. As I understand, you are the captain of your own ship. I have a business proposition for you.
+}
+Sailor_2 {
+I'm listening closely, @<GetAddress_FormToNPC>. What is this about?
+}
+Sailor_3 {
+Sorry, @<GetAddress_FormToNPC>, but I'm in a real hurry.
+}
+Sailor_4 {
+Greetings, captain! What does a humble sailor like me owe the pleasure?
+}
+Sailor_5_m {
+Good day, sir. How may I assist you?
+}
+Sailor_5_f {
+Good day, madam. How may I be of service to you?
+}
+Sailor_6_m {
+Good day to you, sir. Did you need something?
+}
+Sailor_6_f {
+Good day, madam. Did you need something?
+}
+Sailor_7 {
+@<LinkRandPhrase>
+}
+Sailor_8 {
+Glad to meet you, good sir! My name is @<GetFullName>. Do you have a moment to chat?
+}
+Sailor_9 {
+I have a question for you.
+}
+Sailor_10 {
+I need information about what's going on in this colony.
+}
+Sailor_11 {
+@<RandPhraseSimple>
+}
+Sailor_12_m {
+Just thought I’d say hello. Farewell!
+}
+Sailor_12_f {
+Just thought I’d say hello. Farewell!
+}
+Sailor_13_m {
+Is that you again, sir? Did you want something else?
+}
+Sailor_13_f {
+Is that you again, madam? Did you want something else?
+}
+Sailor_14 {
+Got a minute to chat about this and that?
+}
+Sailor_15 {
+I have a question for you.
+}
+Sailor_16 {
+I need information about what's going on in this colony.
+}
+Sailor_17 {
+@<RandPhraseSimple>
+}
+Sailor_18 {
+No, mate, nothing. Good luck!
+}
+Sailor_19_m {
+@<GetFullName> at your service, my good friend! What did you want to know?
+}
+Sailor_19_f {
+@<GetFullName> at your service, my dear! What would you like to know?
+}
+Sailor_20 {
+Glad to chat, captain!
+}
+Sailor_21 {
+Well, I suppose I still have some time...
+}
+Sailor_22 {
+Unfortunately, I have to go. All the best!
+}
+Sailor_23 {
+Care to share something interesting?
+}
+Sailor_24 {
+Care to share something interesting?
+}
+Sailor_25 {
+Care to share something interesting?
+}
+Sailor_26 {
+Yes, of course. Good luck to you!
+}
+Sailor_27 {
+A few friends and I were put ashore after being wounded. Now we've recovered and are looking to sign on as sailors again. Would you care to take us into your crew?
+}
+Sailor_28 {
+A few of us were recently put ashore from a merchant ship—our contract with the owner ran out. We've been stranded here for days, looking to sign on as sailors. Would you happen to need some experienced seamen for your crew?
+}
+Sailor_29 {
+My friends and I returned from a voyage two weeks ago, the owner paid us off, and we've had a grand time these past days. But now the wind whistles through a sailor’s pocket—which means it’s time to head back to sea. Would you hire us for your ship, captain?
+}
+Sailor_30_m {
+Alright then, I'm willing to hear your offer. How many of you are there, and what skills do you have aboard a ship?
+}
+Sailor_30_f {
+Well then, I'm ready to hear your offer. How many people are in your crew, and what skills do you have aboard a ship?
+}
+Sailor_31 {
+Sorry, sailor, but my crew is already full. You’ll have to find yourself another captain.
+}
+Sailor_32 {
+But above all, we know our way around sails and rigging. No false modesty here: we’re old hands at this, so we won’t let you down, not even in the fiercest storm!
+}
+Sailor_33 {
+But what we love most is the gun deck. We handle the cannons like no one else on your crew, I assure you. In the heat of battle, you can count on us without a doubt!
+}
+Sailor_34 {
+But our true element is boarding combat. The flash of sabers, the scent of powder and blood—that’s our calling. Facing us in battle is no easy feat, so if danger arises, our blades will see you through, Captain!
+}
+Sailor_35 {
+There are @<FindPeoplesString> of us, and we’ll only sign on if we all go together. We know everything a sailor should. @<sTemp>
+}
+Sailor_36 {
+Sounds quite tempting. How much of an advance do you want?
+}
+Sailor_37 {
+Sorry, sailor, but I don’t have room for all of you on my ship. You’ll have to find another captain.
+}
+Sailor_38 {
+@<FindMoneyString> per brother. After that, just regular sailor’s pay. We won’t ask for more, cap’n.
+}
+Sailor_39 {
+Deal! Here’s the full amount. Head to my ship, it’s called '@<pchar>', anchored in the roadstead. The boatswain will assign you bunks in the crew quarters and give you work.
+}
+Sailor_40 {
+Unfortunately, I can't afford to pay for your services. You'll have to find another captain.
+}
+Sailor_41 {
+We're on our way, Captain! I'll gather the crew and we'll board right away!
+}
+Sailor_42 {
+Come on, hurry up, I don’t plan to stay here long.
+}

@@ -1,0 +1,2355 @@
+Common_Usurer_1 {
+D’accord, dépêche-toi, @<pchar>. Je vais arranger les choses ici...
+}
+Common_Usurer_2 {
+Je prends la mer!
+}
+Common_Usurer_3 {
+Je ne sais même pas comment te remercier, @<pchar>. Ces bandits me causaient des ennuis depuis longtemps.
+}
+Common_Usurer_4 {
+Ce n’est rien. Vous m’avez déjà rendu un grand service en me débarrassant de cet idole. J’espère qu’il vous portera chance, ha ha!
+}
+Common_Usurer_5 {
+La ville est en état d’alerte — ils te cherchent partout! À ta place, je ne traînerais pas ici.
+}
+Common_Usurer_6 {
+Toute la garde de la ville te cherche partout. Je ne suis pas idiot, je ne veux pas qu’on me voie en train de te parler!
+}
+Common_Usurer_7_m {
+Cours, mon gars, avant que les soldats ne te criblent de balles...
+}
+Common_Usurer_7_f {
+Cours, ma fille, avant que les soldats ne te criblent de balles...
+}
+Common_Usurer_8 {
+@<LinkRandPhrase>
+}
+Common_Usurer_9_m {
+Que veux-tu, vaurien? La garde de la ville est déjà à tes trousses — tu n’iras pas loin, sale pirate!
+}
+Common_Usurer_9_f {
+Qu’est-ce que tu veux, misérable? La garde de la ville est déjà à tes trousses — tu n’iras pas loin!
+}
+Common_Usurer_10_m {
+Sale meurtrier, sors de chez moi! À l’aide, gardes!
+}
+Common_Usurer_10_f {
+Sale meurtrier, sors de chez moi! À l’aide, gardes!
+}
+Common_Usurer_11_m {
+Je n’ai pas peur de toi, vaurien! Bientôt tu pendras dans notre fort—tu n’iras pas bien loin…
+}
+Common_Usurer_11_f {
+Je n’ai pas peur de toi, catin! Bientôt, tu pendras à la potence de notre fort—tu n’iras pas bien loin…
+}
+Common_Usurer_12 {
+@<LinkRandPhrase>
+}
+Common_Usurer_13 {
+Heh, une petite alerte ne me dérange pas...
+}
+Common_Usurer_14 {
+Ils ne m’attraperont jamais.
+}
+Common_Usurer_15 {
+@<RandPhraseSimple>
+}
+Common_Usurer_16 {
+Ferme-la, @<GetWorkTypeOfMan>, ou je t’arrache ta sale langue!
+}
+Common_Usurer_17 {
+Hé, @<GetWorkTypeOfMan>, tu poursuis toujours les pirates, hein! Laisse-moi te dire une chose, l’ami : fais profil bas et tu verras le lendemain...
+}
+Common_Usurer_18 {
+@<RandPhraseSimple>
+}
+Common_Usurer_19 {
+Bonjour, Docteur Blood. Auriez-vous l’amabilité de m’aider avec une certaine affaire? Bien entendu, vous recevrez une généreuse récompense.
+}
+Common_Usurer_20 {
+Je me demande de quel genre d’affaire il s’agit.
+}
+Common_Usurer_21 {
+Hé, Docteur Blood! @<TimeGreeting>.
+}
+Common_Usurer_22 {
+Ravi de te voir, Peter Blood.
+}
+Common_Usurer_23 {
+Content de te voir passer, @<GetFullName>. Comment va le colonel Bishop?
+}
+Common_Usurer_24 {
+@<LinkRandPhrase>
+}
+Common_Usurer_25 {
+Hélas, je pars déjà, @<NPChar>. À bientôt.
+}
+Common_Usurer_26 {
+Je suis venu pour parler affaires.
+}
+Common_Usurer_27 {
+Tu m’as apporté mes 50 000?
+}
+Common_Usurer_28 {
+Pas encore, j’y travaille. Attends.
+}
+Common_Usurer_29_m {
+J’ai bien peur de ne pas pouvoir m’en charger. Considérez cela comme un refus de ma part.
+}
+Common_Usurer_29_f {
+Je crains de ne pas pouvoir m’occuper de cette affaire. Considérez cela comme un refus de ma part.
+}
+Common_Usurer_30_m {
+Oui, j’ai pris tes 50 000 et je suis prêt à te les rendre.
+}
+Common_Usurer_30_f {
+Oui, j’ai pris tes 50 000 et je suis prêt à te les rendre.
+}
+Common_Usurer_31_m {
+Enfin, un capitaine digne de ce nom vient me voir, pas ces habitants sans esprit! Ils s’imaginent que je sème leurs pièces de huit dans la cour de la banque et que je les récolte chaque mois pour leur verser des intérêts. Ils s’inquiètent pour chaque sou, sans jamais soupçonner les ruses auxquelles un pauvre prêteur doit recourir simplement pour ne pas mourir de faim—et leur permettre malgré tout d’acheter une oie pour Noël.
+}
+Common_Usurer_31_f {
+Enfin, une véritable dame m’honore de sa présence, et non ces villageois sans esprit! Ils s’imaginent que je sème leurs pièces de huit dans la cour de la banque et que je les récolte chaque mois juste pour payer leurs intérêts. Ils s’inquiètent pour chaque sou, sans jamais soupçonner les ruses auxquelles un pauvre prêteur doit recourir simplement pour ne pas mourir de faim—et leur permettre malgré tout d’acheter une oie pour Noël.
+}
+Common_Usurer_32 {
+Je doute que vos investisseurs apprécient d’entendre de tels propos de la part de la personne à qui ils confient leur argent.
+}
+Common_Usurer_33_m {
+Eh bien, vieux renard, tu as intérêt à avoir une sacrée bonne explication! J’ai trouvé toute une compagnie de soldats qui m’attendaient dans la cale à la place des esclaves! J’ai eu du mal à m’en débarrasser! Je suis furieux, alors tu ferais mieux de parler—vite!
+}
+Common_Usurer_33_f {
+Eh bien, vieux renard, tu as intérêt à bien t’expliquer maintenant! J’ai trouvé toute une compagnie de soldats qui m’attendait dans la cale à la place des esclaves! J’ai eu toutes les peines du monde à m’en sortir! Je suis furieux, alors tu as intérêt à parler — et vite!
+}
+Common_Usurer_34 {
+Ah, te voilà enfin! La nouvelle de ton audacieuse attaque se répand déjà dans tout l’archipel. Je suis heureux de te voir!
+}
+Common_Usurer_35_m {
+Je préfère l’anonymat à ce genre de renommée… C’est bien trop dangereux.
+}
+Common_Usurer_35_f {
+Je préfère l’anonymat à ce genre de renommée… C’est bien trop dangereux.
+}
+Common_Usurer_36 {
+Avez-vous amené cinq mille esclaves?
+}
+Common_Usurer_37_m {
+Oui, je les ai apportés. Ils sont dans mes cales.
+}
+Common_Usurer_37_f {
+Oui, je les ai apportés. Ils sont dans mes cales.
+}
+Common_Usurer_38 {
+Non, j’y travaille encore.
+}
+Common_Usurer_39 {
+Hm... Tu es encore en vie? Étrange... Eh bien, je doute que ça dure. Soldats! À l’aide! Il y a un bandit ici!
+}
+Common_Usurer_40 {
+Quel vaurien!
+}
+Common_Usurer_41 {
+Bonjour. Je m'appelle @<GetFullName>. Comment puis-je vous aider?
+}
+Common_Usurer_42 {
+Oh! Et qu’est-ce qui vous amène ici, monsieur?
+}
+Common_Usurer_43 {
+Bonjour, tu arrives justement au bon moment! J’ai une mission à te confier.
+}
+Common_Usurer_44 {
+Je vous écoute attentivement. De quoi s'agit-il?
+}
+Common_Usurer_45 {
+Bonjour, @<GetAddress_Form>. Comment puis-je vous aider?
+}
+Common_Usurer_46 {
+Oh, c’est encore vous? Bienvenue, @<GetAddress_Form>. Qu’est-ce qui vous amène cette fois-ci?
+}
+Common_Usurer_47 {
+Hm, vous encore, @<GetAddress_Form>... Eh bien, je suis ravi de vous revoir pour la énième fois aujourd’hui. Que puis-je faire pour vous?
+}
+Common_Usurer_48 {
+Ah, @<GetAddress_Form>, vous n’imaginez pas à quel point certains clients peuvent être tenaces parfois... Que puis-je faire pour vous?
+}
+Common_Usurer_49_m {
+Rien, je passais juste pour jeter un œil et discuter un peu.
+}
+Common_Usurer_49_f {
+Rien, je suis juste passé pour jeter un œil et discuter.
+}
+Common_Usurer_50_m {
+C’est encore moi. Et une fois de plus, j’avais simplement envie de discuter.
+}
+Common_Usurer_50_f {
+C’est encore moi. Et une fois de plus, j’avais simplement envie de parler.
+}
+Common_Usurer_51_m {
+Oui, c’est encore moi. Je passe juste discuter, sans raison particulière.
+}
+Common_Usurer_51_f {
+Oui, c’est encore moi. Je suis juste passé discuter, sans vraie raison cette fois non plus.
+}
+Common_Usurer_52_m {
+Oui, ce n’est pas toujours facile d’être prêteur sur gages… Mais je n’attends rien de toi, je voulais juste discuter…
+}
+Common_Usurer_52_f {
+Oui, les prêteurs d’argent n’ont pas toujours la vie facile... Mais je n’ai rien à te demander, je voulais juste discuter un peu...
+}
+Common_Usurer_53 {
+Je souhaite discuter de nos arrangements financiers.
+}
+Common_Usurer_54 {
+J’ai besoin d’un renseignement… En fait, j’ai une question.
+}
+Common_Usurer_55 {
+Je voudrais voir les bijoux que vous avez à vendre.
+}
+Common_Usurer_56 {
+Des pierres précieuses—c’est ce que je cherche en ce moment.
+}
+Common_Usurer_57 {
+@<RandPhraseSimple>
+}
+Common_Usurer_58 {
+Écoutez, un dépôt aurait dû être fait à mon nom.
+}
+Common_Usurer_59 {
+Je dois retirer le dépôt d’un million de piastres que vous gardez pour moi.
+}
+Common_Usurer_60 {
+Je suis ici de la part de quelqu’un. Il s’appelle le gouverneur @<GetFullName>.
+}
+Common_Usurer_61_m {
+@<GetFullName> m’a envoyé vers vous. Je viens récupérer quelque chose...
+}
+Common_Usurer_61_f {
+@<GetFullName> m’a envoyé vers vous. Je viens récupérer quelque chose...
+}
+Common_Usurer_62 {
+@<RandPhraseSimple>
+}
+Common_Usurer_63 {
+On dit que vous avez engagé John Avery.
+}
+Common_Usurer_64 {
+Dites-moi, auriez-vous engagé John Avery par hasard?
+}
+Common_Usurer_65 {
+Il paraît que vous avez eu des ennuis avec John Avery...
+}
+Common_Usurer_66 {
+Dites-moi, avez-vous déjà engagé John Avery pour faire des courses pour vous?
+}
+Common_Usurer_67 {
+Je cherche John Avery. Est-il venu te voir?
+}
+Common_Usurer_68_m {
+J’ai entendu dire que vous avez eu des ennuis — peut-être auriez-vous besoin d’un coup de main?
+}
+Common_Usurer_68_f {
+J'ai entendu dire que vous avez eu des ennuis — peut-être auriez-vous besoin d'un peu d'aide?
+}
+Common_Usurer_69_m {
+J’ai trouvé votre @<npchar>. Les voici.
+}
+Common_Usurer_69_f {
+J'ai trouvé votre @<npchar>. Le voici.
+}
+Common_Usurer_70_m {
+Bonjour, je viens à l’invitation de votre fils.
+}
+Common_Usurer_70_f {
+Bonjour, je viens à l’invitation de votre fils.
+}
+Common_Usurer_71 {
+Je m'intéresse à la personne qui possède ces documents.
+}
+Common_Usurer_72 {
+Je souhaite discuter de la dette contractée par votre client, @<pchar>. Il a donné en gage un héritage familial en garantie.\nJe représente ses intérêts et suis autorisé à négocier la restitution de l’objet mis en gage.
+}
+Common_Usurer_73 {
+Il y a trois mois, nous nous sommes rencontrés au sujet de la relique d’un certain noble nommé @<pchar>. Vous vous souvenez, n’est-ce pas? Il devait ouvrir un dépôt à mon nom, pour la somme de @<FindMoneyString>...
+}
+Common_Usurer_74 {
+Je viens au sujet de votre commande de livraison d’esclaves.
+}
+Common_Usurer_75 {
+Bonjour, @<NPChar>, je viens au sujet de votre demande.
+}
+Common_Usurer_76 {
+Bonjour, @<NPChar>, je viens au sujet de votre demande.
+}
+Common_Usurer_77 {
+Bonjour, @<NPChar>, je viens au sujet de votre demande.
+}
+Common_Usurer_78_m {
+Je suis là, comme convenu. Alors, à propos de ce travail?
+}
+Common_Usurer_78_f {
+Je suis là, comme convenu. Alors, ce travail?
+}
+Common_Usurer_79_m {
+Comme convenu, je suis là. Alors, ce travail?
+}
+Common_Usurer_79_f {
+Comme convenu, je suis là. Alors, qu’en est-il de ce travail?
+}
+Common_Usurer_80 {
+Bonjour, @<npchar>. Comment allez-vous? Des nouvelles tâches?
+}
+Common_Usurer_81 {
+Votre tâche est accomplie. J’ai réussi à retrouver les esclaves en fuite, même si cela n’a pas été facile.
+}
+Common_Usurer_82_m {
+Bonjour, @<npchar>. Je suis venu, comme convenu, pour une nouvelle affaire lucrative.
+}
+Common_Usurer_82_f {
+Bonjour, @<npchar>. Je suis venu, comme convenu, pour une nouvelle affaire lucrative.
+}
+Common_Usurer_83 {
+J’ai une mauvaise nouvelle, @<npchar>. Je n’ai pas réussi à capturer la brigantine.
+}
+Common_Usurer_84_m {
+Écoute, @<npchar>. J’ai rattrapé la brigantine, mais je n’ai trouvé aucun document. Tu es sûr qu’ils étaient là?
+}
+Common_Usurer_84_f {
+Écoute, @<npchar>. J’ai rattrapé la brigantine, mais je n’ai trouvé aucun document. Tu es sûr qu’ils étaient là?
+}
+Common_Usurer_85 {
+J’ai une bonne nouvelle, @<npchar>. J’ai réussi à rattraper la brigantine et à récupérer les documents. Les voici.
+}
+Common_Usurer_86 {
+Bonjour, @<npchar>. Alors, as-tu déjà une nouvelle mission pour moi?
+}
+Common_Usurer_87 {
+@<npchar>, j’ai réussi à intercepter votre soi-disant « galion ».
+}
+Common_Usurer_88_m {
+@<npchar>, je suis vraiment désolé, mais je n’ai pas pu capturer ce galion.
+}
+Common_Usurer_88_f {
+@<npchar>, je suis vraiment désolé, mais je n’ai pas pu capturer ce galion.
+}
+Common_Usurer_89_m {
+Bonjour, @<npchar>. Je suis venu pour récupérer mon argent.
+}
+Common_Usurer_89_f {
+Bonjour, @<npchar>. Je suis venu pour mon argent.
+}
+Common_Usurer_90 {
+@<npchar>, ta mission est accomplie. Le vaurien Gontier est mort, ainsi que tout son équipage.
+}
+Common_Usurer_91_m {
+@<npchar>, je suis vraiment désolé. J’ai perdu François Gontier, même après l’avoir suivi jusqu’à Tortuga. Mais là-bas, il a réussi à s’échapper sur sa corvette juste sous mon nez.
+}
+Common_Usurer_91_f {
+@<npchar>, je suis vraiment désolé. J’ai perdu François Gontier, même après l’avoir suivi jusqu’à Tortuga. Mais là-bas, il a réussi à s’échapper sur sa corvette juste sous mon nez.
+}
+Common_Usurer_92 {
+Bonjour, @<npchar>. Alors, dis-moi, quelle affaire brûlante as-tu à me proposer?
+}
+Common_Usurer_93_m {
+Je suis prêt à vous acheter une page de l'Encyclopédie.
+}
+Common_Usurer_93_f {
+Je suis prêt à vous acheter une page de l'Encyclopédie.
+}
+Common_Usurer_94_m {
+En tant que capitaine honnête, je vous ai aidé plus d’une fois. Pourriez-vous me rendre un petit service en retour?
+}
+Common_Usurer_94_f {
+En tant que capitaine honnête, je vous ai rendu service plus d'une fois. Pourriez-vous me rendre la pareille avec une petite demande?
+}
+Common_Usurer_95 {
+Avez-vous trouvé des pages de l’Encyclopédie depuis notre dernière rencontre?
+}
+Common_Usurer_96 {
+Il faudrait beaucoup de temps pour examiner tous ces documents en détail, et mon temps n’est pas gratuit.
+}
+Common_Usurer_97 {
+Peut-être que @<FindMoneyString> compensera vos efforts?
+}
+Common_Usurer_98 {
+Comme vous voulez. Adieu!
+}
+Common_Usurer_99 {
+Laissez-moi voir! Non, je n’ai jamais vu ce nom auparavant. Présentez vos papiers à l’autorité portuaire.
+}
+Common_Usurer_100 {
+Excusez-moi, mais nous avions convenu que vous me parleriez de ce capitaine!
+}
+Common_Usurer_101 {
+Eh bien... Je connais le propriétaire de ce navire. Il n’est peut-être pas le plus riche, mais il a assurément les moyens.
+}
+Common_Usurer_102 {
+On dit qu’il fait de la contrebande depuis un bon moment déjà, et qu’il s’en sort très bien. Ce n’est pas ce que tu voulais entendre?
+}
+Common_Usurer_103 {
+À vous écouter, on pourrait en conclure...
+}
+Common_Usurer_104 {
+Hmm... Je ne sais pas si tu as eu de la chance avec cette trouvaille.
+}
+Common_Usurer_105 {
+Les papiers sont enregistrés au nom de notre navire de patrouille coloniale, et son capitaine est réputé pour son intégrité et sa rigueur morale.
+}
+Common_Usurer_106 {
+Un patrouilleur? Sous l’autorité du commandant?
+}
+Common_Usurer_107 {
+Nous avions convenu que je jetterais un œil à ces documents, rien de plus. Je ne vous retiens pas davantage.
+}
+Common_Usurer_108 {
+Merci pour ça, au moins...
+}
+Common_Usurer_109 {
+C’est à vous de tirer vos propres conclusions. Notre commandant « surveille » quelqu’un depuis un bon moment—saurez-vous deviner qui? Et ici, nous avons quelques connaissements non tamponnés par la douane...
+}
+Common_Usurer_110 {
+Je m’en doutais. Merci, mon brave!
+}
+Common_Usurer_111 {
+Exactement. D’ailleurs, les contrebandiers du coin en veulent beaucoup à ce capitaine.
+}
+Common_Usurer_112 {
+Comme je l’ai déjà dit, le propriétaire de ces documents est très strict et n’a aucune tolérance envers les contrevenants.
+}
+Common_Usurer_113 {
+Je m’en doutais. Merci, mon brave!
+}
+Common_Usurer_114_m {
+Ah, c’est donc vous le capitaine qui a ramené mon fils égaré avec sa jeune épouse?
+}
+Common_Usurer_114_f {
+Ah, c’est donc vous la jeune femme qui a ramené mon fils égaré avec sa nouvelle épouse?
+}
+Common_Usurer_115_m {
+Oui, c’est moi qui les ai aidés à s’échapper.
+}
+Common_Usurer_115_f {
+Oui, c’est moi qui les ai aidés à s’échapper.
+}
+Common_Usurer_116_m {
+Ah, te voilà, bienfaiteur. Tu espères une récompense, n’est-ce pas?
+}
+Common_Usurer_116_f {
+Ah, te voilà, ma bienfaitrice. Tu attends ta récompense, n’est-ce pas?
+}
+Common_Usurer_117 {
+Eh bien, ce n’est peut-être pas une récompense, mais un mot de remerciement ne ferait pas de mal.
+}
+Common_Usurer_118 {
+Je vous suis profondément reconnaissant de ne pas avoir laissé mon enfant dans une situation difficile et de l’avoir aidé à s’en sortir avec honneur. Permettez-moi de vous remercier du mieux que je peux. Acceptez cette modeste somme ainsi qu’un cadeau personnel de ma part.
+}
+Common_Usurer_119 {
+Merci, j’ai été heureux d’aider ces jeunes gens.
+}
+Common_Usurer_120 {
+De la gratitude? Quelle gratitude? Pour quoi, exactement? Non seulement ce bon à rien traîne sans travail depuis six mois, mais en plus il trouve le temps de jouer les charmeurs! À son âge, j’avais déjà monté ma propre affaire. Mais regarde-le, tout excité! Le gouverneur a une fille à marier, et lui, il ramène à la maison une inconnue — que Dieu me pardonne — et maintenant il demande la bénédiction de ses parents!
+}
+Common_Usurer_121 {
+Hmm, alors tu ne crois pas aux sentiments sincères?
+}
+Common_Usurer_122 {
+Quels sentiments?! De quoi parles-tu, des sentiments? Tu es adulte, non, et pourtant… des sentiments! Tu devrais avoir honte, d’encourager les jeunes à ce genre de choses et de jouer les entremetteuses. Tu as arraché la fille à sa famille et gâché la vie de mon fils. N’attends aucune gratitude de ma part. Adieu.
+}
+Common_Usurer_123 {
+Eh bien, prends soin de toi...
+}
+Common_Usurer_124 {
+Je l’ai bien engagé, et il a accompli ma tâche à merveille. Mais, hé hé, on raconte qu’il s’est tellement saoulé à la taverne qu’il a pris l’ivrogne du coin pour mon débiteur.
+}
+Common_Usurer_125 {
+A-t-il dit où il allait? Peut-être qu’un autre prêteur a besoin de son aide?
+}
+Common_Usurer_126 {
+Ça, je ne sais pas, les problèmes des autres ne me regardent pas.
+}
+Common_Usurer_127 {
+C’est clair, ils ne sont pas impliqués. Mais peut-être que quelque chose a été mentionné en passant..?
+}
+Common_Usurer_128 {
+Il comptait mettre le cap au nord, vers le Main, chez les Espagnols, je crois. Mais où exactement—je ne saurais le dire... Quoique, attendez, il a bien parlé de @<XI_ConvertString>. Mais vous savez comment c’est—je ne peux pas garantir que ce soit fiable.
+}
+Common_Usurer_129_m {
+Compris. Merci.
+}
+Common_Usurer_129_f {
+Compris. Merci.
+}
+Common_Usurer_130 {
+Euh, pas vraiment des problèmes...
+}
+Common_Usurer_131 {
+Hmm, alors c’est vous qui l’avez engagé?
+}
+Common_Usurer_132 {
+Je l’ai engagé. Il a fait le travail, remboursé la dette en totalité. Mais ensuite, il s’est mis à parler à la taverne, prétendant avoir soutiré au débiteur une somme bien supérieure à ce qui était dû, et m’avoir dupé en gardant le silence là-dessus.\nPour ma part, je ne vois pas où est la supercherie, ni pourquoi cette histoire fait tant rire tout le monde! Évidemment, ça pique un peu—si j’avais su que le débiteur avait autant d’argent...\nAu final, j’ai été soulagé quand John Avery a quitté notre ville. Et maintenant, je ne veux plus rien avoir à faire avec lui!
+}
+Common_Usurer_133 {
+Je vois. Et bien sûr, vous n’avez aucune idée de l’endroit où il allait…
+}
+Common_Usurer_134 {
+Je parie que ce vaurien s’est enfui chez les Français. J’ai surpris un bout de sa conversation au bordel. J’y étais pour affaires, je précise, pas pour les raisons habituelles qui poussent les gens dans ce genre d’endroits...
+}
+Common_Usurer_135 {
+Monsieur, peu importe ce que vous faisiez là-bas. Merci pour les informations concernant Avery.
+}
+Common_Usurer_136 {
+John accepte mes commandes de temps en temps — il vient d’en terminer une autre il n’y a pas longtemps...
+}
+Common_Usurer_137 {
+Et où pourrait-il être maintenant?
+}
+Common_Usurer_138 {
+Dieu seul le sait. Vous voyez, John est très compétent pour ce travail, mais il a un tempérament explosif. L’autre jour à la taverne—que Dieu lui pardonne ses péchés—il a poignardé un homme. C’est pour ça que je ne pose pas trop de questions à John...
+}
+Common_Usurer_139 {
+Je vois... Mais peut-être avez-vous une idée d’où il aurait pu aller?
+}
+Common_Usurer_140 {
+Si vous voulez mon avis, je pense qu’il est parti à @<XI_ConvertString>.
+}
+Common_Usurer_141 {
+Hmm... Puis-je connaître les raisons qui vous amènent à cette conclusion?
+}
+Common_Usurer_142 {
+Bien sûr. Voyez-vous, il se trouve qu’un prêteur sur gages à @<XI_ConvertString> a été récemment cambriolé.
+}
+Common_Usurer_143_m {
+Ah, je comprends ce que vous voulez dire! Merci beaucoup.
+}
+Common_Usurer_143_f {
+Ah, je comprends ce que vous voulez dire! Merci beaucoup.
+}
+Common_Usurer_144_m {
+Non, non, merci. Je n’ai plus besoin d’aide, j’ai justement engagé John Avery hier — c’est le meilleur dans ce domaine! Oh, ne le prenez pas mal, vous êtes aussi parmi les meilleurs, c’est juste qu’Avery est venu me voir avant vous… Euh, pardon, comment avez-vous dit que vous vous appeliez?
+}
+Common_Usurer_144_f {
+Non, non, merci. Je n’ai plus besoin d’aide, j’ai justement engagé John Avery hier — c’est le meilleur dans le métier! Oh, ne le prenez pas mal, vous êtes aussi parmi les meilleurs, c’est juste qu’Avery est venu me voir avant vous… Euh, pardon, comment avez-vous dit que vous vous appeliez?
+}
+Common_Usurer_145 {
+Oui, oui, j’ai entendu parler de vous… Je crois… Où en étais-je? Ah oui, imaginez un peu : ce brute fait irruption, me colle un couteau sous la gorge et commence à me dépouiller! Moi! Un homme respectable, en plein jour…
+}
+Common_Usurer_146 {
+Désolé de vous interrompre, mais de qui parlez-vous exactement en ce moment?
+}
+Common_Usurer_147 {
+...tout cet argent envolé. À qui crois-tu que je parle?! Au voleur, évidemment! Oh, mon argent! Enfin, peu importe, John Avery va lui montrer! Avery, c’est la force! La puissance!... Il a eu l’audace de se vanter, disant que je n’ai pas assez d’influence pour l’atteindre à Bermuda...
+}
+Common_Usurer_148 {
+Qui? Avery?!
+}
+Common_Usurer_149 {
+Oui, mais quel rapport avec Avery? C’est un voleur, évidemment! Écoute, pourquoi tu continues à m’interrompre?!
+}
+Common_Usurer_150 {
+Désolé. Et si je vous apportais du butin? Cela vous dérangerait-il vraiment?
+}
+Common_Usurer_151 {
+Euh... Eh bien... Je veux dire, peu m'importe qui rembourse l'argent, mais tu devras t'arranger avec Avery toi-même. Tes affaires avec lui ne me concernent pas.
+}
+Common_Usurer_152 {
+Pas de problème. Mes affaires avec John ne te concernent pas. Alors, de quel montant parlons-nous?
+}
+Common_Usurer_153 {
+Cinquante mille! Si tu m’apportes tout cela, ta récompense sera de cinq mille.
+}
+Common_Usurer_154 {
+Quel était le nom du voleur?
+}
+Common_Usurer_155 {
+Vous croyez qu’il s’est présenté à moi?! Avez-vous déjà vu des voleurs aussi polis? Pour information, John ne posait jamais ce genre de questions.
+}
+Common_Usurer_156 {
+D’accord. Marché conclu! Attends-moi, j’arrive bientôt!
+}
+Common_Usurer_157 {
+C’est mauvais, je suis très déçu(e) de toi. J’ai l’impression que tu ne me dis pas tout… Mais peu importe.
+}
+Common_Usurer_158 {
+Exactement! Tout va bien, l’ami.
+}
+Common_Usurer_159 {
+Bon sang, je suis content! Dis-moi, qu’est-il arrivé à ce vaurien qui m’a volé?
+}
+Common_Usurer_160 {
+Il a eu ce qu’il méritait, il ne t’ennuiera plus…
+}
+Common_Usurer_161 {
+Splendide, très bien, je suis prêt à compter mon argent. Commençons...
+}
+Common_Usurer_162 {
+Voilà.
+}
+Common_Usurer_163 {
+Excellent! Tout est parfait! Voici vos cinq mille, comme convenu.
+}
+Common_Usurer_164 {
+Merci...
+}
+Common_Usurer_165_m {
+Je suis toujours ravi de te voir ici. Et laisse-moi te dire que je vanterai ta fiabilité et ton honnêteté. Ce vaurien d’Avery ne t’arrive pas à la cheville—tu es de loin le meilleur...
+}
+Common_Usurer_165_f {
+Je suis toujours ravi de te voir ici. Et laisse-moi te dire que je vanterai ta fiabilité et ton honnêteté. Ce vaurien d’Avery ne t’arrive pas à la cheville—tu es de loin le meilleur...
+}
+Common_Usurer_166 {
+Tu me fais rougir... Eh bien, adieu.
+}
+Common_Usurer_167 {
+Discutons-en. Je vous écoute attentivement.
+}
+Common_Usurer_168 {
+Avez-vous des affaires qui nécessitent une aide extérieure?
+}
+Common_Usurer_169 {
+Je viens pour l’affaire du débiteur.
+}
+Common_Usurer_170 {
+Je viens au sujet de la livraison du prêt.
+}
+Common_Usurer_171_m {
+J’ai apporté votre crédit.
+}
+Common_Usurer_171_f {
+J’ai apporté votre crédit.
+}
+Common_Usurer_172_m {
+Je suis prêt à rembourser la dette.
+}
+Common_Usurer_172_f {
+Je suis prêt à rembourser ma dette.
+}
+Common_Usurer_173 {
+En ce moment, je suis en mesure de vous rembourser ma dette.
+}
+Common_Usurer_174 {
+Le moment est enfin venu de régler nos comptes.
+}
+Common_Usurer_175_m {
+Je te dois @<FindMoneyString>. @<LinkRandPhrase>
+}
+Common_Usurer_175_f {
+Je te dois @<FindMoneyString>. @<LinkRandPhrase>
+}
+Common_Usurer_176 {
+Je voudrais emprunter de l'argent.
+}
+Common_Usurer_177 {
+Je me suis soudain retrouvé à avoir un besoin pressant de quelques piastres.
+}
+Common_Usurer_178 {
+Et si tu me donnais un peu de reconnaissance?
+}
+Common_Usurer_179 {
+@<LinkRandPhrase>
+}
+Common_Usurer_180_m {
+Je voudrais prêter de l'argent avec intérêt.
+}
+Common_Usurer_180_f {
+Je voudrais prêter de l'argent avec intérêt.
+}
+Common_Usurer_181 {
+Accepterez-vous de garder le butin des pirates en sécurité?
+}
+Common_Usurer_182 {
+Puis-je mettre un peu d’or de côté pour les mauvais jours?
+}
+Common_Usurer_183 {
+@<LinkRandPhrase>
+}
+Common_Usurer_184 {
+Je souhaite retirer mon dépôt.
+}
+Common_Usurer_185 {
+Il est temps de récupérer l’argent que tu gardais pour moi.
+}
+Common_Usurer_186 {
+J'ai besoin de mon or et des intérêts accumulés.
+}
+Common_Usurer_187 {
+@<LinkRandPhrase>
+}
+Common_Usurer_188_m {
+Je me souviens t’avoir emprunté de l’argent, mais je ne suis pas encore prêt à te rembourser…
+}
+Common_Usurer_188_f {
+Je me souviens t’avoir emprunté de l’argent, mais je ne suis pas encore prêt à te rembourser…
+}
+Common_Usurer_189_m {
+Je sais que je te dois de l’argent, mais je n’en ai pas pour l’instant. Je te rembourserai plus tard…
+}
+Common_Usurer_189_f {
+Je sais que je te dois de l’argent, mais je n’en ai pas pour l’instant. Je te rembourserai plus tard…
+}
+Common_Usurer_190_m {
+Je me souviens que je vous dois de l'argent, mais pour l’instant je n’ai pas assez de fonds pour rembourser le prêt. Je m’en occuperai plus tard.
+}
+Common_Usurer_190_f {
+Je me souviens que je vous dois de l’argent, mais pour l’instant je n’ai pas assez de fonds pour rembourser le prêt. Je le ferai plus tard.
+}
+Common_Usurer_191 {
+@<LinkRandPhrase>
+}
+Common_Usurer_192_m {
+Je me suis trompé, je n'ai aucune affaire financière avec vous. Adieu.
+}
+Common_Usurer_192_f {
+Je me suis trompé, je n'ai aucune affaire financière avec vous. Adieu.
+}
+Common_Usurer_193 {
+de terribles rumeurs circulent
+}
+Common_Usurer_194 {
+ils n’en disent pas beaucoup de bien
+}
+Common_Usurer_195 {
+@<RandSwear> Vous êtes bien @<GetFullName>, n'est-ce pas? J'ai @<RandPhraseSimple> à votre sujet, et je ne veux rien avoir à faire avec vous.
+}
+Common_Usurer_196 {
+Ah... Dès qu’une personne fait une erreur, tout le monde est prêt à lui cracher dessus.
+}
+Common_Usurer_197 {
+@<RandSwear> Très bien, fais comme tu veux!
+}
+Common_Usurer_198 {
+@<RandPhraseSimple>
+}
+Common_Usurer_199 {
+Non, heureusement, je vais bien.
+}
+Common_Usurer_200 {
+Désolé, je dois y aller.
+}
+Common_Usurer_201 {
+Non, heureusement, je vais bien.
+}
+Common_Usurer_202 {
+, celui sur @<XI_ConvertString>
+}
+Common_Usurer_203 {
+Oui, vous tombez à point nommé. J’ai une affaire délicate à régler. @<GetFullName>, qui habite à @<XI_ConvertString>@<sTemp>, me doit @<FindMoneyString>. Si vous m’apportez la somme complète, vous pourrez garder les intérêts. Cela fait @<FindMoneyString>, au passage.
+}
+Common_Usurer_204 {
+Je m’en occupe!
+}
+Common_Usurer_205 {
+, celui sur @<XI_ConvertString>
+}
+Common_Usurer_206 {
+J’ai besoin d’une personne de confiance pour une mission importante. Vous devrez livrer un crédit—@<pchar> coffre d’or—à @<XI_ConvertString>@<sTemp> pour un homme nommé @<GetFullName>. C’est un @<GetWorkTypeOfMan> local. Pour ce travail, vous recevrez @<FindMoneyString>. Cela doit être fait dans un délai de @<FindDaysString>.
+}
+Common_Usurer_207_m {
+Je suis prêt!
+}
+Common_Usurer_207_f {
+Je suis prêt!
+}
+Common_Usurer_208 {
+Je vous ai déjà tout dit.
+}
+Common_Usurer_209 {
+Désolé, je dois y aller.
+}
+Common_Usurer_210 {
+Parfait. Je t’attendrai dès que possible.
+}
+Common_Usurer_211 {
+Je ne te laisserai pas tomber!
+}
+Common_Usurer_212 {
+, celui sur @<XI_ConvertString>
+}
+Common_Usurer_213 {
+Je vous écoute.
+}
+Common_Usurer_214 {
+Votre tâche est terminée!
+}
+Common_Usurer_215 {
+J’ai réussi à retrouver le débiteur, mais je n’ai pas pu récupérer d’argent.
+}
+Common_Usurer_216 {
+J’ai réussi à retrouver le débiteur, mais je n’ai pas pu récupérer d’argent.
+}
+Common_Usurer_217_m {
+J’ai décidé d’annuler votre contrat pour retrouver le débiteur — ce travail n’est pas pour moi.
+}
+Common_Usurer_217_f {
+J’ai décidé d’annuler votre contrat pour retrouver le débiteur — ce travail n’est pas pour moi.
+}
+Common_Usurer_218 {
+C'est splendide!
+}
+Common_Usurer_219 {
+S’il vous plaît!
+}
+Common_Usurer_220 {
+Formidable! Mais où est mon argent? Le temps presse.
+}
+Common_Usurer_221 {
+Bientôt disponible!
+}
+Common_Usurer_222 {
+Très, très mauvais! Tu n’es pas à la hauteur pour faire ton travail!
+}
+Common_Usurer_223 {
+Cet homme n’avait vraiment rien, mais tu as raison — c’est mon travail.
+}
+Common_Usurer_224 {
+Je parie que tu essaies de me tromper! Je sais très bien que tu lui as parlé. Rends-moi mon argent!
+}
+Common_Usurer_225 {
+Oui, tu as raison, voici l'argent.
+}
+Common_Usurer_226 {
+Mais il a refusé de payer!
+}
+Common_Usurer_227 {
+C’est dommage, je comptais déjà sur toi.
+}
+Common_Usurer_228 {
+Oui, tu as raison, mais c’est la vie.
+}
+Common_Usurer_229 {
+Tu as déjà prouvé que tu étais enclin à mentir. Rends-moi mon argent!
+}
+Common_Usurer_230 {
+Je t’ai déjà dit — je n’ai pas d’argent!
+}
+Common_Usurer_231 {
+Oui, tu as raison, voici l’argent.
+}
+Common_Usurer_232 {
+Hmm, tu es sûr?
+}
+Common_Usurer_233 {
+Bien sûr!
+}
+Common_Usurer_234 {
+Ah oui? Et tu crois que je vais laisser passer ça? Tu vas avoir de vrais ennuis, et ça te coûtera bien plus que cet argent, je te le garantis. Maintenant, dehors!
+}
+Common_Usurer_235 {
+Tu ne me feras pas peur. Adieu!
+}
+Common_Usurer_236 {
+Je compte sur toi.
+}
+Common_Usurer_237 {
+Je ne te laisserai pas tomber!
+}
+Common_Usurer_238 {
+, celui du @<XI_ConvertString>
+}
+Common_Usurer_239 {
+Je t'écoute.
+}
+Common_Usurer_240_m {
+J’ai décidé d’annuler votre commande de livraison à crédit — ce n’est pas pour moi.
+}
+Common_Usurer_240_f {
+J’ai décidé d’annuler votre commande de livraison à crédit — ce n’est pas pour moi.
+}
+Common_Usurer_241 {
+Non. Rien.
+}
+Common_Usurer_242 {
+C’est dommage, je comptais déjà sur toi.
+}
+Common_Usurer_243 {
+Oui, tu as raison, mais c’est la vie.
+}
+Common_Usurer_244 {
+Je pourrais accepter d’annuler ta mission si tu me rends tous les coffres.
+}
+Common_Usurer_245 {
+Je passerai plus tard.
+}
+Common_Usurer_246 {
+Non, je ne peux pas vous aider pour cela. Dans cette région agitée, tout ce que je peux vous proposer, c'est de garder votre argent en sécurité.
+}
+Common_Usurer_247 {
+Très bien, mettons-nous d’accord sur une somme.
+}
+Common_Usurer_248 {
+Ça ne m'intéresse pas.
+}
+Common_Usurer_249 {
+de terribles rumeurs circulent
+}
+Common_Usurer_250 {
+ils parlent mal
+}
+Common_Usurer_251 {
+@<RandSwear> C’est bien vous, @<GetFullName>, n’est-ce pas? J’ai @<RandPhraseSimple> à votre sujet, et je ne veux rien avoir à faire avec vous.
+}
+Common_Usurer_252 {
+Ah... il suffit qu’une personne trébuche une fois pour que tout le monde soit prêt à lui cracher dessus.
+}
+Common_Usurer_253 {
+@<RandSwear> Très bien, fais comme tu veux!
+}
+Common_Usurer_254 {
+@<RandPhraseSimple>
+}
+Common_Usurer_255 {
+Oh, toujours prêt à aider. De combien as-tu besoin?
+}
+Common_Usurer_256 {
+Plutôt petit.
+}
+Common_Usurer_257 {
+Plutôt conséquent.
+}
+Common_Usurer_258 {
+Plus il y en a, mieux c’est.
+}
+Common_Usurer_259 {
+Excellent. Les petites sommes sont toujours plus simples — moins de risques. Je peux vous proposer @<FindMoneyString>...
+}
+Common_Usurer_260 {
+Marché conclu. Quel est le taux d’intérêt?
+}
+Common_Usurer_261 {
+Hélas, cette somme ne suffira pas. Changeons-la.
+}
+Common_Usurer_262 {
+Je pense qu'il vaut mieux que je n'aie pas de dettes. Au revoir.
+}
+Common_Usurer_263 {
+Pas de problème. J’espère que @<FindMoneyString> vous aidera à régler vos soucis. C’est une somme assez importante.
+}
+Common_Usurer_264 {
+Marché conclu. Quel est le taux d’intérêt?
+}
+Common_Usurer_265 {
+Hélas, cette somme ne suffira pas. Changeons-la.
+}
+Common_Usurer_266 {
+Je pense qu’il vaut mieux que je n’aie pas de dettes. Au revoir.
+}
+Common_Usurer_267 {
+Hmm... Affaire risquée... Mais d’accord, je suis prêt à vous accorder un prêt de @<FindMoneyString>. Comme vous le comprenez, capitaine, c’est une somme considérable. Je vous conseille de traiter cette affaire avec le plus grand sérieux.
+}
+Common_Usurer_268 {
+Marché conclu. Quel est le taux d’intérêt?
+}
+Common_Usurer_269 {
+Hélas, cette somme ne suffira pas. Changeons-la, d’accord?
+}
+Common_Usurer_270 {
+Je crois qu’il vaut mieux que je n’aie pas de dettes. Au revoir.
+}
+Common_Usurer_271 {
+@<Pchar>%% par mois. D'après ce que je sais de vous, je ne peux pas vous proposer de meilleures conditions pour l'instant.
+}
+Common_Usurer_272 {
+Ça me convient parfaitement. Il ne reste plus qu'à fixer la date.
+}
+Common_Usurer_273 {
+Je pense qu'il vaut mieux que je n'aie pas de dettes. Au revoir.
+}
+Common_Usurer_274 {
+Vu ce que j’ai entendu dire sur vous, @<Pchar>, j’attends que ce prêt soit remboursé d’ici @<FindMonthString>. Après cela, comme vous le comprenez, je serai obligé d’agir.
+}
+Common_Usurer_275 {
+Eh bien, j’accepte volontiers vos conditions… et votre argent.
+}
+Common_Usurer_276 {
+Hélas, nous n’avons pas pu trouver d’accord. Adieu.
+}
+Common_Usurer_277 {
+Je suis vraiment ravi de l’entendre. Mais permettez-moi de vous avertir. Je fais ce métier depuis longtemps et je sais comment récupérer mon investissement. Alors si vous aviez l’intention de garder mon argent pour vous, mieux vaut y renoncer.\nAucune offense — c’est juste un conseil.
+}
+Common_Usurer_278 {
+Hmm... Eh bien, eh bien. Tout le meilleur.
+}
+Common_Usurer_279 {
+Eh bien, voyez-vous... Les intérêts s’accumulent. Et il ne vous reste plus beaucoup de temps.
+}
+Common_Usurer_280 {
+Ne t’en fais pas. À bientôt.
+}
+Common_Usurer_281 {
+Oh, c’est tout simplement merveilleux! Si jamais tu as besoin d’argent, je suis à ta disposition.
+}
+Common_Usurer_282 {
+Merci. C’est un plaisir de faire affaire avec quelqu’un qui sait régler ses dettes à temps. Vous savez, ce n’est pas le cas de tout le monde…
+}
+Common_Usurer_283 {
+Oh, je savais que je pouvais compter sur vous, @<GetAddress_Form>! J’espère que ce ne sera pas la dernière fois que vous ferez appel à mes services!
+}
+Common_Usurer_284 {
+@<LinkRandPhrase>
+}
+Common_Usurer_285 {
+Je voudrais emprunter de l’argent.
+}
+Common_Usurer_286 {
+Je me suis soudain retrouvé dans le besoin pressant de quelques piastres.
+}
+Common_Usurer_287 {
+Et si j’avais un peu de reconnaissance?
+}
+Common_Usurer_288 {
+@<LinkRandPhrase>
+}
+Common_Usurer_289_m {
+Je voudrais prêter de l'argent avec intérêt.
+}
+Common_Usurer_289_f {
+Je souhaite prêter de l'argent avec intérêt.
+}
+Common_Usurer_290 {
+Accepterez-vous de garder le butin des pirates en sécurité?
+}
+Common_Usurer_291 {
+Je peux mettre un peu d’or de côté pour les mauvais jours?
+}
+Common_Usurer_292 {
+@<LinkRandPhrase>
+}
+Common_Usurer_293 {
+Au revoir, @<NPchar>.
+}
+Common_Usurer_294 {
+Voilà quelqu’un de raisonnable! Alors, combien d’argent es-tu prêt à prêter avec intérêt?
+}
+Common_Usurer_295 {
+Très bien. Fais-moi confiance, la somme que tu me confies sera gardée en sécurité, et même avec des intérêts... Au fait, c’est combien exactement?
+}
+Common_Usurer_296 {
+Je vois que vous savez comment les choses fonctionnent dans cette vie. Combien voulez-vous que je garde en sécurité pour vous?
+}
+Common_Usurer_297 {
+@<LinkRandPhrase>
+}
+Common_Usurer_298 {
+Tu plaisantes?
+}
+Common_Usurer_299 {
+Hm, désolé, c’est mon erreur…
+}
+Common_Usurer_300 {
+Hmm, malheureusement, vous n’avez pas cette somme sur vous. Ne faisons rien d’insensé…
+}
+Common_Usurer_301 {
+Hm... d'accord.
+}
+Common_Usurer_302 {
+Très bien. Le taux d'intérêt que je peux vous proposer pour ce montant est... hmm... disons @<Pchar>%%. Bien sûr, par mois.
+}
+Common_Usurer_303 {
+Ça me va.
+}
+Common_Usurer_304 {
+Je ferais mieux de modifier le montant.
+}
+Common_Usurer_305 {
+Il semble que je ne devrais pas me séparer de mon argent. Adieu.
+}
+Common_Usurer_306 {
+Je suis désolé, Capitaine, mais cette somme est bien trop importante pour une banque provinciale. Je n’ai tout simplement pas les moyens de gérer un tel montant et de verser des intérêts sur votre dépôt. Et puis, il y a le manque de sécurité adéquate, vous comprenez… J’espère que vous voyez ce que je veux dire. En résumé, je ne peux accepter de vous que @<FindMoneyString>.
+}
+Common_Usurer_307 {
+C’est dommage, je vais devoir m’adresser à un autre prêteur.
+}
+Common_Usurer_308 {
+Vous pouvez désormais être certain qu’aucune tempête, même la plus violente, ne vous privera de vos moyens de subsistance. Et si vous souhaitez retirer votre dépôt, il vous suffit de passer quand vous le souhaitez.
+}
+Common_Usurer_309 {
+Très bien. Bonne chance.
+}
+Common_Usurer_310 {
+D’après les pourcentages que nous avions convenus la dernière fois, et compte tenu du temps écoulé, j’ai calculé que je vous dois @<FindMoneyString>... Êtes-vous sûr de vouloir prendre cet argent?
+}
+Common_Usurer_311 {
+Absolument. Amenez-les ici.
+}
+Common_Usurer_312 {
+Tu sais, tu as raison. Laissons-les se reposer un peu plus longtemps. Bonne continuation.
+}
+Common_Usurer_313 {
+Oh... C’est presque dommage de m’en séparer. Je m’y suis attaché(e). Eh bien, revenez me voir.
+}
+Common_Usurer_314 {
+Si tu as besoin de moi, je viendrai. Adieu.
+}
+Common_Usurer_315 {
+Tu es encore en vie? Tu viens me rendre mon argent, c’est ça? Hors de question! À cause de toi, j’ai perdu bien plus que ce que tu pourrais me rendre en une vie! Je ne connaîtrai pas la paix tant que je n’aurai pas vu ton cadavre!
+}
+Common_Usurer_316 {
+En réalité, je souhaite régler nos affaires de façon pacifique.
+}
+Common_Usurer_317 {
+Eh bien, voyons ça! Mais souviens-toi, tu pourrais bien finir cadavre toi aussi!
+}
+Common_Usurer_318 {
+Vous me menacez? Très bien, voyons ce que vous allez faire...
+}
+Common_Usurer_319 {
+L’argent n’est pas la chose la plus importante dans la vie. Tu ne devrais donc pas t’épuiser ni faire du mal aux autres uniquement pour cela.
+}
+Common_Usurer_320 {
+@<LinkRandPhrase>
+}
+Common_Usurer_321 {
+Sors de chez moi! Je ne veux plus jamais te revoir!
+}
+Common_Usurer_322 {
+Oui? Et que proposes-tu?
+}
+Common_Usurer_323_m {
+À partir d’aujourd’hui, je vous dois la somme de @<FindMoneyString>. Je vous la remets maintenant.
+}
+Common_Usurer_323_f {
+À partir d’aujourd’hui, je vous dois la somme de @<FindMoneyString>. Je vous l’offre.
+}
+Common_Usurer_324 {
+Pour réparer nos relations, je propose de vous restituer la somme due de @<FindMoneyString>.
+}
+Common_Usurer_325 {
+Voilà qui est mieux! On dirait que nous allons pouvoir faire affaire, finalement.
+}
+Common_Usurer_326 {
+Merci. Je ne vous décevrai plus.
+}
+Common_Usurer_327 {
+diamant
+}
+Common_Usurer_328 {
+rubis
+}
+Common_Usurer_329 {
+émeraude
+}
+Common_Usurer_330 {
+saphir
+}
+Common_Usurer_331 {
+Vous savez, il m’est arrivé un grand malheur. J’ai perdu une @<sld> de belle facture. Mais ce n’est même pas le pire. Le vrai problème, c’est que la pierre ne m’appartient même pas!
+}
+Common_Usurer_332 {
+Et alors? Achète simplement un autre @<sld> et c’est réglé.
+}
+Common_Usurer_333 {
+Ah, si seulement c’était aussi simple! Le fait est que ce @<npchar> est unique en son genre. Le client m’a donné cette pierre précisément pour fabriquer la bague. Je ne peux tout simplement pas en trouver une autre qui corresponde à sa taille et à sa forme...
+}
+Common_Usurer_334 {
+Hmm, c’est vraiment un problème. Alors, comment puis-je vous aider?
+}
+Common_Usurer_335 {
+Trouve simplement @<npchar>, c’est tout!
+}
+Common_Usurer_336 {
+Et où l’as-tu perdu?
+}
+Common_Usurer_337 {
+Dans la jungle, juste à l’extérieur de la ville. J’aime parfois m’y promener, quand tout est calme. Ça m’apaise…
+}
+Common_Usurer_338_m {
+Voyez-vous, j’exerce une profession bien différente. Je ne suis ni détective, ni domestique. Retrouver vos objets perdus ne m’intéresse pas.
+}
+Common_Usurer_338_f {
+Vous voyez, je travaille dans un tout autre domaine. Je ne suis ni détective ni domestique. Retrouver vos affaires perdues ne m’intéresse pas.
+}
+Common_Usurer_339_m {
+Hmm, très bien, je suis prêt à commencer la recherche de la pierre perdue. Quelle est la récompense pour ce travail?
+}
+Common_Usurer_339_f {
+Hmm, très bien, je suis prêt à commencer la recherche de la pierre perdue. Quelle est la récompense pour ce travail?
+}
+Common_Usurer_340 {
+Hmm, c’est dommage. Il semble que je me sois trompé à votre sujet. Je vous prie d’accepter mes excuses…
+}
+Common_Usurer_341 {
+Aucun problème.
+}
+Common_Usurer_342 {
+Si vous retrouvez @<npchar>, je vous paierai généreusement. Mais laissez-moi vous prévenir, le temps presse.
+}
+Common_Usurer_343 {
+Hmm, c’est bien. Bon, je pars chercher. Attendez-vous à des résultats.
+}
+Common_Usurer_344 {
+Excellent! Oui, oui, c’est bien lui, le fameux @<npchar> disparu... Eh bien, je suis ravi, vraiment ravi. Je suis prêt à vous verser votre récompense pour ce travail.
+}
+Common_Usurer_345 {
+Très bien.
+}
+Common_Usurer_346 {
+Merci encore. Tu peux venir me voir quand tu veux—je t’écouterai toujours.
+}
+Common_Usurer_347 {
+Merci, je suppose...
+}
+Common_Usurer_348 {
+Je ne divulgue pas les biens personnels du colonel, monsieur.
+}
+Common_Usurer_349 {
+Néanmoins, tu l’as fait.
+}
+Common_Usurer_350 {
+Quoi?! De quoi parles-tu?
+}
+Common_Usurer_351 {
+Du calme. Je t’apporte le prêt qu’Ogle, le vieux artilleur, avait pris. Exactement cinq mille.
+}
+Common_Usurer_352 {
+Je parle du prêt que le vieux artilleur Ogle a contracté. Précisément cinq mille. Je te rembourserai.
+}
+Common_Usurer_353 {
+Hmm... Merci... euh... monsieur.
+}
+Common_Usurer_354 {
+Bonne continuation.
+}
+Common_Usurer_355 {
+Tu as apporté l'argent pour Ogla?
+}
+Common_Usurer_356 {
+Tout à fait.
+}
+Common_Usurer_357 {
+Malheureusement non, mais je l’apporterai bientôt.
+}
+Common_Usurer_358 {
+Tôt ce matin, un homme de la ville est venu me demander un prêt. Le problème, c’est qu’il m’a trompé. Il s’est fait passer pour Rafael Guinness, qui me rend souvent visite, et, pour être honnête, il lui ressemble un peu. Je lui ai prêté 30 000 piastres, mais ensuite Rafael est venu en personne et...
+}
+Common_Usurer_359 {
+Vous voulez que je retrouve cette personne? Pourquoi pensez-vous qu’elle est encore en ville?
+}
+Common_Usurer_360 {
+Il est en ville, je vous l’assure. Aucun navire n’a quitté le port aujourd’hui. Et en récompense, vous recevrez 10 %%, soit 3 000 piastres. Qu’en dites-vous?
+}
+Common_Usurer_361 {
+Tu sais, je crois que je vais t'aider.
+}
+Common_Usurer_362 {
+Ne compte pas sur moi.
+}
+Common_Usurer_363 {
+Alors, tu as réussi?
+}
+Common_Usurer_364 {
+Oui, voici votre argent, moins mes dix pour cent.
+}
+Common_Usurer_365 {
+Malheureusement non, mais je l’apporterai bientôt.
+}
+Common_Usurer_366 {
+Allons, voyons! Nous sommes tous deux des personnes sérieuses—inutile de prêter attention aux ragots de la foule! Ils se vendraient pour un doublon espagnol, mais ne feraient rien pour en gagner un deuxième.\nJe cherche quelqu’un à qui proposer une affaire sérieuse. Quelqu’un de courageux et d’entreprenant, honnête et fiable, mais pas trop encombré par... hum... un excès de scrupules en matière de morale. Et j’espère vraiment trouver cette personne en vous.
+}
+Common_Usurer_367 {
+Cela dépendra en grande partie du type de « proposition » que vous comptez me faire.
+}
+Common_Usurer_368 {
+Bien, écoute-moi. En ce moment, il n’y a pas d’affaire plus lucrative dans toute la Caraïbe que la traite des esclaves. Je ne possède pas de plantation, mais j’ai des acheteurs fiables pour ce genre de cargaison—plus d’un, d’ailleurs.\nVoilà ce que je te propose : il me faut @<pchar> esclaves. Je suis prêt à payer 250 piastres pour chacun—c’est un prix honnête, tu ne trouves pas? Au total, cela fait la somme de @<FindMoneyString>.
+}
+Common_Usurer_369 {
+Non, je ne fais pas de commerce d’esclaves. Trouvez quelqu’un d’autre pour vous aider—quelqu’un sans scrupules.
+}
+Common_Usurer_370_m {
+Hmm, c’est une offre plutôt tentante. J’accepte le travail. Pour quand as-tu besoin de ces esclaves?
+}
+Common_Usurer_370_f {
+Hmm, c’est une offre plutôt tentante. J’accepte. Pour quand as-tu besoin de ces esclaves?
+}
+Common_Usurer_371 {
+Ahhh, si peu de gens sont prêts à bouger leur fainéantise pour ramasser de l’or juste à leurs pieds. Je suis déçu... Adieu, et n’essaie même pas de parler de notre conversation—j’ai de longues oreilles...
+}
+Common_Usurer_372 {
+Je vois que tes mains sont aussi « sales » que ta langue... Eh bien, passe une bonne journée.
+}
+Common_Usurer_373 {
+Je ne te fixe aucun délai, mais essaie d’être rapide. La demande pour « l’ivoire noir » est énorme. Si tu fais tes preuves, je t’assure que tu continueras à recevoir ce genre de missions sans interruption.
+}
+Common_Usurer_374 {
+Je vous crois sur parole. Eh bien, attendez-vous à de bonnes nouvelles.
+}
+Common_Usurer_375 {
+Alors, as-tu réussi à obtenir la cargaison convenue de « bois noir »?
+}
+Common_Usurer_376_m {
+Pas encore. Je voulais juste m’assurer que notre accord tient toujours.
+}
+Common_Usurer_376_f {
+Pas encore. Je voulais simplement m’assurer que notre accord tient toujours.
+}
+Common_Usurer_377 {
+Je l’ai fait. Toute la cargaison est dans ma cale.
+}
+Common_Usurer_378 {
+Excellent! Mes hommes s’en occuperont... Ne vous préoccupez pas de la douane ni du commandant du fort. Je gère cette affaire à grande échelle, il n’y aura donc aucun problème, et personne ne vous accusera de contrebande.
+}
+Common_Usurer_379 {
+Je vois que tout est sous contrôle ici! Et pour le paiement?
+}
+Common_Usurer_380 {
+Prenez-le, je vous en prie... Je ne fais jamais de promesses en l’air. Restez à mes côtés, capitaine, et bientôt vous aurez tant de pièces de huit qu’il vous faudra un galion entier rien que pour les transporter!
+}
+Common_Usurer_381 {
+Ce serait bien... Alors, quelle est la suite?
+}
+Common_Usurer_382 {
+Et ensuite? Eh bien, revenez dans environ trois semaines — j’ai une grosse commande en cours. Je pense que tout sera réglé d’ici là.
+}
+Common_Usurer_383 {
+D’accord. À bientôt...
+}
+Common_Usurer_384 {
+J’ai du travail pour toi. Mais il y a un problème : ton navire est un peu trop faible. Je ne veux pas gâcher l’affaire, et je n’ai pas non plus envie de t’envoyer à une mort certaine. Puisqu’on a un peu de temps, trouve-toi un bâtiment plus solide — au moins une barquentine, mais un brick ou une brigantine serait encore mieux. Bon, un fluyt si tu n’as pas le choix. Mais ne tarde pas trop, sinon on risque de rater notre occasion.
+}
+Common_Usurer_385 {
+Compris, nous nous occupons de cette affaire. À bientôt.
+}
+Common_Usurer_386 {
+Enfin! Je t’attendais. Passons aux choses sérieuses. Comme tu le sais, chaque métier a ses concurrents. J’ai les miens aussi. Ces vauriens cupides et sans scrupules essaient sans cesse de me voler mes clients! Alors, je veux me débarrasser de l’un d’eux—et en profiter pour faire un joli bénéfice.
+}
+Common_Usurer_387_m {
+Je vous écoute.
+}
+Common_Usurer_387_f {
+Je vous écoute.
+}
+Common_Usurer_388 {
+Excellent. Voilà la situation. Ce vaurien, qui se fait appeler @<GetName>, a amené une cargaison d’esclaves d’Afrique et il est maintenant ancré dans la baie de @<XI_ConvertString>, sur l’île de @<XI_ConvertString>. Il attend là-bas des contrebandiers. Son galion s’appelle « @<pchar> ». Il faut absolument empêcher cet échange!
+}
+Common_Usurer_389 {
+Hmm, alors qu’est-ce qu’on fait des esclaves? On ne peut pas simplement les noyer!
+}
+Common_Usurer_390 {
+Pourquoi le ferais-je? @<GetName> a une réputation exécrable, et personne ne remarquera sa disparition. Tu t’empares du galion, tu te débarrasses de lui, tu m’apportes la cargaison, et je la vendrai. D’après mes informations, il a au moins quinze cents esclaves à bord — un chargement énorme.
+}
+Common_Usurer_391 {
+Oh! C’est une sacrée somme. Et pour le paiement du travail?
+}
+Common_Usurer_392 {
+Non, monsieur, ces intrigues ne sont pas pour moi. Pourquoi devrais-je me disputer avec les contrebandiers?
+}
+Common_Usurer_393 {
+Eh bien, il semble que je me sois trompé sur vous... Adieu, et oubliez que nous avons parlé. Et si vous voulez éviter des ennuis, je vous conseille de garder pour vous ce que vous avez entendu ici. Comme vous l’avez déjà constaté, j’ai cette ville sous contrôle. Et si vous complotez et tentez d’embarquer '@<pchar>' par vous-même, je veillerai à ce que vous finissiez pendu. Gardez cela en tête.
+}
+Common_Usurer_394 {
+Vous pouvez vous détendre — je ne suis pas du genre à dénoncer qui que ce soit. Et votre galère d’esclaves ne m’intéresse pas non plus. Adieu.
+}
+Common_Usurer_395 {
+Puisque je vous donne toutes les informations sur l’emplacement de la cargaison, vous évitant ainsi de parcourir les mers à la recherche de votre butin, le paiement sera, comme vous pouvez l’imaginer, un peu moins élevé. Deux cents piastres par esclave. Cela reste toutefois une belle somme—environ trois cent mille, si tout se passe bien.
+}
+Common_Usurer_396 {
+Très bien. Combien de temps ai-je pour ce travail?
+}
+Common_Usurer_397 {
+Ho ho! On dirait que tu crois que ces esclaves viendront d’eux-mêmes jusqu’à ma cale! Tu veux vraiment que mon équipage risque sa peau pour un prix aussi dérisoire? Augmente la récompense, sinon je refuse le travail.
+}
+Common_Usurer_398 {
+Je dirais pas plus de deux semaines. Si tu arrives en retard, il aura déjà déchargé et l’occasion sera perdue.
+}
+Common_Usurer_399 {
+Il va falloir se dépêcher. Attends-moi avec de bonnes nouvelles. À bientôt.
+}
+Common_Usurer_400 {
+Alors, @<GetFullName>, comment s’est passée l’opération? À en juger par cette mine sombre, tu l’as ratée.
+}
+Common_Usurer_401_m {
+Tu as raison, bon sang... Je... enfin, j’ai... j’ai été en retard sur l’île. Il devait déjà être parti, puisque je n’ai trouvé personne là-bas. J’ai dû naviguer au près tout le trajet — vent de face tout le temps, quelle poisse...
+}
+Common_Usurer_401_f {
+Tu as raison, bon sang... Je... enfin, j’ai... j’ai mis du temps à arriver sur l’île. Il devait déjà être parti, puisque je n’ai trouvé personne là-bas. J’ai dû naviguer tout le trajet au près — vent de face tout le temps, quelle poisse...
+}
+Common_Usurer_402 {
+Alors, @<GetFullName>, comment se passe la pêche aujourd’hui? J’ai déjà entendu dire que @<GetName> dort avec les poissons.
+}
+Common_Usurer_403_m {
+Oui, je suis arrivé juste à temps! @<GetName> était en train de charger des esclaves sur un navire de contrebande. J’ai aussi dû envoyer ses acheteurs rejoindre Davy Jones, donc tu as beaucoup moins de rivaux désormais.
+}
+Common_Usurer_403_f {
+Oui, je suis arrivé juste à temps! @<GetName> était en train de charger des esclaves sur le navire des contrebandiers. J’ai aussi dû envoyer ses acheteurs rejoindre Davy Jones, alors tu as beaucoup moins de rivaux maintenant.
+}
+Common_Usurer_404_m {
+Oui, on dirait que je me suis trompé sur ton compte. Tu es arrivé en retard? Ou alors tu as perdu ton sang-froid et tu as fui le combat? Peu importe. Ça n’a plus d’importance maintenant. Tu as gâché un excellent plan, et je ne veux plus rien avoir à faire avec toi. Pars, et oublie tout ce que tu as vu et entendu ici.
+}
+Common_Usurer_404_f {
+Oui, on dirait que je me suis trompé sur ton compte. Tu es arrivé en retard? Ou alors tu as simplement perdu courage et tu as fui le combat? Peu importe. Ça n’a plus d’importance maintenant. Tu as gâché un excellent plan, et je ne veux plus rien avoir à faire avec toi. Pars, et oublie tout ce que tu as vu et entendu ici.
+}
+Common_Usurer_405 {
+Eh bien, adieu.
+}
+Common_Usurer_406_m {
+Je vois que je ne me suis pas trompé sur ton compte—tu es vraiment un dur à cuire. Exactement le genre de personne qu’il me fallait. Tu as mené la mission de main de maître—il y a plus de mille cinq cents esclaves dans ta cale! Malheureusement, je ne peux prendre que seize cents unités de cargaison—je n’ai tout simplement pas l’argent pour en acheter plus pour l’instant. Tu devras vendre le reste des esclaves toi-même. Ta récompense est donc de 320 000 piastres.
+}
+Common_Usurer_406_f {
+Je vois que je ne me suis pas trompé sur ton compte — tu es un marin audacieux. C’est exactement le genre de personne qu’il me faut. Tu as accompli la tâche de façon remarquable — tu as plus de quinze cents esclaves dans tes cales! Malheureusement, je ne peux prendre que seize cents unités de cargaison — je n’ai tout simplement pas l’argent pour en acheter plus pour l’instant. Tu devras vendre le reste des esclaves toi-même. Ta récompense est donc de 320 000 piastres.
+}
+Common_Usurer_407 {
+Merci. C’est un plaisir de faire affaire avec vous, @<npchar>!
+}
+Common_Usurer_408_m {
+Je vois que je ne me suis pas trompé sur ton compte — tu es vraiment un dur à cuire. C’est exactement le genre de personne qu’il me faut. Tu as accompli la tâche à merveille — tu as ramené @<FindSlavesWithCaseString>. Ta récompense est de @<FindMoneyString>.
+}
+Common_Usurer_408_f {
+Je vois que je ne me suis pas trompé sur votre compte — vous êtes un marin audacieux. C’est exactement le genre de personne qu’il me faut. Vous avez accompli la tâche avec brio — vous avez ramené @<FindSlavesWithCaseString>. Votre récompense est de @<FindMoneyString>.
+}
+Common_Usurer_409 {
+Merci. C’est un plaisir de faire affaire avec vous, @<npchar>!
+}
+Common_Usurer_410 {
+Eh bien, vous avez géré une situation difficile avec honneur. Et même si le butin est moins important que ce à quoi je m’attendais, je suis tout de même satisfait. Donc, vous avez amené @<FindSlavesWithCaseString>. Votre récompense est de @<FindMoneyString>
+}
+Common_Usurer_411 {
+Merci. C’est un plaisir de faire affaire avec vous, @<npchar>!
+}
+Common_Usurer_412 {
+Oui... Je comprends, mais je m’attendais à mieux. Tu n’as amené que @<FindSlavesWithCaseString>. Enfin, peu importe, d’un autre côté—tu as éliminé la concurrence, et ça compte aussi. Ta récompense est de @<FindMoneyString>.
+}
+Common_Usurer_413 {
+Merci. J’apprécie votre compréhension, @<npchar>!
+}
+Common_Usurer_414_m {
+Eh bien, c’est plutôt amusant, mais... Hmm... On dirait que je me suis trompé sur ton compte. Qu’est-ce que tu m’as apporté? @<FindSlavesWithCaseString>? Et où est le reste de la cargaison? Ne me dis pas que tu l’as jetée à la mer. Tu l’as vendue à des contrebandiers, ou pire encore—aux planteurs? Sors de ma vue, je ne veux plus rien avoir à faire avec toi.
+}
+Common_Usurer_414_f {
+Eh bien, c’est vraiment assez amusant, mais… Hmm… On dirait que je me suis trompé sur ton compte. Qu’est-ce que tu m’as apporté? @<FindSlavesWithCaseString>? Et où est le reste de la cargaison? Ne me dis pas que tu l’as jetée par-dessus bord. Tu l’as vendue à des contrebandiers, ou pire encore — aux planteurs? Disparais de ma vue, je ne veux plus rien avoir à faire avec toi.
+}
+Common_Usurer_415 {
+Prends soin de toi.
+}
+Common_Usurer_416_m {
+Eh bien, tout cela est très amusant, mais... Où sont les esclaves? Où est notre cargaison? Et n’osez surtout pas me dire que vous l’avez jetée à la mer. Vous l’avez vendue à des contrebandiers, ou pire encore — aux planteurs? Disparaissez de ma vue. Je ne veux plus rien avoir à faire avec vous.
+}
+Common_Usurer_416_f {
+Eh bien, tout cela est très amusant, mais… Où sont les esclaves? Où est notre cargaison? Et n’ose même pas me dire que tu l’as jetée par-dessus bord. Tu l’as vendue à des contrebandiers, ou pire encore, aux planteurs? Disparais de ma vue. Je ne veux plus rien avoir à faire avec toi.
+}
+Common_Usurer_417 {
+Prends soin de toi.
+}
+Common_Usurer_418 {
+Ce n’est pas tout. Je ne laisse personne se moquer de moi! Tu paieras pour ta trahison—je te garantis que les ennuis te trouveront, compte là-dessus. Maintenant, dehors!
+}
+Common_Usurer_419 {
+Que le diable t’emporte, toi et ton trafic d’esclaves!
+}
+Common_Usurer_420 {
+Je vois qu’on forme une bonne équipe, @<pchar>. Ça me fait plaisir. Passe me voir dans environ un mois — il se pourrait que j’aie un travail à la hauteur de tes compétences. Quelque chose se prépare bientôt.
+}
+Common_Usurer_421 {
+Je passerai sans faute! Travailler avec vous rapporte vraiment.
+}
+Common_Usurer_422 {
+Ça te rapportera une fortune... Ah, encore une chose, @<pchar> : pendant l’abordage, as-tu trouvé quelque chose d’inhabituel dans la cabine du galion?
+}
+Common_Usurer_423 {
+Non, je n’ai rien remarqué d’inhabituel. Pourquoi, j’aurais dû?
+}
+Common_Usurer_424 {
+Vous parlez de cette statue ici?
+}
+Common_Usurer_425 {
+Peut-être que ça devrait, peut-être que non... Bon, si tu ne l’as pas trouvé, tu ne l’as pas trouvé. Je t’attendrai dans un mois. Adieu!
+}
+Common_Usurer_426 {
+À bientôt, @<npchar>.
+}
+Common_Usurer_427 {
+Oui, exactement! C’est une statue de l’ancienne divinité indienne Xochipilli. Elle se trouvait donc bien dans la cabine de ce vaurien… Puis-je l’examiner de plus près?
+}
+Common_Usurer_428 {
+Bien sûr, tenez.
+}
+Common_Usurer_429 {
+Eh bien, eh bien... Aucun doute, c'est bien celle-là. Écoute, @<pchar>, vends-moi cette statue. Je suis prêt à payer cent mille piastres.
+}
+Common_Usurer_430_m {
+Cent mille? Hmm... D’accord, marché conclu. Prends-les!
+}
+Common_Usurer_430_f {
+Cent mille? Hmm... D’accord. Prends-les!
+}
+Common_Usurer_431 {
+Non, je ne la vendrai pas. La valeur de cette statuette ne réside pas dans l’or qu’on pourrait en tirer. Je m’y connais un peu en objets rituels indiens.
+}
+Common_Usurer_432 {
+Excellent! Je suis ravi que nous soyons tombés d’accord. Voici votre argent. Je vous attends dans un mois. Au revoir.
+}
+Common_Usurer_433 {
+À bientôt, @<npchar>.
+}
+Common_Usurer_434_m {
+Vous comprenez, j’ai vraiment besoin de cette statue! Je suis tout à fait d’accord avec vous—sa valeur ne réside pas dans l’argent—aucun marchand illettré ne vous en offrirait un prix juste. Mais vous connaissez vraiment les rituels indiens si vous refusez de la vendre pour une telle somme.\nPuisque vous ne voulez pas d’argent, je vous propose un échange. J’ai quelque chose qui pourrait vous intéresser. Regardez donc. Un magnifique costume de noble! Tout droit venu d’Europe! Vous n’en trouverez pas de semblable dans les Caraïbes. Même les gouverneurs n’en possèdent pas toujours d’aussi beaux. Regardez!\nIl vaut bien plus de cent mille, mais comme vous le comprenez, sa vraie valeur ne se mesure pas en argent non plus. Je vous propose ce costume en échange de la statue. Ce n’est pas le seul de son genre dans les Caraïbes. Vous êtes marin—vous pourrez en trouver un autre. Mais pour moi, c’est bien plus difficile. Alors, qu’en dites-vous? Marché conclu?
+}
+Common_Usurer_434_f {
+Voyez-vous, j’ai vraiment besoin de cette statue! Je suis tout à fait d’accord avec vous—sa valeur ne se mesure pas à l’argent—aucun marchand ignorant ne vous en donnerait un prix juste. Mais vous connaissez vraiment les rituels indiens si vous refusez de la vendre pour une telle somme.\nPuisque vous ne voulez pas d’argent, je vous propose un échange. J’ai quelque chose qui pourrait vous intéresser. Regardez donc. Un magnifique costume de noble! Tout droit venu d’Europe! Vous n’en trouverez pas de semblable dans les Caraïbes. Même les gouverneurs n’en possèdent pas toujours d’aussi beaux. Regardez!\nIl vaut bien plus de cent mille, mais comme vous le comprenez, sa vraie valeur ne se mesure pas non plus en argent. Je vous propose ce costume en échange de la statue. Ce n’est pas le seul exemplaire dans les Caraïbes. Vous êtes marin—vous pourrez en retrouver un autre. Mais pour moi, c’est bien plus difficile. Alors, qu’en dites-vous? Marché conclu?
+}
+Common_Usurer_435_m {
+Heh... Je suppose que je suis d’accord. Donne-moi cette robe, et tu peux garder la statue.
+}
+Common_Usurer_435_f {
+Heh... Je suppose que je suis d’accord. Donne-moi cette robe, et tu peux garder la statue.
+}
+Common_Usurer_436 {
+Non. La statue compte plus pour moi que cette magnifique robe. Je vais la garder.
+}
+Common_Usurer_437 {
+Excellent! Je suis ravi que nous soyons tombés d’accord. Cette tenue splendide est à vous désormais. Tenez. Et je vous attends dans un mois. Au revoir.
+}
+Common_Usurer_438 {
+À bientôt, @<npchar>.
+}
+Common_Usurer_439 {
+Quel dommage, vraiment... Bon, reprends-la. Je ne t’en veux pas—cette statue compte beaucoup pour un marin. Je t’attendrai dans un mois. Adieu.
+}
+Common_Usurer_440 {
+À bientôt.
+}
+Common_Usurer_441 {
+Tu arrives pile à l’heure, @<pchar>. J’ai du travail pour toi, si tu es prêt à commencer tout de suite.
+}
+Common_Usurer_442_m {
+Bien sûr que je suis prêt. C’est précisément pour ça que je suis venu ici.
+}
+Common_Usurer_442_f {
+Bien sûr, je suis prêt. C’est précisément pour ça que je suis venu ici.
+}
+Common_Usurer_443 {
+Excellent! Passons aux choses sérieuses. As-tu entendu les dernières nouvelles?
+}
+Common_Usurer_444 {
+Hmm... De quoi parles-tu? Il y a toujours des nouvelles, et chaque jour apporte son lot de nouveautés.
+}
+Common_Usurer_445 {
+Cette nouvelle concerne directement nos affaires. La plus grande évasion d’esclaves de l’histoire du Nouveau Monde vient d’avoir lieu à Curaçao! Plus d’un millier de personnes se sont enfuies, et en chemin, elles ont massacré et incendié plusieurs comptoirs commerciaux néerlandais.
+}
+Common_Usurer_446 {
+Intéressant. Continue.
+}
+Common_Usurer_447 {
+Mais ils ne se sont pas simplement échappés — ils ont disparu de l’île d’une façon incroyable! Sans laisser la moindre trace. Stuyvesant est absolument furieux. Mais ce n’est pas ce qui compte… Ce qui importe, c’est que je te demande d’aller à Curaçao, de découvrir tout ce qui s’est passé, de retrouver ces fugitifs et de les capturer.\nEt surtout, ne les remets pas à la justice hollandaise, qui les condamnerait à un sort plutôt funeste selon leurs lois. Amène-les-moi plutôt. Je paierai 300 piastres pour chaque esclave — j’ai entendu dire qu’ils valent très cher.
+}
+Common_Usurer_448 {
+La mission est claire. Cap sur Curaçao. Attendez-vous à de bonnes nouvelles de ma part.
+}
+Common_Usurer_449 {
+Tu sais, je ne le ferai pas. Je ne priverai pas de leur liberté des gens qui se sont battus pour l’obtenir, au péril de leur vie. Ils l’ont méritée.
+}
+Common_Usurer_450 {
+Quel dommage, vraiment... Je ne m’attendais pas à ce que tu me trahisses au pire moment... Je crois qu’il est évident que notre collaboration ne peut pas continuer après ça. Adieu.
+}
+Common_Usurer_451 {
+Bonne continuation.
+}
+Common_Usurer_452 {
+Hé hé! Non seulement tu as mené à bien une tâche difficile, mais en plus tu as ramené plus d’esclaves que demandé — @<FindSlavesWithCaseString>. Cependant, @<sNum> de ces esclaves ne sont clairement pas des fugitifs de Curaçao. Je t’en paierai 100 piastres chacun. Je pense que tu seras bien récompensé. Ta récompense est de 330 000 piastres pour le lot principal d’esclaves, plus @<FindMoneyString> pour le surplus, si l’on peut dire.
+}
+Common_Usurer_453_m {
+Ha ha ha, on ne te la fait pas! Très bien, fais comme tu veux, @<npchar>!
+}
+Common_Usurer_453_f {
+Ha ha ha, on ne te la fait pas à toi! Très bien, comme tu voudras, @<npchar>!
+}
+Common_Usurer_454 {
+Vous avez accompli une tâche difficile avec brio et ramené @<FindSlavesWithCaseString>. Votre récompense est de @<FindMoneyString>.
+}
+Common_Usurer_455 {
+Merci. C’est un plaisir de faire affaire avec vous, @<npchar>!
+}
+Common_Usurer_456 {
+Tu as accompli une tâche difficile, et même si le butin est moins important que ce à quoi je m’attendais, je suis tout de même satisfait. Donc, tu as amené @<FindSlavesWithCaseString>. Ta récompense est de @<FindMoneyString>.
+}
+Common_Usurer_457 {
+Merci. C’est un plaisir de faire affaire avec vous, @<npchar>!
+}
+Common_Usurer_458 {
+Tu les as trouvés? Hm... Alors, qu’est-ce que tu m’as rapporté? @<FindSlavesWithCaseString>? Et où est le reste de la cargaison? Ne me dis pas que tu l’as jetée à la mer. Tu l’as vendue aux contrebandiers, ou pire encore, à ce vaurien de Voisier de Bermuda. Disparais de ma vue, je ne veux plus rien avoir à faire avec toi.
+}
+Common_Usurer_459 {
+Prends soin de toi.
+}
+Common_Usurer_460 {
+Tu l’as trouvé? Et où sont les esclaves? Où est notre cargaison? Ne me dis pas que tu l’as jetée à la mer. Tu l’as vendue à des contrebandiers, ou pire — à ce vaurien de Voisier de Bermuda. Sors de ma vue, je ne veux plus rien avoir à faire avec toi.
+}
+Common_Usurer_461 {
+Prends soin de toi.
+}
+Common_Usurer_462 {
+Je suis très satisfait de toi, @<pchar>. Vraiment satisfait. Reviens dans un mois, et j’aurai une autre affaire lucrative à te proposer, pour nous deux.
+}
+Common_Usurer_463_m {
+Je suis aussi content que nous travaillions ensemble, @<npchar>. Je reviendrai dans un mois, tu peux compter là-dessus.
+}
+Common_Usurer_463_f {
+Je suis aussi content que nous travaillions ensemble, @<npchar>. Je reviendrai dans un mois, tu as ma parole.
+}
+Common_Usurer_464 {
+Tu arrives au bon moment, @<pchar>. Il se trouve que j’ai besoin des services d’un marin audacieux—et pas trop impressionnable, hé hé. Es-tu prêt à accomplir une mission pour moi?
+}
+Common_Usurer_465 {
+Oui, j’écoute attentivement.
+}
+Common_Usurer_466 {
+Cette fois, c’est aussi simple que possible. Aujourd’hui, une pinasse nommée '@<pchar>', battant pavillon @<NationNameGenitive>, a jeté l’ancre à @<XI_ConvertString>. Une importante cargaison de « blackwood »—pas moins de deux mille billots—a déjà été discrètement chargée à bord avec l’aide de contrebandiers locaux.\nL’équipage de la pinasse n’est composé que de simples dockers, et le capitaine est un marchand. Bref, ils ne sont pas des combattants. Ta mission est la même que d’habitude : monte à bord du navire, saisis la cargaison et rapporte-la-moi. La rémunération suit notre tarif habituel—200 piastres par unité. Comme toujours.
+}
+Common_Usurer_467 {
+Hmm... Ce n’est pas tout à fait comme la dernière fois. Tu me demandes d’attaquer un navire appartenant à tes propres compatriotes!
+}
+Common_Usurer_468 {
+Je ne suis pas sûr de bien te comprendre, @<pchar>. Est-ce vraiment important de savoir à quelle nation appartient ce navire? Ou bien est-ce que cela compte particulièrement pour toi?
+}
+Common_Usurer_469 {
+Moi? Je m’en fiche complètement — l’or n’a pas de nationalité! J’ai juste été un peu surpris, c’est tout...
+}
+Common_Usurer_470_m {
+Oui, c’est le cas. Je n’ai aucune intention de me disputer avec @<NationNameInstrumental>.
+}
+Common_Usurer_470_f {
+Oui, c’est le cas. Je n’ai aucune intention de me disputer avec @<NationNameInstrumental>.
+}
+Common_Usurer_471 {
+Ah bon? Tu plaisantes? Eh bien, dans ce cas, sors d’ici. Et oublie tout ce que tu as vu et entendu ici!
+}
+Common_Usurer_472 {
+Prends soin de toi, @<npchar>.
+}
+Common_Usurer_473 {
+Qu’est-ce qui vous étonne? Que moi aussi, je me moque bien de la nationalité des pièces d’or? Je vous assure, c’est exactement le cas, et c’est étrange que vous ne l’ayez pas encore remarqué. En réalité, un excès de patriotisme est même nuisible pour un banquier professionnel—sauf, bien sûr, s’il compte finir ses jours à mendier dans la rue.\nMais laissons la philosophie de côté. Pour en venir au fait : le navire restera dans nos eaux jusqu’à minuit, vous n’avez donc pas beaucoup de temps. Êtes-vous prêt à lancer l’opération?
+}
+Common_Usurer_474 {
+Oui, @<npchar>, je m’en occupe tout de suite.
+}
+Common_Usurer_475 {
+Excellent. Je ne doute pas un instant que notre entreprise réussira. Bonne chance à vous, @<pchar>.
+}
+Common_Usurer_476 {
+Merci! À bientôt.
+}
+Common_Usurer_477 {
+Alors, @<GetFullName>, comment s’est passée l’opération? À en juger par cette mine sombre, tu l’as ratée.
+}
+Common_Usurer_478_m {
+Tu as raison, bon sang... Je... enfin, j'étais en retard. Je suis resté trop longtemps à la taverne, et quand je me suis enfin décidé à prendre la mer—tout le monde était déjà parti.
+}
+Common_Usurer_478_f {
+Tu as raison, bon sang... Je... enfin, j’ai... été en retard. J’ai traîné à la taverne, et quand je me suis enfin dirigé vers la mer, tout le monde était déjà parti.
+}
+Common_Usurer_479 {
+@<pchar>, s’il te plaît, calme-toi. Ce n’est pas ma faute! Bon sang, j’ai été prévenu trop tard... C’est une trahison! L’un de mes hommes de confiance m’a piégé!
+}
+Common_Usurer_480_m {
+Très bien, je vois que tu ne mens pas. Tu as de la chance : le capitaine de la pinasse a laissé échapper, avant de mourir, que nos plans avaient été découverts. Sans ces mots, je t’aurais déjà réglé ton compte… Mais tu m’avais dit, espèce de sac à fric, que tu contrôlais tout ici sur l’île!
+}
+Common_Usurer_480_f {
+Très bien, je vois que tu ne mens pas. Tu as de la chance : le capitaine de la pinasse a laissé échapper, avant de mourir, que nos plans avaient été découverts. Sans ça, je t’aurais déjà réglé ton compte… Mais tu m’avais dit, espèce de sac à fric, que tu contrôlais tout sur cette île!
+}
+Common_Usurer_481 {
+L’embuscade n’a pas été organisée par les autorités locales—sinon, je l’aurais su... @<pchar>, ce n’est pas le moment de discuter ou de s’insulter. Nous sommes tous les deux en grand danger—l’un de mes anciens contacts nous a trahis.\nJ’ai réussi à découvrir que toutes les preuves rassemblées—un dossier de documents—sont en route vers notre gouverneur général en ce moment même. Si elles arrivent entre ses mains, nous sommes perdus! Et toi, d’ailleurs, tu seras le premier à tomber.
+}
+Common_Usurer_482 {
+Alors c’est donc ça que ce capitaine vaurien voulait dire!
+}
+Common_Usurer_483 {
+Écoutez bien. Nous avons encore une chance. Le colis a été envoyé à bord de la brigantine « @<pchar> ». C’est tout ce que je sais. Les documents sont livrés au gouverneur général, à sa résidence sur l’île de @<XI_ConvertString>. Vous devez intercepter le navire, monter à bord et trouver ces documents compromettants.
+}
+Common_Usurer_484 {
+Je n’ai plus rien à faire ici. Eh bien, priez—pour vous et pour moi—et espérez que je la rattrape. À mon retour, nous reprendrons notre conversation. Et ne croyez pas que je vais laisser passer ça!
+}
+Common_Usurer_485 {
+L’essentiel, c’est de retrouver le colis! Je ne serai tranquille que lorsque tu me l’auras rapporté... Bon sang... @<pchar>, on dirait qu’on a des ennuis...
+}
+Common_Usurer_486 {
+Quoi d’autre?
+}
+Common_Usurer_487 {
+Merde... J’avais pourtant de grands espoirs pour toi, @<pchar>. Eh bien, nous ne pourrons plus faire affaire ensemble. Si je ne peux pas soudoyer les enquêteurs, il ne me reste plus qu’à fuir. Et je te conseille d’en faire autant—les soldats peuvent arriver d’un instant à l’autre. Adieu.
+}
+Common_Usurer_488 {
+Adieu, @<npchar>.
+}
+Common_Usurer_489 {
+Il y en avait. J’en suis certain. Dans ce cas, nous ne pouvons plus faire affaire ensemble—ce n’est plus sûr. Adieu.
+}
+Common_Usurer_490 {
+Adieu, @<npchar>.
+}
+Common_Usurer_491 {
+Magnifique! Je n’ai jamais douté de toi un instant, @<pchar>. S’il te plaît, donne-moi les documents, sinon je ne serai pas tranquille une seconde.
+}
+Common_Usurer_492 {
+Voilà.
+}
+Common_Usurer_493 {
+Excellent... Maintenant, je peux être tranquille. Le gouverneur général ne le saura jamais, et j’ai déjà réglé tout cela avec les autorités locales — même si, je dois l’avouer, cela m’a demandé pas mal d’efforts.
+}
+Common_Usurer_494 {
+Tout cela est bien beau, mais ne pensez-vous pas que vous me devez une compensation pour le préjudice moral et matériel causé par vos actes irréfléchis?
+}
+Common_Usurer_495 {
+Absolument, @<pchar>. En réalité, je vous dois beaucoup. Et j’espère sincèrement que notre collaboration se poursuivra. Mais je vous demande de comprendre ma situation : j’ai engagé des dépenses considérables. La loyauté du gouverneur et du commandant n’est pas donnée. En plus de cela, j’ai dû étouffer l’affaire du meurtre de la patrouille dans ma propre résidence...
+}
+Common_Usurer_496 {
+Vous voulez dire que vous n’avez aucune intention de couvrir mes pertes?!
+}
+Common_Usurer_497 {
+Ne t’énerve pas, @<pchar>. Je manque vraiment d’argent en ce moment, alors je te propose un autre type de paiement.
+}
+Common_Usurer_498 {
+Je vous écoute.
+}
+Common_Usurer_499_m {
+Il y a environ un an, mon compagnon et moi avons été pris dans une violente tempête au large de la côte sud du Main. Nos navires se sont écrasés contre les rochers près de Boca de la Serpe, et même s’ils n’ont pas flotté longtemps, nous avons réussi à mettre notre cargaison à terre — des coffres remplis de bijoux, un important butin de pierres précieuses et de joaillerie fine. La baie là-bas est isolée, alors cacher le trésor n’a pas été difficile.\nAu matin, dès que la tempête s’est calmée, nous avons été attaqués par des indigènes. C’est ainsi que les rares survivants du naufrage ont péri, y compris mon compagnon. Seuls quelques marins et moi avons réussi à nous échapper dans une chaloupe.\nNous avons atteint Cumana sains et saufs, mais je n’ai pas osé retourner chercher les coffres. Je suis certain que les sauvages du coin surveillent bien leurs côtes contre les intrus — et mon trésor avec. Mais tu es une personne forte et audacieuse ; tu ne devrais avoir aucun mal à t’occuper de cette bande de peaux-rouges.\nEt il y a vraiment une fortune dans ces coffres — de quoi compenser toutes les pertes que tu pourrais subir, ainsi que le coût d’une expédition vers le sud du Main.
+}
+Common_Usurer_499_f {
+Il y a environ un an, mon compagnon et moi avons été pris dans une violente tempête au large de la côte sud du Main. Nos navires se sont fracassés contre les rochers près de Boca de la Serpe, et même s’ils n’ont pas flotté longtemps, nous avons réussi à mettre notre cargaison à terre — des coffres remplis de bijoux, un important butin de pierres précieuses et de joaillerie fine. La baie là-bas est abritée, et il n’a pas été difficile de cacher le trésor.\nAu matin, dès que la tempête s’est calmée, nous avons été attaqués par des indigènes. C’est ainsi que les rares survivants du naufrage ont trouvé la mort, mon compagnon parmi eux. J’ai réussi à m’échapper avec une poignée de marins dans une chaloupe.\nNous avons atteint Cumana sains et saufs, mais je n’ai pas osé retourner chercher les coffres. Je suis certain que les sauvages du coin protègent bien leurs côtes contre les intrus — et mon trésor avec. Mais tu es une femme forte et courageuse — tu sauras te charger de cette bande d’Indiens.\nEt il y a vraiment une fortune dans ces coffres — de quoi couvrir toutes tes pertes, et financer une expédition vers le sud du Main.
+}
+Common_Usurer_500 {
+Hmm... D’accord. Dans ce cas, je vais aller à Cumana. J’espère que tu ne me mens pas. Souviens-toi : si tu essaies de me tromper, je te retrouverai où que tu te caches!
+}
+Common_Usurer_501 {
+Tu peux en être certain, @<pchar>, tout ce que j’ai dit est vrai. Je t’attendrai dans environ un mois—j’ai déjà préparé une affaire qui devrait redresser la situation de mon commerce. À bientôt.
+}
+Common_Usurer_502 {
+À bientôt, @<npchar>.
+}
+Common_Usurer_503 {
+Te voilà, @<pchar>. Excellent, tu es ponctuel, comme toujours. Avant de passer aux choses sérieuses, j’aimerais te donner un peu de contexte sur ce qui se passe dans l’archipel autour du marché aux esclaves. Je pense que ça te sera utile. Sais-tu ce que signifie le mot « repartimientos »?
+}
+Common_Usurer_504_m {
+Hmm... Non, @<npchar>, je ne sais pas ce que c'est. Mais d'après ce que ça évoque, c'est quelque chose comme prendre quelque chose à quelqu'un, non?
+}
+Common_Usurer_504_f {
+Hmm... Non, @<npchar>, je ne sais pas ce que c'est. Mais à en juger par le nom, ça doit être quelque chose comme prendre quelque chose à quelqu'un. J'ai raison?
+}
+Common_Usurer_505 {
+Tu m’as vraiment surpris. Qu’attendais-tu de moi? Sors d’ici!
+}
+Common_Usurer_506 {
+Les affaires illégales, en particulier la traite des êtres humains, pèsent trop lourdement sur ma conscience. Adieu.
+}
+Common_Usurer_507 {
+Tu es très proche de la vérité, @<pchar>. Exactement : il s’agit de priver quelqu’un de quelque chose, en l’occurrence de la liberté. Les repartimientos sont un moyen habile de réduire les Indiens en esclavage sous des prétextes apparemment légitimes et légaux — pacifiquement, en quelque sorte. Les autorités espagnoles appliquent ce système aux populations indigènes du Main. Veux-tu en savoir plus?
+}
+Common_Usurer_508 {
+Pourquoi pas?
+}
+Common_Usurer_509 {
+Des représentants de la couronne espagnole visitent les villages indigènes. Là, par la ruse cynique et des menaces à peine voilées, ils obligent les autochtones à acheter toutes sortes de babioles sans valeur à des prix exorbitants : viande avariée, vieux rasoirs, et autres objets du même genre. Et tout cela à crédit.\nAprès un certain temps—disons un an—les envoyés reviennent pour réclamer le paiement. Si les indigènes ne peuvent pas payer—ce qui arrive presque toujours—les Espagnols emmènent avec eux une partie des hommes valides, soi-disant pour une courte période, afin qu’ils puissent rembourser leur dette et « apprendre à cultiver la terre ».\nVous comprenez bien sûr que ces indigènes ne retournent jamais dans leurs villages. Voilà comment nos frères à la peau rouge, trop confiants, se retrouvent sur les plantations de canne à sucre ou dans les comptoirs de commerce d’acajou.
+}
+Common_Usurer_510 {
+Eh bien, regardez-moi ça... Les indigènes ne résistent-ils pas quand on les réduit en esclavage? Ou bien ne comprennent-ils tout simplement pas?
+}
+Common_Usurer_511 {
+Ils comprennent probablement, mais rares sont ceux qui osent s’exprimer ouvertement quand on leur brandit sous le nez un papier marqué de l’empreinte du chef. Bien sûr, cette méthode est surtout utilisée contre les tribus pacifiques—comme les Arawaks, par exemple, ou les Miskito. Avec les Itza et les Akawayo, qui sont belliqueux, et surtout avec les Caribs, cela ne fonctionne pas—parfois, même la force ne suffit pas.\nPassons maintenant directement à votre mission.
+}
+Common_Usurer_512 {
+Je sens déjà l’odeur de gros profits! Je t’écoute, @<npchar>.
+}
+Common_Usurer_513 {
+Dans quelques jours, le lourd galion appelé @<pchar> appareillera de @<sTemp>. Il transporte un important chargement d’esclaves — environ 3 000 personnes — des Indiens capturés dans divers villages le long du bas Orénoque, selon la méthode des repartimientos.\nLe galion fait route vers Santiago — les plantations de sucre de Cuba manquent cruellement de main-d’œuvre. Ta mission est de t’emparer de ce galion ainsi que de sa cargaison. La rémunération reste la même : 200 piastres par tête.
+}
+Common_Usurer_514_m {
+Hé! Ça donne envie. J’en suis.
+}
+Common_Usurer_514_f {
+Hé! Ça me tente. Je suis partant.
+}
+Common_Usurer_515 {
+Tu sais, je n’aime pas vraiment ton histoire de repartimientos — c’est bien trop cynique à mon goût. Je vais passer mon tour pour cette affaire.
+}
+Common_Usurer_516 {
+Eh bien, je vous souhaite bonne chance. Gardez à l’esprit que ce galion est commandé par un officier de marine très expérimenté. L’affronter ne sera pas facile, alors assurez-vous d’être bien préparé. Et ne perdez pas de temps — il lui faudra environ quinze à vingt jours pour atteindre @<sTemp> Santiago. Essayez de ne pas perdre sa trace, restez vigilant — vous reconnaîtrez facilement ce galion parmi les autres navires.\nAh! J’allais oublier! Le navire sera rempli de toutes sortes de bibelots indiens — les autochtones paient leurs dettes avec leurs objets artisanaux et rituels. Si vous trouvez quelque chose d’inhabituel à bord du galion, n’hésitez pas à me l’apporter — je paierai généreusement chaque découverte de valeur.
+}
+Common_Usurer_517_m {
+Compris. Je pars tout de suite.
+}
+Common_Usurer_517_f {
+Compris. Je pars tout de suite.
+}
+Common_Usurer_518 {
+Ah, @<pchar>, tu étais mon dernier espoir... C’est pour ça que je t’ai confié cette affaire—personne d’autre n’aurait pu s’en charger de toute façon... Mais il s’avère que toi non plus. Eh bien, je suppose que c’est un adieu. Après ce récent échec et toutes les vilaines rumeurs qui ont suivi, tous mes clients se sont dispersés. Je suis pratiquement ruiné, et je vais peut-être devoir quitter cette ville. Mais je ne t’en veux pas—la tâche était difficile. Ah... Adieu, .
+}
+Common_Usurer_519 {
+Je suis vraiment désolé, @<npchar>, que les choses se soient passées ainsi. Sincèrement. Peut-être que tout s’arrangera encore. Adieu.
+}
+Common_Usurer_520 {
+Ouf, quel soulagement... J'ai bien fait de te faire confiance, vraiment... Mais pourquoi cette ironie? Il y a un problème?
+}
+Common_Usurer_521_m {
+Ce que je veux dire, monsieur, c’est que votre galion n’en était pas un... Ou alors c’était un très grand galion... Que le diable m’emporte! C’était un vaisseau de ligne! Et vous ne m’en aviez jamais parlé! Malgré tout, j’ai réussi à le capturer. J’ai @<FindSlavesWithCaseString> dans ma cale, prêt à vous les remettre. Selon notre accord, vous me devez @<FindMoneyString>. Et je ne serais pas contre une compensation pour cette fausse information, d’ailleurs.
+}
+Common_Usurer_521_f {
+Ce que je veux dire, monsieur, c’est que votre galion n’était pas un galion ordinaire… Ou plutôt, c’était un très grand galion… Bon sang! C’était un vaisseau de ligne! Et vous ne m’en aviez jamais parlé! Malgré tout, j’ai réussi à le capturer. J’ai @<FindSlavesWithCaseString> dans ma cale, prêt à vous les remettre. Selon notre accord, vous me devez @<FindMoneyString>. Et je pense qu’une compensation pour cette information erronée serait également justifiée.
+}
+Common_Usurer_522 {
+As-tu trouvé le galion? Et où sont les esclaves? Il devait y en avoir au moins trois mille! Bon sang, il n’y a que des vauriens et des traîtres partout! De toutes les personnes, jamais je n’aurais cru ça de toi… Tu étais mon dernier espoir.\nEh bien, si c’est ainsi… Je te jure que je dépenserai le reste de ma fortune, quitte à finir mendiant dans les rues, mais je ferai en sorte que toute la flotte @<NationNameGenitive> te pourchasse! Disparais de ma vue!
+}
+Common_Usurer_523 {
+Euh...
+}
+Common_Usurer_524 {
+Non, vraiment! Je te jure, je n’en savais rien. Ça devait être un lourd galion, pas un vaisseau de ligne! Quelque chose a dû changer à la dernière minute… Mais tu t’en es sorti malgré tout!\nQuant à l’argent et au remboursement de tes dépenses imprévues, je suis entièrement d’accord et j’admets tout, mais il y a une circonstance insurmontable : je n’ai tout simplement pas une telle somme sur moi en ce moment. Les récents ennuis… eh bien, tu es au courant. Mais s’il te plaît, @<pchar>, ne t’énerve pas, pour l’amour de Dieu. Tu me remets la marchandise, je la vends—le client attend déjà.\nDans exactement cinq jours, j’aurai la somme complète et je te paierai intégralement. Tu peux compter dessus. Et pour te rassurer, je suis prêt à te donner tout l’argent que j’ai sur moi en ce moment—tous mes crédits.
+}
+Common_Usurer_525_m {
+Hm... Je m’attendais à être payé tout de suite. Si seulement tu savais par quoi j’ai dû passer! Bon, d’accord... Je vais te faire une faveur. Mais retiens bien ceci : si tu essaies de me rouler, même en Europe, je te retrouverai!
+}
+Common_Usurer_525_f {
+Hmm... Je comptais bien être payé tout de suite. Si tu savais dans quel genre de bagarre j’ai dû me lancer! Bon, d’accord... Je vais te faire une faveur. Mais retiens bien ceci : si tu essaies de me rouler, même en Europe, je te retrouverai!
+}
+Common_Usurer_526 {
+Tu sais quoi, @<npchar>, tu peux aller voir ailleurs. Ce n’était pas notre accord. Tu n’as aucune idée de ce que j’ai dû affronter. Je garde tous les esclaves pour moi et je vais les vendre sans ton aide.
+}
+Common_Usurer_527 {
+Ah, c’est comme ça que tu parles maintenant! Tant que le naïf @<npchar> te rapportait de l’argent, tout t’allait parfaitement, mais dès qu’il a fallu patienter, tu es prêt à l’écarter et à prendre les commandes toi-même. Et tu oublies aussitôt que c’est moi qui t’ai mis sur la piste de ce butin.\nTrès bien... Je te jure que je dépenserai le dernier sou qu’il me reste et que je mendierai dans les rues s’il le faut, mais je ferai en sorte que toute la flotte @<NationNameGenitive> te traque! Disparais de ma vue!
+}
+Common_Usurer_528 {
+Ne cherche pas à m’effrayer, sac vide. Je livrerai ta flotte aux crabes. Adieu!
+}
+Common_Usurer_529 {
+Merci de votre compréhension, @<pchar>. Je vous assure que tout sera en parfait état, alors vos menaces ne sont pas nécessaires ici.\nPrenez ceci comme avance. Il y a quinze coffres ici. Dix seront déduits du règlement final, et vous pouvez garder les cinq autres en compensation pour vos efforts. Revenez chercher le reste dans cinq jours.\nN’oubliez pas d’apporter les éventuels artefacts indiens trouvés sur le navire capturé… si vous en avez trouvé, bien sûr. Je n’ai rien à vous proposer pour eux pour l’instant de toute façon.
+}
+Common_Usurer_530 {
+Dans exactement cinq jours, @<npchar>. Cinq jours, pas un de plus...
+}
+Common_Usurer_531 {
+Comme je l’ai promis, @<pchar>, je suis prêt à vous payer. Les esclaves ont été vendus, le client est satisfait, et nous aussi. Après déduction de l’avance, la somme qui vous revient est de @<FindMoneyString>. Prenez votre argent, je vous prie.
+}
+Common_Usurer_532 {
+Excellent, @<npchar>. C’est un plaisir de traiter avec quelqu’un qui sait tenir parole…
+}
+Common_Usurer_533 {
+Tu peux toujours te fier à ma parole, @<pchar>. Je ne t’ai jamais donné de raison d’en douter, et ça n’arrivera jamais. L’honnêteté entre partenaires est la base de toute affaire réussie.\nMaintenant, à propos de ces artefacts indiens. Montre-moi ce que tu as—je meurs de curiosité, vrai collectionneur que je suis.
+}
+Common_Usurer_534 {
+Hum... Je vous en prie, regardez.
+}
+Common_Usurer_535 {
+Voilà! Magnifique! Une tête olmèque en basalte! C’est un artefact rare. J’en voulais une dans ma collection depuis longtemps. Je vous en offre 30 000, ou bien un échange contre une figurine de Tlaloc — j’en ai deux.
+}
+Common_Usurer_536 {
+Je prends l'argent.
+}
+Common_Usurer_537 {
+J’échange cet objet contre une figurine de Tlaloc.
+}
+Common_Usurer_538 {
+Je vais garder cet artefact pour moi.
+}
+Common_Usurer_539 {
+Eh bien... Malheureusement, rien ici n’a retenu mon intérêt.
+}
+Common_Usurer_540 {
+Eh bien, non c’est non, comme tu veux.
+}
+Common_Usurer_541 {
+Formidable! Voici vos 30 000, et cette tête olmèque m’appartient désormais.
+}
+Common_Usurer_542 {
+Excellent. Eh bien, si c'est tout ce qui a retenu votre attention...
+}
+Common_Usurer_543 {
+Magnifique! Voici ta statuette, et maintenant cette tête olmèque m’appartient.
+}
+Common_Usurer_544 {
+Excellent. Eh bien, si c’est tout ce qui a retenu votre attention...
+}
+Common_Usurer_545 {
+Eh bien, comme vous voulez. Mais c’est dommage, vraiment dommage...
+}
+Common_Usurer_546 {
+Eh bien, si c’est tout ce qui a retenu votre attention...
+}
+Common_Usurer_547 {
+Attends! Laisse-moi regarder encore une fois...
+}
+Common_Usurer_548 {
+Veuillez jeter un œil et faire votre choix.
+}
+Common_Usurer_549 {
+Voilà! Je ne l’avais pas remarqué au début! Cette figurine du jeune Indien m’intéresse. C’est vraiment une pièce fascinante, je dois dire... Je suis prêt à en donner 20 000 piastres, ou à l’échanger contre l’amulette Shiucoatli.
+}
+Common_Usurer_550 {
+Je prends l'argent.
+}
+Common_Usurer_551 {
+J’échange cet objet contre l’amulette Shiukoatl.
+}
+Common_Usurer_552 {
+Je vais garder cet artefact pour moi.
+}
+Common_Usurer_553 {
+Non, hmm... En fait, tu n’as finalement rien dont j’aie besoin.
+}
+Common_Usurer_554 {
+Très bien! Aucun mal s’il ne devait pas en être ainsi.
+}
+Common_Usurer_555 {
+Magnifique! Voici vos 20 000, et cette figurine m’appartient désormais.
+}
+Common_Usurer_556 {
+Excellent. Je suis tout à fait satisfait de notre accord.
+}
+Common_Usurer_557 {
+Formidable! Voici ton amulette, et cette figurine m’appartient désormais.
+}
+Common_Usurer_558 {
+Excellent. Notre accord m’a parfaitement convenu.
+}
+Common_Usurer_559 {
+Eh bien, comme vous voulez. Mais c’est dommage, vraiment dommage...
+}
+Common_Usurer_560_m {
+J'ai besoin de cette statuette pour moi, désolé.
+}
+Common_Usurer_560_f {
+J'ai besoin de cette statuette pour moi, désolé.
+}
+Common_Usurer_561 {
+Eh bien... En prenant ce galion—pardon, ce vaisseau de ligne—vous m’avez littéralement sauvé. Je suis heureux de travailler avec vous, @<pchar>. Je doute d’avoir jamais eu un meilleur agent que vous.
+}
+Common_Usurer_562_m {
+Je suis flatté, je ne le nie pas. Mais vous exagérez un peu mes qualités...
+}
+Common_Usurer_562_f {
+Je suis flatté, je ne le nie pas. Mais vous exagérez un peu mes qualités...
+}
+Common_Usurer_563 {
+Je suis tout à fait sérieux. Et c’est justement parce que tu possèdes des compétences aussi remarquables, et parce que j’ai une confiance totale en toi, que je te demande d’accomplir ma prochaine mission.
+}
+Common_Usurer_564 {
+Eh bien! Voilà qui est surprenant! Je t’écoute. Où se trouve le prochain galion d’esclaves?
+}
+Common_Usurer_565 {
+Cette fois, j’ai une autre mission pour toi, qui n’a rien à voir avec les esclaves. Surpris? Je paierai bien pour ce travail... très bien.
+}
+Common_Usurer_566 {
+Allons droit au but.
+}
+Common_Usurer_567 {
+Cette affaire est directement liée aux événements récents, auxquels, d’ailleurs, vous avez également pris part... Comme vous le savez, je mène une activité qui n’est pas tout à fait légale — la traite des esclaves. Vous savez aussi que j’emploie des corsaires comme vous pour accomplir certaines tâches pour moi.\nRécemment, l’un de mes hommes, pour une raison qui m’échappe, m’a trahi — il a rédigé un rapport et rassemblé des preuves impliquant mes associés de confiance et moi-même dans la traite illégale d’esclaves. Vous en avez vu les conséquences : un navire est arrivé d’une colonie voisine avec des soldats, et... eh bien, vous connaissez la suite.\nJ’ai dû déployer beaucoup d’efforts pour apaiser la situation et dissimuler les circonstances de la destruction de la pinasse et de la mort des soldats dans ma maison. Comme vous le comprenez, une trahison ne peut rester impunie. De plus, je ne peux ni vivre ni travailler sereinement tant que ce rat est vivant et rôde dans l’archipel. J’ai lancé des chasseurs de primes à ses trousses, mais jusqu’à présent, ils n’ont rien trouvé.\nJe vous demande de vous charger personnellement de cette affaire. D’autant plus que la trahison de ce misérable vous a également touché directement.
+}
+Common_Usurer_568 {
+Hmm... Ce vaurien mérite d’être pendu à la vergue! Donnez-moi plus de détails à son sujet, et bien sûr, indiquez-moi le montant de la récompense pour ce travail.
+}
+Common_Usurer_569 {
+Ne vous inquiétez pas pour la récompense. Je vous paierai généreusement pour l’avoir éliminé—et pas seulement en argent. Je ne vous priverai pas des plus belles pièces de ma collection indienne. Maintenant, parlons de lui. Ce rat s’appelle François Gontier. Récemment, pour brouiller les pistes, il a vendu sa frégate dans l’un des chantiers navals de l’archipel et a disparu—car il sait que je le poursuis. J’ai appris par mes contacts qu’il a été aperçu récemment à Panama. Vous feriez mieux de commencer vos recherches là-bas.
+}
+Common_Usurer_570 {
+Très bien, je pars tout de suite.
+}
+Common_Usurer_571 {
+Je vous souhaite bonne chance. Et soyez prudent : ce vaurien de Gontier est un marin chevronné, entouré d’une bande de brutes sans scrupules. Il n’a rien à perdre, alors il se battra de toutes ses forces.
+}
+Common_Usurer_572 {
+J’en ai vu de plus féroces que ça… Mais je retiens vos paroles. Adieu, et soyez certain que je le retrouverai, même s’il me faut aller en enfer.
+}
+Common_Usurer_573 {
+Magnifique! Qu’il écrive ses rapports aux méduses, maintenant. Personne ne me provoque sans en payer le prix! Merci, @<pchar>, tu es tout simplement indispensable.
+}
+Common_Usurer_574 {
+Merci, @<npchar>, pour votre évaluation flatteuse de mes actions. Maintenant, qu'en est-il de ma récompense?
+}
+Common_Usurer_575 {
+Oui, bien sûr. Pour cette tâche des plus difficiles, je te récompenserai comme il se doit. Je t’offre, gratuitement, la fierté de ma collection : la statuette Atlaua. J’espère que tu comprends qu’il ne s’agit pas d’un simple bibelot?
+}
+Common_Usurer_576 {
+Oh, quel cadeau! Oui, je sais, c’est le « Lord of the Waters », une statue magique. Un objet vraiment utile pour tout marin.
+}
+Common_Usurer_577 {
+De plus, je vous verserai une prime de 100 000 piastres ainsi que 50 000 piastres pour couvrir les frais de déplacement.
+}
+Common_Usurer_578 {
+Merci, @<npchar>. Encore une fois, je dois dire : c’est un plaisir de travailler avec vous.
+}
+Common_Usurer_579 {
+Eh bien, comme d’habitude, je t’attendrai chez moi dans un mois. Quelque chose d’important se prépare, et tu auras besoin d’une escadre bien équipée. S’il te plaît, prends mes paroles au sérieux et prépare-toi comme il faut. Si tout se passe bien, nous serons tous les deux riches.
+}
+Common_Usurer_580 {
+Très bien, @<npchar>. Je viendrai entièrement armé.
+}
+Common_Usurer_581_m {
+C’est dommage, vraiment regrettable... Mais ne te laisse pas abattre : tu n’es pas le premier à laisser filer ce vaurien. Peu importe, je m’en occuperai moi-même tôt ou tard.\nMaintenant, je t’attends dans un mois. Une opération d’envergure se prépare, et il te faudra une escadre bien équipée. Je t’en prie, prends mes paroles au sérieux et prépare-toi comme il faut. Si nous réussissons, nous serons tous les deux riches.
+}
+Common_Usurer_581_f {
+Quel dommage, vraiment... Mais ne le prends pas trop à cœur : tu n’es pas le premier à avoir échoué à attraper ce vaurien. Peu importe, je m’en occuperai moi-même tôt ou tard.\nMaintenant, je t’attends dans un mois. Une opération d’envergure se prépare, et tu auras besoin d’une escadre bien équipée. S’il te plaît, prends mes paroles au sérieux et prépare-toi comme il faut. Si tout se passe bien, nous deviendrons riches tous les deux.
+}
+Common_Usurer_582 {
+Très bien, @<npchar>. Je viendrai entièrement armé.
+}
+Common_Usurer_583 {
+Tu arrives juste à temps, @<pchar>! Je commençais à m’inquiéter et j’allais envoyer quelqu’un à ta recherche.\nBien, commençons! Cette fois, tu auras une mission très sérieuse, mais la récompense sera à la hauteur. Après l’opération, tu recevras un million, voire plus.
+}
+Common_Usurer_584 {
+Voilà ce que je voulais entendre! Je t’écoute, @<npchar>.
+}
+Common_Usurer_585 {
+Au cours du mois dernier, des Indiens réduits en esclavage ont été amenés à La Havane depuis tout le continent en petits groupes, et, en plus, plusieurs galions transportant de « l’ivoire noir » sont arrivés d’Afrique et ont déchargé leur cargaison. En ce moment, derrière les hautes murailles du fort de La Havane, il y a pas moins de cinq mille esclaves.
+}
+Common_Usurer_586 {
+J’ai l’impression que nous allons parler ni plus ni moins que de l’attaque contre La Havane.
+}
+Common_Usurer_587 {
+Tu as tout compris, @<pchar>. C’est exactement ce que je veux te confier. À toi, et à personne d’autre. Je ne pense pas que mes autres agents soient capables de mener à bien une opération aussi importante.\nTu accepteras cette mission, n’est-ce pas?
+}
+Common_Usurer_588_m {
+Pour être honnête, @<npchar>, je suis assez surpris. Je ne m’attendais pas à ce que vos activités soient aussi... vastes. Bien sûr, j’accepte le travail. @<RandSwear>
+}
+Common_Usurer_588_f {
+Pour être honnête, @<npchar>, je suis plutôt surpris. Je ne m’attendais pas à ce que vos activités soient aussi... vastes. Bien sûr, j’accepte le travail. @<RandSwear>
+}
+Common_Usurer_589 {
+Tu sais quoi, @<npchar>, là, c’en est trop. J’en ai assez de tes surprises. Avec ta cupidité, je vais devoir déclarer la guerre à l’Espagne d’ici demain. Si tu veux tant ces esclaves, va donc prendre d’assaut La Havane toi-même.
+}
+Common_Usurer_590 {
+Je ne m’attendais pas à ça de ta part. Vraiment pas… Bon sang, qu’est-ce que je vais dire au client maintenant? Très bien. Si tu refuses, je trouverai quelqu’un d’autre. Adieu, @<pchar>. Je ne pense pas refaire appel à tes services. Et souviens-toi : tu as toi-même renoncé à une affaire qui aurait pu assurer l’avenir de tes descendants pour des générations.
+}
+Common_Usurer_591 {
+Tu ne peux pas gagner tout l’argent du monde. Tu n’as jamais entendu le proverbe : « À vouloir trop en prendre, on se blesse »? Adieu, @<npchar>.
+}
+Common_Usurer_592 {
+Je n’avais aucun doute sur votre réponse. Voici quelques précisions : prendre le fort de Havana n’a jamais été facile, mais la tâche est aujourd’hui encore plus ardue. Deux vaisseaux de ligne patrouillent actuellement au large de Havana, protégeant les accès maritimes de la ville. Il vous faudra d’abord vous occuper de ces navires avant de pouvoir lancer l’assaut...
+}
+Common_Usurer_593 {
+Compris. Ce n’est pas la première fois que j’affronte des vaisseaux de ligne. Combien de temps me reste-t-il?
+}
+Common_Usurer_594 {
+Pas longtemps. Trois semaines tout au plus. Après cela, les esclaves seront envoyés dans les fabriques espagnoles à Cuba. Alors vous feriez mieux de vous dépêcher.
+}
+Common_Usurer_595 {
+Alors ne perdons pas de temps. J’y vais!
+}
+Common_Usurer_596 {
+Un instant! @<pchar>, il n’y a jamais eu de malentendus ni de désaccords entre nous. Pourtant, je tiens à t’informer de la situation actuelle. Je compte sur toi, et le client compte sur moi.\nLui comme moi avons déjà investi beaucoup d’efforts et de ressources dans cette affaire—pour obtenir les informations que je viens de te transmettre. Tous les esclaves capturés, ainsi que les cinq mille unités de cargaison, doivent m’être remis intacts et sans dommage.\nSinon, nous serons contraints de prendre des mesures très, très sévères contre toi. S’il te plaît, ne prends pas cet avertissement pour toi—garde-le simplement à l’esprit.
+}
+Common_Usurer_597 {
+Pas d’inquiétude, @<npchar>, je sais comment les affaires fonctionnent. À bientôt.
+}
+Common_Usurer_598 {
+Alors, quels sont, pour ainsi dire, les fruits matériels de ta victoire?
+}
+Common_Usurer_599 {
+J’ai @<FindSlavesString> dans ma cale.
+}
+Common_Usurer_600 {
+Eh bien, eh bien... Tu as oublié ce que je t’ai dit? Tu devais m’apporter pas moins de cinq mille esclaves, mais pour une raison quelconque tu n’en as que @<sTemp>. Comment est-ce arrivé?
+}
+Common_Usurer_601 {
+Hmm... Tout le monde n’a pas survécu au voyage dans la cale depuis Havana...
+}
+Common_Usurer_602 {
+Eh bien, eh bien... Tu essaies de me tromper, c’est ça? Tu as oublié ce que je t’ai dit? Où sont mes esclaves? Où sont-ils, je te demande?
+}
+Common_Usurer_603 {
+Hmm... Eh bien, il s'est passé quelque chose ici...
+}
+Common_Usurer_604 {
+Très bien. Pas besoin d’explications. Je vous donne une semaine pour livrer au moins cinq mille esclaves, comme convenu. Sinon… ne dites pas que je ne vous avais pas prévenu!
+}
+Common_Usurer_605 {
+D’accord, d’accord, pas la peine de s’énerver — tu auras tes cinq mille esclaves!
+}
+Common_Usurer_606 {
+Magnifique! Comme toujours, tu as accompli ma tâche de façon remarquable. Je suis vraiment, vraiment satisfait de toi.
+}
+Common_Usurer_607_m {
+Je suis content de moi aussi... Mais je le serai encore plus une fois que j'aurai été payé pour la marchandise.
+}
+Common_Usurer_607_f {
+Je suis content de moi aussi... Mais je serai encore plus satisfait une fois que j'aurai été payé pour la marchandise.
+}
+Common_Usurer_608 {
+Eh bien, je suis vraiment très satisfait. Malgré le retard, vous avez accompli ma tâche de façon remarquable.
+}
+Common_Usurer_609 {
+Bien, maintenant je veux être payé pour la marchandise.
+}
+Common_Usurer_610 {
+Oui, absolument. J’irai livrer les esclaves au client, il paiera, et tu recevras ton argent. Comme la dernière fois. Faisons le calcul : tu as amené @<sTemp> esclaves. Donc, la somme qui t’est due est de @<FindMoneyString>. Reviens me voir dans une semaine pour ton paiement.
+}
+Common_Usurer_611 {
+Très bien, @<npchar>, marché conclu. Attends-moi dans une semaine. Mais écoute...
+}
+Common_Usurer_612 {
+@<pchar>, je vous en prie, arrêtons-nous là. Nous sommes partenaires, et il ne peut y avoir ni tromperie ni méfiance entre partenaires. Je vous ai promis une fortune—vous l’avez eue! Je vous ai promis des affaires lucratives—vous les avez. J’ai remboursé vos dépenses et pris en charge vos frais, même dans les moments les plus difficiles pour mon entreprise. Pouvez-vous dire que j’ai déjà manqué à ma parole?
+}
+Common_Usurer_613 {
+Hm... Non.
+}
+Common_Usurer_614 {
+Tu vois... @<pchar>, tu es mon meilleur agent, et j’espère encore faire affaire avec toi à l’avenir. Peut-être qu’il est temps d’arrêter de remettre en cause ma fiabilité—surtout de façon aussi... directe?
+}
+Common_Usurer_615 {
+D’accord, @<npchar>. Mais il faut aussi me comprendre : un million, ce n’est pas rien.
+}
+Common_Usurer_616 {
+Je vous comprends parfaitement, mais vous devez admettre que les marchandises doivent d'abord être vendues, et ce n'est qu'ensuite que vous pourrez recevoir l'argent.
+}
+Common_Usurer_617 {
+Très bien. Disons que nous nous comprenons.
+}
+Common_Usurer_618 {
+C'est parfait. Je t'attendrai chez moi dans une semaine. Pour l’instant, je dois me préparer pour l’accord avec le client.
+}
+Common_Usurer_619 {
+Je ne te retiens pas plus longtemps. À dans une semaine, @<npchar>.
+}
+Common_Usurer_620 {
+Que fais-je ici? Hmm... C’est ma banque. Je l’ai achetée il y a seulement quelques jours. En tant que tout premier client, je peux vous proposer des conditions de prêt très avantageuses...
+}
+Common_Usurer_621 {
+Au diable les remerciements! Où est @<pchar>?
+}
+Common_Usurer_622 {
+Doucement, doucement, ne criez pas! Il est parti d’ici depuis longtemps.
+}
+Common_Usurer_623 {
+Comment ça se fait?
+}
+Common_Usurer_624 {
+Tu n’es pas au courant? Il a disparu il y a une semaine. Apparemment, il est parti avec l’argent de tous ses investisseurs. On raconte même que le gouverneur s’est fait avoir. Il a abandonné cette maison, et je l’ai achetée à la ville.
+}
+Common_Usurer_625 {
+Où a-t-il disparu? Comment?
+}
+Common_Usurer_626 {
+J’ai entendu dire qu’il a quitté notre colonie… Je vois qu’il vous doit aussi de l’argent… Beaucoup?
+}
+Common_Usurer_627 {
+Plus d’un million! Je vais attraper ce rat, quoi qu’il en soit! Est-ce qu’on sait où il est parti? Sur quel navire était-il?
+}
+Common_Usurer_628 {
+Personne ne sait. Rien du tout. C’est comme s’il s’était volatilisé. Là un instant, disparu l’instant d’après. Ce jour-là, un fluyt a quitté le port—soit le “Mauritius”, soit le “Mavrody”—je suppose que c’est comme ça qu’il s’est échappé.
+}
+Common_Usurer_629_m {
+Bon sang! Il fallait que je fasse confiance à un vaurien pareil! Sa trahison se sentait à des kilomètres! Et moi, l’idiot, j’ai cru qu’on était vraiment partenaires! Mais il va le regretter, tu peux me croire... Enfin, @<npchar>, pardonne ma grossièreté... Adieu.
+}
+Common_Usurer_629_f {
+Malédiction! De toutes les choses, j’ai fait confiance à ce vaurien! Sa trahison se sentait à des kilomètres! Et moi, l’idiot, j’ai cru que nous étions vraiment partenaires! Mais il s’en mordra les doigts, tu peux me croire... Enfin, @<npchar>, pardonne mon impolitesse... Adieu.
+}
+Common_Usurer_630 {
+Tout va bien, je comprends. Si jamais vous avez besoin d’argent, ou au contraire, souhaitez faire un dépôt, je suis toujours à votre service.
+}
+Common_Usurer_631 {
+Merci. Mais je préfère garder mon argent avec moi. Bonne continuation.
+}
+Common_Usurer_632 {
+Vraiment? Donc il ne veut plus me parler en personne... Très bien, discutons-en avec vous. @<pchar> me doit @<FindMoneyString> : @<FindMoneyString> pour la dette principale et @<FindMoneyString> d’intérêts pour trois mois. Et si je ne vois pas l’argent d’ici demain, je vendrai sa relique, aussi précieuse soit-elle pour lui. Les affaires sont les affaires.
+}
+Common_Usurer_633 {
+Excellent! Dans ce cas, je règle immédiatement la totalité de la somme due, avec les intérêts — @<FindMoneyString>. Mon client viendra récupérer sa relique en personne. Voici votre argent.
+}
+Common_Usurer_634 {
+Mon client aura l’argent dans trois mois. Faisons un accord : je vous paie les intérêts des trois derniers mois, plus trois mois d’intérêts à l’avance — soit un total de @<FindMoneyString>. Et à la fin de cette période, le capital sera remboursé.
+}
+Common_Usurer_635 {
+L’argent sera chez mon client dans trois mois. Peut-être pourrais-je régler les intérêts accumulés, et vous pourriez attendre que mon client ait la somme totale?
+}
+Common_Usurer_636 {
+Quel prix pour une telle rareté! Eh bien, il semble que mon client doive se séparer de sa relique. Adieu!
+}
+Common_Usurer_637 {
+Magnifique! Tout s’est déroulé à merveille — je vais recevoir mon argent, et le respecté @<pchar> retrouvera sa relique.
+}
+Common_Usurer_638 {
+Je suis ravi que nous soyons parvenus à un accord aussi facilement, @<npchar>! Maintenant, si vous voulez bien m’excuser, je vais prendre congé.
+}
+Common_Usurer_639 {
+Hmm... Très bien. Cette option me convient parfaitement. Mais si le distingué @<pchar> ne trouve pas l’argent dans les trois mois, je n’accorderai plus aucun délai, quelles qu’en soient les raisons. Dites-lui bien cela.
+}
+Common_Usurer_640 {
+Je m’assurerai de transmettre le message! Je suis heureux que nous soyons parvenus à un accord. Maintenant, si vous voulez bien m’excuser, je vais prendre congé.
+}
+Common_Usurer_641 {
+Non. Ça ne va pas. J’ai besoin de la somme complète, et avant le coucher du soleil. Dis exactement cela à ton « client ». Je n’ai rien d’autre à ajouter.
+}
+Common_Usurer_642 {
+Hmm. Dommage que vous ne soyez pas prêt à faire des compromis. Adieu!
+}
+Common_Usurer_643 {
+Hm... Très bien. J’accorde cette concession par respect pour votre client. Mais si @<pchar> ne trouve pas l’argent dans les trois mois, il n’y aura plus aucun délai, quelles que soient les circonstances. Dites-le-lui.
+}
+Common_Usurer_644 {
+Je ne manquerai pas de transmettre le message! Je suis ravi que nous soyons tombés d’accord. Maintenant, si vous voulez bien m’excuser, je vais prendre congé.
+}
+Common_Usurer_645 {
+Non. Ça ne va pas. J’ai besoin de la somme complète, et avant le coucher du soleil. Dis exactement cela à ton « client ». Je n’ai rien d’autre à ajouter.
+}
+Common_Usurer_646 {
+Hmm. Dommage que vous ne soyez pas prêt à faire des compromis. Adieu!
+}
+Common_Usurer_647 {
+De quoi parlez-vous! Je n’ai jamais ouvert de dépôt à votre nom, @<pchar>. Et il n’est même plus dans notre colonie—il est parti pour l’Europe. Franchement, je n’ai jamais rencontré un homme aussi malhonnête de ma vie. Il a essayé de m’arnaquer, mais ça n’a pas marché : j’ai mes propres méthodes pour gérer ce genre de personnes...
+}
+Common_Usurer_648 {
+Quel vaurien! Et dire qu’il avait promis, donné sa parole d’honneur…
+}
+Common_Usurer_649 {
+Oui, c’est exact. Un dépôt à votre nom, @<pchar>, a été laissé pour ce montant précis. Veuillez le récupérer…
+}
+Common_Usurer_650 {
+Excellent! Adieu, @<npchar>.
+}
+Common_Usurer_651 {
+Pour quelqu’un comme @<pchar>, la notion de « parole d’honneur » ne signifie rien, car il n’a ni honneur ni conscience. Ai-je raison de penser qu’il vous a trompé?
+}
+Common_Usurer_652 {
+On dirait bien. Eh bien, @<npchar>... qui sait, j’aurai peut-être affaire en Europe et nous nous reverrons. Adieu!
+}
+Common_Usurer_653 {
+Et qu’est-ce que vous voulez?
+}
+Common_Usurer_654 {
+En fait, je collectionne des pages d’une œuvre extrêmement rare — l’Encyclopédie maritime. Est-ce que vous êtes déjà tombé sur quelque chose de ce genre?
+}
+Common_Usurer_655 {
+Eh bien, il se trouve que j’ai récemment réussi à mettre la main sur l’une des pages de cette Encyclopédie.
+}
+Common_Usurer_656 {
+Excellent! Puis-je vous l’acheter?
+}
+Common_Usurer_657 {
+Je connais une telle collection. Il paraît qu'elle se compose de douze volumes. Cependant, je ne peux pas me vanter d’en posséder ne serait-ce qu’une seule page.
+}
+Common_Usurer_658 {
+Merci pour votre réponse.
+}
+Common_Usurer_659 {
+Vous êtes une personne remarquable et un marin exceptionnel. Ce serait un honneur si vous acceptiez cette page comme un cadeau de ma part.
+}
+Common_Usurer_660_m {
+Votre générosité est sans limite. Je vous suis profondément reconnaissant!
+}
+Common_Usurer_660_f {
+Votre générosité est sans limite. Je vous suis vraiment reconnaissant!
+}
+Common_Usurer_661 {
+Je ne dirais pas que vous êtes un capitaine compétent, mais pourquoi pas? Êtes-vous prêt à payer @<FindMoneyString> pour cette page?
+}
+Common_Usurer_662 {
+Eh bien, je suppose que @<FindMoneyString> est un prix raisonnable pour un objet aussi rare.
+}
+Common_Usurer_663 {
+Tu me plais, et tu sais ce que tu fais, alors je veux bien te laisser cette page pour une somme symbolique de @<FindMoneyString>.
+}
+Common_Usurer_664 {
+Je ne vois pas à quoi cela pourrait bien te servir. De toute évidence, tu n’es pas fait pour commander un navire ou un équipage. Mais soit — @<FindMoneyString>, et c’est à toi.
+}
+Common_Usurer_665 {
+Marché conclu, voici l’argent.
+}
+Common_Usurer_666 {
+Non, c’est trop cher pour moi en ce moment.
+}
+Common_Usurer_667 {
+Et voici votre page.
+}
+Common_Usurer_668 {
+Merci. Je dois y aller maintenant.
+}
+Common_Usurer_669 {
+Petit rappel, le prix est de @<FindMoneyString>.
+}
+Common_Usurer_670 {
+Voici l’argent.
+}
+Common_Usurer_671 {
+Non, c’est trop cher pour moi en ce moment.
+}
+Common_Usurer_672 {
+Malheureusement, ces pages sont bien trop rares pour que j’en trouve deux fois. Je pense que vous devriez tenter votre chance dans d’autres colonies. Si vous poursuivez vos recherches, vos efforts pourraient ne pas passer inaperçus, et un véritable flot de pages réécrites de l’Encyclopédie pourrait déferler sur les Caraïbes. Si cela arrive, je vous attendrai ici à nouveau!
+}
+Common_Usurer_673 {
+Je suppose que c’est ce que je vais faire. Adieu!
+}
+Common_Usurer_674 {
+Nous en avons parlé il n’y a pas si longtemps. Un peu de patience, s’il te plaît!
+}
+Common_Usurer_675_m {
+Je vous prie de m’excuser, je ne voulais pas vous déranger. Je vais m’en aller maintenant.
+}
+Common_Usurer_675_f {
+Je m’excuse, je ne voulais pas déranger. Je vais m’en aller maintenant.
+}
+Common_Usurer_676 {
+Oui, j’ai justement une page que je peux partager avec vous.
+}
+Common_Usurer_677_m {
+Dans ce cas, je souhaite l’acheter immédiatement.
+}
+Common_Usurer_677_f {
+Dans ce cas, je souhaiterais l’acheter immédiatement.
+}
+Common_Usurer_678 {
+Hélas, je ne peux pas vous donner de réponse positive. Je n'ai pas reçu une seule page pendant tout ce temps. Mais revenez me voir—peut-être en aurai-je à l'avenir.
+}
+Common_Usurer_679 {
+Merci pour votre réponse.
+}
+Common_Usurer_680 {
+Mon cher, j'ai une marchandise qui demande... disons, une manipulation délicate et des mains fiables. Et il me semble que votre expertise en la matière serait bien plus utile que la mienne, et...
+}
+Common_Usurer_681 {
+Je vous écoute. De quoi s'agit-il exactement ?
+}
+Common_Usurer_682 {
+J'ai dans ma cale un bon lot d'huîtres perlières non ouvertes (Pinctada). Je soupçonne que vous êtes la seule personne en cette ville capable de les ouvrir correctement, sans transformer une cargaison précieuse en un tas de détritus inutiles.
+}
+Common_Usurer_683 {
+Oh, vous avez frappé à la bonne porte ! Une telle marchandise est très, très prisée en Europe ! J'ai justement quelques maîtres sous la main, d'anciens pêcheurs de perles, au cas où... Hem... Pour une telle occasion, oui ! Ils savent comment sectionner le muscle d'un seul geste pour que la valve reste parfaite. Puis-je en savoir plus sur votre marchandise ?
+}
+Common_Usurer_684 {
+Plusieurs paniers d'huîtres perlières sauvages des côtes locales. Les coquilles sont grandes, vieilles, encroûtées de calcaire. Vous comprenez bien que les forcer avec un simple coutelas de marin reviendrait à détruire la gemme et la coquille elle-même.
+}
+Common_Usurer_685 {
+Des paroles d'or ! Les marins sont des barbares non qualifiés. Ils massacrent les valves comme s'ils coupaient de la canne dans une plantation de sucre. Pourtant, une valve de nacre entière de cette taille est une petite fortune entre les mains d'un ébéniste européen.
+}
+Common_Usurer_686 {
+C'est précisément pour cela que je suis ici. Je n'ai ni les outils, ni les compétences, ni la main-d'œuvre pour extraire les perles tout en préservant le reste. Je vous propose un marché. Mes marins vous livrent la marchandise. Vos maîtres les ouvrent. Toute la nacre — propre, entière, prête à être expédiée en Europe — vous revient. Cela couvrira vos frais et vous rapportera un excellent profit. Toutes les perles trouvées — je les garde pour moi. Mes hommes seront présents lors de l'ouverture pour s'assurer que tout soit honnête.
+}
+Common_Usurer_687 {
+Tout cela semble intéressant, bien sûr... Mais, capitaine, permettez-moi de vous demander — d'où tenez-vous une marchandise aussi rare et spécifique ? Vous savez, elle est très voyante et sous la surveillance des autorités. Je soupçonne fort que vous et vos hommes ne passez guère votre temps libre à pêcher des perles...
+}
+Common_Usurer_688 {
+Laissons de côté les formalités. Ces coquilles sont, disons, « tombées » par-dessus bord d'une barque espagnole avant d'avoir pu être inscrites au registre. Elles ne figurent dans aucun document, et il n'y a aucun témoin. Vous obtenez votre part de profit sans quitter votre bureau. Et je récupère les perles, qui sont bien plus faciles à cacher dans une poche qu'une cale entière de coquillages.
+}
+Common_Usurer_689 {
+Votre audace n'a d'égale que votre logique, capitaine. Bien, supposons que ces huîtres se soient simplement échouées à vos pieds. Je réglerai toutes les questions avec les autorités.\nDites à vos marins d'apporter la cargaison à la porte arrière de l'atelier. Et qu'ils couvrent les paniers d'une vieille toile — il ne faut pas tenter le diable ni provoquer inutilement les limiers du port.
+}
+Common_Usurer_690 {
+Parfait. Au travail...
+}
+Common_Usurer_691_m {
+@<GetFirstName>, j'ai encore déniché un excellent lot de « cassettes fermées » près du rivage ! Si vous voyez ce que je veux dire... Vos maîtres sont-ils libres ?
+}
+Common_Usurer_691_f {
+@<GetFirstName>, j'ai encore déniché un excellent lot de « cassettes fermées » près du rivage ! Si vous voyez ce que je veux dire... Vos maîtres sont-ils libres ?
+}
+Common_Usurer_692 {
+Accepteriez-vous une nouvelle prise de « cassettes » à traiter ? Avez-vous encore des maîtres disponibles ?
+}
+Common_Usurer_693_m {
+Je sais que vous avez réussi à tirer un bon profit du précédent lot de marchandises irisées. C'est pourquoi je vous en ai apporté d'autres !
+}
+Common_Usurer_693_f {
+Je sais que vous avez réussi à tirer un bon profit du précédent lot de marchandises irisées. C'est pourquoi je vous en ai apporté d'autres !
+}
+Common_Usurer_694 {
+Pour vous, les maîtres sont toujours libres, capitaine ! La dernière nacre était tout simplement divine, d'un éclat pur ! J'espère que cette prise ne sera pas moins bonne.
+}
+Common_Usurer_695 {
+Les maîtres sont libres et prêts à travailler. Ah... Chaque lot comme celui-ci est un pas de plus vers mon monopole sur l'approvisionnement en nacre ! Vous savez, capitaine, j'ai commencé par le commerce de pierres taillées, mais maintenant rien n'est plus plaisant que de voir une coquille parfaitement ouverte.
+}
+Common_Usurer_696 {
+Oui, oui... Pas si fort, je vous prie. La dernière fois, la garde municipale au port surveillait vos « cassettes » d'un air très suspect. Déchargez, mais soyez plus prudent cette fois-ci, je vous en supplie ! Même si je dois l'avouer — le risque en vaut la peine, capitaine.
+}
+Common_Usurer_697 {
+Ravi de voir un tel enthousiasme. Notre argent sent la mer et la chance, n'est-ce pas ? Ha-ha !
+}
+Common_Usurer_698 {
+Voyons ce que la mer nous a préparé cette fois. Aux affaires !
+}
+Common_Usurer_699 {
+Bien. Nous allons commencer immédiatement, avant qu'elles ne s'assèchent.
+}
+Common_Usurer_700 {
+@<LinkRandPhrase>
+}

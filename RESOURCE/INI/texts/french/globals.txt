@@ -1,0 +1,93 @@
+CARDS_RULE
+{
+Les règles sont simples. Blackjack. 36 cartes, des six aux as. L’as vaut 11 points, le roi 4, le Lord (cavalier) 3, le Nobile (fantassin) 2, les autres valent leur valeur indiquée. Le but est d’atteindre 21 points.
+Cliquez sur le paquet pour tirer une carte de plus. Chaque carte est une mise. Cliquez sur le portrait en haut à droite pour terminer votre tour. Il vous faut assez d’argent pour au moins trois mises pour jouer. Appuyez sur Échap ou sur la croix pour quitter.
+}
+DICE_RULE {Craps. Cinq dés pour chaque joueur. Vous pouvez relancer tous les dés ou seulement certains, mais une seule fois. Chaque dé misé compte comme une mise. Votre objectif est d’obtenir le score le plus élevé.\nVoici les combinaisons : duo (2), deux duos (2+2), triade (3), full (3+2), carré (4), suite (dés consécutifs) et poker (5).\nCliquez sur un gobelet pour lancer, sur un dé pour relancer ce dé précis, sur un portrait pour terminer votre tour (si vous ne souhaitez pas relancer ou n’avez pas assez d’argent).}
+Address_Form_Spa {señor}
+Address_Form_Fra {monsieur}
+Address_Form_Eng {monsieur}
+Address_Form_Por {seigneur}
+Address_Form_Hol {mynheer}
+Address_Form_Pir {monsieur}
+Address_Form_SpaWoman {señorita}
+Address_Form_FraWoman {mademoiselle}
+Address_Form_EngWoman {manquer}
+Address_Form_HolWoman {mefrau}
+Address_Form_PirWoman {manquer}
+Address_Form_SpaWoman2 {señora}
+Address_Form_FraWoman2 {madame}
+Address_Form_EngWoman2 {madame}
+Address_Form_HolWoman2 {frau}
+Address_Form_PirWoman2 {madame}
+BaronTitle {baron}
+BaronWomanTitle {baronne}
+Officer_Attack {Officiers, à l’attaque !}
+Officer_Follow {Officiers, suivez-moi !}
+Officer_Stay {Officiers, restez en place !}
+Potion_Not_Found {Potion introuvable !}
+Used_Antidote {Antidote utilisé}
+No_Search_Anyone {Personne à fouiller}
+Address_Form_Spa_Title1 {Corsaire}
+Address_Form_Fra_Title1 {Corsaire}
+Address_Form_Eng_Title1 {Corsaire}
+Address_Form_Hol_Title1 {Flibustier}
+Address_Form_Pir_Title1 {Boucanier}
+Address_Form_Spa_Title2 {Lieutenant}
+Address_Form_Fra_Title2 {Lieutenant}
+Address_Form_Eng_Title2 {Lieutenant}
+Address_Form_Hol_Title2 {Lieutenant}
+Address_Form_Pir_Title2 {Loup de mer}
+Address_Form_Spa_Title3 {Capitaine}
+Address_Form_Fra_Title3 {Capitaine}
+Address_Form_Eng_Title3 {Capitaine}
+Address_Form_Hol_Title3 {Capitaine}
+Address_Form_Pir_Title3 {Vétéran}
+Address_Form_Spa_Title4 {Commodore}
+Address_Form_Fra_Title4 {Commodore}
+Address_Form_Eng_Title4 {Commodore}
+Address_Form_Hol_Title4 {Commodore}
+Address_Form_Pir_Title4 {Lord}
+Address_Form_Spa_Title5 {Amiral}
+Address_Form_Fra_Title5 {Amiral}
+Address_Form_Eng_Title5 {Amiral}
+Address_Form_Hol_Title5 {Amiral}
+Address_Form_Pir_Title5 {Légende}
+NationKingsName_Spa {Sa Majesté Catholique Carlos II Habsbourg}
+NationKingsName_Fra {Sa Majesté Très Chrétienne Louis XIV}
+NationKingsName_Eng {Sa Majesté Charles II Stuart}
+NationKingsName_Hol {Stathouder Guillaume III}
+NationKingsName_Por {Afonso VI le Victorieux}
+NationKingsName_Pir {Frères pirates de la Côte}
+NationKingsCrown_Spa {Couronne espagnole}
+NationKingsCrown_Fra {Couronne française}
+NationKingsCrown_Eng {Trône anglais}
+NationKingsCrown_Hol {République des Sept Provinces-Unies}
+NationKingsCrown_Por {couronne portugaise}
+NationKingsCrown_Pir {Frères de la Côte}
+Swear_1 {Caramba !}
+Swear_2 {Merde !}
+Swear_3 {Diable !}
+Swear_4 {Merde !}
+Swear_5 {Que le diable m’emporte !}
+Swear_6 {Mille requins !}
+Swear_7 {Argh !!!}
+Swear_8 {Nom d’un chien !}
+Swear_9 {Tonnerre de Brest !}
+Swear_10 {Nom d’un tonnerre !}
+Swear_11 {Merde, c’est nul !}
+Swear_12 {Oh, mince...}
+Swear_13 {Tonnerre de Brest !}
+Swear_14 {Bon sang !}
+Swear_15 {Mille diables !}
+Exclamation_1 {Oh mon Dieu !!}
+Exclamation_2 {Oh, ciel !}
+Exclamation_3 {Sainte Madone !}
+MorningGreeting {Bonjour}
+DayGreeting {Bonjour}
+EveningGreeting {Bonsoir}
+NightGreeting {Bonne nuit}
+TimeGreeting {Bonsoir}
+rat_spoiled {gâché}
+rat_damaged {endommagé}
+rat_destroyed {détruit}

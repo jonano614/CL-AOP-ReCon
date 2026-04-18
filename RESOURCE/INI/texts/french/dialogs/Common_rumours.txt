@@ -1,0 +1,525 @@
+Common_rumours_1 {
+Le capitaine Sharp était ici, je l’ai vu. Mais il n’est plus en ville maintenant, et j’ignore où il est parti.
+}
+Common_rumours_2 {
+Le capitaine Sharp est bien venu dans notre ville. Où il se trouve maintenant, je l’ignore, mais il n’est certainement pas ici avec nous.
+}
+Common_rumours_3 {
+Le capitaine Bartholomew Sharp a quitté la ville il y a seulement quelques jours...
+}
+Common_rumours_4 {
+Le capitaine Bartholomew Sharp était en ville et, comme toujours, il a su se faire remarquer... Mais il n’est plus là. On raconte qu’il est parti pour @<XI_ConvertString>.
+}
+Common_rumours_5 {
+Vous savez, le capitaine Sharp était en ville récemment. Un pirate joyeux, ce Bartholomew... Pourtant, c’est sans doute mieux qu’il ait quitté notre ville. Je crois qu’il est parti vers @<XI_ConvertString>.
+}
+Common_rumours_6 {
+Vous savez, le capitaine Sharp nous a rendu visite il n’y a pas longtemps. Mais, à notre grande déception, il n’y a pas eu de nouvelle blague caribéenne “de Sharp” cette fois-ci. Dommage… Et en ce moment, il n’est pas en ville. On dit qu’il est parti à @<XI_ConvertString>. Peut-être qu’ils auront plus de chance…
+}
+Common_rumours_7 {
+Vous savez, le capitaine Sharp vient juste de quitter la ville sur son brick. Si vous étiez arrivé une demi-heure plus tôt, vous l’auriez vu directement au port.
+}
+Common_rumours_8 {
+Le capitaine Sharp... Oui, c’est tout un capitaine, celui-là. Il vient juste de quitter notre ville. Si tu te dépêches, tu pourrais le retrouver dans les eaux voisines.
+}
+Common_rumours_9 {
+Bartholomew Sharp a quitté notre port il y a environ une heure.
+}
+Common_rumours_10 {
+Il y a quelques minutes, le capitaine Sharp m’est tombé dessus en face à face. Il traîne dans ces rues… Étonnant qu’il ne soit pas dans un bordel…
+}
+Common_rumours_11 {
+Je viens justement d’avoir l’occasion de parler avec le capitaine Sharp dans la rue. Un personnage assez intéressant, tu sais…
+}
+Common_rumours_12 {
+Le capitaine Sharp se promène en ville en ce moment. Et nous attendons tous de voir ce qu’il va encore inventer cette fois...
+}
+Common_rumours_13 {
+Tu sais, le marchand local, @<GetFullName>, envoie de nouveau son propre flûte, '@<pchar.questTemp.BlueBird.Ship.Name>', vers l’Ancien Monde pour des marchandises. Le flûte a quitté le port récemment.
+}
+Common_rumours_14 {
+Hmm, notre marchand local se débrouille plutôt bien! @<GetFullName> a de nouveau envoyé son propre flûte, « @<pchar.questTemp.BlueBird.Ship.Name> », chercher des marchandises — le navire vient tout juste de quitter notre port.
+}
+Common_rumours_15 {
+Hmm, on dirait que @<GetFullName> ne cesse de s’enrichir. Hier encore, son navire déchargeait au port, et aujourd’hui il est déjà reparti. Le flûte '@<pchar.questTemp.BlueBird.Ship.Name>' a repris la mer pour une nouvelle cargaison, tout simplement!
+}
+Common_rumours_16 {
+Le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' est en ville en ce moment. Je crois qu'il s'appelle @<GetFullName>. Il devrait être à la capitainerie pour l’instant.
+}
+Common_rumours_17 {
+Tu sais, tu peux trouver le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' au bureau du maître de port en ce moment.
+}
+Common_rumours_18 {
+Si vous voulez parler au capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> », allez directement voir le maître du port. @<GetFullName> s’y trouve en ce moment…
+}
+Common_rumours_19 {
+Le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' est ancré dans le port. Je crois qu’il s’appelle @<GetFullName>. Un drôle de type, je vous assure—il ne met jamais pied à terre.
+}
+Common_rumours_20 {
+Vous savez, on ne peut rencontrer le capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> » maintenant qu’en prenant une barque pour rejoindre le navire dans le port. Le navire est ancré au large, mais le capitaine ne met jamais pied à terre—il préfère rester à bord. Il n’en a pas encore assez, à force..?
+}
+Common_rumours_21 {
+Si vous voulez parler au capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> », rendez-vous au port. @<GetFullName>, je crois que c’est son nom... Enfin, il a jeté l’ancre dans le port, mais il refuse de mettre pied à terre. Un vrai marin — il ne supporte même pas de quitter le roulis du pont.
+}
+Common_rumours_22 {
+Le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' est en ville. Je crois qu’il s’appelle @<GetFullName>.
+}
+Common_rumours_23 {
+Vous savez, le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' se trouve en ville en ce moment.
+}
+Common_rumours_24 {
+Si vous voulez parler au capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> », essayez de le chercher dans les rues. Je crois qu’il s’appelle @<GetFullName>...
+}
+Common_rumours_25 {
+Le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' est ancré dans le port. Je crois qu’il s’appelle @<GetFullName>.
+}
+Common_rumours_26 {
+Vous savez, le capitaine @<GetStrSmallRegister> du '@<sld.Ship.name>' est actuellement dans notre port. Son navire est mouillé en rade.
+}
+Common_rumours_27 {
+Si vous voulez parler au capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> », cherchez leur navire dans notre port. Je crois que leur nom est @<GetFullName>...
+}
+Common_rumours_28 {
+Capitaine, il paraît qu’un brigantin pirate est amarré en ce moment à @<XI_ConvertString>. Les habitants ont vu des pirates débarquer et charger quelque chose à bord de leur navire.
+}
+Common_rumours_29 {
+Tu te rends compte? Un esclave est arrivé en boitant dans notre ville. Tout meurtri et malade. Il dit s’être échappé du brigantin pirate « Arrow » quand il était amarré à @<XI_ConvertString>. Mon conseil, capitaine : n’y allez pas, et si le brigantin était encore dans les parages?
+}
+Common_rumours_30 {
+Tout le monde parle du moine @<sRumourName> en ce moment. Il appréciait la source à @<XI_ConvertString>. Il disait que l’eau là-bas était bénite! Il affirmait qu’elle guérissait tous ses maux en un instant. Des balivernes, bien sûr—cette eau n’a jamais rien fait pour mon orgelet.\nEnfin... La dernière fois qu’il est revenu de là-bas, il était furieux. Il disait qu’il y avait des démons—armés d’arcs ou d’arbalètes—qui semaient le chaos et profanaient tout. Alors il a pris son marteau et est parti les chasser. Cela fait trois jours maintenant, et il n’est toujours pas revenu...
+}
+Common_rumours_31 {
+Un capitaine m’a raconté un jour comment il était tombé par hasard sur une vieille frégate abandonnée. Mais lorsqu’il a voulu s’en approcher, il s’est avéré qu’elle n’était pas abandonnée du tout : des squelettes erraient sur son pont! Sacrée histoire, non? Comme on dit, trop boire en mer finit par vous faire perdre la tête.
+}
+Common_rumours_32 {
+Il se passe des choses étranges dans ce monde! Hier encore, par exemple, mon compagnon de beuverie m’a raconté une histoire intrigante. Il était parti pêcher à @<XI_ConvertString> quand il est tombé sur une vieille frégate, apparemment abandonnée. Mais en s’approchant du navire, il a entendu des bruits étranges, comme si quelqu’un marchait sur le pont. Soudain, des marins fantomatiques sont sortis de la cale sombre et se sont mis à danser au son d’une musique surnaturelle. Il a pris la fuite… Depuis, il boit sans arrêt depuis une semaine…
+}
+Common_rumours_33 {
+Une de mes connaissances m’a raconté une histoire incroyable. Il prétend que @<XI_ConvertString> est tombé sur une frégate ancienne. Sur son pont, il y avait les squelettes de marins défunts. Et le plus étonnant, c’est que ces squelettes bougeaient encore, continuant à remplir leurs tâches malgré leur mort depuis longtemps. J’aimerais avoir une telle détermination, Capitaine! Je ne serais sûrement pas coincé dans ce trou...
+}
+Common_rumours_34 {
+Tu as entendu que Chad Capper a perdu une clé qui lui tenait à cœur? Maintenant, il parcourt toute la ville pour la retrouver...
+}
+Common_rumours_35 {
+Tu n’as pas encore entendu la plus grosse nouvelle! L’ancien propriétaire du magasin local—Pascal Voisier—a pris la fuite! Il s’avère qu’il rachetait toutes les marchandises que les pirates du coin volaient aux navires marchands. Il avait même tout un entrepôt réservé à ça. Mais quand les marchands ont compris et engagé des chasseurs de primes pour sa tête, il a tout vendu en vitesse et s’est enfui, ha ha ha! Quel sacré bazar! On est restés presque une semaine sans rhum, jusqu’à ce que ce filou de Benjamin Franklin prenne les choses en main.\nMais à quoi bon—c’est un piètre marchand, il n’arrive même pas à trouver un idiot prêt à louer l’entrepôt de l’ancien propriétaire... Il ferait mieux de se lancer en politique—c’est là que des malins comme lui devraient aller, hé hé...
+}
+Common_rumours_36 {
+Le capitaine @<GetStrSmallRegister> « @<sld.Ship.name> », connu sous le nom de @<GetFullName>, a repris la mer. On dit qu’il met le cap sur @<XI_ConvertString>.
+}
+Common_rumours_37 {
+Vous connaissez le capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> »? Eh bien, il a mis le cap sur @<XI_ConvertString>.
+}
+Common_rumours_38 {
+Si vous cherchez le capitaine du @<GetStrSmallRegister> « @<sld.Ship.name> », il vous faudra aller à @<XI_ConvertString>. C’est là que @<GetFullName> est parti.
+}
+Common_rumours_39 {
+Une de mes connaissances m’a raconté comment il avait aperçu une brigantine pirate en mer. Il naviguait sur une lougre lorsque, soudain, à l’horizon, elle est apparue—vive, rapide, agile… Ils ont à peine réussi à échapper au navire pirate—une escadre de patrouille de guerre l’a mise en fuite. Dès que le capitaine de la brigantine a aperçu cet adversaire redoutable, il a immédiatement mis le cap sur @<XI_ConvertString>. Ils n’ont eu le temps que de saisir le nom de la brigantine—“Arrow.”
+}
+Common_rumours_40 {
+Et avant-hier, nous avons eu un sacré embarras. La patrouille côtière locale a repéré une brigantine pirate qui passait tranquillement. Ils ont essayé de la chasser, et le résultat? Plus de navires de patrouille! Elle les a tous coulés... Elle s’est pavanée dans nos eaux puis est repartie vers @<XI_ConvertString>. Que dire, le gouverneur venait à peine de se calmer—avant ça, il était fou de rage.
+}
+Common_rumours_41 {
+Capitaine! Un événement extraordinaire a bouleversé notre ville! Une brigantine pirate a attaqué le flûte @<generateRandomNameToShip> en plein port! @<sRumourName>, un marin chevronné, a gardé son sang-froid et, profitant d’un vent favorable, a réussi à atteindre la sécurité du fort et de l’escadre ancrée dans la baie. Nous attendions tous avec impatience de voir le capitaine pirate finir à la potence.\nMais le destin en a décidé autrement! Se faufilant entre le fort et l’escadre, la brigantine a tout de même rattrapé le navire marchand, l’a coulé, puis s’est éloignée vers le large comme si de rien n’était. La patrouille de la marine a tenté de poursuivre, mais elle est revenue bredouille. On raconte que la brigantine leur a échappé en direction de @<XI_ConvertString>.
+}
+Common_rumours_42 {
+As-tu entendu ce qu’a raconté le capitaine revenu hier? Il est tombé sur une frégate qui a surgi de la brume et s’est précipitée à l’abordage sans tirer un seul coup de feu. Mais il a réussi à virer sur tribord, et juste au moment où il allait tirer une bordée de mitraille, le navire a disparu aussi soudainement qu’il était apparu. Il a filé sur les vagues en direction de @<XI_ConvertString> comme un oiseau! Il dit qu’il a juste eu le temps de lire le nom sur la poupe — “Queen”. Et, que le ciel me foudroie, le pont et la mâture de ce bâtiment grouillaient de morts vivants. Voilà ce que j’appelle de la sorcellerie...
+}
+Common_rumours_43 {
+Écoute, le propriétaire d’une goélette marchande racontait une sacrée histoire ici. Une nuit, dans le brouillard, il aperçoit la silhouette d’un navire et, sans trop réfléchir, décide de le suivre. Après tout, voyager en convoi, c’est plus sûr, tu sais. Puis, aux premières lueurs du jour, le brouillard se dissipe—et il se retrouve face aux orbites vides de marins morts sur l’autre navire! Il a aussitôt mis toutes les voiles et s’est enfui aussi vite qu’il a pu, mais le navire rempli de cadavres continuait de se diriger vers @<XI_ConvertString>. Le marchand a eu si peur qu’il a vendu son bateau et a quitté la mer pour de bon. Il dit qu’il préfère faire travailler des employés d’entrepôt plutôt que de remettre un pied sur l’océan.
+}
+Common_rumours_44 {
+Tu as entendu? Tu ne vas pas croire ce que @<sRumourName> a vu l’autre jour! Il affirme avoir croisé une frégate mystérieuse en pleine mer, avec un équipage de squelettes. Soudain, un épais brouillard est tombé, suivi d’une terrible tempête. Par miracle, il a été le seul de son équipage à survivre, recueilli plus tard par un navire côtier de passage. Il dit qu’avant la tempête, la frégate se dirigeait vers @<XI_ConvertString>. Alors, capitaine, si tu comptes naviguer par là, fais attention!
+}
+Common_rumours_45 {
+Sois très prudent avec Augusto Brams. Sacré sorcier...
+}
+Common_rumours_46 {
+Je vous conseille de rester à l’écart d’Augusto Brams. C’est un homme dangereux…
+}
+Common_rumours_47 {
+Tu sais, le mari d’Alice Taylor a fini en prison—l’amiral l’a fait enfermer pour avoir causé du grabuge chez lui. Et maintenant, la pauvre Alice demande de l’aide pour faire sortir son mari.
+}
+Common_rumours_48 {
+Lea Toors était justement en train de se rappeler Leighton Dexter. Cet homme a disparu sans laisser de trace...
+}
+Common_rumours_49 {
+Tu sais, Dominique Legros cherche une bouteille de vin. Je ne comprends pas—ça ne doit pourtant pas être si compliqué d’en acheter une quelque part.
+}
+Common_rumours_50 {
+On raconte que tu as tué tous les « narwhals »! Eh bien, ça alors...
+}
+Common_rumours_51 {
+Eh bien, grâce à vous, le clan « Narwhal » n’existe plus. Les habitants vous en sont reconnaissants.
+}
+Common_rumours_52 {
+Hmm, tu es sans doute un héros et tout ça, mais peut-être que tu n’étais pas obligé d’être aussi radical avec les « narvals »…
+}
+Common_rumours_53 {
+Laissez-moi voir la personne qui s’est fait un nom dans les chroniques de la Ville! Les “Narwhals” m’ont épuisé, je vous assure.
+}
+Common_rumours_54 {
+Grâce à vous, « Velasco » est libre maintenant.
+}
+Common_rumours_55 {
+Pour être honnête, je doute vraiment que le clan « Narwhal » soit réellement impliqué dans le meurtre du milicien et de Labor. J’en doute sincèrement…
+}
+Common_rumours_56 {
+Après la destruction des « narwhals », il est difficile de prévoir comment les « caspers » vont se comporter...
+}
+Common_rumours_57 {
+Vous êtes vraiment un héros, je dois l’admettre. À peine arrivé en ville, et déjà vous faites parler de vous. Éliminer tout le clan Narwhal!...
+}
+Common_rumours_58 {
+Les "Narwhals" ne peuvent s’en prendre qu’à eux-mêmes pour leur sort. Je soutiens entièrement la décision de l’amiral de les éliminer. Donc, bravo.
+}
+Common_rumours_59 {
+Comment avez-vous réussi à vous occuper des « narwhals », je n’arrive pas à comprendre. Ils étaient de très bons combattants, vraiment…
+}
+Common_rumours_60 {
+Tu as entendu? Hill Brunner a été tué!
+}
+Common_rumours_61 {
+As-tu entendu la terrible nouvelle? Non? Hill Brunner a été tué!
+}
+Common_rumours_62 {
+Hill Brunner, le propriétaire de notre taverne, a été retrouvé mort dans sa propre cave. Comme ça, d’un coup!..
+}
+Common_rumours_63 {
+Quelqu’un a tué Hill Brunner, le tenancier de la taverne! D’abord André Labor, maintenant Hill Brunner. Hm, quelle terrible nouvelle...
+}
+Common_rumours_64 {
+Tu as entendu que Hilla Bryunner a été tué? Poignardé dans sa propre cave à vin!
+}
+Common_rumours_65 {
+Hill Brunner est mort! Quelle grande perte — c’était un homme remarquable. Avec sa disparition, la ville perd beaucoup, car il en était le plus ancien habitant!
+}
+Common_rumours_66 {
+Tu sais, Hill Brynner est mort! Qu’est-ce qui va arriver à la taverne maintenant?..
+}
+Common_rumours_67 {
+On dit que tu as tué tous les « Caspers »! Pourtant...
+}
+Common_rumours_68 {
+Je ne peux pas dire que j’aie de la peine pour ces brutes de « Casper ». Ils ont eu ce qu’ils méritaient...
+}
+Common_rumours_69 {
+Eh bien, tu es vraiment un sacré combattant! D’abord les « narwhals », puis les « caspers »! Impressionnant...
+}
+Common_rumours_70 {
+Oui, tu t’es bien servi de ta lame. Le clan « Kaspar » appartient désormais au passé… Eh bien, parfait!
+}
+Common_rumours_71 {
+Tu sais, les "Caspers" ne m'ont jamais vraiment dérangé. Leur disparition massive ne me réjouit donc pas particulièrement...
+}
+Common_rumours_72 {
+On raconte que quelqu’un s’est battu la nuit dernière sur la flûte « Ceres Smiti ».
+}
+Common_rumours_73 {
+Alice Taylor, la propriétaire de la flûte “Ceres Smithy”, a entendu du grabuge sur le pont la nuit dernière. Cela ressemblait fort à une véritable échauffourée...
+}
+Common_rumours_74 {
+Tu as entendu? La pauvre Armo Dulin a été tuée! Ah, c’était une si bonne fille...
+}
+Common_rumours_75 {
+Mon Dieu, même Armo est mort maintenant. Il est peut-être temps de chercher un refuge sûr...
+}
+Common_rumours_76 {
+Où regarde donc l’amiral? Plusieurs personnes ont déjà été tuées, et maintenant ce pauvre Armo...
+}
+Common_rumours_77 {
+Le temps se gâte. On dirait qu’une autre tempête approche.
+}
+Common_rumours_78 {
+Hmm, on dirait qu'une autre tempête approche.
+}
+Common_rumours_79 {
+Oh, je suis tellement fatigué de ces tempêtes! On dirait que ça recommence...
+}
+Common_rumours_80 {
+Le temps s’est gâté. On dirait qu’une tempête approche.
+}
+Common_rumours_81 {
+Une tempête arrive. On va encore rester enfermés pendant des jours.
+}
+Common_rumours_82 {
+On raconte que quelqu’un a volé le marchand Erik Yost...
+}
+Common_rumours_83 {
+Tu as entendu la nouvelle? John Sowkins a disparu dans la jungle près de Panama! On dit que ce ne sont pas les Espagnols qui lui ont fait ça...
+}
+Common_rumours_84 {
+À présent, après la mort de John Sawkins, c’est son bras droit qui dirige tout à @<XI_ConvertString> — John Coxon! On dit qu’il a commencé avec audace, voyons comment il va finir. Heh-heh.
+}
+Common_rumours_85 {
+Tu te rends compte? Un fou a massacré à lui seul tout un groupe de vauriens pirates à Providencia!
+}
+Common_rumours_86 {
+Oh, qu’un requin me dévore! C’était vraiment toi qui as vaincu le Flying Dutchman? Que la foudre me frappe! Ça a dû être un combat mémorable! Dis-moi, est-ce vrai ce qu’on raconte—que son ancien capitaine avait passé un pacte avec le Diable de la mer? Et que son équipage n’était composé que d’âmes maudites et de démons, rejetés par le Seigneur, qui se nourrissaient du sang de leurs victimes?
+}
+Common_rumours_87 {
+Capitaine, vous êtes plutôt célèbre par ici! On raconte que c’est vous qui avez enfin mis Van Der Decken et son équipage de morts au repos. Qui aurait cru que le Flying Dutchman cesserait de hanter les mers! Les temps changent, c’est certain... Une légende de moins dans ce monde, hé hé. Portons un toast aux secrets que l’océan garde encore cachés dans ses profondeurs...
+}
+Common_rumours_88 {
+As-tu entendu dire que le "Flying Dutchman"—cette terreur insaisissable des mers, au-delà de toute compréhension humaine—a finalement trouvé sa fin? Et figure-toi, terrassé par de simples mortels! On raconte qu’un certain capitaine a réussi à briser la malédiction et s’est emparé du vieux Diable comme d’un simple navire marchand... Ainsi, au final, le règne de terreur du légendaire Vaisseau Fantôme s’est achevé d’une manière plutôt banale.
+}
+Common_rumours_89 {
+Il y a eu une bataille près du phare tout récemment. Un capitaine a essayé de vendre une grosse cargaison de contrebande, et l’escadron de patrouille l’a pris sur le fait. Quel vacarme! Toute la ville était sens dessus dessous, et un boulet de canon a même traversé le toit de la boutique du coin! Mais tout ça n’a servi à rien. Les habitants—les acheteurs, tu comprends—se sont cachés dans la jungle, et le capitaine s’est échappé par la mer. Il a laissé notre escadron sur le carreau! La façon dont il a quitté la baie—n’importe quel pilote l’aurait envié!
+}
+Common_rumours_90 {
+Tu as entendu? Il y a eu une attaque contre Cecil Gallard!
+}
+Common_rumours_91 {
+Tu as entendu? Une bande de brigands menée par quelqu’un nommé @<pchar.GenQuest..name> a attaqué le capitaine @<GetFullName>. Cette fois, ils n’ont pas réussi à effrayer leur victime—ils ont tous été retrouvés morts...
+}
+Common_rumours_92 {
+Vous savez, il y a eu une escarmouche près de la ville récemment — un capitaine du nom de @<GetFullName> a été attaqué par des bandits, ils ont essayé de le dépouiller... Ah, mais oui! C’est vous qui avez envoyé ce maraudeur @<pchar.GenQuest..name> rejoindre l’autre monde! Beau travail, vraiment...
+}
+Common_rumours_93 {
+Tu n’as pas entendu dire que la bande de bandits du coin, menée par le vaurien @<pchar.GenQuest..name>, a attaqué un capitaine nommé @<GetFullName>? Refuser de payer a conduit à la mort de tous ces bandits insolents. Bien fait pour eux!
+}
+Common_rumours_94 {
+Tu as entendu? Quelqu’un a tué une pauvre fille nommée @<pchar.GenQuest.EncGirl.name> dans la jungle. Si seulement on pouvait attraper ce vaurien et le pendre!
+}
+Common_rumours_95 {
+Vous savez, capitaine @<GetFullName>, quelqu’un a tué une pauvre fille nommée @<pchar.GenQuest.EncGirl.name> alors qu’elle était sortie de la ville pour une course. Quel dommage, elle avait vraiment bon cœur...
+}
+Common_rumours_96 {
+Elle s’appelait @<pchar.GenQuest.EncGirl.name>, et elle a péri dans la jungle. Franchement, ce n’est pas étonnant — il y a tant de dangers hors de la ville…
+}
+Common_rumours_97 {
+Tu as entendu? Un capitaine a réussi à sauver une fille nommée @<pchar.GenQuest.EncGirl.name> des mains de bandits—il l’a arrachée à leurs griffes! Voilà une action qui mérite le respect, crois-moi.
+}
+Common_rumours_98 {
+Vous savez, capitaine @<GetFullName> a réussi à sauver une jeune femme nommée @<pchar.GenQuest.EncGirl.name> des mains de voyous dans la jungle... Ah, c’était donc vous!! Je suis vraiment impressionné...
+}
+Common_rumours_99 {
+Une fille nommée @<pchar.GenQuest.EncGirl.name> a vraiment eu de la chance — elle s’est fait attaquer par des bandits dans la jungle il n’y a pas longtemps, on aurait dit qu’ils voulaient abuser d’elle. Mais ils n’ont pas obtenu ce qu’ils voulaient, hé hé, et c’est au capitaine @<GetMainCharacterNameGen> qu’elle doit son salut!
+}
+Common_rumours_100 {
+Eh bien, Capitaine @<GetFullName>, personne ne s’attendait à ce que vous abandonniez une femme sans défense à la merci de bandits. Pauvre @<pchar.GenQuest.EncGirl.name>, je ne sais quoi dire…
+}
+Common_rumours_101 {
+Vous savez, Capitaine, je ne m’attendais pas à ça de votre part. Comment avez-vous pu abandonner une jeune fille sans défense dans la jungle? Avez-vous seulement idée de ce qu’ils lui ont fait? Pauvre @<pchar.GenQuest.EncGirl.name>, plus personne ne voudra l’épouser maintenant...
+}
+Common_rumours_102 {
+Tu as entendu? Un capitaine a tué une pauvre fille nommée @<pchar.GenQuest.EncGirl.name> dans la jungle. Quelqu’un devrait attraper ce vaurien et le pendre!
+}
+Common_rumours_103 {
+Vous savez, capitaine @<GetFullName>, quelqu’un a tué une pauvre fille nommée @<pchar.GenQuest.EncGirl.name> alors qu’elle était sortie de la ville pour une course. Quel dommage, elle avait vraiment bon cœur...
+}
+Common_rumours_104 {
+Elle s’appelait @<pchar.GenQuest.EncGirl.name>, et elle a péri dans la jungle. Franchement, ce n’est pas étonnant — il y a tant de dangers hors de la ville…
+}
+Common_rumours_105 {
+Récemment, à l’extérieur de la ville, notre officier et les soldats qui lui étaient assignés ont été retrouvés morts. Qui aurait pu les tuer? Et pourquoi?..
+}
+Common_rumours_106 {
+Notre commandant continue d’envoyer des patrouilles hors de la ville, mais maintenant, je ne sais même plus ce qui va se passer. Récemment, on a retrouvé des soldats morts dans la jungle...
+}
+Common_rumours_107 {
+Bon sang, quelqu’un à l’extérieur de la ville a éliminé nos soldats qui patrouillaient dans les environs...
+}
+Common_rumours_108 {
+On raconte que le capitaine @<GetFullName> est tombé sur des soldats @<NationNameGenitive> dans la jungle et les a tous éliminés. Eh, ces @<NationNamePeople> ne font vraiment pas de bons soldats...
+}
+Common_rumours_109 {
+Tu as entendu? Notre patrouille a contrôlé le capitaine @<GetMainCharacterNameGen> à l’extérieur de la ville...
+}
+Common_rumours_110 {
+Hmm, à ma connaissance, notre patrouille vous a contrôlé hors de la ville il n’y a pas longtemps. Je ne suis pas certain de l’efficacité de cette mesure...
+}
+Common_rumours_111 {
+Notre commandant va renforcer les patrouilles dans les environs de la ville. Mais vous le savez déjà — ils vous ont contrôlé dans la jungle il n’y a pas si longtemps, n’est-ce pas…
+}
+Common_rumours_112 {
+Tu sais, le gouverneur @<sTemp> a chargé @<GetMainCharacterNameDat> de capturer un célèbre hors-la-loi nommé @<GetFullName>. On dit que la mission du gouverneur a été un succès...
+}
+Common_rumours_113 {
+Le gouverneur a ordonné de retrouver et d’éliminer un bandit local nommé @<GetFullName>. Et il semble que le capitaine engagé ait accompli cette mission!
+}
+Common_rumours_114 {
+Ha, enfin notre gouverneur a décidé de mettre de l’ordre dans la jungle—il a chargé le capitaine @<GetMainCharacterNameDat> de traquer et d’éliminer le bandit le plus redouté de la région. Et tu sais quoi? Ce bandit, @<GetFullName>, est mort!
+}
+Common_rumours_115 {
+Tu sais, le gouverneur @<sTemp> a chargé @<GetMainCharacterNameDat> de trouver un espion ennemi en ville. Eh bien, il semble que la mission ait réussi : l’espion a été retrouvé mort dans l’une des maisons!
+}
+Common_rumours_116 {
+Notre gouverneur a chargé @<GetMainCharacterNameDat> de retrouver un agent ennemi en ville. Et il a eu raison : l’espion a été découvert et éliminé! Excellent travail, je dois le reconnaître...
+}
+Common_rumours_117 {
+Vous savez, le gouverneur @<sTemp> a chargé @<GetMainCharacterNameDat> de trouver et d’éliminer les contrebandiers. Et à en juger par la situation, cette mission a été accomplie!
+}
+Common_rumours_118 {
+Notre gouverneur @<sTemp> a chargé @<GetMainCharacterNameDat> de traquer les contrebandiers près de la ville. Et tout récemment, on a retrouvé les corps de ces trafiquants du marché noir... Cela veut dire que les prix chez les marchands vont bientôt grimper...
+}
+Common_rumours_119 {
+As-tu entendu parler du récent combat du capitaine @<GetMainCharacterNameGen> contre les pirates? On dit que les flibustiers ont réussi à s’échapper cette fois...
+}
+Common_rumours_120 {
+Ah, capitaine @<GetFullName>, comment avez-vous laissé filer ces pirates, hein? Et s’ils reviennent…
+}
+Common_rumours_121 {
+Capitaine, comment avez-vous pu laisser ces pirates s’échapper? C’est terrible qu’ils n’aient pas eu le sort qu’ils méritaient…
+}
+Common_rumours_122 {
+Vous savez, le gouverneur @<GetFullName> a chargé un certain @<GetMainCharacterNameDat> de retrouver et d’éliminer le pirate qui attaquait ces eaux. Eh bien, le capitaine a réussi à le retrouver et à couler @<GetStrSmallRegister>!
+}
+Common_rumours_123 {
+Tu sais, le gouverneur a chargé un capitaine de retrouver et d’éliminer le pirate qui pillait nos marchands. Et il paraît que le capitaine a réussi à leur faire payer et à envoyer @<GetStrSmallRegister> par le fond!
+}
+Common_rumours_124 {
+Ha, enfin notre gouverneur a pris des mesures pour garantir la sécurité dans les eaux de @<XI_ConvertString>—il a chargé @<GetMainCharacterNameDat> de retrouver le pirate qui tourmentait nos marchands. Et tu sais quoi? Le capitaine a réussi à vaincre et couler @<GetStrSmallRegister>!
+}
+Common_rumours_125 {
+Vous savez, le gouverneur @<GetFullName> a chargé un certain capitaine @<GetMainCharacterNameDat> de retrouver et d’éliminer le pirate qui dépouille les marchands sous notre nez. Et devinez quoi? Il a aussi volé le capitaine @<GetMainCharacterNameGen>!
+}
+Common_rumours_126 {
+Capitaine, comment avez-vous trouvé le voyage sur un navire pirate? Tout s’est bien passé? Ils ne vous ont pas causé de problèmes, n’est-ce pas? Ha ha ha!
+}
+Common_rumours_127 {
+Oh, capitaine, j’ai entendu dire que vous avez pris une sacrée raclée récemment, hé hé... Que pensez-vous des pirates du coin? Vous voulez en chercher d’autres? Ha ha ha!
+}
+Common_rumours_128 {
+On dit que vous avez sauvé Cécile Gallard lorsqu’elle a été attaquée.
+}
+Common_rumours_129 {
+Cecile Gallard a été attaquée chez elle, à bord du galion 'Eva'!
+}
+Common_rumours_130 {
+Heureusement que tu as sauvé la pauvre Cécile! Je ne comprends pas ce que fait l’amiral...
+}
+Common_rumours_131 {
+Hmm, si ça continue, on devra repousser les bandits chez nous, comme l’a fait Cécile Gallard.
+}
+Common_rumours_132 {
+Tu as entendu? Cécile Gallard a été tuée chez elle!
+}
+Common_rumours_133 {
+On dit que vous n’avez pas su protéger la pauvre Cécile Gallard...
+}
+Common_rumours_134 {
+Hmm, encore une sombre histoire de meurtre. Tu sais, depuis ton arrivée en ville, les assassinats s’enchaînent. Et maintenant Cecil Gallard...
+}
+Common_rumours_135 {
+C’est dommage que tu n’aies pas pu sauver Cecil. C’était vraiment une bonne personne…
+}
+Common_rumours_136 {
+Un autre meurtre. Maintenant, Cecil Gallard est morte. Et c’était la plus ancienne habitante de la ville...
+}
+Common_rumours_137 {
+Tu as entendu que la maîtresse a renvoyé @<pchar.GenQuest.EncGirl.name>, la servante, simplement parce qu’elle n’a pas réussi à ramasser les perles que sa dame a laissées tomber dans la jungle? Les gens n’ont vraiment plus aucune honte de nos jours!... Pas qu’ils en aient jamais eu, de toute façon.
+}
+Common_rumours_138 {
+Tu as entendu? Une prostituée a essayé de monter à bord du navire sans papiers. Ils l'ont attrapée et ramenée au bordel. On dit qu'elle doit une grosse somme à la tenancière.
+}
+Common_rumours_139 {
+Tu as entendu? Ils ont attrapé une prostituée sans papiers dans notre port. On raconte qu’elle s’est enfuie d’un bordel après avoir vidé la caisse de la tenancière. Ce repaire de débauche et de vol aurait dû être fermé depuis longtemps. Nos enfants voient tout ça—qu’est-ce qu’ils sont censés en retenir?
+}
+Common_rumours_140 {
+Capitaine, comment avez-vous trouvé le voyage à bord d’un navire pirate? Tout s’est bien passé? Ils ne vous ont pas causé de problèmes, j’espère? Ha ha ha!
+}
+Common_rumours_141 {
+Oh-ho-ho, Capitaine, j’ai entendu dire que vous avez pris une sacrée raclée dernièrement… Vous êtes ruiné, mon ami! Ha-ha-ha!!
+}
+Common_rumours_142 {
+Vous avez entendu, @<GetAddress_Form>? Ils ont récemment arrêté le capitaine de la patrouille @<sShipType> @<pchar.GenQuest.CaptainComission.Name>. Il s’avère qu’il faisait de la contrebande en secret. Imaginez un peu ce que le gouverneur actuel a fait de cette colonie! Ceux qui sont censés arrêter les pirates nous dépouillent eux-mêmes... On dit qu’il sera exécuté dans une semaine. C’est bien fait pour lui.
+}
+Common_rumours_143 {
+On raconte que le capitaine de la patrouille @<sShipType> @<pchar.GenQuest.CaptainComission.Name> s’est révélé être le chef d’un réseau de contrebande. Il a été arrêté et sera bientôt pendu. On dirait que @<GetAddress_Form>, notre gouverneur, est vraiment décidé à rétablir l’ordre dans la colonie.
+}
+Common_rumours_144 {
+Tu te rends compte! Le commandant du fort a découvert un réseau de contrebande secret qui avait même réussi à recruter des officiers de la marine. L’un d’eux, @<pchar.GenQuest.CaptainComission.Name>, a déjà été arrêté et sera bientôt pendu. Oh, @<GetAddress_Form>, j’ai toujours dit que notre gouverneur finirait par ramener l’ordre dans la colonie.
+}
+Common_rumours_145 {
+As-tu entendu dire que le capitaine de la patrouille @<sShipType> @<pchar.GenQuest.CaptainComission.Name> a été arrêté? Les autorités ont découvert qu’il cachait une grande quantité de marchandises confisquées aux navires passant par ces eaux. On dirait qu’il n’échappera pas à la potence. Dire qu’il était l’un des meilleurs de l’escadron de patrouille. Qui l’aurait cru...
+}
+Common_rumours_146 {
+Tu as entendu, @<GetAddress_Form>? Ils ont récemment pendu l’ancien capitaine du patrouilleur @<sShipType>, @<pchar.GenQuest.CaptainComission.Name>. On raconte qu’il a volé un marchand. Comme quoi, on ne peut vraiment faire confiance à personne de nos jours... Et tout l’équipage a été exécuté avec lui. Ils devaient être complices...
+}
+Common_rumours_147 {
+Vous savez déjà, @<GetAddress_Form>, que l’ancien capitaine du patrouilleur @<sShipType> @<pchar.GenQuest.CaptainComission.Name> a été exécuté, n’est-ce pas? On raconte qu’il a coulé un navire important et caché la cargaison. Aucun membre de l’équipage n’a avoué où se trouvait la cache. Alors ils les ont tous pendus...
+}
+Common_rumours_148 {
+Vous vous rendez compte, @<GetAddress_Form>? L’un des capitaines de l’escadron de patrouille s’est tourné vers la piraterie. Lui et tout son équipage ont été exécutés il y a peu. On raconte qu’ils ont attaqué et coulé des navires marchands.
+}
+Common_rumours_149 {
+Récemment, l’ancien capitaine @<pchar.GenQuest.CaptainComission.Name> a été exécuté avec l’équipage de sa patrouille @<sShipType>. On raconte qu’ils avaient caché une importante cargaison de marchandises confisquées aux navires passant dans ces eaux. Et c’était l’un des meilleurs équipages de patrouille. Je pense, @<GetAddress_Form>, qu’ils ont été piégés délibérément. Après tout, les marchandises n’ont jamais été retrouvées…
+}
+Common_rumours_150 {
+On raconte que le capitaine @<GetFullName> a été attiré dans un piège par les autorités @<NationNameSK>. Ils ont envoyé un navire qui semblait être un “marchand”, mais sa cale était remplie de soldats lourdement armés. Pourtant, l’embuscade a échoué—ils ont tous été abattus jusqu’au dernier!
+}
+Common_rumours_151 {
+On raconte que le capitaine @<GetFullName> harcèle les autorités en attaquant les navires marchands de @<NationNameSK>. Notre gouverneur général a donc décidé d’y mettre un terme. Il a équipé un navire déguisé en marchand, rempli de plusieurs dizaines de soldats européens aguerris, pour tendre un piège. Mais ces pirates insaisissables, menés par ce capitaine, les ont tous massacrés et ont encore échappé à la justice!
+}
+Common_rumours_152 {
+On raconte que le marchand de @<XI_ConvertString> cherche une sorte de poudre et offre une belle somme pour l’obtenir... Je me demande bien à quoi peut servir une chose aussi étrange!
+}
+Common_rumours_153 {
+On dit que le prêteur de la colonie @<XI_ConvertString> a une offre lucrative pour un capitaine qui n’a pas peur des affaires risquées...
+}
+Common_rumours_154 {
+Avez-vous entendu parler de Humphrey Douglas, qui s’est installé dans notre ville? Un si bon officier, et finir ainsi!
+}
+Common_rumours_155 {
+On raconte que les pêcheurs du coin ont aperçu une puissante escadre @<NationNameSK> dans les eaux de notre colonie.
+}
+Common_rumours_156 {
+On dit que l’escadre @<NationNameSK> qui a pillé notre ville se trouve toujours dans les eaux de notre colonie. Ah, si seulement un capitaine courageux osait les attaquer...
+}
+Common_rumours_157 {
+Vous n’êtes pas au courant? Dans notre port, les navires de @<NationNameSK> affrontent le fort. Le fort peut tomber d’un instant à l’autre, et alors le vrai cauchemar commencera.
+}
+Common_rumours_158 {
+Aujourd’hui est un jour glorieux pour @<NationNameGenitive>—nous avons réussi à prendre une colonie aussi importante que @<GetConvertStr>! Toute la garnison de @<NationNameSK> a été anéantie, le fort est désormais aux mains de nos troupes et il a déjà été renforcé!
+}
+Common_rumours_159 {
+On raconte que l’escadre @<NationNameSK>, après un long siège, a pris la colonie @<NationNameSK> de @<GetConvertStr>. Maintenant, @<GetConvertStr> est une colonie @<NationNameSK>!
+}
+Common_rumours_160 {
+On raconte que les @<NationNamePeople> ont attaqué traîtreusement notre colonie à @<GetConvertStr> et se sont emparés de la ville!
+}
+Common_rumours_161 {
+As-tu entendu la nouvelle? Notre vaillante flotte a pris la riche colonie de @<GetConvertStr> à @<NationNameGenitive>.
+}
+Common_rumours_162 {
+Triste nouvelle pour @<NationNameGenitive> : nous n’avons pas réussi à défendre notre colonie! Le fort a été détruit par les navires de @<NationNameSK>, et la ville a été pillée. Ensuite, l’ennemi a quitté les eaux de la colonie.
+}
+Common_rumours_163 {
+On raconte que l’escadre @<NationNameSK>, après un long siège, a pris la colonie @<NationNameSK> de @<GetConvertStr>. Une fois la ville pillée, l’escadre @<NationNameSK> a quitté les eaux de la colonie.
+}
+Common_rumours_164 {
+On raconte que les @<NationNamePeople> ont soudainement attaqué notre colonie à @<GetConvertStr> et ont pillé la ville avant que les renforts n’arrivent! Ensuite, ils se sont enfuis honteusement avec leur butin.
+}
+Common_rumours_165 {
+As-tu entendu la nouvelle? Récemment, notre escadre, après un court siège de la colonie @<GetConvertStr> de @<NationNameSK>, a brisé la résistance de la garnison et pillé la riche ville! Nous avons dû abandonner la colonie ensuite, c’est vrai. Mais le butin...
+}
+Common_rumours_166 {
+Aujourd’hui, nous célébrons notre victoire sur les envahisseurs @<NationNameSK> — nous avons défendu notre colonie! L’escadre ennemie a été coulée, et la ville est de nouveau en sécurité.
+}
+Common_rumours_167 {
+On raconte que l’escadre @<NationNameSK> a été vaincue en attaquant la colonie @<NationNameSK> de @<GetConvertStr>. Les défenseurs se sont montrés plus forts.
+}
+Common_rumours_168 {
+On raconte que les @<NationNamePeople> ont lancé une attaque soudaine contre notre colonie à @<GetConvertStr>, mais des renforts sont arrivés juste à temps! Tous les navires @<NationNameSK> ont été coulés.
+}
+Common_rumours_169 {
+On raconte que notre escadre a récemment été coulée par le fort après un long siège de la colonie @<NationNameSK> à @<GetConvertStr>. Peut-être que la prochaine fois, nous aurons plus de chance.
+}
+Common_rumours_170 {
+On dit que les @<NationNamePeople> ont attaqué la colonie @<NationNameSK> de @<GetConvertStr>. Les défenseurs tiennent bon, mais si aucun renfort n’arrive dans @<sDays>, la garnison risque de céder.
+}
+Common_rumours_171 {
+On raconte que notre flotte invincible a attaqué la colonie @<GetConvertStr> de @<NationNameSK>. L’ennemi oppose une résistance acharnée, mais l’issue de la bataille devrait se décider dans les prochains @<sDays>.
+}
+Common_rumours_172 {
+On raconte que les @<NationNamePeople> ont attaqué notre colonie à @<GetConvertStr>. Les défenseurs se battent courageusement, mais il ne leur reste plus que @<sDays> de vivres et de médicaments.
+}
+Common_rumours_173 {
+J’ai entendu dire, @<GetAddress_Form>, que toi aussi tu as été frappé par cette malédiction des mers. Je parle du navire fantôme... Oui, ce “Dutchman” hante ces eaux depuis des années, et personne n’a jamais réussi à l’arrêter. Une malédiction éternelle, on dirait... Mais il paraît qu’un Indien vit dans un village reculé de la côte ouest—on dit même qu’il serait parent du capitaine maudit! Les gens sont prêts à tout inventer, juste pour avoir de quoi bavarder...
+}
+Common_rumours_174 {
+Ah, capitaine, vous avez eu la malchance de croiser ce démon que les marins appellent le « Flying Dutchman ». Et on ne sait jamais s’il faut s’en réjouir ou s’en attrister—peu ont survécu pour raconter une telle rencontre... Mais j’ai entendu une histoire étrange : quelque part à l’ouest, au cœur de la jungle, il y aurait un homme qui prétend connaître le secret de ce fantôme et jure qu’il mettra fin à tous ses démons à lui seul... Hé, une sorte de chaman, ou peut-être simplement un autre charlatan—allez savoir.
+}
+Common_rumours_175 {
+Vous savez, notre paroisse manque cruellement de cierges. Pourquoi personne ne veut-il aider? Ne serait-ce que pour le salut de leur propre âme...
+}

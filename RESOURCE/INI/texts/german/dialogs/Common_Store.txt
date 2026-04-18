@@ -1,0 +1,1473 @@
+Common_Store_1 {
+Die Stadt steht unter höchster Alarmbereitschaft, sie suchen überall nach dir! An deiner Stelle würde ich nicht hierbleiben.
+}
+Common_Store_2 {
+Die gesamte Stadtwache durchkämmt die Straßen nach dir. Ich bin doch nicht dumm und werde nicht mit dir reden!
+}
+Common_Store_3_m {
+Lauf, Freund, bevor die Soldaten dich durchsieben...
+}
+Common_Store_3_f {
+Lauf, Mädchen, bevor die Soldaten dich durchsieben...
+}
+Common_Store_4 {
+@<LinkRandPhrase>
+}
+Common_Store_5_m {
+Was willst du, Schurke?! Die Stadtwache ist dir schon auf den Fersen – du kommst nicht weit, Schönling. Los, gehen wir nach oben!
+}
+Common_Store_5_f {
+Was willst du, du Elender?! Die Stadtwache ist dir bereits auf den Fersen – du kommst nicht weit, elendes Pack!
+}
+Common_Store_6_m {
+Dreckiger Mörder, raus aus meinem Haus! Wachen!!
+}
+Common_Store_6_f {
+Dreckiger Mörder, raus aus meinem Haus! Wachen!!
+}
+Common_Store_7_m {
+Ich fürchte dich nicht, Halunke! Bald wirst du in unserer Festung gehängt – weit wirst du nicht kommen...
+}
+Common_Store_7_f {
+Ich habe keine Angst vor dir, Weib! Bald wirst du am Galgen unserer Festung baumeln – du kommst nicht weit...
+}
+Common_Store_8 {
+@<LinkRandPhrase>
+}
+Common_Store_9 {
+Heh, ein Alarm macht mir keine Sorgen...
+}
+Common_Store_10 {
+Sie werden mich niemals erwischen.
+}
+Common_Store_11 {
+@<RandPhraseSimple>
+}
+Common_Store_12 {
+Halt den Mund, @<GetWorkTypeOfMan>, sonst reiß ich dir die dreckige Zunge raus!
+}
+Common_Store_13 {
+Heh, @<GetWorkTypeOfMan>, immer noch hinter Piraten her, was? Lass dir was sagen, Freund: Halt den Kopf unten, dann erlebst du vielleicht noch einen weiteren Tag...
+}
+Common_Store_14 {
+@<RandPhraseSimple>
+}
+Common_Store_15 {
+Hey, Doktor Blood! @<TimeGreeting>.
+}
+Common_Store_16 {
+Schön, dich zu sehen, Peter Blood.
+}
+Common_Store_17 {
+Schön, dass Sie vorbeigekommen sind, @<GetFullName>. Wie geht es Colonel Bishop?
+}
+Common_Store_18 {
+@<LinkRandPhrase>
+}
+Common_Store_19 {
+Leider bin ich schon unterwegs, @<NPChar>. Bis zum nächsten Mal.
+}
+Common_Store_20 {
+Kapitän, danke, dass Sie mich gerettet haben.
+}
+Common_Store_21 {
+Gern geschehen.
+}
+Common_Store_22 {
+Geld riecht nicht.
+}
+Common_Store_23 {
+Acht-Reales stinken nicht.
+}
+Common_Store_24 {
+Von Tugend allein wird man nicht satt!
+}
+Common_Store_25 {
+Ein neuer Kunde bedeutet neues Gold. @<LinkRandPhrase> @<GetFullName> zu Ihren Diensten!
+}
+Common_Store_26 {
+Schön, einen neuen Kunden kennenzulernen,
+}
+Common_Store_27 {
+Freut mich, einen neuen Kunden zu haben,
+}
+Common_Store_28 {
+Willkommen,
+}
+Common_Store_29 {
+Mein Laden steht Ihnen zur Verfügung.
+}
+Common_Store_30 {
+Ich stehe Ihnen ganz zur Verfügung.
+}
+Common_Store_31 {
+@<LinkRandPhrase> @<GetAddress_Form>. Mein Name ist @<GetFullName>, @<RandPhraseSimple>
+}
+Common_Store_32 {
+Mein Name ist
+}
+Common_Store_33 {
+Ich bin
+}
+Common_Store_34 {
+Gestatten Sie, dass ich mich vorstelle. @<RandPhraseSimple> Kapitän @<GetFullName>.
+}
+Common_Store_35 {
+Die Stadt ist in höchster Alarmbereitschaft, sie suchen überall nach dir! An deiner Stelle würde ich nicht hierbleiben.
+}
+Common_Store_36 {
+Die gesamte Stadtwache durchkämmt die Straßen nach dir. Ich bin doch nicht dumm und werde nicht mit dir reden!
+}
+Common_Store_37_m {
+Lauf, Freund, bevor die Soldaten dich durchsieben...
+}
+Common_Store_37_f {
+Lauf, Mädchen, bevor die Soldaten dich durchsieben...
+}
+Common_Store_38 {
+@<LinkRandPhrase>
+}
+Common_Store_39_m {
+Was willst du, Halunke?! Die Stadtwache ist dir schon auf den Fersen – du kommst nicht weit, Schönling. Los, gehen wir nach oben!
+}
+Common_Store_39_f {
+Was willst du, du Elender?! Die Stadtwache ist dir bereits auf den Fersen – du kommst nicht weit, du abscheulicher Abschaum!
+}
+Common_Store_40_m {
+Dreckiger Mörder, raus aus meinem Haus! Wachen!!
+}
+Common_Store_40_f {
+Dreckiger Mörder, raus aus meinem Haus! Wachen!!
+}
+Common_Store_41_m {
+Ich habe keine Angst vor dir, Halunke! Bald wirst du am Galgen in unserer Festung baumeln – weit wirst du nicht kommen…
+}
+Common_Store_41_f {
+Ich habe keine Angst vor dir, Weib! Bald wirst du am Galgen in unserer Festung baumeln – du kommst nicht weit...
+}
+Common_Store_42 {
+@<LinkRandPhrase>
+}
+Common_Store_43 {
+Heh, Alarme stören mich nicht ...
+}
+Common_Store_44 {
+Sie werden mich niemals erwischen.
+}
+Common_Store_45 {
+@<RandPhraseSimple>
+}
+Common_Store_46 {
+Halt den Mund, @<GetWorkTypeOfMan>, sonst reiß ich dir die schmutzige Zunge raus!
+}
+Common_Store_47 {
+Heh, @<GetWorkTypeOfMan>, immer noch auf der Jagd nach Piraten, was? Lass dir eins sagen, Freund: Halt den Kopf unten, dann erlebst du vielleicht den nächsten Tag...
+}
+Common_Store_48 {
+@<RandPhraseSimple>
+}
+Common_Store_49 {
+Kapitän, danke, dass Sie mich gerettet haben.
+}
+Common_Store_50 {
+Gern geschehen.
+}
+Common_Store_51 {
+Kapitän
+}
+Common_Store_52_m {
+Ja, das ist er selbst.
+}
+Common_Store_52_f {
+Ja, das ist sie selbst
+}
+Common_Store_53 {
+Wen sehe ich denn? Ach, das ist doch
+}
+Common_Store_54 {
+Hat man dich immer noch nicht am Großmast aufgeknüpft? Ha-ha!
+}
+Common_Store_55_m {
+Man sagt, du hast dem Meeresdämon einen Besuch abgestattet!
+}
+Common_Store_55_f {
+Man sagt, du hast dem Meeresdämon einen Besuch abgestattet!
+}
+Common_Store_56 {
+Aber ich habe gehört, man hat dich in Port Royal gehängt.
+}
+Common_Store_57 {
+Schön, dich zu sehen!
+}
+Common_Store_58 {
+Willkommen!
+}
+Common_Store_59 {
+@<LinkRandPhrase> @<GetFullName>! @<LinkRandPhrase> @<RandPhraseSimple>
+}
+Common_Store_60 {
+Hallo,
+}
+Common_Store_61 {
+Willkommen,
+}
+Common_Store_62 {
+Guten Tag,
+}
+Common_Store_63 {
+Hat dir das gefallen
+}
+Common_Store_64 {
+Hat dir das gefallen
+}
+Common_Store_65 {
+Insel?
+}
+Common_Store_66 {
+eine kleine Stadt?
+}
+Common_Store_67 {
+Hier ist es wirklich nicht schlecht,
+}
+Common_Store_68 {
+Toller Ort,
+}
+Common_Store_69_m {
+Hier gibt es schöne Mädchen,
+}
+Common_Store_69_f {
+Unser Volk ist gastfreundlich,
+}
+Common_Store_70 {
+nicht wahr?
+}
+Common_Store_71 {
+nicht wahr?
+}
+Common_Store_72 {
+@<LinkRandPhrase> Kapitän. @<RandPhraseSimple> unser @<RandPhraseSimple> @<LinkRandPhrase> @<RandPhraseSimple>
+}
+Common_Store_73 {
+Kapitän
+}
+Common_Store_74 {
+Ah, du bist es wieder,
+}
+Common_Store_75 {
+Du hast mich erschreckt,
+}
+Common_Store_76 {
+Mütter benutzen deinen Namen schon, um ungezogene Kinder zu erschrecken!
+}
+Common_Store_77 {
+Ich hoffe, Sie stehen nicht im Widerspruch zum Gesetz?
+}
+Common_Store_78 {
+Ihr Ruf lässt zu wünschen übrig.
+}
+Common_Store_79 {
+Wem verdanke ich die Ehre Ihres Besuchs?
+}
+Common_Store_80 {
+Was willst du?
+}
+Common_Store_81 {
+Warum bist du gekommen?
+}
+Common_Store_82 {
+@<LinkRandPhrase> @<GetFullName>. @<LinkRandPhrase> @<LinkRandPhrase>
+}
+Common_Store_83 {
+Heute ist es etwas stürmisch
+}
+Common_Store_84 {
+Sieht so aus, als würde ein Sturm aufziehen
+}
+Common_Store_85 {
+Ein starker Wind kommt auf
+}
+Common_Store_86 {
+Willkommen, Captain @<GetFullName>! @<LinkRandPhrase>, nicht wahr?
+}
+Common_Store_87 {
+Du lebst also noch,
+}
+Common_Store_88_m {
+Und ich freue mich auch, dich zu sehen.
+}
+Common_Store_88_f {
+Und ich freue mich auch, dich zu sehen.
+}
+Common_Store_89 {
+Wir beide haben schon bessere Zeiten erlebt,
+}
+Common_Store_90 {
+Schurke!
+}
+Common_Store_91 {
+Kamerad!
+}
+Common_Store_92 {
+Seebär!
+}
+Common_Store_93 {
+Deine Frau hat dich doch schon mit Bier fertiggemacht!
+}
+Common_Store_94 {
+Du wurdest von Termiten gefressen!
+}
+Common_Store_95 {
+Deine Alte hat dich ins Grab getrieben!
+}
+Common_Store_96_m {
+@<LinkRandPhrase> @<LinkRandPhrase> Und ich dachte schon, @<LinkRandPhrase>
+}
+Common_Store_96_f {
+@<LinkRandPhrase> @<LinkRandPhrase> Und ich dachte, @<LinkRandPhrase>
+}
+Common_Store_97 {
+Guten Tag,
+}
+Common_Store_98 {
+Gute Gesundheit für Sie,
+}
+Common_Store_99 {
+Hallo,
+}
+Common_Store_100 {
+Du hast recht,
+}
+Common_Store_101_m {
+Ganz genau,
+}
+Common_Store_101_f {
+Ganz genau,
+}
+Common_Store_102_m {
+und die einheimischen Mulattinnen sind einfach bezaubernd
+}
+Common_Store_102_f {
+und die Einheimischen sind sehr freundlich
+}
+Common_Store_103 {
+Schwer, dem zu widersprechen
+}
+Common_Store_104_m {
+und die einheimischen Damen könnten jeden um den Verstand bringen
+}
+Common_Store_104_f {
+und die Stadtbewohner sind wirklich sehr freundlich
+}
+Common_Store_105 {
+@<LinkRandPhrase> @<GetAddress_FormToNPC> @<GetFullName>. @<RandPhraseSimple> @<LinkRandPhrase>.
+}
+Common_Store_106 {
+Zum Teufel mit so einem Gerede,
+}
+Common_Store_107 {
+Wende auf den anderen Bug,
+}
+Common_Store_108 {
+Du plapperst wie ein Papagei!
+}
+Common_Store_109 {
+Und spiel nicht mit meinem Verstand!
+}
+Common_Store_110 {
+Deine Worte sind keinen Pfifferling wert!
+}
+Common_Store_111_m {
+Ich bin im Laden!
+}
+Common_Store_111_f {
+Ich bin im Laden!
+}
+Common_Store_112 {
+Warum sitzt du hier?
+}
+Common_Store_113 {
+@<RandPhraseSimple> @<GetFullName>! @<LinkRandPhrase> @<RandPhraseSimple>
+}
+Common_Store_114 {
+Es herrschte völlige Windstille.
+}
+Common_Store_115 {
+Das Wetter war perfekt.
+}
+Common_Store_116 {
+Es wehte kein Hauch von Wind.
+}
+Common_Store_117 {
+Guten Tag, @<GetAddress_FormToNPC>! Ja, aber gestern @<LinkRandPhrase>
+}
+Common_Store_118 {
+Alle Mann an Deck!
+}
+Common_Store_119 {
+Haltet eine Inspektion des Laderaums ab!
+}
+Common_Store_120_m {
+Was verschlägt einen Glücksritter in meinen Laden, heh-heh?
+}
+Common_Store_120_f {
+Was führt einen Herrn—oh, verzeihen Sie, eine Dame von Stand—in meinen Laden, heh-heh?
+}
+Common_Store_121 {
+Was für eine angenehme Überraschung für einen armen alten Händler! Hehe!
+}
+Common_Store_122 {
+Welcher günstige Wind hat Sie in meinen Laden geführt?
+}
+Common_Store_123 {
+@<RandPhraseSimple> @<LinkRandPhrase>
+}
+Common_Store_124 {
+Öffnet die Häfen!
+}
+Common_Store_125 {
+Enterhaken an die Seite!
+}
+Common_Store_126 {
+Halt sie auf Kurs!
+}
+Common_Store_127 {
+Bei mir findest du
+}
+Common_Store_128 {
+In meinem Laden
+}
+Common_Store_129 {
+die besten Preise auf der Insel.
+}
+Common_Store_130 {
+eine ausgezeichnete Warenauswahl.
+}
+Common_Store_131 {
+Waren von bester Qualität
+}
+Common_Store_132 {
+Zu Ihren Diensten
+}
+Common_Store_133 {
+Alles, was Sie möchten
+}
+Common_Store_134 {
+@<LinkRandPhrase> @<RandPhraseSimple> @<LinkRandPhrase> @<RandPhraseSimple>, Kapitän!
+}
+Common_Store_135_m {
+Alles, was ein Glücksritter brauchen könnte! Heh-heh! Zumindest, bis er in der Sonne zum Trocknen aufgehängt wird!
+}
+Common_Store_135_f {
+Waren für Herren und Damen mit Glück im Spiel! Heh-heh! Zumindest solange, bis sie in der Sonne zum Trocknen hängen!
+}
+Common_Store_136 {
+Der Wind wiegt die Gehängten im Hafen und trägt das Klirren der Ketten herüber. Aber Gold stinkt nicht, oder?!
+}
+Common_Store_137 {
+@<RandPhraseSimple>
+}
+Common_Store_138 {
+Kaufen Sie die besten Waren von @<NationNameGenitive>
+}
+Common_Store_139 {
+Waren kaufen oder verkaufen
+}
+Common_Store_140 {
+einen lukrativen Auftrag erhalten
+}
+Common_Store_141 {
+Ich stehe Ihnen ganz zu Diensten!
+}
+Common_Store_142 {
+Mein Laden steht Ihnen zur Verfügung!
+}
+Common_Store_143 {
+Schön, dich zu sehen
+}
+Common_Store_144 {
+Mach es dir bequem
+}
+Common_Store_145 {
+Möchten Sie @<LinkRandPhrase>? @<RandPhraseSimple> @<RandPhraseSimple>, Kapitän!
+}
+Common_Store_146 {
+Mein Rat an dich, Captain: Spare nicht am Kartätschen. Tote zu plündern ist viel einfacher!
+}
+Common_Store_147_m {
+Aber jetzt sehe ich, dass du ein echter Held bist.
+}
+Common_Store_147_f {
+Aber jetzt sehe ich, dass du wirklich ein Draufgänger bist.
+}
+Common_Store_148 {
+Du hast einen scharfen Verstand.
+}
+Common_Store_149 {
+Du lässt dich nicht täuschen.
+}
+Common_Store_150_m {
+Du bist jung, aber @<RandPhraseSimple>
+}
+Common_Store_150_f {
+Du bist jung, aber @<RandPhraseSimple>
+}
+Common_Store_151_m {
+Auf den ersten Blick war mir klar, dass du ein kluger Kerl bist. @<RandPhraseSimple>
+}
+Common_Store_151_f {
+Schon auf den ersten Blick war klar, dass du ein kluges Mädchen bist. @<RandPhraseSimple>
+}
+Common_Store_152 {
+Ich bin bereit, alle Waren zu kaufen, die du von gekaperten Schiffen erbeutest. Willst du Gold oder Silber kaufen? Die sind immer gefragt!
+}
+Common_Store_153 {
+Der Handel auf See ist ein einträgliches Geschäft, Captain @<GetFullName>, nicht wahr?
+}
+Common_Store_154 {
+Alle fünfundsiebzig sind nie zurückgekehrt! Sie sind in den Tiefen des Meeres ertrunken!
+}
+Common_Store_155 {
+Fünfzehn Mann auf einer toten Manns Brust!
+}
+Common_Store_156 {
+Trink, und der Teufel bringt dich bis zum bitteren Ende!
+}
+Common_Store_157 {
+Yo-ho-ho! Und eine Flasche Rum.
+}
+Common_Store_158 {
+Was willst du, Captain?
+}
+Common_Store_159 {
+Was möchten Sie kaufen, Captain?
+}
+Common_Store_160 {
+@<RandPhraseSimple> @<RandPhraseSimple>
+}
+Common_Store_161 {
+Sie handeln wirklich gern, Captain @<GetFullName>. Als Stammkunde biete ich Ihnen ein ganz besonderes Angebot!
+}
+Common_Store_162 {
+In Ordnung, Captain @<GetFullName>, aus Respekt vor Ihnen bin ich bereit, den Preis noch etwas weiter zu senken! Was wünschen Sie?
+}
+Common_Store_163 {
+Kauf zwei oder drei Erdnüsse. Schweine mögen sie sehr.
+}
+Common_Store_164 {
+Erwartest du etwa, dass sie dir hier die Stiefel mit Rum putzen?
+}
+Common_Store_165 {
+Ich kenne Leute wie dich. Du kippst den Rum runter, und ehe du dich versiehst, hängst du am Galgen.
+}
+Common_Store_166_m {
+Wie hat deine Mutter dich nur aufs Meer gelassen? Aufs Meer!!! Du wärst besser dran gewesen, wenn du Schneider geworden wärst...
+}
+Common_Store_166_f {
+Wie konnte deine Mutter dich nur zur See gehen lassen! Zur See!!! Es wäre besser gewesen, wenn du Näherin geworden wärst...
+}
+Common_Store_167 {
+Ich schwöre, mit dir zu reden macht mich krank. @<LinkRandPhrase>
+}
+Common_Store_168 {
+Ich habe angenommen,
+}
+Common_Store_169 {
+Ich hatte gehofft,
+}
+Common_Store_170 {
+dass du unsere Insel verlassen hast.
+}
+Common_Store_171 {
+dass ich dich nie wiedersehen werde.
+}
+Common_Store_172 {
+Die Toten lasten wie Mühlsteine auf deinem Nacken...
+}
+Common_Store_173 {
+Wie viele Seeleute hast du schon zwischen den Korallen verrotten lassen?!
+}
+Common_Store_174 {
+@<RandPhraseSimple> @<RandPhraseSimple> @<RandPhraseSimple>
+}
+Common_Store_175 {
+Möchten Sie noch letzte Einkäufe erledigen, bevor wir in See stechen?
+}
+Common_Store_176 {
+Suchen Sie etwas Besonderes?
+}
+Common_Store_177 {
+Kapitän @<GetFullName>, Ihre Leidenschaft für das Geschäft übertrifft all meine Erwartungen! @<RandPhraseSimple>
+}
+Common_Store_178 {
+Na los, zeig mir, was du draufhast, alter Pirat!
+}
+Common_Store_179 {
+Ich möchte mir nur kurz Ihre Waren ansehen, mein Herr.
+}
+Common_Store_180 {
+Beim Galgen, @<GetFullName>, ich lasse mich von dir nicht zum Narren halten! Zeig mir deine Waren, aber mach schnell!
+}
+Common_Store_181 {
+Sehen wir uns mal eure Waren an, @<GetAddress_FormToNPC>.
+}
+Common_Store_182 {
+Das ist sicher! Tote beißen nicht! Also, was hast du in deinem Laderaum?
+}
+Common_Store_183 {
+Kümmern Sie sich besser um Ihre eigenen Angelegenheiten, meine Liebe. Welche Waren haben Sie im Angebot?
+}
+Common_Store_184 {
+Eines Tages wirst du auch meine Beute sein, heh-heh. Nur ein Scherz. Zeig mir deine Waren.
+}
+Common_Store_185 {
+Lassen Sie uns über Geschäfte sprechen, @<GetAddress_FormToNPC> @<GetFullName>
+}
+Common_Store_186 {
+Was ich will? Ich bin hier, um etwas zu kaufen!
+}
+Common_Store_187 {
+Der Alkohol wird dich noch umbringen, @<GetFullName>. Zeig mir deine Waren.
+}
+Common_Store_188 {
+Ich kenne deine Rabatte! Zwei Pfund Kakao zum Preis von drei! Zeig mir deine Waren, aber mach schnell.
+}
+Common_Store_189 {
+Das ist immer ein Vergnügen. Lassen Sie uns handeln.
+}
+Common_Store_190 {
+Zeig mir deine Waren – weniger Gerede, mehr Taten. Ich habe es eilig.
+}
+Common_Store_191_m {
+Ach, ich könnte gerade jemanden niederstrecken! Also gut, kommen wir zur Sache.
+}
+Common_Store_191_f {
+Ach, ich könnte gerade jemanden niederstrecken! Also gut, kommen wir zur Sache.
+}
+Common_Store_192 {
+Kommen wir zu anderen Dingen, meine Liebe.
+}
+Common_Store_193 {
+Caramba! Ich bin aus einem ganz anderen Grund hier!
+}
+Common_Store_194 {
+Ich muss mit Ihnen über ein Geschäft sprechen, @<GetAddress_FormToNPC> @<GetFullName>.
+}
+Common_Store_195 {
+Ich habe ein Geschäft mit dir, alter Pirat!
+}
+Common_Store_196 {
+Kommen wir zur Sache, meine Liebe!
+}
+Common_Store_197 {
+Beim Teufel, du legst mich nicht rein, Halunke! Ich habe noch anderes zu tun!
+}
+Common_Store_198_m {
+Ich stimme Ihnen vollkommen zu, @<GetAddress_FormToNPC> @<GetFullName>, aber ich möchte noch andere Dinge mit Ihnen besprechen.
+}
+Common_Store_198_f {
+Ich stimme Ihnen vollkommen zu, @<GetAddress_FormToNPC> @<GetFullName>, aber ich möchte noch andere Dinge mit Ihnen besprechen.
+}
+Common_Store_199 {
+Schon betrunken, Freund?! Ich habe mit dir zu tun.
+}
+Common_Store_200_m {
+Ich bin nicht zum Handeln hier, mein Freund. Ich habe andere Angelegenheiten.
+}
+Common_Store_200_f {
+Ich bin nicht zum Handeln gekommen, meine Liebe. Ich habe andere Angelegenheiten.
+}
+Common_Store_201 {
+Verflucht seien deine Preise, du Halunke! Ich habe mit dir zu tun.
+}
+Common_Store_202 {
+Rabatte sind immer willkommen, @<GetAddress_FormToNPC> @<GetFullName>, aber ich bin aus einem anderen Grund hier.
+}
+Common_Store_203 {
+Halt den Mund, alter Säufer, ich habe ein Geschäft mit dir.
+}
+Common_Store_204 {
+Rum macht dich wohl krank. Nun, ich mag dich auch nicht besonders. Kommen wir zur Sache.
+}
+Common_Store_205 {
+Du hast mir schon das letzte Hemd abgenommen, du Halunke! Ich habe noch ein Hühnchen mit dir zu rupfen.
+}
+Common_Store_206 {
+Ihr Sarkasmus ist unangebracht; ich habe ein anderes Anliegen mit Ihnen.
+}
+Common_Store_207 {
+Erst das Geschäft, dann das Vergnügen. Ich möchte dich etwas fragen.
+}
+Common_Store_208 {
+Nicht jetzt, ich brauche Informationen.
+}
+Common_Store_209 {
+Zum Teufel mit den Preisen! Erst erzählst du mir alles, was ich wissen muss.
+}
+Common_Store_210 {
+Gern. Ich möchte Sie etwas fragen.
+}
+Common_Store_211 {
+Danke für den Rat, alter Killer. Ich muss etwas herausfinden.
+}
+Common_Store_212 {
+Ich habe eine konkrete Frage.
+}
+Common_Store_213 {
+Gold kann warten. Es gibt etwas, das ich wissen will.
+}
+Common_Store_214_m {
+Ja, ich stimme zu. Ich möchte dich etwas fragen.
+}
+Common_Store_214_f {
+Ja, ich stimme zu. Ich möchte dich etwas fragen.
+}
+Common_Store_215 {
+Ich glaube, du weißt, was ich fragen will.
+}
+Common_Store_216 {
+Ich hoffe, Sie beantworten meine Frage.
+}
+Common_Store_217 {
+Gibt es in deinem Kopf noch etwas anderes als Preisschilder? Genau das wollte ich fragen.
+}
+Common_Store_218 {
+Darum geht es nicht. Ich brauche einige Informationen.
+}
+Common_Store_219 {
+Reg dich nicht auf, alter Freund! Ich möchte dir nur etwas fragen.
+}
+Common_Store_220 {
+Reg dich nicht so auf, sonst bekommst du noch einen Herzinfarkt. Beantworte einfach meine Frage, dann bin ich weg.
+}
+Common_Store_221 {
+Ich erwarte keine klugen Worte von dir – dein Verstand taugt höchstens für Kakerlaken. Aber ein bisschen was verstehst du schon.
+}
+Common_Store_222 {
+Ich halte Sie nicht lange auf. Nur eine Frage.
+}
+Common_Store_223_m {
+Hallo, ich bin auf Einladung Ihres Sohnes gekommen.
+}
+Common_Store_223_f {
+Hallo, ich bin auf Einladung Ihres Sohnes gekommen.
+}
+Common_Store_224 {
+Ich bin wegen Ihrer Tochter hier...
+}
+Common_Store_225 {
+Leb wohl, alter Säufer.
+}
+Common_Store_226 {
+Alles Gute, @<GetAddress_FormToNPC> @<GetFullName>.
+}
+Common_Store_227 {
+Caramba! Geh nicht weg. Ich bin gleich zurück.
+}
+Common_Store_228 {
+Es war mir eine Freude, Sie zu sehen, @<GetAddress_FormToNPC> @<GetFullName>! Leben Sie wohl!
+}
+Common_Store_229 {
+Leinen los!
+}
+Common_Store_230 {
+Leb wohl, mein Lieber.
+}
+Common_Store_231 {
+Hey! Was versteckst du da? Rum? Nein? Na gut, dann geh ich mir eben den Hals anfeuchten.
+}
+Common_Store_232 {
+Entschuldigen Sie mich bitte, ich habe dringende Angelegenheiten in der Stadt.
+}
+Common_Store_233 {
+Heh! Wir sehen uns wieder!
+}
+Common_Store_234 {
+Ich muss gehen. Lebt wohl, @<GetAddress_FormToNPC> @<GetFullName>!
+}
+Common_Store_235 {
+Und wag es ja nicht, mir zu widersprechen! Ich habe hier keine Zeit, mit dir zu streiten!
+}
+Common_Store_236 {
+Ich sollte wohl nachsehen, wie es auf dem Schiff aussieht. Lebt wohl, @<GetAddress_FormToNPC> @<GetFullName>!
+}
+Common_Store_237 {
+Was ist los mit dir, alter Freund? Ich bin’s—@<GetFullName>! Schlaf dich aus, ich komme später wieder.
+}
+Common_Store_238 {
+Ich fürchte, deine Leber bringt dich um, bevor ich hier wieder auftauche.
+}
+Common_Store_239 {
+Zähl deine Dublonen, Halunke! Ich komme wieder.
+}
+Common_Store_240_m {
+Schön, Sie zu sehen, @<GetAddress_FormToNPC> @<GetFullName>!
+}
+Common_Store_240_f {
+Schön, Sie zu sehen, @<GetAddress_FormToNPC> @<GetFullName>!
+}
+Common_Store_241_m {
+Tut mir leid, aber ich bin gerade beschäftigt. @<GetAddress_FormToNPC> @<GetFullName> ist mit einer großen Lieferung angekommen! Komm morgen wieder.
+}
+Common_Store_241_f {
+Tut mir leid, aber ich bin gerade beschäftigt. @<GetAddress_FormToNPC> @<GetFullName> ist mit einer großen Lieferung angekommen! Komm morgen wieder.
+}
+Common_Store_242 {
+Ach, so ist das! Na gut, ich komme später vorbei.
+}
+Common_Store_243 {
+Ich habe Säbel, Pistolen, Kanonenkugeln, feines Holz und andere Waren! Was suchst du?
+}
+Common_Store_244 {
+Möchten Sie Gold oder Silber kaufen? Oder suchen Sie vielleicht nach einer feinen Klinge?
+}
+Common_Store_245 {
+@<RandPhraseSimple>
+}
+Common_Store_246 {
+Mein Laderaum platzt vor Beute! Gold stinkt doch nicht, oder?
+}
+Common_Store_247 {
+Ich muss meinen Laderaum von Beute leeren und ihn mit deinem Gold füllen. Ha-ha!
+}
+Common_Store_248 {
+Für einen Beutel voller Dublonen würdest du sogar deine eigene Mutter verkaufen! Aber ich will nur meine Vorräte auffüllen.
+}
+Common_Store_249 {
+@<LinkRandPhrase>
+}
+Common_Store_250 {
+Ich möchte meine Ladung verkaufen und Vorräte auffüllen.
+}
+Common_Store_251 {
+Ich möchte Waren zum Weiterverkauf kaufen.
+}
+Common_Store_252 {
+Zeig mir deine Kanonenkugeln, Bomben und andere Waren.
+}
+Common_Store_253 {
+@<LinkRandPhrase>
+}
+Common_Store_254 {
+Zeig mir deine Säbel, Pistolen und was du sonst noch hast.
+}
+Common_Store_255 {
+Ich könnte ein paar neue Pistolen, etwas Munition und einen schönen Ring gebrauchen.
+}
+Common_Store_256 {
+Kostbare Edelsteine, exotische Götzen – genau das suche ich.
+}
+Common_Store_257 {
+@<LinkRandPhrase>
+}
+Common_Store_258 {
+Ich steche in See, ohne zu handeln. Lebt wohl!
+}
+Common_Store_259 {
+Ich gehe mir einen Drink holen. Bleib hier.
+}
+Common_Store_260 {
+@<RandPhraseSimple>
+}
+Common_Store_261 {
+Nein, ich habe gerade keine Lust einzukaufen. Leb wohl.
+}
+Common_Store_262 {
+Tut mir leid, ich habe dringende Angelegenheiten. Auf Wiedersehen!
+}
+Common_Store_263 {
+@<RandPhraseSimple>
+}
+Common_Store_264 {
+Ich höre aufmerksam zu.
+}
+Common_Store_265_m {
+Ich habe deinen Ausreißer gebracht.
+}
+Common_Store_265_f {
+Ich habe dir deinen Ausreißer gebracht.
+}
+Common_Store_266 {
+Ah, Captain, ich danke Ihnen vielmals! Wie geht es ihr? Ist sie wohlauf, unverletzt? Es ist fast ein ganzer Tag vergangen, seit sie davongelaufen ist, der kleine Frechdachs. Glauben Sie, ich wünsche ihr etwas Böses? Ich wollte sie doch nur gut verheiraten… Der Bräutigam ist reich, jung, und was macht es schon, wenn er nicht besonders hübsch ist—Aussehen ist nicht alles. Aber nein! Sie bleibt stur wie eh und je—ganz wie ihre Mutter, verdammt.\nDabei wäre sie gar nicht hier, wenn ihre Mutter damals nicht mit irgendeinem unternehmungslustigen Halunken durchgebrannt wäre… Aber was bringt es, daran zu denken… Die Jugend ist naiv, töricht… Und grausam.
+}
+Common_Store_267_m {
+Natürlich, du bist der Vater und es ist deine Entscheidung, aber ich würde mit der Hochzeit nichts überstürzen…
+}
+Common_Store_267_f {
+Natürlich, du bist der Vater und es ist deine Entscheidung, aber ich würde mit der Hochzeit nichts überstürzen…
+}
+Common_Store_268 {
+Was weißt du denn überhaupt?.. Hast du eigene Kinder? Nein? Dann komm wieder, wenn du welche hast – dann reden wir weiter.\nJa... Ich habe demjenigen, der sie zurückbringt, eine Belohnung versprochen – bitte, nimm sie.
+}
+Common_Store_269 {
+Danke. Und halt sie gut fest. Irgendetwas sagt mir, dass sie damit nicht aufhören wird.
+}
+Common_Store_270_m {
+Ah, Sie sind also der Kapitän, der meinen eigensinnigen Sohn mit seiner jungen Braut zurückgebracht hat?
+}
+Common_Store_270_f {
+Ah, also bist du die junge Frau, die meinen eigensinnigen Sohn mit seiner neuen Braut nach Hause gebracht hat?
+}
+Common_Store_271_m {
+Ja, ich war es, der ihnen zur Flucht verholfen hat.
+}
+Common_Store_271_f {
+Ja, ich bin derjenige, der ihnen zur Flucht verholfen hat.
+}
+Common_Store_272_m {
+Ah, da bist du ja, mein Wohltäter. Hoffst wohl auf eine Belohnung, was?
+}
+Common_Store_272_f {
+Ah, da bist du ja, meine Wohltäterin. Hoffst du auf eine Belohnung?
+}
+Common_Store_273 {
+Nun, ich erwarte ja keine Belohnung, aber ein Dankeschön wäre nicht verkehrt.
+}
+Common_Store_274 {
+Ich bin Ihnen zutiefst dankbar, dass Sie mein Kind in einer schwierigen Lage nicht im Stich gelassen und ihm geholfen haben, diese heikle Angelegenheit mit Anstand zu meistern. Bitte erlauben Sie mir, mich so gut ich kann zu bedanken. Nehmen Sie diese bescheidene Summe und ein persönliches Geschenk von mir an.
+}
+Common_Store_275 {
+Danke, ich habe diesen jungen Leuten gerne geholfen.
+}
+Common_Store_276 {
+Dankbarkeit? Welche Dankbarkeit?! Wofür denn bitte?! Dieser Nichtsnutz hat doch ein halbes Jahr lang nichts gearbeitet, und jetzt hat er auch noch Zeit, herumzuflirten! Als ich in seinem Alter war, hatte ich schon mein eigenes Geschäft. Aber schau ihn dir an, wie er sich aufregt! Die Tochter des Gouverneurs ist bereit zur Heirat, und er schleppt irgendein namenloses Mädchen nach Hause—Gott verzeih mir—und jetzt bittet er auch noch um den Segen seiner Eltern!
+}
+Common_Store_277 {
+Hm, du glaubst also nicht an echte Gefühle?
+}
+Common_Store_278 {
+Welche Gefühle?! Wovon redest du überhaupt, Gefühle? Du bist doch erwachsen, und jetzt das... Gefühle! Du solltest dich schämen, die Jugend zu so etwas zu ermutigen und dich als Kuppler aufzuspielen. Du hast das Mädchen aus ihrem Elternhaus gerissen und das Leben meines Jungen ruiniert. Von mir brauchst du keinen Dank zu erwarten. Leb wohl.
+}
+Common_Store_279 {
+Na dann, pass auf dich auf...
+}
+Common_Store_280 {
+Willst du mich zum Narren halten? Wo ist denn dein Schiff? Es liegt nicht am Pier!
+}
+Common_Store_281 {
+Zum Teufel, du legst mich nicht rein! Dein Schiff liegt gar nicht am Pier!
+}
+Common_Store_282 {
+Ich sehe Ihr Schiff nicht im Hafen, Captain @<GetFullName>. Hoffentlich ist es nicht die Flying Dutchman?
+}
+Common_Store_283 {
+Kapitän, es ist einfacher, die Waren vom Pier aus zu verladen. Legen Sie Ihr Schiff an und kommen Sie herüber.
+}
+Common_Store_284 {
+@<RandSwear> Was für eine Plage!!! Schon gut, alter Fuchs, wir sehen uns wieder!
+}
+Common_Store_285_m {
+Ich wollte dich nicht täuschen, @<GetFullName>. Das Schiff liegt auf der anderen Seite der Insel.
+}
+Common_Store_285_f {
+Ich wollte dich nicht täuschen, @<GetFullName>. Das Schiff ist auf der anderen Seite der Insel.
+}
+Common_Store_286 {
+Nein. Mein Schiff heißt Black Pearl. Warum so ein blasses Gesicht? Haha! Nur ein Scherz!
+}
+Common_Store_287 {
+Danke für den Rat, ich werde ihn auf jeden Fall nutzen.
+}
+Common_Store_288 {
+Du schuldest noch @<FindMoneyString> für die Miete.
+}
+Common_Store_289 {
+In Ordnung, ich zahle jetzt die Miete.
+}
+Common_Store_290 {
+Ich komme später vorbei.
+}
+Common_Store_291 {
+Kommen Sie herein.
+}
+Common_Store_292 {
+Danke.
+}
+Common_Store_293_m {
+Nein, ich habe es mir anders überlegt.
+}
+Common_Store_293_f {
+Nein, ich habe es mir anders überlegt.
+}
+Common_Store_294_m {
+Nein, Sir, es ist immer noch da – und wartet auf Sie. Ich wusste, dass Sie dieses Angebot nicht ausschlagen würden.
+}
+Common_Store_294_f {
+Nein, Ma’am, es ist immer noch da – und wartet auf Sie. Ich wusste, dass Sie dieses Angebot nicht ausschlagen würden.
+}
+Common_Store_295 {
+Das ist gut. Ich miete es.
+}
+Common_Store_296_m {
+Nein, ich habe mich nur daran erinnert, das ist alles. Vielleicht wird es ja irgendwann mal nützlich...
+}
+Common_Store_296_f {
+Nein, ich habe mich nur daran erinnert, das ist alles. Vielleicht wird es ja irgendwann mal nützlich…
+}
+Common_Store_297 {
+Wie Sie sich erinnern, ist die Zahlung einen Monat im Voraus fällig.
+}
+Common_Store_298 {
+Ich erinnere mich – bitte sehr.
+}
+Common_Store_299 {
+Verdammt. Ich bringe das Geld sofort.
+}
+Common_Store_300 {
+Lassen Sie mich wirklich gehen? Tss, tss, so ein prächtiger Ort, so günstige Bedingungen. Ich versichere Ihnen – nirgendwo sonst in der Karibik finden Sie solche Dienstleistungen.
+}
+Common_Store_301_m {
+Ich habe es Ihnen doch gesagt – ich ziehe aus. Oder wollen Sie etwa, dass ich für leere Luft Miete zahle? Suchen Sie sich ruhig einen neuen Mieter.
+}
+Common_Store_301_f {
+Ich habe es Ihnen doch gesagt – ich ziehe aus. Oder wollen Sie mir etwa das Luftlagern berechnen? Suchen Sie sich ruhig einen neuen Mieter.
+}
+Common_Store_302_m {
+Du sagst, niemand sonst wird es anbieten? Gut, ich behalte es vorerst. Aber ich muss sagen... die Miete ist gelinde gesagt nicht gerade günstig.
+}
+Common_Store_302_f {
+Du sagst, niemand sonst wird es anbieten? Gut, dann behalte ich es vorerst für mich. Aber die Miete, muss ich sagen... die ist alles andere als günstig, um es vorsichtig auszudrücken.
+}
+Common_Store_303 {
+Du schuldest immer noch @<FindMoneyString> für die Miete.
+}
+Common_Store_304 {
+In Ordnung.
+}
+Common_Store_305 {
+Nehmen Sie Ihre Waren, dann schließe ich das Lager.
+}
+Common_Store_306 {
+In Ordnung.
+}
+Common_Store_307 {
+Kapitän, bitte, helfen Sie uns!!!
+}
+Common_Store_308 {
+Kapitän, ich bitte Sie im Namen aller Händler um Ihre Hilfe!
+}
+Common_Store_309 {
+@<RandPhraseSimple>
+}
+Common_Store_310 {
+Was ist passiert? Wie kann ich Ihnen helfen?
+}
+Common_Store_311 {
+Ich hatte einen Auftrag in Aussicht, aber @<GetFullName> hat ihn mir schon abgenommen.
+}
+Common_Store_312 {
+Ach, so ist das! Gut, ich komme später vorbei.
+}
+Common_Store_313 {
+Geschäft?! Raus damit – erzähl mir alles von Anfang an!
+}
+Common_Store_314 {
+Ich höre zu. Um welches Anliegen geht es?
+}
+Common_Store_315 {
+In meinem Laderaum befindet sich Ware für deinen Laden.
+}
+Common_Store_316 {
+Mein Schiff wurde beauftragt, Fracht zu Ihrem Lager zu bringen. Die Waren werden gerade entladen.
+}
+Common_Store_317 {
+@<RandPhraseSimple>
+}
+Common_Store_318_m {
+Leider bin ich gezwungen, mich von meinen Verpflichtungen zurückzuziehen. Die politische Lage erlaubt es mir nicht, die Ladung zu liefern.
+}
+Common_Store_318_f {
+Leider bin ich gezwungen, mich von meinen Verpflichtungen zurückzuziehen. Die politische Lage hindert mich daran, die Ladung zu liefern.
+}
+Common_Store_319 {
+Ich möchte Ihnen mein Schiff zur Beförderung von Fracht zur Verfügung stellen.
+}
+Common_Store_320 {
+Ich habe ein ausgezeichnetes Schiff und kann jede Fracht dorthin bringen, wo Sie es wünschen.
+}
+Common_Store_321 {
+@<RandPhraseSimple>
+}
+Common_Store_322 {
+Möchten Sie ein Schiff chartern, @<GetAddress_FormToNPC>? Ich habe ein solides Schiff und eine erfahrene Mannschaft.
+}
+Common_Store_323_m {
+Ach, ich bin vom Meer erschöpft... Hör zu, Freund, das Geld ist im Moment knapp.
+}
+Common_Store_323_f {
+Ach, ich bin vom Meer erschöpft… Hör zu, Freund, das Geld ist im Moment knapp.
+}
+Common_Store_324 {
+Also gut, alter Gauner, reden wir über Geschäfte – genauer gesagt, über Geld.
+}
+Common_Store_325 {
+@<RandPhraseSimple>
+}
+Common_Store_326_m {
+Ich möchte finanzielle Angelegenheiten mit Ihnen besprechen.
+}
+Common_Store_326_f {
+Ich möchte finanzielle Angelegenheiten mit Ihnen besprechen.
+}
+Common_Store_327 {
+Sprechen wir über Finanzen – wir haben einiges zu besprechen.
+}
+Common_Store_328 {
+@<RandPhraseSimple>
+}
+Common_Store_329 {
+Ich bin im Auftrag von jemandem hier. Sein Name ist Gouverneur @<GetFullName>.
+}
+Common_Store_330_m {
+@<GetFullName> hat mich zu Ihnen geschickt. Ich soll etwas abholen...
+}
+Common_Store_330_f {
+@<GetFullName> hat mich zu Ihnen geschickt. Ich soll hier etwas abholen...
+}
+Common_Store_331 {
+@<RandPhraseSimple>
+}
+Common_Store_332_m {
+Ich möchte Ihnen mitteilen, dass ich Ihren Auftrag erledigt habe. Die Xebeke „Blue Bird“ wird den Händlern keine Probleme mehr bereiten. Ich bin wegen der vereinbarten Bezahlung gekommen.
+}
+Common_Store_332_f {
+Ich möchte Ihnen mitteilen, dass ich Ihren Auftrag erledigt habe. Die Xebeke „Blue Bird“ wird den Händlern keine Probleme mehr bereiten. Ich bin wegen der vereinbarten Bezahlung hier.
+}
+Common_Store_333_m {
+Ich muss Ihnen mitteilen, dass es mir nicht gelungen ist, die Xebec „Blue Bird“ zu versenken. Ich habe alles versucht...
+}
+Common_Store_333_f {
+Ich muss Ihnen mitteilen, dass es mir nicht gelungen ist, die Xebec „Blue Bird“ zu versenken. Ich habe alles versucht...
+}
+Common_Store_334 {
+Wie geht es den Fluiten deiner Kollegen? Alles in Ordnung?
+}
+Common_Store_335 {
+Bist du immer noch nicht zur Vernunft gekommen? Willst du mir das Geld, das ich mir ehrlich verdient habe, etwa nicht geben?
+}
+Common_Store_336 {
+Erzählst du mir den neuesten Klatsch? Du sitzt doch sowieso den ganzen Tag hier fest.
+}
+Common_Store_337 {
+Reg dich nicht auf, alter Halunke – sag lieber, wie läuft das Leben an Land heutzutage?
+}
+Common_Store_338 {
+@<RandPhraseSimple>
+}
+Common_Store_339_m {
+Es fühlt sich an, als hätte ich eine Ewigkeit auf See verbracht. Was gibt es hier Neues?
+}
+Common_Store_339_f {
+Es fühlt sich an, als hätte ich eine Ewigkeit auf See verbracht. Was gibt es hier Neues?
+}
+Common_Store_340 {
+Du kennst sicher schon alle Neuigkeiten, oder? Was ist Wichtiges passiert?
+}
+Common_Store_341 {
+@<RandPhraseSimple>
+}
+Common_Store_342 {
+Begleiten Sie mich zum Lagerhaus. Ich möchte den Zustand meines Warenbestands überprüfen.
+}
+Common_Store_343_m {
+Ich habe beschlossen, das Lager zu räumen. Ich brauche es nicht mehr.
+}
+Common_Store_343_f {
+Ich habe beschlossen, das Lagerhaus zu räumen. Ich brauche es nicht mehr.
+}
+Common_Store_344 {
+Ich erinnere mich, dass du mal ein Lagerhaus erwähnt hast. Ist der Ort noch verfügbar?
+}
+Common_Store_345 {
+Wie auch immer, jetzt ist nicht die Zeit zum Reden.
+}
+Common_Store_346_m {
+@<RandSwear> Ich habe das Schiff auf der anderen Seite der Insel gelassen. Ich komme später vorbei!
+}
+Common_Store_346_f {
+@<RandSwear> Ich habe das Schiff auf der anderen Seite der Insel gelassen. Ich komme später vorbei!
+}
+Common_Store_347 {
+Bitte verzeihen Sie mir, @<GetFullName>, ich komme später vorbei. Mein Schiff hat noch nicht angelegt.
+}
+Common_Store_348 {
+Verdammt! Diese Faulpelze haben das Schiff noch nicht zum Beladen hergebracht! Ich komme später wieder!
+}
+Common_Store_349_m {
+Es tut mir leid, aber ich muss Sie anweisen, Ihr Schiff an den Pier zu legen!
+}
+Common_Store_349_f {
+Es tut mir leid, aber ich muss Sie anweisen, Ihr Schiff am Pier anzulegen!
+}
+Common_Store_350_m {
+Ach, ich bin vom Meer erschöpft... Hör zu, Freund, das Geld ist im Moment knapp.
+}
+Common_Store_350_f {
+Ach, das Meer hat mich erschöpft... Hör zu, Freund, im Moment ist das Geld knapp.
+}
+Common_Store_351 {
+Also gut, alter Gauner, reden wir über Geschäfte – ums Geld.
+}
+Common_Store_352 {
+@<RandPhraseSimple>
+}
+Common_Store_353_m {
+Ich möchte mit Ihnen über finanzielle Angelegenheiten sprechen.
+}
+Common_Store_353_f {
+Ich möchte mit Ihnen über finanzielle Angelegenheiten sprechen.
+}
+Common_Store_354 {
+Lass uns über Finanzen sprechen – wir haben einiges zu besprechen.
+}
+Common_Store_355 {
+@<RandPhraseSimple>
+}
+Common_Store_356 {
+Ich bin im Auftrag von jemandem hier. Sein Name ist Gouverneur @<GetFullName>.
+}
+Common_Store_357_m {
+@<GetFullName> hat mich zu Ihnen geschickt. Ich soll etwas abholen...
+}
+Common_Store_357_f {
+@<GetFullName> hat mich zu Ihnen geschickt. Ich soll etwas abholen...
+}
+Common_Store_358 {
+@<RandPhraseSimple>
+}
+Common_Store_359 {
+Nein, das musst du nicht! Zumindest nicht, solange du mit @<NationNameInstrumental> im Krieg bist.
+}
+Common_Store_360 {
+In diesem Fall, leb wohl.
+}
+Common_Store_361 {
+Schreckliche Gerüchte machen die Runde
+}
+Common_Store_362 {
+Sie sprechen schlecht
+}
+Common_Store_363 {
+@<RandSwear> Du bist doch @<GetFullName>, oder? Ich habe @<RandPhraseSimple> über dich gehört und will nichts mit dir zu tun haben.
+}
+Common_Store_364 {
+Ach... Ein falscher Schritt, und schon wenden sich alle von dir ab.
+}
+Common_Store_365 {
+@<RandSwear> Nun, es gibt spannendere Dinge, die man auf See tun kann, @<GetFullName>.
+}
+Common_Store_366 {
+@<RandPhraseSimple>
+}
+Common_Store_367 {
+, das am @<XI_ConvertString>
+}
+Common_Store_368 {
+Ah, @<GetAddress_Form>, heute gibt es keine Aufträge. Komm morgen wieder.
+}
+Common_Store_369 {
+Komm morgen wieder. Vielleicht habe ich dann ein gutes Angebot für dich.
+}
+Common_Store_370 {
+In Ordnung, ich schaue morgen vorbei.
+}
+Common_Store_371 {
+Dein armseliges Kahn fasst nicht die ganze Ladung – heute kein Geschäft.
+}
+Common_Store_372 {
+Leider, Captain @<GetFullName>, brauche ich ein Schiff mit mehr Laderaum als Ihres, um die Waren zu liefern.
+}
+Common_Store_373 {
+Ich habe ein gutes Schiff, aber ich verstehe, was du meinst. Leb wohl.
+}
+Common_Store_374 {
+Ich verstehe dich, das Geschäft geht vor. Leb wohl.
+}
+Common_Store_375 {
+Oh! Ich wollte dich gerade selbst um einen Gefallen bitten – nämlich, ein paar Waren für mich zu liefern! Hier, schau dir die Einzelheiten an...
+}
+Common_Store_376 {
+Für @<FindMoneyString> liefere ich eine Ladung @<GetGoodsNameAlt> in der Menge von @<FindQtyString> nach @<XI_ConvertString>@<arFracht> innerhalb von @<FindDaysString> Tagen.
+}
+Common_Store_377 {
+Ich glaube, das passt nicht zu mir.
+}
+Common_Store_378 {
+Die politische Lage im Archipel lässt keinen Handel zu. @<XI_ConvertString> liegt mit allen im Streit, und ich bin der Einzige, der noch ein Geschäft hat.
+}
+Common_Store_379 {
+Oh! Entschuldigung. Alles Gute.
+}
+Common_Store_380 {
+Ach, @<GetAddress_Form>, heute gibt es keine Aufträge. Komm morgen wieder.
+}
+Common_Store_381 {
+Komm morgen wieder. Vielleicht habe ich dann ein gutes Angebot für dich.
+}
+Common_Store_382 {
+In Ordnung, ich komme morgen vorbei.
+}
+Common_Store_383 {
+Euer armseliges Schiff kann die ganze Ladung nicht aufnehmen – heute kein Handel.
+}
+Common_Store_384 {
+Leider, Captain @<GetFullName>, brauche ich ein Schiff mit mehr Laderaum als Ihres, um die Waren zu transportieren.
+}
+Common_Store_385 {
+Ich habe ein gutes Schiff, aber ich verstehe, was du meinst. Leb wohl.
+}
+Common_Store_386 {
+Ich verstehe dich, das Geschäft geht vor. Leb wohl.
+}
+Common_Store_387 {
+, das am @<XI_ConvertString>
+}
+Common_Store_388 {
+Oh! Ich wollte dich gerade selbst um einen Gefallen bitten. Ich brauche eine Lieferung von @<GetGoodsNameAlt>—@<FindQtyString> so schnell wie möglich nach @<sNation>@<sTemp>. Wenn du es innerhalb von @<FindDaysString> schaffst, erhältst du bei Ankunft @<FindMoneyString> als Belohnung. Was meinst du?
+}
+Common_Store_389_m {
+Ich glaube, da stimme ich zu.
+}
+Common_Store_389_f {
+Ich glaube, da stimme ich zu.
+}
+Common_Store_390 {
+Ich glaube, das passt nicht zu mir.
+}
+Common_Store_391 {
+Die politische Lage im Archipel lässt keinen Handel zu. @<XI_ConvertString> liegt mit allen im Streit, und ich bin der Einzige, der noch ein Geschäft hat.
+}
+Common_Store_392 {
+Oh! Entschuldigung. Alles Gute.
+}
+Common_Store_393 {
+Verschwinde, ich habe keine Zeit für leeres Gerede!
+}
+Common_Store_394 {
+Ich habe dir heute schon gesagt, ich habe nichts für dich.
+}
+Common_Store_395 {
+Du solltest besser auf deine Manieren achten, sonst bringe ich dir welche bei!
+}
+Common_Store_396 {
+Oh, Entschuldigung.
+}
+Common_Store_397 {
+@<RandSwear> Du hast dich ein wenig zu spät an deine Aufgabe erinnert, findest du nicht? Ich musste die Waren selbst neu bestellen. Leb wohl.
+}
+Common_Store_398_m {
+Verzeihen Sie, ich war wirklich in Eile. Vielleicht kann ich meinen Ruf wiederherstellen, wenn ich Ihren Schaden ersetze?
+}
+Common_Store_398_f {
+Verzeihen Sie, ich war wirklich in Eile. Vielleicht kann ich meinen geschäftlichen Ruf wiederherstellen, wenn ich Ihren Verlust ersetze?
+}
+Common_Store_399 {
+Alles Gute.
+}
+Common_Store_400 {
+Ganz genau! Ich warte schon lange darauf. Du musst mir @<FindQtyString> von @<GetGoodsNameAlt> bringen, und dafür bekommst du @<FindMoneyString>.
+}
+Common_Store_401 {
+Ganz genau.
+}
+Common_Store_402 {
+in einer schwierigen Lage und nicht in der Lage, für eure Dienste zu bezahlen
+}
+Common_Store_403 {
+habe diese Ladung bereits anderswo zu einem besseren Preis aufgenommen
+}
+Common_Store_404 {
+@<RandSwear> Ich muss mich bei Ihnen entschuldigen, @<GetAddress_Form>. Die Sache ist die, ich bin @<RandPhraseSimple>. Als Bezahlung für Ihre Überfahrt überlasse ich Ihnen die gesamte Ladung, die Sie geliefert haben.
+}
+Common_Store_405_m {
+Und ich habe diese verdammte Fracht vor jedem Unglück beschützt! Wegen ihr habe ich zweihundert Ratten getötet!
+}
+Common_Store_405_f {
+Und ich habe diese verdammte Fracht vor jedem Unglück beschützt! Ich habe deswegen zweihundert Ratten getötet!
+}
+Common_Store_406 {
+Du lässt mir keine Wahl, also muss ich zustimmen.
+}
+Common_Store_407 {
+@<RandSwear> @<RandPhraseSimple>
+}
+Common_Store_408 {
+Sie haben noch nicht alle Waren geliefert! Laut Vertrag fehlen noch @<FindQtyString> Ladungen.
+}
+Common_Store_409 {
+Ja, tatsächlich. Ich muss den Mangel ausgleichen. Ich komme wieder vorbei.
+}
+Common_Store_410 {
+@<RandSwear> Verdammte Ratten haben die verdammte Ladung ruiniert. Ich werde den Verlust ausgleichen und wiederkommen.
+}
+Common_Store_411 {
+@<RandPhraseSimple>
+}
+Common_Store_412 {
+Ausgezeichnet! Hier ist Ihre Belohnung, Captain @<GetFullName>.
+}
+Common_Store_413 {
+Es ist eine Freude, mit Ihnen zusammenzuarbeiten.
+}
+Common_Store_414 {
+In Ordnung... Die Summe von @<FindMoneyString> deckt gerade so meine Verluste durch deine verspätete Lieferung.
+}
+Common_Store_415 {
+Whoa! Auf keinen Fall! Ich glaube, ich habe endgültig genug davon, diese verdammten Ladungen zu schleppen! Davon gibt es draußen auf See wirklich mehr als genug!
+}
+Common_Store_416 {
+Hier ist der gewünschte Betrag
+}
+Common_Store_417 {
+Wunderbar. Jetzt kann ich meinen Kollegen sagen, dass Sie doch jemand sind, mit dem wir Geschäfte machen können.
+}
+Common_Store_418 {
+Danke! Ich werde dich beim nächsten Mal nicht enttäuschen.
+}
+Common_Store_419 {
+Hm. Ich habe gehört, du hast deine Verpflichtungen aus dem vorherigen Vertrag noch nicht erfüllt, und trotzdem verlangst du schon einen neuen. Du solltest die @<GetGoodsNameAlt>-Ladung nach @<XI_ConvertString> liefern.
+}
+Common_Store_420 {
+Ja, genau! Du hast recht!
+}
+Common_Store_421 {
+@<RandSwear> @<GetAddress_Form>, du enttäuschst mich!!! Vielleicht könntest du versuchen, das wieder in Ordnung zu bringen?
+}
+Common_Store_422 {
+In Ordnung. Ich werde mein Bestes tun, um die Fracht abzuliefern.
+}
+Common_Store_423 {
+Nein. Ich kann nicht. Es tut mir leid.
+}
+Common_Store_424 {
+Wartet mal! So viel Ladung ist doch gar nicht an Bord! Es fehlen immer noch @<FindQtyString> Waren.
+}
+Common_Store_425 {
+Ja, tatsächlich. Ich werde den Mangel ausgleichen müssen.
+}
+Common_Store_426 {
+@<RandSwear> Schiffsraten haben die Ladung ruiniert. Ich besorge neue Waren und komme wieder.
+}
+Common_Store_427 {
+@<RandPhraseSimple>
+}
+Common_Store_428 {
+In Ordnung, ich verstehe... Ich bringe die Waren zurück.
+}
+Common_Store_429 {
+Danke. Ich werde dich beim nächsten Mal nicht enttäuschen!
+}
+Common_Store_430 {
+Im Moment habe ich keine Verwendung für Ihre Dienste.
+}
+Common_Store_431 {
+Das ist schade. Dann lass uns über etwas anderes sprechen.
+}
+Common_Store_432_m {
+Du bist viel unterwegs. Hör zu, falls du irgendwo Mumienpulver aus Ägypten findest, sei so nett und bring es mir mit. Ich habe einen ernsthaften Kunden, der daran interessiert ist.
+}
+Common_Store_432_f {
+Du bist viel unterwegs. Hör zu, falls du irgendwo ägyptisches Mumienpulver findest, sei so nett und bring es mir mit. Ich habe einen ernsthaften Kunden, der daran interessiert ist.
+}
+Common_Store_433 {
+In Ordnung.
+}

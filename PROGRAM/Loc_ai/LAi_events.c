@@ -1,0 +1,888 @@
+//==========================================================================================
+//Update events
+//==========================================================================================
+
+void LAi_Character_FrameUpdate()
+{
+	float dltTime = GetEventData();
+	//Обновляем состояние персонажей
+	LAi_AllCharactersUpdate(dltTime);
+	//Задержка исполнения квестов
+	LAi_QuestDelayProcess(dltTime);
+}
+
+void LAi_CharacterUpdate()
+{
+	//Параметры
+	aref chr = GetEventData();
+	float dltTime = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterUpdate") == false) return;
+	//Процессируем соответствующий тип
+	string func = chr.chr_ai.type;
+	if(func != "")
+	{
+		func = "LAi_type_" + func + "_CharacterUpdate";
+		call func(chr, dltTime);
+	}
+	//Процессируем соответствующий шаблон
+	func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	func = "LAi_tmpl_" + func + "_CharacterUpdate";
+	call func(chr, dltTime);
+}
+
+//==========================================================================================
+//EndTask events
+//==========================================================================================
+
+void LAi_CharacterEndTask()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterEndTask") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Определяем отработавшую задачу
+	bool isProcessed = false;
+	switch(endTask)
+	{
+	case "Goto point":
+		func = "LAi_tmpl_" + func + "_EndGoToPoint";
+		isProcessed = true;
+		break;
+	case "Runto point":
+		func = "LAi_tmpl_" + func + "_EndRunToPoint";
+		isProcessed = true;
+		break;
+	case "Escape":
+		func = "LAi_tmpl_" + func + "_EndEscape";
+		isProcessed = true;
+		break;
+	}
+	if(isProcessed != false) call func(chr);
+	else Trace("LAi_CharacterEndTask -> unknow end task <" + endTask + ">");
+}
+
+//==========================================================================================
+//TaskFailure events
+//==========================================================================================
+
+void LAi_CharacterTaskFailure()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterTaskFailure") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Определяем невыполнившиюся задачу
+	bool isProcessed = false;
+	switch(endTask)
+	{
+	case "Goto point":
+		func = "LAi_tmpl_" + func + "_FailureGoToPoint";
+		isProcessed = true;
+		break;
+	case "Runto point":
+		func = "LAi_tmpl_" + func + "_FailureRunToPoint";
+		isProcessed = true;
+		break;
+	case "Follow character":
+		func = "LAi_tmpl_" + func + "_FailureFollow";
+		isProcessed = true;
+		break;
+	case "Fight":
+		func = "LAi_tmpl_" + func + "_FailureFight";
+		isProcessed = true;
+		break;
+	case "Escape":
+		func = "LAi_tmpl_" + func + "_FailureEscape";
+		isProcessed = true;
+		break;
+	}
+	if(isProcessed != false)
+	{
+		call func(chr);
+	}else{
+		Trace("LAi_CharacterTaskFailure -> unknow failure task <" + endTask + ">");
+	}
+}
+
+void LAi_CharacterBusyPos()
+{
+	//Параметры
+	aref chr = GetEventData();
+	float x = GetEventData();
+	float y = GetEventData();
+	float z = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterTaskFailure") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	func = "LAi_tmpl_" + func + "_BusyPos";
+	call func(chr, x, y, z);
+}
+
+
+//==========================================================================================
+//Follow character's events
+//==========================================================================================
+
+void LAi_CharacterFollowGo()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterFollowGo") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_FollowGo";
+	call func(chr);
+}
+
+void LAi_CharacterFollowStay()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterFollowStay") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_FollowStay";
+	call func(chr);
+}
+
+//==========================================================================================
+//Fight character's events
+//==========================================================================================
+
+void LAi_CharacterFightGo()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterFightGo") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_FightGo";
+	call func(chr);
+}
+
+//EvgAnat. Пробитие блоков
+#event_handler("Event_CheckBlockFailed", "LAi_CheckBlockFailed");
+bool LAi_CheckBlockFailed()
+{
+	aref attack = GetEventData();
+	aref enemy = GetEventData();
+	
+	//Rosarak. Меч и мушкет всегда пробивают кулаки
+	if(IsCharacterWithFists(enemy) && !IsCharacterWithFists(attack))
+	{
+		return true;
+	}
+	
+	int iBonus = 0;
+	
+	// AlexBlade - Доп. пробитие блока для меча Лейфа
+	bool isEquipedVikingHeroSword = LAi_HasCharacterActiveBlade(attack, "vikingHeroSword");
+	int vikingHeroSwordBonus = 20; // 20%
+	if (isEquipedVikingHeroSword)
+		iBonus += vikingHeroSwordBonus;
+		
+	if (CheckCharacterPerk(attack, "sliding"))
+	{
+		// evganat - энциклопедия
+		if (!ENCYCLOPEDIA_DISABLED)
+		{
+			if (attack.chr_ai.type == LAI_TYPE_OFFICER || IsMainCharacter(attack))
+				iBonus += GetParamPageBonus("Sliding");
+		}
+		if (rand(99) < 20 + iBonus)
+			return true;
+	}
+	else
+	{
+		if (rand(99) < iBonus)
+			return true;
+	}
+	
+	return false;
+}
+
+//EvgAnat. Логика ошеломлений
+#event_handler("Check_ChrStun", "LAi_CheckStun");
+bool LAi_CheckStun()
+{
+    aref attack = GetEventData();
+    aref enemy = GetEventData();
+    string sAction = GetEventData(); //"fast", "force", "break", "feint", "round"
+	
+	//Если враг не дерётся
+	if(!LAi_CheckFightMode(enemy)) return true;
+	
+	//Если клинком ударили по безоружному (с кулаками)
+	if(IsCharacterWithFists(enemy) && !IsCharacterWithFists(attack))
+	{
+		return true;
+	}
+	
+	//Пробивающий удар
+	if(sAction == "break") return true;
+	
+	//TODO: MOD_SKILL_ENEMY_RATE
+	
+	if(!IsMainCharacter(enemy))
+	{
+		if(CheckCharacterPerk(enemy, "SwordplayProfessional"))	return rand(9) > 5; //40%
+		if(CheckCharacterPerk(enemy, "AdvancedDefense"))		return rand(9) > 3; //60%
+		if(CheckCharacterPerk(enemy, "BasicDefense"))			return rand(9) > 2; //70%
+	}
+	else
+	{
+		if(CheckCharacterPerk(enemy, "SwordplayProfessional"))	return rand(9) > 7; //20%
+		if(CheckCharacterPerk(enemy, "AdvancedDefense"))		return rand(9) > 6; //30%
+		if(CheckCharacterPerk(enemy, "BasicDefense"))			return rand(9) > 5; //40%
+		return rand(9) > 4; //50%
+	}
+	
+	return rand(9) > 0; //90%
+}
+
+void LAi_CharacterFightStay()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterFightStay") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_FightStay";
+	call func(chr);
+}
+
+void LAi_CharacterAttack()
+{
+	aref attack = GetEventData();
+	aref enemy = GetEventData();
+	string attackType = GetEventData();
+	bool isBlocked = GetEventData();
+	
+	/*if(attack.id == pchar.id)
+	{
+		pchar.combo.target = sti(enemy.index);
+	}*/
+	
+	//Реакция груп на атаку
+	LAi_group_Attack(attack, enemy);
+	//Начисление повреждений
+	LAi_ApplyCharacterAttackDamage(attack, enemy, attackType, isBlocked);
+	//Обновим цель сразу
+	LAi_group_UpdateTargets(enemy);
+	string func = enemy.chr_ai.type;
+	if(func == "") return;
+	func = "LAi_type_" + func + "_Attacked";
+	call func(enemy, attack);
+	func = "LAi_type_" + enemy.chr_ai.type + "_CharacterUpdate";
+	call func(enemy, 0.0001);
+	
+}
+
+void LAi_CharacterFire()
+{
+    string sBullet, sGunPowder, sType, weaponID;
+	aref attack = GetEventData();
+	aref enemy = GetEventData();
+	float kDist = GetEventData();	//0..1
+	int isFindedEnemy = GetEventData();
+	float fAimingTime = GetEventData();	// evganat - прицеливание
+	int isHeadShot = GetEventData(); // evganat - хедшот
+
+    // Чем стреляли?
+	if(!CharUseMusket(attack))
+	{
+		sType = GUN_ITEM_TYPE;
+		weaponID = GetCharacterEquipByGroup(attack, GUN_ITEM_TYPE);
+	}
+	else
+	{
+		sType = MUSKET_ITEM_TYPE;
+		weaponID = GetCharacterEquipByGroup(attack, MUSKET_ITEM_TYPE);
+	}
+
+	//Заряд персонажа
+	if(!CheckAttribute(attack, "chr_ai." + sType + ".charge")) attack.chr_ai.(sType).charge = "0";
+	float charge = stf(attack.chr_ai.(sType).charge) - 1.0;
+    if(charge <= 0.0) charge = 0.0;
+
+	//Любой выстрел инициирует дозарядку, остальная логика в LAi_AllCharactersUpdate
+	attack.chr_ai.(sType).chargeprc = "1";
+	attack.chr_ai.(sType).charge = charge;
+
+    sBullet = LAi_GetCharacterBulletType(attack, sType);
+    sGunPowder = LAi_GetCharacterGunpowderType(attack, sType);
+	if (sGunPowder != "") sBullet += "," + sGunPowder;
+	ItemTakeEx(attack, sBullet, "-1");
+
+	//Если промахнулись, то ничего не делаем
+	if(isFindedEnemy == 0)
+	{
+		//здесь можно поднимать тревогу в случае близкого выстрела
+		return;
+	}
+
+	// ugeen -> мультиурон и прочее(27.07.10)
+	aref weapon;
+	Items_FindItem(weaponID, &weapon);
+	
+	if(CheckAttribute(attack, "chr_ai." + sType + ".misfire") && sti(attack.chr_ai.(sType).misfire) > 0 &&
+       rand(100) < sti(attack.chr_ai.(sType).misfire) && !HasSubStr(weapon.id, "mushket"))
+	{
+		LAi_Explosion(attack, rand(20));
+  		if(GetCharacterItem(attack, weaponID) <= 1) RemoveCharacterEquip(attack, weapon.groupID);
+        TakeItemFromCharacter(attack, weaponID);
+		Log_SetStringToLog(StringFromKey("InfoMessages_196", pchar, GetCharacterFullName(attack.id)));
+		return;
+	}
+	
+	if(CheckAttribute(attack, "chr_ai." + sType + ".explosion" ) && sti(attack.chr_ai.(sType).explosion) > 0)
+	{	
+		float x, y, z;
+		GetCharacterPos(enemy, &x, &y, &z);
+		CreateParticleSystemX("blood_shoot_teho", x, y, z, x, y, z, 0);
+		PlayStereoSound("Sea Battles\cannon_fire_03.wav");
+	}
+
+	if(CheckAttribute(attack, "chr_ai." + sType + ".AOEDamage") && sti(attack.chr_ai.(sType).AOEDamage) > 0)
+	{
+		int j, idx, num = FindNearCharacters(enemy, 2.5, -1.0, -1.0, 0.001, false, true);
+		for (j = 0; j < num; j++)
+		{
+			idx = -1;
+			if(CheckAttribute(&chrFindNearCharacters[j], "index")) idx = sti(chrFindNearCharacters[j].index);
+			if(idx == -1) continue;
+			ref findCh = GetCharacter(idx);
+			if(findCh.chr_ai.group != LAI_GROUP_PLAYER)
+			{
+				LAi_ApplyCharacterFireDamage(attack, &Characters[idx], kDist, fAimingTime, isHeadShot, 1);
+			}
+			
+			/*if(CheckAttribute(attack, "chr_ai." + sType + ".stun" ) && sti(attack.chr_ai.(sType).stun) > 0 && !LAi_IsFightMode(enemy) && !IsMainCharacter(enemy)) // > TODO
+			{
+				if(CheckAttribute(enemy, "cirassId"))
+				{
+					if(sti(attack.chr_ai.(sType).Stun_C) > 0)
+					{
+						LAi_Stunned_StunCharacter(enemy, 10, true);
+					}
+				}
+				else
+				{
+					if(sti(attack.chr_ai.(sType).Stun_NC) > 0)
+					{
+						LAi_Stunned_StunCharacter(enemy, 10, true);
+					}
+				}
+			}*/
+			
+			if( CheckAttribute(attack, "chr_ai." + sType + ".SelfDamage" ) && sti(attack.chr_ai.(sType).SelfDamage) > 0 && findCh.id == attack.id && rand(4) == 1)
+			{
+				LAi_ApplyCharacterDamage( &Characters[idx], 1 + rand(sti(attack.chr_ai.(sType).SelfDamage)), "fire" );
+				if(stf(attack.chr_ai.hp) < 1.0) attack.chr_ai.hp = 1 + makeint(rand(10));
+			}
+		}
+	}
+
+	/*if(CheckAttribute(attack, "chr_ai." + sType + ".stun" ) && sti(attack.chr_ai.(sType).stun) > 0 && !LAi_IsFightMode(enemy) && !IsMainCharacter(enemy)) // > TODO
+	{
+		if(CheckAttribute(enemy, "cirassId"))
+		{
+			if(sti(attack.chr_ai.(sType).Stun_C) > 0)
+			{
+				LAi_Stunned_StunCharacter(enemy, 10, true);
+			}
+		}
+		else
+		{
+			if(sti(attack.chr_ai.(sType).Stun_NC) > 0)
+			{
+				LAi_Stunned_StunCharacter(enemy, 10, true);
+			}
+		}
+	}*/
+	// <-- ugeen
+	
+	//Реакция груп на атаку
+	LAi_group_Attack(attack, enemy);
+	//Начисление повреждений
+	LAi_ApplyCharacterFireDamage(attack, enemy, kDist, fAimingTime, isHeadShot, 1);
+	//Исполнение типа
+	string func = attack.chr_ai.type;
+	if(func == "") return;
+	func = "LAi_type_" + func + "_Fire";
+	call func(attack, enemy, kDist, isFindedEnemy != 0);
+	//Обновим цель сразу
+	LAi_group_UpdateTargets(enemy);
+	func = enemy.chr_ai.type;
+	if(func == "") return;
+	func = "LAi_type_" + func + "_Attacked";
+	call func(enemy, attack);
+	func = "LAi_type_" + enemy.chr_ai.type + "_CharacterUpdate";
+	call func(enemy, 0.0001);
+}
+
+bool LAi_tmp_return_bool;
+bool LAi_CharacterIsFire()
+{
+	aref chr = GetEventData();
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return false;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_IsFire";
+	LAi_tmp_return_bool = call func(chr);
+	return LAi_tmp_return_bool;
+}
+
+bool LAi_CharacterIsFight()
+{
+	aref chr = GetEventData();
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return false;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_IsFight";
+	LAi_tmp_return_bool = call func(chr);
+	return LAi_tmp_return_bool;
+}
+
+// > Стрельба NPC в упор; разрешено мушкетёрам и обладателям атрибута PointBlank (на данный момент его пока ни у кого нет)
+#event_handler("NPC_Event_PointBlank", "LAi_CheckPointBlank");
+bool LAi_CheckPointBlank()
+{
+	aref arChar = GetEventData();
+	if (CharUseMusket(arChar) || CheckAttribute(arChar, "PointBlank"))
+		return true;
+	return false;
+}
+
+// AlexBlade - вызывается при смене fight mode
+void LAi_CharacterChangeFightMode()
+{
+	aref arChar = GetEventData();
+	bool isFightMode = GetEventData();
+	bool oldMode = GetEventData();
+	
+	// if (IsMainCharacter(arChar)) {
+		// Log_Info("FightMode is " + isFightMode);
+		// Log_Info("oldMode is " + oldMode);
+	// }
+
+	if (!oldMode && isFightMode)
+		arChar.FightParams.NoFirstBreakAttack = true;
+	if (oldMode && !isFightMode)
+		DeleteAttribute(&arChar, "FightParams.NoFirstBreakAttack");
+}
+//==========================================================================================
+//Escape events
+//==========================================================================================
+
+void LAi_CharacterEscapeSlide()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterEscapeSlide") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_EscapeSlide";
+	call func(chr);
+}
+
+//==========================================================================================
+//Collision events
+//==========================================================================================
+
+void LAi_CharacterColThreshold()
+{
+	//Параметры
+	string endTask = GetEventData();
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_CharacterColThreshold") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_ColThreshold";
+	call func(chr);
+}
+
+//==========================================================================================
+//Animation events
+//==========================================================================================
+
+void LAi_Character_EndAction()
+{
+	//Параметры
+	aref chr = GetEventData();
+	if(LAi_CheckCharacter(chr, "LAi_Character_EndAction") == false) return;
+	string func = chr.chr_ai.tmpl;
+	if(func == "") return;
+	//Исполнение
+	func = "LAi_tmpl_" + func + "_EndAction";
+	call func(chr);
+}
+
+
+//==========================================================================================
+//Dead event
+//==========================================================================================
+
+void LAi_Character_Dead_Process(aref chr)
+{
+	DialogExit();
+	LAi_CharacterLogoff(chr);
+	if(sti(chr.index) != nMainCharacterIndex)
+	{
+		//navy --> смерть ПГГ
+		if (CheckAttribute(chr, "PGGAi"))
+		{
+			PGG_CheckDead(chr);
+		}
+		//navy <--
+		//Подождём, а затем удалим персонажа
+		// boal трупы не убирать
+        if (MOD_DEAD_CLEAR == "On" && !CheckAttribute(chr, "DontClearDead"))
+        {
+            PostEvent("LAi_event_Character_Dead", MOD_DEAD_CLEAR_TIME * 1000, "i", chr);
+        }
+        // убираем совместителя в CharacterDeadProcess
+        
+		//Реинкарнируем
+		LAi_GenerateFantomFromMe(chr);
+		//Посмотрим группу
+		LAi_group_CheckGroupQuest(chr);
+	}
+	else
+	{
+		//Доигрались...
+		iShowTips = CONTROL_TIPS_NONE;
+		if(!LAi_IsBoardingProcess())
+		{
+			if (loadedLocation.type == "town")
+				PostEvent("LAi_event_GameOver", 5000, "s", "town");
+			else
+			{
+				if (loadedLocation.type == "underwater")
+					PostEvent("LAi_event_GameOver", 5000, "s", "sea");
+				else
+					PostEvent("LAi_event_GameOver", 5000, "s", "land");
+			}
+		}
+		else
+		{
+			PostEvent("LAi_event_GameOver", 5000, "s", "boarding");
+		}
+	}
+}
+
+#event_handler("LAi_event_Character_Dead", "LAi_Character_Dead_Event");
+void LAi_Character_Dead_Event()
+{
+	aref chr = GetEventData();
+	if (IsEntity(chr))  //fix
+	{
+		// boal dead can be searched 14.12.2003 -->
+		Dead_DelLoginedCharacter(chr); // трем
+		// boal dead can be searched 14.12.2003 <--
+		CharacterExitFromLocation(chr);
+	}
+}
+
+#event_handler("LAi_event_GameOver", "LAi_GameOver");
+void LAi_GameOver()
+{
+	string str = GetEventData();
+	GameOver(str);
+}
+
+//==========================================================================================
+//Internal events
+//==========================================================================================
+
+//------------------------------------------------------------------------------------------
+//Сообщение об окончании работы темплейта
+//------------------------------------------------------------------------------------------
+
+void LAi_Character_TemplateComplite(aref chr, string tmplName)
+{
+
+	int index = sti(chr.index);
+	PostEvent("LAi_event_Character_TemplateComplite", 1, "ls", index, tmplName);
+
+}
+
+#event_handler("LAi_event_Character_TemplateComplite", "LAi_Character_TemplateComplite_Event");
+void LAi_Character_TemplateComplite_Event()
+{
+	int index = GetEventData();
+	string tmpl = GetEventData();
+	ref chr = &Characters[index];
+	// boal fix -->
+	string func = "";
+	if ( CheckAttribute(chr, "chr_ai.type"))
+	{
+	    func = chr.chr_ai.type;
+	}
+	// boal fix <--
+	if(func != "")
+	{
+		func = "LAi_type_" + func + "_TemplateComplite";
+		call func(chr, tmpl);
+	}
+}
+
+//------------------------------------------------------------------------------------------
+//Запрос локатора
+//------------------------------------------------------------------------------------------
+
+void LAi_Character_FreeLocator(aref chr, string group, string locator)
+{
+	int index = sti(chr.index);
+	PostEvent("LAi_event_Character_FreePos", 1, "lss", index, group, locator);
+}
+
+#event_handler("LAi_event_Character_FreePos", "LAi_Character_FreePos_Event");
+void LAi_Character_FreePos_Event()
+{
+	int index = GetEventData();
+	string group = GetEventData();
+	string locator = GetEventData();
+	for(int i = 0; i < LAi_numloginedcharacters; i++)
+	{
+		int idx = LAi_loginedcharacters[i];
+		if(idx >= 0)
+		{
+			if(idx != index)
+			{
+				float dist;
+				if(GetCharacterDistByLoc(&Characters[idx], group, locator, &dist))
+				{
+					if(dist < 0.8)
+					{
+						string func = Characters[idx].chr_ai.tmpl;
+						if(func == "") return;
+						//Исполнение
+						func = "LAi_tmpl_" + func + "_FreePos";
+						call func(&Characters[idx], &Characters[index]);
+					}
+				}
+			}
+		}
+	}
+}
+
+
+//------------------------------------------------------------------------------------------
+//Запрос на диалог
+//------------------------------------------------------------------------------------------
+
+void LAi_Character_NeedDialog(aref chr, aref by)
+{
+	if(IsEntity(by))
+	{
+		string func = chr.chr_ai.type;
+		if(func != "")
+		{
+			func = "LAi_type_" + func + "_NeedDialog";
+			call func(by, chr);
+		}
+	}
+}
+
+//Запрос на диалог, если возвратить true то в этот момент можно начать диалог
+bool LAi_Character_CanDialog(aref chr, aref by)
+{
+	if(IsEntity(by))
+	{
+		bool isDisable = false;
+		if(CheckAttribute(chr, "chr_ai.disableDlg"))
+		{
+			if(sti(chr.chr_ai.disableDlg) != 0) isDisable = true;
+		}
+		if(isDisable == false)
+		{
+			string func = by.chr_ai.type;
+			if(func != "")
+			{
+				func = "LAi_type_" + func + "_CanDialog";
+				return call func(by, chr);
+			}
+		}
+	}
+	return false;
+}
+
+//Начать диалог
+void LAi_Character_StartDialog(aref chr, aref by)
+{
+	if(IsEntity(by))
+	{
+		string func = by.chr_ai.type;
+		if(func != "")
+		{
+			func = "LAi_type_" + func + "_StartDialog";
+			call func(by, chr);
+		}
+	}
+}
+
+//Закончить диалог
+void LAi_Character_EndDialog(aref chr, aref by)
+{
+	if(IsEntity(by))
+	{
+		string func = by.chr_ai.type;
+		if(func != "")
+		{
+			func = "LAi_type_" + func + "_EndDialog";
+			call func(by, chr);
+		}
+	}
+}
+// Привязать к/отвязать от модели персонажа какую нить модель (предмет)
+void LAi_CharacterItemAction()
+{
+	aref chr = GetEventData();
+	string sActionName = GetEventData();
+	int nItemIndex = GetEventData();
+
+	switch(sActionName)
+	{
+	case "reset": LAi_UntieItemFromCharacter(chr,nItemIndex); break;
+	case "set": LAi_TieItemToCharacter(chr,nItemIndex); break;
+	}
+}
+void LAi_UntieItemFromCharacter(aref chr, int nItemIndex)
+{
+	if( nItemIndex<0 ) return;
+	SendMessage(chr, "lsl", MSG_CHARACTER_EX_MSG, "UntieItem", nItemIndex);
+}
+void LAi_TieItemToCharacter(aref chr, int nItemIndex)
+{
+	if( nItemIndex<0 ) return;
+
+	string sModel = "HandsItems\cup";
+	string sLocator = "Saber_hand";
+
+	string sitm = "TiedItems.itm"+nItemIndex;
+	if( CheckAttribute(chr,sitm) )
+	{
+		if( CheckAttribute(chr,sitm+".model") ) {
+			sModel = chr.(sitm).model;
+		}
+		if( CheckAttribute(chr,sitm+".locator") ) {
+			sLocator = chr.(sitm).locator;
+		}
+	}
+
+	SendMessage(chr, "lslss", MSG_CHARACTER_EX_MSG, "TieItem", nItemIndex, sModel, sLocator);
+}
+
+#event_handler("Location_CharacterFireShards","Location_CharacterFireShards");
+void Location_CharacterFireShards()
+{
+	aref attack = GetEventData();
+	aref enemy = GetEventData();
+	float fAimingTime = GetEventData();
+	int nShots = GetEventData();
+	int nHeadShots = GetEventData();
+
+/*	string sType;
+	if(!CharUseMusket(attack)) sType = GUN_ITEM_TYPE;
+	else sType = MUSKET_ITEM_TYPE;
+	
+	if(CheckAttribute(attack, "chr_ai." + sType + ".stun" ) && sti(attack.chr_ai.(sType).stun) > 0 && !LAi_IsFightMode(enemy) && !IsMainCharacter(enemy))
+	{
+		if(CheckAttribute(enemy, "cirassId"))
+		{
+			if(sti(attack.chr_ai.(sType).Stun_C) > 0) 
+				LAi_Stunned_StunCharacter(enemy, 10, true);
+		}
+		else
+		{		
+			if(sti(attack.chr_ai.(sType).Stun_NC) > 0) 
+				LAi_Stunned_StunCharacter(enemy, 10, true);
+		}		
+	}*/
+
+	LAi_group_Attack(attack, enemy);
+	
+	if(nHeadShots > 0)
+		LAi_ApplyCharacterFireDamage(attack, enemy, 1.0, fAimingTime, true, nHeadShots);
+	LAi_CheckKillCharacter(enemy);
+	
+	if(nShots > 0)
+		LAi_ApplyCharacterFireDamage(attack, enemy, 1.0, fAimingTime, false, nShots);
+	
+	string func = attack.chr_ai.type;
+	if(func == "")
+		return;
+	func = "LAi_type_" + func + "_Fire";
+	call func(attack, enemy, 1.0, true);
+	LAi_group_UpdateTargets(enemy);
+	func = enemy.chr_ai.type;
+	if(func == "")
+		return;
+	func = "LAi_type_" + func + "_Attacked";
+	call func(enemy, attack);
+	func = "LAi_type_" + enemy.chr_ai.type + "_CharacterUpdate";
+	call func(enemy, 0.0001);
+}
+
+#event_handler("Location_CharacterFireShardEnd","Location_CharacterFireShardEnd");
+void Location_CharacterFireShardEnd()
+{
+    string sBullet, sGunPowder, sType, weaponID;
+	aref attack = GetEventData();
+
+    // Чем стреляли?
+	if(!CharUseMusket(attack))
+	{
+		sType = GUN_ITEM_TYPE;
+		weaponID = GetCharacterEquipByGroup(attack, GUN_ITEM_TYPE);
+	}
+	else
+	{
+		sType = MUSKET_ITEM_TYPE;
+		weaponID = GetCharacterEquipByGroup(attack, MUSKET_ITEM_TYPE);
+	}
+
+	//Заряд персонажа
+	if(!CheckAttribute(attack, "chr_ai." + sType + ".charge")) attack.chr_ai.(sType).charge = "0";
+	float charge = stf(attack.chr_ai.(sType).charge) - 1.0;
+	if(charge <= 0.0) charge = 0.0;
+
+	sBullet = LAi_GetCharacterBulletType(attack, sType);
+	sGunPowder = LAi_GetCharacterGunpowderType(attack, sType);
+	if (sGunPowder != "") sBullet += "," + sGunPowder;
+	ItemTakeEx(attack, sBullet, "-1");
+
+	//Любой выстрел инициирует дозарядку, остальная логика в LAi_AllCharactersUpdate
+	attack.chr_ai.(sType).chargeprc = "1";
+	attack.chr_ai.(sType).charge = charge;
+	
+	// ugeen -> мультиурон и прочее(27.07.10)
+	aref weapon;
+	Items_FindItem(weaponID, &weapon);
+	
+	if(CheckAttribute(attack, "chr_ai." + sType + ".misfire") && sti(attack.chr_ai.(sType).misfire) > 0 &&
+       rand(100) < sti(attack.chr_ai.(sType).misfire) && !HasSubStr(weapon.id, "mushket"))
+	{
+		LAi_Explosion(attack, rand(20));
+  		if(GetCharacterItem(attack, weaponID) <= 1) RemoveCharacterEquip(attack, weapon.groupID);
+        TakeItemFromCharacter(attack, weaponID);
+		Log_SetStringToLog(StringFromKey("InfoMessages_196", pchar, GetCharacterFullName(attack.id)));
+	}
+}

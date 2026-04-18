@@ -1,0 +1,135 @@
+type_full_0
+{
+Este é #sMapIslName#. O local do tesouro escondido está marcado aqui – é #sMaplocName#. Um famoso pirata escondeu seu tesouro lá.
+As manchas marrons de sangue indicam que o mapa é autêntico – e também mostram que ele já trocou de dono muitas vezes.
+}
+type_full_0_isl {ilha}
+type_full_0_mein {continente}
+type_full_1
+{
+No mapa de #sMapIslName#. Os tesouros estão localizados #sMaplocName#. Mas só conferindo pessoalmente para saber se ainda estão lá.
+O mapa é bastante antigo e não há dúvidas sobre sua autenticidade.
+}
+type_full_1_isl {ilha}
+type_full_1_mein {continente}
+type_full_2 {Este mapa é novo — o papel ainda nem amareleceu. Se a legenda estiver certa, o tesouro está escondido em #sMaplocName# em #sMapIslName#. Será que está mesmo lá? Vale a pena conferir!}
+type_full_2_isl {ilha}
+type_full_2_mein {continente}
+type_quest_0
+{
+Este é #sMapIslName#. O local do tesouro escondido está marcado aqui – é #sMaplocName#. #sMapOwner# escondeu seu tesouro lá.
+As manchas marrons de sangue indicam que o mapa é autêntico – isso também mostra que ele já trocou de dono várias vezes.
+}
+type_quest_0_isl {ilha}
+type_quest_0_mein {continente}
+type_part
+{
+Esta é uma das partes do mapa que, ao que tudo indica, leva ao tesouro. Não há informações suficientes, e não é possível descobrir a localização do tesouro só com este pedaço. Só resta torcer para que, em algum momento, você consiga a segunda parte do mapa, que deve estar por aí em algum lugar.
+Aí sim, tudo ficará claro!
+}
+type_fake
+{
+Este mapa indica a localização do tesouro. Claro, você pode conferir se ele está lá ou não, mas com certeza isso aqui é só uma falsificação.
+É melhor se livrar desse pedaço de papel.
+}
+Antigua_Grot {na caverna à direita de Willoughby Bay}
+Antigua_Grot_box1 {um baú sobre uma grande pedra}
+SentJons_TownCave {na masmorra de Saint John's}
+SentJons_TownCave_box1 {sob as tábuas em um beco sem saída}
+SentJons_TownCave_box2 {em um beco sem saída da mina}
+SentJons_TownCave_box3 {no bloqueio}
+Barbados_Cave {em uma caverna perto de Bridgetown}
+Barbados_Cave_box1 {sob as tábuas em um beco sem saída}
+Beliz_Cave {em uma caverna à direita da saída de Belize}
+Beliz_Cave_box1 {um baú perto da ponte de pedra}
+Beliz_Cave_box2 {um baú sobre uma grande pedra}
+Beliz_Cave_box3 {um baú perto da corda pendurada no teto}
+Beliz_Cave_2 {em uma caverna em frente à saída de Belize}
+Beliz_Cave_2_box1 {sob as tábuas em um beco sem saída}
+Bermudes_Dungeon {em uma masmorra sob o estaleiro de Scullshores}
+Bermudes_Dungeon_box1 {um baú atrás de uma porta trancada}
+Bermudes_Dungeon_box2 {um baú atrás de uma porta aberta}
+Bermudes_Dungeon_box3 {um baú em um beco sem saída}
+Bermudes_Dungeon_box4 {um baú atrás dos barris}
+Caracas_Grot {em uma caverna à direita da saída de Caracas}
+Caracas_Grot_box1 {um baú sobre uma grande pedra}
+Cartahena_Cave {em uma caverna em frente à saída de Cartagena}
+Cartahena_Cave_box1 {um baú sob a tocha}
+Cartahena_Cave_box2 {um baú em um beco sem saída}
+Cartahena_Cave_box3 {um baú perto da tocha}
+Caiman_Grot {em uma caverna à direita da Desert Coast}
+Caiman_Grot_box1 {um baú sobre uma grande pedra}
+Charles_Grot {em uma caverna à direita da White Bay}
+Charles_Grot_box1 {um baú na praia}
+Cuba_Grot {em uma caverna à direita do Cabo Camaguey}
+Cuba_Grot_box1 {um baú na praia}
+Cumana_Cave {em uma caverna à direita da Carupano Cove}
+Cumana_Cave_box1 {um baú perto da ponte de pedra}
+Cumana_Cave_box2 {um baú sobre uma grande pedra}
+Cumana_Cave_box3 {um baú perto da corda pendurada no teto}
+Curacao_Cave {em uma caverna à direita da Lagoa Blanca}
+Curacao_Cave_box1 {um baú sob a tocha}
+Curacao_Cave_box2 {um baú em um beco sem saída}
+Curacao_Cave_box3 {um baú perto da tocha}
+Dominica_Grot {em uma caverna à direita da praia de Castle Bruce}
+Dominica_Grot_box1 {um baú na praia}
+Guadeloupe_Cave {em uma caverna à esquerda do farol de Guadeloupe}
+Guadeloupe_Cave_box1 {um baú em uma nicho atrás da tocha}
+Guadeloupe_Cave_box2 {um baú em uma alcova atrás da coluna}
+Guadeloupe_Cave_box3 {um baú atrás das pedras perto da parede}
+Hispaniola_Cave {em uma caverna perto da cidade de Port-au-Prince}
+Hispaniola_Cave_box1 {um baú perto da ponte de pedra}
+Hispaniola_Cave_box2 {um baú sobre uma grande pedra}
+Hispaniola_Cave_box3 {um baú perto da corda pendurada no teto}
+Jamaica_Grot {em uma caverna à direita do farol de Port Royal}
+Jamaica_Grot_box1 {um baú sobre uma grande pedra}
+Orange_mines {no depósito subterrâneo de Fort Orange}
+Orange_mines_box1 {barril pequeno embaixo dos grandes}
+Maracaibo_Cave {em uma caverna em frente à saída de Maracaibo}
+Maracaibo_Cave_box1 {um baú sob a tocha}
+Maracaibo_Cave_box2 {um baú em um beco sem saída}
+Maracaibo_Cave_box3 {um baú perto da tocha}
+Marigo_Cave {em uma caverna em frente à saída de Marigot}
+Marigo_Cave_box1 {um baú sob a tocha}
+Marigo_Cave_box2 {um baú em um beco sem saída}
+Marigo_Cave_box3 {um baú perto da tocha}
+Panama_Cave {em uma caverna à esquerda da saída de Portobelo}
+Panama_Cave_box1 {sob as tábuas em um beco sem saída}
+Pearl_Grot {em uma caverna na costa oeste entre Belize e Santa Catalina}
+Pearl_Grot_box1 {um baú sobre uma grande pedra}
+PortoBello_Cave {em uma caverna à direita da Baía dos Mosquitos}
+PortoBello_Cave_box1 {sob as tábuas em um beco sem saída}
+SanJuan_Cave {em uma caverna perto de San Juan}
+SanJuan_Cave_box1 {um baú perto da ponte de pedra}
+SanJuan_Cave_box2 {um baú sobre uma grande pedra}
+SanJuan_Cave_box3 {um baú perto da corda pendurada no teto}
+SantaCatalina_Cave {em uma caverna à direita de Cape Perlas}
+SantaCatalina_Cave_box1 {um baú sob a tocha}
+SantaCatalina_Cave_box2 {um baú em um beco sem saída}
+SantaCatalina_Cave_box3 {um baú perto da tocha}
+SantaCatalina_Grot {em uma caverna à direita da Baía de San Juan del Norte}
+SantaCatalina_Grot_box1 {um baú na praia}
+SantaCatalina_PearlCave {em uma caverna à esquerda da Baía de San Juan del Norte}
+SantaCatalina_PearlCave_box1 {um baú perto da ponte de pedra}
+SantaCatalina_PearlCave_box2 {um baú sobre uma grande pedra}
+SantaCatalina_PearlCave_box3 {um baú perto da corda pendurada no teto}
+Tenotchitlan_Cave {em uma caverna ao norte do templo asteca}
+Tenotchitlan_Cave_box1 {baú perto da ponte de pedra}
+Tenotchitlan_Cave_box2 {um baú sobre uma grande pedra}
+Tenotchitlan_Cave_box3 {um baú perto da corda pendurada no teto}
+Terks_Grot {em uma caverna à direita da Baía do Norte}
+Terks_Grot_box1 {um baú sobre uma grande pedra}
+Tortuga_Grot {em uma caverna em frente à Fisheye Beach}
+Tortuga_Grot_box1 {um baú na praia}
+Tortuga_Cave {em uma masmorra de Tortuga}
+Tortuga_Cave_box1 {um baú atrás de uma porta trancada}
+Trinidad_Grot {em uma caverna em frente ao farol de Trinidad e Tobago}
+Trinidad_Grot_box1 {um baú na praia}
+FortFrance_Dungeon {em uma masmorra de Fort-de-France}
+FortFrance_Dungeon_box1 {um baú na elevação}
+FortFrance_Dungeon_box2 {um baú atrás de uma porta aberta no andar superior}
+FortFrance_Dungeon_box3 {um baú perto do elevador}
+FortFrance_Dungeon_box4 {um baú atrás de uma porta aberta no nível inferior}
+FortFrance_Dungeon_box5 {debaixo das caixas de madeira}
+Providence_Cavern {na caverna que liga Morgan's Head à ilha Old Providence}
+Providence_Cavern_box1 {um baú atrás de estalagmites em um beco sem saída}

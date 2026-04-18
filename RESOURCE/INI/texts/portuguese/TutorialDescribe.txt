@@ -1,0 +1,560 @@
+
+CameraControl_title {Ahoy!}
+CameraControl_descr
+{
+Bem-vindo ao Caribe, Capitão!
+~
+Você controla o jogo com as teclas de movimento e o mouse. Seu personagem pode andar e correr em qualquer direção, além de usar o sprint para ganhar velocidade extra.
+O menu de ações também é muito útil—explore para encontrar várias funções práticas.
+~
+Você pode olhar ao redor livremente com o mouse—encontre itens escondidos, acompanhe o combate ou apenas aprecie a paisagem.
+}
+CameraControl_controlsimg1 {ChrForward}
+CameraControl_controlsimg2 {ChrStrafeLeft}
+CameraControl_controlsimg3 {ChrBackward}
+CameraControl_controlsimg4 {ChrStrafeRight}
+CameraControl_controlsimg5 {ChrRun}
+CameraControl_controlsimg6 {LICommandsActivate}
+Rest_title {Hora do Dia}
+Rest_descr
+{
+Tudo no jogo segue o tempo: à noite, os guardas deixam os cais e os portões da cidade, você só pode contratar tripulação nas tavernas durante o dia, e alguns personagens são exigentes quanto ao horário, especialmente se você estiver trabalhando para eles.
+~
+Para mudar o período do dia, use "Descansar". Use esse recurso à vontade no mar e na natureza, mas nas cidades, é melhor dormir na taverna.
+}
+Rest_controlsimg1 {LICommandsActivate}
+GuideFight_title {Combate Terrestre}
+GuideFight_descr
+{
+Leva tempo para dominar o combate neste jogo. Se as dicas estiverem ativadas, você verá as teclas de atalho no canto inferior direito.
+O modo de combate é ativado pressionando a tecla 'E' (padrão).
+~
+Comece aprendendo o combo 'Bloquear - Golpear'. Após bloquear com sucesso o ataque de um inimigo, tente contra-atacar.
+Se perceber que o inimigo atacou antes de você, bloqueie para interromper seu próprio ataque.
+~
+O dano depende das habilidades do seu personagem, da qualidade da arma e dos tipos de ataque.
+}
+GuideFight_controlsimg1 {ChrAttackChoseBase}
+GuideFight_controlsimg2 {ChrAltAttackBase}
+LandTimeScaleDown_title {Retardo do Tempo}
+LandTimeScaleDown_descr
+{
+Em combates difíceis, desacelerar o tempo pode ajudar bastante. Não há vergonha nisso—Caribbean Legend é um jogo desafiador.
+~
+Controles: + e -
+}
+LandTimeScaleDown_controlsimg1 {TimeScaleFasterBA}
+LandTimeScaleDown_controlsimg2 {TimeScaleSlowerBA}
+Collision_title {Mudando de posição}
+Collision_descr
+{
+Às vezes, durante a batalha, é preciso mudar de posição—romper as linhas inimigas ou contornar aliados.
+~
+Seu herói passa automaticamente pelos aliados, mas precisa correr ou desviar para atravessar inimigos.
+Correr em combate consome energia, então use com sabedoria.
+}
+Collision_controlsimg1 {ChrFightMode}
+Collision_controlsimg2 {ChrSprint}
+Stashes_title {Esconderijos}
+Stashes_video {BloodPrologue_Stashes}
+Stashes_descr
+{
+Muitos moradores da cidade guardam seus objetos de valor não em baús à vista de todos, mas em esconderijos secretos.
+~
+Fique perto das paredes e preste atenção; com um pouco de sorte, você pode encontrar itens muito valiosos.
+}
+Stealth_title {Furtividade}
+Stealth_descr
+{
+Você vai ter que se acostumar a não ser bem-vindo em alguns assentamentos do Caribe.
+~
+Existem duas maneiras de entrar furtivamente em uma cidade hostil: pelo porto ou pelos portões.
+~
+Atracar com segurança em um porto inimigo exige preparação séria. Você precisará hastear uma bandeira de país neutro e ter uma habilidade de Furtividade alta o suficiente.
+~
+Entrar pelos portões é melhor feito à noite, quando não há guardas. Evite os soldados e descanse em uma taverna. Se soar um alarme, encontre uma casa e espere algumas horas. A vantagem é que você não precisa gastar um ponto de vantagem valioso para desbloquear bandeiras.
+~
+Você pode evitar todos esses problemas comprando uma licença de comércio em assentamentos piratas e gastando um ponto de vantagem marítima em uma bandeira neutra.
+}
+Mushket_title {Mosquetes}
+Mushket_descr
+{
+Armas de fogo de cano longo são letais em combate. Apenas o personagem principal com a vantagem "Treinamento de Mosqueteiro" e alguns oficiais únicos podem usá-las.
+~
+Diferente das armas brancas, todas as armas de fogo são muito versáteis—use diferentes tipos de munição para mudar o rumo de qualquer batalha.
+}
+Health_title {Queda de Vitalidade}
+Health_descr
+{
+Sua "Vitalidade" diminuiu! Este atributo mostra a condição geral do seu personagem e afeta todos os atributos.
+~
+A "Vitalidade" diminui ao usar curas básicas, em eventos da história, ao beber ou por sobrecarga.
+~
+Recupere-a com poções especiais, romance, descansando na taverna ou simplesmente com o tempo. Em casos difíceis, sacerdotes podem ajudar.
+~
+Oficiais únicos também perdem "Vitalidade" se forem gravemente feridos em batalha. Felizmente, eles a recuperam sozinhos.
+}
+Fighters_title {Abordadores}
+Fighters_descr
+{
+Os Fighters são seus oficiais mais confiáveis, guarda-costas e linha de frente. Eles vão te acompanhar nos momentos mais perigosos, e você passará muito tempo com eles.
+~
+Você pode ter até três Fighters com você. Além de protegerem o capitão em terra, os Fighters aumentam a eficiência no boarding e ajudam a carregar tesouros pesados.
+~
+Alguns oficiais únicos só podem ser encontrados em quests. Nem todos são grandes lutadores, mas todos impactam a história e não podem morrer em combate normal.
+~
+Não se esqueça de equipar sua equipe com itens de cura, armas e munição. Você pode trocar itens pelo menu de ações ou em qualquer baú.
+~
+Você pode ordenar que os Fighters mantenham posição, sigam ou ataquem usando atalhos ou pelo diálogo.
+}
+Fighters_controlsimg1 {Interface}
+Fighters_controlsimg2 {OfficersFollow}
+Fighters_controlsimg3 {OfficersCharge}
+Fighters_controlsimg4 {OfficersHold}
+Box_title {Armazenamento de Itens}
+Box_descr
+{
+Você pode guardar itens pessoais ilimitados nos baús da cabine do capitão.
+~
+Venda os excedentes, mas sempre mantenha um estoque de gemas, armas, munição e ingredientes de alquimia na sua cabine.
+~
+Além do seu equipamento principal, é sensato levar apenas um conjunto de poções e balas para suas armas de fogo.
+~
+Outros capitães fazem o mesmo, então sempre saqueie os baús na cabine de qualquer navio capturado.
+}
+Encyclopedia_title {Enciclopédia}
+Encyclopedia_descr
+{
+Você encontrou uma das páginas da Enciclopédia!
+~
+A Enciclopédia é dividida em 12 volumes, cada um com 5 páginas. Cada volume é dedicado a uma habilidade, e encontrar qualquer página melhora a habilidade correspondente em um ponto.
+~
+Cada página encontrada concede bônus para uma das vantagens. Para mais informações, consulte a própria Enciclopédia.
+~
+Páginas duplicadas podem ser trocadas com diplomatas em assentamentos piratas.
+}
+Encyclopedia_controlsimg1 {ItemsMenu}
+Cure_title {Cura}
+Cure_descr
+{
+Você perdeu muita saúde. Use uma poção de cura pressionando 'C' (padrão).
+~
+A saúde será regenerada gradualmente. Acompanhe o uso das poções no canto inferior esquerdo da tela.
+}
+Cure_controlsimg1 {BOAL_UsePotion}
+ShipControl_title {Controle do Navio}
+ShipControl_descr
+{
+Bem-vindo ao Mar do Caribe!
+~
+Vire seu navio com as teclas de direção. Controle as velas e a velocidade com as teclas de modo de vela.
+~
+Existem três modos de vela: total, combate e recolhidas. Velas totais são mais rápidas, velas de combate facilitam as manobras, e velas recolhidas fazem o navio parar suavemente.
+~
+Uma grande seta no mini-mapa mostra a direção do vento em que seu navio navegará na velocidade máxima.
+}
+ShipControl_controlsimg1 {Ship_SailUp}
+ShipControl_controlsimg2 {Ship_TurnLeft}
+ShipControl_controlsimg3 {Ship_SailDown}
+ShipControl_controlsimg4 {Ship_TurnRight}
+SeaBattle_title {Batalha Naval}
+SeaBattle_descr
+{
+Bem-vindo à batalha naval, Capitão!
+Seu objetivo principal: sobreviver e afundar os navios inimigos.
+~
+Cada navio possui três atributos principais: casco, velas e tripulação. Se o casco chegar a zero, o navio afunda. Velas danificadas reduzem sua velocidade, e perder tripulação facilita o abordo e desacelera todas as ações do navio.
+~
+Cada atributo tem sua munição ideal: balins para a tripulação, correntes para as velas e mastros, bombas para o casco. Balas de canhão são versáteis e têm o maior alcance. O dano depende tanto do tipo de munição quanto do canhão que a dispara—quanto maior o canhão, maior o dano.
+~
+Para atirar em um inimigo, use o botão esquerdo do mouse quando um navio inimigo estiver no seu arco de tiro.
+~
+Se a batalha parecer lenta demais, você pode acelerá-la usando as teclas de controle de tempo ('+' e '-').
+}
+SeaBattle_controlsimg1 {hk_charge1}
+SeaBattle_controlsimg2 {hk_charge2}
+SeaBattle_controlsimg3 {hk_charge3}
+SeaBattle_controlsimg4 {hk_charge4}
+SeaBattle_controlsimg5 {Ship_Fire}
+BoardingTactics_title {Abordagem}
+BoardingTactics_descr
+{
+Antes de abordar, dispare algumas rajadas de canhão com bala de canhão para enfraquecer a tripulação inimiga—sem receber fogo de volta. Quando tiver a vantagem, aproxime-se o máximo possível, iguale a velocidade e embarque!
+~
+Quanto maior sua habilidade marítima de "Abordagem", mais fácil será agarrar navios inimigos.
+~
+O sucesso da abordagem depende do número, das habilidades e da moral da sua tripulação. Ter um contramestre experiente, abordadores e boas habilidades de combate pode compensar a superioridade numérica inimiga.
+}
+BoardingTactics_Advanced_title {Abordagem de navios grandes}
+BoardingTactics_Advanced_descr
+{
+Para causar dano à tripulação de um grande navio inimigo, disparos de bala de canhão podem não ser suficientes.
+~
+Esse tipo de navio precisa sofrer danos significativos ao casco primeiro. Só então a bala de canhão será eficaz.
+~
+Assim, um navio de classe 3 receberá dano total à tripulação se restarem 55% do seu casco.
+~
+Para mais informações, consulte o Diário de Bordo. Seção Documentos. Referência: Batalhas navais.
+}
+BoardingTactics_Advanced_controlsimg1 {LogbookMenu}
+SeaFastTravel_title {Viagem Rápida}
+SeaFastTravel_video {BloodPrologue_FastTravel}
+SeaFastTravel_descr
+{
+O menu de ações oferece acesso a muitos recursos úteis, tanto em terra quanto no mar.
+~
+A função "Navegar até" permite que você se mova instantaneamente para perto de um navio aliado ou ponto de referência. O alcance depende do seu atributo de Percepção.
+~
+O recurso "Mapa" permite viajar entre as ilhas.
+~
+Não deixe de visitar sua cabine — lá você pode guardar objetos de valor. No porão, é possível conversar com os prisioneiros, caso haja algum em seu navio.
+}
+SeaFastTravel_controlsimg1 {BICommandsActivate}
+SeaFastTravel_Advanced_title {Abaixem os botes!}
+SeaFastTravel_Advanced_descr
+{
+Você pode usar o menu de ações para ir ao convés de outro navio, por exemplo, para conversar com o capitão.
+~
+Quando estiver perto o suficiente do navio, use o comando "Lançar um bote".
+}
+SeaFastTravel_Advanced_controlsimg1 {BICommandsActivate}
+SeaStorm_title {Tempestade}
+SeaStorm_descr
+{
+Você foi pego por uma tempestade!
+~
+Estar em uma tempestade causa danos às suas velas e casco. Abaixe as velas para mantê-las intactas.
+~
+Além disso, fique longe de tornados. Colidir com um tornado causará sérios danos ao seu navio.
+}
+SeaStorm_controlsimg1 {Ship_SailDown}
+Perk_title {Pontos de Perk}
+Perk_descr
+{
+Você acabou de ganhar seu primeiro Ponto de Perk (PP)! Eles são a parte mais importante da progressão do personagem e se dividem em perks marítimos e pessoais.
+~
+Perks marítimos aumentam sua força no mar, enquanto perks pessoais ajudam em terra e nas conversas.
+~
+Os dois tipos de PP evoluem separadamente conforme suas habilidades pessoais e de navio crescem. Em média, a cada 30 pontos em um grupo de habilidades, você ganha um PP.
+~
+Para ganhar PP marítimos rapidamente, faça contratos e fretamentos de navio. Os PP pessoais crescem mais rápido se você lutar com diferentes armas e passar tempo em tavernas.
+~
+Os PP pessoais são muito mais valiosos, já que a maioria dos perks marítimos pode ser coberta por oficiais.
+}
+Perk_controlsimg1 {Interface}
+Salary_title {Manutenção do navio}
+Salary_descr
+{
+Você paga seus oficiais e tripulação todo mês, o que pode ser um verdadeiro desafio para um capitão.
+~
+O valor total depende das suas habilidades de Comércio e Liderança, do Rate do navio e do nível de dificuldade. Mesmo navios pequenos devem ter um Tesoureiro a bordo, e um grande navio de guerra pode falir um país.
+~
+Se a divisão de saque estiver ativada, os pagamentos podem ser ainda maiores.
+~
+Se você estiver em atraso com os pagamentos, pode quitar a dívida no menu "Navios" usando o botão "Dívida".
+}
+Salary_controlsimg1 {CharacterShipMenu}
+Navigation_title {Navegação}
+Navigation_descr
+{
+Você recebeu penalidades devido à habilidade de Navegação insuficiente!
+~
+Navegação determina principalmente o tamanho dos navios que um personagem pode comandar.
+~
+Por exemplo, navios de Classe 5 exigem 25 pontos, Classe 4 precisa de 40. Ultrapassar esses limites aplica penalidades a todos os atributos do personagem.
+~
+Você pode ver os requisitos de cada Classe clicando com o botão direito no ícone da habilidade na janela do personagem.
+~
+Atribua um oficial com habilidade suficiente em Navegação à posição de Navegador para eliminar as penalidades.
+}
+WorldMap_title {Mapa-múndi}
+WorldMap_video {BloodPrologue_WorldMap}
+WorldMap_descr
+{
+O mapa-múndi permite viajar por mar pelo mundo do jogo. Não é preciso navegar até cada cidade ou baía—basta sair do mapa-múndi perto do destino e usar "Navegar até".
+~
+Usar "Navegar até" de forma inteligente pode economizar muito tempo real. Por exemplo, você pode sair do mapa-múndi de um lado da ilha, viajar rapidamente até uma baía do outro lado e então retornar ao mapa-múndi a partir dali.
+~
+Use atalhos para dar zoom no mapa e abrir o atlas.
+}
+WorldMap_controlsimg1 {WMapCameraSwitch}
+WorldMap_controlsimg2 {WMapForward}
+WorldMap_controlsimg3 {MapView}
+Logbook_title {Diário de Bordo e Documentos}
+Logbook_descr
+{
+Cada missão que você aceita é registrada no "Diário de Bordo". É fundamental ler com atenção os diálogos e as anotações do diário — muitas vezes há detalhes e instruções importantes.
+~
+Para abrir o diário, selecione a aba "Diário de Bordo" no menu do personagem.
+~
+Não deixe de conferir as anotações no "Diário de Bordo".
+}
+Logbook_controlsimg1 {LogbookMenu}
+Alchemy_title {Alquimia}
+Alchemy_descr
+{
+Para criar um item, você precisa encontrar ou comprar uma receita. Use as setas abaixo para definir a quantidade desejada de itens e clique no botão "Criar".
+~
+Você não precisa carregar os ingredientes com você—basta guardá-los em um baú na sua cabine. Enquanto estiver na cabine, você terá acesso a todos os componentes e ferramentas guardados nos baús.
+~
+A lista de componentes disponíveis não considera itens equipados.
+}
+Alchemy_controlsimg1 {AlchemyKey}
+BloodPrologue_CameraControl_title {Ahoy!}
+BloodPrologue_CameraControl_descr
+{
+Bem-vindo à propriedade de Oglethorpe, Dr. Blood! Uma breve aventura inicial espera por você aqui.
+~
+Em terra, você controla o jogo com as teclas de movimento e o mouse. Seu personagem pode andar e correr em qualquer direção, além de usar o sprint para ganhar velocidade extra.
+}
+BloodPrologue_CameraControl_controlsimg1 {ChrForward}
+BloodPrologue_CameraControl_controlsimg2 {ChrStrafeLeft}
+BloodPrologue_CameraControl_controlsimg3 {ChrBackward}
+BloodPrologue_CameraControl_controlsimg4 {ChrStrafeRight}
+BloodPrologue_CameraControl_controlsimg5 {ChrForward1}
+BloodPrologue_CameraControl_controlsimg6 {ChrRun}
+BloodPrologue_LocItems_title {Coletar itens}
+BloodPrologue_LocItems_descr
+{
+Às vezes você encontrará itens necessários para avançar na missão. Mas, na maioria das vezes, esses itens são poções, armas ou outros objetos menos úteis.
+~
+Use a tecla de "Ação Rápida" para pegar o item.
+~
+Pegue a chave na mesa e vá para a varanda do segundo andar. Depressa!
+}
+BloodPrologue_LocItems_controlsimg1 {BIFastCommand}
+BloodPrologue_Equipment_title {Equipamento}
+BloodPrologue_Equipment_descr
+{
+O menu "Itens" permite gerenciar o equipamento do seu personagem.
+~
+Use a tecla 'I' para ir ao menu "Itens".
+~
+Selecione uma arma e equipe-a usando o botão "Equipar".
+}
+BloodPrologue_Equipment_controlsimg1 {ItemsMenu}
+BloodPrologue_GuideFight_title {Combate Terrestre}
+BloodPrologue_GuideFight_descr
+{
+Leva tempo para dominar o combate neste jogo. Se as dicas estiverem ativadas, você verá as teclas de atalho no canto inferior direito.
+O modo de combate é ativado pressionando a tecla 'E' (padrão).
+~
+Comece aprendendo o combo 'Bloquear - Golpear'. Após bloquear com sucesso o ataque de um inimigo, tente contra-atacar.
+Se perceber que o inimigo vai atacar antes de você, bloqueie para interromper seu próprio ataque.
+~
+O dano depende das habilidades do seu personagem, da qualidade da arma e dos tipos de ataque.
+}
+BloodPrologue_GuideFight_controlsimg1 {ChrBlock}
+BloodPrologue_GuideFight_controlsimg2 {ChrAltAttackBase}
+BloodPrologue_Parry_title {Aparar. Ataque pesado}
+BloodPrologue_Parry_descr
+{
+O inimigo começou a armar o golpe, indicando que está realizando um ataque pesado. Esse ataque não pode ser bloqueado.
+Existem várias maneiras de evitar receber dano.
+~
+A mais eficaz é o aparo. Antes do inimigo atacar, segure a tecla "Alternar Ataque" e pressione "Ataque de Estocada / Aparar".
+Aparar o ataque do inimigo o atordoa e drena sua energia, abrindo uma oportunidade segura para atacar.
+~
+Se você perceber que o oponente está bloqueando, pode realizar um ataque pesado. Isso quebrará a defesa dele.
+}
+BloodPrologue_Parry_controlsimg1 {ChrAttackChoseBase}
+BloodPrologue_Parry_controlsimg2 {ChrAttackBase}
+BloodPrologue_Marksmanship_title {Pontaria}
+BloodPrologue_Marksmanship_descr
+{
+Você pode mirar com qualquer arma de fogo para aumentar a precisão. Segure o botão de mira para entrar nesse modo. Solte para sair sem disparar.
+~
+Quanto mais tempo você mirar, maior será o dano causado. Tiros na cabeça causam ainda mais dano.
+~
+Para usar o disparo rápido, pressione a tecla de mira uma vez. O dano reduzido é o preço pela velocidade.
+}
+BloodPrologue_Marksmanship_controlsimg1 {ChrAiming}
+BloodPrologue_Marksmanship_controlsimg2 {ChrAimingShot}
+BloodPrologue_TimeScale_title {Controle de Tempo}
+BloodPrologue_TimeScale_descr
+{
+Viajar por terra pode levar bastante tempo.
+~
+Use a aceleração do tempo. Pressione 'R' para dobrar a velocidade. Pressione novamente para voltar ao normal.
+Ou use as teclas "+" e "-" para ajustar com mais precisão.
+}
+BloodPrologue_TimeScale_controlsimg1 {TimeScale}
+BloodPrologue_TimeScale_controlsimg2 {TimeScaleFasterBA}
+BloodPrologue_TimeScale_controlsimg3 {TimeScaleSlowerBA}
+BloodPrologue_Alchemy_title {Alquimia}
+BloodPrologue_Alchemy_descr
+{
+Criar itens, especialmente poções e munições, pode facilitar muito a sua vida.
+~
+Para fabricar um item, você precisa encontrar ou comprar uma receita. Os ingredientes podem ser encontrados no mundo aberto ou comprados com mercadores.
+~
+Use a receita adquirida para aprendê-la. Você pode encontrar as plantas necessárias para fazer a "Poção de Enxaqueca" na selva logo após os portões da cidade.
+}
+BloodPrologue_Alchemy_controlsimg1 {AlchemyKey}
+BloodPrologue_Stashes_title {Esconderijos}
+BloodPrologue_Stashes_descr
+{
+Muitos moradores da cidade guardam seus valores não em baús à vista de todos, mas em lugares escondidos — esconderijos.
+~
+Fique perto das paredes e preste atenção; com sorte, você pode encontrar itens muito valiosos.
+~
+Encontre o esconderijo na casa do comerciante.
+}
+BloodPrologue_Dash_title {Defesa em batalha. Esquivas}
+BloodPrologue_Dash_descr
+{
+Além de bloquear ou aparar, há outra forma de evitar dano: os desvios.
+~
+O desvio é realizado segurando a tecla "Alternar Ataque" e pressionando uma das teclas de movimento no modo de combate.
+~
+O desvio permite mudar de posição para escapar de um ataque forte ou de um disparo.
+~
+Use o desvio no último instante antes do disparo do oponente. Isso vai ajudar você a evitar receber dano.
+}
+BloodPrologue_Dash_controlsimg1 {ChrAttackChoseBase}
+BloodPrologue_Dash_controlsimg2 {ChrStrafeLeft}
+BloodPrologue_Dash_controlsimg3 {ChrBackward}
+BloodPrologue_Dash_controlsimg4 {ChrStrafeRight}
+BloodPrologue_DeadSearch_title {Saque}
+BloodPrologue_DeadSearch_descr
+{
+Após cada combate, é hora de coletar o saque.
+Você pode vasculhar qualquer inimigo (ou aliado) caído pressionando o botão de saque - '1' (padrão).
+}
+BloodPrologue_DeadSearch_controlsimg1 {BOAL_DeadSearch}
+BloodPrologue_Officers_title {Oficiais}
+BloodPrologue_Officers_descr
+{
+Navegar uma fragata sozinho é uma tarefa difícil. Por isso, vale a pena contar com a ajuda dos oficiais.
+Cada oficial deve ter uma função designada; eles não devem ficar sem fazer nada.
+~
+Designe Jeremy Pitt como navegador. E nomeie Ned Ogle como cannoneiro.
+Um navegador permitirá que você controle melhor o navio no mar. Já um cannoneiro experiente ajudará a disparar os canhões com mais precisão.
+~
+As funções de contramestre, carpinteiro e tesoureiro são igualmente importantes.
+Um contramestre habilidoso facilita o abordo. Um carpinteiro ajudará a manter o navio flutuando em um momento crítico. E um tesoureiro reduzirá significativamente os custos de manutenção do navio.
+}
+BloodPrologue_Officers_controlsimg1 {Interface}
+BloodPrologue_ShipControl_title {Controle do Navio}
+BloodPrologue_ShipControl_descr
+{
+Bem-vindo ao Mar do Caribe!
+~
+Vire seu navio com as teclas de direção. Controle as velas e a velocidade com as teclas de modo de vela.
+~
+Existem três modos de vela: total, combate e baixada. Velas totais são mais rápidas, velas de combate facilitam as manobras e velas baixadas fazem o navio parar suavemente.
+~
+Uma grande seta no mini-mapa mostra a direção do vento, onde seu navio navegará na velocidade máxima.
+}
+BloodPrologue_ShipControl_controlsimg1 {Ship_SailUp}
+BloodPrologue_ShipControl_controlsimg2 {Ship_TurnLeft}
+BloodPrologue_ShipControl_controlsimg3 {Ship_SailDown}
+BloodPrologue_ShipControl_controlsimg4 {Ship_TurnRight}
+BloodPrologue_SeaBattle_title {Batalha Naval}
+BloodPrologue_SeaBattle_descr
+{
+Cada navio possui três atributos principais: casco, velas e tripulação. Se o casco chegar a zero, o navio afunda. Velas danificadas reduzem sua velocidade.
+~
+Fique atento ao indicador de tripulação. Você não tem pessoas suficientes — as operações com as velas ficarão muito mais lentas. Todos os recursos estão sendo direcionados para as equipes dos canhões.
+~
+Cada atributo tem sua munição ideal: bala de canhão de fragmentação para a tripulação, corrente para velas e mastros, bombas para o casco. Balas de canhão comuns são versáteis e têm o maior alcance.
+~
+Para atirar em um inimigo, use o botão esquerdo do mouse quando um navio inimigo estiver dentro do seu arco de tiro.
+~
+Se a batalha parecer muito lenta, você pode acelerá-la usando as teclas de controle de tempo ('+' e '-').
+}
+BloodPrologue_SeaBattle_controlsimg1 {hk_charge1}
+BloodPrologue_SeaBattle_controlsimg2 {hk_charge2}
+BloodPrologue_SeaBattle_controlsimg3 {hk_charge3}
+BloodPrologue_SeaBattle_controlsimg4 {hk_charge4}
+BloodPrologue_SeaBattle_controlsimg5 {Ship_Fire}
+BloodPrologue_SeaEscape_title {Desengajar}
+BloodPrologue_SeaEscape_descr
+{
+Parece que os espanhóis estão recuando. Eles não aguentam tanto poder de fogo!
+~
+Afaste-se do combate aumentando a distância até o navio inimigo. Você pode ver a distância pelo uso do telescópio.
+~
+Para usar o telescópio, vá até o convés ('Tab' por padrão) e segure a tecla 'Ctrl' (padrão).
+~
+Quando a distância ao inimigo chegar a 1000, você poderá deixar o campo de batalha em segurança.
+}
+BloodPrologue_SeaEscape_controlsimg1 {Sea_CameraSwitch}
+BloodPrologue_SeaEscape_controlsimg2 {TelescopeIn}
+BloodPrologue_EnterMap_title {Entrar no mapa global}
+BloodPrologue_EnterMap_descr
+{
+Para chegar a Tortuga, acesse o mapa global.
+~
+O mapa global permite viajar entre as ilhas.
+~
+Para acessar o mapa global, use o comando rápido ou abra o menu de comandos ('Enter' por padrão) e selecione 'Mapa'.
+}
+BloodPrologue_EnterMap_controlsimg1 {BIFastCommand}
+BloodPrologue_EnterMap_controlsimg2 {BICommandsActivate}
+BloodPrologue_WorldMap_title {Mapa-múndi}
+BloodPrologue_WorldMap_descr
+{
+O mapa-múndi permite que você viaje pelo mar através do mundo do jogo. Não é preciso navegar até cada cidade ou baía—basta sair do mapa-múndi próximo ao seu destino.
+~
+Para começar a se mover, pressione 'W' uma vez, e 'S' uma vez para parar.
+~
+Para examinar a área ao redor, pressione 'Tab'. Tortuga está a noroeste de você; confira o mapa do arquipélago (pressione 'M').
+~
+Quando estiver perto de uma ilha, use "Ação Rápida" ou o menu de comandos para ir ao mar.
+}
+BloodPrologue_WorldMap_controlsimg1 {WMapCameraSwitch}
+BloodPrologue_WorldMap_controlsimg2 {WMapForward}
+BloodPrologue_WorldMap_controlsimg3 {MapView}
+BloodPrologue_FastTravel_title {Viagem Rápida}
+BloodPrologue_FastTravel_descr
+{
+Seu destino é o Porto de Tortuga. Use a opção "Navegar até" no menu de comandos para acelerar sua viagem.
+~
+A função "Navegar até" permite que você se mova instantaneamente para perto de um navio aliado ou ponto de referência. O alcance depende do seu atributo de Percepção.
+~
+Quando estiver próximo ao porto, use a "Ação Rápida" ou o menu de comandos para atracar.
+}
+BloodPrologue_FastTravel_controlsimg1 {BICommandsActivate}
+BloodPrologue_Navigation_title {Navegação}
+BloodPrologue_Navigation_descr
+{
+Atualmente você está recebendo penalidades nos atributos devido à habilidade de Navegação insuficiente!
+~
+A Navegação determina principalmente o tamanho dos navios que um personagem pode comandar.
+~
+Por exemplo, navios de Classe 5 exigem 25 pontos, enquanto Classe 4 precisa de 40. Você pode ver os requisitos de cada Classe clicando com o botão direito no ícone da habilidade na janela do personagem.
+~
+Para eliminar essas penalidades, você precisa de um navegador altamente experiente. No entanto, encontrar um navegador assim no início do jogo é impossível.
+~
+A única solução é atracar o navio e assumir o comando de um navio de classe inferior.
+}
+BloodPrologue_BuyShip_title {Compra de navio}
+BloodPrologue_BuyShip_descr
+{
+Para comprar um navio adicional, selecione um slot vazio na coluna à esquerda, depois escolha o navio na lista e clique em "Comprar".
+~
+Em seguida, atribua qualquer um dos oficiais disponíveis como capitão do novo navio.
+}
+BloodPrologue_ShipChange_title {Troca entre navios}
+BloodPrologue_ShipChange_descr
+{
+Para assumir o comando de um novo navio, no menu "Navios", selecione um slot na coluna da esquerda e clique nele para acessar o menu de troca de navio.
+Em seguida, no menu de troca, clique em "Trocar Navio".
+~
+Não se esqueça de transferir sua tripulação e mercadorias usando "Gerenciar Tripulação" e "Transferir Todos os Itens".
+~
+Para facilitar a movimentação, use as teclas de seta junto com os modificadores 'Shift' e 'Ctrl'.
+}
+BloodPrologue_ShipChange_controlsimg1 {CharacterShipMenu}
+BloodPrologue_SandBox_title {Jogo livre}
+BloodPrologue_SandBox_descr
+{
+Parabéns por concluir sua aventura inicial!
+~
+Comece a explorar o jogo livremente. Cumpra as ordens do governador.
+Entregue cargas a outras colônias se o lojista considerar seu navio adequado.
+Realize missões para os moradores ou negocie mercadorias. Tudo depende de você.
+~
+Ou siga para a selva ou para o mar. Deixe a aventura te encontrar.
+}

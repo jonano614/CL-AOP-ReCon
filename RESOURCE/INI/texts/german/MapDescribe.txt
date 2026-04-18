@@ -1,0 +1,135 @@
+type_full_0
+{
+Das ist #sMapIslName#. Der Ort des verborgenen Schatzes ist hier markiert – es ist #sMaplocName#. Ein berüchtigter Pirat hat dort seinen Schatz versteckt.
+Die braunen Blutflecken deuten darauf hin, dass die Karte echt ist – sie zeigen auch, dass sie schon oft den Besitzer gewechselt hat.
+}
+type_full_0_isl {Insel}
+type_full_0_mein {Festland}
+type_full_1
+{
+Auf der Karte von #sMapIslName#. Die Schätze befinden sich #sMaplocName#. Ob sie noch dort sind, erfährst du jedoch erst, wenn du selbst nachsiehst.
+Die Karte ist ziemlich alt, an ihrer Echtheit besteht kein Zweifel.
+}
+type_full_1_isl {Insel}
+type_full_1_mein {Festland}
+type_full_2 {Diese Karte ist ganz neu – das Papier ist noch nicht vergilbt. Wenn die Legende stimmt, ist der Schatz bei #sMaplocName# auf #sMapIslName# versteckt. Liegt er wirklich dort? Es lohnt sich, nachzusehen!}
+type_full_2_isl {Insel}
+type_full_2_mein {Festland}
+type_quest_0
+{
+Das ist #sMapIslName#. Der Ort des verborgenen Schatzes ist hier verzeichnet – es ist #sMaplocName#. #sMapOwner# hat dort seinen Schatz versteckt.
+Die braunen Blutflecken deuten darauf hin, dass die Karte echt ist – und dass sie schon oft den Besitzer gewechselt hat.
+}
+type_quest_0_isl {Insel}
+type_quest_0_mein {Festland}
+type_part
+{
+Dies ist eines der Kartenteile, das offenbar zum Schatz führt. Es gibt zu wenig Informationen, um allein mit diesem Stück den Ort des Schatzes zu bestimmen. Du kannst nur hoffen, dass du irgendwann das zweite Teil dieser Karte findest, das irgendwo sein muss.
+Dann wird alles klar sein!
+}
+type_fake
+{
+Diese Karte zeigt angeblich den Ort des Schatzes an. Natürlich kannst du nachsehen, ob er dort ist oder nicht, aber es ist ganz sicher nur eine Fälschung.
+Du solltest dieses Stück Papier einfach wegwerfen.
+}
+Antigua_Grot {in der Höhle rechts von der Willoughby Bay}
+Antigua_Grot_box1 {eine Truhe über einem großen Stein}
+SentJons_TownCave {im Kerker von Saint John's}
+SentJons_TownCave_box1 {unter den Planken in einer Sackgasse}
+SentJons_TownCave_box2 {in einer Sackgasse der Mine}
+SentJons_TownCave_box3 {am Verschluss}
+Barbados_Cave {in einer Höhle unweit von Bridgetown}
+Barbados_Cave_box1 {unter den Planken in einer Sackgasse}
+Beliz_Cave {in einer Höhle rechts vom Ausgang aus Belize}
+Beliz_Cave_box1 {eine Truhe nahe der Steinbrücke}
+Beliz_Cave_box2 {eine Truhe auf einem großen Stein}
+Beliz_Cave_box3 {eine Truhe neben dem Seil, das von der Decke hängt}
+Beliz_Cave_2 {in einer Höhle gegenüber dem Ausgang von Belize}
+Beliz_Cave_2_box1 {unter den Planken in einer Sackgasse}
+Bermudes_Dungeon {in einem Verlies unter der Werft von Scullshores}
+Bermudes_Dungeon_box1 {eine Truhe hinter einer verschlossenen Tür}
+Bermudes_Dungeon_box2 {eine Truhe hinter einer offenen Tür}
+Bermudes_Dungeon_box3 {eine Truhe in einer Sackgasse}
+Bermudes_Dungeon_box4 {eine Truhe hinter den Fässern}
+Caracas_Grot {in einer Höhle rechts vom Ausgang von Caracas}
+Caracas_Grot_box1 {eine Truhe über einem großen Stein}
+Cartahena_Cave {in einer Höhle gegenüber dem Ausgang von Cartagena}
+Cartahena_Cave_box1 {eine Truhe unter der Fackel}
+Cartahena_Cave_box2 {eine Truhe in einer Sackgasse}
+Cartahena_Cave_box3 {eine Truhe neben der Fackel}
+Caiman_Grot {in einer Höhle rechts von der Desert Coast}
+Caiman_Grot_box1 {eine Truhe über einem großen Stein}
+Charles_Grot {in einer Höhle rechts von der White Bay}
+Charles_Grot_box1 {eine Truhe am Ufer}
+Cuba_Grot {in einer Höhle rechts vom Kap Camaguey}
+Cuba_Grot_box1 {eine Truhe am Ufer}
+Cumana_Cave {in einer Höhle rechts von der Carupano Cove}
+Cumana_Cave_box1 {eine Truhe nahe der Steinbrücke}
+Cumana_Cave_box2 {eine Truhe auf einem großen Stein}
+Cumana_Cave_box3 {eine Truhe neben dem Seil, das von der Decke hängt}
+Curacao_Cave {in einer Höhle rechts der Blanca-Lagune}
+Curacao_Cave_box1 {eine Truhe unter der Fackel}
+Curacao_Cave_box2 {eine Truhe in einer Sackgasse}
+Curacao_Cave_box3 {eine Truhe neben der Fackel}
+Dominica_Grot {in einer Höhle rechts vom Strand von Castle Bruce}
+Dominica_Grot_box1 {eine Truhe am Ufer}
+Guadeloupe_Cave {in einer Höhle links vom Leuchtturm von Guadeloupe}
+Guadeloupe_Cave_box1 {Eine Truhe in einer Nische hinter der Fackel}
+Guadeloupe_Cave_box2 {Eine Truhe in einer Nische hinter der Säule}
+Guadeloupe_Cave_box3 {eine Truhe hinter den Steinen an der Wand}
+Hispaniola_Cave {in einer Höhle unweit der Stadt Port-au-Prince}
+Hispaniola_Cave_box1 {eine Truhe nahe der Steinbrücke}
+Hispaniola_Cave_box2 {eine Truhe auf einem großen Stein}
+Hispaniola_Cave_box3 {eine Truhe neben dem Seil, das von der Decke hängt}
+Jamaica_Grot {in einer Höhle rechts vom Leuchtturm von Port Royal}
+Jamaica_Grot_box1 {eine Truhe über einem großen Stein}
+Orange_mines {im unterirdischen Lagerraum von Fort Orange}
+Orange_mines_box1 {kleines Fass unter den großen}
+Maracaibo_Cave {in einer Höhle gegenüber dem Ausgang von Maracaibo}
+Maracaibo_Cave_box1 {eine Truhe unter der Fackel}
+Maracaibo_Cave_box2 {eine Truhe in einer Sackgasse}
+Maracaibo_Cave_box3 {eine Truhe neben der Fackel}
+Marigo_Cave {in einer Höhle gegenüber dem Ausgang von Marigot}
+Marigo_Cave_box1 {eine Truhe unter der Fackel}
+Marigo_Cave_box2 {eine Truhe in einer Sackgasse}
+Marigo_Cave_box3 {eine Truhe neben der Fackel}
+Panama_Cave {in einer Höhle links vom Ausgang von Portobelo}
+Panama_Cave_box1 {unter den Planken in einer Sackgasse}
+Pearl_Grot {in einer Höhle an der Westküste zwischen Belize und Santa Catalina}
+Pearl_Grot_box1 {eine Truhe über einem großen Stein}
+PortoBello_Cave {in einer Höhle rechts von der Mosquitoes Bay}
+PortoBello_Cave_box1 {unter den Planken in einer Sackgasse}
+SanJuan_Cave {in einer Höhle unweit von San Juan}
+SanJuan_Cave_box1 {eine Truhe nahe der Steinbrücke}
+SanJuan_Cave_box2 {eine Truhe auf einem großen Stein}
+SanJuan_Cave_box3 {eine Truhe neben dem Seil, das von der Decke hängt}
+SantaCatalina_Cave {in einer Höhle rechts vom Kap Perlas}
+SantaCatalina_Cave_box1 {eine Truhe unter der Fackel}
+SantaCatalina_Cave_box2 {eine Truhe in einer Sackgasse}
+SantaCatalina_Cave_box3 {eine Truhe neben der Fackel}
+SantaCatalina_Grot {in einer Höhle rechts von der Bucht von San Juan del Norte}
+SantaCatalina_Grot_box1 {eine Truhe am Ufer}
+SantaCatalina_PearlCave {in einer Höhle links von der Bucht von San Juan del Norte}
+SantaCatalina_PearlCave_box1 {eine Truhe nahe der Steinbrücke}
+SantaCatalina_PearlCave_box2 {eine Truhe auf einem großen Stein}
+SantaCatalina_PearlCave_box3 {eine Truhe neben dem Seil, das von der Decke hängt}
+Tenotchitlan_Cave {in einer Höhle nördlich des Aztekentempels}
+Tenotchitlan_Cave_box1 {Truhe bei der Steinbrücke}
+Tenotchitlan_Cave_box2 {eine Truhe auf einem großen Stein}
+Tenotchitlan_Cave_box3 {eine Truhe neben dem Seil, das von der Decke hängt}
+Terks_Grot {in einer Höhle rechts von der Northern Bay}
+Terks_Grot_box1 {eine Truhe über einem großen Stein}
+Tortuga_Grot {in einer Höhle gegenüber vom Fisheye Beach}
+Tortuga_Grot_box1 {eine Truhe am Ufer}
+Tortuga_Cave {in einem Kerker von Tortuga}
+Tortuga_Cave_box1 {eine Truhe hinter einer verschlossenen Tür}
+Trinidad_Grot {in einer Höhle gegenüber dem Leuchtturm von Trinidad und Tobago}
+Trinidad_Grot_box1 {eine Truhe am Ufer}
+FortFrance_Dungeon {im Kerker von Fort-de-France}
+FortFrance_Dungeon_box1 {eine Truhe auf der Anhöhe}
+FortFrance_Dungeon_box2 {eine Truhe hinter einer offenen Tür auf der oberen Etage}
+FortFrance_Dungeon_box3 {eine Truhe unweit des Aufzugs}
+FortFrance_Dungeon_box4 {Eine Truhe hinter einer offenen Tür auf der unteren Ebene}
+FortFrance_Dungeon_box5 {unter Holzkisten}
+Providence_Cavern {in der Durchgangshöhle zwischen Morgan's Head und Old Providence Island}
+Providence_Cavern_box1 {Eine Truhe hinter Stalagmiten in einer Sackgasse}

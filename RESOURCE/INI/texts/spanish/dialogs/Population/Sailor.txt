@@ -1,0 +1,144 @@
+Sailor_1 {
+Saludos, @<GetAddress_Form>. Según tengo entendido, eres el capitán de tu propio barco. Tengo una propuesta de negocios para ti.
+}
+Sailor_2 {
+Te escucho con atención, @<GetAddress_FormToNPC>. ¿De qué se trata?
+}
+Sailor_3 {
+Lo siento, @<GetAddress_FormToNPC>, pero tengo mucha prisa.
+}
+Sailor_4 {
+¡Saludos, capitán! ¿A qué debo el honor, siendo yo un simple marinero?
+}
+Sailor_5_m {
+Buen día, señor. ¿En qué puedo ayudarle?
+}
+Sailor_5_f {
+Buenos días, señora. ¿En qué puedo servirle?
+}
+Sailor_6_m {
+Buen día, señor. ¿Necesita algo?
+}
+Sailor_6_f {
+Buenos días, señora. ¿Necesitaba algo?
+}
+Sailor_7 {
+@<LinkRandPhrase>
+}
+Sailor_8 {
+¡Encantado de conocerlo, buen señor! Mi nombre es @<GetFullName>. ¿Tiene un momento para conversar?
+}
+Sailor_9 {
+Tengo una pregunta para ti.
+}
+Sailor_10 {
+Necesito información sobre lo que está ocurriendo en esta colonia.
+}
+Sailor_11 {
+@<RandPhraseSimple>
+}
+Sailor_12_m {
+Solo quería saludar. ¡Hasta luego!
+}
+Sailor_12_f {
+Solo quería saludar. ¡Hasta luego!
+}
+Sailor_13_m {
+¿Es usted de nuevo, señor? ¿Desea algo más?
+}
+Sailor_13_f {
+¿Es usted de nuevo, señora? ¿Desea algo más?
+}
+Sailor_14 {
+¿Tienes un minuto para hablar de esto y aquello?
+}
+Sailor_15 {
+Tengo una pregunta para ti.
+}
+Sailor_16 {
+Necesito información sobre lo que está ocurriendo en esta colonia.
+}
+Sailor_17 {
+@<RandPhraseSimple>
+}
+Sailor_18 {
+No, amigo, nada. ¡Buena suerte!
+}
+Sailor_19_m {
+@<GetFullName> a tu servicio, mi buen amigo. ¿Qué querías saber?
+}
+Sailor_19_f {
+@<GetFullName> a tu servicio, querida. ¿Qué te gustaría saber?
+}
+Sailor_20 {
+¡Me alegra conversar, capitán!
+}
+Sailor_21 {
+Bueno, supongo que todavía tengo algo de tiempo...
+}
+Sailor_22 {
+Lamentablemente, tengo que irme. ¡Que te vaya bien!
+}
+Sailor_23 {
+¿Te gustaría contarme algo interesante?
+}
+Sailor_24 {
+¿Te gustaría contarme algo interesante?
+}
+Sailor_25 {
+¿Te gustaría contarme algo interesante?
+}
+Sailor_26 {
+Sí, por supuesto. ¡Buena suerte!
+}
+Sailor_27 {
+Unos amigos y yo fuimos desembarcados tras resultar heridos. Ahora ya estamos recuperados y buscamos enrolarnos de nuevo como marineros. ¿Le interesaría aceptarnos en su tripulación?
+}
+Sailor_28 {
+Hace unos días, varios de nosotros fuimos desembarcados de un barco mercante; nuestro contrato con el propietario terminó. Llevamos días varados aquí, buscando trabajo como marineros. ¿Por casualidad necesita marineros experimentados para su tripulación?
+}
+Sailor_29 {
+Mis amigos y yo regresamos de un viaje hace dos semanas, el propietario nos pagó y hemos pasado unos días estupendos. Pero ahora el viento sopla en el bolsillo de un marinero, lo que significa que es hora de volver al mar. ¿Nos contrataría para su barco, capitán?
+}
+Sailor_30_m {
+Muy bien, estoy dispuesto a escuchar tu propuesta. ¿Cuántos son y qué habilidades tienen a bordo de un barco?
+}
+Sailor_30_f {
+Bien, estoy listo para escuchar tu propuesta. ¿Cuántas personas hay en tu tripulación y qué habilidades tienen a bordo del barco?
+}
+Sailor_31 {
+Lo siento, marinero, pero mi tripulación ya está completa. Tendrás que buscarte otro capitán.
+}
+Sailor_32 {
+Pero, sobre todo, conocemos bien las velas y el aparejo. Sin falsa modestia: tenemos mucha experiencia en esto, así que no te fallaremos, ni siquiera en la peor tormenta.
+}
+Sailor_33 {
+Pero lo que más nos gusta es la cubierta de artillería. Nadie en tu tripulación maneja los cañones como nosotros, te lo aseguro. En pleno combate, puedes contar con nosotros sin dudarlo.
+}
+Sailor_34 {
+Pero nuestro verdadero elemento es el combate de abordaje. El destello de los sables, el olor a pólvora y sangre, eso es lo nuestro. Enfrentarnos en batalla no es tarea fácil, así que si surge el peligro, nuestras espadas lo resolverán, capitán.
+}
+Sailor_35 {
+Somos @<FindPeoplesString>, y solo aceptaremos si vamos todos juntos. Sabemos todo lo que un marinero debe saber. @<sTemp>
+}
+Sailor_36 {
+Suena bastante tentador. ¿Cuánto quieres de adelanto?
+}
+Sailor_37 {
+Lo siento, marinero, pero no tengo espacio para todos ustedes en mi barco. Tendrán que buscar otro capitán.
+}
+Sailor_38 {
+@<FindMoneyString> por hermano. Después de eso, solo el salario normal de marinero. No pediremos más, capitán.
+}
+Sailor_39 {
+¡Trato hecho! Aquí tienes el monto completo. Ve a mi barco, se llama '@<pchar>', está anclado en la rada. El contramaestre te asignará un camarote en la tripulación y te dará trabajo.
+}
+Sailor_40 {
+Lamentablemente, no puedo pagar por tus servicios. Tendrás que buscar otro capitán.
+}
+Sailor_41 {
+¡Estamos en camino, capitán! Reuniré a la tripulación y abordaremos de inmediato.
+}
+Sailor_42 {
+Vamos, date prisa, no pienso quedarme aquí mucho tiempo.
+}

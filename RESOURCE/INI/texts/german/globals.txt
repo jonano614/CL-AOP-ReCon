@@ -1,0 +1,94 @@
+CARDS_RULE {Die Regeln sind einfach. Blackjack. 36 Karten, von Sechsen bis Assen. Ass zählt 11 Punkte, König 4, Lord (Pferderitter) 3, Nobile (Fußsoldat) 2, der Rest entsprechend dem Kartenwert. Ziel ist es, 21 Punkte zu erreichen.\nKlicke auf den Stapel, um eine weitere Karte zu nehmen. Jede Karte ist ein Einsatz. Klicke auf das Porträt oben rechts, um deinen Zug zu beenden. Du brauchst genug Geld für mindestens drei Einsätze, um mitzuspielen. Drücke Esc oder das Kreuz, wenn du fertig bist.}
+DICE_RULE
+{
+Würfelspiel. Fünf Würfel pro Spieler. Du kannst alle fünf oder beliebige davon neu werfen, aber nur einmal. Jeder Würfel ist ein Einsatz. Ziel ist es, die höchste Punktzahl zu erreichen.
+Folgende Kombinationen gibt es: Paar (2), zwei Paare (2+2), Drilling (3), Full House (3+2), Vierling (4), Straße (aufeinanderfolgende Würfel) und Poker (5).
+Klicke auf den Becher, um zu würfeln, klicke auf einen Würfel, um genau diesen neu zu werfen, klicke auf das Porträt, um deinen Zug zu beenden (falls du keinen Wurf mehr brauchst oder nicht genug Geld hast).
+}
+Address_Form_Spa {Senor}
+Address_Form_Fra {Monsieur}
+Address_Form_Eng {Sir}
+Address_Form_Por {Senhor}
+Address_Form_Hol {Mynheer}
+Address_Form_Pir {Sir}
+Address_Form_SpaWoman {Señorita}
+Address_Form_FraWoman {Mademoiselle}
+Address_Form_EngWoman {verfehlen}
+Address_Form_HolWoman {mefrau}
+Address_Form_PirWoman {verfehlen}
+Address_Form_SpaWoman2 {Señora}
+Address_Form_FraWoman2 {Madam}
+Address_Form_EngWoman2 {Mrs.}
+Address_Form_HolWoman2 {Frau}
+Address_Form_PirWoman2 {Mrs.}
+BaronTitle {Baron}
+BaronWomanTitle {Baronin}
+Officer_Attack {Offiziere, Angriff!}
+Officer_Follow {Offiziere, mir nach!}
+Officer_Stay {Offiziere, bleibt stehen!}
+Potion_Not_Found {Trank nicht gefunden!}
+Used_Antidote {Gegengift verwendet}
+No_Search_Anyone {Niemand zum Plündern}
+Address_Form_Spa_Title1 {Kaperfahrer}
+Address_Form_Fra_Title1 {Korsar}
+Address_Form_Eng_Title1 {Freibeuter}
+Address_Form_Hol_Title1 {Filibuster}
+Address_Form_Pir_Title1 {Bukanier}
+Address_Form_Spa_Title2 {Leutnant}
+Address_Form_Fra_Title2 {Leutnant}
+Address_Form_Eng_Title2 {Leutnant}
+Address_Form_Hol_Title2 {Leutnant}
+Address_Form_Pir_Title2 {Seewolf}
+Address_Form_Spa_Title3 {Kapitän}
+Address_Form_Fra_Title3 {Kapitän}
+Address_Form_Eng_Title3 {Kapitän}
+Address_Form_Hol_Title3 {Kapitän}
+Address_Form_Pir_Title3 {Veteran}
+Address_Form_Spa_Title4 {Kommodore}
+Address_Form_Fra_Title4 {Kommodore}
+Address_Form_Eng_Title4 {Kommodore}
+Address_Form_Hol_Title4 {Kommodore}
+Address_Form_Pir_Title4 {Lord}
+Address_Form_Spa_Title5 {Admiral}
+Address_Form_Fra_Title5 {Admiral}
+Address_Form_Eng_Title5 {Admiral}
+Address_Form_Hol_Title5 {Admiral}
+Address_Form_Pir_Title5 {Legende}
+NationKingsName_Spa {Seine katholische Majestät Carlos II Habsburg}
+NationKingsName_Fra {Seine christlichste Majestät Ludwig XIV}
+NationKingsName_Eng {Seine Majestät Karl II Stuart}
+NationKingsName_Hol {Statthalter Wilhelm III}
+NationKingsName_Por {Afonso VI. der Siegreiche}
+NationKingsName_Pir {Piratenbrüder der Küste}
+NationKingsCrown_Spa {Spanische Krone}
+NationKingsCrown_Fra {Französische Krone}
+NationKingsCrown_Eng {Englischer Thron}
+NationKingsCrown_Hol {Republik der Sieben Vereinigten Provinzen}
+NationKingsCrown_Por {Portugiesische Krone}
+NationKingsCrown_Pir {Brüder der Küste}
+Swear_1 {Caramba!}
+Swear_2 {Verdammt!}
+Swear_3 {Teufel!}
+Swear_4 {Verdammt!}
+Swear_5 {Beim Klabautermann!}
+Swear_6 {Tausend Haie!}
+Swear_7 {Argh!!!}
+Swear_8 {Donnerwetter!}
+Swear_9 {Verdammter Donnerwetter!}
+Swear_10 {Donnerwetter!}
+Swear_11 {Verdammt, das ist Mist!}
+Swear_12 {Ach, verdammt...}
+Swear_13 {Donnerwetter!}
+Swear_14 {Was zum Teufel!}
+Swear_15 {Tausend Teufel!}
+Exclamation_1 {Oh mein Gott!!}
+Exclamation_2 {Oh Himmel!}
+Exclamation_3 {Heilige Madonna!}
+MorningGreeting {Guten Morgen}
+DayGreeting {Guten Tag}
+EveningGreeting {Guten Abend}
+NightGreeting {Gute Nacht}
+TimeGreeting {Guten Abend}
+rat_spoiled {verdorben}
+rat_damaged {beschädigt}
+rat_destroyed {zerstört}

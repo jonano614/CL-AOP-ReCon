@@ -1,0 +1,636 @@
+MayorQuests_dialog_1_m {
+Деньги на бочку приятель! Меня зовут @<GetFullName>, и я не терплю возражений в свой адрес...
+}
+MayorQuests_dialog_1_f {
+Деньги на бочку подруга! Меня зовут @<GetFullName>, и я не терплю возражений в свой адрес...
+}
+MayorQuests_dialog_2_m {
+Покажи-ка мне содержимое своего кошелька, приятель, и побыстрее! Меня зовут @<GetFullName>, и, я надеюсь, ты слышал обо мне...
+}
+MayorQuests_dialog_2_f {
+Покажи-ка мне содержимое своего кошелька, подруга, и побыстрее! Меня зовут @<GetFullName>, и, я надеюсь, ты слышала обо мне...
+}
+MayorQuests_dialog_3 {
+Выкладывай всё ценное, что у тебя есть, я реквизирую содержимое твоего кошелька. И побыстрей, так как я, @<GetFullName>, не очень терпелив. Но зато оч-ч-чень кровожаден!
+}
+MayorQuests_dialog_4 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_5 {
+Хех, так ты и есть тот самый @<GetFullName>, о котором местный губернатор @<sTemp> только и говорит?
+}
+MayorQuests_dialog_6 {
+О-о, так ты и есть тот самый бандит, за которым охотится местный губернатор @<sTemp> ?!
+}
+MayorQuests_dialog_7_m {
+Рад видеть тебя, @<GetFullName>. Местный губернатор, @<sTemp>, только о тебе и говорит...
+}
+MayorQuests_dialog_7_f {
+Рада видеть тебя, @<GetFullName>. Местный губернатор, @<sTemp>, только о тебе и говорит...
+}
+MayorQuests_dialog_8 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_9_m {
+Да, я известен в этих краях, хе-хе... Стоп, а ты не очередной ли пёс губернатора, которого он пытается натравить на меня?
+}
+MayorQuests_dialog_9_f {
+Да, я известен в этих краях, хе-хе... Стоп, а ты не очередная ли шавка губернатора, которую он пытается натравить на меня?
+}
+MayorQuests_dialog_10_m {
+Губернатор - мой большой друг, чего скрывать? Ха, а не очередной ли ты герой, отправленный им за моей головой?
+}
+MayorQuests_dialog_10_f {
+Губернатор - мой большой друг, чего скрывать? Ха, а не очередная ли ты героиня, отправленная им за моей головой?
+}
+MayorQuests_dialog_11 {
+'Дружеское' расположение губернатора ко мне - факт, хе-хе. А ты откуда об этом знаешь? Может, он послал тебя по мою душу?
+}
+MayorQuests_dialog_12 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_13 {
+Точно так, мерзавец. Готовься к смерти!
+}
+MayorQuests_dialog_14 {
+Надо же, какой ты догадливый. Ну что же, пора приступать к твоей ликвидации. Поговорили, хватит уже...
+}
+MayorQuests_dialog_15 {
+Да, это я и есть. Доставай оружие, приятель! Посмотрим, какого цвета у тебя кровь.
+}
+MayorQuests_dialog_16 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_17 {
+Да нет, что ты! Мне эти проблемы совершенно ни к чему...
+}
+MayorQuests_dialog_18 {
+Нет, я за такие дела не берусь, не геройствую, в общем...
+}
+MayorQuests_dialog_19 {
+Нет-нет, ни в коем разе! Мне проблемы ни к чему...
+}
+MayorQuests_dialog_20 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_21_m {
+Так-то лучше, дружище... А теперь проваливай!
+}
+MayorQuests_dialog_21_f {
+Так-то лучше, подруга... А теперь проваливай!
+}
+MayorQuests_dialog_22_m {
+И это правильное решение, знал бы ты, сколько героев я отправил на тот свет... Ладно, меньше лирики. Вали отсюда, мешок с дерьмом!
+}
+MayorQuests_dialog_22_f {
+И это правильное решение, знала бы ты, сколько героев я отправил на тот свет... Ладно, меньше лирики. Вали отсюда, шлюха!
+}
+MayorQuests_dialog_23_m {
+Молодец, хвалю! Очень мудрая жизненная позиция - не лезть куда не просят... Ладно, проваливай, приятель.
+}
+MayorQuests_dialog_23_f {
+Молодец, хвалю! Очень мудрая жизненная позиция - не лезть куда не просят... Ладно, проваливай, подруга.
+}
+MayorQuests_dialog_24 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_25 {
+До свидания, желаю здравствовать...
+}
+MayorQuests_dialog_26 {
+Что вам нужно, @<GetAddress_Form>?
+}
+MayorQuests_dialog_27 {
+Мне нужно узнать, кто ты такой. Немедленно говори, кто ты и что ты здесь делаешь?
+}
+MayorQuests_dialog_28_m {
+Ну, а ты-то кто такой, чтобы я отвечал на твои вопросы?
+}
+MayorQuests_dialog_28_f {
+Ну, а ты-то кто такая, чтобы я отвечал на твои вопросы?
+}
+MayorQuests_dialog_29 {
+Я действую по поручению губернатора, ищу вражеского лазутчика!
+}
+MayorQuests_dialog_30 {
+Ну а я здесь при чём?
+}
+MayorQuests_dialog_31 {
+Может, и ни при чём, но давай-ка, для начала, пройдём в комендатуру. Там разберёмся...
+}
+MayorQuests_dialog_32_m {
+Нет, в комендатуру я не пойду. Считай, что нашёл лазутчика. Ну а теперь попробуй выйти отсюда живым!
+}
+MayorQuests_dialog_32_f {
+Нет, в комендатуру я не пойду. Считай, что нашла лазутчика. Ну а теперь попробуй выйти отсюда живой!
+}
+MayorQuests_dialog_33 {
+Хех, да уж выйду как-нибудь...
+}
+MayorQuests_dialog_34_m {
+А, это ты, @<GetFullName>, старый пройдоха
+}
+MayorQuests_dialog_34_f {
+А, это ты, @<GetFullName>, отчаянная деваха
+}
+MayorQuests_dialog_35_m {
+Рад тебя видеть, старина@<Pchar>
+}
+MayorQuests_dialog_35_f {
+Рад тебя видеть, красавица@<Pchar>
+}
+MayorQuests_dialog_36_m {
+О, да это же сам капитан @<GetFullName>
+}
+MayorQuests_dialog_36_f {
+О, да это же сама капитан @<GetFullName>
+}
+MayorQuests_dialog_37 {
+Думал, тебя уже нет на этом свете!
+}
+MayorQuests_dialog_38_m {
+И, наверное, как всегда, пьян.
+}
+MayorQuests_dialog_38_f {
+И, наверное, как всегда, выпивши.
+}
+MayorQuests_dialog_39 {
+И, как вижу, ещё на свободе!
+}
+MayorQuests_dialog_40 {
+Ну, говори, чего тебе нужно?
+}
+MayorQuests_dialog_41 {
+Чего тебе на этот раз?
+}
+MayorQuests_dialog_42 {
+Опять тревожишь меня по пустякам?
+}
+MayorQuests_dialog_43 {
+@<LinkRandPhrase>. @<LinkRandPhrase> @<LinkRandPhrase>
+}
+MayorQuests_dialog_44 {
+@<TimeGreeting>, капитан
+}
+MayorQuests_dialog_45 {
+Здравствуйте @<GetAddress_Form>
+}
+MayorQuests_dialog_46 {
+Приветствую вас, капитан
+}
+MayorQuests_dialog_47_m {
+Что может быть нужно такому почтенному человеку, как вы, от меня?
+}
+MayorQuests_dialog_47_f {
+Что может быть нужно такой бравой девушке, как вы, от меня?
+}
+MayorQuests_dialog_48 {
+Зачем вы пришли?
+}
+MayorQuests_dialog_49 {
+Что на этот раз вы хотите узнать?
+}
+MayorQuests_dialog_50 {
+@<LinkRandPhrase> @<GetFullName>. @<LinkRandPhrase>
+}
+MayorQuests_dialog_51 {
+Здравствуйте капитан
+}
+MayorQuests_dialog_52 {
+Приветствую, ах, это вы @<GetAddress_Form>
+}
+MayorQuests_dialog_53 {
+А, капитан
+}
+MayorQuests_dialog_54_m {
+я думал мы больше с вами не встретимся,
+}
+MayorQuests_dialog_54_f {
+я думала мы больше с вами не встретимся,
+}
+MayorQuests_dialog_55_m {
+не скажу, что рад вас видеть, но
+}
+MayorQuests_dialog_55_f {
+не скажу, что рада вас видеть, но
+}
+MayorQuests_dialog_56 {
+вижу, вы ещё живы, как это ни прискорбно. А
+}
+MayorQuests_dialog_57 {
+что вам нужно?
+}
+MayorQuests_dialog_58 {
+зачем вы пришли?
+}
+MayorQuests_dialog_59_m {
+чем могу быть полезен?
+}
+MayorQuests_dialog_59_f {
+чем могу быть полезна?
+}
+MayorQuests_dialog_60 {
+@<LinkRandPhrase> @<GetFullName> @<LinkRandPhrase>@<LinkRandPhrase>
+}
+MayorQuests_dialog_61 {
+@<TimeGreeting>, капитан @<GetFullName>. Чем могу помочь?
+}
+MayorQuests_dialog_62 {
+О, да это же сам капитан @<GetFullName>! Что вы хотите узнать на этот раз?
+}
+MayorQuests_dialog_63 {
+Здравствуйте, @<GetAddress_Form> @<Pchar>. Вы что-то хотели?
+}
+MayorQuests_dialog_64 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_65 {
+Тебе послышалось, я пойду.
+}
+MayorQuests_dialog_66_m {
+Нет, ничего - просто шёл в таверну.
+}
+MayorQuests_dialog_66_f {
+Нет, ничего - просто шла в таверну.
+}
+MayorQuests_dialog_67 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_68 {
+Ладно, ничего. Удачи!
+}
+MayorQuests_dialog_69 {
+Просто осматриваю город. До свидания.
+}
+MayorQuests_dialog_70 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_71 {
+У меня есть вопрос к тебе.
+}
+MayorQuests_dialog_72 {
+Мне нужна информация.
+}
+MayorQuests_dialog_73 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_74 {
+, стойте! Немедленно скажите мне, кто вы?!
+}
+MayorQuests_dialog_75 {
+, задержитесь на минуточку!
+}
+MayorQuests_dialog_76 {
+, постойте! Нужно поговорить!
+}
+MayorQuests_dialog_77 {
+Я ищу вражеского лазутчика по поручению губернатора @<XI_ConvertString>!
+}
+MayorQuests_dialog_78 {
+Я действую в интересах города @<XI_ConvertString> по поручению губернатора. Ищу в городе вражеского агента.
+}
+MayorQuests_dialog_79 {
+Местный губернатор @<GetCharacterIndex> очень хочет разыскать шпиона в городе...
+}
+MayorQuests_dialog_80_m {
+Мужчина@<LinkRandPhrase> @<LinkRandPhrase>
+}
+MayorQuests_dialog_80_f {
+Женщина@<LinkRandPhrase> @<LinkRandPhrase>
+}
+MayorQuests_dialog_81_m {
+Хотел кое-что узнать об этом поселении!
+}
+MayorQuests_dialog_81_f {
+Хотела кое-что узнать об этом поселении!
+}
+MayorQuests_dialog_82_m {
+Хотел узнать кое-что о городе.
+}
+MayorQuests_dialog_82_f {
+Хотела узнать кое-что о городе.
+}
+MayorQuests_dialog_83_m {
+О, да, я рад тебе как выпивке, спрашивай, чего хочешь.
+}
+MayorQuests_dialog_83_f {
+О, да, я рада тебе как выпивке, спрашивай, чего хочешь.
+}
+MayorQuests_dialog_84 {
+Любишь поболтать, капитан? Что ж, я тоже... Особенно за кружечкой рома.
+}
+MayorQuests_dialog_85 {
+Да, @<PChar>?
+}
+MayorQuests_dialog_86 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_87 {
+Ну, чего тебе ещё?
+}
+MayorQuests_dialog_88_m {
+Вижу, капитан @<PChar>, ты охотник поболтать?
+}
+MayorQuests_dialog_88_f {
+Вижу, капитан @<PChar>, ты охотница поболтать?
+}
+MayorQuests_dialog_89_m {
+Замучил вопросами, капитан, лучше бы угостил ромом.
+}
+MayorQuests_dialog_89_f {
+Замучила вопросами, капитан, лучше бы угостила ромом.
+}
+MayorQuests_dialog_90 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_91 {
+Что вы хотели узнать @<GetAddress_Form>?
+}
+MayorQuests_dialog_92 {
+Я вас слушаю капитан.
+}
+MayorQuests_dialog_93 {
+Мне нужно идти, поэтому спрашивайте скорее, капитан.
+}
+MayorQuests_dialog_94 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_95_m {
+Всегда рад приятному собеседнику, @<GetAddress_Form> @<PChar>. Говорите.
+}
+MayorQuests_dialog_95_f {
+Всегда рада приятному собеседнику, @<GetAddress_Form> @<PChar>. Говорите.
+}
+MayorQuests_dialog_96 {
+Да, @<GetAddress_Form>?
+}
+MayorQuests_dialog_97 {
+Любите поболтать, капитан? Что ж, я тоже...
+}
+MayorQuests_dialog_98 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_99 {
+Какие байки в ходу в здешней таверне?
+}
+MayorQuests_dialog_100 {
+Что новенького в этих краях?
+}
+MayorQuests_dialog_101 {
+Как течёт жизнь на суше?
+}
+MayorQuests_dialog_102 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_103 {
+Не объясните мне дороги?
+}
+MayorQuests_dialog_104 {
+Что-то я никак не найду дороги кое-куда...
+}
+MayorQuests_dialog_105 {
+Подскажите дорогу...
+}
+MayorQuests_dialog_106 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_107 {
+Расскажите мне о вашей колонии.
+}
+MayorQuests_dialog_108 {
+Есть важное дело!
+}
+MayorQuests_dialog_109 {
+У меня к вам дело.
+}
+MayorQuests_dialog_110 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_111 {
+Тебе послышалось, я пойду.
+}
+MayorQuests_dialog_112_m {
+Нет, ничего - просто шёл в таверну.
+}
+MayorQuests_dialog_112_f {
+Нет, ничего - просто шла в таверну.
+}
+MayorQuests_dialog_113 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_114 {
+Ладно, ничего. Удачи!
+}
+MayorQuests_dialog_115 {
+Просто осматриваю город. До свидания.
+}
+MayorQuests_dialog_116 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_117 {
+Честно говоря, я не слишком-то разбираюсь в этом. Но кое-что могу рассказать.
+}
+MayorQuests_dialog_118 {
+Что же вас интересует в нашей колонии?
+}
+MayorQuests_dialog_119 {
+Всегда пожалуйста. О чём вы хотите услышать?
+}
+MayorQuests_dialog_120 {
+@<LinkRandPhrase>
+}
+MayorQuests_dialog_121 {
+Что это за город?
+}
+MayorQuests_dialog_122 {
+Что вы знаете о форте, защищающем город?
+}
+MayorQuests_dialog_123 {
+Поговорим о чём-нибудь другом.
+}
+MayorQuests_dialog_124 {
+@<UpperFirst>, наше поселение называется @<XI_ConvertString>.
+}
+MayorQuests_dialog_125 {
+Благодарю.
+}
+MayorQuests_dialog_126 {
+Ничего про это не знаю.
+}
+MayorQuests_dialog_127 {
+Жаль.
+}
+MayorQuests_dialog_128 {
+Ну, а я здесь при чём? Я местный житель!
+}
+MayorQuests_dialog_129 {
+Кто может подтвердить твои слова?
+}
+MayorQuests_dialog_130 {
+Все могут подтвердить, все!!!
+}
+MayorQuests_dialog_131 {
+Все - это кто? Назови имя хотя бы одного горожанина @<XI_ConvertString>!
+}
+MayorQuests_dialog_132 {
+Э-э-э... Сейчас... Ммм..
+}
+MayorQuests_dialog_133 {
+Всё ясно, приятель, тебя то я и ищу! Следуй за мной, иначе я прикончу тебя на месте. Тебе всё понятно?!
+}
+MayorQuests_dialog_134 {
+Чёрт! Надо же было так глупо вляпаться!.. Всё ясно, буду следовать за тобой - мне моя жизнь ещё дорога...
+}
+MayorQuests_dialog_135 {
+Ну, вот и славно. Мы идем губернатору, он хотел тебя видеть...
+}
+MayorQuests_dialog_136_m {
+Говорят, губернатор @<sTemp> поручил некоему капитану @<GetMainCharacterNameGen> найти в городе вражеского лазутчика. И вы знаете, он его нашёл прямо на улицах!
+}
+MayorQuests_dialog_136_f {
+Говорят, губернатор @<sTemp> поручил некоему капитану @<GetMainCharacterNameGen> найти в городе вражеского лазутчика. И вы знаете, она его нашла прямо на улицах!
+}
+MayorQuests_dialog_137_m {
+Наш губернатор зал задание капитану @<GetMainCharacterNameGen> разыскать в городе вражеского агента. И этот капитан нашёл лазутчика среди горожан!
+}
+MayorQuests_dialog_137_f {
+Наш губернатор зал задание капитану @<GetMainCharacterNameGen> разыскать в городе вражеского агента. И эта девушка нашла лазутчика среди горожан!
+}
+MayorQuests_dialog_138 {
+@<RandPhraseSimple>
+}
+MayorQuests_dialog_139_m {
+Ты всё-таки решил вернуться...
+}
+MayorQuests_dialog_139_f {
+Ты всё-таки решила вернуться...
+}
+MayorQuests_dialog_140_m {
+Да, забыл кое-что...
+}
+MayorQuests_dialog_140_f {
+Да, забыла кое-что...
+}
+MayorQuests_dialog_141_m {
+Кто ты такой, чёрт тебя дери?!
+}
+MayorQuests_dialog_141_f {
+Кто ты такая, чёрт тебя дери?!
+}
+MayorQuests_dialog_142_m {
+Я пришёл за твоей головой, приятель. Губернатор @<XI_ConvertString> хочет видеть её прибитой к городским воротам.
+}
+MayorQuests_dialog_142_f {
+Я пришла за твоей головой, приятель. Губернатор @<XI_ConvertString> хочет видеть её прибитой к городским воротам.
+}
+MayorQuests_dialog_143 {
+Дьявол, недооценил я тебя сразу\nНу что, продолжим, пожалуй?..
+}
+MayorQuests_dialog_144 {
+Продолжим, приятель!
+}
+MayorQuests_dialog_145 {
+Хех, понятно... Ну, я уж постараюсь не доставить ему такого удовольствия!
+}
+MayorQuests_dialog_146 {
+Постарайся...
+}
+MayorQuests_dialog_147_m {
+Рад видеть тебя на моём корабле, приятель. Зачем пожаловал?
+}
+MayorQuests_dialog_147_f {
+Рад видеть тебя на моём корабле, подруга. Зачем пожаловала?
+}
+MayorQuests_dialog_148 {
+Я действую по поручению губернатора @<XI_ConvertString>, разыскиваю пирата, орудующего в здешних водах в последнее время.
+}
+MayorQuests_dialog_149 {
+Не могу сказать, что это достойное занятие для капитана...
+}
+MayorQuests_dialog_150 {
+Что это значит?!
+}
+MayorQuests_dialog_151 {
+Ровно то, что я сейчас тебе говорю. Ловить свободных корсаров, чтобы потом местный губернатор увешал нашими трупами окрестности города - занятие, недостойное капитана корабля.
+}
+MayorQuests_dialog_152 {
+Так вы и есть те самые пираты...
+}
+MayorQuests_dialog_153_m {
+Именно так, губернаторская шестёрка\nДа уж, положеньице у тебя незавидное - один, на моём корабле...
+}
+MayorQuests_dialog_153_f {
+Именно так, губернаторская шестёрка\nДа уж, положеньице у тебя незавидное - одна, на моём корабле...
+}
+MayorQuests_dialog_154 {
+Ну, и что ты собираешься делать дальше?
+}
+MayorQuests_dialog_155 {
+Хм, дальше... Я слишком близко подошёл к форту, поэтому не буду рисковать и придержу тебя на время здесь. Своим ты скажешь, что пойдёшь на моём корабле до места, под названием @<sTemp>, а они пусть ждут тебя в @<XI_ConvertString>. В этом случае я оставлю тебе жизнь. Иначе тебе вспорят брюхо прямо здесь, на палубе\nКак перспективы на будущее?
+}
+MayorQuests_dialog_156 {
+Не скажу, что заманчивые. Откуда мне знать, что ты сдержишь слово, когда форт тебя не достанет?
+}
+MayorQuests_dialog_157_m {
+Пожалуй, я отпущу тебя, губернаторский пёс. Заплатишь за моё великодушие своей наличностью\nВ общем, проваливай, пока я добрый...
+}
+MayorQuests_dialog_157_f {
+Пожалуй, я отпущу тебя, губернаторская шавка. Заплатишь за моё великодушие своей наличностью\nВ общем, проваливай, пока я добрый...
+}
+MayorQuests_dialog_158 {
+Спасибо и на этом. Прощай...
+}
+MayorQuests_dialog_159 {
+Знаешь что, я, пожалуй, перережу тебе глотку, пока вся твоя команда не сбежалась...
+}
+MayorQuests_dialog_160 {
+А дальше ты скажешь своим, что пойдёшь на моём корабле до места, под названием @<sTemp>, а они пусть ждут тебя в @<XI_ConvertString>. В этом случае я оставлю тебе жизнь. Иначе тебе вспорят брюхо прямо здесь, на палубе\nКак перспективы на будущее?
+}
+MayorQuests_dialog_161_m {
+Не скажу, что заманчивые. Откуда мне знать, что ты сдержишь слово, когда я буду совсем один?
+}
+MayorQuests_dialog_161_f {
+Не скажу, что заманчивые. Откуда мне знать, что ты сдержишь слово, когда я буду совсем одна?
+}
+MayorQuests_dialog_162 {
+Хех, знать ты не можешь, но у тебя будет моё слово. А так тебя ждёт смерть прямо сейчас. Мне кажется, выбор очевиден...
+}
+MayorQuests_dialog_163_m {
+Хм, ну что же, я согласен. Надеюсь, ты сдержись слово...
+}
+MayorQuests_dialog_163_f {
+Хм, ну что же, я согласна. Надеюсь, ты сдержись слово...
+}
+MayorQuests_dialog_164 {
+По мне, так оно и есть. И выбор этот - дать бой, здесь и прямо сейчас. К оружию, мерзавцы!
+}
+MayorQuests_dialog_165 {
+Сдержу, не бойся.
+}
+MayorQuests_dialog_166_m {
+Тогда я готов. За дело.
+}
+MayorQuests_dialog_166_f {
+Тогда я готова. За дело.
+}
+MayorQuests_dialog_167 {
+Ещё раз увижу тебя - будешь болтаться на рее, имей в виду...
+}
+MayorQuests_dialog_168 {
+Понятно...
+}
+MayorQuests_dialog_169 {
+Ты ещё здесь? Я бы на твоём месте не стал здесь задерживаться...
+}
+MayorQuests_dialog_170 {
+Ухожу.
+}
+MayorQuests_dialog_171_m {
+Надо же, какой храбрец! Ценю смелость, жаль будет тебя убивать\nЭй, на палубе, валите этого выскочку аккуратно, я пока подготовлю корабль к бою. Только без лишнего шума!
+}
+MayorQuests_dialog_171_f {
+Надо же, какая отважная девка! Ценю смелость, жаль будет тебя убивать\nЭй, на палубе, валите эту выскочку аккуратно, я пока подготовлю корабль к бою. Только без лишнего шума!
+}
+MayorQuests_dialog_172 {
+Жаль, что ты нас покидаешь...
+}

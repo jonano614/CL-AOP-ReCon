@@ -1,0 +1,483 @@
+Common_Shipyard_1 {
+La ciudad está en máxima alerta, te buscan por todas partes. Si fuera tú, no me quedaría aquí.
+}
+Common_Shipyard_2 {
+Toda la guardia de la ciudad está registrando el pueblo buscándote. No soy tonto, ¡y no voy a hablar contigo!
+}
+Common_Shipyard_3_m {
+Corre, amigo, antes de que los soldados te llenen de agujeros...
+}
+Common_Shipyard_3_f {
+Corre, muchacha, antes de que los soldados te llenen de agujeros...
+}
+Common_Shipyard_4 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_5_m {
+¿Qué quieres, canalla? ¡La guardia de la ciudad ya te sigue el rastro—no llegarás lejos, sucio pirata!
+}
+Common_Shipyard_5_f {
+¿Qué quieres, desgraciado? ¡La guardia de la ciudad ya te está buscando, no llegarás lejos!
+}
+Common_Shipyard_6_m {
+¡Asesino despreciable, sal de mi casa! ¡Guardias!
+}
+Common_Shipyard_6_f {
+¡Asesino despreciable, sal de mi casa! ¡Guardias!
+}
+Common_Shipyard_7_m {
+¡No te tengo miedo, canalla! Pronto estarás colgando de la horca en nuestro fuerte… no llegarás muy lejos.
+}
+Common_Shipyard_7_f {
+¡No te tengo miedo, bruja! Pronto estarás colgando de la horca en nuestro fuerte—no llegarás muy lejos...
+}
+Common_Shipyard_8 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_9 {
+Je, las alarmas no me molestan...
+}
+Common_Shipyard_10 {
+Nunca me atraparán.
+}
+Common_Shipyard_11 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_12 {
+¡Cierra la boca, @<GetWorkTypeOfMan>, o te arranco esa lengua sucia!
+}
+Common_Shipyard_13 {
+Je, @<GetWorkTypeOfMan>, ¿sigues persiguiendo piratas, eh? Te diré algo, amigo: mantén la cabeza baja y sobrevivirás...
+}
+Common_Shipyard_14 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_15 {
+¿Crees que voy a hablar contigo después de lo que has hecho?
+}
+Common_Shipyard_16 {
+La verdad, me da igual. Adiós.
+}
+Common_Shipyard_17 {
+¡Hola, Doctor Blood! @<TimeGreeting>.
+}
+Common_Shipyard_18 {
+Me alegra verte, Peter Blood.
+}
+Common_Shipyard_19 {
+Me alegra que hayas pasado, @<GetFullName>. ¿Cómo está el coronel Bishop?
+}
+Common_Shipyard_20 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_21 {
+Lamentablemente, ya estoy de salida, @<NPChar>. Hasta que nos volvamos a ver.
+}
+Common_Shipyard_22 {
+@<TimeGreeting>! Soy @<GetFullName>, el dueño de este astillero.
+}
+Common_Shipyard_23_m {
+Encantado de conocerte. Soy el capitán @<GetFullName>.
+}
+Common_Shipyard_23_f {
+Encantado de conocerte. Soy el capitán @<GetFullName>.
+}
+Common_Shipyard_24 {
+Escucha, tengo un asunto importante que discutir contigo. Espero que puedas ayudarme...
+}
+Common_Shipyard_25 {
+Escuchemos de qué se trata esto.
+}
+Common_Shipyard_26 {
+¿Ah, otra vez tú? Bueno, el dinero no huele.
+}
+Common_Shipyard_27 {
+@<TimeGreeting>, ¿en qué puedo ayudarle, @<GetAddress_Form>?
+}
+Common_Shipyard_28 {
+Exactamente, yo pago — tú haces el trabajo.
+}
+Common_Shipyard_29 {
+Necesitamos usar los servicios del astillero.
+}
+Common_Shipyard_30 {
+Necesito cañones para el barco.
+}
+Common_Shipyard_31 {
+Quiero cambiar la apariencia del barco.
+}
+Common_Shipyard_32 {
+Solo quiero hablar.
+}
+Common_Shipyard_33_m {
+Me gustaría hablar contigo sobre algunos asuntos financieros.
+}
+Common_Shipyard_33_f {
+Me gustaría hablar de asuntos financieros contigo.
+}
+Common_Shipyard_34 {
+Estoy aquí en nombre de alguien. Su nombre es el gobernador @<GetFullName>.
+}
+Common_Shipyard_35_m {
+@<GetFullName> me envió contigo. Vengo a recoger algo...
+}
+Common_Shipyard_35_f {
+@<GetFullName> me envió contigo. Vengo a recoger algo...
+}
+Common_Shipyard_36 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_37 {
+Escucha, tengo esto—una lata. Necesito que la abras con mucho cuidado. ¿Puedes hacerlo? Te pagaré.
+}
+Common_Shipyard_38_m {
+He completado tu encargo. El plano del astillero @<XI_ConvertString> está en mi poder.
+}
+Common_Shipyard_38_f {
+He cumplido con tu encargo. El plano del astillero @<XI_ConvertString> está en mis manos.
+}
+Common_Shipyard_39_m {
+Hola, he venido por invitación de su hijo.
+}
+Common_Shipyard_39_f {
+Hola, he venido por invitación de su hijo.
+}
+Common_Shipyard_40 {
+Estoy aquí por su hija...
+}
+Common_Shipyard_41 {
+Tengo que irme.
+}
+Common_Shipyard_42 {
+Muy bien, me alegra conocer a un nuevo cliente. Mi astillero está a su disposición.
+}
+Common_Shipyard_43 {
+Estupendo, @<GetFullName>. Veamos qué tienes para ofrecerme.
+}
+Common_Shipyard_44 {
+Necesito cañones para el barco.
+}
+Common_Shipyard_45 {
+Quiero cambiar la apariencia del barco.
+}
+Common_Shipyard_46 {
+Solo quiero hablar.
+}
+Common_Shipyard_47_m {
+Me gustaría hablar contigo sobre algunos asuntos financieros.
+}
+Common_Shipyard_47_f {
+Me gustaría hablar de asuntos financieros contigo.
+}
+Common_Shipyard_48 {
+Estoy aquí en nombre de alguien. Su nombre es Governor @<GetFullName>.
+}
+Common_Shipyard_49_m {
+@<GetFullName> me envió contigo. Vengo a recoger algo...
+}
+Common_Shipyard_49_f {
+@<GetFullName> me envió contigo. Vengo a recoger algo...
+}
+Common_Shipyard_50 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_51 {
+Escucha, tengo esto—una lata. Necesito que la abras con mucho cuidado. ¿Puedes hacerlo? Te pagaré.
+}
+Common_Shipyard_52_m {
+Hola, he venido por invitación de su hijo.
+}
+Common_Shipyard_52_f {
+Hola, he venido por invitación de su hijo.
+}
+Common_Shipyard_53 {
+Estoy aquí por su hija...
+}
+Common_Shipyard_54 {
+¿Qué me puedes decir sobre el dueño de estos documentos?
+}
+Common_Shipyard_55_m {
+Debo irme. Gracias.
+}
+Common_Shipyard_55_f {
+Debo irme. Gracias.
+}
+Common_Shipyard_56 {
+¡Déjame echar un vistazo! No, no he visto uno así. Creo que deberías hablar con el maestro del puerto.
+}
+Common_Shipyard_57 {
+No hay duda...
+}
+Common_Shipyard_58 {
+Déjeme echar un vistazo, capitán. ¡Ajá! Estos son los papeles del barco de un buen amigo mío—mi mejor cliente, podría decirse. Estoy seguro de que se alegrará mucho de recuperarlos, e incluso podría ofrecer una buena recompensa.
+}
+Common_Shipyard_59 {
+Creo que puedo ofrecerte @<FindMoneyString> en su nombre
+}
+Common_Shipyard_60 {
+Quizá sea mejor no hacerlo...
+}
+Common_Shipyard_61 {
+¡Gracias, @<GetFullName>! Saluda a tu amigo de mi parte.
+}
+Common_Shipyard_62 {
+Te escucho atentamente.
+}
+Common_Shipyard_63_m {
+He traído a tu fugitivo.
+}
+Common_Shipyard_63_f {
+He traído a tu fugitivo.
+}
+Common_Shipyard_64 {
+¡Ah, capitán, muchísimas gracias! ¿Cómo está ella? ¿Está bien, no le ha pasado nada? Ya ha pasado casi un día entero desde que se escapó, la muy traviesa. ¿Que si le deseo algún mal? Solo quería casarla... El pretendiente es rico, joven, y qué importa si no es muy agraciado—el aspecto no lo es todo. Pero no, ¡ella insiste en hacer lo que quiere! Igual que su madre, maldita sea.\nAunque, ni siquiera estaría aquí si su madre no se hubiera escapado una vez con algún bribón emprendedor... pero de nada sirve recordar... La juventud es ingenua, insensata... y cruel.
+}
+Common_Shipyard_65_m {
+Por supuesto, eres el padre y es tu decisión, pero yo no me apresuraría con la boda…
+}
+Common_Shipyard_65_f {
+Por supuesto, eres el padre y es tu decisión, pero yo no me apresuraría con la boda…
+}
+Common_Shipyard_66 {
+¿Qué sabes tú?.. ¿Tienes hijos propios? ¿No? Bueno, vuelve cuando los tengas, entonces hablaremos.\nSí... Prometí una recompensa a quien la trajera de vuelta—por favor, acéptala.
+}
+Common_Shipyard_67 {
+Gracias. Y no la sueltes. Algo me dice que no se detendrá ahí.
+}
+Common_Shipyard_68_m {
+Ah, así que usted es el capitán que trajo de regreso a mi hijo descarriado junto con su joven esposa.
+}
+Common_Shipyard_68_f {
+Ah, así que tú eres la joven que trajo de vuelta a mi hijo descarriado junto a su joven esposa.
+}
+Common_Shipyard_69_m {
+Sí, fui yo quien les ayudó a escapar.
+}
+Common_Shipyard_69_f {
+Sí, fui yo quien les ayudó a escapar.
+}
+Common_Shipyard_70_m {
+Ah, ahí estás, mi benefactor. ¿Esperas una recompensa?
+}
+Common_Shipyard_70_f {
+Ah, así que apareciste, benefactora. ¿Esperas una recompensa, verdad?
+}
+Common_Shipyard_71 {
+Bueno, no es precisamente una recompensa, pero una palabra de agradecimiento no estaría de más.
+}
+Common_Shipyard_72 {
+Le estoy sinceramente agradecido por no haber dejado a mi hijo en una situación difícil y por haberle ayudado a salir de un apuro tan delicado con honor. Permítame agradecerle de la mejor manera posible. Acepte esta suma modesta y un obsequio personal de mi parte.
+}
+Common_Shipyard_73 {
+Gracias, me alegró poder ayudar a esos jóvenes.
+}
+Common_Shipyard_74 {
+¿Gratitud? ¿Qué gratitud? ¿Por qué motivo? ¡Ese holgazán lleva medio año sin trabajar y ahora tiene tiempo para coquetear! A su edad, yo ya tenía mi propio negocio. Pero él, míralo, todo entusiasmado. La hija del gobernador está lista para casarse, y él trae a casa a una cualquiera sin nombre, que Dios me perdone, ¡y encima pide la bendición de sus padres!
+}
+Common_Shipyard_75 {
+¿Hmm, así que no crees en los sentimientos genuinos?
+}
+Common_Shipyard_76 {
+¿¡Qué sentimientos?! ¿De qué hablas, sentimientos? Eres una persona adulta, ¿no?, y aun así... ¡sentimientos! Debería darte vergüenza, animando a los jóvenes en esas cosas, haciendo de casamentera. Arrancaste a la chica de su hogar y arruinaste la vida de mi hijo. No esperes ningún agradecimiento de mi parte. Adiós.
+}
+Common_Shipyard_77 {
+Bueno, cuídate...
+}
+Common_Shipyard_78 {
+¿Me estás tomando el pelo? ¿Dónde está tu barco, entonces? ¡No está en el muelle!
+}
+Common_Shipyard_79 {
+¡Que me lleve el diablo, no me engañas! ¡Tu barco no está en el muelle!
+}
+Common_Shipyard_80 {
+No veo su barco en el puerto, capitán @<GetFullName>. Y todos los cañones invisibles ya están agotados—vuelva mañana.
+}
+Common_Shipyard_81 {
+Capitán, podríamos simplemente tirar los nuevos cañones al mar desde el muelle, pero sería mejor que atracara su barco y viniera.
+}
+Common_Shipyard_82 {
+@<RandSwear> ¡Qué fastidio! Está bien, viejo zorro, nos volveremos a ver.
+}
+Common_Shipyard_83_m {
+No quise engañarte, @<GetFullName>. Atracaré en el puerto ahora.
+}
+Common_Shipyard_83_f {
+No quise engañarte, @<GetFullName>. Atracaré en el puerto ahora.
+}
+Common_Shipyard_84 {
+Bueno, seguro que volveré.
+}
+Common_Shipyard_85 {
+Gracias por el consejo, lo tendré en cuenta.
+}
+Common_Shipyard_86 {
+Perfecto. Haremos todo de la mejor manera posible.
+}
+Common_Shipyard_87_m {
+He cambiado de opinión.
+}
+Common_Shipyard_87_f {
+He cambiado de opinión.
+}
+Common_Shipyard_88 {
+¿Me estás engañando? ¿Dónde está tu barco, entonces? ¡No está en el muelle!
+}
+Common_Shipyard_89 {
+¡Que me lleve el diablo, no me engañas! ¡Tu barco no está en el muelle!
+}
+Common_Shipyard_90 {
+@<RandSwear> ¡Qué fastidio! Está bien, viejo zorro, nos volveremos a ver.
+}
+Common_Shipyard_91_m {
+No quise engañarte, @<GetFullName>. El barco está al otro lado de la isla.
+}
+Common_Shipyard_91_f {
+No quise engañarte, @<GetFullName>. El barco está al otro lado de la isla.
+}
+Common_Shipyard_92 {
+Necesito conseguir un plano importante. Un plano muy importante...
+}
+Common_Shipyard_93 {
+Hmm. ¿Qué tipo de plano es ese y dónde lo consigo?
+}
+Common_Shipyard_94 {
+de la corbeta
+}
+Common_Shipyard_95 {
+fluyt
+}
+Common_Shipyard_96 {
+de la fragata
+}
+Common_Shipyard_97 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_98 {
+He sabido que están construyendo un @<pchar> completamente nuevo en el astillero de @<XI_ConvertString>. Necesito los planos que están usando para la construcción.
+}
+Common_Shipyard_99_m {
+¿Y qué se supone que debo hacer?
+}
+Common_Shipyard_99_f {
+¿Y qué se supone que debo hacer?
+}
+Common_Shipyard_100 {
+Tráemelo. El problema es que el plano es tan valioso que el dueño del astillero lo mantiene siempre a la vista. Para ser exactos, justo sobre su escritorio.
+}
+Common_Shipyard_101 {
+¿Y qué sugieres?
+}
+Common_Shipyard_102 {
+Hmm, te sugiero que me entregues el plano. Cómo lo hagas es asunto tuyo. Estoy dispuesto a pagar bien por este trabajo, aunque mucho dependerá del valor real de la información que contenga el plano.
+}
+Common_Shipyard_103 {
+¿A qué te refieres con eso?
+}
+Common_Shipyard_104 {
+Si el proyecto implica soluciones tecnológicas nuevas con las que no estoy familiarizado, la tarifa será bastante elevada. De lo contrario, mi pago no será alto... Entonces, ¿estás dispuesto a aceptar este trabajo?
+}
+Common_Shipyard_105 {
+No, no me interesa. Entregar algo a ciegas no me parece un trabajo gratificante.
+}
+Common_Shipyard_106 {
+Creo que debería encargarme de esto. ¡Yo me ocupo!
+}
+Common_Shipyard_107 {
+Hmm, bueno, qué lástima.
+}
+Common_Shipyard_108 {
+Yo también...
+}
+Common_Shipyard_109 {
+Bien, entonces. Buena suerte. Estaré esperando tus resultados. No hay plazo límite.
+}
+Common_Shipyard_110 {
+Ya veo...
+}
+Common_Shipyard_111_m {
+¡Ah, canalla! ¿Qué crees que estás haciendo? Ahora sí que te las verás con nosotros—vamos a darte una lección. Vamos, muchachos, ¡agarren sus hachas!
+}
+Common_Shipyard_111_f {
+¡Ah, pequeño bribón! ¿Qué crees que estás haciendo? Ya verás, te va a tocar lo que mereces. Muy bien, muchachos, ¡agarren sus hachas!
+}
+Common_Shipyard_112 {
+¿Hachas?..
+}
+Common_Shipyard_113_m {
+¿Crees que puedes amenazarme? ¡Muy bien, muchachos, agarren sus hachas!
+}
+Common_Shipyard_113_f {
+¿Crees que puedes amenazarme? ¡Muy bien, muchachos, agarren sus hachas!
+}
+Common_Shipyard_114 {
+¿Hachas?..
+}
+Common_Shipyard_115 {
+¡Excelente! Bien, veamos de qué se trata este tan elogiado @<strcut>...
+}
+Common_Shipyard_116 {
+Mira.
+}
+Common_Shipyard_117 {
+Vaya, vaya... Hmm, me temo que voy a decepcionarte. No veo nada aquí que me sirva. Parece que has traído las cosas equivocadas.
+}
+Common_Shipyard_118_m {
+Usted pidió lo que estaba sobre la mesa. Eso es exactamente lo que le traje. ¡No sé nada de esos planos!
+}
+Common_Shipyard_118_f {
+Usted pidió lo que estaba sobre la mesa. Eso es exactamente lo que le traje. ¡No sé nada sobre esos planos!
+}
+Common_Shipyard_119 {
+Sí, este plano tiene cierto valor. Estoy dispuesto a pagarte @<FindMoneyString> por él. El pago será en pepitas de plata. ¿Te parece bien?
+}
+Common_Shipyard_120 {
+¡No, por supuesto que no! ¡Maravilloso!
+}
+Common_Shipyard_121 {
+Sí, este plano tiene cierto valor. Estoy dispuesto a pagarte @<FindMoneyString> por él. Te pagaré en pepitas de oro. ¿Te parece bien?
+}
+Common_Shipyard_122 {
+¡No, por supuesto que no! ¡Maravilloso!
+}
+Common_Shipyard_123 {
+Sí, este plano tiene cierto valor. Estoy dispuesto a pagarte @<FindMoneyString> por él.
+}
+Common_Shipyard_124 {
+¡Excelente!
+}
+Common_Shipyard_125 {
+Sí, este plano es bastante valioso. Estoy dispuesto a pagarte @<FindMoneyString> por él.
+}
+Common_Shipyard_126 {
+¡Excelente!
+}
+Common_Shipyard_127 {
+¡Oh! ¡Este es un plano muy, muy valioso! Estoy dispuesto a pagarte 60,000 piastras por él. Te pagaré en cofres de crédito. ¿Te parece bien?
+}
+Common_Shipyard_128 {
+¡No, por supuesto que no! ¡Maravilloso!
+}
+Common_Shipyard_129 {
+Lamentablemente, no puedo pagarte nada por esto. Lo siento, pero no tengo utilidad para este papel.
+}
+Common_Shipyard_130 {
+Hmm, no creo que lo que hiciste fuera justo, pero no voy a armar un escándalo.
+}
+Common_Shipyard_131 {
+¡Entrégame mi dinero! ¡O haré correr sangre!
+}
+Common_Shipyard_132 {
+No me malinterpretes, podrías haber conseguido esto en cualquier chatarrería. Este plano no vale nada.
+}
+Common_Shipyard_133_m {
+Te entiendo...
+}
+Common_Shipyard_133_f {
+Te entiendo...
+}
+Common_Shipyard_134 {
+Aquí tienes. Gracias por tu trabajo.
+}
+Common_Shipyard_135 {
+No le des importancia...
+}

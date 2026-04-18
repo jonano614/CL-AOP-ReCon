@@ -1,0 +1,939 @@
+eng_Governor_1 {
+What questions?
+}
+eng_Governor_2 {
+What do you want?
+}
+eng_Governor_3 {
+@<RandPhraseSimple>
+}
+eng_Governor_4_m {
+I've changed my mind...
+}
+eng_Governor_4_f {
+I've changed my mind...
+}
+eng_Governor_5 {
+I have nothing to say right now.
+}
+eng_Governor_6 {
+@<RandPhraseSimple>
+}
+eng_Governor_7 {
+Unfortunately, I can't offer you any work. You're not the kind of person I'd trust with my business. Goodbye.
+}
+eng_Governor_8 {
+Well, would you look at that...
+}
+eng_Governor_9 {
+You are an English privateer and must keep your word to me! I urge you to carry out the task assigned to you at once!
+}
+eng_Governor_10 {
+Until you complete my task, I have nothing to discuss with you.
+}
+eng_Governor_11 {
+I’m waiting for your report on the completion of your important assignment, not idle chatter!
+}
+eng_Governor_12 {
+@<LinkRandPhrase>
+}
+eng_Governor_13 {
+I'll get to it right away.
+}
+eng_Governor_14 {
+I'm already on it...
+}
+eng_Governor_15 {
+@<RandPhraseSimple>
+}
+eng_Governor_16 {
+I don't have any special tasks for you right now. Drop by from time to time.
+}
+eng_Governor_17 {
+Not now, I'm too busy!
+}
+eng_Governor_18 {
+Your agility and courage aren’t needed here for now—stick to your privateering business.
+}
+eng_Governor_19 {
+@<LinkRandPhrase>
+}
+eng_Governor_20 {
+Aye, sir.
+}
+eng_Governor_21 {
+I have a task for you.
+}
+eng_Governor_22_m {
+I'm ready, sir.
+}
+eng_Governor_22_f {
+I'm ready, sir.
+}
+eng_Governor_23 {
+Come see me in two days, I’ve got a job brewing for you.
+}
+eng_Governor_24 {
+Aye, sir.
+}
+eng_Governor_25 {
+I have a job for you—a reconnaissance mission. I need to know what the Dutch are planning in response to the trade war. Sneak into Curaçao and try to gather as much information as you can about what's happening there. I'm interested in everything going on in the city, down to the smallest details.
+}
+eng_Governor_26_m {
+I'm ready, sir.
+}
+eng_Governor_26_f {
+I'm ready, sir.
+}
+eng_Governor_27 {
+Ah, there you are. I’ve been expecting you.
+}
+eng_Governor_28 {
+At your service.
+}
+eng_Governor_29 {
+Captain of the privateer frigate, Morris Williams, is requesting my permission to anchor at Port Royal.
+}
+eng_Governor_30 {
+I know Captain Williams.
+}
+eng_Governor_31 {
+With great regret, I must inform you that the British government's order to return the cargo seized by Morris Williams to its Spanish owner has led to dire consequences for Jamaica.
+}
+eng_Governor_32 {
+Hmm... I don’t quite understand, sir...
+}
+eng_Governor_33 {
+I need your help again, @<GetFullName>. I need to send a trustworthy person to the head of the buccaneer settlement in La Vega, on Hispaniola. You know Edward Mansfield, don’t you? You’ve already visited him on my behalf. Remember?
+}
+eng_Governor_34_m {
+I remember, sir. I tried to persuade him to organize a raid on Curaçao.
+}
+eng_Governor_34_f {
+I remember, sir. I tried to persuade him to organize a raid on Curaçao.
+}
+eng_Governor_35 {
+Are you ready to take on a serious mission to storm a Spanish city?
+}
+eng_Governor_36_m {
+Yes, I'm well prepared.
+}
+eng_Governor_36_f {
+Yes, I’m well prepared.
+}
+eng_Governor_37 {
+No, sir. I don't have enough ships for such a serious undertaking. I'll make proper preparations and return later.
+}
+eng_Governor_38 {
+The Spanish government has sent a squadron of seven ships of the line against the Jamaican privateers, under the command of Admirals de Bustos and del Campo y Espinosa. They’ve already reached Jamaica. The timing couldn’t be better—you saw for yourself that, aside from you, there are no other privateers at Port Royal; everyone else is off with Morgan on another raid against the Spanish. You must repel the attack. The escort ships are now under your command—that’s all the help I can offer. Go, and may the Lord help us!
+}
+eng_Governor_39 {
+Aye, sir. I reckon we’ll hold them off.
+}
+eng_Governor_40 {
+You’ve come at just the right moment! I have a most important task for you.
+}
+eng_Governor_41 {
+At your service, sir.
+}
+eng_Governor_42 {
+Good to see you here, @<GetFullName>! I have a rather unusual task for you...
+}
+eng_Governor_43 {
+I'm listening closely.
+}
+eng_Governor_44 {
+Very glad to have you here. And you’ve come at just the right time, sir.
+}
+eng_Governor_45 {
+Sir?
+}
+eng_Governor_46 {
+I have a very important task for you. You're new around here, and I'm not sure I can trust you, but it seems I have no other choice.
+}
+eng_Governor_47_m {
+I’ll be glad to carry out your request.
+}
+eng_Governor_47_f {
+I’ll be glad to carry out your request.
+}
+eng_Governor_48 {
+Sorry, but I’m dealing with something else right now.
+}
+eng_Governor_49 {
+In the letter you delivered, the Duke of Albemarle speaks very highly of you. The Duke is my relative; it is thanks to him that I was appointed to this position. Had it not been for his active and timely actions in England, who knows how my governorship in Barbados would have ended.\nYou have accomplished the task brilliantly. The promised reward is 50,000. You have earned both this money and my gratitude.\nA recommendation from the Duke of Albemarle is the best guarantee I could ask for. If you are willing to continue working with England, please visit me from time to time.
+}
+eng_Governor_50 {
+Thank you, sir. You can count on me from now on.
+}
+eng_Governor_51_m {
+Have you heard? Our governor-general praised Captain @<GetMainCharacterNameGen> highly. They say he managed to secretly smuggle the governor’s London uncle and patron off the island—the English peer, Duke Albemarle. You don’t know who Albemarle is?! Let me tell you a secret: it’s only thanks to him that Sir Thomas Modyford serves as governor of Jamaica. Otherwise, he’d be in real trouble...
+}
+eng_Governor_51_f {
+Have you heard? Our governor-general praised Captain @<GetMainCharacterNameGen> highly. She supposedly managed to secretly smuggle his London uncle and patron—the English peer, Duke of Albemarle—off the island. You don’t know who Albemarle is?! Let me tell you a secret: it’s only thanks to him that Sir Thomas Modyford serves as governor of Jamaica. Otherwise, he’d be in real trouble...
+}
+eng_Governor_52 {
+Well, in the letter you delivered, Albemarle informs me of his safe arrival in St. John's. You repelled the attack by the Spanish brig, but you failed to bring the Duke to his destination on time. Your reward is 20,000. I can't say I'm entirely satisfied with you.
+}
+eng_Governor_53 {
+Sir, please forgive my tardiness, but I was delayed by circumstances beyond my control. I hope I can still count on receiving special assignments in the future?
+}
+eng_Governor_54 {
+Have you secured the pirates’ support? When is Mansfield planning to make his move?
+}
+eng_Governor_55 {
+Sir, unfortunately, I was unable to come to terms with any of the pirates you mentioned. Everywhere I went, I was refused when I proposed the attack on Curaçao. The reasons the corsairs declined to carry out the assault vary.
+}
+eng_Governor_56 {
+Report what you've learned.
+}
+eng_Governor_57_m {
+Unfortunately, I wasn’t able to capture the ship where I was supposed to find the necessary papers. I couldn’t learn anything useful.
+}
+eng_Governor_57_f {
+Unfortunately, I failed to capture the ship where I was supposed to find the necessary papers. I couldn’t learn anything useful.
+}
+eng_Governor_58 {
+Report what you’ve found out.
+}
+eng_Governor_59 {
+Here’s the document that was found on the captured Dutch ship. It’s an order to the commander of Fort Orange to urgently reinforce the town.
+}
+eng_Governor_60 {
+Report what you've learned.
+}
+eng_Governor_61_m {
+I got word about a Dutch courier ship. I managed to board her, but found no documents on board.
+}
+eng_Governor_61_f {
+I received information about a Dutch courier ship. I managed to board the vessel, but I didn’t find any documents there.
+}
+eng_Governor_62 {
+Report what you've learned.
+}
+eng_Governor_63_m {
+Unfortunately, I was captured and thrown into prison. I managed to escape, but I didn’t learn anything.
+}
+eng_Governor_63_f {
+Unfortunately, I was captured and thrown in prison. I managed to escape, but I didn’t learn anything.
+}
+eng_Governor_64 {
+Report what you've learned.
+}
+eng_Governor_65_m {
+Unfortunately, I was exposed while carrying out the mission. There was a fight, and I barely escaped the city. Now, there's no way I can show up on Curaçao. I wasn't able to find out anything of interest for you.
+}
+eng_Governor_65_f {
+Unfortunately, I was exposed while carrying out the mission. There was a fight, and I barely escaped the city. Now, there's no way I can show up on Curaçao. I wasn't able to find out anything of interest for you.
+}
+eng_Governor_66_m {
+You're covered in blood.
+}
+eng_Governor_66_f {
+You’re covered in blood.
+}
+eng_Governor_67 {
+That’s Dutch blood... We did it, Fort Orange has been plundered. My crew made quite a haul. The job’s done.
+}
+eng_Governor_68 {
+So, what do you say, @<GetFullName>?
+}
+eng_Governor_69 {
+Sir, your orders have been carried out—Morris Williams is entering the port.
+}
+eng_Governor_70 {
+Ah, here you are again, @<GetFullName>. I'm listening.
+}
+eng_Governor_71 {
+Damn it! What's going on?
+}
+eng_Governor_72 {
+Ah, here you are again, @<GetFullName>. What brings you to me this time?
+}
+eng_Governor_73 {
+Sir, I need to speak with you.
+}
+eng_Governor_74 {
+Ah, have you already managed to spend the five thousand reward and now you need a job?
+}
+eng_Governor_75_m {
+No, I just dropped by for a casual chat.
+}
+eng_Governor_75_f {
+No, I just came to chat about something unrelated.
+}
+eng_Governor_76 {
+I have nothing more to say to you. Politics decides the fate of nations—there’s no point worrying about the fate of individual privateers...
+}
+eng_Governor_77 {
+I'm very sorry, sir.
+}
+eng_Governor_78 {
+So, @<GetFullName>, have you calmed down about Williams yet? My advice—let it go, the poor fellow just got unlucky. That’s life for you; someone’s got to lose...
+}
+eng_Governor_79 {
+Sir, I greatly appreciate your kind advice. I’ll do my best to follow it...
+}
+eng_Governor_80 {
+I heard you boarded a Spanish pinnace right by San Juan, under the fort’s guns?! I must say, that was a risky move...
+}
+eng_Governor_81 {
+All's well that ends well, sir...
+}
+eng_Governor_82 {
+I heard you boarded a Spanish pinnace right off San Juan?! Tell me, was the risk worth it?
+}
+eng_Governor_83 {
+No, sir. Nothing worthwhile in the holds...
+}
+eng_Governor_84 {
+I heard you sank a Spanish pinnace right near San Juan. Why would you sail straight into the fort’s guns?
+}
+eng_Governor_85 {
+It happened that way, sir...
+}
+eng_Governor_86 {
+The port master reported that you went chasing after the Spanish pinnace. Tell me, my friend, did it go well? (mockingly)
+}
+eng_Governor_87_m {
+No, sir. Tried in vain...
+}
+eng_Governor_87_f {
+No, sir. I tried in vain...
+}
+eng_Governor_88 {
+Did you find the gold?
+}
+eng_Governor_89 {
+Not yet, but I’m searching tirelessly. It’s no easy task...
+}
+eng_Governor_90 {
+Got something.
+}
+eng_Governor_91 {
+You know, Governor-General, I’m sick to death of this. I no longer wish to roam the Caribbean hunting for gold for you.
+}
+eng_Governor_92 {
+Did you bring the gold from Mansfield?
+}
+eng_Governor_93 {
+Sir, the buccaneer settlement has been attacked by the Spanish. Mansfield is dead, the gold has been stolen. The admiral of the Spanish squadron appears to have been Manuel Rivero Pardal.
+}
+eng_Governor_94 {
+Did you bring the gold from Mansfield?
+}
+eng_Governor_95_m {
+Sir, La Vega was attacked by the Spanish. Mansfield is dead, the gold has been stolen. The admiral of the Spanish squadron was Manoel Rivero Pardal. Sir, I checked everything all the way to Santiago, but I didn’t encounter the Spanish attackers.
+}
+eng_Governor_95_f {
+Sir, La Vega was attacked by the Spanish. Mansfield is dead, the gold has been stolen. The admiral of the Spanish squadron was Manoel Rivero Pardal. Sir, I checked all the way to Santiago, but I didn’t encounter the Spanish attackers.
+}
+eng_Governor_96 {
+Did you manage to catch up with the Spaniards?
+}
+eng_Governor_97_m {
+No, sir. I wasn’t able to. I searched all the way to Santiago, but didn’t come across any galleons.
+}
+eng_Governor_97_f {
+No, sir. I wasn’t able to. I searched all the way to Santiago, but didn’t come across any galleons.
+}
+eng_Governor_98 {
+Did you bring the gold from Mansfield?
+}
+eng_Governor_99_m {
+Sir, La Vega was attacked by the Spanish. Mansfield is dead, the gold has been stolen. The admiral of the Spanish squadron was Manoel Rivero Pardal. I managed to catch up with one of the three attacking galleons and board her. There was no gold aboard, but in the captain’s cabin I found a letter from Pardal to Governor Santiago Jimenez. Here it is.
+}
+eng_Governor_99_f {
+Sir, La Vega was attacked by the Spanish. Mansfield has been killed, the gold stolen. The admiral of the Spanish squadron was Manoel Rivero Pardal. I managed to catch up with one of the three attacking galleons and board her. There was no gold aboard, but in the captain’s cabin I found a letter from Pardal to Governor Santiago Jimenez. Here it is.
+}
+eng_Governor_100 {
+Did you manage to catch up with the Spaniards?
+}
+eng_Governor_101_m {
+Near Santiago, I managed to board a Spanish galleon—one of those that took part in the attack on the buccaneers. There was no gold, but in the captain’s cabin, I found a letter from Pardal to Governor Jiménez of Santiago. Here it is.
+}
+eng_Governor_101_f {
+Near Santiago, I managed to board a Spanish galleon—one of those that took part in the attack on the buccaneers. There was no gold, but in the captain’s cabin we found a letter from Pardal to Governor Jiménez of Santiago. Here it is.
+}
+eng_Governor_102 {
+Did you bring the gold from Mansfield?
+}
+eng_Governor_103 {
+Sir, La Vega was attacked by the Spanish. Mansfield was killed, the gold stolen. The admiral of the Spanish squadron was Manoel Rivero Pardal. I managed to catch up with one of the three attacking galleons and board her. There was no gold aboard. Apparently, it was on another ship. I do not know where the other two galleons went.
+}
+eng_Governor_104 {
+Did you manage to catch up with the Spaniards?
+}
+eng_Governor_105_m {
+Near Santiago, I managed to board a Spanish galleon—one of those that took part in the attack on the buccaneers. There was no gold aboard. Apparently, it was on another ship. I have no idea where the other two galleons went.
+}
+eng_Governor_105_f {
+Near Santiago, I managed to board a Spanish galleon—one of those that took part in the attack on the buccaneers. There was no gold aboard. Apparently, it was on another ship. I have no idea where the other two galleons went.
+}
+eng_Governor_106 {
+Did you bring the gold from Mansfield?
+}
+eng_Governor_107 {
+Sir, La Vega was attacked by the Spanish. Mansfield has been killed, the gold stolen. The admiral of the Spanish squadron was Manoel Rivero Pardal. I managed to catch up with one of the three attacking galleons and sink it. I do not know where the other two galleons went.
+}
+eng_Governor_108 {
+Did you manage to catch up with the Spaniards?
+}
+eng_Governor_109_m {
+Near Santiago, I managed to board a Spanish galleon—one of those that took part in the attack on the buccaneers. I caught up with one of the three attacking galleons and sank it. Where the other two galleons went, I do not know.
+}
+eng_Governor_109_f {
+Near Santiago, I managed to board a Spanish galleon—one of those that took part in the attack on the buccaneers. I caught up with one of the three attacking galleons and sank it. Where the other two galleons went, I do not know.
+}
+eng_Governor_110 {
+Did you bring the gold from Mansfield?
+}
+eng_Governor_111_m {
+Sir, when I arrived in La Vega, it was deserted! Not a living soul in sight. I searched the surroundings, but found nothing.
+}
+eng_Governor_111_f {
+Sir, when I arrived in La Vega, it was deserted! Not a single living soul. I searched the surroundings, but found nothing.
+}
+eng_Governor_112 {
+I already know of your exploits. That’s a brilliant victory, @<GetFullName>!
+}
+eng_Governor_113 {
+Thank you, sir. I believe you'll be pleased to know that the governor of Santiago is my prisoner and currently aboard my ship.
+}
+eng_Governor_114 {
+Damn it, you literally saved us all! The city of Port Royal owes you its life!
+}
+eng_Governor_115_m {
+Yeah, the Spaniards have mustered forces I couldn't have even imagined...
+}
+eng_Governor_115_f {
+Well, the Spanish have mustered forces I never even suspected existed...
+}
+eng_Governor_116 {
+You haven’t taken either Cumana or Caracas yet. The entire Main coast is still under Spanish control...
+}
+eng_Governor_117 {
+Sir, I’m on it. The task isn’t easy and requires thorough preparation. The attack will be carried out once we’re ready.
+}
+eng_Governor_118 {
+You’ve captured Caracas! That’s splendid, @<GetFullName>. But Cumaná is still unconquered. Hurry!
+}
+eng_Governor_119 {
+Aye, sir.
+}
+eng_Governor_120 {
+Cumana belongs to England now, and that's thanks to you! Excellent work, @<GetFullName>! But I also expect you to take Caracas—it must be captured as well!
+}
+eng_Governor_121 {
+I'll take care of it, sir.
+}
+eng_Governor_122 {
+Cumana and Caracas have been captured! Now this stretch of the Main belongs to England!
+}
+eng_Governor_123 {
+Aye, sir. We did it.
+}
+eng_Governor_124 {
+Tell me, what did you find out? What's happening in Saint John's?
+}
+eng_Governor_125_m {
+Sir, at the governor’s residence in St. John’s, I met Colonel Thomas Lynch.
+}
+eng_Governor_125_f {
+Sir, at the governor’s residence in St. John’s, I met Colonel Thomas Lynch.
+}
+eng_Governor_126 {
+You’ve completed the task: Mediford has been arrested and placed in prison. A thorough investigation into his actions as Governor-General of Jamaica is now underway. I would very much like to see you in about a month.
+}
+eng_Governor_127 {
+Aye, sir.
+}
+eng_Governor_128 {
+I don't deal with people who break their word. I have nothing more to say to you.
+}
+eng_Governor_129 {
+@<UpperFirst>, I trust your judgment regarding the situation in the Caribbean. That’s why you are granted full freedom of action in England’s interests.
+}
+eng_Governor_130_m {
+Understood, sir. Thank you for your trust.
+}
+eng_Governor_130_f {
+I understand, sir. Thank you for your trust.
+}
+eng_Governor_131 {
+My close relative, the Duke of Albemarle, is currently staying with me. His mission here is complete, and I must urgently send him back to Britain. A frigate of the Royal Navy is waiting for the Duke on the island of Antigua, in St. John’s. Escort the Duke to St. John’s, to the governor’s residence.\nSet out immediately and be careful—two Spanish spies have already been caught in Port Royal, and I am absolutely certain there are still agents in the city. I have to assume that the Spanish know about the presence of such a high-ranking English figure here. In addition, I’ve received reports of unusual activity by Spanish warships around Jamaica.
+}
+eng_Governor_132 {
+Hmm, true enough, best to expect the worst.
+}
+eng_Governor_133 {
+Right now, I need a captain with a ship that won’t attract attention. My plan relies on surprise. No one knows you, and your sloop is just as unknown. You’re the least likely to run into trouble getting Duke Albemarle safely to Antigua.
+}
+eng_Governor_134 {
+I suppose you're right, sir.
+}
+eng_Governor_135 {
+Do this within two weeks, and you’ll be handsomely rewarded. You’re personally responsible for Duke Albemarle. He’s currently in my residence, in a private study. Begin as soon as you’re ready, and don’t delay.
+}
+eng_Governor_136_m {
+I understand you, sir.
+}
+eng_Governor_136_f {
+I understand you, sir.
+}
+eng_Governor_137 {
+I believe so. But from now on, be more diligent in carrying out my orders. You are an English privateer. England’s interests come above all else!
+}
+eng_Governor_138_m {
+You’re right, sir. You can count on me to be more diligent from now on.
+}
+eng_Governor_138_f {
+You’re right, sir. You can count on me to be more diligent.
+}
+eng_Governor_139_m {
+You know, Captain @<GetFullName> managed to pull off a very dangerous mission for Modyford. He had to get his Duke of Albemarle to safety... You don’t know who Albemarle is?! Let me tell you a secret: it’s only thanks to him that Sir Thomas Modyford serves as governor of Jamaica... Only the captain was late with the timing.
+}
+eng_Governor_139_f {
+You know, Captain @<GetFullName> managed to complete a very dangerous mission for Modyford. She had to get his Duke of Albemarle to safety... You don’t know who Albemarle is?! Let me tell you a secret: it’s only thanks to him that Sir Thomas Modyford serves as governor of Jamaica... Only the captain was late with the timing.
+}
+eng_Governor_140 {
+There’s a trade war raging in Europe with the Dutch. The Anglo-French fleet approached the Dutch coast, but, to everyone’s astonishment, was utterly defeated. Now, by order of the English government, I’m to organize an assault on the Dutch colony of Curaçao.\nHowever, I currently lack the forces to take on a fortress like Willemstad. I’ll enlist English privateers for the attack. In fact, it’s quite convenient for me to keep an improvised pirate fleet in Port Royal — excellent defense, and it doesn’t cost the Crown a penny! Heh...
+}
+eng_Governor_141 {
+What’s my task?
+}
+eng_Governor_142 {
+I need you to find Edward Mansfeld in the buccaneer settlement of La Vega on Hispaniola, Henry Morgan, who is currently in Saint John's, Jackman in the pirate settlement on Bermuda, and John Morris on the island of Trinidad. You must secure the agreement of these pirates to launch an attack on Curaçao, which will be led by Mansfeld. Carry out this task as quickly as possible; I’m counting on you.
+}
+eng_Governor_143 {
+Starting right away, sir.
+}
+eng_Governor_144 {
+And separately, I’d like to talk about Morgan. The thing is, his house on Antigua is a real fortress. You can’t just walk in. You’ll need to sneak into the house through the dungeon beneath Saint John’s.
+}
+eng_Governor_145_m {
+Understood, sir. Thank you for the warning. I suppose I’ll figure things out.
+}
+eng_Governor_145_f {
+Understood, sir. Thank you for the warning. I suppose I’ll figure things out.
+}
+eng_Governor_146 {
+Do you think anything can be changed in the future?
+}
+eng_Governor_147 {
+Hard to say, sir, but I don't think so. There's no way to convince all four of them.
+}
+eng_Governor_148 {
+Hm, I see. Well, despite the mission's failure, I'm pleased with your promptness and diligence. You are entitled to a reward of 15,000. I hope I can rely on your services in the future?
+}
+eng_Governor_149_m {
+Of course, sir. I’ll be glad to help you.
+}
+eng_Governor_149_f {
+Of course, sir. I’ll be glad to help you.
+}
+eng_Governor_150 {
+I am extremely disappointed—the order from the English government will not be carried out. This is bad, and on top of that, you were not quick enough in completing this task. You took @<GetQuestPastDayParam> days! Your payment will reflect that—in other words, it will be low.
+}
+eng_Governor_151 {
+Well, you know best.
+}
+eng_Governor_152_m {
+You know, Captain @<GetFullName> ran errands for Mediford—crisscrossed the Caribbean from end to end, even paid a visit to Morgan...
+}
+eng_Governor_152_f {
+You know, Captain @<GetFullName> ran errands for Mediford—roamed all across the Caribbean, even paid a visit to Morgan...
+}
+eng_Governor_153 {
+To make your task easier, I’m giving you a Dutch West India Company license valid for 20 days, which will let you enter the city without trouble. Get to it at once.
+}
+eng_Governor_154 {
+Aye, sir.
+}
+eng_Governor_155 {
+That’s very bad, I’m disappointed in you. You can come back here later, once I manage to get the information I need.
+}
+eng_Governor_156_m {
+Of course, sir. Sorry I couldn't be of help to you.
+}
+eng_Governor_156_f {
+Of course, sir. Sorry I couldn't help you.
+}
+eng_Governor_157 {
+They say you failed to scout out Curaçao. Hm, imagine that...
+}
+eng_Governor_158 {
+You managed to get the document itself?! Excellent, I knew I could count on you.\nHowever, the Dutch have learned of our plans... I ask that you come back to me a bit later, I need some time to think. For a job well done, you’re entitled to a reward of 100,000.
+}
+eng_Governor_159 {
+Sir, I had to bribe the moneylender in Willemstad. The bribe amounted to exactly one hundred thousand. With this reward, you’re merely reimbursing my expenses.
+}
+eng_Governor_160 {
+Very well, have them give you 110,000; I’ll see to it. Now leave me for a while. Please come see me again in a couple of days.
+}
+eng_Governor_161 {
+Thank you very much, sir. I’ll be sure to stop by later.
+}
+eng_Governor_162 {
+They say you infiltrated Willemstad and managed to uncover all the Dutch secrets. I suppose we'll be better prepared for the coming war now...
+}
+eng_Governor_163 {
+The fact that you spent time in a Dutch prison concerns me little. I need information, and you don’t have it. I’m disappointed. You may return here later, once I manage to get the information I need.
+}
+eng_Governor_164_m {
+Of course, sir. Sorry I couldn't help you.
+}
+eng_Governor_164_f {
+Of course, sir. Sorry I couldn't help you.
+}
+eng_Governor_165 {
+They say you managed to spend some time in a Dutch prison. So, how was it—any rats in there?
+}
+eng_Governor_166 {
+You’ve proven yourself a fine warrior, but when cunning was called for, you fell short.\nI’ll have to get the information I need through other means, and when I do, perhaps I’ll have use for you again.
+}
+eng_Governor_167_m {
+Understood, sir. Sorry I couldn’t be of help to you.
+}
+eng_Governor_167_f {
+Understood, sir. Sorry I couldn’t be of help to you.
+}
+eng_Governor_168 {
+They say you stirred up quite a ruckus in Willemstad...
+}
+eng_Governor_169 {
+Well, now we know that the Dutch are hastily trying to fortify their settlement on Jamaica — Fort Orange. Frankly, the fact that they settled on the other end of the island didn’t bother me, at least until this trade war began.\nNow it’s my duty to ruin the Dutch settlement on English soil. I’m entrusting this task to you.\nAll the spoils you seize in Fort Orange are yours. Go to it.
+}
+eng_Governor_170 {
+Very well, sir.
+}
+eng_Governor_171 {
+Yeah, I’d love to see the fort right after you’re done with it... Just looking at you is enough—you’re a real devil in the flesh! I truly respect brave privateers who aren’t afraid to spill a little red now and then... I hope to see you around more often, Captain @<GetFullName>.
+}
+eng_Governor_172 {
+No doubt, sir, you’ll be seeing me from time to time... I’m a privateer, and Sir Thomas Modyford’s friendship is worth a great deal. Now, if you’ll excuse me—I have business to attend to...
+}
+eng_Governor_173_m {
+Well, I see how it is... Looks like somewhere out there a young lady is sighing in anticipation of your arrival, Captain @<GetFullName>. I sincerely hope you enjoy yourself — and make it worth your while, so to speak... A talented person is talented in all things. Well then, I won’t keep you. Until we meet again...
+}
+eng_Governor_173_f {
+Well, I understand, Captain @<GetFullName>. I sincerely wish you a good time and some well-earned rest.\nWell then, I won’t keep you any longer. Until we meet again...
+}
+eng_Governor_174 {
+Goodbye, sir.
+}
+eng_Governor_175 {
+What you did in Fort Orange is, you know, quite impressive... Poor Dutchmen...
+}
+eng_Governor_176 {
+Well, that's good. So, he's coming back after a successful raid on the Spanish, with a hold full of mahogany, silver, and indigo. He needs to sell his spoils—let him dock at Port Royal for that. Give him my personal permission to sell his prize in the English colony. And make sure you tell Williams this in private, with no witnesses.
+}
+eng_Governor_177 {
+Nothing could be easier.
+}
+eng_Governor_178 {
+I've already been informed. Here’s 5,000 for your trouble.
+}
+eng_Governor_179 {
+It was no trouble at all, but I won’t say no to some coin.
+}
+eng_Governor_180 {
+What kind of manners are these? What's going on?
+}
+eng_Governor_181_m {
+You’ve confiscated the cargo of the privateer Morris Williams! And I was the one who invited him to Port Royal!
+}
+eng_Governor_181_f {
+You’ve seized the cargo of the privateer Morris Williams! And I was the one who invited him to Port Royal!
+}
+eng_Governor_182 {
+It was I, not you, who invited him to Port Royal. You were merely the messenger, nothing more. As for the cargo, it has been returned to its Spanish owner.
+}
+eng_Governor_183 {
+I can't believe my ears! Why?!
+}
+eng_Governor_184 {
+Relations between England and Spain are improving. This is a gesture of goodwill.\nPlease, stay out of politics—you won’t be able to change anything. Farewell.
+}
+eng_Governor_185 {
+I’m simply at a loss for words... Well then, farewell, sir.
+}
+eng_Governor_186 {
+Captain, was it really you who set up poor Williams like that?! No one thought you were capable of such a thing...
+}
+eng_Governor_187 {
+What’s happened, @<GetFullName>?
+}
+eng_Governor_188 {
+Morris Williams is languishing in prison, and it’s my fault. I believe it’s absolutely necessary to set him free.
+}
+eng_Governor_189 {
+Well, I can see you're a person of honor. I take no pleasure in keeping a fine privateer locked up, but I have no choice. The law is the law.\nI suggest you speak to the local moneylender—it's because of an unpaid debt to him that Morris is in jail.
+}
+eng_Governor_190 {
+Thank you for the advice.
+}
+eng_Governor_191 {
+The thing is, English privateers have stopped bringing in prize goods captured from the Spanish. Now they only come in for repairs, carrying just the bare minimum of money. I trust I don’t need to explain how much England loses each month from the unpaid ten percent duty on captured cargo, or how much the Jamaican merchants are losing!\nPrivateers now either hide their loot in secret spots around the islands, try to haul it all the way to Portsmouth to sell, or move their captured goods through French intermediaries on Tortuga.\nSo, the situation is clear as day: the raids on the Spanish continue, but we get NOTHING from it!\nThe Jamaica Council has decided to resume issuing letters of marque to our privateers. Your assignment, however, is rather delicate and as follows: I have learned that no less than seven well-known privateers have hidden gold in caves throughout the region.\nI have approximate locations for these hoards:\n1. Thomas Whitson – near Cartagena\n2. Adrian Swart – on the island of Trinidad\n3. Captain Gay – on the island of Turks\n4. Captain Cooper – on the island of Dominica\n5. George Breningham – on the island of Cayman\n6. Captain Goodly – on Cuba\n7. Abraham Blauvelt – on Guadeloupe\nFind all these treasures and deliver them to me. I think it goes without saying that this mission is strictly confidential—it’s in your best interest...
+}
+eng_Governor_192 {
+I understand. I believe I can handle this matter, sir.
+}
+eng_Governor_193 {
+Sir, I don’t quite understand the point of this assignment. Corsairs’ treasures are their own business. I have nothing to do with it...
+}
+eng_Governor_194 {
+I’m quite puzzled by your behavior...
+}
+eng_Governor_195 {
+Sir, I’m sorry, but there’s nothing I can do to help.
+}
+eng_Governor_196_m {
+You know, Captain @<GetFullName> refused to carry out Mediford's order to search for pirate stashes...
+}
+eng_Governor_196_f {
+You know, Captain @<GetFullName> refused to carry out Mediford’s order to search for pirate stashes...
+}
+eng_Governor_197 {
+By my estimate, there’s about 2,100 nuggets of gold in all seven hoards! Bring me ALL of it...
+}
+eng_Governor_198 {
+Aye, sir. I'll get to it right away.
+}
+eng_Governor_199 {
+Aaalright, let’s have a look...
+}
+eng_Governor_200_m {
+So, sir, right now I have @<pchar> nuggets of raw gold. I'm ready to hand them over to you.
+}
+eng_Governor_200_f {
+So, sir, right now I have @<pchar> nuggets of raw gold. I'm ready to hand them over to you.
+}
+eng_Governor_201_m {
+Sir, I have @<pchar> of native gold with me. But I didn’t get this gold as part of the task you gave me. So I’m keeping this gold for myself.
+}
+eng_Governor_201_f {
+Sir, I have @<pchar> of native gold with me. But I didn’t get this gold as part of the task you set. So I’m keeping this gold for myself.
+}
+eng_Governor_202 {
+Very well, I’ll take the native gold you’ve brought: @<pchar>. So far, you’ve delivered: @<pchar>. That means you still need to find and bring me another @<pchar>.
+}
+eng_Governor_203_m {
+Understood, sir. The search will continue.
+}
+eng_Governor_203_f {
+Understood, sir. The search will continue.
+}
+eng_Governor_204 {
+You have completed the assigned task. As I expected, you delivered and handed over 2,100 gold nuggets to me. Your ten percent comes to seventy thousand.
+}
+eng_Governor_205 {
+Thank you, sir.
+}
+eng_Governor_206 {
+Wow, you’ve found more gold than I expected! Right now you have @<pchar> nuggets of gold. Previously, you turned in @<pchar>. That means you’ve exceeded the quota by @<pchar>.
+}
+eng_Governor_207 {
+Sir, the "over-fulfillment of the plan" is my personal gold; it has nothing to do with the completed task.
+}
+eng_Governor_208 {
+Well, I’m very, very pleased with you. Working together has been a real pleasure for me. You’ll always be welcome here.
+}
+eng_Governor_209 {
+Thank you, sir. I’ll drop by from time to time.
+}
+eng_Governor_210 {
+There are vague rumors that a certain captain helped Madyford loot the treasures of some pirates. And really, Madyford has only himself to blame for the privateers hiding their spoils in caves and grottos...
+}
+eng_Governor_211 {
+Then why the hell are you waving it in front of my face?
+}
+eng_Governor_212 {
+From now on, I ask you to speak only of MY gold.
+}
+eng_Governor_213 {
+@<RandPhraseSimple>
+}
+eng_Governor_214_m {
+Sir, you asked me—I answered you honestly. Please forgive me.
+}
+eng_Governor_214_f {
+Sir, you asked me—I answered you honestly. Please forgive me.
+}
+eng_Governor_215 {
+Hmm, I wouldn’t advise you to speak your mind in that tone here. I’m disappointed in you and I’m fining you!\nI won’t keep you any longer—you may go.
+}
+eng_Governor_216_m {
+I apologize for causing you any inconvenience, sir.
+}
+eng_Governor_216_f {
+I apologize for causing you any inconvenience, sir.
+}
+eng_Governor_217 {
+Exactly! Well then, all the better. Mansfield has set aside a hefty sum for us in gold nuggets. I need this gold delivered to Port Royal. I can trust only you with this task.
+}
+eng_Governor_218_m {
+Alright, sir. Am I on a deadline?
+}
+eng_Governor_218_f {
+Alright, sir. Am I on any kind of time limit?
+}
+eng_Governor_219 {
+No, there’s no real rush. But we shouldn’t drag our feet either.
+}
+eng_Governor_220_m {
+Understood. As soon as I'm ready, I'll set sail.
+}
+eng_Governor_220_f {
+Understood. As soon as I’m ready, I’ll set sail right away.
+}
+eng_Governor_221 {
+Damn it!!! Have you managed to clear things up at all?
+}
+eng_Governor_222 {
+Looks like the Spaniards have headed for Santiago. I'll try to intercept them.
+}
+eng_Governor_223 {
+Very well. I ask that you do everything in your power to search.
+}
+eng_Governor_224 {
+Understood, sir.
+}
+eng_Governor_225 {
+I need to think it over. Come see me in about ten days.
+}
+eng_Governor_226 {
+Aye, sir.
+}
+eng_Governor_227 {
+Rumor has it the buccaneer settlement on Hispaniola was destroyed by the Spanish...
+}
+eng_Governor_228 {
+I took certain steps and managed to determine exactly who was behind the Spanish attack on La Vega.
+}
+eng_Governor_229 {
+And who might that be?
+}
+eng_Governor_230 {
+I wish to inform you that the massacre in La Vega was the result of a Spanish attack.
+}
+eng_Governor_231 {
+Aye, sir.
+}
+eng_Governor_232 {
+Thanks to the letter you found on the Spanish galleon, we now have a clear idea of who is behind the Spanish attack on La Vega.
+}
+eng_Governor_233_m {
+Yes, sir. I’ve read the letter.
+}
+eng_Governor_233_f {
+Yes, sir. I’ve read the letter.
+}
+eng_Governor_234 {
+This attack was orchestrated by the governor of Santiago, José Sancho Jiménez. To carry out the operation, he enlisted Manoel Rivero Pardal, the only Spanish pirate in these waters.
+}
+eng_Governor_235 {
+What do I need to do?
+}
+eng_Governor_236 {
+You need to attack Santiago and bring me Governor José Sancho Jiménez. I want Jiménez; the city is yours.
+}
+eng_Governor_237_m {
+Understood, sir.
+}
+eng_Governor_237_f {
+I understand, sir.
+}
+eng_Governor_238 {
+Damn, you're truly indispensable, @<pchar>. Mansfield has been avenged in grand style!
+}
+eng_Governor_239 {
+What should I do with Jimenez?
+}
+eng_Governor_240 {
+Turn him over to my duty officer. I’ll deal with him tomorrow—today I’m in far too good a mood for that.\nAs for you, I suppose you could use some rest and a chance to collect yourself after such remarkable deeds. I won’t keep you—come see me anytime.\nOh, and one more thing... Pay Morgan a visit. I think he’ll be pleased to hear that Edward Mansfield’s revenge was carried out so swiftly and effectively. Mansfield was like a father to Morgan...
+}
+eng_Governor_241 {
+Alright, sir. I’ll be sure to stop by.
+}
+eng_Governor_242_m {
+Captain, everyone’s talking about how you brought a captured Spanish governor to Port Royal! You’re a real hero, captain...
+}
+eng_Governor_242_f {
+Captain, everyone’s talking about how you brought a captured Spanish governor to Port Royal! You’re a true heroine, captain...
+}
+eng_Governor_243 {
+The Spanish decided to simply wipe us out. To gather so many ships of the line here—it’s just unbelievable! But we dealt with them!
+}
+eng_Governor_244 {
+Yes, sir. Though it was extremely difficult, the townsfolk can breathe easy now. And the Spaniards, I reckon, won’t recover from such a blow...
+}
+eng_Governor_245 {
+I agree with you. I believe that a sum of 80,000 will be enough to get your ships back in shape and recruit a new crew. England needs you, @<GetFullName>, and England will not forget you! Hmm...\nForgive me, but right now I need to consider our next steps... Please come see me again in a week.
+}
+eng_Governor_246 {
+Alright, I'll do my best to be there at the appointed time, sir.
+}
+eng_Governor_247 {
+Captain, you’ve truly saved us all. The townsfolk are united in their gratitude for your heroic deed.
+}
+eng_Governor_248 {
+Our answer to the Spanish attack on Port Royal will be our own assault on Spanish cities.\nNear Trinidad on the mainland, there are two Spanish towns: Cumaná and Caracas. Capture these towns and swear their people to the allegiance of His Majesty Charles II Stuart.\nAssist in appointing a new administration to restore proper city governance and ensure swift collection of taxes and duties.
+}
+eng_Governor_249_m {
+Understood, sir. I’ll proceed as soon as I’m ready.
+}
+eng_Governor_249_f {
+Understood, sir. I'll begin as soon as I'm ready.
+}
+eng_Governor_250 {
+Excellent, @<GetFullName>. Simply magnificent! The spoils seized on the island are rightfully yours!\nI ask you to come to my residence in a month. I’ll have more work for you then.
+}
+eng_Governor_251 {
+Aye, sir.
+}
+eng_Governor_252_m {
+Captain, it seems you'll soon earn the nickname @<pchar> the Conqueror.
+}
+eng_Governor_252_f {
+Captain, it looks like you'll soon be given the nickname @<pchar> the Conqueress.
+}
+eng_Governor_253 {
+Something unusual is happening in Saint John's. I'm not receiving the usual reports on the state of affairs from the city’s governor.\nYou are my trusted confidant, so I ask you to go to the governor’s residence in Saint John's and clarify the situation with him.
+}
+eng_Governor_254 {
+Very well, sir. I don't think there are any problems, but I'll find out everything.
+}
+eng_Governor_255 {
+Hmm... So what?
+}
+eng_Governor_256 {
+By order of the English government, you are under arrest, sir...
+}
+eng_Governor_257 {
+Not so fast... Guards, to me!!!
+}
+eng_Governor_258 {
+Damn it!!!
+}
+eng_Governor_259 {
+What a turn of events! Governor Mediford has been arrested and thrown in jail by one of his own privateers! Unbelievable...
+}
+eng_Governor_260 {
+Don’t be surprised! But let’s take things one at a time.\nIt is my great pleasure to inform you that your service to the homeland has been duly recognized.\nI have the honor of announcing your elevation to knighthood. From now on, the title @<GetAddress_Form> shall always precede your name.\nAlso, as a result of the investigation into Mediford’s activities, his vast fortune has been uncovered. A portion of these funds belongs to you. That is three hundred thousand piastres. Please accept it.
+}
+eng_Governor_261_m {
+Thank you. I hope I can continue to be just as useful to His Majesty.
+}
+eng_Governor_261_f {
+Thank you. I hope I can continue to be just as useful to His Majesty.
+}
+eng_Governor_262 {
+I’m counting on that as well.\nWith your help, @<GetAddress_Form>, I hope the Caribbean will become more English. And remember, Spain is not our enemy. At least, not for now...
+}
+eng_Governor_263_m {
+Understood, sir. I’ll do everything in my power to ensure the prosperity of the English colonies in the Caribbean.
+}
+eng_Governor_263_f {
+Understood, sir. I will do everything in my power to ensure the prosperity of the English colonies in the Caribbean.
+}

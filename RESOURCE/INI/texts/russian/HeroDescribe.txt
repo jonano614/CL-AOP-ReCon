@@ -1,0 +1,685 @@
+HeroDescribe_info
+{
+    Универсальный создатель героев адд-она SLiB
+    Скрипт создан ALexusB 09.10.04
+    Путь к файлу \RESOURCE\INI\TEXTS\RUSSIAN\HeroDescribe.txt
+    
+    версия 14.07.2025
+
+    hero_qty 		  - количество героев
+    ps_hero_qty 	  - количество псевдо-героев (могут встретиться как квестовые персонажи в игре, в ПГГ берутся строго персонажы мужского пола)
+    
+	heroName_Х        - имя героя
+    heroLastname_Х    - фамилия героя
+    heroNameGen_ и heroLastnameGen_ - родительный падеж
+	heroNameDat_ и heroLastnameDat_ - дательный падеж
+    heroFace_Х        - номер портрета
+    heroModel_Х       - список моделей через зяпятую без пробелов, может быть меньше, чем полный список, тогда первая возмется
+            (без брони, лёгкая, средняя, крутая, золотая, одежда_1, одежда_2, одежда_3)
+    heroType_Х        - тип героя (влияет на стартовые параметры)
+        значения только: Corsair, Merchant, Adventurer
+			или (для русской версии)
+			Корсар,
+			Торговец,
+			Авантюрист
+    heroNation_Х      - стартовая нация героя (нейтральные отношения)
+        значения только: ENGLAND, FRANCE, SPAIN, HOLLAND, PIRATE
+            или (для русской версии)
+			Англия
+            Франция
+            Испания
+            Голландия
+			Береговое братство
+    sex_X             - пол (man, woman, skeleton)
+    animation_X       - анимация (man, woman, towngirl)
+    idLocation_Х 	  - id локации, где отображается персонаж при начале новой игры
+	locatorLocation_Х - локатор в локации, куда помещается персонаж при начале новой игры
+	coordinateLocation_Х - координаты камеры при начале новой игры
+	turnLocation_Х    - угол поворота персонажа при начале новой игры
+	hero_Х            - краткая биография героя (не более 5-7 строк, что бы помещалось в поле текста)
+    Х - порядковый номер героя в списке
+    
+    Где что:
+    Текстуры портретов \RESOURCE\Textures\INTERFACES\PORTRAITS  (64, 128, 256)
+    Скины              \RESOURCE\Textures\Characters
+    Модели             \RESOURCE\MODELS\Characters
+    Головы             \RESOURCE\MODELS\Heads
+    Анимация головы    \RESOURCE\animation\Heads и \RESOURCE\animation\Heads\AN
+    
+    Обязательно сохраните исходный файл до редактирования. Иначе обновления могут не установится.
+    Перед установкой верните его на место, установите обновление. После чего повторите настройку своего героя (героев).
+    
+    _______________
+    С заботой о Вас, ALexusB
+}
+
+Merchant
+{
+В прошлом, персонаж с юных лет изучал торговлю и базовые навыки ведения боя, осознавая, что защита своих богатств не менее важна, чем их приобретение. Жизнь стала борьбой за выживание, полную испытаний, с мечтой стать мастером торговли и фехтования.
+}
+Corsair
+{
+Персонаж в прошлом был готов выпить всё, что течёт, потопить всё, что плывёт, потратить всё, что звенит, и убить всё, что визжит. Эти поступки, хоть и не заслуживали любви со стороны окружающих, помогли выжить в жестоком мире. Стремление стать не просто пиратом, а легендой, которую будут помнить даже после смерти - вот что движет этим человеком.
+}
+Adventurer
+{
+В юности персонаж всегда любил приключения, а жажда золота и приключений привела к опасным путям. Бесконечное число передряг дало понять, что доверять можно только верному клинку и пистолету. Эти уроки навсегда изменили персонажа, превратив в авантюриста, готового рискнуть всем ради славы и богатства.
+}
+
+hero_qty {6}
+ps_hero_qty {29}
+
+heroName_1 {Питер}
+heroNameGen_1 {Питера}
+heroNameDat_1 {Питеру}
+heroLastname_1 {Блад}
+heroLastnameGen_1 {Блада}
+heroLastNameDat_1 {Бладу}
+heroFace_1 {1001}
+heroModel_1 {Blad_0,Blad_1,Blad_2,Blad_3,Blad_4,Blad_5,Blad_6,Blad_7,Blad_8}
+heroType_1 {Корсар}
+heroNation_1 {Англия}
+sex_1 {man}
+animation_1 {man}
+idLocation_1 {Estate}
+locatorLocation_1 {goto12}
+coordinateLocation_1 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_1 {4.42}
+hero_1
+{
+В Старом Свете он был успешным врачом, но обстоятельства сделали его рабом на плантациях Барбадоса. Теперь ему необходимо вернуть свой социальный статус и с Вашей помощью при подсказке Сабатини восстановить то положение в обществе, которого заслуживают его амбиции, темперамент и интеллект.\n\nСюжетный старт.
+}
+
+heroName_2 {Мишель}
+heroNameGen_2 {Мишеля}
+heroNameDat_2 {Мишелю}
+heroLastname_2 {де Граммон}
+heroLastnameGen_2 {де Граммона}
+heroLastNameDat_2 {де Граммону}
+heroFace_2 {1002}
+heroModel_2 {Gram_0,Gram_1,Gram_2,Gram_3,Gram_4,Gram_5,Gram_6,Gram_7,Gram_8}
+heroType_2 {Авантюрист} 
+heroNation_2 {Франция}
+sex_2 {man}
+animation_2 {man}
+idLocation_2 {Estate}
+locatorLocation_2 {goto12}
+coordinateLocation_2 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_2 {4.42}
+hero_2
+{
+Родился в Париже, в семье офицера королевской гвардии, в последние годы царствования короля Людовика XIII. Служил морским офицером французского королевского флота, но неуёмная жажда приключений вышвырнула его из благополучной Европы в джунгли Карибского архипелага. Что он здесь ищет?
+}
+
+;{Родился в Париже, в семье офицера королевской гвардии, в последние годы царствования короля Людовика XIII. Служил морским офицером французского королевского флота, но неуёмная жажда приключений вышвырнула его из благополучной Европы в джунгли Карибского архипелага. Что он здесь ищет? Ответ на этот вопрос Вам и предстоит найти, если не в этот раз, то в следующей игре обязательно...\n\nДоступна стартовая линейка квестов (в разработке)}
+
+heroName_3 {Вильям}
+heroNameGen_3 {Вильяма}
+heroNameDat_3 {Вильяму}
+heroLastname_3 {Патерсон}
+heroLastnameGen_3 {Патерсона}
+heroLastNameDat_3 {Патерсону}
+heroFace_3 {1003}
+heroModel_3 {Pat_0,Pat_1,Pat_2,Pat_3,Pat_4,Pat_5,Pat_6,Pat_7,Pat_8}
+heroType_3 {Торговец}
+heroNation_3 {Англия}
+sex_3 {man}
+animation_3 {man}
+idLocation_3 {Estate}
+locatorLocation_3 {goto12}
+coordinateLocation_3 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_3 {4.42}
+hero_3
+{
+Благородные намерения этого молодого дворянина о честной торговле на благо нации и собственного кошелька разбились о реалии жестокой действительности. Придётся обзаводиться торговой лицензией и научиться прокладывать себе путь к благосостоянию пушками и клинком, забыв о чванливых манерах Старого Света...
+}
+
+heroName_4 {Барт}
+heroNameGen_4 {Барта}
+heroNameDat_4 {Барту}
+heroLastname_4 {Португалец}
+heroLastnameGen_4 {Португальца}
+heroLastNameDat_4 {Португальцу}
+heroFace_4 {1004}
+heroModel_4 {Port_0,Port_1,Port_2,Port_3,Port_4,Port_5,Port_6,Port_7,Port_8}
+heroType_4 {Корсар}
+heroNation_4 {Береговое братство}
+sex_4 {man}
+animation_4 {man}
+idLocation_4 {Estate}
+locatorLocation_4 {goto12}
+coordinateLocation_4 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_4 {4.42}
+hero_4
+{
+Известный в этих водах португальский рубака. Является автором одного из самых ранних сводов правил, известных среди пиратов как «Пиратский кодекс». Хотя удача не всегда была на его стороне, о чём говорят полученные в боях шрамы. Но шрамы только красят настоящего мужчину! Правда же?
+}
+
+heroName_5 {Диего}
+heroNameGen_5 {Диего}
+heroNameDat_5 {Диего}
+heroLastname_5 {Эспиноза}
+heroLastnameGen_5 {Эспинозу}
+heroLastNameDat_5 {Эспинозе}
+heroFace_5 {1006}
+heroModel_5 {Esp_0,Esp_1,Esp_2,Esp_3,Esp_4,Esp_5,Esp_6,Esp_7,Esp_8}
+heroType_5 {Авантюрист}
+heroNation_5 {Испания}
+sex_5 {man}
+animation_5 {man}
+idLocation_5 {Estate}
+locatorLocation_5 {goto12}
+coordinateLocation_5 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_5 {4.42}
+hero_5
+{
+Что даёт человеку власть? Деньги и могущество. А что даёт человеку возможность всё это иметь? Его знания и способности. Или способности других людей. Умения находить верные решения и страсть к богатству вынудили нашего героя пуститься в увлекательную авантюру на Карибах.
+}
+
+heroName_6 {Даниэль}
+heroNameGen_6 {Даниэль}
+heroNameDat_6 {Даниэль}
+heroLastname_6 {Грин}
+heroLastnameGen_6 {Грин}
+heroLastNameDat_6 {Грин}
+heroFace_6 {1014}
+heroModel_6 {Dan_Howk_0,Dan_Howk_1,Dan_Howk_2,Dan_Howk_3,Dan_Howk_4,Dan_Howk_5,Dan_Howk_6,Dan_Howk_7,Dan_Howk_8}
+heroType_6 {Корсар}
+heroNation_6 {Пират}
+sex_6 {woman}
+animation_6 {Danielle}
+idLocation_6 {Estate}
+locatorLocation_6 {goto12}
+coordinateLocation_6 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_6 {4.42}
+hero_6
+{
+В прошлом - известная авантюристка со скверным характером и разоблачительница заговора английских властей, пытавшаяся расквитаться с губернатором-заговорщиком. Увы, она потерпела неудачу и была вынуждена встать на сторону своего будущего мужа - Натаниэля Хаука. Хоть она и презирала всех представителей мужского пола, изначально не ладила даже с Натаниэлем. Но у судьбы были иные планы насчёт этой парочки... Правда, даже с годами её характер не смягчился, и она всё так же лезет куда не надо.
+}
+
+heroName_7 {Блэйз}
+heroNameGen_7 {Блэйза}
+heroNameDat_7 {Блэйзу}
+heroLastname_7 {Шарп}
+heroLastnameGen_7 {Шарпа}
+heroLastNameDat_7 {Шарпу}
+heroFace_7 {1007}
+heroModel_7 {Blaze_0,Blaze_1,Blaze_2,Blaze_3,Blaze_4,Blaze_5,Blaze_6,Blaze_7,Blaze_8}
+heroType_7 {Авантюрист}
+heroNation_7 {Береговое братство}
+sex_7 {man}
+animation_7 {man}
+idLocation_7 {Estate}
+locatorLocation_7 {goto12}
+coordinateLocation_7 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_7 {4.42}
+hero_7
+{
+Рубака Блейз - приёмный сын легендарного Николаса Шарпа. В отличие от отца, Блэйз не нацелен на великие свершения. Его вполне устраивает весёлая жизнь искателя приключений. Разумеется, его ожидает великая слава, несметные богатства и высокая должность. По крайней мере, он сам в этом уверен...
+~
+А пока что Блейз - весельчак, завсегдатай всех портовых таверн и непременный участник скандальных проделок. Девушки сохнут по этому сорвиголове, но ещё ни одной не удалось надолго привлечь к себе его внимание. Море, добыча и алкоголь - вот, что так будоражит кровь Блейза! 
+}
+
+heroName_8 {Беатрис}
+heroNameGen_8 {Беатрис}
+heroNameDat_8 {Беатрис}
+heroLastname_8 {Шарп}
+heroLastnameGen_8 {Шарп}
+heroLastNameDat_8 {Шарп}
+heroFace_8 {1008}
+heroModel_8 {Beatric_0,Beatric_1,Beatric_2,Beatric_3,Beatric_4,Beatric_5,Beatric_6,Beatric_7,Beatric_8}
+heroType_8 {Корсар}
+heroNation_8 {Береговое братство}
+sex_8 {woman}
+animation_8 {Beatrice}
+idLocation_8 {Estate}
+locatorLocation_8 {goto12}
+coordinateLocation_8 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_8 {4.42}
+hero_8
+{
+Плоть от плоти великого Николаса Шарпа. Бесшабашная и насмешливая Беатрис нарушает все законы Берегового Братства одним своим существованием. Но вряд ли кто-нибудь осмелится заявить ей об этом - Беатрис управляется со своим клинком так, словно родилась с оружием в руке. Сияя белозубой улыбкой, она идёт по жизни рука об руку с подругой-удачей. 
+~
+В тавернах можно услышать множество историй о "Рыжем Дьяволе", как прозвали Беатрис моряки. О том, что Рыжий Дьявол никогда не возвращается без добычи, и о том, что её невозможно поймать, поскольку её корабль быстрее любого другого.
+}
+
+heroName_9 {Шарль}
+heroNameGen_9 {Шарля}
+heroNameDat_9 {Шарлю}
+heroLastname_9 {де Мор}
+heroLastnameGen_9 {де Мора}
+heroLastNameDat_9 {де Мору}
+heroFace_9 {1009}
+heroModel_9 {Sharle,Sharle_1,Sharle_2,Sharle_3,Sharle_4,Sharle_5,Sharle_6,Sharle_7,Sharle_8}
+heroType_9 {Авантюрист} 
+heroNation_9 {Франция}
+sex_9 {man}
+animation_9 {man}
+idLocation_9 {Estate}
+locatorLocation_9 {goto12}
+coordinateLocation_9 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_9 {4.42}
+hero_9
+{
+Cын французского дворянина. Здесь, на Карибах, ему предстоит обрести себя, открыть новые черты характера, столкнуться с ложью, хитростью и коварством, найти свою любовь, познать непознанное и преодолеть все препятствия на пути к поставленной цели...
+}
+
+heroName_10 {Диего}
+heroNameGen_10 {Диего}
+heroNameDat_10 {Диего}
+heroLastname_10 {де Монтойя}
+heroLastnameGen_10 {де Монтойи}
+heroLastNameDat_10 {де Монтойу}
+heroFace_10 {1010}
+heroModel_10 {Montoia_0,Montoia_1,Montoia_2,Montoia_3,Montoia_4,Montoia_5,Montoia_6,Montoia_7,Montoia_8}
+heroType_10 {Корсар}
+heroNation_10 {Испания}
+sex_10 {man}
+animation_10 {man}
+idLocation_10 {Estate}
+locatorLocation_10 {goto12}
+coordinateLocation_10 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_10 {4.42}
+hero_10
+{
+Благородный дворянин, доверенное лицо и агент испанской короны по особо важным поручениям. Несмотря на светское прошлое, быстро адаптировался к бесхитростным и жёстким правилам моря. Сильный духом и волей, не боится трудностей и опасностей. Его властный голос приводит команду в трепет. 
+}
+
+heroName_11 {Лоуренс}
+heroNameGen_11 {Лоуренса}
+heroNameDat_11 {Лоуренсу}
+heroLastname_11 {Белтроп}
+heroLastnameGen_11 {Белтропа}
+heroLastNameDat_11 {Белтропу}
+heroFace_11 {1011}
+heroModel_11 {Bel_0,Bel_1,Bel_2,Bel_3,Bel_4,Bel_5,Bel_6,Bel_7,Bel_8}
+heroType_11 {Корсар}
+heroNation_11 {Англия}
+sex_11 {man}
+animation_11 {man}
+idLocation_11 {Estate}
+locatorLocation_11 {goto12}
+coordinateLocation_11 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_11 {4.42}
+hero_11
+{
+Капитан Бучер - одни считали его исчадием ада, другие восхищались его отчаянной храбростью и везением, позволявшим уходить от любых погонь на своём фрегате с гордым названием "Нептун". То было давно, но старый морской волк не потерял свою хватку, хоть и переосмыслил свои взгляды на многие вещи. 
+}
+
+heroName_12 {Якоб}
+heroNameGen_12 {Якоба}
+heroNameDat_12 {Якобу}
+heroLastname_12 {ван Берг}
+heroLastnameGen_12 {ван Берга}
+heroLastNameDat_12 {ван Бергу}
+heroFace_12 {1012}
+heroModel_12 {VanBerg_0,VanBerg_1,VanBerg_2,VanBerg_3,VanBerg_4,VanBerg_5,VanBerg_6,VanBerg_7,VanBerg_8}
+heroType_12 {Корсар}
+heroNation_12 {Голландия}
+sex_12 {man}
+animation_12 {man}
+idLocation_12 {Estate}
+locatorLocation_12 {goto12}
+coordinateLocation_12 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_12 {4.42}
+hero_12
+{
+Якоб Янссен ван ден Бер, так же известный под прозвищем «Япоун» - голландский пират, который изначально был частью Голландской Вест-Индской компании, пока не было обнаружено, что он занимался контрабандой рабов, хотя ГВИК имела на это исключительное право. Возможно, своими деяниями ему удастся вынудить компанию взять обратно талантливого приватира на службу.
+}
+
+heroName_13 {Натаниэль}
+heroNameGen_13 {Натаниэля}
+heroNameDat_13 {Натаниэлю}
+heroLastname_13 {Хаук}
+heroLastnameGen_13 {Хаука}
+heroLastNameDat_13 {Хауку}
+heroFace_13 {1013}
+heroModel_13 {Hawk_0,Hawk_1,Hawk_2,Hawk_3,Hawk_4,Hawk_5,Hawk_6,Hawk_7,Hawk_8}
+heroType_13 {Авантюрист}
+heroNation_13 {Пират}
+sex_13 {man}
+animation_13 {man}
+idLocation_13 {Estate}
+locatorLocation_13 {goto12}
+coordinateLocation_13 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_13 {4.42}
+hero_13
+{
+Натаниэль прошел сквозь множество приключений, преград и опасностей, уготованных ему судьбой. Но несмотря на тяжелейшие испытания, ничто не сломило славного морского волка. Его имя известно практически любому на Карибском архипелаге и далеко за его пределами. У кого-то оно ассоциируется с храбростью, благородством и немыслимой отвагой, кто-то только заслышав его, представляет кровожадного пирата, которому не ведомы доброта и сострадание. Тем не менее Натаниэль один из самых уважаемых и авторитетных капитанов Берегового Братства. Команда уважает своего капитана и не раздумывая идут за ним хоть в рай, хоть в ад.
+}
+
+heroName_14 {Джессика}
+heroNameGen_14 {Джессики}
+heroNameDat_14 {Джессике}
+heroLastname_14 {Брэдфорд}
+heroLastnameGen_14 {Брэдфорд}
+heroLastNameDat_14 {Брэдфорд}
+heroFace_14 {1005}
+heroModel_14 {jess0,jess1,jess2,jess3,jess4,jess5,jess6,jess7,jess8}
+heroType_14 {Корсар}
+heroNation_14 {Англия}
+sex_14 {woman}
+animation_14 {Jessika}
+idLocation_14 {Estate}
+locatorLocation_14 {goto12}
+coordinateLocation_14 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_14 {4.42}
+hero_14
+{
+После предательства Белтропа она поклялась, что больше ни в чём не уступит мужчинам и станет успешным капитаном корсарской эскадры. Нужно признать, что у неё это неплохо получается, и правительства многих стран уже назначили награду за её прекрасную голову.
+}
+
+heroName_15 {Джон}
+heroNameGen_15 {Джона}
+heroNameDat_15 {Джону}
+heroLastname_15 {Истерлинг}
+heroLastnameGen_15 {Истерлинга}
+heroLastNameDat_15 {Истерлингу}
+heroFace_15 {1015}
+heroModel_15 {Isterling_0,Isterling_1,Isterling_2,Isterling_3,Isterling_4,Isterling_5,Isterling_6,Isterling_7,Isterling_8}
+heroType_15 {Авантюрист}
+heroNation_15 {Англия}
+sex_15 {man}
+animation_15 {man}
+idLocation_15 {Estate}
+locatorLocation_15 {goto12}
+coordinateLocation_15 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_15 {4.42}
+hero_15
+{
+Cамый отъявленный негодяй из всех, бороздивших когда-либо воды Карибского моря. Он представляет собой жестокого и амбициозного человека, стремящегося к власти и наживе. С грубой внешностью и характерными чертами, такими как шрам, Истерлинг олицетворяет опасности пиратской жизни. Он хочет не только материальных благ, но и признания, стремясь стать самым известным и беспощадным пиратом. Однако его некомпетентность и жестокость могут стать препятствием на пути к достижению этих целей.
+}
+
+heroName_16 {Майкл}
+heroNameGen_16 {Майкла}
+heroNameDat_16 {Майклу}
+heroLastname_16 {Чард}
+heroLastnameGen_16 {Чарда}
+heroLastNameDat_16 {Чарду}
+heroFace_16 {1016}
+heroModel_16 {Chard_0,Chard_1,Chard_2,Chard_3,Chard_4,Chard_5,Chard_6,Chard_7,Chard_8}
+heroType_16 {Авантюрист}
+heroNation_16 {Англия}
+sex_16 {man}
+animation_16 {man}
+idLocation_16 {Estate}
+locatorLocation_16 {goto12}
+coordinateLocation_16 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_16 {4.42}
+hero_16
+{
+Человек смелый, быстрый и решительный. Задумать дело, организовать его и выполнить - это для него три обязательных пункта любой операции. Долгое время был правой рукой капитана Джона Истерлинга, но со временем принял необходимость набрать уже свой корабль и команду.
+}
+
+heroName_17 {Игнасио}
+heroNameGen_17 {Игнасио}
+heroNameDat_17 {Игнасио}
+heroLastname_17 {Марко}
+heroLastnameGen_17 {Марко}
+heroLastNameDat_17 {Марко}
+heroFace_17 {1017}
+heroModel_17 {Ignasio_0,Ignasio_1,Ignasio_2,Ignasio_3,Ignasio_4,Ignasio_5,Ignasio_6,Ignasio_7,Ignasio_8}
+heroType_17 {Авантюрист}
+heroNation_17 {Испания}
+sex_17 {man}
+animation_17 {man}
+idLocation_17 {Estate}
+locatorLocation_17 {goto12}
+coordinateLocation_17 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_17 {4.42}
+hero_17
+{
+Опасности его не страшат, но он всегда слишком нетерпелив и горяч. В остальном прекрасно владеет техникой ведения боя с испанцами, которых хорошо понимает, так как в молодости долго находился среди них. 
+}
+
+heroName_18 {Йохан}
+heroNameGen_18 {Йохана}
+heroNameDat_18 {Йохану}
+heroLastname_18 {Даринг}
+heroLastnameGen_18 {Даринга}
+heroLastNameDat_18 {Дарингу}
+heroFace_18 {1018}
+heroModel_18 {Yohang_0,Yohang_1,Yohang_2,Yohang_3,Yohang_4,Yohang_5,Yohang_6,Yohang_7,Yohang_8}
+heroType_18 {Авантюрист}
+heroNation_18 {Голландия}
+sex_18 {man}
+animation_18 {man}
+idLocation_18 {Estate}
+locatorLocation_18 {goto12}
+coordinateLocation_18 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_18 {4.42}
+hero_18
+{
+Прирождённый тактик. Очень хорошо развита логика и интуиция, знает, где надо отступить, а где надо идти на чистый блеф. 
+}
+
+heroName_19 {Ян}
+heroNameGen_19 {Яна}
+heroNameDat_19 {Яну}
+heroLastname_19 {Стрейс}
+heroLastnameGen_19 {Стрейса}
+heroLastNameDat_19 {Стрейсу}
+heroFace_19 {1019}
+heroModel_19 {Stace_0,Stace_1,Stace_2,Stace_3,Stace_4,Stace_5,Stace_6,Stace_7,Stace_8}
+heroType_19 {Торговец}
+heroNation_19 {Голландия}
+sex_19 {man}
+animation_19 {man}
+idLocation_19 {Estate}
+locatorLocation_19 {goto12}
+coordinateLocation_19 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_19 {4.42}
+hero_19
+{
+Прибыл на Карибы с целью сделать состояние торговлей, некоторое время прослужил наёмником в Европе. Впрочем, иногда не брезгует скользким путём добывания вожделенных пиастров. 
+}
+
+heroName_20 {Хосе}
+heroNameGen_20 {Хосе}
+heroNameDat_20 {Хосе}
+heroLastname_20 {Даско}
+heroLastnameGen_20 {Даско}
+heroLastNameDat_20 {Даско}
+heroFace_20 {1020}
+heroModel_20 {Dasko}
+heroType_20 {Торговец}
+heroNation_20 {Испания}
+sex_20 {man}
+animation_20 {man}
+idLocation_20 {Estate}
+locatorLocation_20 {goto12}
+coordinateLocation_20 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_20 {4.42}
+hero_20
+{
+Несмотря на светское прошлое, быстро адаптировался к бесхитростным и жёстким правилам моря.
+}
+
+heroName_21 {Эммануэль}
+heroNameGen_21 {Эммануэль}
+heroNameDat_21 {Эммануэль}
+heroLastname_21 {Эстебан}
+heroLastnameGen_21 {Эстебан}
+heroLastNameDat_21 {Эстебан}
+heroFace_21 {1021}
+heroModel_21 {Angelica_0,Angelica_1,Angelica_2,Angelica_3,Angelica_4,Angelica_5,Angelica_6,Angelica_7,Angelica_8}
+heroType_21 {Корсар}
+heroNation_21 {Пират}
+sex_21 {woman}
+animation_21 {Beatrice}
+idLocation_21 {Estate}
+locatorLocation_21 {goto12}
+coordinateLocation_21 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_21 {4.42}
+hero_21
+{
+Мать Эммануэль умерла при родах, а её отец, известный пират, не мог забрать девочку и отвёз её в католический монастырь близ Севильи. Монахиням было строго-настрого запрещено рассказывать Эммануэль о родителях. Девочке дали фамилию матери и сказали, что отцом был заезжий по делам капитан мелкого судна. Хотя её отец больше не появлялся вблизи монастыря, каждый месяц в монастырь привозили деньги на содержание и обучение Эммануэль, даже когда она выросла в молодую и привлекательную девушку. Определённые события и кровь легендарного пирата вынудили отказаться от пострига в монахини, и отправиться на Карибы в поисках отца.
+}
+
+heroName_22 {Альфонсо}
+heroNameGen_22 {Альфонсо}
+heroNameDat_22 {Альфонсо}
+heroLastname_22 {Сальваторе}
+heroLastnameGen_22 {Сальваторе}
+heroLastnameDat_22 {Сальваторе}
+heroFace_22 {1022}
+heroModel_22 {Tonzag_0,Tonzag_1,Tonzag_2,Tonzag_3,Tonzag_4,Tonzag_5,Tonzag_6,Tonzag_7,Tonzag_8}
+heroType_22 {Авантюрист}
+heroNation_22 {Испания}
+sex_22 {man}
+animation_22 {man}
+idLocation_22 {Estate}
+locatorLocation_22 {goto12}
+coordinateLocation_22 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_22 {4.42}
+hero_22
+{
+Несмотря на то, что создаёт впечатление ангела во плоти, имеет ужасный характер. Опытный и умелый авантюрист. Один из самых известных корсаров Франции. Оказал значительную помощь французским торговым флотилиям, сопровождая их на пути следования во Францию. Совершил блистательную экспедицию в Вест-Индию, где атаковал несколько английских и голландских колоний, собрал огромную контрибуцию, которую доставил во Францию. Отличался буйным и грубым нравом.
+}
+
+heroName_23 {Франциск}
+heroNameGen_23 {Франциска}
+heroNameDat_23 {Франциску}
+heroLastname_23 {Дюбуа}
+heroLastnameGen_23 {Дюбуа}
+heroLastNameDat_23 {Дюбуа}
+heroFace_23 {1023}
+heroModel_23 {Dubua_0,Dubua_1,Dubua_2,Dubua_3,Dubua_4,Dubua_5,Dubua_6,Dubua_7,Dubua_8}
+heroType_23 {Авантюрист}
+heroNation_23 {Франция}
+sex_23 {man}
+animation_23 {man}
+idLocation_23 {Estate}
+locatorLocation_23 {goto12}
+coordinateLocation_23 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_23 {4.42}
+hero_23
+{
+Отличается сдержанным характером. Любит опасности и приключения. Бывший мушкетёр военного дома короля Франции в последствии ставший наёмником на Карибах, а вскоре и вовсе занялся налётами и грабежами. Известен своей меткостью стрельбы и хладнокровием. Отчаяный, дерзкий и безпринципный пират, наводящий ужас не только на вольных торговцев, но и на военные суда государственного флота.
+}
+
+heroName_24 {Горацио}
+heroNameGen_24 {Горацио}
+heroNameDat_24 {Горацио}
+heroLastname_24 {Хорнблауэр}
+heroLastnameGen_24 {Хорнблауэра}
+heroLastNameDat_24 {Хорнблауэру}
+heroFace_24 {1024}
+heroModel_24 {Hornblw_0,Hornblw_1,Hornblw_2,Hornblw_3,Hornblw_4,Hornblw_5,Hornblw_6}
+heroType_24 {Авантюрист}
+heroNation_24 {Англия}
+sex_24 {man}
+animation_24 {man}
+idLocation_24 {Estate}
+locatorLocation_24 {goto12}
+coordinateLocation_24 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_24 {4.42}
+hero_24
+{
+Великолепно владеет шпагой и другим холодным оружием от кортика до тесака. Ходят слухи, что он в родстве с высокопставленными лицами из высшего общества. Не просто же так с самого детсва его обучали лучшие фехтовальщики мира. 
+}
+
+heroName_25 {Джон}
+heroNameGen_25 {Джона}
+heroNameDat_25 {Джону}
+heroLastname_25 {Сильвер}
+heroLastnameGen_25 {Сильвера}
+heroLastNameDat_25 {Сильверу}
+heroFace_25 {1025}
+heroModel_25 {Stiven_0,Stiven_1,Stiven_2,Stiven_3,Stiven_4,Stiven_5,Stiven_6,Stiven_7,Stiven_8}
+heroType_25 {Корсар}
+heroNation_25 {Пират}
+sex_25 {man}
+animation_25 {man}
+idLocation_25 {Estate}
+locatorLocation_25 {goto12}
+coordinateLocation_25 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_25 {4.42}
+hero_25
+{
+Джон Сильвер и на кораблях, и на суше умело проявлял свои лидерские качества практически в любых условиях, вне зависимости от должности и обстоятельств. Будучи пиратом, затем хозяином припортового заведения, новоявленным судовым поваром или поверженным интриганом, - всегда Сильвер умел приспособиться и «организоваться». Эта его способность адаптироваться, невозмутимость, лёгкость и общительность, с одной стороны, расчётливость и коварство - с другой, действовали на окружающих почти гипнотически, вселяли ужас и страх.
+}
+
+heroName_26 {Сесил}
+heroNameGen_26 {Сесила}
+heroNameDat_26 {Сесилу}
+heroLastname_26 {Форестер}
+heroLastnameGen_26 {Форестера}
+heroLastNameDat_26 {Форестеру}
+heroFace_26 {1026}
+heroModel_26 {Forester}
+heroType_26 {Авантюрист}
+heroNation_26 {Англия}
+sex_26 {man}
+animation_26 {man}
+idLocation_26 {Estate}
+locatorLocation_26 {goto12}
+coordinateLocation_26 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_26 {4.42}
+hero_26
+{
+Самое главное в его характере - это любовь к авантюрам. Всегда любит поиграть с судьбой. 
+}
+
+heroName_27 {Санчос}
+heroNameGen_27 {Санчоса}
+heroNameDat_27 {Санчосу}
+heroLastname_27 {Эстебан}
+heroLastnameGen_27 {Эстебана}
+heroLastnameDat_27 {Эстебану}
+heroFace_27 {1027}
+heroModel_27 {SchEsteban}
+heroType_27 {Авантюрист}
+heroNation_27 {Испания}
+sex_27 {man}
+animation_27 {man}
+idLocation_27 {Estate}
+locatorLocation_27 {goto12}
+coordinateLocation_27 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_27 {4.42}
+hero_27
+{
+Хитрый, быстрый и решительный. Никогда не делает ничего просто так. 
+}
+
+heroName_28 {Марк}
+heroNameGen_28 {Марка}
+heroNameDat_28 {Марку}
+heroLastname_28 {Вандерборг}
+heroLastnameGen_28 {Вандерборга}
+heroLastNameDat_28 {Вандерборгу}
+heroFace_28 {1028}
+heroModel_28 {Vanderborg}
+heroType_28 {Авантюрист}
+heroNation_28 {Голландия}
+sex_28 {man}
+animation_28 {man}
+idLocation_28 {Estate}
+locatorLocation_28 {goto12}
+coordinateLocation_28 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_28 {4.42}
+hero_28
+{
+Он - стратег, человек осторожный, предусмотрительный, но когда это необходимо, он смел и полон решимости.
+}
+
+heroName_29 {Артур}
+heroNameGen_29 {Артура}
+heroNameDat_29 {Артуру}
+heroLastname_29 {Корнел}
+heroLastnameGen_29 {Корнела}
+heroLastNameDat_29 {Корнелу}
+heroFace_29 {1029}
+heroModel_29 {Cornuel}
+heroType_29 {Авантюрист}
+heroNation_29 {Англия}
+sex_29 {man}
+animation_29 {man}
+idLocation_29 {Estate}
+locatorLocation_29 {goto12}
+coordinateLocation_29 {9.14,7.83,0.15,0,22.45,5.67,-4.71}
+turnLocation_29 {4.42}
+hero_29
+{
+Морской разбойник, грабивший, главным образом, испанские корабли и колонии.
+}

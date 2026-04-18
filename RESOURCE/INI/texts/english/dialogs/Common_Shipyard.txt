@@ -1,0 +1,483 @@
+Common_Shipyard_1 {
+The city is on high alert, they're searching for you everywhere! If I were you, I wouldn't stick around.
+}
+Common_Shipyard_2 {
+The whole city guard is scouring the town looking for you. I'm no fool, and I won't talk to you!
+}
+Common_Shipyard_3_m {
+Run, mate, before the soldiers turn you into a sieve...
+}
+Common_Shipyard_3_f {
+Run, lass, before the soldiers turn you into a sieve...
+}
+Common_Shipyard_4 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_5_m {
+What do you want, scoundrel?! The city guard is already on your trail—you won’t get far, filthy pirate!
+}
+Common_Shipyard_5_f {
+What do you want, you wretch?! The city guard is already on your trail—you won’t get far!
+}
+Common_Shipyard_6_m {
+Filthy murderer, get out of my house! Guards!!
+}
+Common_Shipyard_6_f {
+Filthy murderer, get out of my house! Guards!!
+}
+Common_Shipyard_7_m {
+I’m not afraid of you, scoundrel! Soon you’ll be swinging from the gallows in our fort—you won’t get far...
+}
+Common_Shipyard_7_f {
+I’m not afraid of you, wench! Soon you’ll be swinging from the gallows at our fort—you won’t get far...
+}
+Common_Shipyard_8 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_9 {
+Heh, alarms don’t bother me...
+}
+Common_Shipyard_10 {
+They’ll never catch me.
+}
+Common_Shipyard_11 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_12 {
+Shut your trap, @<GetWorkTypeOfMan>, or I'll rip out your filthy tongue!
+}
+Common_Shipyard_13 {
+Heh, @<GetWorkTypeOfMan>, still chasing pirates, are you! Let me tell you something, mate: keep your head down and you’ll live...
+}
+Common_Shipyard_14 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_15 {
+You think I’ll talk to you after what you’ve done?!
+}
+Common_Shipyard_16 {
+Honestly, it makes no difference to me. Farewell.
+}
+Common_Shipyard_17 {
+Hey, Doctor Blood! @<TimeGreeting>.
+}
+Common_Shipyard_18 {
+Glad to see you, Peter Blood.
+}
+Common_Shipyard_19 {
+Glad you stopped by, @<GetFullName>. How is Colonel Bishop doing?
+}
+Common_Shipyard_20 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_21 {
+Alas, I’m already on my way out, @<NPChar>. Until we meet again.
+}
+Common_Shipyard_22 {
+@<TimeGreeting>! I'm @<GetFullName>, the owner of this shipyard.
+}
+Common_Shipyard_23_m {
+Pleased to meet you. I’m Captain @<GetFullName>.
+}
+Common_Shipyard_23_f {
+Pleased to meet you. I’m Captain @<GetFullName>.
+}
+Common_Shipyard_24 {
+Listen, I have an important matter to discuss with you. I hope you can help me...
+}
+Common_Shipyard_25 {
+Let’s hear what this is about.
+}
+Common_Shipyard_26 {
+Ah, you again? Well, money doesn’t stink.
+}
+Common_Shipyard_27 {
+@<TimeGreeting>, how can I help you, @<GetAddress_Form>?
+}
+Common_Shipyard_28 {
+Exactly, I pay — you do the job.
+}
+Common_Shipyard_29 {
+We need to use the shipyard’s services.
+}
+Common_Shipyard_30 {
+I need cannons for the ship.
+}
+Common_Shipyard_31 {
+I want to change the ship’s appearance.
+}
+Common_Shipyard_32 {
+I just want to talk.
+}
+Common_Shipyard_33_m {
+I’d like to discuss some financial matters with you.
+}
+Common_Shipyard_33_f {
+I’d like to discuss financial matters with you.
+}
+Common_Shipyard_34 {
+I’m here on behalf of someone. His name is Governor @<GetFullName>.
+}
+Common_Shipyard_35_m {
+@<GetFullName> sent me to you. I’m here to pick something up...
+}
+Common_Shipyard_35_f {
+@<GetFullName> sent me to you. I’m here to pick something up...
+}
+Common_Shipyard_36 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_37 {
+Listen, I’ve got this thing—a tin can. I need it opened up real careful. Can you do it? I’ll pay you.
+}
+Common_Shipyard_38_m {
+I've completed your task. The blueprint from the @<XI_ConvertString> shipyard is in my possession.
+}
+Common_Shipyard_38_f {
+I've completed your task. The blueprint from the @<XI_ConvertString> shipyard is in my hands.
+}
+Common_Shipyard_39_m {
+Hello, I’ve come at your son’s invitation.
+}
+Common_Shipyard_39_f {
+Hello, I’ve come at your son’s invitation.
+}
+Common_Shipyard_40 {
+I'm here about your daughter...
+}
+Common_Shipyard_41 {
+I need to go.
+}
+Common_Shipyard_42 {
+Alright, I’m glad to meet a new customer. My shipyard is at your service.
+}
+Common_Shipyard_43 {
+Splendid, @<GetFullName>. Let’s see what you have to offer me.
+}
+Common_Shipyard_44 {
+I need cannons for the ship.
+}
+Common_Shipyard_45 {
+I want to change the ship’s appearance.
+}
+Common_Shipyard_46 {
+I just want to talk.
+}
+Common_Shipyard_47_m {
+I’d like to discuss some financial matters with you.
+}
+Common_Shipyard_47_f {
+I’d like to discuss financial matters with you.
+}
+Common_Shipyard_48 {
+I’m here on behalf of someone. His name is Governor @<GetFullName>.
+}
+Common_Shipyard_49_m {
+@<GetFullName> sent me to you. I’m here to pick something up...
+}
+Common_Shipyard_49_f {
+@<GetFullName> sent me to you. I’m here to pick something up...
+}
+Common_Shipyard_50 {
+@<RandPhraseSimple>
+}
+Common_Shipyard_51 {
+Listen, I’ve got this thing—a tin can. I need it opened up real careful. Can you do that? I’ll pay you.
+}
+Common_Shipyard_52_m {
+Hello, I’ve come at your son’s invitation.
+}
+Common_Shipyard_52_f {
+Hello, I’ve come at your son’s invitation.
+}
+Common_Shipyard_53 {
+I'm here about your daughter...
+}
+Common_Shipyard_54 {
+What can you tell me about the owner of these documents?
+}
+Common_Shipyard_55_m {
+I must go. Thank you.
+}
+Common_Shipyard_55_f {
+I must go. Thank you.
+}
+Common_Shipyard_56 {
+Let me have a look! No, I haven’t had one like that. I think you should see the port master.
+}
+Common_Shipyard_57 {
+No doubt about it...
+}
+Common_Shipyard_58 {
+Let me have a look, Captain! Aha! These are the ship’s papers of a good friend of mine—my very best client, you could say. I’m sure he’ll be overjoyed to have them back, and might even pay a handsome reward.
+}
+Common_Shipyard_59 {
+I think I can offer you @<FindMoneyString> on his behalf
+}
+Common_Shipyard_60 {
+Perhaps it’s best not to...
+}
+Common_Shipyard_61 {
+Thank you, @<GetFullName>! Give my regards to your friend.
+}
+Common_Shipyard_62 {
+I'm listening closely.
+}
+Common_Shipyard_63_m {
+I’ve brought your runaway.
+}
+Common_Shipyard_63_f {
+I’ve brought your runaway.
+}
+Common_Shipyard_64 {
+Ah, Captain, thank you so much! How is she? Is she well, unharmed? It’s been almost a whole day since she ran off, the little rascal. Do I wish her any harm? I just wanted to marry her off... The groom is wealthy, young, and so what if he’s not much to look at—looks aren’t everything. But no! She insists on having her own way—just like her mother, curse her.\nAlthough, she wouldn’t even be here if her mother hadn’t once run off with some enterprising scoundrel... but what’s the use in remembering... Youth is naïve, foolish... and cruel.
+}
+Common_Shipyard_65_m {
+Of course, you’re the father and it’s your decision, but I wouldn’t rush into the wedding...
+}
+Common_Shipyard_65_f {
+Of course, you’re the father and it’s your decision, but I wouldn’t rush into the wedding...
+}
+Common_Shipyard_66 {
+What do you know?.. Do you have children of your own? No? Well, come back when you do—then we’ll talk.\nYes... I promised a reward to whoever brought her back—please, take it.
+}
+Common_Shipyard_67 {
+Thank you. And hold on to her tight. Something tells me she won't stop there.
+}
+Common_Shipyard_68_m {
+Ah, so you’re the captain who brought my wayward son back with his young bride?
+}
+Common_Shipyard_68_f {
+Ah, so you’re the young woman who brought back my wayward son with his young bride?
+}
+Common_Shipyard_69_m {
+Yes, I’m the one who helped them escape.
+}
+Common_Shipyard_69_f {
+Yes, I’m the one who helped them escape.
+}
+Common_Shipyard_70_m {
+Ah, there you are, my benefactor. Hoping for a reward, are you?
+}
+Common_Shipyard_70_f {
+Ah, so you’ve shown up, benefactress. Hoping for a reward, are you?
+}
+Common_Shipyard_71 {
+Well, it’s not exactly a reward, but a word of thanks wouldn’t hurt.
+}
+Common_Shipyard_72 {
+I am truly grateful to you for not leaving my child in a difficult situation and for helping them come out of such a delicate predicament with honor. Please allow me to thank you as best I can. Accept this modest sum and a personal gift from me.
+}
+Common_Shipyard_73 {
+Thank you, I was glad to help those young people.
+}
+Common_Shipyard_74 {
+Gratitude? What gratitude?! What for?! Not only has that layabout been loafing around without a job for half a year, now he’s got time to flirt! At his age, I was already running my own business. But him, look at him, getting all fired up! The governor’s daughter is ready for marriage, and he drags home some nameless hussy, God forgive me, and asks for his parents’ blessing!
+}
+Common_Shipyard_75 {
+Hmm, so you don't believe in genuine feelings?
+}
+Common_Shipyard_76 {
+What feelings?! What are you talking about, feelings? You’re a grown person, aren’t you, and yet... feelings! You ought to be ashamed, encouraging young people in such things, playing the matchmaker. You tore the girl from her family nest and ruined my boy’s life. Don’t expect any gratitude from me. Farewell.
+}
+Common_Shipyard_77 {
+Well then, take care of yourself...
+}
+Common_Shipyard_78 {
+Are you fooling me? Where’s your ship, then? It’s not at the pier!
+}
+Common_Shipyard_79 {
+Devil take me, you won't fool me! Your ship isn't at the pier!
+}
+Common_Shipyard_80 {
+I don’t see your ship in the harbor, Captain @<GetFullName>. And all the invisible cannons are already sold out—come back tomorrow.
+}
+Common_Shipyard_81 {
+Captain, we could just toss the new cannons off the pier straight into the sea, but it’d be better if you docked your ship and came over.
+}
+Common_Shipyard_82 {
+@<RandSwear> What a nuisance!!! All right, you old fox, we’ll meet again!
+}
+Common_Shipyard_83_m {
+I didn't mean to deceive you, @<GetFullName>. I'll dock at the port now.
+}
+Common_Shipyard_83_f {
+I didn’t mean to deceive you, @<GetFullName>. I’ll dock at the port now.
+}
+Common_Shipyard_84 {
+Well, I’ll be back for sure.
+}
+Common_Shipyard_85 {
+Thanks for the advice, I’ll be sure to use it.
+}
+Common_Shipyard_86 {
+Wonderful. We'll do everything in the best way possible.
+}
+Common_Shipyard_87_m {
+I’ve changed my mind.
+}
+Common_Shipyard_87_f {
+I’ve changed my mind.
+}
+Common_Shipyard_88 {
+Are you fooling me? Where’s your ship, then? It’s not at the pier!
+}
+Common_Shipyard_89 {
+Devil take me, you won't fool me! Your ship isn't at the pier!
+}
+Common_Shipyard_90 {
+@<RandSwear> What a nuisance!!! Alright, you old fox, we’ll meet again!
+}
+Common_Shipyard_91_m {
+I didn’t mean to deceive you, @<GetFullName>. The ship is on the other side of the island.
+}
+Common_Shipyard_91_f {
+I didn’t mean to deceive you, @<GetFullName>. The ship is on the other side of the island.
+}
+Common_Shipyard_92 {
+I need to get my hands on an important blueprint. A very important blueprint...
+}
+Common_Shipyard_93 {
+Hmm. What kind of blueprint is that, and where do I get it?
+}
+Common_Shipyard_94 {
+of the corvette
+}
+Common_Shipyard_95 {
+fluyt
+}
+Common_Shipyard_96 {
+of the frigate
+}
+Common_Shipyard_97 {
+@<LinkRandPhrase>
+}
+Common_Shipyard_98 {
+I've learned that a brand-new @<pchar> is being built at the @<XI_ConvertString> shipyard. I need the plans they're using for the construction.
+}
+Common_Shipyard_99_m {
+And what am I supposed to do?
+}
+Common_Shipyard_99_f {
+And what am I supposed to do?
+}
+Common_Shipyard_100 {
+Bring it to me. The problem is, the blueprint is so valuable that the shipyard owner keeps it in plain sight at all times. To be precise—right on his desk.
+}
+Common_Shipyard_101 {
+And what do you suggest?
+}
+Common_Shipyard_102 {
+Hmm, I suggest you deliver the blueprint to me. How you do it is your concern. I’m willing to pay handsomely for this job, though much will depend on the actual value of the information contained in the blueprint.
+}
+Common_Shipyard_103 {
+What do you mean by that?
+}
+Common_Shipyard_104 {
+If the project involves new technological solutions I’m not familiar with, the fee will be quite substantial. Otherwise, my payment won’t be high... So, are you willing to take on this job?
+}
+Common_Shipyard_105 {
+No, I'm not interested. Delivering a pig in a poke doesn't sound like rewarding work to me.
+}
+Common_Shipyard_106 {
+I think I should take care of this. I'm on it!
+}
+Common_Shipyard_107 {
+Hmm, well, that's a shame.
+}
+Common_Shipyard_108 {
+Me too...
+}
+Common_Shipyard_109 {
+Well then, good luck to you. I’ll be waiting for your results. There’s no deadline.
+}
+Common_Shipyard_110 {
+I see...
+}
+Common_Shipyard_111_m {
+Ah, you scoundrel! What do you think you’re doing?! You’re in for it now—let’s teach you a lesson. Come on, lads, grab your axes!
+}
+Common_Shipyard_111_f {
+Ah, you little rascal! What do you think you’re doing?! Just you wait, you’re about to get what’s coming to you. Alright, lads, grab your axes!
+}
+Common_Shipyard_112 {
+Hatchets?..
+}
+Common_Shipyard_113_m {
+You think you can threaten me?! All right, lads, grab your axes!
+}
+Common_Shipyard_113_f {
+You think you can threaten me?! Alright, boys, grab your axes!
+}
+Common_Shipyard_114 {
+Hatchets?..
+}
+Common_Shipyard_115 {
+Excellent! Well then, let’s see what this much-praised @<strcut> is all about...
+}
+Common_Shipyard_116 {
+Look.
+}
+Common_Shipyard_117 {
+Well, well... Hmm, I’m afraid I have to disappoint you. I don’t see anything useful here for me. Looks like you’ve brought the wrong stuff altogether.
+}
+Common_Shipyard_118_m {
+You ordered what was on the table. That’s exactly what I brought you. I don’t know anything about these blueprints!
+}
+Common_Shipyard_118_f {
+You ordered what was on the table. That’s exactly what I brought you. I don’t know anything about these blueprints!
+}
+Common_Shipyard_119 {
+Yes, this blueprint does have some value. I'm willing to pay you @<FindMoneyString> for it. The payment will be in silver nuggets. Is that all right with you?
+}
+Common_Shipyard_120 {
+No, of course not! Wonderful!
+}
+Common_Shipyard_121 {
+Yes, this blueprint does have some value. I’m willing to pay you @<FindMoneyString> for it. I’ll pay in gold nuggets. Is that all right with you?
+}
+Common_Shipyard_122 {
+No, of course not! Wonderful!
+}
+Common_Shipyard_123 {
+Yes, this blueprint does have some value. I'm willing to pay you @<FindMoneyString> for it.
+}
+Common_Shipyard_124 {
+Excellent!
+}
+Common_Shipyard_125 {
+Yes, this blueprint is quite valuable. I'm willing to pay you @<FindMoneyString> for it.
+}
+Common_Shipyard_126 {
+Excellent!
+}
+Common_Shipyard_127 {
+Oh! This is a very, very valuable blueprint! I’m willing to pay you 60,000 piastres for it. I’ll pay in credit chests. Do you mind?
+}
+Common_Shipyard_128 {
+No, of course not! Wonderful!
+}
+Common_Shipyard_129 {
+Alas, I can’t pay anything for this. Sorry, but I have no use for this paper.
+}
+Common_Shipyard_130 {
+Hmm, I don't think what you did was fair, but I won't make a scene.
+}
+Common_Shipyard_131 {
+Hand over my money! Or I'll spill some blood!
+}
+Common_Shipyard_132 {
+Don’t get me wrong, you could’ve just picked this up at some junkyard. This blueprint isn’t worth anything.
+}
+Common_Shipyard_133_m {
+I understand you...
+}
+Common_Shipyard_133_f {
+I understand you...
+}
+Common_Shipyard_134 {
+Here you go. Thank you for your work.
+}
+Common_Shipyard_135 {
+Think nothing of it...
+}

@@ -1,0 +1,85 @@
+LSC_Q2Utilite_1 {Le capitaine Sharp était ici, je l’ai vu. Mais il n’est plus en ville maintenant, et j’ignore où il est parti.}
+LSC_Q2Utilite_2 {Le capitaine Sharp est passé par notre ville. Je ne sais pas où il est maintenant, mais il n’est sûrement plus ici.}
+LSC_Q2Utilite_3 {Le capitaine Bartholomew Sharp a quitté la ville il y a seulement quelques jours...}
+LSC_Q2Utilite_4 {Le capitaine Bartholomew Sharp est passé par notre ville et, comme toujours, il a laissé sa trace... Mais il n’est plus ici. On raconte qu’il est parti pour @<XI_ConvertString>.}
+LSC_Q2Utilite_5 {Vous savez, le capitaine Sharp était en ville récemment. Un pirate jovial, ce Bartholomew... Enfin, c’est une bonne chose qu’il ait quitté notre ville. Il paraît qu’il est parti à @<XI_ConvertString>.}
+LSC_Q2Utilite_6 {Vous savez, le capitaine Sharp nous a récemment honorés de sa présence. Mais, à notre grande déception, il n’y a pas eu de nouvelle blague caribéenne « de Sharp ». Dommage... Et en ce moment, il n’est pas en ville. On dit qu’il est parti à @<XI_ConvertString>. Peut-être auront-ils plus de chance...}
+LSC_Q2Utilite_7 {Vous savez, le capitaine Sharp vient juste de quitter la ville sur son brick. Si vous étiez arrivé une demi-heure plus tôt, vous l'auriez vu directement au port.}
+LSC_Q2Utilite_8 {Le capitaine Sharp... Eh bien, c’est tout un capitaine. Vous savez, il vient juste de quitter notre ville. Si vous vous dépêchez, vous pourrez peut-être le trouver dans les eaux voisines.}
+LSC_Q2Utilite_9 {Bartholomew Sharp a littéralement quitté notre port pour la mer il y a tout juste une heure.}
+LSC_Q2Utilite_10 {Il y a quelques minutes, le capitaine Sharp m’a croisé en face à face. Il traîne dans les rues par ici… Étonnant qu’il ne soit pas dans un bordel…}
+LSC_Q2Utilite_11 {Je viens d’avoir l’occasion de parler au capitaine Sharp dans la rue. Un personnage intéressant, vous savez…}
+LSC_Q2Utilite_12 {Le capitaine Sharp se promène en ville en ce moment. Et nous attendons tous de voir ce qu’il va encore inventer...}
+LSC_Q2Utilite_13 {Vous savez, le marchand local, @<GetFullName>, envoie de nouveau son propre flûte '@<pchar>' dans l’Ancien Monde pour chercher des marchandises. Le flûte a quitté le port récemment.}
+LSC_Q2Utilite_14 {Hmm, notre marchand local se porte plutôt bien ! @<GetFullName> a de nouveau envoyé son propre flûte, '@<pchar>', chercher des marchandises—le navire vient tout juste de quitter notre port.}
+LSC_Q2Utilite_15 {Eh bien, @<GetFullName> ne cesse de s’enrichir. Hier encore, son voilier déchargeait au port, et aujourd’hui le port lui a déjà dit adieu. Le fluyt '@<pchar>' est reparti chercher d’autres marchandises, c’est comme ça !}
+LSC_Q2Utilite_16 {sur le cuirassé 'Tartarus', là où se trouve la prison}
+LSC_Q2Utilite_17 {sur la frégate Carolina}
+LSC_Q2Utilite_18 {sur le flûte « Ceres Smiti »}
+LSC_Q2Utilite_19 {sur le galion 'Esmeralda', où se trouve la boutique}
+LSC_Q2Utilite_20 {sur la caravelle 'Fleuron', là où se trouve la taverne}
+LSC_Q2Utilite_21 {sur la pinasse 'Fury', à la proue}
+LSC_Q2Utilite_22 {sur la pinasse 'Fury', à l'arrière}
+LSC_Q2Utilite_23 {sur le galion 'Gloria', où est l'église}
+LSC_Q2Utilite_24 {sur la flûte « Pluto »}
+LSC_Q2Utilite_25 {sur la corvette 'Protector'}
+LSC_Q2Utilite_26 {sur le vaisseau de guerre 'San Augustin', où se trouve la résidence de l'amiral}
+LSC_Q2Utilite_27 {sur la barque 'San Gabriel', à l'avant}
+LSC_Q2Utilite_28 {sur le barque 'San Gabriel', à l'arrière}
+LSC_Q2Utilite_29 {sur la brigantine 'Santa Florentina'}
+LSC_Q2Utilite_30 {sur le galion 'Eva'}
+LSC_Q2Utilite_31 {sur le galion Velasco}
+LSC_Q2Utilite_32 {sur la plateforme Phoenix}
+LSC_Q2Utilite_33 {sur le galion Eva}
+LSC_Q2Utilite_34 {sur la frégate 'Carolina'}
+LSC_Q2Utilite_35 {sur le flûte « Ceres Smithy »}
+LSC_Q2Utilite_36 {dans le galion "Esmeralda", dans la boutique}
+LSC_Q2Utilite_37 {sur la plateforme Phoenix}
+LSC_Q2Utilite_38 {sur le fluyt 'Fernando Diffindur'}
+LSC_Q2Utilite_39 {dans la caravelle 'Fleuron', à la taverne}
+LSC_Q2Utilite_40 {à bord du pinasse Fury}
+LSC_Q2Utilite_41 {dans le galion "Gloria", à l’église}
+LSC_Q2Utilite_42 {dans la flotte « Pluto »}
+LSC_Q2Utilite_43 {à bord du corvette Protector}
+LSC_Q2Utilite_44 {sur le vaisseau de guerre 'San Augustin', dans la résidence de l'amiral}
+LSC_Q2Utilite_45 {sur le barque "San Gabriel"}
+LSC_Q2Utilite_46 {dans la brigantine "Santa Florentina"}
+LSC_Q2Utilite_47 {dans le cuirassé 'Tartarus', à la prison}
+LSC_Q2Utilite_48 {sur le galion « Velasco »}
+LSC_Q2Utilite_49 {Le capitaine @<GetStrSmallRegister> '@<sld>' est en ville en ce moment. Je crois qu'il s'appelle @<GetFullName>. Il devrait être à l'autorité portuaire maintenant.}
+LSC_Q2Utilite_50 {Vous savez, le capitaine @<GetStrSmallRegister> '@<sld>' se trouve en ce moment à l'administration portuaire.}
+LSC_Q2Utilite_51 {Si vous voulez parler au capitaine @<GetStrSmallRegister> '@<sld>', allez directement voir le maître du port. @<GetFullName> s’y trouve en ce moment...}
+LSC_Q2Utilite_52 {@<LinkRandPhrase>}
+LSC_Q2Utilite_53 {Le capitaine @<GetStrSmallRegister> '@<sld>' est ancré en rade du port. Il me semble qu'il s'appelle @<GetFullName>. Un drôle de personnage, je dois dire — il ne met jamais pied à terre.}
+LSC_Q2Utilite_54 {Vous savez, on ne peut rencontrer le capitaine @<GetStrSmallRegister> '@<sld>' qu'en prenant une barque jusqu'au port. Le navire est au mouillage, mais le capitaine ne vient jamais en ville, il préfère rester à bord. Il n'en a donc jamais assez ?..}
+LSC_Q2Utilite_55 {Si vous voulez parler au capitaine @<GetStrSmallRegister> '@<sld>', rendez-vous au port. Il me semble qu’il s’appelle @<GetFullName>... Bref, il a jeté l’ancre dans le port, mais il ne met jamais pied à terre. Un vrai loup de mer—il ne veut même pas quitter le roulis du pont.}
+LSC_Q2Utilite_56 {@<LinkRandPhrase>}
+LSC_Q2Utilite_57 {Le capitaine @<GetStrSmallRegister> '@<sld>' est en ville. Je crois qu'il s'appelle @<GetFullName>.}
+LSC_Q2Utilite_58 {Vous savez, le capitaine @<GetStrSmallRegister> « @<sld> » se trouve en ville en ce moment.}
+LSC_Q2Utilite_59 {Si vous voulez parler au capitaine @<GetStrSmallRegister> « @<sld> », cherchez-le dans les rues. Je crois qu’il s’appelle @<GetFullName>...}
+LSC_Q2Utilite_60 {@<LinkRandPhrase>}
+LSC_Q2Utilite_61 {Le capitaine @<GetStrSmallRegister> « @<sld> » est ancré dans le port. Je crois qu’il s’appelle @<GetFullName>.}
+LSC_Q2Utilite_62 {Vous savez, le capitaine @<GetStrSmallRegister> '@<sld>' est actuellement dans notre port. Son navire est à l'ancre en rade.}
+LSC_Q2Utilite_63 {Si vous voulez parler au capitaine @<GetStrSmallRegister> « @<sld> », cherchez son navire dans notre port. Je crois qu’il s’appelle @<GetFullName>...}
+LSC_Q2Utilite_64 {@<LinkRandPhrase>}
+LSC_Q2Utilite_65 {Capitaine, il paraît qu'une brigantine pirate est actuellement amarrée à @<XI_ConvertString>. Les habitants ont vu des pirates débarquer et charger quelque chose sur leur navire.}
+LSC_Q2Utilite_66 {Vous imaginez ? Un esclave est arrivé en boitant dans notre ville. Tout meurtri et malade. Il dit s’être échappé de la brigantine pirate 'Arrow' quand elle était amarrée à @<XI_ConvertString>. Mon conseil, capitaine : n’y allez pas, la brigantine pourrait encore s’y trouver.}
+LSC_Q2Utilite_67 {Tout le monde parle du moine @<sRumourName> en ce moment. Il adorait la source de @<XI_ConvertString>. Il disait que l’eau là-bas était bénite ! Il prétendait qu’elle guérissait tous ses maux sur-le-champ. Des balivernes, bien sûr—mon orgelet n’a pas disparu après en avoir bu.\n Bref... La dernière fois qu’il est revenu de là-bas, il était furieux. Il disait que des démons—avec des arcs ou peut-être des arbalètes—faisaient un sabbat et profanaient tout. Il a pris son marteau et est parti les chasser. Cela fait trois jours maintenant, et il n’est toujours pas revenu...}
+LSC_Q2Utilite_68 {@<LinkRandPhrase>}
+LSC_Q2Utilite_69 {Un capitaine m’a raconté qu’il lui était arrivé de @<XI_ConvertString> tomber sur une vieille frégate abandonnée. Mais lorsqu’il a voulu l’inspecter, il s’est avéré qu’elle n’était pas abandonnée du tout : des squelettes erraient sur son pont ! Drôle d’histoire, non ? Comme on dit, boire en mer n’est pas bon pour la tête.}
+LSC_Q2Utilite_70 {Il se passe de drôles de choses dans ce monde ! Par exemple, hier, mon compagnon de beuverie m’a raconté une histoire intrigante. Il pêchait près de @<XI_ConvertString> quand il est tombé sur une vieille frégate, apparemment abandonnée. Mais en s’approchant du navire, il a entendu d’étranges bruits, comme si quelqu’un marchait sur le pont. Soudain, des marins sont sortis de la cale sombre—revenus à la vie—et se sont mis à danser au son d’une musique fantomatique. Eh bien, il a pris la fuite aussitôt… Depuis, il boit sans arrêt depuis une semaine…}
+LSC_Q2Utilite_71 {Un de mes connaissances m’a raconté une histoire incroyable. Il a affirmé que @<XI_ConvertString> était tombé sur une frégate ancienne. Sur son pont, il y avait les squelettes de marins morts. Et le plus étonnant, c’est que ces squelettes bougeaient et, malgré leur mort, continuaient à remplir leurs fonctions. J’aimerais avoir une telle détermination, capitaine ! Je ne serais sûrement pas coincé dans ce trou...}
+LSC_Q2Utilite_72 {@<LinkRandPhrase>}
+LSC_Q2Utilite_73 {Vous avez entendu que Chad Capper a perdu une clé qui lui tenait à cœur ? Maintenant, il parcourt toute la Ville à sa recherche...}
+LSC_Q2Utilite_74 {amiral}
+LSC_Q2Utilite_75 {amiral}
+LSC_Q2Utilite_76 {un tavernier}
+LSC_Q2Utilite_77 {un tavernier}
+LSC_Q2Utilite_78 {un tavernier}
+LSC_Q2Utilite_79 {un tavernier}
+LSC_Q2Utilite_80 {un tavernier}
+LSC_Q2Utilite_81 {un tavernier}
+LSC_Q2Utilite_82 {une serveuse}
+LSC_Q2Utilite_83 {une serveuse}
+LSC_Q2Utilite_84 {le mécanicien}
+LSC_Q2Utilite_85 {le mécanicien}

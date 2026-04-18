@@ -1,0 +1,561 @@
+Capitan_ransack_dialog_1 {
+@<RandSwear> Soy tu prisionero, @<GetAddress_Form>. Pero debo decirte que los Brethren of the Coast nunca pagan rescate por los suyos — cada uno se las arregla solo.
+}
+Capitan_ransack_dialog_2 {
+Hmm... No puedo sacar provecho de ti, a menos que te entregue como criminal en algún puerto por una recompensa.
+}
+Capitan_ransack_dialog_3 {
+Escucha, eres un buen luchador y justo ahora necesito gente valiente. ¿Qué te parece ser oficial a mis órdenes?
+}
+Capitan_ransack_dialog_4 {
+@<RandSwear> Soy tu prisionero, @<GetAddress_Form>. @<NationNameNominative> pagará una buena suma por mi liberación.
+}
+Capitan_ransack_dialog_5 {
+Escucha, sabes moverte bien en el mar y necesito marineros experimentados. ¿Te gustaría servir bajo mis órdenes?
+}
+Capitan_ransack_dialog_6_m {
+Estamos cerca de la ciudad de @<GetConvertStr> ahora mismo. Podría dejarte aquí.
+}
+Capitan_ransack_dialog_6_f {
+Ahora estamos cerca de la ciudad de @<GetConvertStr>. Podría dejarte aquí.
+}
+Capitan_ransack_dialog_7 {
+Ve con el contramaestre y dile que te asigne un cofre en el castillo de proa. Bajarás a tierra en la próxima bahía.
+}
+Capitan_ransack_dialog_8 {
+Creo que serías un esclavo excelente: fuerte y obediente.
+}
+Capitan_ransack_dialog_9 {
+No me agradas, así que serás ejecutado. El contramaestre ya recibió las órdenes necesarias.
+}
+Capitan_ransack_dialog_10 {
+Ignoraste la orden de detenerte y te resististe, así que serás ejecutado. El contramaestre ya recibió las instrucciones necesarias.
+}
+Capitan_ransack_dialog_11 {
+Lo sé.
+}
+Capitan_ransack_dialog_12 {
+Ya decidiré qué hacer contigo más tarde. Por ahora, vuelve a la bodega.
+}
+Capitan_ransack_dialog_13 {
+Capitán, si me permite la osadía, ¿podría proponerle un acuerdo bastante provechoso para obtener mi libertad?
+}
+Capitan_ransack_dialog_14 {
+Sé que negociar no es lo más adecuado en mi situación, pero ¿estarías dispuesto a escuchar una propuesta de negocios, por así decirlo?
+}
+Capitan_ransack_dialog_15 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_16 {
+Hmm, bueno, escuchemos tu oferta.
+}
+Capitan_ransack_dialog_17 {
+Capitán, ¿por qué no me deja ir? ¿De qué le sirvo ahora? Claro, podría venderme a los traficantes de esclavos y conseguir unas pocas monedas, pero lo único que ganará será fama de cruel.
+}
+Capitan_ransack_dialog_18 {
+Si los dejo ir, no ganaré ni una sola moneda...
+}
+Capitan_ransack_dialog_19 {
+No me agradas, así que vas a ser ejecutado. El contramaestre ya recibió las órdenes.
+}
+Capitan_ransack_dialog_20 {
+Ignoraste la orden de detenerte y te resististe; por eso, serás ejecutado. El contramaestre ya ha recibido las instrucciones necesarias.
+}
+Capitan_ransack_dialog_21 {
+Insistes tanto en que te deje libre que estoy dispuesto a hacerlo. Eres libre, vete del barco.
+}
+Capitan_ransack_dialog_22 {
+No pongas a prueba mi paciencia. Ya es suficiente suerte que sigas con vida.
+}
+Capitan_ransack_dialog_23 {
+Tengo otros planes para ti.
+}
+Capitan_ransack_dialog_24 {
+Creo que aún me serás útil.
+}
+Capitan_ransack_dialog_25 {
+@<LinkRandPhrase>
+}
+Capitan_ransack_dialog_26 {
+Capitán, es la incertidumbre lo que más me inquieta. ¿Puedo preguntar cuáles son sus planes para mí?
+}
+Capitan_ransack_dialog_27 {
+¿Tienes alguna sugerencia en particular?
+}
+Capitan_ransack_dialog_28_m {
+Aún no he decidido qué hacer contigo.
+}
+Capitan_ransack_dialog_28_f {
+Aún no he decidido qué hacer contigo.
+}
+Capitan_ransack_dialog_29 {
+Lo sabrás cuando llegue el momento.
+}
+Capitan_ransack_dialog_30 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_31 {
+Entonces, ¿cuál es el plan? ¿Atarme una bala de cañón al cuello y lanzarme al agua...? Es broma, es broma.
+}
+Capitan_ransack_dialog_32 {
+Eres mi prisionero, y tengo todo el derecho de hacer contigo lo que considere, sin importar tu opinión o deseos.
+}
+Capitan_ransack_dialog_33 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_34 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_35 {
+Capitán, ¿por qué no me deja ir en paz? ¿Qué podría sacar usted de mí? No me hice pirata por gusto—no conozco otro oficio. Solo esperaba ahorrar algo para la vejez, pero mire cómo terminó todo.
+}
+Capitan_ransack_dialog_36 {
+Escucha, eres un buen luchador y justo ahora necesito gente valiente y decidida. ¿Qué te parece ser oficial a mis órdenes?
+}
+Capitan_ransack_dialog_37 {
+No esperes piedad. Hay muchos como tú rondando estos mares; ahora habrá uno menos.
+}
+Capitan_ransack_dialog_38 {
+¿Por qué tanto llanto, “terror de los mares”? Quédate quieto, ya te atraparon.
+}
+Capitan_ransack_dialog_39 {
+No importa cuánto se enrede la cuerda, al final será una soga. Te entregaré a las autoridades para que otros aprendan de tu destino.
+}
+Capitan_ransack_dialog_40 {
+@<LinkRandPhrase>
+}
+Capitan_ransack_dialog_41 {
+Capitán, por el amor de Dios, se lo suplico—déjeme ir en paz. Tengo una familia en casa, niños pequeños—¿qué será de ellos sin su sustento? Probablemente ya me hayan dado por muerto...
+}
+Capitan_ransack_dialog_42 {
+Escucha, eres todo un experto en asuntos del mar y necesito marineros experimentados. ¿Te gustaría servir bajo mis órdenes?
+}
+Capitan_ransack_dialog_43 {
+Tengo otros planes para ti.
+}
+Capitan_ransack_dialog_44 {
+Creo que todavía me serás útil.
+}
+Capitan_ransack_dialog_45 {
+Eres mi prisionero, y haré contigo lo que considere apropiado.
+}
+Capitan_ransack_dialog_46 {
+@<LinkRandPhrase>
+}
+Capitan_ransack_dialog_47 {
+Capitán, he perdido la batalla y quiero suplicar misericordia. Como persona magnánima, déjeme ir en nombre de la compasión. De todos modos me espera un castigo: me quitarán el rango por rendir el barco. Al menos no me quite la libertad…
+}
+Capitan_ransack_dialog_48 {
+¡Capitán, apelo a su misericordia! Entiendo que no tiene sentido exigir ser tratado como prisionero de guerra, así que le pido que me libere. Le doy mi palabra de oficial de que evitaré cruzarme en su camino de ahora en adelante.
+}
+Capitan_ransack_dialog_49 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_50 {
+No pongas a prueba mi paciencia. Ya es suerte que sigas con vida.
+}
+Capitan_ransack_dialog_51 {
+Tengo otros planes para ti.
+}
+Capitan_ransack_dialog_52 {
+Creo que todavía me serás útil.
+}
+Capitan_ransack_dialog_53 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_54 {
+Eres mi prisionero, y tengo todo el derecho de hacer contigo lo que considere apropiado, sin importar tu opinión o deseos.
+}
+Capitan_ransack_dialog_55 {
+Eres el capitán de un buque de guerra; sabías en lo que te metías. No vengas a hacerte el santo ahora.
+}
+Capitan_ransack_dialog_56 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_57 {
+@<LinkRandPhrase>
+}
+Capitan_ransack_dialog_58 {
+Escucha, eres un buen luchador y justo ahora necesito gente valiente y decidida. ¿Qué te parece servir como oficial bajo mi mando?
+}
+Capitan_ransack_dialog_59 {
+Capitán, hagamos un trato. Ahora mismo no tengo nada que ofrecerle, pero es muy posible que en un par de meses pueda pagarle en oro por mi liberación.
+}
+Capitan_ransack_dialog_60 {
+Pequeños favores, información, lealtad inquebrantable. ¿Qué más puedo ofrecerte a cambio de mi libertad?
+}
+Capitan_ransack_dialog_61 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_62 {
+Tengo otros planes para ti.
+}
+Capitan_ransack_dialog_63 {
+Creo que todavía podré necesitarte.
+}
+Capitan_ransack_dialog_64 {
+Eres mi prisionero, y haré contigo lo que considere apropiado.
+}
+Capitan_ransack_dialog_65 {
+@<LinkRandPhrase>
+}
+Capitan_ransack_dialog_66_m {
+Ahora estamos cerca de la ciudad de @<GetConvertStr>. Podría dejarte aquí.
+}
+Capitan_ransack_dialog_66_f {
+Estamos cerca de la ciudad de @<GetConvertStr> ahora mismo. Podría dejarte aquí.
+}
+Capitan_ransack_dialog_67 {
+Ve con el contramaestre y dile que te asigne un cofre en el castillo de proa. Bajarás a tierra en la próxima bahía.
+}
+Capitan_ransack_dialog_68 {
+¡Al diablo contigo! Ve con el contramaestre, él recibirá las órdenes adecuadas y te dejarán en la bahía más cercana. Y recuerda: la próxima vez que nos veamos, será la última.
+}
+Capitan_ransack_dialog_69 {
+Creo que serías un esclavo excelente: fuerte y obediente.
+}
+Capitan_ransack_dialog_70 {
+No me agradas, así que serás ejecutado. El contramaestre ya recibió las órdenes.
+}
+Capitan_ransack_dialog_71 {
+Ignoraste la orden de detenerte y ofreciste resistencia; por eso, serás ejecutado. El contramaestre ya ha recibido las instrucciones necesarias.
+}
+Capitan_ransack_dialog_72 {
+Ya decidiré qué hacer contigo más tarde. Por ahora, vuelve a la bodega.
+}
+Capitan_ransack_dialog_73 {
+¿Un criminal? ¡Debes estar bromeando, @<GetAddress_Form>!
+}
+Capitan_ransack_dialog_74 {
+Esto no es ningún juego. Un pirata sigue siendo un pirata.
+}
+Capitan_ransack_dialog_75 {
+¿Servir bajo tus órdenes? ¡Prefiero alimentar a los tiburones!
+}
+Capitan_ransack_dialog_76 {
+Cuida lo que dices, o tal vez lo haga.
+}
+Capitan_ransack_dialog_77 {
+¿Un oficial, @<GetAddress_Form>? No me voy a negar. Conozco el oficio, y además, ¿cuánto tiempo puede uno quedarse anclado esperando la horca?
+}
+Capitan_ransack_dialog_78 {
+¡Entonces está decidido! Adelante, hazte cargo.
+}
+Capitan_ransack_dialog_79_m {
+No te apresures, he cambiado de opinión. Tener a un ex pirata como oficial trae más problemas que beneficios.
+}
+Capitan_ransack_dialog_79_f {
+No te apresures, he cambiado de opinión. Tener a un ex pirata como oficial trae más problemas que beneficios.
+}
+Capitan_ransack_dialog_80 {
+Sin duda es una oferta halagadora, pero debo rechazarla… por principios, por así decirlo.
+}
+Capitan_ransack_dialog_81 {
+Lamentablemente, después de lo que les hiciste a mis compañeros, eso ya no es posible...
+}
+Capitan_ransack_dialog_82 {
+No, capitán, después de todo ese horror, ya no puedo hacerlo. Juré que si la Virgen Santísima escuchaba mis plegarias y me concedía la libertad, no volvería a poner un pie en el mar.
+}
+Capitan_ransack_dialog_83 {
+@<LinkRandPhrase>
+}
+Capitan_ransack_dialog_84 {
+Bueno, como quieras. No voy a suplicar.
+}
+Capitan_ransack_dialog_85 {
+¿Y por qué no habría de servir? Nunca llegué a ser capitán, arruiné mi propio negocio, ¿y qué me espera en tierra aparte de pagarés y deudas?.. Marinero, entonces—eso seré.
+}
+Capitan_ransack_dialog_86 {
+¡Entonces está decidido! Ve con el contramaestre; él te pondrá en la lista. Después te asignaré un puesto.
+}
+Capitan_ransack_dialog_87_m {
+No hay prisa, he cambiado de opinión. Al fin y al cabo, este barco no está abierto para cualquiera.
+}
+Capitan_ransack_dialog_87_f {
+No te apresures, he cambiado de opinión. Después de todo, no cualquiera puede subir a este barco.
+}
+Capitan_ransack_dialog_88 {
+¡Pero @<GetAddress_Form>, no puedes hacer esto! Me rendí a tu merced en la batalla.
+}
+Capitan_ransack_dialog_89 {
+¡Basta de palabras! Pónganlo en grilletes.
+}
+Capitan_ransack_dialog_90 {
+Está bien, lo pensaré. Por ahora, espera aquí...
+}
+Capitan_ransack_dialog_91 {
+Pero @<GetAddress_Form>, ¿por qué? ¡No puedes hacer esto!
+}
+Capitan_ransack_dialog_92_m {
+¡Yo mando en esta bodega! ¡Contramaestre! Ponte a trabajar.
+}
+Capitan_ransack_dialog_92_f {
+¡Yo mando en esta bodega! ¡Contramaestre! Ponte a trabajar.
+}
+Capitan_ransack_dialog_93 {
+¡Pero @<GetAddress_Form>, no puedes hacer esto! Me rendí a tu merced en combate.
+}
+Capitan_ransack_dialog_94 {
+Después de que los hombres a quienes traicionaste tan fácilmente hayan muerto... ¡Contramaestre! Ponte a ello.
+}
+Capitan_ransack_dialog_95 {
+De acuerdo, lo pensaré. Por ahora, espera aquí...
+}
+Capitan_ransack_dialog_96 {
+Al menos déjame confesar antes de morir...
+}
+Capitan_ransack_dialog_97 {
+Al menos déjame rezar antes de morir...
+}
+Capitan_ransack_dialog_98 {
+Lo permito...
+}
+Capitan_ransack_dialog_99 {
+¿Sabes qué? ¡Guárdate tus juegos! Todos sabemos perfectamente que ninguno de nosotros saldrá vivo de aquí.
+}
+Capitan_ransack_dialog_100 {
+Bueno, perdiste tu oportunidad...
+}
+Capitan_ransack_dialog_101 {
+¿Sabes qué? ¡Guárdate tus juegos! Los dos sabemos perfectamente que no voy a salir de aquí con vida.
+}
+Capitan_ransack_dialog_102_m {
+Bueno, perdiste tu oportunidad...
+}
+Capitan_ransack_dialog_102_f {
+Bueno, perdiste tu oportunidad...
+}
+Capitan_ransack_dialog_103_m {
+De acuerdo, acepto. ¡Pero no esperes piedad! ¡Te arrancaré el corazón podrido con mis propias manos!
+}
+Capitan_ransack_dialog_103_f {
+De acuerdo, acepto. ¡Pero no esperes piedad! ¡Te arrancaré ese corazón podrido con mis propias manos!
+}
+Capitan_ransack_dialog_104 {
+Con mucho gusto, voy a limpiarte esa cara descarada.
+}
+Capitan_ransack_dialog_105 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_106 {
+Perfecto. Entonces, empecemos.
+}
+Capitan_ransack_dialog_107 {
+Oh, @<GetAddress_Form>, ¿de verdad eres tan amable como para dejarme ir sin pedir rescate?
+}
+Capitan_ransack_dialog_108 {
+Sí, te dejo ir. Eres libre, @<GetFullName>
+}
+Capitan_ransack_dialog_109 {
+Hmm... sí, tienes razón. Lo pensaré un poco más...
+}
+Capitan_ransack_dialog_110 {
+¡Gracias, @<GetFullName>! Rezaré por ti.
+}
+Capitan_ransack_dialog_111_m {
+Muy bien, vete antes de que cambie de opinión.
+}
+Capitan_ransack_dialog_111_f {
+Muy bien, vete antes de que me arrepienta.
+}
+Capitan_ransack_dialog_112 {
+De ahora en adelante, siempre y en todo lugar, te recordaré a ti y a tu sabiduría.
+}
+Capitan_ransack_dialog_113 {
+No se hagan ídolos.
+}
+Capitan_ransack_dialog_114 {
+Aquí tiene, gracias, capitán. Nunca olvidaré su amabilidad. Voy a dejar este negocio y dedicarme a reparar barcazas. Eso sí sé hacerlo...
+}
+Capitan_ransack_dialog_115 {
+Gracias, capitán. Ni siquiera mi propia madre podría haberme consolado así. Lo juro por la cruz: dejaré este oficio ingrato y me haré pescador.
+}
+Capitan_ransack_dialog_116 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_117 {
+Ojalá pudiera creer eso...
+}
+Capitan_ransack_dialog_118 {
+No sé ni cómo agradecerle, capitán. Ya había perdido toda esperanza de ser rescatado. Hablaré a todos de su bondad. Y le juro que encenderé una vela por usted—¡solo déjeme llegar a la iglesia!
+}
+Capitan_ransack_dialog_119 {
+Adiós, y ni se te ocurra resistirte la próxima vez. En cuanto dispares un solo tiro, será una sentencia de muerte para ti y tu tripulación.
+}
+Capitan_ransack_dialog_120 {
+Gracias, capitán. Rezaré por usted.
+}
+Capitan_ransack_dialog_121_m {
+Tenlo en cuenta para la próxima vez: puede que no sea tan indulgente.
+}
+Capitan_ransack_dialog_121_f {
+Ten en cuenta para la próxima que la próxima vez podría ser menos indulgente.
+}
+Capitan_ransack_dialog_122 {
+Tengo información que, considerando la naturaleza de tus actividades, podría interesarte. Pero quiero asegurarme de que, a cambio de lo que sé, se me concederá la libertad.
+}
+Capitan_ransack_dialog_123 {
+¿Cómo quieres que te garantice algo si ni siquiera sé de qué se trata? Tu información probablemente no vale nada.
+}
+Capitan_ransack_dialog_124 {
+¿Qué otras garantías esperas, además de mi palabra de honor?
+}
+Capitan_ransack_dialog_125 {
+Él también quería alquilar mi barco, pero se puso tacaño con el pago, así que lo rechacé.
+}
+Capitan_ransack_dialog_126 {
+He tenido que escoltarlo varias veces como capitán del convoy.
+}
+Capitan_ransack_dialog_127 {
+Una vez pensé en destriparlo, pero nunca tuve la oportunidad.
+}
+Capitan_ransack_dialog_128 {
+Está bien. Ya basta. Ahora, al grano: hay un comerciante adinerado que vive en @<XI_ConvertString>, conocido como @<NPChar>. Ha hecho una buena fortuna transportando mercancías en su barco, el ‘@<NPChar>’, por la ruta de @<GetStrSmallRegister> desde @<XI_ConvertString> hasta @<XI_ConvertString>. Cuando su carga es demasiado grande para su bodega, contrata una escolta. @<sTmp> Estoy seguro de que esta información vale mucho más para ti que la libertad de un solo prisionero.
+}
+Capitan_ransack_dialog_129 {
+No creo que puedan servirme de nada. No voy a perseguir a comerciantes pacíficos.
+}
+Capitan_ransack_dialog_130 {
+No sé si tu información me servirá de algo, pero como acordamos, eres libre de irte. El contramaestre se encargará de ti y de tu tripulación, y los desembarcarán en el próximo puerto.
+}
+Capitan_ransack_dialog_131 {
+¡Gracias, capitán! ¡Jamás dudé de su honestidad ni por un instante!
+}
+Capitan_ransack_dialog_132 {
+Ojalá pudiera decir lo mismo de ti
+}
+Capitan_ransack_dialog_133 {
+Lamentablemente, no puedo decir lo mismo de ti.
+}
+Capitan_ransack_dialog_134 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_135_m {
+Ten en cuenta para la próxima vez que quizás no sea tan indulgente.
+}
+Capitan_ransack_dialog_135_f {
+Tenlo en cuenta para la próxima vez: puede que no sea tan indulgente.
+}
+Capitan_ransack_dialog_136_m {
+Vete, y no quiero volver a verte por aquí. La próxima vez, no seré tan confiado.
+}
+Capitan_ransack_dialog_136_f {
+Vete, y no quiero volver a verte por aquí. La próxima vez no seré tan confiado.
+}
+Capitan_ransack_dialog_137 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_138 {
+@<RandPhraseSimple>
+}
+Capitan_ransack_dialog_139 {
+Así es, tengo una propuesta. En @<XI_ConvertString> vive un buen amigo mío, se llama @<NPChar>, empezamos nuestro negocio juntos. Si pasan por allí, búsquenlo. Estoy seguro de que no será tacaño—pagará un buen rescate. Ya me las arreglaré con él a mi manera... además, me debe un favor.
+}
+Capitan_ransack_dialog_140 {
+¿Compañero, dices? Bien, entonces vamos a visitar a tu compañero…
+}
+Capitan_ransack_dialog_141 {
+Dudo que vaya a buscar a tu amigo cuando el primer gobernador que encuentre pueda pagar un rescate por ti.
+}
+Capitan_ransack_dialog_142 {
+Ah, no estés tan seguro... Conozco a alguien que tiene un gran tesoro, pero por cobardía no se atreve a usarlo.
+}
+Capitan_ransack_dialog_143 {
+¿De qué estás hablando?
+}
+Capitan_ransack_dialog_144 {
+Guarda tus historias; ahora es momento de pensar en tu alma.
+}
+Capitan_ransack_dialog_145 {
+Te contaré esta historia, una que lleva directo a riquezas inimaginables... Solo dame tu palabra de que me dejarás ir en la próxima bahía.
+}
+Capitan_ransack_dialog_146_m {
+Yo decidiré por mí mismo qué hacer contigo, y cuándo. Tus pequeños planes no cambiarán eso.
+}
+Capitan_ransack_dialog_146_f {
+Yo decidiré por mí mismo qué hacer contigo y cuándo. Tus pequeños planes no cambiarán eso.
+}
+Capitan_ransack_dialog_147 {
+Adelante, cuéntame tu historia. Te doy mi palabra...
+}
+Capitan_ransack_dialog_148_m {
+¡Confío en una persona honorable! Alguien como usted, cuando da su palabra, eso sí que vale... Aunque los demonios bailen a su alrededor, usted la mantiene. ¿No es así, capitán @<GetFullName>?..
+}
+Capitan_ransack_dialog_148_f {
+¡Confío en una persona honorable! Alguien como usted—cuando da su palabra, realmente la cumple... Aunque el mundo se venga abajo, usted mantiene lo que dice. ¿No es así, Capitán @<GetFullName>?..
+}
+Capitan_ransack_dialog_149 {
+Empieza a hablar, o te dejo ir ahora mismo… directo al agua.
+}
+Capitan_ransack_dialog_150 {
+Je, je, buena broma, je, je... Bueno, aquí va la historia. Hay un tipo llamado @<NPChar> que vive en @<XI_ConvertString>. De joven era todo un temerario—se metía en todo tipo de líos, algunos tan locos que ni los recuerda... En fin, una vez, tomando ron, este amigo me contó que, cuando andaba con la banda de @<GetName>, le tocó ver cómo unos piratas enterraban un tesoro. @<GetName> dejó a cinco de los suyos justo encima de ese botín.\nDespués empezaron a circular rumores de que lo atraparon y se lo entregaron a su suegra, que solo tiene una pierna, y desde entonces dejó esa vida—se asentó y formó una familia. Pero recordaba bien el lugar, incluso dibujó un mapa. Me propuso ir juntos a buscar el tesoro. Dijo que le daba miedo ir solo—ese sitio estaba empapado de sangre, y él es muy supersticioso. Te confieso que yo tampoco me atreví. Incluso estaba dispuesto a vender el mapa, pero ¿para qué lo querría yo? Jamás me metería en algo así.\nEsa es mi historia... Creo que ese mapa le vendría bien a alguien valiente como tú... te lo dejará barato.
+}
+Capitan_ransack_dialog_151 {
+¿Y de verdad esperas que me crea esa tontería? El trato se cancela porque tu historia no tiene sentido.
+}
+Capitan_ransack_dialog_152 {
+Hmm... es una historia interesante, aunque difícil de creer. Aun así, di mi palabra—ve y dile al contramaestre que te asigne un cofre en el castillo de proa. Bajarás a tierra en el próximo puerto.
+}
+Capitan_ransack_dialog_153_m {
+Aquí tiene, gracias, capitán. ¡Así es como se cumple la palabra de un caballero!
+}
+Capitan_ransack_dialog_153_f {
+¡Aquí tiene, gracias, Capitán! ¡Así es como cumple su palabra una dama!
+}
+Capitan_ransack_dialog_154_m {
+Vete, y no te cruces en mi camino otra vez. La próxima vez, no seré tan confiado.
+}
+Capitan_ransack_dialog_154_f {
+Vete, y no quiero volver a verte por aquí. La próxima vez, no seré tan confiado.
+}
+Capitan_ransack_dialog_155 {
+¡Pero, @<GetAddress_Form>, estamos en mar abierto! ¡Eso para mí es prácticamente una sentencia de muerte!
+}
+Capitan_ransack_dialog_156 {
+Pero esto es precisamente lo que querías, así que adiós. El contramaestre se encargará de que se cumplan mis órdenes.
+}
+Capitan_ransack_dialog_157 {
+Está bien, lo pensaré un poco más...
+}
+Capitan_ransack_dialog_158 {
+¡De ninguna manera!.. ¡Prefiero quitarme la vida antes que convertirme en esclavo!
+}
+Capitan_ransack_dialog_159 {
+¡Espera!... Bueno, eso sí que es un acto digno de una persona de verdad...
+}
+Capitan_ransack_dialog_160 {
+¡Ah, verdugo! Hermanos, solo se muere una vez—no se puede escapar de ese destino.
+}
+Capitan_ransack_dialog_161 {
+Eso sí que es un error de tu parte. Yo mismo he sofocado motines, y no pierdo el tiempo en hacerlo…
+}
+Capitan_ransack_dialog_162_m {
+¡Ja, ja! Cobarde, ¿ni siquiera puedes defenderte? Te reto a un duelo. Tú y yo, sin armas. ¡El que quede en pie se va!
+}
+Capitan_ransack_dialog_162_f {
+¡Ja, ja! Cobarde, ¿ni siquiera puedes defenderte? Te reto a un duelo. Tú y yo, sin armas. ¡El que quede en pie se va!
+}
+Capitan_ransack_dialog_163_m {
+¿Intentas vender tu miserable pellejo por un precio más alto y estás dispuesto a sacrificar a los demás? Te reto a un duelo. Tú y yo, sin armas. ¡El que quede en pie se va!
+}
+Capitan_ransack_dialog_163_f {
+¿Intentas vender tu pellejo sin valor a un precio más alto y estás dispuesto a ponernos en peligro a todos? Te reto a un duelo. Tú y yo, sin armas. ¡El que quede en pie se va!
+}
+Capitan_ransack_dialog_164 {
+¡No! ¡Prefiero morir luchando!
+}
+Capitan_ransack_dialog_165 {
+Como desees...
+}
+Capitan_ransack_dialog_166 {
+¿Quieres morir en combate? Admirable, puedo arreglarlo. Tú y yo—solo uno saldrá de aquí con vida.
+}
+Capitan_ransack_dialog_167_m {
+Está bien, acepto. Simplemente no tengo otra opción...
+}
+Capitan_ransack_dialog_167_f {
+De acuerdo, acepto. Simplemente no tengo otra opción...
+}
+Capitan_ransack_dialog_168 {
+Eso está bien. Mejor ser un esclavo vivo que un héroe muerto.
+}

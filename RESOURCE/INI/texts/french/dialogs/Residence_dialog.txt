@@ -1,0 +1,528 @@
+Residence_dialog_1 {
+Les gardes vont arriver d’une minute à l’autre, et il ne restera plus rien de toi!
+}
+Residence_dialog_2_m {
+Gardes! Un criminel est en fuite!
+}
+Residence_dialog_2_f {
+Gardes! Il y a une criminelle en fuite!
+}
+Residence_dialog_3 {
+@<RandPhraseSimple>
+}
+Residence_dialog_4 {
+Tu ferais mieux de te taire si tu veux rester en vie...
+}
+Residence_dialog_5 {
+Tu ferais mieux de garder ta jolie bouche fermée, ma belle...
+}
+Residence_dialog_6 {
+@<RandPhraseSimple>
+}
+Residence_dialog_7_m {
+Vous feriez mieux de partir, @<GetAddress_Form>. Les gens comme vous n’ont rien à faire à traîner autour de la maison du gouverneur...
+}
+Residence_dialog_7_f {
+Tu ferais mieux de partir, @<GetAddress_Form>. Il n’y a pas de place pour quelqu’un d’aussi indompté que toi dans la maison du gouverneur…
+}
+Residence_dialog_8_m {
+Sors d’ici, vaurien! Comment as-tu réussi à entrer ici?..
+}
+Residence_dialog_8_f {
+Sors d'ici, vaurien! Comment as-tu réussi à entrer ici?..
+}
+Residence_dialog_9 {
+Quelle époque nous vivons. Toutes sortes de vauriens rôdent autour de la maison du gouverneur @<XI_ConvertString>!
+}
+Residence_dialog_10 {
+@<LinkRandPhrase>
+}
+Residence_dialog_11 {
+Du calme, idiot...
+}
+Residence_dialog_12 {
+Surveille ton langage...
+}
+Residence_dialog_13 {
+@<RandPhraseSimple>
+}
+Residence_dialog_14 {
+Bonjour. Je sers le gouverneur. Je m'appelle @<GetFullName>.
+}
+Residence_dialog_15 {
+Je nettoie cette pièce, @<GetAddress_Form>.
+}
+Residence_dialog_16 {
+Vous savez, @<GetAddress_Form>, notre gouverneur est un homme bien, et il paie bien ses serviteurs...
+}
+Residence_dialog_17 {
+@<LinkRandPhrase>
+}
+Residence_dialog_18 {
+Très bien.
+}
+Residence_dialog_19 {
+Hmm, splendide...
+}
+Residence_dialog_20 {
+@<RandPhraseSimple>
+}
+Residence_dialog_21 {
+Pitié, je veux vivre!
+}
+Residence_dialog_22_m {
+Je ne vous ai rien fait! Ayez pitié, monsieur!
+}
+Residence_dialog_22_f {
+Je ne vous ai rien fait! Ayez pitié, madame!
+}
+Residence_dialog_23 {
+@<RandPhraseSimple>
+}
+Residence_dialog_24 {
+Tais-toi et ne te mêle pas de ça.
+}
+Residence_dialog_25 {
+Tais-toi, imbécile.
+}
+Residence_dialog_26 {
+@<RandPhraseSimple>
+}
+Residence_dialog_27_m {
+Ravi de vous voir, monsieur @<pchar>. Je m'appelle @<GetFullName>, à votre service.
+}
+Residence_dialog_27_f {
+Ravi de vous voir, madame @<pchar>. Je m'appelle @<GetFullName>, à votre service.
+}
+Residence_dialog_28 {
+, faisons connaissance.
+}
+Residence_dialog_29 {
+, ravi de vous rencontrer.
+}
+Residence_dialog_30 {
+@<TimeGreeting>, @<NPChar>@<RandPhraseSimple>
+}
+Residence_dialog_31_m {
+En quoi puis-je vous être utile, Gouverneur?
+}
+Residence_dialog_31_f {
+Comment puis-je vous être utile, Madame la Gouverneure?
+}
+Residence_dialog_32_m {
+Je voudrais me reposer dans mes quartiers.
+}
+Residence_dialog_32_f {
+Je voudrais me reposer dans ma chambre.
+}
+Residence_dialog_33 {
+J'ai un travail pour toi...
+}
+Residence_dialog_34_m {
+Ne t’en fais pas, beauté.
+}
+Residence_dialog_34_f {
+Ne t’en fais pas.
+}
+Residence_dialog_35 {
+Merci, mais je n'ai pas besoin d'aide pour le moment.
+}
+Residence_dialog_36 {
+@<RandPhraseSimple>
+}
+Residence_dialog_37 {
+Ne t’en fais pas.
+}
+Residence_dialog_38 {
+Merci, mais je n'ai pas besoin d'aide pour le moment.
+}
+Residence_dialog_39 {
+@<RandPhraseSimple>
+}
+Residence_dialog_40 {
+Voulez-vous que je vous réveille à une heure précise?
+}
+Residence_dialog_41 {
+Tu as besoin de quelqu’un pour te réveiller à l’heure?
+}
+Residence_dialog_42 {
+@<RandPhraseSimple>
+}
+Residence_dialog_43 {
+J'ai des affaires à régler demain matin.
+}
+Residence_dialog_44 {
+D’abord, je dois régler deux ou trois affaires.
+}
+Residence_dialog_45 {
+Je dois me réveiller le lendemain matin.
+}
+Residence_dialog_46_m {
+Avant la tombée de la nuit, il faut que je sois de nouveau sur pied.
+}
+Residence_dialog_46_f {
+Avant la tombée de la nuit, il faut que je sois de nouveau sur pied.
+}
+Residence_dialog_47 {
+Pas encore. J’ai encore des affaires à régler.
+}
+Residence_dialog_48 {
+Très bien, @<GetAddress_Form>. Demain matin, je t’apporterai un bon petit-déjeuner et je ferai ton lit.
+}
+Residence_dialog_49 {
+Très bien. Il est temps pour moi d’aller me coucher...
+}
+Residence_dialog_50_m {
+Attends, j’ai changé d’avis. C’est encore trop tôt.
+}
+Residence_dialog_50_f {
+Attends, j’ai changé d’avis. C’est encore trop tôt.
+}
+Residence_dialog_51_m {
+Comme le souhaite le gouverneur.
+}
+Residence_dialog_51_f {
+Comme le souhaite Son Excellence la Gouverneure.
+}
+Residence_dialog_52 {
+Excellent.
+}
+Residence_dialog_53_m {
+Je pensais justement que je dois faire une course quelque part.
+}
+Residence_dialog_53_f {
+Je pensais justement que je dois faire une petite course.
+}
+Residence_dialog_54 {
+Je t’écoute attentivement.
+}
+Residence_dialog_55 {
+Je vous écoute.
+}
+Residence_dialog_56 {
+@<RandPhraseSimple>
+}
+Residence_dialog_57 {
+Monte sur le lit, chérie, amusons-nous un peu!
+}
+Residence_dialog_58 {
+Je pense que c’est le moment idéal pour s’amuser un peu sur mon lit.
+}
+Residence_dialog_59_m {
+Laisse tomber, j’ai changé d’avis.
+}
+Residence_dialog_59_f {
+Laisse tomber, j’ai changé d’avis.
+}
+Residence_dialog_60 {
+Enfin, je suppose que je n'ai besoin de rien pour l'instant.
+}
+Residence_dialog_61 {
+@<RandPhraseSimple>
+}
+Residence_dialog_62 {
+Je ne vais pas le cacher, monsieur, je vous trouve plutôt sympathique. Je ferai de mon mieux pour ne pas vous décevoir.
+}
+Residence_dialog_63 {
+Ah, je n’aurais jamais pu rêver d’un homme aussi audacieux et passionné...
+}
+Residence_dialog_64 {
+@<RandPhraseSimple>
+}
+Residence_dialog_65 {
+J'ai entendu parler de vos exploits, Capitaine. Oh, quelle chance j'ai de me trouver à vos côtés en ce moment...
+}
+Residence_dialog_66 {
+Quelle surprise qu’une simple servante ait attiré votre attention! J’accomplirai volontiers votre « tâche »...
+}
+Residence_dialog_67 {
+@<RandPhraseSimple>
+}
+Residence_dialog_68 {
+Allons-y, chérie!
+}
+Residence_dialog_69 {
+Oh, oui!
+}
+Residence_dialog_70 {
+@<RandPhraseSimple>
+}
+Residence_dialog_71 {
+Amusons-nous un peu!
+}
+Residence_dialog_72 {
+Malin, toi. Tu ne t’ennuieras pas avec moi!
+}
+Residence_dialog_73 {
+@<RandPhraseSimple>
+}
+Residence_dialog_74 {
+Monsieur, vous me mettez dans une situation délicate... Voyez-vous, je suis assez proche de votre gouverneur. @<UpperFirst> @<gover> m’invite parfois chez lui pour... passer du bon temps. Je n’aimerais pas le fâcher et risquer de perdre mon poste...
+}
+Residence_dialog_75 {
+Oh, j’ai bien peur que dans ce cas, le gouverneur @<gover> ne m’en veuille. Il s’intéresse à moi assez souvent... Et s’il décidait de me bannir s’il découvrait tout...
+}
+Residence_dialog_76 {
+@<RandPhraseSimple>
+}
+Residence_dialog_77 {
+Doucement, ma belle, c’est moi qui décide qui travaille où ici. @<gover> me rend des comptes, et il est en ville pour maintenir l’ordre, pas pour colporter des ragots avec le personnel. D’ailleurs, personne ne t’a demandé d’en parler.
+}
+Residence_dialog_78 {
+Hmm. Peut-être qu’il vaut mieux ne pas voler les filles de ses propres officiers. J’espère juste qu’il ne dépense pas l’argent de la compagnie pour toi...
+}
+Residence_dialog_79 {
+Je suis flatté par votre attention, Gouverneur. Mais je dois refuser, car je suis marié.
+}
+Residence_dialog_80 {
+Je dois l’admettre, je suis flattée qu’une personne aussi puissante que vous s’intéresse à moi, mais je ne peux pas accepter. Mon cœur appartient déjà à un autre homme.
+}
+Residence_dialog_81 {
+@<RandPhraseSimple>
+}
+Residence_dialog_82 {
+Et alors? Je suis le maître de cette ville — tu ne peux pas défier ton souverain.
+}
+Residence_dialog_83 {
+Écoute, inutile de compliquer les choses. Cette petite bêtise restera entre nous.
+}
+Residence_dialog_84 {
+@<RandPhraseSimple>
+}
+Residence_dialog_85 {
+D’accord, ma belle, calme-toi. Retourne à ton travail.
+}
+Residence_dialog_86 {
+Désolé, monsieur, je ne peux pas commettre un tel péché... S'il vous plaît, laissez-moi retourner au nettoyage.
+}
+Residence_dialog_87 {
+Essayez de comprendre ma situation, je ne veux pas trahir ma famille!
+}
+Residence_dialog_88 {
+@<RandPhraseSimple>
+}
+Residence_dialog_89 {
+Fais ce qu’on te dit, ou je te mets dehors!
+}
+Residence_dialog_90 {
+Il semble que vous ne compreniez pas votre situation. Ne me forcez pas à prendre des mesures drastiques!
+}
+Residence_dialog_91 {
+@<RandPhraseSimple>
+}
+Residence_dialog_92 {
+Très bien, laissons tomber cette conversation.
+}
+Residence_dialog_93 {
+Très bien, Monsieur le Gouverneur. Mais gardons cela entre nous...
+}
+Residence_dialog_94 {
+Comme vous voulez, monsieur. Je ferai de mon mieux pour ne pas vous décevoir.
+}
+Residence_dialog_95 {
+@<RandPhraseSimple>
+}
+Residence_dialog_96 {
+Au travail, ma chérie!
+}
+Residence_dialog_97 {
+Oh, oui!
+}
+Residence_dialog_98 {
+@<RandPhraseSimple>
+}
+Residence_dialog_99 {
+Amusons-nous un peu!
+}
+Residence_dialog_100 {
+Malin, toi. Tu ne t’ennuieras pas avec moi!
+}
+Residence_dialog_101 {
+@<RandPhraseSimple>
+}
+Residence_dialog_102 {
+Pitié, je veux vivre!
+}
+Residence_dialog_103 {
+Je ne vous ai rien fait! Ayez pitié, monsieur!
+}
+Residence_dialog_104 {
+@<RandPhraseSimple>
+}
+Residence_dialog_105 {
+Tais-toi et ne te mêle pas de ça.
+}
+Residence_dialog_106 {
+Tais-toi, imbécile.
+}
+Residence_dialog_107 {
+@<RandPhraseSimple>
+}
+Residence_dialog_108 {
+Mmm, c’était magnifique!
+}
+Residence_dialog_109 {
+Tu es un vrai loup de mer, @<pchar>.
+}
+Residence_dialog_110 {
+@<RandPhraseSimple>
+}
+Residence_dialog_111 {
+Content que ça t’ait plu.
+}
+Residence_dialog_112 {
+Je suis capable de bien plus que ça...
+}
+Residence_dialog_113 {
+@<RandPhraseSimple>
+}
+Residence_dialog_114 {
+Oh, que se passe-t-il ici?! Et moi, l’idiot, qui me promène sans rien voir... Gardes!!!
+}
+Residence_dialog_115 {
+Tais-toi, imbécile...
+}
+Residence_dialog_116_m {
+Sors d'ici, vaurien!
+}
+Residence_dialog_116_f {
+Sors d'ici, misérable!
+}
+Residence_dialog_117_m {
+Sortez immédiatement de la maison du gouverneur, vaurien!
+}
+Residence_dialog_117_f {
+Sortez immédiatement de la maison du gouverneur, vaurien!
+}
+Residence_dialog_118 {
+Je me fiche de ce que tu fais dans la résidence du gouverneur @<XI_ConvertString>. Mais un conseil : pars d’ici!
+}
+Residence_dialog_119 {
+@<LinkRandPhrase>
+}
+Residence_dialog_120 {
+Doucement, l’ami...
+}
+Residence_dialog_121 {
+Fais attention à ne pas t’étouffer avec tes propres paroles!
+}
+Residence_dialog_122 {
+@<RandPhraseSimple>
+}
+Residence_dialog_123 {
+Bonjour. Je suis le serviteur du gouverneur. Je m’appelle @<GetFullName>.
+}
+Residence_dialog_124 {
+C’est moi qui fais régner l’ordre ici, @<GetAddress_Form>.
+}
+Residence_dialog_125 {
+Vous savez, @<GetAddress_Form>, notre gouverneur est un homme bien, et il paie bien les domestiques...
+}
+Residence_dialog_126 {
+@<LinkRandPhrase>
+}
+Residence_dialog_127 {
+Très bien.
+}
+Residence_dialog_128 {
+Hmm, splendide...
+}
+Residence_dialog_129 {
+@<RandPhraseSimple>
+}
+Residence_dialog_130 {
+Bienvenue à la résidence, monsieur. Je m'appelle @<GetFullName>, je veille à l'ordre ici.
+}
+Residence_dialog_131 {
+C’est un honneur de vous servir, monsieur!
+}
+Residence_dialog_132 {
+@<RandPhraseSimple>
+}
+Residence_dialog_133 {
+Très bien.
+}
+Residence_dialog_134 {
+Hmm, splendide...
+}
+Residence_dialog_135 {
+@<RandPhraseSimple>
+}
+Residence_dialog_136_m {
+Vous essayez vraiment de voler le gouverneur?! Gardes, arrêtez le voleur!!
+}
+Residence_dialog_136_f {
+Vous n’êtes pas sérieux, vous essayez vraiment de voler le gouverneur?! Gardes, arrêtez le voleur!!
+}
+Residence_dialog_137 {
+Ferme-la...
+}
+Residence_dialog_138_m {
+Tu ferais mieux de continuer ta route, l’ami...
+}
+Residence_dialog_138_f {
+Tu ferais mieux de partir, ma fille...
+}
+Residence_dialog_139 {
+Sors d'ici!
+}
+Residence_dialog_140_m {
+Vous êtes sûr que vous avez frappé à la bonne porte? Ici, c’est la maison du gouverneur @<XI_ConvertString>. Vous feriez mieux de passer votre chemin!
+}
+Residence_dialog_140_f {
+Êtes-vous sûr d’avoir frappé à la bonne porte? Ici, c’est la demeure du gouverneur, @<XI_ConvertString>. Vous feriez mieux de poursuivre votre chemin!
+}
+Residence_dialog_141 {
+@<LinkRandPhrase>
+}
+Residence_dialog_142 {
+Je partirai quand je voudrai!
+}
+Residence_dialog_143 {
+Occupe-toi de tes affaires...
+}
+Residence_dialog_144 {
+@<RandPhraseSimple>
+}
+Residence_dialog_145 {
+Aujourd’hui, j’ai été affecté à l’escorte du gouverneur. Pas une mauvaise affectation…
+}
+Residence_dialog_146 {
+Je garde la maison du gouverneur, @<GetAddress_Form>.
+}
+Residence_dialog_147 {
+Mon devoir est de garder la résidence du gouverneur.
+}
+Residence_dialog_148 {
+@<LinkRandPhrase>
+}
+Residence_dialog_149 {
+Bonjour, vous.
+}
+Residence_dialog_150 {
+Hmm, je vois...
+}
+Residence_dialog_151 {
+@<RandPhraseSimple>
+}
+Residence_dialog_152_m {
+Je garde votre résidence, Gouverneur.
+}
+Residence_dialog_152_f {
+Je garde votre résidence, Madame la Gouverneure.
+}
+Residence_dialog_153 {
+C’est un honneur de vous servir, @<GetAddress_Form>!
+}
+Residence_dialog_154 {
+@<RandPhraseSimple>
+}
+Residence_dialog_155 {
+Bonjour, vous.
+}
+Residence_dialog_156 {
+Hm, splendide...
+}
+Residence_dialog_157 {
+@<RandPhraseSimple>
+}

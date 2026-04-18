@@ -1,0 +1,276 @@
+newline {
+
+}
+Balls {Boulet solide}
+Balls_descr
+{
+Le type de munitions le moins cher, le plus simple à utiliser et le plus fiable. Les boulets de canon servent principalement à endommager la coque d’un navire et à attaquer les fortifications côtières à longue portée, mais ils sont peu efficaces contre l’équipage ennemi.
+~
+Dégâts : coque - #f.2DamageHull# ; voiles - #f.2DamageRig# ; équipage - #f.2DamageCrew#
+}
+Grapes {Mitraille}
+Grapes_descr
+{
+De petites balles métalliques, versées dans le canon, sont appelées mitraille et infligent des dégâts terribles à l’équipage. Leur portée étant très limitée, il est conseillé de les utiliser en combat naval juste avant l’abordage.
+~
+Dégâts : coque - #f.2DamageHull#, voiles - #f.2DamageRig#, équipage - #f.2DamageCrew#
+}
+Knippels {Chaîne}
+Knippels_descr
+{
+Les boulets ramés ont été conçus pour détruire les voiles d’un ennemi. Les knuppels sont deux boulets de fer reliés par une chaîne ou une barre. En vol, ils tournent sur eux-mêmes, enroulant les voiles et pouvant même briser les mâts.
+~
+Dégâts : coque-#f.2DamageHull#, voiles-#f.2DamageRig#, équipage-#f.2DamageCrew#
+}
+Bombs {Bombes}
+Bombs_descr
+{
+Les bombes sont le type de munitions le plus coûteux : ce sont des boulets en fonte remplis de poudre, avec une mèche dépassant. Après l’explosion, la bombe éclate, blessant l’équipage ; l’onde de choc endommage la coque et le feu abîme les voiles.
+~
+Inflige des dégâts : coque-#f.2DamageHull#, voiles-#f.2DamageRig#, équipage-#f.2DamageCrew#
+}
+Sailcloth {Toile à voile}
+Sailcloth_descr
+{
+Toile épaisse et dense utilisée pour la fabrication des voiles.
+Les colonies anglaises d’Amérique du Nord produisent du coton et du chanvre de grande qualité, et tissent une toile à partir de ces deux fibres. Les fils transversaux sont en coton, tandis que les fils longitudinaux (la trame) sont en chanvre. Elle présente une teinte blanc cassé, est plus légère et sèche plus rapidement que la toile européenne traditionnelle, grisâtre, faite de lin non blanchi.
+}
+Planks {Planches}
+Planks_descr
+{
+Planches sèches de bois de deuxième choix, obtenues en fendant des billots anciens à l’aide de coins. Plus robustes que les planches sciées, elles résistent mieux au dessèchement et se déforment ou se fissurent moins.
+Le meilleur matériau pour les réparations d’urgence de la coque d’un navire.
+}
+Wheat {Blé}
+Wheat_descr {Sur les terres fertiles du Nouveau Monde, le blé donne trois récoltes par an. Désormais, le commerce du blé est devenu très rentable. La farine issue du blé local est idéale pour préparer les meilleures brioches et tartes.}
+Ebony {Ébène}
+Ebony_descr
+{
+Le bois d’ébène, noir et fascinant, séduit aussi bien les menuisiers que le commun des mortels par sa beauté et sa dureté : il est deux fois plus dur que le chêne. Sa couleur unique en fait le favori de la noblesse européenne, toujours désireuse d’impressionner ses pairs.
+Chaque variété d’ébène possède sa propre nuance, allant du brun verdâtre au noir velouté. Avec le temps, le bois s’assombrit, devient plus dur — et plus précieux.
+}
+Chocolate {Cacao}
+Chocolate_descr
+{
+Un palmier discret, cultivant des fèves de cacao, s’est révélé être l’une des découvertes les plus importantes : la production de chocolat a commencé grâce à ces fèves, très appréciées, notamment par les dames nobles, pour leur goût sucré.
+La forte demande de cacao chez les Indiens et les notables locaux impose déjà des prix élevés, mais les Italiens sont prêts à payer en or, ce qui rend ces prix exorbitants.
+}
+Sugar {Sucre}
+Sugar_descr {Après la création de plantations de sucre dans le Nouveau Monde, le sucre est devenu l'une des principales exportations vers l'Europe. Il se peut que le sucre de canne ne soit pas aussi bon que le sucre de betterave, mais il est bien moins cher.}
+Wine {Vin}
+Wine_descr {Les colons ont réussi à cultiver la vigne sur les terres fertiles du Nouveau Monde, et ce vin exporté est désormais très prisé en Europe. Il n’a pas la finesse des vins européens, mais il se distingue par un arôme puissant et agréable, ainsi qu’une grande robustesse.}
+Linen {Toile}
+Linen_descr {Fabriqué à partir de lin cultivé sur les îles de l’archipel, ce tissu épais et dense convient aussi bien à la confection de vêtements qu’à la fabrication de voiles.}
+Rum {Rhum}
+Rum_descr
+{
+Fort et parfumé, le rhum ne réchauffe pas seulement et ne met pas que de bonne humeur, il améliore aussi le moral ! Contrairement au vin ou à la bière, le rhum ne se gâte pas et constitue un excellent remède contre les maladies comme le scorbut. On ajoute aussi du rhum à la réserve d’eau douce à bord pour préparer du grog, ce qui désinfecte l’eau et en améliore le goût.  
+Une pénurie de rhum à bord peut provoquer le mécontentement des marins, voire entraîner une mutinerie.
+}
+Tobacco {Tabac}
+Tobacco_descr {Feuilles de tabac aromatiques... Depuis des siècles, la pipe est la fidèle compagne du marin. Fumer est l’un des passe-temps les plus relaxants, il était donc évident que le tabac deviendrait très prisé des commerçants. Les feuilles de tabac, soigneusement emballées dans des sacs de lin, sont une cargaison précieuse pour de nombreux marchands.}
+Coffee {Café}
+Coffee_descr {Grâce à son goût exotique, son agréable parfum et son effet vivifiant, le café est rapidement devenu populaire. Malgré toutes les difficultés de sa fabrication, la production de café augmente chaque année pour répondre à la soif inextinguible de l’Europe.}
+Mahogany {Acajou}
+Mahogany_descr
+{
+Le bois de ces arbres, appelé acajou, présente un veinage très distinctif et élégant, tout en étant particulièrement solide, résistant au feu et durable. Il se polit facilement et n’est pas attaqué par les parasites du bois. Les Espagnols furent les premiers à en apprécier la valeur – aujourd’hui, l’acajou est largement utilisé dans la fabrication de meubles, d’églises et de palais.
+Les meubles en acajou sont le symbole du luxe classique, du bon goût et de la prospérité de leur propriétaire. Plus rarement, ce bois sert aussi à la construction de coques de navires.
+}
+Cinnamon {Vanille}
+Cinnamon_descr
+{
+Les gousses séchées et fermentées de cette liane persistante originaire du Mexique dégagent un parfum sucré, mais leur goût est amer.
+En Europe, la vanille est utilisée dans la préparation du cacao et du chocolat chaud. Elle sert aussi à parfumer le tabac ; certains la mâchent simplement, mais c’est surtout pour afficher leur statut !
+}
+Copra {Coprah}
+Copra_descr {Pulpe séchée de noix de coco. La coprah sert à produire de l'huile de coco et du savon, et le tourteau est utilisé comme aliment pour animaux.}
+Paprika {Paprika}
+Paprika_descr
+{
+Piments rouges moulus et séchés, une épice douce et piquante très appréciée en cuisine pour relever les plats.
+La paprika est très populaire chez les Allemands, les Espagnols et dans l’Europe méditerranéenne, car elle s’accorde parfaitement avec presque tout : viandes, volailles, poissons, fruits de mer, légumes et fromages.
+}
+Fruits {Fruits}
+Fruits_descr
+{
+À leur arrivée dans le Nouveau Monde, les Européens découvrirent de nombreuses plantes dont les fruits étaient comestibles ou appréciés comme friandises : mangue, citron, avocat, etc. Parfaits pour prévenir le scorbut ou relever le goût d’un vin bon marché.
+Les fruits peuvent être vendus dans n’importe quelle colonie — même les raretés trouvent preneur.
+}
+Ale {Bière ale}
+Ale_descr
+{
+Une boisson brassée à faible teneur en alcool, obtenue par fermentation haute.
+L’ale, tout comme le pain, est considérée comme un aliment de base et fait partie des rations des garnisons locales (notamment anglaises). L’ale se conserve longtemps ; de plus, elle possède des propriétés antibiotiques grâce au gruit (un mélange d’herbes et d’épices utilisé à la place du houblon).
+}
+Silk {Soie}
+Silk_descr {Tissu fin, léger et extrêmement coûteux, perfectionné d'abord en Chine puis gardé secret pendant plus de 2000 ans. Il n'y a pas si longtemps, les Européens ont enfin percé ce mystère, et il peut désormais être filé dans le Nouveau Monde. Ce tissu est si unique qu'on peut le faire passer par les plus petites fentes.}
+Clothes {Vêtements}
+Clothes_descr
+{
+Vêtements pratiques et sobres en tissu sombre, linge de batiste simple, cols et poignets rabattus – une tenue confortable pour tout homme honnête, travailleur, modeste et économe.
+Marchandise peu coûteuse, toujours recherchée.
+}
+Cotton {Coton}
+Cotton_descr
+{
+Le coton mûrit tardivement et le rendement des récoltes est assez faible sur les plantations des îles des Caraïbes, comparé à celui des colonies nord-américaines, mais ses fibres restent très précieuses, car elles sont exceptionnellement longues et fines. Ces fibres soyeuses et ivoire servent à fabriquer des fils pour les tissus les plus fins et de la meilleure qualité.
+Cette fabrication exigeante nécessite la mise en place d’une plantation relativement vaste et un très grand nombre de travailleurs, ce qui a contribué à la popularité de l’esclavage.
+}
+Sandal {Bois de santal}
+Sandal_descr {Une essence précieuse, lourde, jaune et à grain fin, qui, contrairement à de nombreux autres bois aromatiques, conserve son parfum pendant des décennies. Largement utilisée en parfumerie, en cosmétique et en médecine. Cette catégorie de bois ne pousse pas dans les régions locales. Comment elle a trouvé son chemin jusqu’au Nouveau Monde demeure un mystère.}
+Leather {Cuir}
+Leather_descr
+{
+Les peaux séchées et traitées de bétail sont une marchandise universelle, toujours recherchée en Europe. C’est ainsi que les premiers boucaniers gagnaient leur vie, en vendant les peaux et la viande du bétail sauvage d’Hispaniola.
+Peu de marchands chargeraient leurs navires uniquement de cuir, mais c’est un excellent complément pour remplir la cale, car il est très résistant et supporte toutes les conditions de transport.
+}
+Oil {Huile}
+Oil_descr {L’huile d’olive, connue depuis l’Antiquité grecque. Les oliviers furent introduits en Amérique au XVIe siècle, où leur culture débuta dans des régions au climat similaire à celui de la Méditerranée. L’huile d’olive sert à cuisiner de nombreux plats, leur apportant une saveur et un parfum agréables. C’est aussi un lubrifiant naturel et sûr, utilisé pour l’éclairage (lampes à huile) ou comme base pour les savons et détergents.}
+Slaves {Esclaves}
+Slaves_descr {Marchandise vivante très recherchée dans tout l’archipel. Il s’agit généralement de Noirs amenés d’Afrique ou de marins capturés, réduits en esclavage. La vente sur des marchés spécialisés peut rapporter gros. Le travail des esclaves constitue la base de la main-d’œuvre des colonies du Nouveau Monde.}
+Powder {Poudre à canon}
+Powder_descr
+{
+Inventée par les Chinois, la poudre à canon est indispensable au tir des canons. Marchandise stratégique importée, elle provient de moulins à poudre sales, bruyants, nauséabonds et dangereux. « Garde ta poudre sèche, la victoire t’attendra ! », affirment les canonniers chevronnés. On ne le répétera jamais assez : sans poudre, les canons ne tirent pas un seul coup et deviennent un poids mort pour le navire.
+Un capitaine avisé veille toujours à garder une bonne réserve de poudre dans la soute.
+}
+Food {Nourriture}
+Food_descr
+{
+Un assortiment standard de rations conservées et d’eau douce, indispensables pour nourrir l’équipage et les esclaves pendant le voyage.
+Le manque de vivres à bord entraîne famine, décès et chute du moral.
+~
+Consommation quotidienne :
+marins – 0,1 unité, esclaves – 0,05 unité.
+}
+Weapon {Arme}
+Weapon_descr
+{
+Un assortiment d’armes : des sabres et épées aux pistolets et mousquets.
+Lors des abordages, chaque combattant doit être armé. Un manque d’armes augmente les pertes.
+À mesure que les marins tombent au combat, la quantité d’armes à bord diminue.
+}
+Gold {Or}
+Gold_descr
+{
+Lingots d’or massif, estampillés par le Trésor d’Espagne. Avant d’embarquer tout l’or sur les navires, les Espagnols fondent les objets en lingots.
+S’emparer d’un galion chargé d’or, c’est le rêve de tout pirate ou corsaire.
+}
+Silver {Argent}
+Silver_descr
+{
+Lingots d’argent massif, estampillés par le Trésor d’Espagne.
+Un butin convoité, car l’argent possède une valeur appréciable, étant le second choix du trésor espagnol pour stocker et transporter la richesse. La majeure partie provient d’un lieu appelé « la Montagne d’Argent », près de Potosi.
+}
+Pinctada {Huîtres perlières}
+Pinctada_descr {La prise la plus prisée des pêcheurs de perles : les mollusques caribéens (Pinctada longisquamosa) récoltés sur les hauts-fonds. Leurs coquilles irisées peuvent dissimuler des trésors... ou de vains espoirs. Seuls les plus habiles savent les ouvrir sans abîmer la couche de nacre...}
+Brick {Briques}
+Brick_descr
+{
+Des blocs soignés et des tuiles de toit en terre cuite. On les utilise largement dans la construction des villes, car le bois pourrit vite sous le climat humide des Caraïbes.
+En raison des incendies fréquents, les autorités encouragent l’usage de la brique, ce qui rend cette marchandise toujours recherchée.
+}
+Medicament {Médicaments}
+Medicament_descr
+{
+Un ensemble de médicaments et d’instruments destiné à traiter les maladies courantes et à prodiguer les premiers soins aux blessés. Boîtes, poudres, bandages, fioles, cataplasmes — tout ce qui peut sauver une vie.
+Avoir des médicaments à bord permet de soigner les blessés, de réduire les pertes lors des abordages et de guérir les malades en mer.
+}
+Cannon_3 {Fauconneaux}
+Cannon_3_descr
+{
+Canons de pont montés sur affût à anneau. Ils offrent une grande mobilité, mais leur portée et leurs dégâts sont réduits en raison de leur petit calibre.
+Ils sont souvent équipés d’une culasse interchangeable, ce qui permet de recharger encore plus rapidement.
+Portée - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Cannon_6 {Canons 6 livres}
+Cannon_6_descr
+{
+Les demi-canons légers sont très appréciés sur les navires de courrier et de commerce pour leur faible poids et leur facilité d’entretien.
+Portée de tir : #dFireRange#, dégâts : x#f.1DamageMultiply#, rechargement : #dReloadTime# sec.
+}
+Cannon_8 {Canons de 8 livres}
+Cannon_8_descr
+{
+Petits demi-canons utilisant de la poudre noire pour tirer des boulets pleins en fonte, des bombes, des boulets ramés ou de la mitraille. Largement utilisés sur les petits navires.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Cannon_12 {Canons de 12 livres}
+Cannon_12_descr
+{
+Demi-canons standard, très fiables, utilisés par la plupart des flottilles militaires, capables de tirer à de grands angles d’élévation, ce qui augmente considérablement la portée effective au combat.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Cannon_16 {Canons de 16 livres}
+Cannon_16_descr
+{
+Demi-canons navals français modernes. Grâce à une conception avancée et au nouveau système développé par Monsieur de Valliere, ces canons offrent une portée de tir supérieure et infligent plus de dégâts que les demi-canons ordinaires. Cependant, ils sont plus longs à recharger, un peu moins fiables et plus lourds.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Cannon_20 {Canons de 20 livres}
+Cannon_20_descr
+{
+Canons de plus gros calibre capables de tirer des boulets de taille respectable, augmentant ainsi les dégâts infligés à l’ennemi. Cependant, la longueur du canon accroît considérablement leur poids, ce qui complique le rechargement.
+Portée de tir : #dFireRange#, dégâts : x#f.1DamageMultiply#, rechargement : #dReloadTime# sec.
+}
+Cannon_24 {Canons de 24 livres}
+Cannon_24_descr
+{
+Les canons de navire les plus équilibrés en termes de caractéristiques techniques. Ils sont très appréciés sur les navires militaires et d’expédition, et ce n’est pas sans raison. Le juste milieu des canons.
+Portée de tir : #dFireRange#, dégâts : x#f.1DamageMultiply#, rechargement : #dReloadTime# sec.
+}
+Cannon_32 {Canons de 32 livres}
+Cannon_32_descr
+{
+Canons de batterie – canons lourds de gros calibre, montés sur les navires de guerre. Polyvalents : capables de détruire complètement la coque ou de bombarder les fortifications. Des canons sérieux pour des batailles sérieuses.
+Portée de tir – #dFireRange#, dégâts – x#f.1DamageMultiply#, rechargement – #dReloadTime# sec.
+}
+Cannon_36 {Canons de 36 livres}
+Cannon_36_descr
+{
+Les canons à long fût se trouvent assez souvent sur les grands navires de guerre. Malgré leur rechargement long et leur poids élevé, ils sont très puissants et offrent une portée de tir remarquable. Leur entretien est difficile, mais ils en valent la peine.
+Portée de tir : #dFireRange#, dégâts : x#f.1DamageMultiply#, rechargement : #dReloadTime# sec.
+}
+Cannon_42 {Canons de 42 livres}
+Cannon_42_descr
+{
+Ces canons de siège sont dépassés, mais restent des armes redoutables, réservées aux vaisseaux de ligne. Ils infligent d’immenses dégâts pour abattre d’autres navires militaires et bombarder massivement les fortifications.
+Portée de tir : #dFireRange#, dégâts : x#f.1DamageMultiply#, rechargement : #dReloadTime# sec.
+}
+Cannon_48 {Canons enchantés}
+Cannon_48_descr
+{
+Des canons exceptionnellement lourds et puissants. Il a fallu conclure plusieurs pactes avec les dieux aztèques pour les obtenir... mais cela en valait la peine.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Culverine_8 {Culverines de 8 livres}
+Culverine_8_descr
+{
+Demi-couleuvrines légères à la structure allégée, dotées d’un canon relativement long et d’une portée accrue. Utilisées sur les petits navires et les navires marchands en raison de leur faible poids.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Culverine_12 {Culverines de 12 livres}
+Culverine_12_descr
+{
+Petite couleuvrine de construction légère avec un long canon. Bonne portée de tir, courante sur les petits navires. Utilisée principalement pour le tir de barrage.
+Portée - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Culverine_16 {Culverines de 16 livres}
+Culverine_16_descr
+{
+Demi-culverines à portée de tir accrue, idéales pour les navires moyens. Malgré leur bonne portée, elles se rechargent lentement et infligent moins de dégâts.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Culverine_24 {Culverines de 24 livres}
+Culverine_24_descr
+{
+Culverines moyennes, idéales pour les combats sérieux. Malgré une portée de tir impressionnante, elles sont très lentes et leur rechargement est très long.
+Portée de tir - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}
+Culverine_32 {Culverines de 32 livres}
+Culverine_32_descr
+{
+Culverines lourdes conçues pour le tir de brèche. Peuvent aussi être utilisées dans les batteries du navire et infliger d’importants dégâts à l’ennemi, à condition que le canonnier soit expérimenté, agile et précis. Le vainqueur est celui qui tire le premier, pour ainsi dire.
+Portée - #dFireRange#, dégâts - x#f.1DamageMultiply#, rechargement - #dReloadTime# sec.
+}

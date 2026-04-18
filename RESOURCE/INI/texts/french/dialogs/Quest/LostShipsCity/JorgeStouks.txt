@@ -1,0 +1,712 @@
+JorgeStouks_1 {
+Des nouveaux visages! Voilà qui fait plaisir—ici, il n’y a que des tempêtes terribles et bien peu de distractions. Je m’appelle @<GetFullName>, et je suis ravi(e) d’être le premier à vous accueillir en ville!
+}
+JorgeStouks_2 {
+Merci pour cet accueil chaleureux, même si mon arrivée a été un peu humide! Je m'appelle capitaine @<GetFullName>.
+}
+JorgeStouks_3 {
+Qu’est-ce que vous vouliez, @<GetAddress_Form>?
+}
+JorgeStouks_4 {
+Écoutez, je cherche quelqu’un. Savez-vous où il se trouve en ce moment?
+}
+JorgeStouks_5 {
+Je voudrais te poser une question.
+}
+JorgeStouks_6 {
+Tu as des histoires intéressantes à me raconter?
+}
+JorgeStouks_7 {
+Quoi de neuf en ville?
+}
+JorgeStouks_8_m {
+Ah, j’adorerais entendre les derniers potins...
+}
+JorgeStouks_8_f {
+Ah, j’adorerais entendre les derniers ragots...
+}
+JorgeStouks_9 {
+@<LinkRandPhrase>
+}
+JorgeStouks_10 {
+Écoutez, je cherche certaines marchandises.
+}
+JorgeStouks_11 {
+Il y a tellement de bruit ici... J’aspire à un peu de tranquillité. Que veux-tu?
+}
+JorgeStouks_12 {
+Tu sais, je rassemble un équipage pour quitter cet endroit. Je t’offre la chance de venir avec moi.
+}
+JorgeStouks_13 {
+Rien...
+}
+JorgeStouks_14_m {
+Capitaine, il semble que vous soyez le seul survivant de cette tempête. Je suis vraiment désolé…
+}
+JorgeStouks_14_f {
+Capitaine, il semble que vous soyez le seul survivant de cette tempête. Je suis vraiment désolé…
+}
+JorgeStouks_15 {
+Très probablement... Quel est cet endroit, monsieur?
+}
+JorgeStouks_16 {
+Voici la Cité des Navires Perdus.
+}
+JorgeStouks_17 {
+Pas l’Isle of Justice?
+}
+JorgeStouks_18 {
+Hmm, non... Quoique, tu sais, on dit que ce nom a déjà été utilisé, autrefois. Mais c’était avant mon époque.
+}
+JorgeStouks_19 {
+Je vois...
+}
+JorgeStouks_20 {
+Eh bien, je suppose qu’il est de mon devoir, pour ainsi dire, de vous éclairer au sujet de notre ville.
+}
+JorgeStouks_21 {
+J’écouterai tout ce que vous avez à dire avec plaisir et reconnaissance.
+}
+JorgeStouks_22 {
+La première chose à faire à votre arrivée est d’obtenir la citoyenneté de la Ville. Pour cela, vous devez vous présenter auprès de l’Amiral de la Ville, Chad Capper.
+}
+JorgeStouks_23 {
+Chad Capper?.. Ce nom me dit quelque chose...
+}
+JorgeStouks_24 {
+Tu pourras te souvenir plus tard—écoute-moi d’abord... Donc, Chad Capper est le chef de la Ville. C’est un poste élu, on peut dire qu’il est arrivé au pouvoir de façon démocratique. Son rôle est de veiller au respect de la Loi...
+}
+JorgeStouks_25 {
+...percevoir les taxes...
+}
+JorgeStouks_26 {
+Quelles taxes? Il n’y a pas de taxes ici, personne ne lui paie rien, à part les frais d’entrée…
+}
+JorgeStouks_27 {
+Pas de taxes? Eh bien, ça alors! C’est vraiment l’Isle of Justice...
+}
+JorgeStouks_28 {
+Eh bien, peut-être... Je vais continuer. Vous devez vous présenter à l’amiral pour l’enregistrement dès que possible. Il y a une tempête en ce moment, donc il n’y a pas beaucoup de monde sur le pont. Mais dès qu’elle sera passée, Kapper vous trouvera lui-même, quoi qu’il arrive. Et je vous conseille de ne pas tarder à vous enregistrer.
+}
+JorgeStouks_29_m {
+D’accord, je comprends. Et quand pensez-vous que cette tempête prendra fin?
+}
+JorgeStouks_29_f {
+D’accord, je comprends. Et selon vous, quand cette tempête prendra-t-elle fin?
+}
+JorgeStouks_30 {
+D’ici demain soir, tout sera sûrement rentré dans l’ordre. La tempête s’apaise déjà.
+}
+JorgeStouks_31 {
+Compris. Que dois-je savoir d’autre?
+}
+JorgeStouks_32 {
+L’Amiral vous en dira plus sur la Loi qui régit nos vies, mais je peux en résumer les principes essentiels en quelques mots.
+}
+JorgeStouks_33 {
+Très intéressant!
+}
+JorgeStouks_34 {
+Donc, il est interdit de tuer des citoyens, de les voler ou de démonter des navires pour construire quelque chose afin de s’échapper d’ici...
+}
+JorgeStouks_35 {
+Arrêtez! Ça veut dire que je ne pourrai pas quitter ce port?!
+}
+JorgeStouks_36 {
+Bien sûr que non! C’est interdit par la loi!... Vous savez, je préfère ne pas me mêler de ces affaires — ce n’est pas à moi de le faire. Allez voir l’amiral, il vous expliquera tout.
+}
+JorgeStouks_37 {
+Et où est-il?
+}
+JorgeStouks_38 {
+À bord du vaisseau de guerre 'San Augustin'. Il est tout près, j’y allais justement, vous pouvez me suivre. Sinon,
+désolé, mais je ne peux pas vous donner d’indications plus précises puisque vous ne connaissez pas les environs. Cherchez le chemin qui mène au 'San Augustin'!
+}
+JorgeStouks_39 {
+Je vois... Dites-moi, avez-vous déjà connu un homme du nom de Teaser Dan?
+}
+JorgeStouks_40 {
+Non, ce nom ne me dit rien. Demandez à notre tavernier, Hill Brunner. C’est un homme bien et un ancien de la ville. Il connaît tout le monde ici.
+}
+JorgeStouks_41 {
+Ah, je vois... Eh bien, merci pour l'information.
+}
+JorgeStouks_42 {
+Je vous en prie. Toujours à votre service, @<GetAddress_Form>... Attendez, j’ai failli oublier quelque chose d’important!
+}
+JorgeStouks_43 {
+Lequel?
+}
+JorgeStouks_44 {
+N’aie même pas l’idée de te promener à bord du brick 'San Gabriel' ou du galion 'Velasco'!
+}
+JorgeStouks_45 {
+Mais pourquoi?
+}
+JorgeStouks_46 {
+Tu vas te faire tuer. Ces navires appartiennent aux clans Narwhal et Casper. Tu ne peux pas simplement traverser leur territoire comme bon te semble!
+}
+JorgeStouks_47 {
+Hmm, d’accord, je vois. Je m’en souviendrai. Merci encore pour cet accueil chaleureux.
+}
+JorgeStouks_48_m {
+Tu es un voleur! Tu enfreins la loi de la ville!
+}
+JorgeStouks_48_f {
+Tu es un voleur! Tu enfreins la loi de la ville!
+}
+JorgeStouks_49_m {
+Eh bien, regarde-moi ça! J’ai détourné les yeux un instant, et tu t’es déjà jeté la tête la première dans le coffre! Il a enfreint la Loi!
+}
+JorgeStouks_49_f {
+Eh bien, regarde-moi ça! J’ai détourné les yeux une seconde, et tu as plongé la tête la première dans le coffre! Elle a enfreint la loi!
+}
+JorgeStouks_50_m {
+Milice! Au voleur! Attrapez-le, il a enfreint la loi!
+}
+JorgeStouks_50_f {
+Milice! On nous vole! Arrêtez-la, elle a enfreint la loi!
+}
+JorgeStouks_51 {
+@<LinkRandPhrase>
+}
+JorgeStouks_52 {
+A-ah, zut!!!
+}
+JorgeStouks_53 {
+Ah, c’est comme ça?! Tu as décidé de fouiller dans les coffres, hein?! Maintenant, les habitants et la milice vont te mettre en pièces comme une vieille loque!
+}
+JorgeStouks_54 {
+Quel imbécile!
+}
+JorgeStouks_55_m {
+Hé, tu pourrais peut-être ranger ton arme. Tu me rends un peu nerveux...
+}
+JorgeStouks_55_f {
+Hé, tu devrais peut-être ranger ton arme. Tu me rends un peu nerveux...
+}
+JorgeStouks_56 {
+Tu sais, ici on ne brandit pas les épées n’importe comment. Range ton arme.
+}
+JorgeStouks_57_m {
+Hé, pourquoi tu cours partout comme les Trois Mousquetaires en brandissant ton épée? Range ton arme, ce n’est pas digne d’un homme sérieux...
+}
+JorgeStouks_57_f {
+Hé, pourquoi tu cours partout comme les Trois Mousquetaires, en brandissant ton épée? Range ton arme, ce n’est pas digne d’une dame…
+}
+JorgeStouks_58 {
+@<LinkRandPhrase>
+}
+JorgeStouks_59 {
+Très bien.
+}
+JorgeStouks_60 {
+Très bien.
+}
+JorgeStouks_61 {
+Comme vous voulez...
+}
+JorgeStouks_62 {
+@<LinkRandPhrase>
+}
+JorgeStouks_63_m {
+Écoutez, en tant que citoyen de cette ville, je vous demande de ne pas vous promener ici l’arme à la main.
+}
+JorgeStouks_63_f {
+Vous savez, en tant que citoyen de cette ville, je vous demande de ne pas vous promener ici l’arme à la main.
+}
+JorgeStouks_64 {
+D’accord.
+}
+JorgeStouks_65 {
+D’accord.
+}
+JorgeStouks_66 {
+Comme vous voulez...
+}
+JorgeStouks_67 {
+@<LinkRandPhrase>
+}
+JorgeStouks_68_m {
+Fais attention dans les virages quand tu cours avec une arme à la main. Je pourrais bien sursauter…
+}
+JorgeStouks_68_f {
+Je n’aime pas que des gens se promènent devant moi avec des armes dégainées. Ça me rend nerveux…
+}
+JorgeStouks_69_m {
+Compris.
+}
+JorgeStouks_69_f {
+Compris.
+}
+JorgeStouks_70 {
+Je le range.
+}
+JorgeStouks_71 {
+@<RandPhraseSimple>
+}
+JorgeStouks_72 {
+Et qui cherchez-vous?
+}
+JorgeStouks_73 {
+Je ne comprends pas de qui vous parlez. J’ai besoin de connaître le prénom et le nom de cette personne.
+}
+JorgeStouks_74 {
+Compris. Laissez-moi essayer de le nommer à nouveau.
+}
+JorgeStouks_75_m {
+Merci, je préfère le chercher moi-même.
+}
+JorgeStouks_75_f {
+Merci, je préfère le chercher moi-même.
+}
+JorgeStouks_76 {
+Mais c’est moi!
+}
+JorgeStouks_77_m {
+Eh bien, regarde-moi ça, je t’ai trouvé pile où il fallait!
+}
+JorgeStouks_77_f {
+Eh bien, regarde ça, je t’ai finalement retrouvé!
+}
+JorgeStouks_78 {
+@<GetFullName>, tu parles de lui?
+}
+JorgeStouks_79 {
+Oui, oui, c’est bien lui, exactement.
+}
+JorgeStouks_80 {
+Non, pas à son sujet. Laissez-moi le nommer à nouveau.
+}
+JorgeStouks_81 {
+@<GetFullName>, tu parles d’elle?
+}
+JorgeStouks_82 {
+Oui, c’est bien celui-là.
+}
+JorgeStouks_83 {
+Non, ce n’est pas à propos d’elle. Écoute, laisse-moi essayer de lui donner un nom à nouveau.
+}
+JorgeStouks_84 {
+Tu sais, je n’ai plus envie de demander quoi que ce soit sur qui que ce soit. Au revoir.
+}
+JorgeStouks_85 {
+Alors, indiquez à nouveau votre prénom et votre nom de famille.
+}
+JorgeStouks_86 {
+Je ne sais pas, je ne l'ai pas vu depuis un moment.
+}
+JorgeStouks_87 {
+J’en sais rien, où il est…
+}
+JorgeStouks_88 {
+Je ne l’ai pas vu depuis un bon moment, alors je ne saurais pas dire.
+}
+JorgeStouks_89 {
+@<LinkRandPhrase>
+}
+JorgeStouks_90 {
+Compris.
+}
+JorgeStouks_91 {
+Dommage...
+}
+JorgeStouks_92 {
+@<RandPhraseSimple>
+}
+JorgeStouks_93 {
+Je ne l'ai pas vue depuis un bon moment, j'en ai bien peur.
+}
+JorgeStouks_94 {
+Je n’ai aucune idée d’où elle se trouve maintenant.
+}
+JorgeStouks_95 {
+Hmm, je ne sais pas où elle pourrait être en ce moment.
+}
+JorgeStouks_96 {
+@<LinkRandPhrase>
+}
+JorgeStouks_97 {
+Compris.
+}
+JorgeStouks_98 {
+Dommage...
+}
+JorgeStouks_99 {
+@<RandPhraseSimple>
+}
+JorgeStouks_100 {
+Il est ici, sur ce navire. Fouillez plus attentivement.
+}
+JorgeStouks_101 {
+Ah, alors il est ici, sur ce navire!
+}
+JorgeStouks_102 {
+Il est sur ce navire — étrange que tu ne l’aies pas encore vu.
+}
+JorgeStouks_103 {
+@<LinkRandPhrase>
+}
+JorgeStouks_104 {
+Je l’ai vu tout récemment @<npchar>.
+}
+JorgeStouks_105 {
+Je l’ai croisé à @<npchar> il n’y a pas longtemps. Cherche-le là-bas.
+}
+JorgeStouks_106 {
+À ma connaissance, il est actuellement chez @<npchar>.
+}
+JorgeStouks_107 {
+@<LinkRandPhrase>
+}
+JorgeStouks_108 {
+Alors il est juste ici, @<npchar>. Regardez de plus près.
+}
+JorgeStouks_109 {
+Mais il est là, parmi nous!
+}
+JorgeStouks_110 {
+Où regardes-tu? Il rôde dans les parages.
+}
+JorgeStouks_111 {
+@<LinkRandPhrase>
+}
+JorgeStouks_112 {
+Je l'ai vu tout récemment, @<npchar>.
+}
+JorgeStouks_113 {
+Je l’ai croisé à @<npchar> il n’y a pas longtemps. Cherche-le là-bas.
+}
+JorgeStouks_114 {
+À ma connaissance, il est actuellement chez @<npchar>.
+}
+JorgeStouks_115 {
+@<LinkRandPhrase>
+}
+JorgeStouks_116 {
+Ah, je vois. Merci.
+}
+JorgeStouks_117 {
+Merci!
+}
+JorgeStouks_118 {
+@<RandPhraseSimple>
+}
+JorgeStouks_119 {
+Elle est ici, sur ce navire. Fouillez plus attentivement.
+}
+JorgeStouks_120 {
+Ah, alors elle est ici, sur ce navire!
+}
+JorgeStouks_121 {
+Elle est sur ce navire—étonnant que tu ne l’aies pas encore vue.
+}
+JorgeStouks_122 {
+@<LinkRandPhrase>
+}
+JorgeStouks_123 {
+Je l'ai vue tout récemment @<npchar>.
+}
+JorgeStouks_124 {
+Je l'ai rencontrée récemment, @<npchar>. Nous avons même discuté.
+}
+JorgeStouks_125 {
+À ma connaissance, elle se trouve actuellement à @<npchar>.
+}
+JorgeStouks_126 {
+@<LinkRandPhrase>
+}
+JorgeStouks_127 {
+Alors elle est juste ici, @<npchar>. Regarde mieux.
+}
+JorgeStouks_128 {
+Mais elle est là, parmi nous!
+}
+JorgeStouks_129 {
+Où regardes-tu? Elle est quelque part par ici.
+}
+JorgeStouks_130 {
+@<LinkRandPhrase>
+}
+JorgeStouks_131 {
+Je l’ai vue tout récemment @<npchar>.
+}
+JorgeStouks_132 {
+Je l'ai rencontrée récemment, @<npchar>. Nous avons même discuté.
+}
+JorgeStouks_133 {
+À ma connaissance, elle est actuellement à @<npchar>.
+}
+JorgeStouks_134 {
+@<LinkRandPhrase>
+}
+JorgeStouks_135 {
+Ah, je vois. Merci, @<GetAddress_FormToNPC>.
+}
+JorgeStouks_136 {
+Merci!
+}
+JorgeStouks_137 {
+@<RandPhraseSimple>
+}
+JorgeStouks_138_m {
+Je t’écoute, l’ami.
+}
+JorgeStouks_138_f {
+Je vous écoute attentivement, madame.
+}
+JorgeStouks_139 {
+Cette ville... d'où vient-elle?
+}
+JorgeStouks_140 {
+Vous vivez ici depuis longtemps?
+}
+JorgeStouks_141 {
+Est-ce que beaucoup de gens meurent ici?
+}
+JorgeStouks_142 {
+Écoute, tu sais ce que c’est, Diffindur?
+}
+JorgeStouks_143 {
+Qu’y a-t-il d’intéressant dans la ville? À part la demeure de Chad Capper, bien sûr...
+}
+JorgeStouks_144 {
+Comment suis-je censé m’orienter ici..?
+}
+JorgeStouks_145 {
+Aucune question. Désolé...
+}
+JorgeStouks_146 {
+Certains disent que c’est une formation naturelle, qui attire étrangement les navires… D’autres sont convaincus que l’endroit est maudit et qu’il grandit à chaque nouveau naufrage… Difficile de dire, difficile de démêler la vérité de toutes ces rumeurs et histoires extravagantes.
+}
+JorgeStouks_147 {
+Alors, qu’en penses-tu?
+}
+JorgeStouks_148 {
+Mon avis compte-t-il? Bien sûr, ni plus ni moins que celui de n'importe qui d'autre.
+}
+JorgeStouks_149 {
+Et pourtant?
+}
+JorgeStouks_150 {
+Regarde autour de toi, écoute attentivement... Tu peux entendre leurs voix—les gémissements et les cris de milliers de marins perdus résonnent en toi, en chacun de nous. Lorsque tu marches sur le pont, tu pourrais percevoir des sons faibles, insaisissables... Mais si tu y prêtes attention, tu comprendras qu’il ne s’agit rien de moins que des échos des jours où ce navire sillonnait les mers. C’est la Profondeur qui t’appelle.
+}
+JorgeStouks_151 {
+Qu’est-ce que ça veut dire?
+}
+JorgeStouks_152 {
+La ville ne retient pas que nous, capitaine. Elle emprisonne les âmes et le temps lui-même ; elle peut tromper l’éternité.
+}
+JorgeStouks_153_m {
+Et moi, pauvre idiot, je croyais que c’était Chad Capper qui nous ralentissait…
+}
+JorgeStouks_153_f {
+Et moi, pauvre idiot, je croyais que c’était Chad Capper qui nous ralentissait...
+}
+JorgeStouks_154 {
+Non, environ trois mois. Il y a eu un combat de nuit contre des pirates qui avaient capturé un immense navire de guerre. Notre capitaine faisait partie de ces fous téméraires, alors il s’est lancé dans un combat perdu d’avance à bord d’une goélette. Bien sûr, dès la première bordée, le vaisseau de ligne a balayé tout ce qui vivait — ou pas — sur notre pont, y compris le capitaine et la moitié des officiers.\nJe n’avais jamais vécu ça auparavant — j’ai couru sur le pont et j’ai à peine réussi à traverser les débris des mâts et les lambeaux de gréement... Il n’y a rien de comparable à ce spectacle, capitaine. Mais vous voyez sûrement de quoi je parle —\nBref, ne voulant pas attendre la prochaine bordée, qui m’aurait sûrement achevé avec le reste de l’équipage et du navire, j’ai sauté par-dessus bord et nagé jusqu’au premier débris assez grand pour m’y accrocher. Après ça, j’ai dû perdre connaissance — je ne me souviens plus — mais... au matin, j’étais ici.
+}
+JorgeStouks_155 {
+Passionnant...
+}
+JorgeStouks_156 {
+Absolument! J’en ai eu le souffle coupé—j’ai failli en perdre mon sang-froid… Mais tout ça est derrière moi maintenant, et en fait, j’aime bien cet endroit. C’est paisible, calme, et intéressant.
+}
+JorgeStouks_157 {
+Je vois que tu n’es pas le seul.
+}
+JorgeStouks_158 {
+Bien sûr. Pourquoi résister? Au début, oui, tout paraît hostile, on veut juste fuir cet endroit maudit au plus vite, mais… tout finit par se calmer, crois-moi. Tu t’y habitueras, comme nous tous.
+}
+JorgeStouks_159_m {
+Je ne suis pas sûr d’aimer cette histoire de devoir s’y habituer.
+}
+JorgeStouks_159_f {
+Je ne suis pas sûr d’aimer cette histoire de devoir m’y habituer.
+}
+JorgeStouks_160 {
+Eh bien, je ne suis pas sûr que quelqu’un va te demander ton avis. Je ne suis pas le premier, et je ne serai pas le dernier à dire qu’il vaut mieux oublier tout ce qui t’est arrivé avant. Commence une nouvelle vie! Tu verras, ce n’est pas si mal ici.
+}
+JorgeStouks_161 {
+Merci pour le conseil, Monsieur @<npchar>.
+}
+JorgeStouks_162 {
+Plus que jamais. Mais il en arrive encore davantage ces derniers temps.
+}
+JorgeStouks_163 {
+Dernièrement? Pourquoi?
+}
+JorgeStouks_164 {
+Je n’en suis pas certain, mais il semble que la rumeur de la Ville se soit répandue dans tout l’archipel.
+}
+JorgeStouks_165 {
+Des rumeurs circulent au sujet de l’Island of Justice. Ce doit être la ville dont ils parlaient...
+}
+JorgeStouks_166 {
+Peut-être. Cependant, si c’est le cas, alors comment les rumeurs sont-elles parvenues jusqu’aux villes du continent?
+}
+JorgeStouks_167 {
+Disons simplement que c’était l’œuvre de miséreux... Mais cela n’a plus d’importance.
+}
+JorgeStouks_168 {
+Diffindur? Hmm... Peut-être que c’est l’un des navires dans le coin, le flûte « Fernando Diffindur »?
+}
+JorgeStouks_169 {
+Quel genre de flûte est-ce?
+}
+JorgeStouks_170 {
+Un navire à moitié submergé, brisé en deux et pourtant encore accroché au récif. Personne n’y vit—bien trop dangereux.
+}
+JorgeStouks_171 {
+Et où est-il?
+}
+JorgeStouks_172_m {
+C’est assurément de l’autre côté de la ville. Mais vraiment, vous devriez en parler à l’aubergiste — il connaît beaucoup de choses par ici.
+}
+JorgeStouks_172_f {
+Exactement de l’autre côté de la ville. Mais vraiment, vous devriez en parler à l’aubergiste — il en sait beaucoup sur ce qui se passe ici.
+}
+JorgeStouks_173 {
+Je suppose, mais qu’as-tu d’autre en ville?
+}
+JorgeStouks_174 {
+Nous avons une prison, une église et un magasin ici—comme dans n’importe quelle ville ordinaire! Il y a aussi un prêteur sur gages nommé Augusto Brams, mais il vaut mieux faire attention en traitant avec lui…
+}
+JorgeStouks_175 {
+Ah, c’est mieux!
+}
+JorgeStouks_176 {
+Ici, tu trouveras tout ce qu’on trouve dans une ville ordinaire : une église, une taverne, une boutique. Il y a même un prêteur sur gages. Mais laisse-moi te dire : prêter de l’argent ici, c’est une vraie folie.
+}
+JorgeStouks_177 {
+Pourquoi?
+}
+JorgeStouks_178 {
+Il y a tellement d’argent dans la Ville qu’il n’a plus vraiment de valeur. Les gens l’accumulent plus par habitude que dans l’espoir de réellement s’en servir.
+}
+JorgeStouks_179 {
+Je ne comprends pas, personne ici ne s’intéresse à l’argent?
+}
+JorgeStouks_180 {
+Non, pas du tout, pourquoi? L’argent reste de l’argent ici. Mais ce n’est tout simplement pas aussi important qu’au continent... Tu comprendras bientôt.
+}
+JorgeStouks_181 {
+Hmm, je ne comprends pas encore très bien, mais j’espère que ça deviendra plus clair bientôt...
+}
+JorgeStouks_182 {
+Ce sera difficile au début, mais tu comprendras vite comment ça fonctionne.
+}
+JorgeStouks_183 {
+Hmm, voilà qui est rassurant... Bien, as-tu la carte de la ville?
+}
+JorgeStouks_184 {
+Oui, j’en ai même vu un moi-même.
+}
+JorgeStouks_185 {
+Là! Et où l’as-tu vue?
+}
+JorgeStouks_186 {
+La dernière fois que je l’ai vue, c’était à notre boutique du coin. Mais je pense qu’elle n’est pas seule du tout.
+}
+JorgeStouks_187_m {
+Compris, merci.
+}
+JorgeStouks_187_f {
+Compris, merci.
+}
+JorgeStouks_188 {
+Quoi donc, si je peux me permettre?
+}
+JorgeStouks_189 {
+Vous avez déjà posé la question.
+}
+JorgeStouks_190 {
+Déjà demandé...
+}
+JorgeStouks_191 {
+Vous m’avez déjà interrogé à propos de ces marchandises. Je n’en sais rien!
+}
+JorgeStouks_192 {
+Bombes, mitraille, vivres, médicaments, poudre, armes...
+}
+JorgeStouks_193_m {
+Oui... Désolé, ça m’a échappé.
+}
+JorgeStouks_193_f {
+Oui... Désolé, j'ai oublié.
+}
+JorgeStouks_194 {
+Ah, c’est vrai.
+}
+JorgeStouks_195_m {
+D’accord, d’accord…
+}
+JorgeStouks_195_f {
+D’accord, d’accord...
+}
+JorgeStouks_196 {
+Je vois. Je ne sais pas pourquoi tu as besoin de ça, mais d’accord.\nPour la mitraille et les bombes, adresse-toi plutôt aux maîtresses de navire — elles en ont en abondance. Mais pour les armes et la poudre, va voir l’amiral.
+}
+JorgeStouks_197 {
+Et va-t-il le donner?
+}
+JorgeStouks_198 {
+Je ne sais pas. Demande-lui toi-même.
+}
+JorgeStouks_199 {
+Compris. Merci beaucoup.
+}
+JorgeStouks_200 {
+Vous accompagner? Voilà une proposition intéressante!
+}
+JorgeStouks_201 {
+Nous en avons déjà parlé.
+}
+JorgeStouks_202 {
+Nous en avons déjà parlé, je me répète.
+}
+JorgeStouks_203_m {
+Ça suffit, tu me fatigues...
+}
+JorgeStouks_203_f {
+Ça suffit, tu me fatigues...
+}
+JorgeStouks_204 {
+J’attends une réponse.
+}
+JorgeStouks_205_m {
+Oui... Désolé, ça m’a échappé.
+}
+JorgeStouks_205_f {
+Oui... Désolé, j'ai oublié.
+}
+JorgeStouks_206 {
+Comme vous voulez...
+}
+JorgeStouks_207 {
+Très bien alors...
+}
+JorgeStouks_208 {
+Je vais passer mon tour. Je me plais bien ici!
+}
+JorgeStouks_209 {
+Tu ne t’en es pas encore lassé?
+}
+JorgeStouks_210 {
+Non, je ne m’en lasse pas. Tout ce qu’il faut pour vivre est ici. Et on obtient tout ça sans le moindre effort.
+}
+JorgeStouks_211 {
+Peut-être que la tempête qui approche te fera entendre raison? Le problème, c’est qu’elle va détruire la Ville.
+}
+JorgeStouks_212 {
+Et comment le sais-tu?
+}
+JorgeStouks_213 {
+J’en suis certain, vous pouvez me faire confiance.
+}
+JorgeStouks_214 {
+Désolé, je ne te crois pas... La ville s’occupera de ce problème, comme toujours.
+}
+JorgeStouks_215 {
+Eh bien, comme vous voulez.
+}

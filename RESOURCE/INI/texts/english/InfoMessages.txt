@@ -1,0 +1,268 @@
+InfoMessages_1 {The ship's landing force @<officer.Ship.Name> consists of @<FindPeoplesString>.}
+InfoMessages_2 {Your loan period has expired}
+InfoMessages_3 {Bonus for outnumbering: @<m_rank_bonus>}
+InfoMessages_4 {It worked for the island.}
+InfoMessages_5 {It worked for the city.}
+InfoMessages_6 {, what is on @<XI_ConvertString>}
+InfoMessages_7 {Fire spell has been dispelled}
+InfoMessages_8 {Stone chest has been opened}
+InfoMessages_9 {Vitality @<Name> has become worse}
+InfoMessages_10 {Vitality @<Name> has become better}
+InfoMessages_11 {@<XI_ConvertString> increased the bounty on your head}
+InfoMessages_12 {@<XI_ConvertString> decreased the bounty on your head}
+InfoMessages_13 {Morning has come...}
+InfoMessages_14 {An hour has passed...}
+InfoMessages_15 {You have reached the wrecked ship}
+InfoMessages_16 {The next day...}
+InfoMessages_17 {The next morning...}
+InfoMessages_18 {Eight hours have passed...}
+InfoMessages_19 {What is happening is simply indescribable.}
+InfoMessages_20 {Sleeping out...}
+InfoMessages_21 {After ten minutes of digging...}
+InfoMessages_22 {After several hours of vigorous libations...}
+InfoMessages_23 {A few hours have passed...}
+InfoMessages_24 {One day passed...}
+InfoMessages_25 {Forty minutes passed during the service.}
+InfoMessages_26 {The evening of the next day.@<NewStr>Near the city gates...}
+InfoMessages_27 {In the morning of the next day...}
+InfoMessages_28 {On the 40th day of sailing...@<NewStr>New World, ocean, @<NewStr>attack by a Spanish ship.}
+InfoMessages_29 {About 7 days passed.@<NewStr>New World, island Martinique, @<NewStr>French colony of Fort-de-France.}
+InfoMessages_30 {Ten hours have passed...}
+InfoMessages_31 {On the 4th day of sailing...}
+InfoMessages_32 {Seven days have passed. Tortuga. Port...}
+InfoMessages_33 {Passed @<iDay> @<XI_ConvertString>. @<NewStr>@<XI_ConvertString> @<GetConvertStr>,@<NewStr>@<GetConvertStr>.}
+InfoMessages_34 {After intense preparation.}
+InfoMessages_35 {A ship is visible on the horizon!}
+InfoMessages_36 {The papers were not taken!!!}
+InfoMessages_37 {Something is wrong here...}
+InfoMessages_38 {@<XI_ConvertString> @<GetFullName> left your ship!}
+InfoMessages_39 {The city guard will help in the fight!}
+InfoMessages_40 {The guard chose not to interfere.}
+InfoMessages_41 {@<XI_ConvertString> @<GetFullName> came on board.}
+InfoMessages_42 {@<GetFullName> surrendered.}
+InfoMessages_43 {The ghost has been destroyed, now it will not return.}
+InfoMessages_44 {The ghost has been destroyed, but can it return?}
+InfoMessages_45 {We fought back!}
+InfoMessages_46 {A church quest done!}
+InfoMessages_47 {The mortal bodies of the mutineers have been sent on their final voyage.}
+InfoMessages_48 {The mutiny on the ship has been suppressed.}
+InfoMessages_49 {@<XI_ConvertString> @<GetCityName> now it's ours!}
+InfoMessages_50 {Someone has picked your pockets.}
+InfoMessages_51 {The time for delivering the cargo has expired.}
+InfoMessages_52 {You have not returned the debtor's money to the employer.}
+InfoMessages_53 {You have not delivered the loan to its destination.}
+InfoMessages_54 {@<XI_ConvertString> @<PChar> headed to the bay to his team.}
+InfoMessages_55 {The scout must be eliminated!}
+InfoMessages_56 {To the assault, eagles!}
+InfoMessages_57 {For my body I'll shred every Frenchman on this island!}
+InfoMessages_58 {You've found the right box@<NewStr>The Santa Lucia captain's gold has been found!}
+InfoMessages_59 {The skeletons are attacking!!!}
+InfoMessages_60 {You've lost part of the crew.}
+InfoMessages_61 {The ship has been received.}
+InfoMessages_62 {There's something here!}
+InfoMessages_63 {It's a trap!}
+InfoMessages_64 {Something's wrong here. Let's dig deeper...}
+InfoMessages_65 {There's a wooden cross by the grave, but the earth is dry and tightly packed. Let's continue our search.}
+InfoMessages_66 {This grave does not have a wooden cross. Let's continue our search.}
+InfoMessages_67 {Richard Sawkins has noticed that you have attacked him in a mean way. Now his pirates will attack you.}
+InfoMessages_68 {Killed by a musket salvo @<XI_ConvertString> of the enemy's crew}
+InfoMessages_69 {Killed by a musket salvo @<XI_ConvertString> of our crew.}
+InfoMessages_70 {Due to a lack of medicine, died from their wounds: @<FindSailorString>}
+InfoMessages_71 {@<XI_ConvertString> @<mchar> few medicines left in stock.}
+InfoMessages_72 {The crew will collect the trophies, we can move on!}
+InfoMessages_73 {Everything found will be transferred to the chest in the ship's hold.}
+InfoMessages_74 {We can start collecting trophies!}
+InfoMessages_75 {You found a page from the Encyclopedia on the commandant's body.}
+InfoMessages_76 {We found a locked chest. It looks like we need a key. Take a look for yourself, captain!}
+InfoMessages_77 {Found part of the treasure map!}
+InfoMessages_78 {Great luck! The 'Golden Key' has been found! The sailor has handed it over to you personally.}
+InfoMessages_79 {The trophy crew has searched the ship, and all the loot has been loaded into the chest in our hold.}
+InfoMessages_80 {Money found: @<iMoney>}
+InfoMessages_81 {Captain, we've found it @<itemID>! It looks like it's @<sTemp>.}
+InfoMessages_82 {You missed!}
+InfoMessages_83 {The scout managed to raise the alarm in the settlement, and the entire pearl trade disappeared into the jungle.}
+InfoMessages_84 {Black pearls collected.}
+InfoMessages_85 {@<XI_ConvertString> '@<chref>' does not have the minimum crew.}
+InfoMessages_86 {@<XI_ConvertString> '@<chref>' is overloaded.}
+InfoMessages_87 {@<XI_ConvertString> '@<chref>' has more crew than allowed.}
+InfoMessages_88 {Further sailing is impossible.}
+InfoMessages_89 {Captain, there is a storm nearby!}
+InfoMessages_90 {Enemy forces are suppressed! The way is clear.}
+InfoMessages_91 {Our city @<GetCityName> under siege!}
+InfoMessages_92 {Our city @<GetCityName> captured.}
+InfoMessages_93 {The siege has been lifted!}
+InfoMessages_94 {Rats on the ship damaged @<chref> @<LinkRandPhrase> @<iQuantity>@<XI_ConvertString> @<GetGoodsNameAlt>}
+InfoMessages_95 {@<XI_ConvertString> @<rChar> died of disease @<FindSailorString>}
+InfoMessages_96 {@<XI_ConvertString> @<rChar> ran out of rum.}
+InfoMessages_97 {@<XI_ConvertString> @<rChar> food left for @<FindDaysString>}
+InfoMessages_98 {Need to replenish supplies urgently!}
+InfoMessages_99 {Slaves revolted on the ship!}
+InfoMessages_100 {@<XI_ConvertString> @<rChar> sailors are starving. Crew morale is falling!}
+InfoMessages_101 {Sailors are dying of hunger!}
+InfoMessages_102 {Slaves are dying of hunger!}
+InfoMessages_103 {Mutiny on the ship @<rChar>!!!}
+InfoMessages_104 {The ship is leaving the squadron!}
+InfoMessages_105 {Treasure is somewhere nearby!}
+InfoMessages_106 {Time to find the ship is up.}
+InfoMessages_107 {Time to find the ship is up, the captain has gone ashore.}
+InfoMessages_108 {The captain has gone ashore.}
+InfoMessages_109 {Captain! We have an epidemic!}
+InfoMessages_110 {On board the ship @<chref> @<FindPeoplesString> already dead.}
+InfoMessages_111 {@<XI_ConvertString> '@<sld>' blew up@<GetShipSexWord> powder-magazine.}
+InfoMessages_112 {Damn it! The prisoner has escaped!}
+InfoMessages_113 {All the goods have been loaded into the hold.}
+InfoMessages_114 {The convicts have been delivered to the settlement.}
+InfoMessages_115 {It's time to cross blades.}
+InfoMessages_116 {You've received a summary of the prices of the city's goods @<colony>}
+InfoMessages_117_m {Oh, miracle! I'm alive!}
+InfoMessages_117_f {Oh, miracle! I'm alive!}
+InfoMessages_118 {You've found a very strange item.}
+InfoMessages_119 {The diplomat has done his job.}
+InfoMessages_120 {You've added a page to the Encyclopedia.}
+InfoMessages_121 {You've collected the complete Encyclopedia!}
+InfoMessages_122 {The collected Naval Encyclopedia doubles these bonuses.}
+InfoMessages_123 {The pearl collectors on Tartane @<rCharacter> gave you @<pinctadaQty> pearl oysters.}
+InfoMessages_124 {Failed to pass for a friend - @<NationNamePeople> recognized in us the enemy.}
+InfoMessages_125 {@<GetFullName> escaped on a boat.}
+InfoMessages_126 {@<sSunkShipType> '@<rDead>' was captured!}
+InfoMessages_127 {@<sSunkShipType> '@<rDead>' was captured, but released after the robbery.}
+InfoMessages_128 {@<XI_ConvertString> '@<rOurCharacter>' detonated the entire powder supply of the magazine.}
+InfoMessages_129 {It is impossible to go to the global map.}
+InfoMessages_130 {All deposits at the moneylender in the city @<GetCityName> disappeared.}
+InfoMessages_131 {@<rChar> falls unconscious.}
+InfoMessages_132 {Justice Island Map Received.}
+InfoMessages_133 {You received gold}
+InfoMessages_134 {You received credit chests}
+InfoMessages_135 {Received: '@<GetItemName>'}
+InfoMessages_136 {You received a credit chest}
+InfoMessages_137 {You received treasures}
+InfoMessages_138 {All ships have been repaired.}
+InfoMessages_139 {You received the Tlaloc Statuette}
+InfoMessages_140 {You gave away the basalt head}
+InfoMessages_141 {The contents of the cargo hold chest have been thrown overboard, Captain!}
+InfoMessages_142 {Piastres added: @<money>}
+InfoMessages_143 {Money, treasure maps, and quest items will be immediately transferred to @<GetHeroNameDat>}
+InfoMessages_144 {Original loot mechanic: manually search corpses and chests}
+InfoMessages_145 {Quick loot is triggered only by pressing the hotkey after combat and at any time thereafter}
+InfoMessages_146 {Quick loot is triggered immediately after combat and at any time thereafter by pressing the hotkey}
+InfoMessages_147 {The crew will gather all loot themselves and store it in the cargo hold chest}
+InfoMessages_148 {Your crew has been reinforced by @<FindPeoplesString>.}
+InfoMessages_149 {Spyglass received}
+InfoMessages_150 {You received 25 emeralds}
+InfoMessages_151 {You received a chest of gold}
+InfoMessages_152 {@<sAttr> is coming to you.}
+InfoMessages_153 {You received two bottles, one of which is now YOURS.}
+InfoMessages_154 {Gave @<iSmallPearl> small pearls.}
+InfoMessages_155 {Gave @<iBigPearl> large pearls.}
+InfoMessages_156 {Received @<iSmallPearl> small pearls.}
+InfoMessages_157 {Received @<iBigPearl> large pearls.}
+InfoMessages_158 {You gave the idol to the usurer.}
+InfoMessages_159 {You gave away the frightening figurine.}
+InfoMessages_160 {You received the Xiuhcoatl amulet.}
+InfoMessages_161 {@<sld> has been placed under guard on your ship.}
+InfoMessages_162 {You received your share of the treasure and: '@<GetItemName>'.}
+InfoMessages_163 {You received equipment: '@<GetItemName>'.}
+InfoMessages_164 {You received a gold nugget}
+InfoMessages_165 {You gave away the Xochipilli statue}
+InfoMessages_166 {You received a noble dress}
+InfoMessages_167 {You received the Xochipilli statue}
+InfoMessages_168 {You received the Atlaua idol}
+InfoMessages_169 {You received cormorants}
+InfoMessages_170 {You received gold nuggets}
+InfoMessages_171 {You received rags}
+InfoMessages_172 {You received a set of ammunition}
+InfoMessages_173 {James gave you the idol}
+InfoMessages_174 {You gave the idol to Collier}
+InfoMessages_175 {Collier returned the idol to you}
+InfoMessages_176 {You feel your pocket grow heavy with the idol... Again...}
+InfoMessages_177 {You gave the idol to James}
+InfoMessages_178 {You received silver nuggets}
+InfoMessages_179 {You received a sealed letter}
+InfoMessages_180 {You received a jewelry collection}
+InfoMessages_181 {You received 1 lute}
+InfoMessages_182 {You received 3 bottles of wine}
+InfoMessages_183 {You received 10 bunches of grapes}
+InfoMessages_184 {You received 10 bags of salt}
+InfoMessages_185 {@<arItem> added to the atlas}
+InfoMessages_186 {Spanish gold has been loaded into the ships' holds.}
+InfoMessages_187 {Slaves loaded onto the ship}
+InfoMessages_188 {You have 30 days to deliver the slaves to the employer}
+InfoMessages_189 {Famous corsair ships have left the squadron.}
+InfoMessages_190 {You spent @<pchar> units of food.}
+InfoMessages_191 {You spent @<pchar> units of medicine.}
+InfoMessages_192 {You spent @<pchar> units of weapons.}
+InfoMessages_193 {You spent @<pchar> units of rum.}
+InfoMessages_194 {You have 30 days to report to the employer and return the money.}
+InfoMessages_195 {You have 30 days to report the mission failure to the employer.}
+InfoMessages_196_m {The pistol barrel burst! @<GetCharacterFullName> threw away the fragments.}
+InfoMessages_196_f {The pistol barrel burst! @<GetCharacterFullName> threw away the fragments.}
+InfoMessages_197 {You received your share of the treasure}
+InfoMessages_198 {@<GetFullName>: weapon '@<TEV>' uses '@<GetConvertStr>' ammunition}
+InfoMessages_199 {Smugglers are losing trust in you...}
+InfoMessages_200 {Gave @<GetItemName>&Received @<GetItemName> (Quantity: @<FindQtyString>)␍}
+InfoMessages_201_m {@<GetFullNameTitulForm> has been revived!}
+InfoMessages_201_f {@<GetFullNameTitulForm> has been revived!}
+InfoMessages_202 {Price scouting complete!&All prices for visited shops have been updated to the latest values!}
+InfoMessages_203 {Crew training is underway on the ship '@<sld>'...}
+InfoMessages_204 {Have passed @<days>.@<NewStr>The deck of the smuggler ship.}
+InfoMessages_205 {After several hours of talking with the master...}
+InfoMessages_206 {Two hours have passed@<NewStr>Slaves have been set free}
+InfoMessages_207 {Several hours have passed@<NewStr>The Padre has performed the consecration}
+InfoMessages_208 {Two days have passed...}
+InfoMessages_209 {Two hours have passed...}
+InfoMessages_210 {Gold divided!}
+InfoMessages_211 {You gave a bottle of wine.}
+InfoMessages_212_m {@<GetFullName> reached a new level!}
+InfoMessages_212_f {@<GetFullName> reached a new level!}
+InfoMessages_213_m {@<GetFullName> gained a new personal skill!}
+InfoMessages_213_f {@<GetFullName> gained a new personal skill!}
+InfoMessages_214_m {@<GetFullName> gained a new ship skill!}
+InfoMessages_214_f {@<GetFullName> gained a new ship skill!}
+InfoMessages_215 {You must finish your business before setting off in search of the mysterious island.}
+InfoMessages_216 {Your remaining pearls have been placed in the chest in your cabin.}
+InfoMessages_217 {Gave @<iQty> pearl oysters.}
+InfoMessages_218 {Received @<iQty> pearl oysters.}
+InfoMessages_219 {Some days passed...}
+InfoMessages_220 {Some minutes passed...}
+InfoMessages_221 {Indians disapprove}
+InfoMessages_222 {Indians approve}
+InfoMessages_223 {Smugglers approve}
+InfoMessages_224 {Smugglers disapprove}
+InfoMessages_225 {Experience Gained ~}
+InfoMessages_226 {I see a ship. It's the @<ShipType> @<ShipName>!}
+InfoMessages_227 {The deception worked. These @<NationNamePeople> suspect nothing.}
+InfoMessages_228 {[Deception: @<TEV.TempGuardDeceptionChance>%%]}
+InfoMessages_229 {Check passed: @<statName>}
+InfoMessages_230 {Check not passed: @<statName>}
+InfoMessages_231 {Not enough @<statName> (@<curStatVal>)}
+InfoMessages_232 {Underdeveloped skill: @<statName> (@<curStatVal>)}
+InfoMessages_233 {Perk is not open}
+InfoMessages_234 {Reputation check passed}
+InfoMessages_235 {Too low reputation (@<stat>)}
+InfoMessages_236 {Too high reputation (@<stat>)}
+InfoMessages_237 {Too low reputation in colonies}
+InfoMessages_238 {A potion type '@<GetConvertStr>' will be used by default.}
+InfoMessages_239 {Potions will be selected automatically.}
+InfoMessages_240 {You have received an item: @<itemName> (x@<quantity>)}
+InfoMessages_241 {@<sld.name> has been placed under guard on your ship}
+InfoMessages_242 {Sounds of a struggle were heard on the bark 'San Gabriel'.}
+InfoMessages_243 {You hold a Spanish Letter of Marque. Sharp will not follow you.}
+InfoMessages_244
+{
+Governor Steed hasn't forgiven Peter Blood,
+for his lack of initiative, that night.
+Deprived of his privileges as the Bridgetown doctor,
+Peter has once more been barred from the city and left to rot on Colonel Bishop's plantation.
+Two years thence, in the heat of anger, Colonel Bishop shot Peter Blood dead.
+The story ended before it had even begun...
+}
+InfoMessages_245
+{
+Peter Blood failed to properly prepare for his escape.
+Thus the story was over, before it really began...
+}
+InfoMessages_246 {It is madness to storm a frigate alone.}
+InfoMessages_247 {It seems this is the house I need. I should thoroughly search everything here.}
+InfoMessages_248 {You received small pearls: @<iSmall> pcs.}
+InfoMessages_249 {You received large pearls: @<iBig> pcs.}
+InfoMessages_250 {One hour has passed...}

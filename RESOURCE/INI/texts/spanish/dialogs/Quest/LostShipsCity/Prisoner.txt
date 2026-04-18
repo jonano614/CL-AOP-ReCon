@@ -1,0 +1,675 @@
+Prisoner_1_m {
+Hola. Supongo que eres el ciudadano más reciente en llegar, ¿verdad?
+}
+Prisoner_1_f {
+Hola. Supongo que eres el último ciudadano en llegar, ¿verdad?
+}
+Prisoner_2 {
+Así es. Mi nombre es @<GetFullName>.
+}
+Prisoner_3 {
+Hola. ¿Qué te trae a la prisión?
+}
+Prisoner_4_m {
+Nada especial. Solo pasaba por aquí, eso es todo.
+}
+Prisoner_4_f {
+Nada especial. Solo pasaba por aquí, eso es todo.
+}
+Prisoner_5 {
+¿Sabe por casualidad quién era el alcaide antes que usted?
+}
+Prisoner_6 {
+¿Podría decirme por qué Maxim Taylor terminó aquí?
+}
+Prisoner_7 {
+Escucha, ¿hay alguna manera de ayudar a conseguir la liberación de ese borracho y alborotador, Maxim Taylor?
+}
+Prisoner_8 {
+Escucha, ¿hay alguna manera de ayudar a conseguir la liberación de ese borracho y alborotador, Maxim Taylor?
+}
+Prisoner_9 {
+Escucha, tengo algo importante que discutir. Estoy reuniendo una tripulación.
+}
+Prisoner_10 {
+Bien, acepta mis felicitaciones. Soy el alcaide de la prisión de la Ciudad y respondo directamente ante el almirante. No tengo problema en llevarme bien con cualquiera, pero tenlo presente: si terminas tras las rejas, la amistad se acaba.
+}
+Prisoner_11 {
+Sí, sí, entiendo. ¿Pasa mucha gente por aquí?
+}
+Prisoner_12 {
+No, lamentablemente, hace mucho que no viene nadie por aquí. Los clanes se mantienen al margen, no llaman la atención. Y la gente del pueblo prefiere no causar problemas.
+}
+Prisoner_13 {
+Ya veo. Bueno, entonces, buena suerte con el arduo trabajo de no hacer nada.
+}
+Prisoner_14 {
+¡Ni que lo digas! A veces, la nostalgia me dan ganas de aullar a la luna...
+}
+Prisoner_15 {
+Ya veo... Bueno, que te vaya bien.
+}
+Prisoner_16_m {
+Saludos. Me alegra que hayas sobrevivido y ahora estés entre nosotros. Soy el carcelero, mi nombre es @<GetFullName>.
+}
+Prisoner_16_f {
+Saludos. Me alegra que hayas sobrevivido y estés ahora entre nosotros. Soy el carcelero; mi nombre es @<GetFullName>.
+}
+Prisoner_17 {
+Un placer conocerte. Y yo soy el capitán @<GetFullName>.
+}
+Prisoner_18 {
+Si está aquí por asuntos de negocios, por favor hable con el jefe.
+}
+Prisoner_19 {
+Oye, ¿por casualidad sabes quién es Leighton Dexter?
+}
+Prisoner_20 {
+John Workman te envía saludos.
+}
+Prisoner_21_m {
+Amigo, te traje una botella de vino de parte de tu amigo Dominique Legrand. Tómate un trago, relájate un poco... Has estado encerrado aquí demasiado tiempo.
+}
+Prisoner_21_f {
+Amigo, te traje una botella de vino de parte de tu amigo Dominique Legros. Tómate un trago, relájate un poco... has estado encerrado aquí demasiado tiempo.
+}
+Prisoner_22 {
+Compañero, soy yo otra vez. Y de nuevo, es por Dominique Legros.
+}
+Prisoner_23 {
+Compañero, parece que Dominic no ha hecho nada inapropiado con Armo.
+}
+Prisoner_24 {
+Estoy aquí por petición de tu querido Armo.
+}
+Prisoner_25 {
+Thomas, ¿sabes que Armo ha sido asesinado?
+}
+Prisoner_26 {
+¿Cómo va tu progreso reclutando para nuestro “escuadrón suicida”?
+}
+Prisoner_27 {
+He logrado convencer a las siguientes personas para que se unan: @<sNames>.
+}
+Prisoner_28 {
+Estoy en ello. Y vaya nombre que se te ocurrió...
+}
+Prisoner_29 {
+Logré hablar con todos los que mencionaste. Solo @<GetFullName> aceptó unirse a mí.
+}
+Prisoner_30 {
+Logré hablar con todos los que teníamos en mente, pero no pude convencer a nadie de unirse a nuestra tripulación.
+}
+Prisoner_31 {
+Quizás deberíamos comenzar la operación de inmediato.
+}
+Prisoner_32 {
+Escucha, tengo algo serio que discutir. Estoy reuniendo una tripulación.
+}
+Prisoner_33_m {
+De acuerdo, lo entiendo.
+}
+Prisoner_33_f {
+De acuerdo, lo entiendo.
+}
+Prisoner_34 {
+Bueno, por fin nos conocemos. Si vienes por asuntos de negocios, deberías hablar con mi jefe.
+}
+Prisoner_35 {
+Entendido.
+}
+Prisoner_36 {
+¿Qué tripulación?
+}
+Prisoner_37 {
+Ya hemos hablado de esto.
+}
+Prisoner_38 {
+Esto ya se ha hablado, te lo digo por segunda vez.
+}
+Prisoner_39_m {
+Basta, me estás cansando...
+}
+Prisoner_39_f {
+Basta, me estás cansando...
+}
+Prisoner_40 {
+Tripulación al barco. Me voy del pueblo.
+}
+Prisoner_41_m {
+Sí... Perdón, se me pasó.
+}
+Prisoner_41_f {
+Sí... Perdón, se me pasó.
+}
+Prisoner_42 {
+Como desees...
+}
+Prisoner_43 {
+De acuerdo, entonces...
+}
+Prisoner_44 {
+¿Estás loco? ¿No conoces las leyes de la Ciudad?
+}
+Prisoner_45 {
+Solo intento salvar mi propia vida, nada más. Te sugiero que salves la tuya también. El caso es que la Ciudad será destruida por esta tormenta.
+}
+Prisoner_46 {
+No te creo.
+}
+Prisoner_47 {
+Una verdadera lástima.
+}
+Prisoner_48_m {
+Je, ¡vaya vidente que eres! Me pones la piel de gallina. Te recomendaría que controles tu entusiasmo.
+}
+Prisoner_48_f {
+Je, qué adivina... ¡me pone la piel de gallina! Te aconsejo que controles tu entusiasmo.
+}
+Prisoner_49 {
+Bueno, es mi trabajo hacer una oferta...
+}
+Prisoner_50 {
+¡No lo vas a creer! Ese tonto se emborrachó en la taberna y fue directo a la residencia del almirante a hacerse el importante.
+}
+Prisoner_51 {
+Ya he respondido a tu pregunta.
+}
+Prisoner_52 {
+¡Ya hemos hablado de esto!
+}
+Prisoner_53 {
+¡Escucha, detén esto ahora mismo!
+}
+Prisoner_54 {
+Oh-ho-ho... ¿Y qué clase de exigencias intentaba imponer?
+}
+Prisoner_55 {
+Sí, sí, lo recuerdo.
+}
+Prisoner_56 {
+Por supuesto.
+}
+Prisoner_57 {
+Está bien, está bien...
+}
+Prisoner_58 {
+Ni idea. En realidad, Maksim es nuestro huésped habitual, pero era la primera vez que se metía con Kapper. Y fue un gran error, si me preguntas. Terminar aquí, la verdad, le salió barato...
+}
+Prisoner_59 {
+¿Y qué podría haber pasado en el peor de los casos?
+}
+Prisoner_60 {
+Bueno, la historia no se basa en suposiciones.
+}
+Prisoner_61 {
+Está bien, lo entiendo...
+}
+Prisoner_62 {
+Le pediría que lleve esa pregunta al almirante. Él fue quien lo puso aquí, así que deje que él decida qué hacer con él ahora.
+}
+Prisoner_63 {
+Ya hemos hablado de esto.
+}
+Prisoner_64 {
+Lo repito: ya hemos hablado de esto.
+}
+Prisoner_65 {
+¿Eres un idiota?
+}
+Prisoner_66 {
+¿Y hay alguna manera en que pueda llegar a un acuerdo contigo?
+}
+Prisoner_67_m {
+Ah, cierto... lo olvidé...
+}
+Prisoner_67_f {
+Ah, se me olvidaba...
+}
+Prisoner_68_m {
+Se me olvidó otra vez.
+}
+Prisoner_68_f {
+Se me olvidó otra vez.
+}
+Prisoner_69 {
+Eso parece...
+}
+Prisoner_70 {
+¡Debes estar loco! Mi consejo: ve a ver a Kapper.
+}
+Prisoner_71 {
+Gracias por el consejo.
+}
+Prisoner_72 {
+No, no lo sé. Y tampoco te aconsejaría averiguarlo.
+}
+Prisoner_73 {
+¿En qué sentido?
+}
+Prisoner_74 {
+Literalmente. No te aconsejo averiguar quién dirigía la prisión antes que yo.
+}
+Prisoner_75 {
+O quizás sea Layton Dexter.
+}
+Prisoner_76 {
+Todo es posible... Pero, ¿a qué vienen tantas preguntas?
+}
+Prisoner_77 {
+No hace falta, solo era curiosidad.
+}
+Prisoner_78 {
+No lo muestres de nuevo. La curiosidad, ya sabes, es un rasgo bastante peligroso...
+}
+Prisoner_79 {
+Hmm... Sí, sí, entiendo.
+}
+Prisoner_80 {
+Exjefe del 'Tartarus'.
+}
+Prisoner_81 {
+¿Y dónde está ahora?
+}
+Prisoner_82 {
+Je, je... Está detrás de esa puerta, a la izquierda de la última celda de la fila derecha. ¡Pero ni una palabra a nadie!
+}
+Prisoner_83 {
+¡Nunca!
+}
+Prisoner_84 {
+Oh, el viejo John. ¿Cómo está?
+}
+Prisoner_85 {
+Está preocupado por la desaparición de Leighton Dexter, igual que yo.
+}
+Prisoner_86 {
+Uf... Lo que no sé, no lo sé. Y no te aconsejaría meterte en esto.
+}
+Prisoner_87 {
+Dicen que a Layton lo vieron por última vez justo aquí.
+}
+Prisoner_88 {
+Pero como puedes ver, no está aquí.
+}
+Prisoner_89 {
+¿Esa es toda la tripulación?
+}
+Prisoner_90 {
+También estaba el camarote de popa, pero... Después de una de las tormentas, se abrió un agujero allí y empezó a entrar mucha agua. Además, la puerta se atascó, así que ya no usamos ese cuarto. El agua entra a raudales por ahí. En fin, no puedo quedarme a charlar, estoy de guardia.
+}
+Prisoner_91 {
+Hmm... Gracias por la charla. ¡Buena suerte!
+}
+Prisoner_92 {
+¿Una botella de vino de Dominique Legrand? Bueno, aceptaré el vino, por qué no. Pero dile a ese sinvergüenza que aún tengo cuentas pendientes con él.
+}
+Prisoner_93_m {
+No entendí eso...
+}
+Prisoner_93_f {
+No entendí eso...
+}
+Prisoner_94 {
+No hay nada que debas entender. Solo dile que le cortaré las orejas mientras siga caminando.
+}
+Prisoner_95 {
+De acuerdo, se lo diré... Pero Dominic pensó que te alegraría.
+}
+Prisoner_96 {
+Me alegra mucho... Bueno, no tengo tiempo para quedarme conversando. Gracias por el vino y dale recuerdos a Dominik.
+}
+Prisoner_97 {
+De acuerdo, se lo haré saber.
+}
+Prisoner_98 {
+¿Qué dices?
+}
+Prisoner_99_m {
+Le transmití tus palabras. Se sorprendió mucho y jura que no tiene idea de lo que está pasando.
+}
+Prisoner_99_f {
+Le transmití tus palabras. Se mostró bastante sorprendido y jura que no tiene idea de lo que está pasando.
+}
+Prisoner_100 {
+¿De verdad?
+}
+Prisoner_101 {
+Él juró.
+}
+Prisoner_102 {
+¿Y cuando estaba jurando, acaso se le olvidó cómo, justo el otro día, coqueteaba con Armo Dulin, la camarera de la taberna?
+}
+Prisoner_103 {
+No tengo idea.
+}
+Prisoner_104 {
+¿Aun así?.. Hmm, bueno, entonces quizá deberíamos hacer las paces.
+}
+Prisoner_105 {
+Así que Dominic nunca discutió contigo, después de todo.
+}
+Prisoner_106 {
+Bueno, entonces ve y pregúntale.
+}
+Prisoner_107 {
+De acuerdo...
+}
+Prisoner_108 {
+¿Cómo así?
+}
+Prisoner_109 {
+Dice que solo estaba hablando con Armo y que en ningún momento intentó coquetear con ella.
+}
+Prisoner_110 {
+Pero me dijeron...
+}
+Prisoner_111 {
+No deberías dejar que los chismes guíen tus amistades.
+}
+Prisoner_112_m {
+Sí, tienes razón.\nBien, confío en Dominic. Dile que le pido disculpas. Parece que no me he comportado como debía.
+}
+Prisoner_112_f {
+Sí, tienes razón.\nBien, confío en Dominic. Dile que le pido disculpas. Parece que no me comporté como debía.
+}
+Prisoner_113 {
+Sí, realmente parece que es así.
+}
+Prisoner_114 {
+Gracias por involucrarte en nuestro asunto con Dominik.
+}
+Prisoner_115_m {
+Siempre me alegra poder ayudar.
+}
+Prisoner_115_f {
+Siempre dispuesto a ayudar.
+}
+Prisoner_116_m {
+Sí, tienes razón… Escucha, dile a Dominik que todo está bien. No estoy enojado con él.
+}
+Prisoner_116_f {
+Sí, tienes razón... Escucha, dile a Dominik que todo está bien. No estoy enojado con él.
+}
+Prisoner_117 {
+¡Bueno, perfecto! En ese caso, supongo que me marcho...
+}
+Prisoner_118 {
+¿Ah, sí? ¿Y por qué, si se puede saber?
+}
+Prisoner_119 {
+Porque necesitamos tu ayuda o consejo para derrotar a los Caspers de una vez por todas.
+}
+Prisoner_120 {
+¡¿Qué?! ¡Esto es una locura! ¿Por qué se metió en este juego, y contigo precisamente?
+}
+Prisoner_121 {
+Porque tu amada ansía vengar a su viejo amigo—Hill Brunner.
+}
+Prisoner_122 {
+¿Hilla fue asesinada por los Caspers?.. ¿Tienes alguna prueba?
+}
+Prisoner_123 {
+¿Oíste sobre el ataque a Cécile Gallard? ¿Sobre los tres tripulantes sin vida en el galeón de Eva?
+}
+Prisoner_124 {
+¡Por supuesto que lo he oído! Nosotros mismos tuvimos que arrojar los cuerpos por la borda... Pero ¿qué tiene eso que ver con Hill y—\n¡Está bien, basta! De todos modos, esta idea es absurdamente tonta.
+}
+Prisoner_125 {
+Escucha, tu chica está dispuesta a arriesgar la vida para acabar con todo el clan Casper. A menudo les lleva bebidas y comida en San Gabriel—¿y si ella es su próxima víctima? ¿Podrías perdonarte por no hacer nada?
+}
+Prisoner_126 {
+Hmm... Supongo que simplemente no tengo derecho a rechazar tu petición. Estoy dispuesto a ayudarte a luchar contra los Kaspers, pero tampoco quiero que Armo tenga que llorar por mi cadáver. Así que será mejor que consigas algunos aliados para esto, o acabaremos siendo un escuadrón suicida. Ten en cuenta que el clan Kasper está en ascenso desde que los Narwhals fueron eliminados, y ahora mismo son incluso más fuertes que la milicia...
+}
+Prisoner_127_m {
+Lo tendré en cuenta, Thomas. Y… me alegra que hayas aceptado.
+}
+Prisoner_127_f {
+Lo tendré en cuenta, Thomas. Y… me alegra que hayas aceptado.
+}
+Prisoner_128 {
+Me agradeces demasiado pronto... Aún no he aceptado. De todos modos, estoy seguro de que pronto encontrarás a otros dispuestos a encargarse de esa chusma roja.
+}
+Prisoner_129 {
+¿Tienes a alguien en mente?
+}
+Prisoner_130 {
+De acuerdo, puedo encargarme.
+}
+Prisoner_131 {
+Hmm... Déjame pensar. Por supuesto, el viejo John Workman, con su carácter, no va a tolerar semejante desorden en la Ciudad. Pero sin la aprobación del almirante, no tiene derecho a involucrarse en este tipo de asunto. Así que tendrás que encontrar la manera de hacerlo cambiar de opinión.\nEn cuanto a los Taylor, no hace falta convencerlos. Si alguien ha sufrido por culpa de los Caspers, son ellos, que viven al lado en Ceres Smithy. Lo sé de primera mano.\nSobre los rumores... Malcolm casi termina en nuestra celda hace poco por una pelea borracho. Según decían los del pueblo, estaba claramente molesto por las acciones de los Caspers... No sé qué le pasó, pero deberías ir a verlo. Si no, podría meterse en un verdadero lío.\nHubiera sugerido a mi viejo amigo Dominic Legros, pero sigue siendo tan cobarde como siempre. Así que no cuentes con él, no vale la pena.\nBueno, eso es todo. Quién sabe, tal vez tengas algún as bajo la manga...
+}
+Prisoner_132 {
+¡Eso es incluso más de lo que necesitaba! Gracias, Thomas. Espero poder encontrar algunos partidarios…
+}
+Prisoner_133 {
+Confío en ti. Vuelve cuando tengas algún resultado.
+}
+Prisoner_134 {
+De acuerdo. Haré exactamente eso.
+}
+Prisoner_135 {
+Lo sé.
+}
+Prisoner_136 {
+¿Sabes quién hizo esto?
+}
+Prisoner_137 {
+Estoy tratando de averiguarlo. Cuando lo haga, les arrancaré el corazón.
+}
+Prisoner_138 {
+Esto lo hizo Juan Cobo, uno de los Caspers.
+}
+Prisoner_139 {
+¿Cómo lo sabes?
+}
+Prisoner_140_m {
+Él mismo me lo dijo. Pero no hay prisa, ya me encargué de él.
+}
+Prisoner_140_f {
+Él mismo me lo dijo. Pero no tienes que apresurarte, ya me encargué de él.
+}
+Prisoner_141 {
+Qué lástima...
+}
+Prisoner_142_m {
+Bueno, no diría eso.
+}
+Prisoner_142_f {
+Bueno, no diría eso.
+}
+Prisoner_143 {
+¿Qué quieres decir?
+}
+Prisoner_144 {
+Te sugiero que no lo tomes como una venganza personal, sino que busques justicia contra todo el clan—Kobo solo seguía órdenes. Sabes tan bien como yo que ninguno de ellos actúa sin el permiso del líder del clan.
+}
+Prisoner_145 {
+Así es...
+}
+Prisoner_146 {
+Estoy a punto de asaltar el 'San Gabriel'. Puedes venir conmigo.
+}
+Prisoner_147 {
+Ya no me importa mucho, pero un poco de ayuda no vendría mal... Supongo...
+}
+Prisoner_148 {
+Suena razonable, para este trabajo se necesita tener la cabeza fría. ¡Gracias por aceptar!
+}
+Prisoner_149 {
+No hay tiempo que perder, no lo dejemos para después. ¡Actuemos ahora mismo!
+}
+Prisoner_150 {
+Bueno, parece que lo logramos.
+}
+Prisoner_151 {
+Así es. Gracias por tu ayuda, amigo. ¿Quizás quieras unirte a este tipo de líos en el futuro?
+}
+Prisoner_152 {
+No. Fue venganza, no ansias de aventura. Pero no siento alivio. Creo que iré a emborracharme.
+}
+Prisoner_153 {
+¿Y la prisión?
+}
+Prisoner_154 {
+¡Al diablo con la prisión, el almirante y esta maldita ciudad! Sin Armo, nada tiene sentido...
+}
+Prisoner_155 {
+Lo siento, Thomas.
+}
+Prisoner_156 {
+Bueno, ya que ellos han asumido la tarea, yo tampoco me quedaré al margen—cumpliré mi promesa.
+}
+Prisoner_157 {
+Espera un momento, te avisaré cuando necesite tu ayuda.
+}
+Prisoner_158 {
+Bueno, en ese caso, iré contigo de todos modos. Al diablo con las órdenes del almirante—dejo mi puesto. ¡La venganza por Armo es lo único que me queda!
+}
+Prisoner_159 {
+Espera un momento, te avisaré cuando necesite tu ayuda.
+}
+Prisoner_160 {
+En ese caso, no quiero arriesgarme a ir contigo. Somos muy pocos y tengo demasiado que perder. Y no lo olvides, pertenezco a la milicia; no actuamos sin las órdenes del almirante. Además, quizá los Caspers se peleen entre ellos por el botín. O tal vez el diablo del mar se los lleve en la próxima tormenta... ¿Quién puede saberlo?
+}
+Prisoner_161 {
+Lo dudo, Thomas. Adiós.
+}
+Prisoner_162 {
+Vuelve cuando el plan esté listo.
+}
+Prisoner_163 {
+Ya hablamos de eso.
+}
+Prisoner_164 {
+Ya lo dije...
+}
+Prisoner_165 {
+¡Basta! ¡Ve a hacer algo útil!
+}
+Prisoner_166 {
+Sí, exactamente.
+}
+Prisoner_167_m {
+Sí... Perdón, se me pasó.
+}
+Prisoner_167_f {
+Sí... Perdón, lo olvidé.
+}
+Prisoner_168 {
+Ah, claro.
+}
+Prisoner_169_m {
+Entendido, entendido...
+}
+Prisoner_169_f {
+Entendido, entendido...
+}
+Prisoner_170 {
+¿Qué tripulación?
+}
+Prisoner_171 {
+Ya hemos hablado de esto.
+}
+Prisoner_172 {
+Esto ya se ha hablado, me estoy repitiendo.
+}
+Prisoner_173_m {
+Basta, me estás cansando...
+}
+Prisoner_173_f {
+Basta, me estás cansando...
+}
+Prisoner_174 {
+Tripulación al barco. Me voy de la ciudad.
+}
+Prisoner_175_m {
+Sí... Perdón, se me pasó.
+}
+Prisoner_175_f {
+Sí... Perdón, se me pasó.
+}
+Prisoner_176 {
+Como desees...
+}
+Prisoner_177 {
+De acuerdo, entonces...
+}
+Prisoner_178 {
+¿Estás loco? ¿No conoces las Leyes de la Ciudad?
+}
+Prisoner_179 {
+Las leyes de la Ciudad están un poco anticuadas. El asunto es que pronto llegará una tormenta que no dejará más que astillas de la Ciudad. La naturaleza no le pedirá permiso al almirante antes de arrasar con todo a su paso. Así que te propongo que nos salvemos juntos.
+}
+Prisoner_180 {
+¡Ja! ¿Y esperas que me crea esos cuentos? Ya hemos escuchado a muchos profetas como ese anunciar el fin del mundo...
+}
+Prisoner_181 {
+No soy profeta, pero el Mecánico, según sus investigaciones y sus instrumentos, puede predecir con bastante certeza que ocurrirá muy pronto. Pero si lo crees o no, eso depende de ti.
+}
+Prisoner_182 {
+Muy noble de tu parte. Supongamos que tú y el Mecánico no están equivocados... Pero sin Armo, ni siquiera pensaré en intentar salir de esta isla. ¿Está claro?
+}
+Prisoner_183_m {
+Cálmate, Thomas. Ya hablé con Armo. Ella está lista para zarpar, pero solo si vas con ella. Ahora todo depende de ti.
+}
+Prisoner_183_f {
+Tranquilízate, Thomas. Ya hablé con Armo. Ella está lista para zarpar, pero solo si vas con ella. Ahora todo depende de ti.
+}
+Prisoner_184 {
+En ese caso, hablaré con Armo. Entonces, ¿eso significa que estás dispuesto a subir al barco con nosotros?
+}
+Prisoner_185 {
+No, gracias. Me quedaré aquí hasta que el almirante diga lo contrario.
+}
+Prisoner_186 {
+Como quieras. Pero cuando llegue la tormenta, recuerda esta conversación...
+}
+Prisoner_187 {
+Entonces dile que estoy de acuerdo. A donde ella vaya, yo iré.
+}
+Prisoner_188 {
+De acuerdo. Dirígete al 'San Gabriel'; allí te ayudarán a subir al barco. Nos vemos pronto, Thomas.
+}
+Prisoner_189 {
+Sí. Que Armo me diga su decisión ella misma. No quiero que tome una decisión influenciada por otra persona. Esperaré aquí por ahora.
+}
+Prisoner_190 {
+De acuerdo. Le avisaré a Armo que aceptaste. Adiós.
+}
+Prisoner_191 {
+Maldita sea... Toda mi vida pensé que esta ciudad era mi hogar. Nunca imaginé que me iría de este agujero por mi propia voluntad.
+}
+Prisoner_192 {
+Aunque solo sea por Armo, vale la pena intentar escapar.
+}
+Prisoner_193 {
+Sí, pero... Armo cree en mí, y yo... ni siquiera puedo imaginar cómo es vivir en el continente. Lo único que sé hacer es pelear, y difícilmente sirvo para la vida tranquila de un colono o un trabajador honrado.
+}
+Prisoner_194 {
+Eres un tipo fuerte, podrás con esto. Lo importante es empezar.
+}
+Prisoner_195 {
+Fácil decirlo para ti... Durante años, mi vida fue pura rutina: rondas, raciones, apagar las luces. ¿Y ahora qué? ¿Libertad? ¿El ejército? ¿Y si muero en alguna batalla mientras estoy en servicio...? Ella no lo soportaría. ¿Y entonces qué hará Armo? Solo, sin un centavo... ¿Quizás de verdad no deberíamos haber empezado todo esto?
+}
+Prisoner_196 {
+No sobreviviste solo para morir en tu primera pelea. ¡Recupérate, viejo amigo! Aprende a construir, no solo a destruir.
+}
+Prisoner_197 {
+Hablas como un predicador... Está bien, vamos a intentarlo. Pero ¿qué se supone que debo decirle cuando pongamos un pie en tierra por primera vez? No tengo la menor idea...
+}
+Prisoner_198 {
+Dirás la verdad.
+}
+Prisoner_199 {
+¡Piensa en algo, Thomas!
+}
+Prisoner_200 {
+Date prisa. Nuestro barco no va a esperar ahí para siempre. Ya tendrás tiempo para lamentarte después.
+}
+Prisoner_201 {
+Sí, supongo que sí. Bueno, basta de sentimentalismos. Dile a Armo—\nAh, olvídalo. Se lo diré yo mismo.
+}
+Prisoner_202 {
+Hazlo. Y cuídala bien—no encontrarás otra mujer como ella.
+}

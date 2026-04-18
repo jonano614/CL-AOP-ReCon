@@ -1,0 +1,267 @@
+InfoMessages_1 {La fuerza de desembarco del barco @<officer.Ship.Name> está compuesta por @<FindPeoplesString>.}
+InfoMessages_2 {Su período de préstamo ha expirado}
+InfoMessages_3 {Bono por superioridad numérica: @<m_rank_bonus>}
+InfoMessages_4 {Funcionó en la isla.}
+InfoMessages_5 {Funcionó para la ciudad.}
+InfoMessages_6 {, qué hay en @<XI_ConvertString>}
+InfoMessages_7 {El hechizo de fuego ha sido disipado}
+InfoMessages_8 {El cofre de piedra ha sido abierto}
+InfoMessages_9 {La vitalidad de @<Name> ha empeorado}
+InfoMessages_10 {La vitalidad de @<Name> ha mejorado}
+InfoMessages_11 {@<XI_ConvertString> aumentó la recompensa por tu cabeza}
+InfoMessages_12 {@<XI_ConvertString> ha reducido la recompensa por tu cabeza}
+InfoMessages_13 {Ha amanecido...}
+InfoMessages_14 {Ha pasado una hora...}
+InfoMessages_15 {Has llegado al barco naufragado}
+InfoMessages_16 {Al día siguiente...}
+InfoMessages_17 {A la mañana siguiente...}
+InfoMessages_18 {Han pasado ocho horas...}
+InfoMessages_19 {Lo que está ocurriendo es simplemente indescriptible.}
+InfoMessages_20 {Durmiendo fuera...}
+InfoMessages_21 {Después de diez minutos de excavación...}
+InfoMessages_22 {Tras varias horas de intensas libaciones...}
+InfoMessages_23 {Han pasado unas horas...}
+InfoMessages_24 {Ha pasado un día...}
+InfoMessages_25 {Pasaron cuarenta minutos durante el servicio.}
+InfoMessages_26 {La tarde del día siguiente.@<NewStr>Cerca de las puertas de la ciudad...}
+InfoMessages_27 {A la mañana siguiente...}
+InfoMessages_28 {En el día 40 de navegación...@<NewStr>Nuevo Mundo, océano, @<NewStr>ataque de un barco español.}
+InfoMessages_29 {Pasaron unos 7 días.@<NewStr>Nuevo Mundo, isla Martinica, @<NewStr>colonia francesa de Fort-de-France.}
+InfoMessages_30 {Han pasado diez horas...}
+InfoMessages_31 {En el cuarto día de navegación...}
+InfoMessages_32 {Han pasado siete días. Tortuga. Puerto...}
+InfoMessages_33 {Han pasado @<iDay> @<XI_ConvertString>. @<NewStr>@<XI_ConvertString> @<GetConvertStr>,@<NewStr>@<GetConvertStr>.}
+InfoMessages_34 {Tras una intensa preparación.}
+InfoMessages_35 {¡Se ve un barco en el horizonte!}
+InfoMessages_36 {¡No se han recogido los papeles!}
+InfoMessages_37 {Aquí hay algo que no está bien...}
+InfoMessages_38 {@<XI_ConvertString> @<GetFullName> ha dejado tu barco!}
+InfoMessages_39 {¡La guardia de la ciudad ayudará en la lucha!}
+InfoMessages_40 {El guardia decidió no intervenir.}
+InfoMessages_41 {@<XI_ConvertString> @<GetFullName> subió a bordo.}
+InfoMessages_42 {@<GetFullName> se rindió.}
+InfoMessages_43 {El fantasma ha sido destruido, ahora no volverá.}
+InfoMessages_44 {El fantasma ha sido destruido, ¿pero puede regresar?}
+InfoMessages_45 {¡Nos defendimos!}
+InfoMessages_46 {¡Misión de la iglesia completada!}
+InfoMessages_47 {Los cuerpos mortales de los amotinados han sido enviados en su último viaje.}
+InfoMessages_48 {El motín en el barco ha sido sofocado.}
+InfoMessages_49 {@<XI_ConvertString> ¡@<GetCityName> ahora es nuestro!}
+InfoMessages_50 {Alguien ha revisado tus bolsillos.}
+InfoMessages_51 {El plazo para entregar la carga ha expirado.}
+InfoMessages_52 {No has devuelto el dinero del deudor al empleador.}
+InfoMessages_53 {No has entregado el préstamo a su destino.}
+InfoMessages_54 {@<XI_ConvertString> @<PChar> se dirigió a la bahía con su equipo.}
+InfoMessages_55 {¡El explorador debe ser eliminado!}
+InfoMessages_56 {¡Al asalto, águilas!}
+InfoMessages_57 {¡Por mi vida, haré trizas a cada francés en esta isla!}
+InfoMessages_58 {¡Has encontrado el cofre correcto@<NewStr>¡El oro del capitán de la Santa Lucia ha sido hallado!}
+InfoMessages_59 {¡Los esqueletos están atacando!}
+InfoMessages_60 {Has perdido parte de la tripulación.}
+InfoMessages_61 {El barco ha sido recibido.}
+InfoMessages_62 {¡Aquí hay algo!}
+InfoMessages_63 {¡Es una trampa!}
+InfoMessages_64 {Algo no cuadra aquí. Vamos a investigar más a fondo...}
+InfoMessages_65 {Hay una cruz de madera junto a la tumba, pero la tierra está seca y compacta. Sigamos buscando.}
+InfoMessages_66 {Esta tumba no tiene una cruz de madera. Sigamos buscando.}
+InfoMessages_67 {Richard Sawkins ha notado que lo atacaste de forma ruin. Ahora sus piratas te atacarán.}
+InfoMessages_68 {Muertos por una descarga de mosquetes @<XI_ConvertString> de la tripulación enemiga}
+InfoMessages_69 {Muerto por una descarga de mosquete @<XI_ConvertString> de nuestra tripulación.}
+InfoMessages_70 {Por falta de medicinas, murieron por sus heridas: @<FindSailorString>}
+InfoMessages_71 {@<XI_ConvertString> @<mchar> quedan pocos medicamentos en stock.}
+InfoMessages_72 {La tripulación recogerá los trofeos, ¡podemos seguir adelante!}
+InfoMessages_73 {Todo lo encontrado se transferirá al cofre en la bodega del barco.}
+InfoMessages_74 {¡Podemos empezar a recoger trofeos!}
+InfoMessages_75 {Encontraste una página de la Enciclopedia en el cuerpo del comandante.}
+InfoMessages_76 {Encontramos un cofre cerrado. Parece que necesitamos una llave. Échele un vistazo usted mismo, capitán.}
+InfoMessages_77 {¡Has encontrado una parte del mapa del tesoro!}
+InfoMessages_78 {¡Qué suerte! ¡Se ha encontrado la 'Llave Dorada'! El marinero te la ha entregado personalmente.}
+InfoMessages_79 {La tripulación de presa ha registrado el barco y todo el botín ha sido guardado en el cofre de nuestra bodega.}
+InfoMessages_80 {Dinero encontrado: @<iMoney>}
+InfoMessages_81 {¡Capitán, lo hemos encontrado @<itemID>! Parece que es @<sTemp>.}
+InfoMessages_82 {¡Fallaste!}
+InfoMessages_83 {El vigía logró dar la alarma en el asentamiento, y todo el comercio de perlas desapareció en la selva.}
+InfoMessages_84 {Perlas negras recolectadas.}
+InfoMessages_85 {@<XI_ConvertString> '@<chref>' no tiene la tripulación mínima.}
+InfoMessages_86 {@<XI_ConvertString> '@<chref>' está sobrecargado.}
+InfoMessages_87 {@<XI_ConvertString> '@<chref>' tiene más tripulación de la permitida.}
+InfoMessages_88 {No es posible continuar la navegación.}
+InfoMessages_89 {¡Capitán, hay una tormenta cerca!}
+InfoMessages_90 {¡Las fuerzas enemigas han sido sometidas! El camino está despejado.}
+InfoMessages_91 {¡Nuestra ciudad @<GetCityName> está bajo asedio!}
+InfoMessages_92 {Nuestra ciudad @<GetCityName> ha sido capturada.}
+InfoMessages_93 {¡El asedio ha terminado!}
+InfoMessages_94 {Ratas en el barco dañaron @<chref> @<LinkRandPhrase> @<iQuantity>@<XI_ConvertString> @<GetGoodsNameAlt>}
+InfoMessages_95 {@<XI_ConvertString> @<rChar> murió por enfermedad @<FindSailorString>}
+InfoMessages_96 {@<XI_ConvertString> @<rChar> se quedó sin ron.}
+InfoMessages_97 {@<XI_ConvertString> @<rChar> comida para @<FindDaysString>}
+InfoMessages_98 {¡Hay que reponer provisiones urgentemente!}
+InfoMessages_99 {¡Los esclavos se han amotinado en el barco!}
+InfoMessages_100 {@<XI_ConvertString> Los marineros de @<rChar> están hambrientos. ¡La moral de la tripulación está cayendo!}
+InfoMessages_101 {¡Los marineros están muriendo de hambre!}
+InfoMessages_102 {¡Los esclavos están muriendo de hambre!}
+InfoMessages_103 {¡Motín en el barco @<rChar>!!!}
+InfoMessages_104 {¡El barco está saliendo de la escuadra!}
+InfoMessages_105 {¡El tesoro está cerca!}
+InfoMessages_106 {Se acabó el tiempo para encontrar el barco.}
+InfoMessages_107 {Se acabó el tiempo para encontrar el barco, el capitán ha desembarcado.}
+InfoMessages_108 {El capitán ha desembarcado.}
+InfoMessages_109 {¡Capitán! ¡Tenemos una epidemia!}
+InfoMessages_110 {A bordo del barco @<chref> @<FindPeoplesString> ya están muertos.}
+InfoMessages_111 {@<XI_ConvertString> '@<sld>' hizo explotar la santabárbara@<GetShipSexWord>.}
+InfoMessages_112 {¡Maldita sea! ¡El prisionero se ha escapado!}
+InfoMessages_113 {Todas las mercancías han sido cargadas en la bodega.}
+InfoMessages_114 {Los convictos han sido entregados al asentamiento.}
+InfoMessages_115 {Es hora de cruzar espadas.}
+InfoMessages_116 {Has recibido un resumen de los precios de los bienes de la ciudad @<colony>}
+InfoMessages_117_m {¡Oh, milagro! ¡Estoy viv!}
+InfoMessages_117_f {¡Oh, milagro! ¡Estoy viv!}
+InfoMessages_118 {Has encontrado un objeto muy extraño.}
+InfoMessages_119 {El diplomático ha cumplido con su deber.}
+InfoMessages_120 {Has añadido una página a la Enciclopedia.}
+InfoMessages_121 {¡Has reunido la Enciclopedia completa!}
+InfoMessages_122 {La Enciclopedia Naval reunida duplica estas bonificaciones.}
+InfoMessages_123 {Los recolectores de perlas en la tartana @<rCharacter> te dieron @<pinctadaQty> ostras perleras.}
+InfoMessages_124 {No logramos pasar por amigos: @<NationNamePeople> nos reconocieron como enemigos.}
+InfoMessages_125 {@<GetFullName> escapó en un bote.}
+InfoMessages_126 {¡@<sSunkShipType> '@<rDead>' fue capturado!}
+InfoMessages_127 {@<sSunkShipType> '@<rDead>' fue capturado, pero liberado tras el saqueo.}
+InfoMessages_128 {@<XI_ConvertString> '@<rOurCharacter>' hizo detonar toda la pólvora del polvorín.}
+InfoMessages_129 {No es posible ir al mapa global.}
+InfoMessages_130 {Todos los depósitos en el prestamista de la ciudad @<GetCityName> han desaparecido.}
+InfoMessages_131 {@<rChar> pierde el conocimiento.}
+InfoMessages_132 {Mapa de la Isla de la Justicia recibido.}
+InfoMessages_133 {Has recibido oro}
+InfoMessages_134 {Has recibido cofres de crédito}
+InfoMessages_135 {Recibido: '@<GetItemName>'}
+InfoMessages_136 {Has recibido un cofre de crédito}
+InfoMessages_137 {Has recibido tesoros}
+InfoMessages_138 {Todos los barcos han sido reparados.}
+InfoMessages_139 {Has recibido la Estatuilla de Tlaloc}
+InfoMessages_140 {Entregaste la cabeza de basalto}
+InfoMessages_141 {¡El contenido del cofre de la bodega ha sido arrojado por la borda, capitán!}
+InfoMessages_142 {Piastras añadidas: @<money>}
+InfoMessages_143 {El dinero, los mapas del tesoro y los objetos de misión se transferirán de inmediato a @<GetHeroNameDat>}
+InfoMessages_144 {Mecánica de botín original: busca manualmente en cadáveres y cofres}
+InfoMessages_145 {El botín rápido se activa solo al presionar la tecla rápida después del combate y en cualquier momento posterior}
+InfoMessages_146 {El botín rápido se activa inmediatamente después del combate y en cualquier momento posterior pulsando la tecla rápida}
+InfoMessages_147 {La tripulación recogerá todo el botín y lo guardará en el cofre de la bodega}
+InfoMessages_148 {Tu tripulación ha sido reforzada por @<FindPeoplesString>.}
+InfoMessages_149 {Catalejo recibido}
+InfoMessages_150 {Has recibido 25 esmeraldas}
+InfoMessages_151 {Has recibido un cofre de oro}
+InfoMessages_152 {@<sAttr> viene hacia ti.}
+InfoMessages_153 {Has recibido dos botellas, una de las cuales ahora es TUYA.}
+InfoMessages_154 {Entregaste @<iSmallPearl> perlas pequeñas.}
+InfoMessages_155 {Entregaste @<iBigPearl> perlas grandes.}
+InfoMessages_156 {Recibido @<iSmallPearl> perlas pequeñas.}
+InfoMessages_157 {Recibido @<iBigPearl> perlas grandes.}
+InfoMessages_158 {Le diste el ídolo al usurero.}
+InfoMessages_159 {Entregaste la figurilla aterradora.}
+InfoMessages_160 {Has recibido el amuleto Xiuhcoatl.}
+InfoMessages_161 {@<sld> ha sido puesto bajo custodia en tu barco.}
+InfoMessages_162 {Has recibido tu parte del tesoro y además: '@<GetItemName>'.}
+InfoMessages_163 {Has recibido el equipo: '@<GetItemName>'.}
+InfoMessages_164 {Has recibido una pepita de oro}
+InfoMessages_165 {Entregaste la estatua de Xochipilli}
+InfoMessages_166 {Has recibido un vestido noble}
+InfoMessages_167 {Has recibido la estatua de Xochipilli}
+InfoMessages_168 {Has recibido el ídolo de Atlaua}
+InfoMessages_169 {Has recibido cormoranes}
+InfoMessages_170 {Has recibido pepitas de oro}
+InfoMessages_171 {Has recibido harapos}
+InfoMessages_172 {Has recibido un conjunto de munición}
+InfoMessages_173 {James te entregó el ídolo}
+InfoMessages_174 {Le diste el ídolo a Collier}
+InfoMessages_175 {Collier te devolvió el ídolo}
+InfoMessages_176 {Sientes que tu bolsillo se vuelve más pesado con el ídolo... Otra vez...}
+InfoMessages_177 {Le diste el ídolo a James}
+InfoMessages_178 {Has recibido pepitas de plata}
+InfoMessages_179 {Has recibido una carta sellada}
+InfoMessages_180 {Has recibido una colección de joyas}
+InfoMessages_181 {Has recibido 1 laúd}
+InfoMessages_182 {Has recibido 3 botellas de vino}
+InfoMessages_183 {Has recibido 10 racimos de uvas}
+InfoMessages_184 {Has recibido 10 sacos de sal}
+InfoMessages_185 {@<arItem> añadida al atlas}
+InfoMessages_186 {El oro español ha sido cargado en las bodegas de los barcos.}
+InfoMessages_187 {Esclavos cargados en el barco}
+InfoMessages_188 {Tienes 30 días para entregar los esclavos al empleador}
+InfoMessages_189 {Los barcos de corsarios famosos han abandonado la escuadra.}
+InfoMessages_190 {Has gastado @<pchar> unidades de comida.}
+InfoMessages_191 {Has gastado @<pchar> unidades de medicina.}
+InfoMessages_192 {Has gastado @<pchar> unidades de armas.}
+InfoMessages_193 {Has gastado @<pchar> unidades de ron.}
+InfoMessages_194 {Tienes 30 días para informar al empleador y devolver el dinero.}
+InfoMessages_195 {Tienes 30 días para informar al empleador del fracaso de la misión.}
+InfoMessages_196_m {¡El cañón de la pistola estalló! @<GetCharacterFullName> arrojó los fragmentos.}
+InfoMessages_196_f {¡El cañón de la pistola estalló! @<GetCharacterFullName> arrojó los fragmentos.}
+InfoMessages_197 {Has recibido tu parte del tesoro}
+InfoMessages_198 {@<GetFullName>: el arma '@<TEV>' usa munición '@<GetConvertStr>'}
+InfoMessages_199 {Los contrabandistas están perdiendo la confianza en ti...}
+InfoMessages_200 {Entregaste @<GetItemName>&Recibiste @<GetItemName> (Cantidad: @<FindQtyString>)␍}
+InfoMessages_201_m {¡@<GetFullNameTitulForm> ha sido revivido!}
+InfoMessages_201_f {¡@<GetFullNameTitulForm> ha sido revivido!}
+InfoMessages_202 {¡Exploración de precios completada!&¡Todos los precios de las tiendas visitadas se han actualizado a los valores más recientes!}
+InfoMessages_203 {El entrenamiento de la tripulación está en marcha en el barco '@<sld>'...}
+InfoMessages_204 {Han pasado @<days>.@<NewStr>La cubierta del barco contrabandista.}
+InfoMessages_205 {Tras varias horas conversando con el maestro...}
+InfoMessages_206 {Han pasado dos horas@<NewStr>Los esclavos han sido liberados}
+InfoMessages_207 {Han pasado varias horas@<NewStr>El Padre ha realizado la consagración}
+InfoMessages_208 {Han pasado dos días...}
+InfoMessages_209 {Han pasado dos horas...}
+InfoMessages_210 {¡Oro repartido!}
+InfoMessages_211 {Entregaste una botella de vino.}
+InfoMessages_212_m {@<GetFullName> alcanzó un nuevo nivel.}
+InfoMessages_212_f {@<GetFullName> alcanzó un nuevo nivel.}
+InfoMessages_213_m {@<GetFullName> ha adquirido una nueva habilidad personal.}
+InfoMessages_213_f {@<GetFullName> ha adquirido una nueva habilidad personal.}
+InfoMessages_214_m {@<GetFullName> ha obtenido una nueva habilidad de barco.}
+InfoMessages_214_f {@<GetFullName> ha obtenido una nueva habilidad de barco.}
+InfoMessages_215 {Debes terminar tus asuntos antes de partir en busca de la isla misteriosa.}
+InfoMessages_216 {Tus perlas restantes han sido guardadas en el cofre de tu camarote.}
+InfoMessages_217 {Entregadas @<iQty> ostras perleras.}
+InfoMessages_218 {Recibido @<iQty> ostras perleras.}
+InfoMessages_219 {Pasaron algunos días...}
+InfoMessages_220 {Pasaron unos minutos...}
+InfoMessages_221 {Los indios desaprueban}
+InfoMessages_222 {Los indios aprueban}
+InfoMessages_223 {Los contrabandistas aprueban}
+InfoMessages_224 {Los contrabandistas desaprueban}
+InfoMessages_225 {Experiencia obtenida ~}
+InfoMessages_226 {Veo un barco. ¡Es el @<ShipType> @<ShipName>!}
+InfoMessages_227 {El engaño funcionó. Estos @<NationNamePeople> no sospechan nada.}
+InfoMessages_228 {[Engaño: @<TEV.TempGuardDeceptionChance>%%]}
+InfoMessages_229 {Comprobación superada: @<statName>}
+InfoMessages_230 {Comprobación no superada: @<statName>}
+InfoMessages_231 {No hay suficiente @<statName> (@<curStatVal>)}
+InfoMessages_232 {Habilidad poco desarrollada: @<statName> (@<curStatVal>)}
+InfoMessages_233 {La destreza no está desbloqueada}
+InfoMessages_234 {Comprobación de reputación superada}
+InfoMessages_235 {Reputación demasiado baja (@<stat>)}
+InfoMessages_236 {Reputación demasiado alta (@<stat>)}
+InfoMessages_237 {Reputación demasiado baja en las colonias}
+InfoMessages_238 {Por defecto se usará la poción '@<GetConvertStr>'.}
+InfoMessages_239 {Las pociones se seleccionarán automáticamente.}
+InfoMessages_240 {Has recibido un objeto: @<itemName> (x@<quantity>)}
+InfoMessages_241 {@<sld.name> ha sido puesto bajo custodia en tu barco}
+InfoMessages_242 {Se oyeron sonidos de lucha en el bergantín 'San Gabriel'.}
+InfoMessages_243 {Tienes una patente de corso española. Sharp no te seguirá.}
+InfoMessages_244
+{
+El gobernador Steed no le perdonó a Peter Blood su falta de iniciativa aquella noche.
+Privado de sus privilegios como médico de Bridgetown,
+Peter volvió a ser expulsado de la ciudad y dejado a pudrirse en la plantación del coronel Bishop.
+Dos años después, en un arrebato de ira, el coronel Bishop mató a tiros a Peter Blood.
+La historia terminó antes de haber comenzado...
+}
+InfoMessages_245
+{
+Peter Blood no logró prepararse adecuadamente para su fuga.
+Así terminó la historia, antes siquiera de comenzar...
+}
+InfoMessages_246 {Es una locura asaltar una fragata en solitario.}
+InfoMessages_247 {Parece que esta es la casa que necesito. Debería registrar todo aquí cuidadosamente.}
+InfoMessages_248 {Has recibido perlas pequeñas: @<iSmall> uds.}
+InfoMessages_249 {Has recibido perlas grandes: @<iBig> uds.}
+InfoMessages_250 {Ha pasado una hora...}

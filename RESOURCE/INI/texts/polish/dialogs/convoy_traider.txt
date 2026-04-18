@@ -1,0 +1,69 @@
+convoy_traider_1_m {
+O-o-o, cholera!! Wiem, kim jesteś! Tylko skończony kretyn mógłby zatrudnić cię do eskorty swojego statku. Żegnaj!
+}
+convoy_traider_1_f {
+O-o-o, cholera! Wiem, kim jesteś! Tylko skończony kretyn mógłby zatrudnić cię do eskorty swojego statku. Żegnaj!
+}
+convoy_traider_2 {
+Aha, wiem, kim jesteś! Żebym miał cię wynająć jako ochroniarza?! Poszukaj sobie frajera...
+}
+convoy_traider_3 {
+@<RandPhraseSimple>
+}
+convoy_traider_4 {
+Heh, ależ tchórzliwy...
+}
+convoy_traider_5 {
+Ależ tchórzliwi ci ludzie się zrobili!
+}
+convoy_traider_6 {
+@<RandPhraseSimple>
+}
+convoy_traider_7 {
+@<TimeGreeting>, @<GetAddress_Form>! Jestem @<GetFullName>, handlarz. Słyszałem, że szukasz pracy?
+}
+convoy_traider_8_m {
+Coś w tym rodzaju. A pan, jak słyszałem, szuka kapitana, który poprowadzi pana i pański statek do celu?
+}
+convoy_traider_8_f {
+Coś w tym rodzaju. A pani, jak słyszałam, szuka kapitana, który odprowadzi panią i pani statek do celu?
+}
+convoy_traider_9 {
+Zgadza się. Co więcej, myślę, że nadajesz się na mojego towarzysza. Co o tym sądzisz?
+}
+convoy_traider_10 {
+Powiem tak – podaj swoją cenę, a może się dogadamy.
+}
+convoy_traider_11 {
+Potrzebuję eskorty do @<XI_ConvertString> na @<XI_ConvertString> w ciągu @<FindDaysString>, a za to zapłacę wam @<FindMoneyString>. Co powiecie?
+}
+convoy_traider_12_m {
+Zgadzam się.
+}
+convoy_traider_12_f {
+Zgadzam się.
+}
+convoy_traider_13 {
+Nie sądzę, żeby mnie to interesowało.
+}
+convoy_traider_14 {
+O! Dziękuję wam. Pod waszą ochroną czułem się spokojny jak nigdy dotąd. Oto wasza nagroda.
+}
+convoy_traider_15 {
+Dziękuję wam.
+}
+convoy_traider_16 {
+Pewien kupiecki kapitan o imieniu @<GetFullName> twierdzi, że można zaufać @<GetMainCharacterNameDat> w kwestii eskortowania statków handlowych.
+}
+convoy_traider_17_m {
+Negocjant o imieniu @<GetFullName> twierdzi, że kapitanowi @<GetMainCharacterNameDat> można zaufać. Chronił jego statek najlepiej, jak potrafił, podczas eskorty do @<XI_ConvertString>.
+}
+convoy_traider_17_f {
+Negocjant o imieniu @<GetFullName> twierdzi, że kapitanowi @<GetMainCharacterNameDat> można zaufać. Chroniła jego statek najlepiej, jak potrafiła, podczas eskorty do @<XI_ConvertString>.
+}
+convoy_traider_18 {
+Słyszałem, że dotrzymuje pan/pani słowa w sprawie eskortowania statków, danego kapitanom handlowym. Pewien kupiec o imieniu @<GetFullName> bardzo dobrze się o panu/pani wypowiada.
+}
+convoy_traider_19 {
+@<LinkRandPhrase>
+}

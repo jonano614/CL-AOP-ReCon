@@ -1,0 +1,197 @@
+;// Update. (20.07.2024)
+
+;<=============================[ Control Groups ]=============================>
+
+HelpChooser {Choose help section}
+MainInterface {Interface settings}
+DialogControls {Dialog}
+WorldMapControls {World map}
+BattleInterfaceControls {Control settings}
+Sailing1Pers {First-person sea view}
+Sailing3Pers {Third-person sea view}
+FightModeControls {Battle mode}
+PrimaryLand {Land controls}
+
+;<================[1st person sea] and [3rd person sea]=================>
+
+ShipCamera_Forward {Zoom in ship camera}
+ShipCamera_Backward {Zoom out ship camera}
+DeckCamera_Turn_V {Vertical camera rotation (deck view}
+DeckCamera_Turn_H {Horizontal camera rotation (deck view)}
+ShipCamera_Turn_V {Vertical movement of the camera (ship view)}
+ShipCamera_Turn_H {Horizontal movement of the camera (ship view)}
+DeckCamera_Forward {Forward (deck view)}
+DeckCamera_Backward {Back (deck view)}
+Ship_TurnLeft {Turn ship left}
+Ship_TurnRight {Turn ship right}
+Ship_SailUp {Raise sails}
+Ship_SailDown {Lower sails}
+Ship_Fire {Cannon volley}
+Sea_CameraSwitch {Toggle camera 'ship view'/'deck view'}
+Sea_CameraSwitchShort {Toggle camera}
+Sea_CameraShip {ship view}
+Sea_CameraDeck {deck view}
+Telescope {Toggle Spyglass}
+TelescopeIn {Spyglass zoom in}
+TelescopeOut {Exit spyglass view}
+TelescopeZoom {Zoom in/out}
+Interface {Character menu}
+CharacterShipMenu {Character Ship Menu}
+LogbookMenu {Logbook Menu}
+ItemsMenu {Items Menu}
+NationsMenu {Nations Menu}
+MainMenu {Main menu}
+MainMenuDouble {Main menu}
+MiniMapZoomIn {Zoom in on mini-map}
+MiniMapZoomOut {Zoom out on mini-map}
+BIFastCommand {Quick action}
+hk_charge1 {Load cannons with solid shot}
+hk_charge2 {Load cannons with canister shot}
+hk_charge3 {Load cannons with chain shot}
+hk_charge4 {Load cannons with bombshell}
+hk_perk1 {Activate ability 'Quick Turnaround'}
+hk_perk2 {Activate ability 'Preliminary reloading'}
+hk_perk3 {Activate ability 'Emergency Repair'}
+hk_perk4 {Activate ability 'Patching Holes'}
+hk_cabin {Go into the captain's cabin}
+Ship_Select {Ship select}
+Order_Select {Order select}
+FireZoneKey {Show firing range}
+FireZoneKeyHide {Hide firing range}
+
+;<==========================[ Ground control ]===========================>
+
+ChrCamTurnV {Vertical movement of the camera following character}
+ChrCamTurnH {Horizontal movement of the camera following character}
+ChrCamCameraSwitch {Toggle First/Third-Person camera}
+ChrAction {Perform action}
+ChrForward {Move forward}
+ChrBackward {Move backward}
+ChrStrafeLeft {Move left}
+ChrStrafeRight {Move right}
+ChrSprint {Sprint}
+ChrFightMode {Toggle fight mode}
+BOAL_UsePotion {Use a health consumable}
+UseAntidote {Use antidote}
+BOAL_DeadSearch {Loot the body}
+OfficersCharge {Order for officers : Fight at will}
+OfficersHold {Order for officers : Hold position}
+OfficersFollow {Order for officers : Follow}
+Say {Purchase of goods}
+AlchemyKey {Alchemy}
+MapView {Map Atlas}
+
+AltModificator {Press button for Fast Travel menu}
+AltModificatorOff {Release button for Fast Travel menu}
+Fast_store {Fast Travel: Store}
+Fast_Shipyard {Fast Travel: Shipyard}
+Fast_tavern {Fast Travel: Tavern}
+Fast_townhall {Fast Travel: Townhall}
+Fast_bank {Fast Travel: Bank}
+Fast_church {Fast Travel: Church}
+Fast_Brothel {Fast Travel: Brothel}
+Fast_PortOffice {Fast Travel: Port Authority}
+Fast_prison {Fast Travel: Prison}
+Fast_Port {Fast Travel: Port}
+
+;<===============================[ Battle Mode ]================================>
+
+ChrForward1 {Move forward (alternate)}
+ChrBackward1 {Move backward}
+ChrRunStick {Toggle Walk/Run}
+BOAL_ActivateRush {Activate ability 'Berserk'}
+HK_SecondWind {Activate ability 'Second wind'}
+ChrBlock {Block}
+ChrAltAttackBase {Slash attack / Group attack}
+ChrAttackBreakBase {Heavy attack / Feint}
+ChrAttackBase {Lunge attack / Parry}
+ChrAttackChoseBase {Toggle attack mode}
+ChrAttackFient {Feint (alternate)}
+ChrParry {Parry (alternate)}
+ChrFire {Fire a shot}
+ChrAiming {Marksman mode (hold)}
+ChrAimingShot {Shoot}
+
+RunLootCollector {Use 'Quick Loot'}
+
+;<============================================================================>
+
+
+CharacterCamera_Forward {Zoom in character camera}
+CharacterCamera_Backward {Zoom out character camera}
+ChrSwitchFightMode {Change Combat mode}
+SwitchCameraOffset {Toggle First/Third-Person camera}
+ChrSwitchWalk {Toggle Walk/Run}
+
+
+DeckCamera_Left {Strafe left (deck view)}
+DeckCamera_Right {Strafe right (deck view)}
+ChrTurnH {Character rotation}
+ChrTurnV {Character movement}
+ChrTurnHL {Rotate character left}
+ChrTurnHR {Rotate character right}
+
+ChrRecoil {Snap back}
+ChrAttackForce {Fast attack}
+ChrAttackFast {Slash attack}
+ChrAttackRound {Group attack}
+ChrAttackBreak {Heavy attack}
+ChrAttackRoundBase {Group attack}
+
+BI_MapEnter {Global map}
+WMapTurnH {Rotate camera around ship (in map mode)}
+WMapTurnV {Camera height (in map mode)}
+WMapCameraRotate {Camera gliding/rotation mode on}
+WMapForward {Zoom camera in}
+WMapBackward {Zoom camera out}
+WMapCameraSwitch {Toggle view mode}
+WMapShipSailUp {Sail forward}
+WMapShipSailDown {Sail back}
+WMapShipTurnLeft {Turn left}
+WMapShipTurnRight {Turn right}
+WMapCancel {Exit map to the sea}
+TimeScaleOn {Speed up time}
+TimeScaleOff {Disable acceleration}
+TimeScale {Time speed up/slow down}
+TimeScaleFasterBA {Time speed up}
+TimeScaleSlowerBA {Time slow down}
+
+Help {Game help}
+
+BICommandsActivate {Command menu}
+LICommandsActivate {Command menu}
+BICommandsActivateAdd {Command menu (alternative)}
+BICommandsConfirm {Confirm a command}
+BICommandsCancel {Cancel a command}
+BICommandsConfirmAdd {Confirm a command (alternative)}
+BICommandsCancelAdd {Cancel a command (alternative)}
+BICommandsLeft {Action menu - navigate left}
+BICommandsRight {Action menu - navigate right}
+
+HelpChooser_Cancel {Exit help}
+HelpChooser_Action {Show help for the current element}
+HelpChooser_Next {Next help element}
+HelpChooser_Prev {Previous help element}
+HelpChooser_Left {Left (in help mode)}
+HelpChooser_Right {Right (in help mode)}
+HelpChooser_Up {Up (in help mode)}
+HelpChooser_Down {Down (in help mode)}
+DlgAction {Reply selection in a dialog}
+DlgAction1 {Reply selection in a dialog}
+DlgUp {Previous reply in a dialog}
+DlgDown {Next reply in a dialog}
+DlgScrollUp {Scroll dialog down}
+DlgScrollDown {Scroll dialog up}
+
+hk_Cure {Use healing mixture}
+hk_Rush {Use 'Fury' ability}
+
+;hk_ImmediateReload {Preliminary Reloading}
+;hk_LightRepair {Patching Holes}
+;hk_InstantRepair {Emergency repair}
+;hk_Turn180 {Turn about}
+;hk_SandbankManeuver {Activate sandbank maneuvers}
+
+
+
+

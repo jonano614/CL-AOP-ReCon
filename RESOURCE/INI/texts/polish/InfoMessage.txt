@@ -1,0 +1,92 @@
+InfoMessage_Title {Informacyjna ulotka „Osobiste Kotwice”!}
+InfoMessage_Text_0
+{
+"Dzikie Karaiby"
+Ten darmowy perk – „Dzikie Karaiby” – zamienia kilka „zwykłych” losowych spotkań w szalone i niewiarygodne! Nie wybieraj tego perka, jeśli nie chcesz, by twoje przygody stały się trochę szalone. Uważaj – po aktywacji nie da się go wyłączyć!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ "Dzikie Karaiby" obejmują:
+- obecność sfer szkieletów;
+- pojawianie się szkieletów po otwarciu skrzyń ze skarbami, jak w jaskiniach;
+- dostępność zadania "Ghost Ship";
+- oczyszczanie z nieumarłych, a nie Indian, w zadaniu "Church needs help";
+- zmiany wizualne w niektórych zadaniach.
+}
+InfoMessage_Text_1
+{
+Dodano mechanikę uników – możesz nimi unikać obrażeń:
+- szansa uniknięcia obrażeń od pistoletu lub cięcia przy odpowiednim wyczuciu czasu wynosi 100%;
+- wymaga to nie 3 bazowej energii, lecz 2 w dowolnym kierunku;
+- koszt energii za unik zależy od wagi ekwipunku (2 bazowej energii + 0,1*wagi w funtach);
+- przy braku wystarczającej energii szansa na unik jest mniejsza – wyczerpany gracz wykonuje unik, ale szansa na uniknięcie obrażeń jest dwukrotnie niższa;
+- wszyscy doświadczeni wojownicy, weterani i oficerowie mają 25% szans na użycie uniku;
+- zwykli przeciwnicy nie wykonują uników.
+}
+InfoMessage_Text_2
+{
+Nowa balistyka i obrażenia załogi
+-
+Balistyka dla okrętów i fortów została przebudowana:
+Gdy wróg jest blisko, strzelasz po linii prostej, więc fale mogą chronić ciebie lub twój cel przed obrażeniami (z wyjątkiem sytuacji, gdy strzelający znajduje się powyżej fal, jak niektóre forty).
+-
+Zwiększono rozrzut przy strzelaniu w celu:
+1. zwiększenia przeżywalności mniejszych okrętów w starciu z wyższą klasą – teraz trudniej w nie trafić podczas manewrowania.
+2. podniesienia wartości dobrego oficera-kanoniera z wysoką celnością i statystykami dział.
+3. poprawy jakości bitew morskich, by – jak dotąd – nie kończyły się one po kilku salwach z okrętów wyższej rangi.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zaktualizowana mechanika zadawania obrażeń załodze okrętu: teraz najpierw trzeba uszkodzić okręt, obniżając jego wytrzymałość, zanim będzie można zadać poważniejsze obrażenia załodze. Mechanika ta dotyczy oczywiście także okrętu gracza.
+-
+Obrażenia od kartacza są teraz obliczane w zależności od % wytrzymałości kadłuba. Szczegóły można znaleźć w Dzienniku Pokładowym w zakładce Encyklopedia (Bitwy morskie na okrętach).
+Szczegóły można znaleźć w zakładce „Dokumentacja” – „Poradnik” – „Bitwy morskie na okrętach”.
+}
+InfoMessage_Text_3
+{
+W obecnej wersji wiele miast, a nawet wysp, zostało zmienionych i dodanych z myślą o eksploracji:
+Fort-de-France, Le Francois, Willemstad, Fort Orange, La Vega, Santo Domingo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nowa wyspa – Old Providence! Piracka wyspa-baza na mapie globalnej i lokalnej.
+- Cumowanie możliwe tylko pod piracką banderą.
+- Pirackie statki w tym rejonie nie atakują gracza pod piracką banderą.
+
+Nowe miasto – Providencia! Ufortyfikowana baza piratów i korsarzy, zarządzana przez Edwarda Colliera – prawą rękę Morgana.
+- W mieście znajdują się: piracka rezydencja, tawerna, burdel i sklep (planowane ulepszenia).
+- Wyspa Old Providence ma własną dżunglę i dwie zatoki: Morgan’s Head i playa Manzanillo.
+- Dodano możliwość znalezienia skarbu na wyspie Old Providence: w grocie naprzeciwko playa Manzanillo.
+}
+InfoMessage_Text_4
+{
+Szybkie grabienie
+\n\n
+Jeśli kapitan abordowanego statku poddał się, drużyna łupów na pewno zajrzy do jego kajuty i poszuka wszelkich ukrytych przedmiotów, podobnie jak do kieszeni.
+\n\n
+Jeśli wybrałeś opcję przeniesienia wszystkich łupów do skrzyni w ładowni, nie zapominaj jej czasem sprawdzać. Skrzynia szybko się zapełnia przy częstych abordażach, bo marynarze zbierają wszystko, co znajdą.
+\n\n
+Jeśli kapitan lub bosman posiadają umiejętność 'Diamentowe Oko', załoga będzie znacznie bardziej uważna i wybredna, całkowicie ignorując zwykłe śmieci na rzecz bardziej przydatnych rzeczy.
+\n\n
+Skuteczność tej 'wybredności' na morzu zależy od umiejętności 'Boarding' twojego bosmana
+- brak wymagań dla statków rangi 7 i 6
+- od 15 do 29 punktów dla statków rangi 5
+- od 30 do 44 punktów dla statków rangi 4
+- od 45 do 59 punktów dla statków rangi 3
+- od 60 do 74 punktów dla statków rangi 2
+- 75+ punktów dla statków rangi 1
+- brak wymagań na lądzie
+\n\n
+Jeśli bosman i/lub załoga są nieobecni, ta opcja jest niedostępna.
+}
+InfoMessage_Text_5
+{
+Wprowadzono ulepszenia techniczne dotyczące muzycznej części gry.
+\n\n
+Ciągłe zapętlanie jednego utworu to już przeszłość – teraz muzyka zmienia się po zakończeniu utworu.
+Naciśnięcie przycisku F10 wymusi zakończenie aktualnie odtwarzanego utworu i uruchomi następny (wybór jest dość losowy).
+\n\n
+Teraz możesz dodać własną muzykę, po prostu umieszczając pliki mp3 w odpowiednich folderach muzycznych.
+Szczegóły znajdziesz w pliku readmekz (custommusic).txt
+Uwaga!
+Nie musisz przenosić oryginalnej muzyki do folderu CUSTOM – te utwory i tak będą odtwarzane.
+\n\n
+Dodano opcję, dzięki której utwór nie zmienia się podczas przechodzenia między lokacjami tego samego typu.
+Znajdziesz ją w ustawieniach pod przyciskiem F4.
+}

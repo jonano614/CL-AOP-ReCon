@@ -1,0 +1,423 @@
+Patrol_1_m {
+Ah, sieht so aus, als hätte dieser Halunke in @<XI_ConvertString> Alarm geschlagen! Schnappt ihn!!
+}
+Patrol_1_f {
+Ah, sieht so aus, als hätte diese Dirne in @<XI_ConvertString> Alarm geschlagen! Schnappt sie!!
+}
+Patrol_2_m {
+Heh, sieh einer an! Manche @<NationNamePeople> schaffen es tatsächlich, mit @<NationNameInstrumental> im Streit zu liegen! Packt den Halunken!
+}
+Patrol_2_f {
+Heh, sieh einer an! Manche @<NationNamePeople> schaffen es tatsächlich, sich mit @<NationNameInstrumental> anzulegen! Packt den Halunken!
+}
+Patrol_3 {
+@<RandPhraseSimple>
+}
+Patrol_4_m {
+Feindlicher Agent in der Nähe von @<XI_ConvertString>! Schnappt ihn!!
+}
+Patrol_4_f {
+Feindliche Agentin in der Nähe von @<XI_ConvertString>! Schnappt sie!!
+}
+Patrol_5 {
+Sieh mal einer an, @<NationNamePeople> spazieren direkt nach @<XI_ConvertString>! Fasst sie sofort!
+}
+Patrol_6 {
+@<RandPhraseSimple>
+}
+Patrol_7 {
+Probier es aus, wir sind hier allein...
+}
+Patrol_8 {
+Heh, hier wird dir niemand zu Hilfe kommen.
+}
+Patrol_9 {
+@<RandPhraseSimple>
+}
+Patrol_10 {
+Wer sind Sie und was wollen Sie hier?
+}
+Patrol_11 {
+Halt! Wer bist du? Was machst du hier in der Nähe der Stadt?
+}
+Patrol_12 {
+@<RandPhraseSimple>
+}
+Patrol_13 {
+Offizier, ich habe eine @<GetRusNameNationLicence>, also bin ich aus rechtlichen Gründen hier. Sehen Sie selbst...
+}
+Patrol_14 {
+Offizier, mein Schiff segelt unter der Flagge von @<NationNameGenitive>. Was wollen Sie noch?
+}
+Patrol_15 {
+Offizier, mein Schiff segelt unter der Flagge von @<NationNameGenitive>, also habe ich jedes Recht, hier zu sein.
+}
+Patrol_16_m {
+Sieh dir diesen Halunken an! Ist uns direkt in die Arme gelaufen. Schnappt ihn!!
+}
+Patrol_16_f {
+Sieh dir diesen Halunken an! Ist uns direkt in die Falle gelaufen. Schnappt sie!
+}
+Patrol_17_m {
+Ha, ich erkenne dich, Halunke! Packt ihn!!
+}
+Patrol_17_f {
+Ha, ich erkenne dich, Halunke! Schnappt sie!!
+}
+Patrol_18 {
+@<RandPhraseSimple>
+}
+Patrol_19 {
+Argh!..
+}
+Patrol_20 {
+Tja, das habt ihr euch selbst eingebrockt...
+}
+Patrol_21 {
+@<RandPhraseSimple>
+}
+Patrol_22 {
+Gestatten Sie, dass ich mich vorstelle! Ich bin der Leiter der Patrouille von @<XI_ConvertString>, und wir suchen nach einem entflohenen Sträfling.
+}
+Patrol_23 {
+Hallo, ich bin der Anführer dieser Patrouille. Wir suchen nach einem entflohenen Sklaven aus @<XI_ConvertString>.
+}
+Patrol_24 {
+Grüße, @<GetAddress_Form>. Meine Einheit patrouilliert im Gebiet bei @<XI_ConvertString>.
+}
+Patrol_25 {
+@<LinkRandPhrase>
+}
+Patrol_26 {
+Ausgezeichnet. Wie kann ich Ihnen helfen?
+}
+Patrol_27_m {
+Sehr gut. Gibt es etwas, wobei ich Ihnen helfen kann, @<GetAddress_FormToNPC>?
+}
+Patrol_27_f {
+Sehr gut. Gibt es etwas, wobei ich Ihnen helfen kann, @<GetAddress_FormToNPC>?
+}
+Patrol_28 {
+Ausgezeichnet. Was kann ich persönlich für Sie tun?
+}
+Patrol_29 {
+@<LinkRandPhrase>
+}
+Patrol_30 {
+Haben Sie hier etwas Verdächtiges bemerkt?
+}
+Patrol_31 {
+Sind Sie jemand Verdächtigem begegnet, @<GetAddress_Form>?
+}
+Patrol_32 {
+@<RandPhraseSimple>
+}
+Patrol_33 {
+Nein, nichts dergleichen.
+}
+Patrol_34 {
+Nein, Offizier, alles ist ruhig.
+}
+Patrol_35 {
+@<RandPhraseSimple>
+}
+Patrol_36 {
+Gut, dann will ich Sie nicht länger aufhalten. Leben Sie wohl, @<GetAddress_Form>.
+}
+Patrol_37 {
+Verstanden. Dann leb wohl.
+}
+Patrol_38 {
+@<RandPhraseSimple>
+}
+Patrol_39 {
+Viel Glück.
+}
+Patrol_40 {
+Lenken Sie uns nicht von unserer Pflicht ab.
+}
+Patrol_41 {
+Ich bitte Sie, sich nicht in unsere Angelegenheiten einzumischen!
+}
+Patrol_42 {
+Ach, du schon wieder... Geh deinen Weg, lass uns in Ruhe.
+}
+Patrol_43 {
+@<LinkRandPhrase>
+}
+Patrol_44 {
+In Ordnung.
+}
+Patrol_45_m {
+Ich habe das Gefühl, das ist eine Falle... Kommen Sie, meine Liebe, wir bringen Sie ins Büro des Kommandanten und klären dort alles...
+}
+Patrol_45_f {
+Ich habe das Gefühl, dass hier etwas faul ist... Kommen Sie mit ins Büro des Kommandanten, Fräulein, dort klären wir das...
+}
+Patrol_46_m {
+Hm, irgendetwas sagt mir, dass Sie nicht der sind, für den Sie sich ausgeben... Geben Sie sofort Ihre Waffen ab, @<GetAddress_Form>, und kommen Sie mit mir zur weiteren Befragung!
+}
+Patrol_46_f {
+Hm, irgendetwas sagt mir, dass Sie nicht der sind, für den Sie sich ausgeben... Geben Sie sofort Ihre Waffe ab, @<GetAddress_Form>, und kommen Sie mit mir zur weiteren Befragung!
+}
+Patrol_47 {
+@<RandPhraseSimple>
+}
+Patrol_48 {
+Keine Chance!
+}
+Patrol_49 {
+Wenn Schweine fliegen...
+}
+Patrol_50 {
+@<RandPhraseSimple>
+}
+Patrol_51 {
+Nun, dann will ich Sie nicht länger aufhalten. Leben Sie wohl, @<GetAddress_Form>.
+}
+Patrol_52 {
+Verstanden. Dann leb wohl.
+}
+Patrol_53 {
+@<RandPhraseSimple>
+}
+Patrol_54 {
+Viel Glück.
+}
+Patrol_55 {
+Ihre Lizenz wird eingezogen, da sie abgelaufen und somit ungültig ist. Legen Sie Ihre Waffen ab und folgen Sie mir zur weiteren Befragung!
+}
+Patrol_56 {
+Keine Chance!
+}
+Patrol_57 {
+Wenn Schweine fliegen...
+}
+Patrol_58 {
+@<RandPhraseSimple>
+}
+Patrol_59 {
+Hm, das stimmt. Allerdings muss ich darauf hinweisen, dass Ihre Lizenz heute abläuft. Ich lasse Sie diesmal durch, aber Sie müssen sich eine gültige Lizenz besorgen.
+}
+Patrol_60 {
+Danke, ich besorge mir bei Gelegenheit ein neues.
+}
+Patrol_61 {
+Hm, das stimmt. Allerdings muss ich darauf hinweisen, dass Ihre Lizenz bald abläuft — sie ist nur noch @<FindDaysString> gültig. Behalten Sie das im Hinterkopf, @<GetAddress_Form>.
+}
+Patrol_62 {
+Danke, ich besorge mir bei der nächsten Gelegenheit ein neues.
+}
+Patrol_63 {
+Gut, Ihre Lizenz ist noch @<FindDaysString> gültig. Sie können weitergehen.
+}
+Patrol_64 {
+Alles in Ordnung, @<GetAddress_Form>. Du kannst die Stadt betreten – deine Lizenz ist noch für @<FindDaysString> gültig. Entschuldige die Umstände.
+}
+Patrol_65 {
+Alles in Ordnung, @<GetAddress_Form>, ich will Sie nicht länger aufhalten.
+}
+Patrol_66 {
+@<LinkRandPhrase>
+}
+Patrol_67 {
+Ausgezeichnet. Alles Gute.
+}
+Patrol_68 {
+Danke, Offizier.
+}
+Patrol_69 {
+@<RandPhraseSimple>
+}
+Patrol_70_m {
+Hm ... dich habe ich hier noch nie gesehen. Wer bist du?
+}
+Patrol_70_f {
+Hm... Dich habe ich hier noch nicht gesehen. Wer bist du, Mädchen?
+}
+Patrol_71_m {
+Ich bin derjenige, auf den du gewartet hast...
+}
+Patrol_71_f {
+Ich bin derjenige, auf den ihr wartet...
+}
+Patrol_72 {
+Ich bin Captain @<GetFullName>. Willst du mir verraten, warum du so schnell hergeeilt bist, dass du fast deine Hosen im Bordell vergessen hättest...?
+}
+Patrol_73 {
+Ich bin Captain @<GetFullName>. Ich spaziere nur ein wenig und genieße die Meeresbrise...
+}
+Patrol_74_m {
+Du bist ja doch noch aufgetaucht. Ich dachte schon, du würdest nie kommen... Und wer ist der Kerl, der bei dir ist?
+}
+Patrol_74_f {
+Du bist endlich da. Ich dachte schon, du würdest gar nicht mehr auftauchen... Und wer ist der Kerl bei dir?
+}
+Patrol_75 {
+Welche Art?
+}
+Patrol_76_m {
+Du siehst nicht gerade aus wie jemand, dem @<GetName> vertrauen würde.
+}
+Patrol_76_f {
+Du siehst nicht gerade aus wie jemand, dem @<GetName> vertrauen würde.
+}
+Patrol_77 {
+In Ordnung, ich sage ihm genau das.
+}
+Patrol_78 {
+Und wer ist das, @<GetName>?
+}
+Patrol_79 {
+Neugier ist vielleicht keine Sünde, aber sie kann dein Leben schnell beenden...
+}
+Patrol_80 {
+Na, na!
+}
+Patrol_81 {
+Die Flut kommt bald. Du solltest die Bucht verlassen – das Wasser steigt hier bis zu den Palmenhainen.
+}
+Patrol_82 {
+Schon gut, ich kann gut schwimmen.
+}
+Patrol_83 {
+Saphir
+}
+Patrol_84 {
+Diamanten
+}
+Patrol_85 {
+aus Rubinen
+}
+Patrol_86 {
+Smaragde
+}
+Patrol_87 {
+Schon gut, schon gut. Hast du die versprochenen 30 @<sItemName> dabei?
+}
+Patrol_88 {
+@GetName meinte, es wäre nicht genug Zeit, so viele Steine zu sammeln. Hat mir geraten, stattdessen Geld anzubieten.
+}
+Patrol_89 {
+Nimm das.
+}
+Patrol_90 {
+Heh! Das wirst du im Jenseits erfahren!
+}
+Patrol_91 {
+So viel Selbstvertrauen ...
+}
+Patrol_92 {
+Gut, dann schuldest du mir @<FindMoneyString>, wie wir es vereinbart haben.
+}
+Patrol_93 {
+Verlangst du nicht ein bisschen zu viel?
+}
+Patrol_94 {
+Nimm das.
+}
+Patrol_95 {
+Aber so viel Geld habe ich nicht dabei!
+}
+Patrol_96 {
+Alles wie vereinbart. Hier, nimm sie. Diese Karte stammt von dem gehängten Piraten, nach dem @<GetName> gefragt hat.
+}
+Patrol_97 {
+Es ist erledigt!
+}
+Patrol_98_m {
+Wir hatten den Betrag mit @<GetName> vorher abgesprochen... Das gefällt mir ganz und gar nicht... Schnappt ihn euch, Jungs!
+}
+Patrol_98_f {
+Wir hatten den Preis mit @<GetName> vorher vereinbart... Das gefällt mir ganz und gar nicht... Schnappt sie euch, Jungs!
+}
+Patrol_99 {
+Na dann, versuch es doch!
+}
+Patrol_100 {
+Ausgezeichnet! Kommen wir zur Sache. Wir haben die @<GetStrSmallRegister> '@<sTemp1>' mit einer Ladung @<GetGoodsNameAlt> abgefangen. Die gesamte Besatzung sitzt bereits im Gefängnis, und die „Waren“ sind vorerst noch an Bord. Das Transportteam besteht aus betrunkenen Hafenarbeitern, daher werden sie den Hafen wohl frühestens morgen erreichen. Gehen Sie mit ihnen um, wie Sie es für richtig halten.
+}
+Patrol_101 {
+In Ordnung. Ich gebe es @<GetName> genauso weiter.
+}
+Patrol_102 {
+Die Mitgift meiner kleinen Tochter
+}
+Patrol_103 {
+Geschenke für den Vizekönig
+}
+Patrol_104 {
+Geschenke zu eurem Jubiläum
+}
+Patrol_105 {
+Mein eigener „Ruhestandfonds“
+}
+Patrol_106 {
+Schurkin
+}
+Patrol_107 {
+Luder
+}
+Patrol_108 {
+Unruhestifter
+}
+Patrol_109 {
+Unruhestifter
+}
+Patrol_110 {
+Ausgezeichnet! Der Gouverneur bewahrt es in seinem Boudoir auf. Das Kurierschiff für den Transport wird in den nächsten Tagen eintreffen, aber du wirst es rechtzeitig schaffen. Der Lakai ist einer von uns. Das Passwort lautet: „@<pchar>“, die Antwort: „@<sTemp2>“.
+}
+Patrol_111 {
+In Ordnung. Ich gebe es @<GetName> genauso weiter.
+}
+Patrol_112 {
+Willst du mich etwa reinlegen?! Du Hund!
+}
+Patrol_113 {
+Halt den Mund!
+}
+Patrol_114_m {
+Du hast alles versoffen! Mein! Geld!... Argh.
+}
+Patrol_114_f {
+Du hast alles versoffen! Mein Geld!... Argh.
+}
+Patrol_115 {
+Verdammt!
+}
+Patrol_116 {
+Ihr solltet die Bucht verlassen, die Flut setzt bereits ein...
+}
+Patrol_117 {
+Ja, ja, ich gehe ja schon.
+}
+Patrol_118 {
+Wir waren uns einig, dass es nur einen Boten geben sollte!
+}
+Patrol_119 {
+Es gab eine Verwechslung. Der Bote hat sich verirrt, wissen Sie? Deshalb haben sie mich als Ersatz geschickt.
+}
+Patrol_120_m {
+Ich bin tatsächlich allein gekommen, aber nicht aus dem Grund, den du vermutest.
+}
+Patrol_120_f {
+Ich bin allein gekommen, aber nicht aus dem Grund, den du denkst.
+}
+Patrol_121_m {
+Also hast du mich doch gefunden... Nun gut, nimm es mir nicht übel.
+}
+Patrol_121_f {
+Also hast du mich doch gefunden... Nimm es mir also nicht übel.
+}
+Patrol_122 {
+Argh...
+}
+Patrol_123_m {
+Ah, Schurke! Beinahe wäre ich darauf hereingefallen... Wachen! Ergreift ihn!
+}
+Patrol_123_f {
+Ah, das Weib! Beinahe wäre ich darauf hereingefallen... Wachen! Nehmt sie fest...
+}
+Patrol_124 {
+Argh...
+}

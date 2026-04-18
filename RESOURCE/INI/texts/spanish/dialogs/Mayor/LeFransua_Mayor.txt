@@ -1,0 +1,358 @@
+LeFransua_Mayor_1 {
+¿Qué pasa? Dilo de una vez.
+}
+LeFransua_Mayor_2 {
+Te escucho. ¿Cuál es tu pregunta?
+}
+LeFransua_Mayor_3 {
+@<RandPhraseSimple>
+}
+LeFransua_Mayor_4 {
+Es la segunda vez hoy que intentas hacer una pregunta...
+}
+LeFransua_Mayor_5 {
+Por tercera vez hoy, vuelves a intentar hacer una pregunta...
+}
+LeFransua_Mayor_6 {
+¿¡Cuándo va a terminar esto?! Tengo mucho que hacer y tú no dejas de hacer preguntas.
+}
+LeFransua_Mayor_7_m {
+He cambiado de opinión...
+}
+LeFransua_Mayor_7_f {
+He cambiado de opinión...
+}
+LeFransua_Mayor_8 {
+Ahora no, no es el momento ni el lugar...
+}
+LeFransua_Mayor_9 {
+@<RandPhraseSimple>
+}
+LeFransua_Mayor_10 {
+Sí, así es... Pero no ahora, después...
+}
+LeFransua_Mayor_11 {
+Lo haré, lo haré... Solo más tarde...
+}
+LeFransua_Mayor_12 {
+Lo siento, @<NPChar>...
+}
+LeFransua_Mayor_13 {
+Rogers, escucha, ¿has oído algo sobre buzos de perlas trabajando en nuestras aguas? ¿Estás al tanto de este asunto?
+}
+LeFransua_Mayor_14 {
+Escucha, Rogers, ¿te dice algo la palabra 'Arrow'? ¿Quizá hay un pirata que se hace llamar 'Arrow', o tal vez un barco pirata con ese nombre ha atracado en tu puerto?
+}
+LeFransua_Mayor_15 {
+Estoy aquí por tu prisionero.
+}
+LeFransua_Mayor_16 {
+Hola, @<NPChar>, vengo por tu solicitud.
+}
+LeFransua_Mayor_17 {
+Estoy aquí por tu prisionero.
+}
+LeFransua_Mayor_18_m {
+He oído que te dedicas a tratar con prisioneros...
+}
+LeFransua_Mayor_18_f {
+He oído que te dedicas a tratar con prisioneros…
+}
+LeFransua_Mayor_19 {
+@<NPChar>, he venido a hablar de negocios... Quiero venderte a mi prisionero.
+}
+LeFransua_Mayor_20 {
+Ah, así que ese tonto también te ha estado siguiendo. Ese es el barco de Albert Sievert, una excelente bergantina, quizá la mejor de todo el archipiélago. No me extraña que ni siquiera Jackman haya podido hacerse con ella. Pero, ¿por qué la quieres tú?
+}
+LeFransua_Mayor_21 {
+Hay algo... Necesito encontrar a ese Zivert.
+}
+LeFransua_Mayor_22 {
+¿Pero cómo lo vas a encontrar? Está solo, no trabaja para nadie, no reparte ganancias, nunca pisa los puertos piratas, así que nadie puede obligarlo a compartir su botín. Y los puertos coloniales no lo dejan entrar. Claro, lo esperan allí, con la horca lista, pero él no se arriesgaría—no es ese tipo de hombre.
+}
+LeFransua_Mayor_23 {
+Sí... ¿Tienes algún consejo?
+}
+LeFransua_Mayor_24_m {
+Hay un hombre que solía andar con ese Zivert. Pero algo salió mal entre ellos—o Zivert lo dejó a la deriva, o fue al revés. Son tal para cual, de otro modo no habrían hecho equipo.\nAhora este tipo tiene una taberna en Portobelo, se hace llamar Rolando Pizarro, o simplemente Fox. Puede que sepa dónde ha estado anclado el barco. Y además—fíjate bien en ese bergantín en el mar, no lo confundirás con ningún otro. Pero ten cuidado—está realmente loco...
+}
+LeFransua_Mayor_24_f {
+Hay un tipo que solía andar con ese Zivert. Pero algo salió mal entre ellos: o Zivert lo dejó a la deriva, o fue al revés. Los dos son iguales; de lo contrario, probablemente nunca se habrían aliado.\nAhora este hombre tiene una taberna en Portobelo, se hace llamar Rolando Pizarro, o simplemente “el Zorro”. Puede que sepa dónde ha estado escondido el barco. Y además, mantente atento a ese bergantín en el mar, no lo confundirás con ningún otro. Pero ten cuidado: está realmente loco...
+}
+LeFransua_Mayor_25 {
+Ya veo. Bien, gracias, Bartholomew.
+}
+LeFransua_Mayor_26 {
+Jojo. ¿Crees que solo tengo un prisionero? Dime, ¿a quién te refieres exactamente?
+}
+LeFransua_Mayor_27 {
+@<pchar>. ¿Existe alguien así?
+}
+LeFransua_Mayor_28 {
+al comandante de las minas @<XI_ConvertString>
+}
+LeFransua_Mayor_29 {
+al plantador con @<XI_ConvertString>
+}
+LeFransua_Mayor_30 {
+Sí, lo hice. Se lo vendí a ese maldito plantador de @<sTemp>, pasó por aquí la semana pasada.
+}
+LeFransua_Mayor_31 {
+Maldita sea...
+}
+LeFransua_Mayor_32_m {
+Ah, por fin. Estuve a punto de vendérselo al demonio y de regreso a ese @<sTemp>, se supone que debe aparecer por aquí en una o dos semanas... ¿Trajiste el rescate?
+}
+LeFransua_Mayor_32_f {
+Ah, por fin. Estuve a punto de venderlo al diablo con ese @<sTemp>, se supone que debe aparecer en una o dos semanas... ¿Trajiste el rescate?
+}
+LeFransua_Mayor_33_m {
+Escucha, @<NPChar>, mira... No tengo ese dinero. Pero estoy dispuesto a ganármelo trabajando.
+}
+LeFransua_Mayor_33_f {
+Escucha, @<NPChar>, mira... No tengo esa cantidad de dinero. Pero estoy dispuesto a trabajar para pagarlo.
+}
+LeFransua_Mayor_34 {
+Menos mal que no lo vendiste. Aquí tienes el dinero: 150,000 piastras. ¿Dónde puedo recogerlo?
+}
+LeFransua_Mayor_35_m {
+Te has tomado tu tiempo... Por cierto, ¿qué significa este esclavo para ti? Si no me equivoco, pedí un rescate a su familia.
+}
+LeFransua_Mayor_35_f {
+Te has tomado tu tiempo... Por cierto, ¿qué tiene que ver este esclavo contigo? Si no me equivoco, puse un rescate por sus familiares.
+}
+LeFransua_Mayor_36_m {
+Sí, vine aquí en nombre de esos familiares.
+}
+LeFransua_Mayor_36_f {
+Sí, vine aquí en nombre de esos familiares.
+}
+LeFransua_Mayor_37_m {
+Bueno, llegaste tarde—¿qué le voy a hacer?
+}
+LeFransua_Mayor_37_f {
+Bueno, llegaste tarde—¿qué puedo hacer?
+}
+LeFransua_Mayor_38 {
+Oye, ¿te importa decirme por cuánto lo vendiste?
+}
+LeFransua_Mayor_39 {
+Bueno, no es ningún secreto, claro, pero no te lo voy a decir. Solo te reirías, ja-ja-ja-ja... Bueno, nos vemos.
+}
+LeFransua_Mayor_40 {
+Cuídate.
+}
+LeFransua_Mayor_41 {
+minas @<XI_ConvertString>
+}
+LeFransua_Mayor_42 {
+plantaciones @<XI_ConvertString>
+}
+LeFransua_Mayor_43 {
+Ejem... Tengo un asunto que discutir... Ni siquiera sé por dónde empezar... En fin, el caso es que hay un pirata arrogante que debe ser enviado al fondo del mar.
+}
+LeFransua_Mayor_44 {
+¿No podemos deshacernos de él en la selva?
+}
+LeFransua_Mayor_45 {
+Bueno, @<pchar>, sabes que así no se hacen las cosas. Vuelve con el dinero y tendrás a tu mocoso, je je.
+}
+LeFransua_Mayor_46 {
+Muy bien, nos vemos.
+}
+LeFransua_Mayor_47 {
+Verás, así no se hacen los negocios en serio... No necesito que lo maten, solo quiero que los entrometidos aprendan a no hablar de mi parte del botín. Aunque, si termina sirviendo de comida para los pulpos, no voy a lamentarlo.
+}
+LeFransua_Mayor_48 {
+¿Por qué no envía a sus propios hombres tras él?
+}
+LeFransua_Mayor_49 {
+Hmm... Así que cierto @<GetName> convenció a algunos piratas de que les corresponde una parte de nuestro botín cerca de @<XI_ConvertString>. Hace poco, levaron anclas y zarparon hacia @<XI_ConvertString> en dos barcos, '@<pchar>' y '@<pchar>'. ¿Ahora entiendes por qué no puedo confiar este asunto a mis propios hombres?
+}
+LeFransua_Mayor_50 {
+Entendido. ¿Y de cuánto tiempo dispongo?
+}
+LeFransua_Mayor_51 {
+Diría que entre doce y quince días, no más. Lo importante es que no lleguen al escondite antes que nosotros; de lo contrario, no tendría sentido hundirlos con la carga valiosa aún a bordo. Es mejor dejar que la traigan aquí.
+}
+LeFransua_Mayor_52 {
+De acuerdo, me encargaré de eso. Haré todo lo posible por llegar a tiempo.
+}
+LeFransua_Mayor_53 {
+No te preocupes. Mis hombres lo llevarán a tu barco... ¿Quién es para ti?
+}
+LeFransua_Mayor_54 {
+Nadie. Estoy cumpliendo una tarea para su familiar.
+}
+LeFransua_Mayor_55 {
+Ah, eso está bien. Por un momento pensé que me había subestimado, dejando ir a tu hombre por un precio tan bajo. Ja, ja, ja... Bueno, hasta luego.
+}
+LeFransua_Mayor_56 {
+Cuídate.
+}
+LeFransua_Mayor_57 {
+Entonces, @<GetFullName>, ¿mandaste a mi amigo al fondo?.. Je, je, je...
+}
+LeFransua_Mayor_58_m {
+No. No los alcancé. Y tampoco me crucé con ellos de regreso.
+}
+LeFransua_Mayor_58_f {
+No. No logré alcanzarlos. Y tampoco me crucé con ellos al regresar.
+}
+LeFransua_Mayor_59_m {
+Sí, tal como acordamos: lo mandé a alimentar a los tiburones.
+}
+LeFransua_Mayor_59_f {
+Sí, tal como acordamos: los envié a alimentar a los tiburones.
+}
+LeFransua_Mayor_60 {
+¡Maldita sea! ¿Nos atraparon o no, qué más da ahora? Entonces, ¿qué sugieres que hagamos ahora?
+}
+LeFransua_Mayor_61 {
+¿Quizás tienes un trabajo más sencillo para mí?
+}
+LeFransua_Mayor_62 {
+Escucha, @<NPChar>, déjame llevarme a este prisionero por un mejor precio...
+}
+LeFransua_Mayor_63 {
+No.
+}
+LeFransua_Mayor_64 {
+...Bueno, cuídate...
+}
+LeFransua_Mayor_65 {
+¿Más barato? ¡Acabo de perder mi alijo porque fuiste demasiado lento! Ahora solo puedo dejarlo a un precio más alto... Llévatelo por 200,000 si quieres.
+}
+LeFransua_Mayor_66 {
+Eso es demasiado... Adiós...
+}
+LeFransua_Mayor_67 {
+Ah, maldición, quédate con tu dinero.
+}
+LeFransua_Mayor_68 {
+Puedes quedarte con el mocoso...
+}
+LeFransua_Mayor_69 {
+Cuídate.
+}
+LeFransua_Mayor_70_m {
+¡Ja, ja! ¡Eso sí que fue un buen trabajo! Toma a tu mocoso y sigue tu camino.
+}
+LeFransua_Mayor_70_f {
+¡Ja, ja! ¡Eso sí que está bien hecho! Toma a tu mocoso y sigue tu camino.
+}
+LeFransua_Mayor_71 {
+Gracias. Cuídate.
+}
+LeFransua_Mayor_72_m {
+¿Trajiste el rescate? No estaba bromeando cuando dije que lo vendería a los plantadores.
+}
+LeFransua_Mayor_72_f {
+¿Trajiste el rescate? No estaba bromeando cuando dije que lo vendería a los plantadores.
+}
+LeFransua_Mayor_73_m {
+Escucha, @<NPChar>, mira... No tengo esa cantidad de dinero. Pero estoy dispuesto a ganármelo trabajando.
+}
+LeFransua_Mayor_73_f {
+Escucha, @<NPChar>, mira... No tengo esa cantidad de dinero. Pero estoy dispuesto a ganármelo trabajando.
+}
+LeFransua_Mayor_74 {
+Menos mal que no lo vendiste. Aquí tienes el dinero: 150,000 piastras. ¿Dónde puedo recogerlo?
+}
+LeFransua_Mayor_75_m {
+¿Y a ti qué te importa lo que haga o deje de hacer? ¿Sabes qué? Mejor vete al de...
+}
+LeFransua_Mayor_75_f {
+¿Y a ti qué te importa lo que yo haga o deje de hacer? ¿Sabes qué? Mejor lárgate de aquí...
+}
+LeFransua_Mayor_76_m {
+Tranquilo, no te alteres. He venido a hablar contigo de negocios—de este mismo asunto, de hecho.
+}
+LeFransua_Mayor_76_f {
+Tranquilo, no te alteres. He venido a verte por un asunto—este asunto, para ser exactos.
+}
+LeFransua_Mayor_77_m {
+Ah, está bien. ¿Para quién trajiste el rescate?
+}
+LeFransua_Mayor_77_f {
+Ah, está bien. ¿Para quién trajiste el rescate?
+}
+LeFransua_Mayor_78_m {
+Espera. No vine aquí para pagar un rescate; vine a ofrecerte a uno de mis prisioneros. Así podrás cobrar el rescate por él tú mismo.
+}
+LeFransua_Mayor_78_f {
+Espera. No vine aquí para pagar un rescate, vine a ofrecerte a uno de mis prisioneros. Así podrás cobrar el rescate tú mismo.
+}
+LeFransua_Mayor_79_m {
+Hmm. ¿Y por qué necesitas que yo actúe como intermediario? ¿Por qué no quieres recibir el dinero directamente tú?
+}
+LeFransua_Mayor_79_f {
+Hmm. ¿Y por qué necesitas que yo sea el intermediario? ¿Por qué no quieres cobrar el dinero tú mismo?
+}
+LeFransua_Mayor_80 {
+Para mí, esto es arriesgado. Podría haber problemas con las autoridades.
+}
+LeFransua_Mayor_81 {
+Ejem... Muy bien. ¿Quién es tu prisionero?
+}
+LeFransua_Mayor_82 {
+Este es @<pchar> @<XI_ConvertString>.
+}
+LeFransua_Mayor_83 {
+Vaya, vaya... Si dices la verdad, esto podría ser un trato interesante. Supongo que estoy dispuesto a pagar @<FindMoneyString> por esta persona o, si lo prefieres, puedo compartir información útil. ¿Qué prefieres?
+}
+LeFransua_Mayor_84_m {
+Quedémonos con los piastras. Ya he tenido suficientes problemas con este asunto, maldición...
+}
+LeFransua_Mayor_84_f {
+Quedémonos con los piastras. Ya he tenido bastantes problemas con este asunto, maldita sea...
+}
+LeFransua_Mayor_85_m {
+¡Ja! Será mejor que me digas algo útil. Estoy seguro de que no me vas a decir tonterías.
+}
+LeFransua_Mayor_85_f {
+¡Ja! Será mejor que me digas algo útil. Estoy seguro de que no me vas a decir tonterías.
+}
+LeFransua_Mayor_86 {
+El dinero es dinero. Toma, aquí tienes. Ya no es asunto tuyo. Solo asegúrate de traer la mercancía aquí.
+}
+LeFransua_Mayor_87 {
+Ya debe estar cerca de las puertas de la ciudad. ¡Gracias! De verdad me ayudaste.
+}
+LeFransua_Mayor_88 {
+Siempre me alegra ayudar, trae más la próxima vez... ¡Hasta luego!
+}
+LeFransua_Mayor_89 {
+Y todo lo mejor para ti...
+}
+LeFransua_Mayor_90_m {
+Es bueno tratar con alguien astuto, muchacho. Ahora escucha: en unos días, una expedición española del continente llegará a @<XI_ConvertString> con un cargamento de madera valiosa, esperando a que un barco venga a recoger la mercancía. Si logras llegar en una semana, tendrás la oportunidad de quedarte con todo el lote.\nSi fuera tú, ya estaría corriendo hacia mi barco. Y asegúrate de traer al prisionero aquí.
+}
+LeFransua_Mayor_90_f {
+Es un placer hacer negocios con una mente tan aguda como la tuya, muchacha. Ahora escucha: en unos días, una expedición española desde Main llegará a @<XI_ConvertString> con una carga de madera valiosa, esperando a que un barco venga a recogerla. Si logras llegar en menos de una semana, tendrás la oportunidad de quedarte con todo el cargamento.\nSi fuera tú, ya estaría corriendo hacia mi embarcación. Y asegúrate de traer al prisionero aquí.
+}
+LeFransua_Mayor_91 {
+¡Gracias! La madera será una buena compensación por mis molestias. En cuanto a mi pasajero, ya debería estar cerca de las puertas de la ciudad. Te lo llevarán.
+}
+LeFransua_Mayor_92_m {
+¡Es un gusto tratar con un muchacho listo como tú! Ahora escucha: dentro de una semana, aproximadamente, una barquentina española llamada '@<pchar>' zarpará de @<XI_ConvertString> con una carga de madera valiosa, rumbo al puerto de @<XI_ConvertString>. Si te mantienes alerta, no tendrás problemas para interceptarla.
+¿Sigues aquí? Yo que tú, ya estaría corriendo hacia mi barco. Y asegúrate de traer al prisionero de vuelta aquí.
+}
+LeFransua_Mayor_92_f {
+Es un placer tratar con alguien tan lista, muchacha. Ahora escucha: dentro de una semana, aproximadamente, una barquentina española llamada '@<pchar>' zarpará de @<XI_ConvertString> con un cargamento de madera valiosa, rumbo al puerto de @<XI_ConvertString>. Si no te demoras, no tendrás problemas para interceptarla.\n¿Sigues aquí? Yo que tú, ya estaría corriendo hacia mi barco. Y asegúrate de traer al prisionero aquí.
+}
+LeFransua_Mayor_93 {
+¡Gracias! La madera será una buena compensación por mis molestias. En cuanto a mi pasajero, debería estar esperando junto a las puertas de la ciudad. Te lo traerán.
+}
+LeFransua_Mayor_94 {
+He oído hablar de eso, pero en realidad no sé mucho. ¡Nuestro querido y estimado Capitán Sharp es el verdadero experto en ese asunto! Es todo un entusiasta de las perlas, ¡ja, ja, ja!
+}
+LeFransua_Mayor_95 {
+¿Y dónde puedo encontrar a ese Sharp?
+}
+LeFransua_Mayor_96 {
+No lo sé. El capitán Sharp es de lo más escurridizo. Pero eres tú quien lo necesita. Sinceramente, tendrás más suerte buscándolo en los burdeles.
+}
+LeFransua_Mayor_97 {
+Gracias, Rogers.
+}

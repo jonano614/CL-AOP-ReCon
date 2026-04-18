@@ -1,0 +1,573 @@
+ThomasFlann_1_m {
+¡Bienvenido a la Ciudad, recién llegado! Nos alegra tenerte aquí. Oh, discúlpame, olvidé presentarme. Mi nombre es @<GetFullName> y vivo aquí.
+}
+ThomasFlann_1_f {
+¡Bienvenido a nuestra ciudad, ciudadano! Nos alegra mucho verte. Disculpa, olvidé presentarme. Mi nombre es @<GetFullName>, vivo aquí.
+}
+ThomasFlann_2_m {
+Entiendo. Bueno, soy @<GetFullName>. Dime, ¿ustedes viven en una tormenta interminable o qué?
+}
+ThomasFlann_2_f {
+Entiendo. Bueno, soy @<GetFullName>. Dime, ¿ustedes viven en una tormenta interminable o qué?
+}
+ThomasFlann_3_m {
+¡Bienvenido a la Ciudad, nuevo ciudadano! Nos alegra tenerte aquí. Disculpa, olvidé presentarme. Mi nombre es @<GetFullName>, vivo aquí.
+}
+ThomasFlann_3_f {
+¡Bienvenido a nuestra ciudad, ciudadano! Nos alegra tenerte aquí. Disculpa, olvidé presentarme. Mi nombre es @<GetFullName>, vivo aquí.
+}
+ThomasFlann_4_m {
+Lo tengo. Y yo — @<GetFullName>.
+}
+ThomasFlann_4_f {
+Entiendo. Y yo soy @<GetFullName>.
+}
+ThomasFlann_5_m {
+¿Querías algo?
+}
+ThomasFlann_5_f {
+¿Querías algo?
+}
+ThomasFlann_6 {
+Escucha, estoy buscando a alguien. ¿Sabes dónde está ahora?
+}
+ThomasFlann_7 {
+Quiero hacerte una pregunta.
+}
+ThomasFlann_8 {
+¿Tienes alguna historia interesante para mí?
+}
+ThomasFlann_9 {
+¿Qué hay de nuevo en el pueblo?
+}
+ThomasFlann_10_m {
+Ah, me encantaría escuchar los últimos chismes...
+}
+ThomasFlann_10_f {
+Ah, me encantaría escuchar los últimos chismes...
+}
+ThomasFlann_11 {
+@<LinkRandPhrase>
+}
+ThomasFlann_12 {
+Escucha, estoy buscando algunas mercancías.
+}
+ThomasFlann_13 {
+¿Y si ejecutan a Mechanic en público y lo lanzan al fondo con un peso atado al cuello?.. Hmm... ¡Ah! Hola. ¿Qué ocurre?
+}
+ThomasFlann_14 {
+Sabes, estoy reuniendo una tripulación para salir de aquí. Te ofrezco la oportunidad de zarpar conmigo hacia el continente.
+}
+ThomasFlann_15 {
+Nada...
+}
+ThomasFlann_16_m {
+No, para nada, todo se calmará para mañana por la tarde. Por cierto, si aún no has visto al almirante, te sugiero que te des prisa. Está en el buque de guerra 'San Augustin'. Debes llegar a él antes de que termine la tormenta.
+}
+ThomasFlann_16_f {
+No, en absoluto, para mañana por la tarde todo se habrá calmado. Por cierto, si aún no has ido a ver al almirante, te sugiero que te des prisa. Está a bordo del buque de guerra 'San Augustin'. Debes llegar antes de que termine la tormenta.
+}
+ThomasFlann_17_m {
+De acuerdo, lo entiendo.
+}
+ThomasFlann_17_f {
+De acuerdo, lo entiendo.
+}
+ThomasFlann_18_m {
+Ya conocí a tu almirante. Que te vaya bien.
+}
+ThomasFlann_18_f {
+Ya conocí a tu almirante. Que te vaya bien.
+}
+ThomasFlann_19_m {
+Si aún no has visto al almirante, te sugiero que te des prisa. Está a bordo del buque de guerra 'San Augustin'.
+}
+ThomasFlann_19_f {
+Si aún no has visto al almirante, te sugiero que te des prisa. Está a bordo del buque de guerra 'San Augustin'.
+}
+ThomasFlann_20_m {
+De acuerdo, lo entiendo.
+}
+ThomasFlann_20_f {
+De acuerdo, lo entiendo.
+}
+ThomasFlann_21_m {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+ThomasFlann_21_f {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+ThomasFlann_22_m {
+¡Vaya, mira nada más! Apenas aparté la vista un instante y ya estás metido de cabeza en el cofre. ¡Él rompió la ley!
+}
+ThomasFlann_22_f {
+¡Vaya, mira eso! Apenas aparté la vista un instante y ya te lanzaste de cabeza al cofre. ¡Ella rompió la ley!
+}
+ThomasFlann_23_m {
+¡Milicia! ¡Robo! ¡Atrápenlo, ha violado la ley!
+}
+ThomasFlann_23_f {
+¡Milicia! ¡Robo! ¡Atrápenla, ha quebrantado la ley!
+}
+ThomasFlann_24 {
+@<LinkRandPhrase>
+}
+ThomasFlann_25 {
+¡A-ay, maldición!
+}
+ThomasFlann_26 {
+¡Ah, así que eso es lo que hay?! ¿Te dio por hurgar en los cofres, eh?! ¡Ahora los habitantes y los guardias te van a destrozar sin piedad!
+}
+ThomasFlann_27 {
+¡Qué tonto!
+}
+ThomasFlann_28_m {
+Oye, mejor guarda tu arma. Me estás poniendo un poco nervioso...
+}
+ThomasFlann_28_f {
+Escucha, quizá deberías guardar tu arma. Me estás poniendo un poco nervioso...
+}
+ThomasFlann_29 {
+Mira, por aquí no andamos blandiendo espadas. Guarda tu arma.
+}
+ThomasFlann_30_m {
+Oye, ¿por qué andas corriendo como d’Artagnan, blandiendo la espada? Guarda tu arma, eso no es propio de un hombre serio…
+}
+ThomasFlann_30_f {
+Oye, ¿por qué andas corriendo como d'Artagnan, blandiendo la espada? Guarda tu arma, eso no le queda bien a una dama...
+}
+ThomasFlann_31 {
+@<LinkRandPhrase>
+}
+ThomasFlann_32 {
+De acuerdo.
+}
+ThomasFlann_33 {
+De acuerdo.
+}
+ThomasFlann_34 {
+Como usted diga...
+}
+ThomasFlann_35 {
+@<LinkRandPhrase>
+}
+ThomasFlann_36_m {
+Escuche, como ciudadano de esta ciudad, le pido que no camine por aquí con el arma desenvainada.
+}
+ThomasFlann_36_f {
+Sabes, como ciudadano de esta ciudad, debo pedirte que no andes por aquí con la espada desenvainada.
+}
+ThomasFlann_37 {
+De acuerdo.
+}
+ThomasFlann_38 {
+De acuerdo.
+}
+ThomasFlann_39 {
+Como desees...
+}
+ThomasFlann_40 {
+@<LinkRandPhrase>
+}
+ThomasFlann_41_m {
+Ten cuidado al doblar las esquinas cuando lleves un arma. Podría ponerme algo nervioso…
+}
+ThomasFlann_41_f {
+No me gusta que la gente pase frente a mí con las armas desenfundadas. Me asusta…
+}
+ThomasFlann_42_m {
+Entendido.
+}
+ThomasFlann_42_f {
+Entendido.
+}
+ThomasFlann_43 {
+Lo estoy guardando.
+}
+ThomasFlann_44 {
+@<RandPhraseSimple>
+}
+ThomasFlann_45 {
+¿Y a quién buscas?
+}
+ThomasFlann_46 {
+No entiendo de quién hablas. Necesito saber el nombre y apellido de esa persona.
+}
+ThomasFlann_47 {
+Entendido. Déjame intentar nombrarlo de nuevo.
+}
+ThomasFlann_48_m {
+Gracias, prefiero buscarlo yo mismo.
+}
+ThomasFlann_48_f {
+Gracias, prefiero buscar yo mismo.
+}
+ThomasFlann_49 {
+¡Pero ese soy yo!
+}
+ThomasFlann_50_m {
+Vaya, mírate, te encontré justo donde esperaba.
+}
+ThomasFlann_50_f {
+Vaya, mira nada más, al final te encontré.
+}
+ThomasFlann_51 {
+@<GetFullName>, ¿hablas de él?
+}
+ThomasFlann_52 {
+Sí, sí, así es, es él.
+}
+ThomasFlann_53 {
+No, no sobre él. Déjame repetirlo.
+}
+ThomasFlann_54 {
+@<GetFullName>, ¿hablas de ella?
+}
+ThomasFlann_55 {
+Sí, ese es.
+}
+ThomasFlann_56 {
+No, no es sobre ella. Escucha, déjame intentar nombrarlo de nuevo.
+}
+ThomasFlann_57 {
+Sabes, ya no quiero preguntar por nadie más. Adiós.
+}
+ThomasFlann_58 {
+Entonces diga su nombre y apellido una vez más.
+}
+ThomasFlann_59 {
+No lo sé, hace tiempo que no lo veo.
+}
+ThomasFlann_60 {
+Ni idea de dónde está...
+}
+ThomasFlann_61 {
+Hace bastante que no lo veo, así que no sabría decirte.
+}
+ThomasFlann_62 {
+@<LinkRandPhrase>
+}
+ThomasFlann_63 {
+Entendido.
+}
+ThomasFlann_64 {
+Qué lástima...
+}
+ThomasFlann_65 {
+@<RandPhraseSimple>
+}
+ThomasFlann_66 {
+Me temo que no la he visto desde hace bastante tiempo.
+}
+ThomasFlann_67 {
+No tengo idea de dónde está ahora.
+}
+ThomasFlann_68 {
+Hmm, no sé dónde podría estar ella ahora.
+}
+ThomasFlann_69 {
+@<LinkRandPhrase>
+}
+ThomasFlann_70 {
+Entendido.
+}
+ThomasFlann_71 {
+Qué lástima...
+}
+ThomasFlann_72 {
+@<RandPhraseSimple>
+}
+ThomasFlann_73 {
+Está aquí, en este barco. Busca con más atención.
+}
+ThomasFlann_74 {
+¡Ja, así que está aquí, en este mismo barco!
+}
+ThomasFlann_75 {
+Está en este barco. Es raro que no lo hayas visto todavía.
+}
+ThomasFlann_76 {
+@<LinkRandPhrase>
+}
+ThomasFlann_77 {
+Lo vi hace poco, @<npchar>.
+}
+ThomasFlann_78 {
+Me lo encontré en @<npchar> hace poco. Así que búscalo allí.
+}
+ThomasFlann_79 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ThomasFlann_80 {
+@<LinkRandPhrase>
+}
+ThomasFlann_81 {
+Así que está justo aquí, @<npchar>. Míralo bien.
+}
+ThomasFlann_82 {
+¡Pero si está aquí, entre nosotros!
+}
+ThomasFlann_83 {
+¿Dónde estás mirando? Él anda merodeando por aquí.
+}
+ThomasFlann_84 {
+@<LinkRandPhrase>
+}
+ThomasFlann_85 {
+Lo vi hace poco, @<npchar>.
+}
+ThomasFlann_86 {
+Me lo encontré en @<npchar> hace poco. Así que búscalo allí.
+}
+ThomasFlann_87 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+ThomasFlann_88 {
+@<LinkRandPhrase>
+}
+ThomasFlann_89 {
+Ah, ya veo. Gracias.
+}
+ThomasFlann_90 {
+¡Gracias!
+}
+ThomasFlann_91 {
+@<RandPhraseSimple>
+}
+ThomasFlann_92 {
+Está aquí, en este barco. Busca con más cuidado.
+}
+ThomasFlann_93 {
+¡Ja, así que está aquí, en este mismo barco!
+}
+ThomasFlann_94 {
+Está en este barco; es raro que no la hayas visto todavía.
+}
+ThomasFlann_95 {
+@<LinkRandPhrase>
+}
+ThomasFlann_96 {
+La vi hace poco @<npchar>.
+}
+ThomasFlann_97 {
+La conocí hace poco, @<npchar>. Incluso conversamos un poco.
+}
+ThomasFlann_98 {
+Hasta donde sé, ahora está en @<npchar>.
+}
+ThomasFlann_99 {
+@<LinkRandPhrase>
+}
+ThomasFlann_100 {
+Así que está justo aquí, @<npchar>. Fíjate mejor.
+}
+ThomasFlann_101 {
+¡Pero si está aquí mismo, entre nosotros!
+}
+ThomasFlann_102 {
+¿Dónde estás mirando? Ella está por aquí en alguna parte.
+}
+ThomasFlann_103 {
+@<LinkRandPhrase>
+}
+ThomasFlann_104 {
+La vi hace poco, @<npchar>.
+}
+ThomasFlann_105 {
+La conocí hace poco, @<npchar>. Incluso conversamos un rato.
+}
+ThomasFlann_106 {
+Hasta donde sé, ahora está en @<npchar>.
+}
+ThomasFlann_107 {
+@<LinkRandPhrase>
+}
+ThomasFlann_108 {
+Ah, ya veo. Gracias, @<GetAddress_FormToNPC>.
+}
+ThomasFlann_109 {
+¡Gracias!
+}
+ThomasFlann_110 {
+@<RandPhraseSimple>
+}
+ThomasFlann_111 {
+Bien, pregunta lo que quieras.
+}
+ThomasFlann_112 {
+Escucha, ¿qué isla es esta?
+}
+ThomasFlann_113 {
+Oye, ¿sabes por qué hay tantos barcos reunidos aquí? ¡Esto sí que no es normal! ¿Y por qué no se están hundiendo?
+}
+ThomasFlann_114 {
+¿Y cómo es el almirante?
+}
+ThomasFlann_115 {
+¿Qué cosas interesantes tienes aquí?
+}
+ThomasFlann_116 {
+¿Cuánto tiempo llevas aquí?
+}
+ThomasFlann_117 {
+Sin preguntas. Lo siento, amigo...
+}
+ThomasFlann_118_m {
+Esta es la Ciudad de los Barcos Perdidos, amigo. Si has llegado aquí, olvida todo lo que sabías. Me temo que no hay forma de escapar de este lugar…
+}
+ThomasFlann_118_f {
+Esta es la Ciudad de los Barcos Perdidos, señora. Si ha llegado aquí, olvide todo lo que conocía. Me temo que no hay salida de este lugar...
+}
+ThomasFlann_119 {
+¡Demonio!
+}
+ThomasFlann_120 {
+Nadie lo sabe con certeza. Parece que hay una especie de corriente, muy fuerte, como si arrastrara todos los barcos hacia aquí. Y luego está el sargazo…
+}
+ThomasFlann_121 {
+¿Algas? Hm... ¿Quizá haya un banco debajo de nosotros, o arrecifes?
+}
+ThomasFlann_122 {
+No lo sé, y no te recomendaría averiguarlo. Navegar en la superficie es bastante seguro, pero si te sumerges... Digamos que quienes lo intentaron nunca regresaron.
+}
+ThomasFlann_123 {
+¿Y los ahogados ni siquiera volvieron a salir a la superficie después?
+}
+ThomasFlann_124 {
+No, ni siquiera se ha vuelto a ver el borde de sus ropas desde entonces.
+}
+ThomasFlann_125 {
+Maldita sea, eso da miedo...
+}
+ThomasFlann_126 {
+Te acostumbrarás.
+}
+ThomasFlann_127 {
+De algún modo, no me dan muchas ganas de acostumbrarme a esto...
+}
+ThomasFlann_128 {
+Lo entiendo, pero tendrás que hacerlo. Si no logras adaptarte aquí, perderás la cabeza. Y entonces será tu fin, ¡por la Ley!
+}
+ThomasFlann_129 {
+¡¿Qué?!
+}
+ThomasFlann_130 {
+Te hundirás hasta el fondo con un montón de porquería alrededor del cuello. ¡Así es!
+}
+ThomasFlann_131 {
+Vaya, sí que tienen costumbres peculiares por aquí...
+}
+ThomasFlann_132 {
+El almirante es el gobernador de nuestro pueblo. Antes solían elegir al almirante, pero por lo que parece, últimamente Chad Capper no está muy dispuesto a eso...
+}
+ThomasFlann_133 {
+¿Y qué te hace pensar eso?
+}
+ThomasFlann_134 {
+Bueno, para empezar, elegir un almirante se ha vuelto un tema tabú en la Ciudad. La gente no habla de eso... Y te aconsejo que tú tampoco lo hagas.
+}
+ThomasFlann_135 {
+Hmm, ya veo.
+}
+ThomasFlann_136 {
+¿Algo interesante? Pues no sé qué buscas... Está la taberna, la tienda, la iglesia y, por supuesto, la residencia del gobernador.
+}
+ThomasFlann_137 {
+Entendido.
+}
+ThomasFlann_138 {
+Ya ha pasado un año y medio...
+}
+ThomasFlann_139 {
+Ya veo. Hill Brynner ya era el dueño de la taberna...
+}
+ThomasFlann_140 {
+Sí, lo estaba.
+}
+ThomasFlann_141 {
+Bueno, ya veo...
+}
+ThomasFlann_142 {
+¿Qué es exactamente lo que buscas?
+}
+ThomasFlann_143_m {
+Ya has preguntado eso.
+}
+ThomasFlann_143_f {
+Ya preguntaste sobre eso.
+}
+ThomasFlann_144_m {
+Ya lo pregunté...
+}
+ThomasFlann_144_f {
+Ya lo pregunté...
+}
+ThomasFlann_145_m {
+Ya me preguntaste por esta carga. ¡No sé nada!
+}
+ThomasFlann_145_f {
+Ya me preguntaste por esta carga. ¡No sé nada!
+}
+ThomasFlann_146 {
+Bombas, balas de cañón, metralla, balas encadenadas, provisiones, medicinas, pólvora, armas...
+}
+ThomasFlann_147_m {
+Sí... Perdón, se me pasó.
+}
+ThomasFlann_147_f {
+Sí... Perdón, se me pasó.
+}
+ThomasFlann_148 {
+Ah, claro.
+}
+ThomasFlann_149_m {
+Entendido, entendido...
+}
+ThomasFlann_149_f {
+Entendido, entendido...
+}
+ThomasFlann_150 {
+¿Armas? Ya tienes armas.
+}
+ThomasFlann_151 {
+Necesito muchas armas.
+}
+ThomasFlann_152 {
+Entendido. Entonces tendrás que ver al almirante. Solo él tiene pólvora y armas.
+}
+ThomasFlann_153 {
+Entendido...
+}
+ThomasFlann_154_m {
+¿Esto es una especie de broma, señor?
+}
+ThomasFlann_154_f {
+¿Esto es una especie de broma, señora?
+}
+ThomasFlann_155 {
+En absoluto. Tengo un barco y te invito a unirte a mi tripulación.
+}
+ThomasFlann_156 {
+¡Vaya, caray! No me lo creo...
+}
+ThomasFlann_157 {
+Amigo, no tengo tiempo. Necesito tu respuesta.
+}
+ThomasFlann_158 {
+¡Gracias por la invitación! Por supuesto, acepto.
+}
+ThomasFlann_159 {
+¡Excelente! Ahora, dirígete de inmediato al 'San Gabriel'. Malcolm te llevará hasta mi corbeta.
+}
+ThomasFlann_160 {
+Voy en camino. Tomaré mis cosas de paso.
+}
+ThomasFlann_161 {
+Solo date prisa. ¡No te detengas en ningún otro lugar!
+}
+ThomasFlann_162 {
+¡Maldita sea! Vamos a hundirnos aquí vivos...\nUf, ¡estás aquí! Menos mal que estás con nosotros, Capitán. ¿Cuándo zarpamos? La tormenta se está intensificando y el agua sube demasiado rápido. Parece que el Mecánico tenía razón... ¿Crees que todavía no es tarde para irnos? ¿Y si aparecen monstruos marinos?
+}
+ThomasFlann_163 {
+Lo dudo, Thomas. Esas criaturas no saben nadar. Así que no pierdas tiempo. Corre hacia el bote—Malcolm ya empezó a llevar gente al otro lado.
+}

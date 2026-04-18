@@ -1,0 +1,597 @@
+HenryFolder_1 {
+@<TimeGreeting>, Kapitän @<pchar>. Willkommen in der Stadt! Glückwunsch zu Ihrer Ankunft. Der Sturm legt sich bald, und dann können Sie sich hier richtig einleben.
+}
+HenryFolder_2 {
+Und warum glaubst du, dass es sich bald beruhigen wird?
+}
+HenryFolder_3 {
+@<TimeGreeting>, Kapitän @<pchar>.
+}
+HenryFolder_4 {
+Kennen wir uns?
+}
+HenryFolder_5 {
+Wie kann ich Ihnen helfen, @<GetAddress_Form>?
+}
+HenryFolder_6 {
+Hören Sie, ich suche jemanden. Wissen Sie, wo er gerade ist?
+}
+HenryFolder_7 {
+Ich möchte Ihnen eine Frage stellen.
+}
+HenryFolder_8 {
+Hast du interessante Geschichten für mich?
+}
+HenryFolder_9 {
+Was gibt es Neues in der Stadt?
+}
+HenryFolder_10_m {
+Ach, ich würde zu gern den neuesten Klatsch hören...
+}
+HenryFolder_10_f {
+Ach, ich würde zu gern den neuesten Klatsch hören...
+}
+HenryFolder_11 {
+@<LinkRandPhrase>
+}
+HenryFolder_12 {
+Hören Sie, ich suche nach bestimmten Waren.
+}
+HenryFolder_13 {
+Kannst du mir wenigstens erklären, worum es in dieser dringenden Besprechung geht?
+}
+HenryFolder_14 {
+Weißt du, ich stelle eine Mannschaft zusammen, um hier rauszukommen. Ich biete dir an, mitzukommen.
+}
+HenryFolder_15 {
+Nichts...
+}
+HenryFolder_16 {
+Hm, nun, das ist nicht mein erster Sturm hier in der Stadt. Deshalb kann ich mit einiger Sicherheit sagen, dass sich das Unwetter bis morgen Abend gelegt haben wird. @<GetFullName> zu Ihren Diensten!
+}
+HenryFolder_17 {
+Danke. Wenn es kein Geheimnis ist, erzähl mir, wie du hierher gekommen bist.
+}
+HenryFolder_18 {
+Nein, überhaupt nicht. Ich habe nur schon von Ihnen gehört.
+}
+HenryFolder_19 {
+Aber leider hatte ich noch nicht das Vergnügen, von Ihnen zu hören.
+}
+HenryFolder_20 {
+Keine Überraschung! @<GetFullName> zu Ihren Diensten. Wie kann ich helfen?
+}
+HenryFolder_21 {
+Ich lerne gerade Leute kennen, gewöhne mich ein... und finde mehr über die Stadt heraus.
+}
+HenryFolder_22 {
+Über die Stadt, hmm... Und wie gefällt dir die Stadt?
+}
+HenryFolder_23 {
+Nun, die Stadt ist ziemlich interessant.
+}
+HenryFolder_24 {
+Das ist noch milde ausgedrückt, Captain! Diese Stadt ist wirklich einzigartig.
+}
+HenryFolder_25 {
+Und wie bist du hierher gekommen?
+}
+HenryFolder_26 {
+Meine Geschichte ist wahrscheinlich die langweiligste von allen. Vielleicht liegt das daran, dass ich zu faul bin, sie auszuschmücken. Außerdem glaubt mir sowieso niemand.
+}
+HenryFolder_27 {
+Und was ist passiert?
+}
+HenryFolder_28 {
+Ich bin selbst hergekommen, Captain. Mehr gibt es dazu nicht zu sagen.
+}
+HenryFolder_29 {
+Allein? Du bist absichtlich hergekommen?! Dann sind wir ja Kollegen! Und was führt dich hierher?
+}
+HenryFolder_30 {
+Das Gerücht machte die Runde, Captain. Ich war der Erste, der begriff, dass es nicht bloß eine betrunkene Geschichte war, also beschloss ich, selbst herzukommen. Ich heuerte einen Captain und eine Mannschaft an, sammelte alle Informationen, die ich finden konnte, besorgte mir eine zweifelhafte Karte... aber am Ende war alles viel einfacher.\nIn jener Nacht, ganz ohne Vorwarnung, ohne Sturm oder Unwetter, trieb uns der Wind auf zwanzig Knoten – wenn ich die Worte des Captains richtig erinnere; ich bin selbst kein Seemann. Wir feierten eine Weile, und dann, mit voller Geschwindigkeit, rasten wir direkt in diese Stadt...
+}
+HenryFolder_31 {
+Sind wir abgestürzt?!
+}
+HenryFolder_32 {
+Ja, genau – unser Schiff liegt ganz in der Nähe, es gehört jetzt praktisch zu dieser Stadt. Und was noch besser ist: Viele Leute haben überlebt, das kommt sonst kaum vor. Du hättest Capper sehen sollen – beim Himmel, dieser Schreck hätte ihn fast aus der Haut fahren und in die Hosen machen lassen!
+}
+HenryFolder_33_m {
+Ich würde nicht sagen, dass diese Geschichte langweilig ist.
+}
+HenryFolder_33_f {
+Ich würde nicht sagen, dass diese Geschichte langweilig ist.
+}
+HenryFolder_34 {
+Jedem das Seine, aber ich ziehe einen Sturm jederzeit einem törichten Schiffsbruch vor.
+}
+HenryFolder_35_m {
+Es war schön, Sie kennenzulernen. Danke für die Geschichte.
+}
+HenryFolder_35_f {
+Es war schön, Sie kennenzulernen. Danke für die Geschichte.
+}
+HenryFolder_36 {
+Gern geschehen, Captain. Es freut mich, Sie kennenzulernen.
+}
+HenryFolder_37 {
+Alles Gute.
+}
+HenryFolder_38_m {
+Du bist ein Dieb! Du verstößt gegen das Gesetz der Stadt!
+}
+HenryFolder_38_f {
+Du bist ein Dieb! Du verstößt gegen das Gesetz der Stadt!
+}
+HenryFolder_39_m {
+Na, sieh einer an! Kaum schaue ich mal kurz weg, steckst du schon mit dem Kopf in der Truhe! Er hat das Gesetz gebrochen!
+}
+HenryFolder_39_f {
+Na, sieh einer an! Kaum schaue ich mal weg, steckst du schon mit dem Kopf in der Truhe! Sie hat das Gesetz gebrochen!
+}
+HenryFolder_40_m {
+Miliz! Überfall!!! Haltet ihn, er hat das Gesetz gebrochen!
+}
+HenryFolder_40_f {
+Miliz! Ein Raubüberfall! Haltet sie auf, sie hat das Gesetz gebrochen!
+}
+HenryFolder_41 {
+@<LinkRandPhrase>
+}
+HenryFolder_42 {
+Verdammt nochmal!!!
+}
+HenryFolder_43 {
+Ach, so ist das also?! Du hast dich also entschieden, in den Truhen zu wühlen, was?! Jetzt werden dich die Stadtbewohner und die Wachen zerreißen wie einen alten Lappen!
+}
+HenryFolder_44 {
+Was für eine Närrin sie ist!..
+}
+HenryFolder_45_m {
+Hey, vielleicht steckst du deine Waffe weg. Du machst mich etwas nervös...
+}
+HenryFolder_45_f {
+Hör zu, vielleicht solltest du deine Waffe wegstecken. Du machst mich ein wenig nervös...
+}
+HenryFolder_46 {
+Weißt du, hier fuchtelt man nicht einfach mit dem Schwert herum. Steck deine Waffe weg.
+}
+HenryFolder_47_m {
+Hey, warum rennst du hier herum wie einer der Drei Musketiere und fuchtelst mit deinem Degen? Steck die Waffe weg, das passt nicht zu einem ernsthaften Mann…
+}
+HenryFolder_47_f {
+Hey, warum rennst du hier herum wie die drei Musketiere und fuchtelst mit deinem Degen? Steck deine Waffe weg, das passt nicht zu einer Dame...
+}
+HenryFolder_48 {
+@<LinkRandPhrase>
+}
+HenryFolder_49 {
+In Ordnung.
+}
+HenryFolder_50 {
+In Ordnung.
+}
+HenryFolder_51 {
+Wie du sagst...
+}
+HenryFolder_52 {
+@<LinkRandPhrase>
+}
+HenryFolder_53_m {
+Hören Sie, als Bürger dieser Stadt bitte ich Sie, hier nicht mit gezogenem Degen herumzulaufen.
+}
+HenryFolder_53_f {
+Wissen Sie, als Bürger dieser Stadt bitte ich Sie, hier nicht mit gezogenem Degen herumzulaufen.
+}
+HenryFolder_54 {
+In Ordnung.
+}
+HenryFolder_55 {
+In Ordnung.
+}
+HenryFolder_56 {
+Wie du willst...
+}
+HenryFolder_57 {
+@<LinkRandPhrase>
+}
+HenryFolder_58_m {
+Sei vorsichtig in den Kurven, wenn du mit einer Waffe in der Hand läufst. Ich könnte leicht zusammenzucken…
+}
+HenryFolder_58_f {
+Ich mag es nicht, wenn Leute mit gezogenen Waffen vor mir herumspazieren. Das macht mich nervös...
+}
+HenryFolder_59_m {
+Verstanden.
+}
+HenryFolder_59_f {
+Verstanden.
+}
+HenryFolder_60 {
+Ich lege es weg.
+}
+HenryFolder_61 {
+@<RandPhraseSimple>
+}
+HenryFolder_62 {
+Und wen suchst du?
+}
+HenryFolder_63 {
+Ich verstehe nicht, von wem du sprichst. Ich brauche den Vor- und Nachnamen dieser Person.
+}
+HenryFolder_64 {
+Verstanden. Ich versuche, es noch einmal zu benennen.
+}
+HenryFolder_65_m {
+Danke, ich sehe mich lieber selbst um.
+}
+HenryFolder_65_f {
+Danke, ich suche lieber selbst danach.
+}
+HenryFolder_66 {
+Aber das bin ich!
+}
+HenryFolder_67_m {
+Na so was, ich habe dich tatsächlich gefunden!
+}
+HenryFolder_67_f {
+Na, sieh einer an – ich habe dich doch gefunden!
+}
+HenryFolder_68 {
+@<GetFullName>, sprichst du über ihn?
+}
+HenryFolder_69 {
+Ja, ja, das ist er, ganz sicher.
+}
+HenryFolder_70 {
+Nein, nicht über ihn. Lass es mich noch einmal sagen.
+}
+HenryFolder_71 {
+@<GetFullName>, sprichst du über sie?
+}
+HenryFolder_72 {
+Ja, das ist der.
+}
+HenryFolder_73 {
+Nein, nicht über sie. Hör zu, lass mich noch einmal versuchen, es zu benennen.
+}
+HenryFolder_74 {
+Weißt du, ich möchte niemanden sonst mehr fragen. Leb wohl.
+}
+HenryFolder_75 {
+Nennen Sie noch einmal Ihren Vor- und Nachnamen.
+}
+HenryFolder_76 {
+Ich weiß nicht, ich habe ihn schon eine Weile nicht gesehen.
+}
+HenryFolder_77 {
+Woher soll ich wissen, wo er ist...
+}
+HenryFolder_78 {
+Ich habe ihn schon eine ganze Weile nicht gesehen, also weiß ich es nicht.
+}
+HenryFolder_79 {
+@<LinkRandPhrase>
+}
+HenryFolder_80 {
+Verstanden.
+}
+HenryFolder_81 {
+Schade...
+}
+HenryFolder_82 {
+@<RandPhraseSimple>
+}
+HenryFolder_83 {
+Ich habe sie schon seit einiger Zeit nicht mehr gesehen, fürchte ich.
+}
+HenryFolder_84 {
+Ich habe keine Ahnung, wo sie jetzt ist.
+}
+HenryFolder_85 {
+Hm, ich weiß nicht, wo sie im Moment sein könnte.
+}
+HenryFolder_86 {
+@<LinkRandPhrase>
+}
+HenryFolder_87 {
+Verstanden.
+}
+HenryFolder_88 {
+Schade...
+}
+HenryFolder_89 {
+@<RandPhraseSimple>
+}
+HenryFolder_90 {
+Er ist hier, auf diesem Schiff. Sucht gründlicher.
+}
+HenryFolder_91 {
+Ha, also ist er hier, auf diesem Schiff!
+}
+HenryFolder_92 {
+Er ist auf diesem Schiff – seltsam, dass du ihn noch nicht gesehen hast.
+}
+HenryFolder_93 {
+@<LinkRandPhrase>
+}
+HenryFolder_94 {
+Ich habe ihn erst vor Kurzem gesehen, @<npchar>.
+}
+HenryFolder_95 {
+Ich bin ihm vor Kurzem bei @<npchar> begegnet. Dort solltest du also nach ihm suchen.
+}
+HenryFolder_96 {
+Soweit ich weiß, ist er gerade bei @<npchar>.
+}
+HenryFolder_97 {
+@<LinkRandPhrase>
+}
+HenryFolder_98 {
+Also ist er genau hier, @<npchar>. Schau genauer hin.
+}
+HenryFolder_99 {
+Aber er ist doch hier, mitten unter uns!
+}
+HenryFolder_100 {
+Wohin schaust du? Er treibt sich hier irgendwo herum.
+}
+HenryFolder_101 {
+@<LinkRandPhrase>
+}
+HenryFolder_102 {
+Ich habe ihn erst vor Kurzem gesehen @<npchar>.
+}
+HenryFolder_103 {
+Ich bin ihm vor Kurzem bei @<npchar> begegnet. Such ihn also dort.
+}
+HenryFolder_104 {
+Soweit ich weiß, ist er im Moment bei @<npchar>.
+}
+HenryFolder_105 {
+@<LinkRandPhrase>
+}
+HenryFolder_106 {
+Ach so. Danke.
+}
+HenryFolder_107 {
+Danke!
+}
+HenryFolder_108 {
+@<RandPhraseSimple>
+}
+HenryFolder_109 {
+Sie ist hier, auf diesem Schiff. Sucht gründlicher.
+}
+HenryFolder_110 {
+Ha, also ist sie tatsächlich hier, auf diesem Schiff!
+}
+HenryFolder_111 {
+Sie ist auf diesem Schiff – seltsam, dass du sie noch nicht gesehen hast.
+}
+HenryFolder_112 {
+@<LinkRandPhrase>
+}
+HenryFolder_113 {
+Ich habe sie erst vor Kurzem bei @<npchar> gesehen.
+}
+HenryFolder_114 {
+Ich habe sie neulich getroffen, @<npchar>. Wir haben uns sogar unterhalten.
+}
+HenryFolder_115 {
+Soweit ich weiß, ist sie im Moment bei @<npchar>.
+}
+HenryFolder_116 {
+@<LinkRandPhrase>
+}
+HenryFolder_117 {
+Also ist sie genau hier, @<npchar>. Schau genauer hin.
+}
+HenryFolder_118 {
+Aber sie ist doch hier, mitten unter uns!
+}
+HenryFolder_119 {
+Wohin schaust du? Sie muss hier irgendwo sein.
+}
+HenryFolder_120 {
+@<LinkRandPhrase>
+}
+HenryFolder_121 {
+Ich habe sie erst vor Kurzem gesehen @<npchar>.
+}
+HenryFolder_122 {
+Ich habe sie neulich getroffen, @<npchar>. Wir haben uns sogar unterhalten.
+}
+HenryFolder_123 {
+Soweit ich weiß, ist sie momentan bei @<npchar>.
+}
+HenryFolder_124 {
+@<LinkRandPhrase>
+}
+HenryFolder_125 {
+Aha, ich verstehe. Danke, @<GetAddress_FormToNPC>.
+}
+HenryFolder_126 {
+Danke!
+}
+HenryFolder_127 {
+@<RandPhraseSimple>
+}
+HenryFolder_128_m {
+Ich höre zu, mein Freund.
+}
+HenryFolder_128_f {
+Ich höre aufmerksam zu, Miss.
+}
+HenryFolder_129 {
+Wie ist eigentlich das Wetter hier in der Gegend?
+}
+HenryFolder_130 {
+Warum interessieren sich die Behörden der großen Nationen nicht für diesen Ort? Gehört er niemandem?
+}
+HenryFolder_131 {
+Könntest du mir sagen, wo ich eine Weile Beute verstecken könnte?
+}
+HenryFolder_132 {
+Kennt jeder das Gesetz und befolgt es ohne zu hinterfragen?
+}
+HenryFolder_133 {
+Hey, bist du schon lange hier?
+}
+HenryFolder_134 {
+Keine Fragen. Tut mir leid...
+}
+HenryFolder_135 {
+Schon gut. Stürme sind hier ziemlich selten – meistens ist es sonnig und ruhig.
+}
+HenryFolder_136 {
+Das freut mich zu hören.
+}
+HenryFolder_137 {
+Witzig, ja, wirklich... für niemanden.
+}
+HenryFolder_138 {
+Und niemand hat je versucht, die Stadt zu übernehmen?
+}
+HenryFolder_139 {
+Natürlich nicht. Kaum jemand auf dem Festland glaubt überhaupt, dass die Insel existiert. Nur Bettler flüstern Gerüchte über die Isle of Justice ... Aber welche der Großmächte würde das je ernst nehmen?
+}
+HenryFolder_140 {
+Die Dutch Trading Company zum Beispiel... Obwohl es unwahrscheinlich ist, dass sie für die Insel noch eine Gefahr darstellen kann.
+}
+HenryFolder_141_m {
+Truhen, mein Herr, Truhen... davon gibt es hier genug. Aber Sie sollten lieber nicht in fremde hineinschauen – öffnen Sie nur die gemeinsamen, falls Sie das überhaupt können.
+}
+HenryFolder_141_f {
+Truhen, Fräulein, Truhen... davon gibt es hier genug. Aber Sie sollten besser nicht in fremde hineinschauen – öffnen Sie nur die gemeinsamen, falls Sie das überhaupt können.
+}
+HenryFolder_142 {
+Wie meinst du das?
+}
+HenryFolder_143 {
+Hier gibt es keine Truhen ohne Schlüssel. Alles lässt sich nur mit einem Schlüssel öffnen. Und denk daran, du bist nicht der Einzige – viele andere haben diese Schlüssel ebenfalls. Wenn du wirklich etwas verstecken willst, musst du eine Truhe außerhalb der Stadt finden, irgendwohin, wo du erst hinsegeln musst...
+}
+HenryFolder_144 {
+Ah, ich verstehe...
+}
+HenryFolder_145 {
+Ha, es spielt keine Rolle, ob sie es wissen oder nicht! Verstöße werden streng bestraft, und den Capper interessiert es nicht, ob du unser Gesetz beim ersten Mal verstanden hast.
+}
+HenryFolder_146_m {
+Ja, das habe ich mir schon gedacht.
+}
+HenryFolder_146_f {
+Ja, das habe ich mir schon gedacht.
+}
+HenryFolder_147 {
+Schon ziemlich viel, sozusagen...
+}
+HenryFolder_148 {
+Wie viel kostet das?
+}
+HenryFolder_149 {
+Ungefähr fünf Jahre.
+}
+HenryFolder_150 {
+Ha, du bist ja ein alter Hase! Du bist sicher schon Bürger der Stadt gewesen, noch bevor der verstorbene Hill Brunner es wurde.
+}
+HenryFolder_151 {
+Nein, vorher nicht.
+}
+HenryFolder_152 {
+Ich verstehe... Sag mal, kennst du vielleicht noch andere alte Stadtbewohner?
+}
+HenryFolder_153 {
+Und wozu brauchst du das?
+}
+HenryFolder_154 {
+Ach, nur eine kleine Angelegenheit, um die ich mich kümmern muss...
+}
+HenryFolder_155 {
+Nun, wenn du nicht reden willst, ist das dein gutes Recht. Und damit hast du deine eigene Frage beantwortet. Du musst nach den alten Bewohnern suchen...
+}
+HenryFolder_156 {
+Kennen Sie jemanden wie diesen?
+}
+HenryFolder_157 {
+Ich erinnere mich, dass eine gewisse Aurélie Bertin schon seit einiger Zeit hier ist.
+}
+HenryFolder_158 {
+Hmm... Vielen Dank, Henry!
+}
+HenryFolder_159 {
+Tut mir leid, ich verstehe nicht, wovon du sprichst.
+}
+HenryFolder_160 {
+Das hast du schon gefragt.
+}
+HenryFolder_161 {
+Schon gefragt...
+}
+HenryFolder_162 {
+Du hast mich schon nach dieser Ladung gefragt. Ich weiß nichts darüber!
+}
+HenryFolder_163 {
+Ich brauche Bomben, Kartätschen, Vorräte, Medizin, Schießpulver, Waffen ...
+}
+HenryFolder_164_m {
+Ja... Tut mir leid, das ist mir entfallen.
+}
+HenryFolder_164_f {
+Ja... Entschuldigung, ich habe es vergessen.
+}
+HenryFolder_165 {
+Ach so.
+}
+HenryFolder_166 {
+Schon gut, schon gut...
+}
+HenryFolder_167 {
+Ah, ich verstehe... Ich kann dir nicht helfen. Aber...
+}
+HenryFolder_168 {
+Was?
+}
+HenryFolder_169 {
+Du kannst versuchen, Bomben und Kartätschen in den Häusern der einheimischen Frauen zu finden. Sie gehören nicht zu den wertvollsten Dingen in der Stadt.
+}
+HenryFolder_170 {
+Verstanden, danke.
+}
+HenryFolder_171 {
+Mannschaft aufs Schiff? Während der Fahrt?
+}
+HenryFolder_172 {
+Ja.
+}
+HenryFolder_173 {
+Also, haben Sie es auf Lager?
+}
+HenryFolder_174 {
+Ja, so ist es.
+}
+HenryFolder_175 {
+Na, das ist ja mal eine Neuigkeit... Ich bin dabei!
+}
+HenryFolder_176 {
+Ausgezeichnet! Dann geh sofort zur 'San Gabriel'. Malcolm Fawn bringt dich zu meiner Korvette.
+}
+HenryFolder_177 {
+In Ordnung, genau das mache ich. Ich packe nur schnell meine Sachen – dann bin ich bereit zum Ablegen.
+}
+HenryFolder_178 {
+Bleib nicht stehen.
+}
+HenryFolder_179 {
+Kapitän, auch ich bin einst voller Hoffnung hierher geeilt, in der Hoffnung, die Insel würde mir ein glückliches Leben schenken... Doch es waren nur leere Träume, denen ich nachjagte. Jetzt zerfällt die Stadt, und ich habe eine neue Chance auf Rettung. Und das verdanke ich Ihnen! Danke, dass Sie mich mitgenommen haben – dass Sie mich nicht in der Vergangenheit zurückgelassen haben.
+}
+HenryFolder_180 {
+Du hast eine philosophische Sicht auf das Leben, Henry. So oder so sind wir beide aus eigenem Willen hierhergekommen... Aber eine Gelegenheit muss man trotzdem ergreifen.
+}
+HenryFolder_181 {
+Das stimmt, Captain. Du hast recht... Nimm das von mir – als Glücksbringer? Damit unsere nächste Reise in die Freiheit führt, nicht ins Verderben... Und jetzt?
+}
+HenryFolder_182 {
+Danke. Als Nächstes gehst du zu Malcolm – er bringt dich zum Schiff, wenn du an der Reihe bist.
+}

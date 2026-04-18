@@ -1,0 +1,48 @@
+Start_GoldFleet_t0 {Dizem que uma frota, que anualmente leva ouro e prata para a coroa espanhola, partiu recentemente das costas de Portobelo rumo a Havana.}
+Start_GoldFleet_t1 {Há poucos dias, uma frota espanhola partiu de Portobelo carregando uma quantidade incalculável de ouro e prata dos incas e astecas. Esse comboio segue para Havana, de onde o tesouro será enviado à Espanha.}
+Start_GoldFleet_t2 {Circulam rumores sobre um comboio espanhol de ouro partindo de Portobelo para Havana com uma carga de ouro e prata. A frota é escoltada por fragatas, cada uma com dois conveses cheios de canhões, além de outros navios de guerra.}
+End_GoldFleet_t0 {O comboio de ouro espanhol chegou inteiro a Cuba. Agora todo o ouro e prata coletados serão enviados para a Espanha.}
+End_GoldFleet_t1 {Todos os navios da frota dourada espanhola chegaram a Havana sem um arranhão. Todo esse ouro e prata do México e do Peru em breve será enviado para a Europa.}
+End_GoldFleet_t2 {A frota dourada espanhola chegou a Havana. Todo o ouro e prata estão seguros e em breve serão enviados para a Espanha.}
+Defeat_GoldFleet_t0 {Dizem que o comboio de ouro espanhol partiu de Portobelo, mas ainda não chegou a Havana. Não sei ao certo o motivo, mas acredito que foram os piratas ou as tempestades.}
+Defeat_GoldFleet_t1 {A frota de ouro espanhola, que navegava para Havana com o ouro e a prata dos nativos, desapareceu. Ninguém sabe ao certo o motivo, mas dizem que pode ter sido obra dos piratas!}
+Defeat_GoldFleet_t2 {A frota dourada, que transportava tesouros imensuráveis de Portobelo, ainda não chegou a Havana, embora já devesse ter chegado. Quem sabe — talvez as tempestades tenham selado seu destino.}
+Attak_GoldFleet_t0 {Dizem que a frota de ouro espanhola, que transportava riquezas do Novo Mundo para Havana, foi atacada! Vários navios foram perdidos como resultado.}
+Attak_GoldFleet_t1 {O mar ficou totalmente perigoso! A frota de ouro espanhola foi atacada por piratas ou corsários ingleses, não tenho certeza... Mas que ousadia! Queria ver esses canalhas enforcados!}
+Attak_GoldFleet_t2 {Cada dia está pior que o anterior! Agora até a frota de ouro espanhola, trazendo as riquezas do Novo Mundo, foi atacada! O mundo está perdido! Ó Santa Mãe de Deus, ajuda-nos!}
+Init_GoldFleet_t0 {Circulam rumores de que a frota de ouro espanhola em Portobelo está se preparando para zarpar rumo a Havana. O embarque deve acontecer no início de #sgold_month#.}
+Init_GoldFleet_t1 {Dizem que está sendo carregado ouro e prata nos navios da frota dourada espanhola em Portobelo. Esse comboio partirá para Cuba na primeira metade de #sgold_month#.}
+Init_GoldFleet_t2 {O início de #sgold_month# é quando a frota de ouro espanhola deve partir para Cuba. Todo o ouro e prata já estará carregado a essa altura.}
+MerchantOnMapTo_t0 {Dizem que um navio chamado "#sShipName#" de #snation# vindo de #ssColony# está navegando para cá, carregado de #sQuestGoodsIdx#.}
+MerchantOnMapTo_t1 {Nosso comerciante local está aguardando a chegada do navio "#sShipName#" sob a bandeira de #snation#, vindo de #ssColony#, trazendo uma carga de #sQuestGoodsIdx#.}
+MerchantOnMapTo_t2 {Ouvi falar de um comerciante em um navio chamado "#sShipName#" sob a bandeira de #snation#, que está navegando com uma carga de #sQuestGoodsIdx# da colônia de #ssColony#.}
+MerchantOnMap_t0 {Dizem que um navio mercante chamado "#sShipName#" sob a bandeira de #snation# está esperando um bom vento em nosso porto para partir para #ssNextColony# com uma carga de #sQuestGoodsIdx#.}
+MerchantOnMap_t1 {Correm rumores de que um rico comerciante de #snation# fretou um navio chamado "#sShipName#". Em breve, ele partirá para #ssNextColony# com uma carga de #sQuestGoodsIdx#.}
+MerchantOnMap_t2 {Nosso comerciante local conseguiu um navio – "#sShipName#", com uma carga de #sQuestGoodsIdx# para #snation#, e partirá em breve para #ssNextColony#.}
+MerchantRumour_t0 {Ouvi rumores sobre um navio chamado "#sShipName#" sob a bandeira de #snation#, que partiu da colônia de #ssColony# para #ssNextColony# com uma carga de #sQuestGoodsIdx#, e foi afundado por um pirata desconhecido!}
+MerchantRumour_t1 {Dizem que o "#sShipName#" sob a bandeira de #snation#, que partiu de #ssColony# levando uma carga de #sQuestGoodsIdx# para #ssNextColony#, desapareceu completamente: tanto a tripulação quanto a carga sumiram!}
+MerchantRumour_t2 {Andam circulando rumores terríveis: dizem que um pirata abordou o "#sShipName#" de #snation#, vindo da colônia de #ssColony#. Depois de matar toda a tripulação, ele levou a carga de #sQuestGoodsIdx#. Não foi você, foi?}
+GetColonyPrices_t0 {Enquanto tomava uma caneca de cerveja, o quartermaster da East-Indies me contou os preços na loja de #sColony#.}
+GetColonyPrices_t1 {Um capitão de um navio mercante, que chegou recentemente de #sColony#, me contou os preços da loja local.}
+GetColonyPrices_t2 {Outro dia ouvi na taverna dois capitães conversando sobre os preços na loja de #sColony#.}
+WaitInTavern_t0 {Ouvi dizer que #sPsHero_Name# perdeu seu navio e agora afoga as mágoas em #sTown_Name#.}
+WaitInTavern_t1 {Ouvi um marinheiro bêbado, aquele que foi preso ontem por roubo, contar aos colegas que #sPsHero_Name# perdeu seu navio em um jogo de cartas, e que agora está esperando por um golpe de sorte na taverna de #sTown_Name#.}
+WaitInTavern_t2 {Os marinheiros na taverna comentam que #sPsHero_Name# não anda com muita sorte: uma patrulha afundou seu navio, e ele quase foi executado em #sTown_Name#.}
+WorkOnMayor_t0 {Hoje vi #sPsHero_Name# conversando com o nosso governador. Parece que ele conseguiu mais uma missão "interessante".}
+WorkOnMayor_t1 {Os moradores comentam sobre o novo protegido do governador – o capitão #sPsHero_Name# aparece com frequência na residência, fazendo tarefas menores e cuidando da filha de Sua Senhoria.}
+WorkOnMayor_t2 {A cozinheira me contou que a criada de Nosso Senhor disse a ela que #sPsHero_Name# tem laços próximos com o governador. Hoje, bem cedo, ele estava apressado para... algo na residência.}
+SailToIsland_t0 {#sPsHero_Name# disse que estava com pressa para #sTo# #sTown_Name#. Provavelmente para comprar algo.}
+SailToIsland_t1 {#sPsHero_Name# está partindo #sTo# #sTown_Name# a negócios. Ouvi isso de um marinheiro dele na taverna.}
+SailToIsland_t2 {Ontem #sPsHero_Name# ficou bêbado de cair na taverna, agarrou todas as moças e não parava de gritar sobre seus negócios em #sTo# #sTown_Name#.}
+WorkOnStore_t0 {Um marinheiro na taverna estava comentando que #sPsHero_Name# decidiu entregar uma carga de #sGood# para #sTown_Name#.}
+WorkOnStore_t1 {O braço direito do nosso comerciante me contou que #sPsHero_Name# aceitou o trabalho de entregar uma carga de #sGood# para uma loja em #sTown_Name#.}
+WorkOnStore_t2 {Nosso barman comentou que #sPsHero_Name# reuniu uma tripulação para partir para #sTown_Name# com uma carga de #sGood# da nossa loja local.}
+WorkWithContra_t0 {Vi #sPsHero_Name# conversando com uma figura sombria. Ouvi dizer que era um contrabandista.}
+WorkWithContra_t1 {Dizem que #sPsHero_Name# trouxe um navio inteiro carregado de contrabando. Talvez já tenha vendido, talvez ainda não...}
+WorkWithContra_t2 {Consegui ouvir uma conversa entre o contrabandista local e #sPsHero_Name#: eles combinaram de se encontrar em um lugar chamado #sContraPlace#.}
+DuelCoward_t0 {Que vergonha! #sName# não apareceu para o duelo! Agora todos dizem que ele é um covarde!}
+DuelCoward_t1 {Ha, #sName# não apareceu para o duelo desta vez! Acho que ele não vai fazer tanto sucesso com as mulheres agora...}
+DuelCoward_t2 {Você ouviu? #sName# não apareceu no duelo! Dizem que ele bebeu tanto ontem à noite que mal conseguia andar.}
+DuelHero_t0 {Você sabia que #sName# é um duelista notório? Ele já matou #sKill#. Eu não gostaria de cruzar o caminho dele...}
+DuelHero_t1 {Dizem que #sName# vendeu a alma ao Diabo, e é por isso que ele é um duelista invencível! As almas daqueles que ele matou — e ele já matou #sKill# — vão direto para o Inferno... Também dizem que, se ele parar sua matança, o Diabo levará a alma dele!}
+DuelHero_t2 {Esse novato #sName# é incrivelmente sortudo! Já matou #sKill# em duelos e ainda não levou um arranhão! Dá pra acreditar?}

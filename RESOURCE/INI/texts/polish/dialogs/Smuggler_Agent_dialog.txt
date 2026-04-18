@@ -1,0 +1,648 @@
+Smuggler_Agent_dialog_1 {
+W mieście ogłoszono alarm, wszędzie cię szukają! Na twoim miejscu nie zostawałbym tu dłużej.
+}
+Smuggler_Agent_dialog_2 {
+Cała straż miejska przeczesuje miasto w poszukiwaniu ciebie. Nie jestem idiotą i nie będę z tobą rozmawiać!
+}
+Smuggler_Agent_dialog_3_m {
+Uciekaj, przyjacielu, zanim żołnierze zrobią z ciebie sito...
+}
+Smuggler_Agent_dialog_3_f {
+Uciekaj, przyjaciółko, zanim żołnierze zrobią z ciebie sito...
+}
+Smuggler_Agent_dialog_4 {
+@<LinkRandPhrase>
+}
+Smuggler_Agent_dialog_5_m {
+Czego chcesz, łajdaku?! Straż miejska już jest na twoim tropie, daleko nie uciekniesz, brudny piracie!
+}
+Smuggler_Agent_dialog_5_f {
+Czego chcesz, łajdaczko?! Straż miejska już cię namierzyła, daleko nie uciekniesz
+}
+Smuggler_Agent_dialog_6_m {
+Brudny morderco, wynoś się stąd! Straż!
+}
+Smuggler_Agent_dialog_6_f {
+Brudna morderczyni, wynoś się stąd! Straż!
+}
+Smuggler_Agent_dialog_7_m {
+Nie boję się ciebie, łajdaku! Wkrótce cię powieszą, daleko nie uciekniesz...
+}
+Smuggler_Agent_dialog_7_f {
+Nie boję się ciebie, szmato! Wkrótce cię powieszą, daleko nie uciekniesz...
+}
+Smuggler_Agent_dialog_8 {
+@<LinkRandPhrase>
+}
+Smuggler_Agent_dialog_9 {
+Heh, alarm to dla mnie żaden problem...
+}
+Smuggler_Agent_dialog_10 {
+Mnie nigdy nie złapią.
+}
+Smuggler_Agent_dialog_11 {
+@<RandPhraseSimple>
+}
+Smuggler_Agent_dialog_12 {
+Zamknij tę swoją gębę, @<GetWorkTypeOfMan>, bo inaczej wyrwę ci ten parszywy język!
+}
+Smuggler_Agent_dialog_13 {
+Heh, @<GetWorkTypeOfMan>, a ty znowu na tych piratów polujesz! Powiem ci jedno, przyjacielu: siedź spokojnie, a pożyjesz...
+}
+Smuggler_Agent_dialog_14 {
+@<RandPhraseSimple>
+}
+Smuggler_Agent_dialog_15_m {
+Kapitanie, chciałbym porozmawiać z panem o pewnej sprawie. Widzę, że jest pan nowy na Archipelagu i Bractwo Wybrzeża jeszcze pana nie zna... Może właśnie pan jest tym, kogo szukamy.
+}
+Smuggler_Agent_dialog_15_f {
+Kapitanie, chciałbym porozmawiać z tobą o pewnej sprawie. Jak widzę, jesteś nową osobą na Archipelagu i Bractwo Wybrzeża jeszcze cię tu nie zna... Może właśnie ty jesteś tą, której potrzeba.
+}
+Smuggler_Agent_dialog_16 {
+Hm... Ciekawe. Proszę mówić, o co chodzi.
+}
+Smuggler_Agent_dialog_17 {
+Czego pan chce, kapitanie? Nie znam pańskiego imienia i nie mogę podać swojego.
+}
+Smuggler_Agent_dialog_18 {
+Jestem kapitanem @<GetFullName>.
+}
+Smuggler_Agent_dialog_19 {
+Dziś nie będzie żadnych transakcji. We wszystkich zatokach roi się od patroli, gubernator szuka ładunku, który kapitan patrolowca @<GetStrSmallRegister> @<pchar> rzekomo skonfiskował jakiemuś piratowi i ukrył.
+}
+Smuggler_Agent_dialog_20 {
+A gdzie jest sam kapitan @<pchar>?
+}
+Smuggler_Agent_dialog_21 {
+Dziś nie będzie żadnych transakcji.
+}
+Smuggler_Agent_dialog_22 {
+Rozumiem.
+}
+Smuggler_Agent_dialog_23 {
+Dziś nie będzie żadnych transakcji.
+}
+Smuggler_Agent_dialog_24 {
+Jasne.
+}
+Smuggler_Agent_dialog_25 {
+Co tym razem przywiozłeś, kapitanie?
+}
+Smuggler_Agent_dialog_26_m {
+Mów szybciej, przyjacielu, czego chcesz? Bo wiesz, pościg już za tobą!
+}
+Smuggler_Agent_dialog_26_f {
+Mów szybciej, przyjaciółko, czego chcesz? Bo wiesz, pościg za tobą!
+}
+Smuggler_Agent_dialog_27 {
+Nie zwlekaj, mów od razu, o co chodzi! Żołnierze depczą ci po piętach, nie czas na długie rozmowy, wiesz...
+}
+Smuggler_Agent_dialog_28 {
+@<RandPhraseSimple>
+}
+Smuggler_Agent_dialog_29_m {
+Przywiozłem trochę towarów na sprzedaż.
+}
+Smuggler_Agent_dialog_29_f {
+Przywiozłam trochę towarów na sprzedaż.
+}
+Smuggler_Agent_dialog_30 {
+Co do wyjazdu...
+}
+Smuggler_Agent_dialog_31 {
+Muszę się gdzieś dostać.
+}
+Smuggler_Agent_dialog_32 {
+Mam „specjalny” towar, myślę, że cię zaciekawi. Spójrz!
+}
+Smuggler_Agent_dialog_33 {
+Muszę coś wyjaśnić, przyjacielu.
+}
+Smuggler_Agent_dialog_34 {
+Twój kolega i mój dobry przyjaciel z @<XI_ConvertString> powiedział, że jesteś wtajemniczony w pewną sprawę.
+}
+Smuggler_Agent_dialog_35 {
+Słuchaj, pilnie potrzebuję ze stu, może dwóch setek niewolników. Już nawet nie wiem, do kogo się zwrócić.
+}
+Smuggler_Agent_dialog_36 {
+Mam 5000 piastrów, mów, co wiesz o „żywym towarze”.
+}
+Smuggler_Agent_dialog_37 {
+Nic. Do zobaczenia.
+}
+Smuggler_Agent_dialog_38 {
+Słuchaj, możesz powiedzieć, gdzie najlepiej opłaca się sprzedać partię „żywego towaru”?
+}
+Smuggler_Agent_dialog_39 {
+W piwnicy fortu, gdzież by indziej miał być?.. Kapitan w każdej chwili może wydać władzom miejsce, gdzie ukrył ładunek, a wtedy zostaniemy z niczym. Dlatego, dopóki ten cały zamęt się nie uspokoi, nawet nie myślcie o interesach.
+}
+Smuggler_Agent_dialog_40 {
+Słuchajcie, przecież znacie tu każdy kamień na wyspie. Naprawdę nie wiecie nic o kryjówce kapitana @<pchar>?
+}
+Smuggler_Agent_dialog_41 {
+Pewnie w niebie. Ostatnio został stracony razem z załogą. A w wyroku ani słowa, że statek był piracki.
+}
+Smuggler_Agent_dialog_42 {
+A dlaczego jesteś pewien, że statek należał do piratów?
+}
+Smuggler_Agent_dialog_43 {
+Obserwowaliśmy tamtą bitwę ze skały, aż zapadł zmrok. Przez lunetę wyraźnie było widać, że @<GetStrSmallRegister> płynął pod Czarnym Rogerem. A potem, po jakiś pięciu godzinach, zobaczyliśmy w ciemności tylko błysk, jakby eksplodowała prochownia. W tym czasie spokojnie można było wyładować towar na brzeg.
+}
+Smuggler_Agent_dialog_44 {
+A czy nie wiecie, gdzie jest skrytka kapitana @<pchar>? Przecież znacie tu każdy kamień na wyspie.
+}
+Smuggler_Agent_dialog_45 {
+Nie. My też go szukamy, ale nie po to, żeby sprawić radość gubernatorowi...
+}
+Smuggler_Agent_dialog_46 {
+Rozumiem... No cóż, powodzenia.
+}
+Smuggler_Agent_dialog_47 {
+Nie. My też go szukamy, ale nie po to, żeby ucieszyć gubernatora, hehe...
+}
+Smuggler_Agent_dialog_48 {
+Rozumiem... No cóż, powodzenia.
+}
+Smuggler_Agent_dialog_49_m {
+Dlaczego tak sądzisz? Jestem uczciwym kabotażowcem. Poszukaj sobie innego kupca.
+}
+Smuggler_Agent_dialog_49_f {
+Dlaczego tak sądzisz? Jestem uczciwym kabotażowcem. Poszukaj sobie innego kupca.
+}
+Smuggler_Agent_dialog_50 {
+Dzięki i za to...
+}
+Smuggler_Agent_dialog_51 {
+Jak to powiedzieć? Może twój „towar” się jeszcze przyda. Weź @<FindMoneyString> i zapomnij o sprawie.
+}
+Smuggler_Agent_dialog_52 {
+Chyba nie.
+}
+Smuggler_Agent_dialog_53 {
+Tak, zgadłeś, już zaczynam zapominać!
+}
+Smuggler_Agent_dialog_54 {
+Dokładnie! Teraz to już nie jestem tylko ciekawy. Myślę, że jeśli dam ci @<FindMoneyString>, to i ty przestaniesz się interesować, co jest w tych papierach.
+}
+Smuggler_Agent_dialog_55 {
+Chyba nie.
+}
+Smuggler_Agent_dialog_56 {
+Tak, zgadłeś, już zaczynam zapominać!
+}
+Smuggler_Agent_dialog_57_m {
+To świetna okazja, żeby przywołać tego zuchwalca do porządku! To naprawdę, naprawdę intrygujące. Proponuję tak: ja płacę ci @<FindMoneyString>, a ty udajesz, że zapomniałeś dokumentów na stole?
+}
+Smuggler_Agent_dialog_57_f {
+To świetna okazja, żeby przywołać tego zuchwalca do porządku! To naprawdę, naprawdę intrygujące. Proponuję tak: ja płacę ci @<FindMoneyString>, a ty udajesz, że zapomniałaś dokumentów na stole?
+}
+Smuggler_Agent_dialog_58 {
+Chyba nie.
+}
+Smuggler_Agent_dialog_59 {
+Tak, masz rację, już zaczynam zapominać!
+}
+Smuggler_Agent_dialog_60 {
+No, no, uważaj, żeby nie narobić sobie wrogów.
+}
+Smuggler_Agent_dialog_61 {
+I ty też się rozglądaj!
+}
+Smuggler_Agent_dialog_62 {
+Dziś nie będzie żadnych transakcji. We wszystkich zatokach roi się od patroli, gubernator szuka ładunku, który kapitan patrolowca @<GetStrSmallRegister> @<pchar> rzekomo skonfiskował jakiemuś piratowi i ukrył.
+}
+Smuggler_Agent_dialog_63 {
+A gdzie jest sam kapitan @<pchar>?
+}
+Smuggler_Agent_dialog_64 {
+Dziś nie będzie żadnych transakcji.
+}
+Smuggler_Agent_dialog_65 {
+Rozumiem.
+}
+Smuggler_Agent_dialog_66 {
+Dziś nie będzie żadnych transakcji.
+}
+Smuggler_Agent_dialog_67 {
+Rozumiem.
+}
+Smuggler_Agent_dialog_68 {
+Czym mogę służyć, kapitanie?
+}
+Smuggler_Agent_dialog_69 {
+Chcę coś sprzedać.
+}
+Smuggler_Agent_dialog_70 {
+Muszę się gdzieś dostać.
+}
+Smuggler_Agent_dialog_71 {
+Muszę coś wyjaśnić, przyjacielu.
+}
+Smuggler_Agent_dialog_72 {
+Twój kolega i mój dobry przyjaciel z @<XI_ConvertString> powiedział, że jesteś wtajemniczony w pewną sprawę.
+}
+Smuggler_Agent_dialog_73 {
+Słuchaj, pilnie potrzebuję ze stu, może dwóch setek niewolników. Już sam nie wiem, do kogo się zwrócić.
+}
+Smuggler_Agent_dialog_74 {
+Niczym. Powodzenia!
+}
+Smuggler_Agent_dialog_75 {
+Coś duże jest teraz zapotrzebowanie na niewolników. Zwykle w takich sprawach zwracają się bezpośrednio do kompanii handlowych. Albo do innych, konkretnych miejsc...
+}
+Smuggler_Agent_dialog_76 {
+Nie ma tam żadnych niewolników, a ja mam pilną sprawę. Czasu już prawie nie zostało.
+}
+Smuggler_Agent_dialog_77 {
+Najpierw, przyjacielu, dokończ to, co zacząłeś. Potem o tym porozmawiamy.
+}
+Smuggler_Agent_dialog_78 {
+Zrozumiałem.
+}
+Smuggler_Agent_dialog_79 {
+Niech mnie diabli, jeśli nie wiem, kto jest twoim zleceniodawcą! Ten cwaniak dostanie swoją partię z porządną marżą, jeśli postanowił ze mnie drwić.
+}
+Smuggler_Agent_dialog_80 {
+Nie wiem, o kim mówisz. Mój kupiec czeka na mnie na innej wyspie, dlatego się śpieszę, póki wiatr sprzyja.
+}
+Smuggler_Agent_dialog_81 {
+Ilu potrzebujesz niewolników?
+}
+Smuggler_Agent_dialog_82 {
+Potrzebuję 100 niewolników. Dobrze zapłacę!
+}
+Smuggler_Agent_dialog_83 {
+To będzie cię kosztować 30 000 piastrów, po 300 za każdego niewolnika. Masz tyle?
+}
+Smuggler_Agent_dialog_84 {
+Umowa stoi.
+}
+Smuggler_Agent_dialog_85 {
+Dobrze. Przyjdź z pieniędzmi do miejsca o nazwie @<XI_ConvertString>, tam pogadamy...
+}
+Smuggler_Agent_dialog_86 {
+Dobrze, będę. Tylko nie próbuj mnie zwodzić – nie mam czasu na gierki.
+}
+Smuggler_Agent_dialog_87 {
+Nie jestem twoim przyjacielem. A dowiedzenie się pewnych rzeczy może cię słono kosztować.
+}
+Smuggler_Agent_dialog_88 {
+Hm. Muszę się dowiedzieć czegoś, co nie jest warte więcej niż @<FindMoneyString>.
+}
+Smuggler_Agent_dialog_89 {
+Dawaj tu swoje pieniądze. I pamiętaj, za taką sumę niewiele się dowiesz.
+}
+Smuggler_Agent_dialog_90_m {
+Nie potrzebuję wiele. Wiesz, rozminąłem się tu z przyjaciółmi. Spóźniłem się na spotkanie, a oni nie czekali...
+}
+Smuggler_Agent_dialog_90_f {
+Nie potrzebuję wiele. Wiesz, rozminęłam się tutaj z przyjaciółmi. Spóźniłam się na spotkanie, a oni nie czekali...
+}
+Smuggler_Agent_dialog_91 {
+Heh, przecież ty nawet nie masz pieniędzy! Wróć, jak się wzbogacisz...
+}
+Smuggler_Agent_dialog_92 {
+Dokładnie.
+}
+Smuggler_Agent_dialog_93 {
+A co ja mam z tym wspólnego?
+}
+Smuggler_Agent_dialog_94_m {
+W mieście ich nie ma, własnego statku też nie mieli. Pomyślałem więc, może któryś z twoich wspólników wyświadczył im jakąś przysługę?..
+}
+Smuggler_Agent_dialog_94_f {
+W mieście ich nie ma, własnego statku też nie mieli. Pomyślałam więc, może któryś z twoich wspólników wyświadczył im jakąś przysługę?..
+}
+Smuggler_Agent_dialog_95 {
+A więc o to chodzi... Tak, było coś takiego. Przyszli ludzie, powiedzieli, że muszą natychmiast odpłynąć, i nie ma znaczenia dokąd. W takich sytuacjach nie pytamy o powody, byleby zapłacili odpowiednią cenę. Akurat mieliśmy kurs do @<XI_ConvertString>, który znajduje się na @<XI_ConvertString>, tam właśnie się załadowali. Możemy zabrać i ciebie, jeśli dogadamy się co do ceny.
+}
+Smuggler_Agent_dialog_96 {
+Dziękuję, płynę pod własnymi żaglami.
+}
+Smuggler_Agent_dialog_97 {
+Z tobą nie miałem jeszcze żadnych spraw.
+}
+Smuggler_Agent_dialog_98_m {
+Cóż, to kwestia czasu. Niedawno przywiozłeś tu moich przyjaciół, z którymi się minąłem.
+}
+Smuggler_Agent_dialog_98_f {
+Cóż, to kwestia czasu. Niedawno przywiozłeś tu moich przyjaciół, z którymi się minęłam.
+}
+Smuggler_Agent_dialog_99 {
+Hm, wysadziliśmy ich na @<XI_ConvertString>... Wiesz, lepiej żeby naprawdę byli twoimi przyjaciółmi, bo inaczej nie radziłbym ich niepokoić.
+}
+Smuggler_Agent_dialog_100_m {
+Dziękuję za troskę, ale jestem uzbrojony i wyjątkowo czarujący.
+}
+Smuggler_Agent_dialog_100_f {
+Dziękuję za troskę, ale jestem uzbrojona i bardzo czarująca.
+}
+Smuggler_Agent_dialog_101 {
+Hm... A co ja mam z tym wspólnego? Chyba pomyliliście drzwi, kapitanie. Proszę iść do sklepu – tam z chęcią kupią to, co przywieźliście.
+}
+Smuggler_Agent_dialog_102 {
+Obawiam się, że to właśnie pana potrzebuję.
+}
+Smuggler_Agent_dialog_103 {
+Dziękuję za radę. Wszystkiego dobrego.
+}
+Smuggler_Agent_dialog_104 {
+Po co?
+}
+Smuggler_Agent_dialog_105 {
+Chcę sprzedać coś, czego żaden kupiec na tej wyspie nie kupi.
+}
+Smuggler_Agent_dialog_106 {
+Najpierw pozbądź się swojej eskadry. Zbyt łatwo was zauważyć. Nie możemy tak ryzykować. Przyjdź jednym okrętem, nie większym niż bryg lub galeon.
+}
+Smuggler_Agent_dialog_107 {
+Czy wyraziłem się niejasno? Powtarzam – żadnej eskadry!
+}
+Smuggler_Agent_dialog_108_m {
+Ty jesteś głupi? Mówię ci: jeden statek, nie dwa, nie trzy, tylko jeden! Teraz rozumiesz?
+}
+Smuggler_Agent_dialog_108_f {
+Ty głupia jesteś? Mówię ci: jeden, tylko jeden statek, nie dwa, nie trzy, a jeden! Teraz zrozumiałaś?
+}
+Smuggler_Agent_dialog_109_m {
+Och, jak to możliwe, że tacy głupcy chodzą po świecie...
+}
+Smuggler_Agent_dialog_109_f {
+Och, jak tacy głupcy mogą chodzić po ziemi...
+}
+Smuggler_Agent_dialog_110_m {
+Dobrze, zrozumiałem cię. Jeden na jednego.
+}
+Smuggler_Agent_dialog_110_f {
+Dobrze, zrozumiałam cię. Jeden to jeden.
+}
+Smuggler_Agent_dialog_111_m {
+Wszystko jasne, chciałem tylko dopytać.
+}
+Smuggler_Agent_dialog_111_f {
+Wszystko jasne, chciałam tylko dopytać.
+}
+Smuggler_Agent_dialog_112_m {
+Nie, nie głupi, tylko bardzo chciwy. Pomyślał, że może coś się zmieniło i można od razu przyjść całą eskadrą...
+}
+Smuggler_Agent_dialog_112_f {
+Nie, nie jest głupia, tylko bardzo chciwa. Pomyślała, że może coś się zmieniło i można od razu przyjść całą eskadrą...
+}
+Smuggler_Agent_dialog_113 {
+No przecież widzisz — jakoś go nosi...
+}
+Smuggler_Agent_dialog_114_m {
+Jeszcze tylko brakowało, żebyś tu przypłynął królewskim okrętem liniowym. Twój statek widać z fortu na milę. Nie będziemy ryzykować własnym życiem. Przyjdź mniejszym okrętem, i to tylko jednym.
+}
+Smuggler_Agent_dialog_114_f {
+Jeszcze tylko brakuje, żebyś przypłynęła tu królewskim okrętem liniowym. Twój statek widać z fortu na milę. Nie będziemy ryzykować własnym życiem. Przyjdź mniejszym okrętem, i tylko jednym.
+}
+Smuggler_Agent_dialog_115 {
+Mówię niewyraźnie? Znajdź sobie mniejszy statek, wtedy pogadamy.
+}
+Smuggler_Agent_dialog_116 {
+Ty jesteś głupi, czy tylko udajesz? Mówię ci przecież – znajdź sobie szkuner, no w ostateczności bryg, inaczej do transakcji nie dojdzie.
+}
+Smuggler_Agent_dialog_117_m {
+Och, jak to możliwe, że tacy głupcy chodzą po świecie...
+}
+Smuggler_Agent_dialog_117_f {
+O rany, jak tacy głupcy mogą chodzić po świecie...
+}
+Smuggler_Agent_dialog_118_m {
+Dobrze, zrozumiałem cię. Przyjdę później, jak tylko zmienię statek.
+}
+Smuggler_Agent_dialog_118_f {
+Dobrze, zrozumiałam cię. Przyjdę później, jak tylko zmienię statek.
+}
+Smuggler_Agent_dialog_119_m {
+Wszystko jasne, chciałem tylko dopytać.
+}
+Smuggler_Agent_dialog_119_f {
+Wszystko jasne, chciałam tylko dopytać.
+}
+Smuggler_Agent_dialog_120_m {
+Nie, nie głupiec, po prostu skąpiec. Pomyślałem, że może coś się zmieniło. Wziąłbym ze sobą jeszcze parę pinasów...
+}
+Smuggler_Agent_dialog_120_f {
+Nie, nie głupia, tylko chciwa. Pomyślałam, że może coś się zmieniło. Wzięłabym ze sobą jeszcze parę pinasów...
+}
+Smuggler_Agent_dialog_121 {
+No przecież widzisz – jakoś go nosi...
+}
+Smuggler_Agent_dialog_122_m {
+Wybacz, chłopcze, mamy już swoje sprawy. Wpadnij za kilka dni.
+}
+Smuggler_Agent_dialog_122_f {
+Wybacz, dziewczyno, mamy już coś do zrobienia. Wpadnij za kilka dni.
+}
+Smuggler_Agent_dialog_123 {
+Szkoda...
+}
+Smuggler_Agent_dialog_124 {
+Może warto najpierw dokończyć jedną sprawę, zanim zabierzesz się za następną?
+}
+Smuggler_Agent_dialog_125 {
+Chyba masz rację.
+}
+Smuggler_Agent_dialog_126 {
+Wiem, że można z tobą robić interesy. Będziemy czekać na ciebie w miejscu zwanym @<GetConvertStr>.
+}
+Smuggler_Agent_dialog_127 {
+Hm... Być może znajdzie się kupiec. Będziemy czekać na was w miejscu zwanym @<GetConvertStr>.
+}
+Smuggler_Agent_dialog_128 {
+Dobrze. Do zobaczenia.
+}
+Smuggler_Agent_dialog_129 {
+Dziś nie będzie już żadnych transakcji. Przyjdź jutro.
+}
+Smuggler_Agent_dialog_130 {
+Dobrze.
+}
+Smuggler_Agent_dialog_131 {
+I po tym wszystkim myślisz, że ktoś jeszcze będzie chciał z tobą pracować? Ciesz się, że jeszcze nie wysłaliśmy za tobą najemnych zabójców. Wynoś się!
+}
+Smuggler_Agent_dialog_132 {
+Ech... czyli nie jest mi pisane zostać przemytnikiem.
+}
+Smuggler_Agent_dialog_133 {
+Dziś nie będzie już żadnych transakcji. Przyjdź jutro.
+}
+Smuggler_Agent_dialog_134 {
+Dobrze.
+}
+Smuggler_Agent_dialog_135_m {
+Wybacz, chłopcze, mamy już swoje sprawy. Wpadnij za kilka dni.
+}
+Smuggler_Agent_dialog_135_f {
+Wybacz, dziewczyno, mamy już swoje sprawy. Wpadnij za kilka dni.
+}
+Smuggler_Agent_dialog_136 {
+Szkoda...
+}
+Smuggler_Agent_dialog_137 {
+Zdaje się, że już się umówiliśmy?
+}
+Smuggler_Agent_dialog_138 {
+Tak, dokładnie!
+}
+Smuggler_Agent_dialog_139_m {
+Przyniosłeś pieniądze?
+}
+Smuggler_Agent_dialog_139_f {
+Przyniosłaś pieniądze?
+}
+Smuggler_Agent_dialog_140 {
+Tak.
+}
+Smuggler_Agent_dialog_141_m {
+Zmieniłem zdanie...
+}
+Smuggler_Agent_dialog_141_f {
+Zmieniłam zdanie...
+}
+Smuggler_Agent_dialog_142 {
+Jeszcze nie.
+}
+Smuggler_Agent_dialog_143 {
+Już ci wszystko powiedziałem.
+}
+Smuggler_Agent_dialog_144 {
+Dokładnie.
+}
+Smuggler_Agent_dialog_145_m {
+Zmieniłem zdanie...
+}
+Smuggler_Agent_dialog_145_f {
+Zmieniłam zdanie...
+}
+Smuggler_Agent_dialog_146 {
+Dziś nie mogę ci pomóc. Przyjdź za kilka dni, może wtedy coś się znajdzie.
+}
+Smuggler_Agent_dialog_147 {
+Szkoda.
+}
+Smuggler_Agent_dialog_148 {
+No dobrze, możemy cię zabrać do miejsca @<GetConvertStr> niedaleko @<XI_ConvertString> za @<FindMoneyString>. Przynieś pieniądze w ciągu @<FindDaysString>. Statek będzie czekał na ciebie w miejscu zwanym @<GetConvertStr> dokładnie przez jeden dzień.
+}
+Smuggler_Agent_dialog_149 {
+Dobrze, pasuje mi to.
+}
+Smuggler_Agent_dialog_150 {
+Nie, dziękuję.
+}
+Smuggler_Agent_dialog_151 {
+Dziś nie mogę ci pomóc. Przyjdź za kilka dni, może wtedy coś się znajdzie.
+}
+Smuggler_Agent_dialog_152 {
+Szkoda.
+}
+Smuggler_Agent_dialog_153 {
+I po tym wszystkim myślisz, że ktoś jeszcze będzie chciał z tobą pracować? Ciesz się, że jeszcze nie wysłaliśmy za tobą płatnych zabójców. Wynoś się!
+}
+Smuggler_Agent_dialog_154 {
+Ech... czyli nie było nam pisane.
+}
+Smuggler_Agent_dialog_155 {
+Nie, nie zabierzemy was. Tylko jedną osobę.
+}
+Smuggler_Agent_dialog_156 {
+@<RandSwear> I nie trzeba!
+}
+Smuggler_Agent_dialog_157 {
+A po co ci własny statek? Nie, tym się nie zajmujemy.
+}
+Smuggler_Agent_dialog_158 {
+Widać, nie było nam pisane...
+}
+Smuggler_Agent_dialog_159 {
+No cóż, jak wolisz...
+}
+Smuggler_Agent_dialog_160 {
+Miło robić z tobą interesy. Statek czeka, nie spóźnij się.
+}
+Smuggler_Agent_dialog_161 {
+Postaram się.
+}
+Smuggler_Agent_dialog_162 {
+Wygląda na to, że masz kłopoty z gotówką.
+}
+Smuggler_Agent_dialog_163 {
+Szkoda, przyjdę później.
+}
+Smuggler_Agent_dialog_164 {
+Mój stary przyjaciel, Snakeman Young, dawniej pirat, prowadzi tawernę na Martynice, w Le François. Szuka pirackiego kapitana, mało znanego w Bractwie Wybrzeża.\nMa jakieś zadanie. Obiecałem pomóc mu w poszukiwaniach takiego kapitana. Proponuję więc, żebyście udali się na Martynikę i porozmawiali z moim przyjacielem. Z tego, co go znam, na pewno nie wyjdziecie na tym stratni.
+}
+Smuggler_Agent_dialog_165 {
+A o co za interes mu chodzi? Nie wiesz?
+}
+Smuggler_Agent_dialog_166 {
+Nie. Wiem tylko, że do tego zadania potrzebni są niezależni kapitanowie bez państwowego patentu... Myślę, że sam rozumiesz dlaczego.\nW ostatnim czasie Snakeman stał się bardzo skryty. Zwróć się do niego — sam wszystko dokładnie ci wyjaśni.
+}
+Smuggler_Agent_dialog_167 {
+Dobrze, na pewno do niego zajrzę.
+}
+Smuggler_Agent_dialog_168_m {
+Hm... Wie pan, mam już wystarczająco własnych problemów, żeby jeszcze zajmować się cudzymi. Płynąć na Martynikę, nawet nie wiedząc, czego dokładnie pański przyjaciel ode mnie chce? Przepraszam, to nie dla mnie.
+}
+Smuggler_Agent_dialog_168_f {
+Hm... Wie pan, mam sama zbyt wiele własnych problemów, żeby jeszcze zajmować się cudzymi. Płynąć na Martynikę, nawet nie wiedząc, czego dokładnie pański przyjaciel ode mnie chce? Przepraszam, to nie dla mnie.
+}
+Smuggler_Agent_dialog_169 {
+Tylko proszę nie zwlekać z wizytą, kapitanie.
+}
+Smuggler_Agent_dialog_170 {
+Tak, oczywiście. Zaintrygowała mnie twoja propozycja. Wszystkiego dobrego i powodzenia!
+}
+Smuggler_Agent_dialog_171 {
+W takim razie zapomnijmy o tej rozmowie. Żegnajcie.
+}
+Smuggler_Agent_dialog_172 {
+Wszystkiego dobrego.
+}
+Smuggler_Agent_dialog_173 {
+No nieźle... Jeśli się opłaca, to prosto do miejsca przeznaczenia.
+}
+Smuggler_Agent_dialog_174 {
+Do sklepu?
+}
+Smuggler_Agent_dialog_175 {
+Do więzienia?
+}
+Smuggler_Agent_dialog_176 {
+Panu?
+}
+Smuggler_Agent_dialog_177 {
+Na służbę u Davy’ego Jonesa?
+}
+Smuggler_Agent_dialog_178 {
+No, wiesz... Powiem prościej – zwróć się do szefów manufaktur. Tam każda para rąk się liczy, hehe.
+}
+Smuggler_Agent_dialog_179 {
+A który dokładnie możesz polecić?
+}
+Smuggler_Agent_dialog_180_m {
+Ej, nie... Darmowe rady się skończyły, szanowny. Dawaj drobniaka na rękę... Na kreskę nie udzielamy.
+}
+Smuggler_Agent_dialog_180_f {
+Ej, nie... Darmowe rady się skończyły, szanowna. Dawaj drobniaka na rękę... Na kreskę nie ma.
+}
+Smuggler_Agent_dialog_181 {
+Nie mam takiej kwoty, jeszcze tu wrócę.
+}
+Smuggler_Agent_dialog_182 {
+Nie trzeba, poradzimy sobie bez was
+}
+Smuggler_Agent_dialog_183 {
+Trzymaj swoje 5000 piastrów — miejmy nadzieję, że są tego warte.
+}
+Smuggler_Agent_dialog_184 {
+Z plantacji na Barbadosie niedawno uciekło wielu niewolników, jeśli wierzyć plotkom. A do Orange Lavas lepiej się nie zbliżaj, na wszelki wypadek.
+}
+Smuggler_Agent_dialog_185 {
+Tam ciągle to zawalenia w kopalniach — robota stoi, to znowu katorżnicy padają jak muchy od samej pracy — tylko sprowadzaj nowe dusze na zatracenie. Przeklęte miejsce, niech je diabli.
+}
+Smuggler_Agent_dialog_186 {
+Właśnie takiego miejsca potrzebuję... Dziękuję!
+}

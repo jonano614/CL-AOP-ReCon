@@ -1,0 +1,459 @@
+Nobleman_1_m {
+Ora, veja só! Como é que a guarda permite que esses canalhas andem livremente pela nossa cidade? Inacreditável...
+}
+Nobleman_1_f {
+Ora, veja só! Como é que a guarda permite que esses canalhas andem livremente pela nossa cidade? Inacreditável...
+}
+Nobleman_2_m {
+Cai fora, nem quero falar com você! Carrasco...
+}
+Nobleman_2_f {
+Cai fora, nem quero falar com você! Maldito condenado...
+}
+Nobleman_3 {
+Estou te dando uma última chance para ir embora. Depois disso, não diga que eu não avisei.
+}
+Nobleman_4_m {
+Eu te avisei. Agora vai pagar pela sua insolência, canalha!
+}
+Nobleman_4_f {
+Eu avisei. Agora você vai pagar pela sua insolência, seu canalha!
+}
+Nobleman_5 {
+Ora, ora, senhor, mostre um pouco mais de respeito!
+}
+Nobleman_6 {
+Olhe para você, seu tolo hipócrita...
+}
+Nobleman_7 {
+Não faça barulho...
+}
+Nobleman_8 {
+O quê?!
+}
+Nobleman_9 {
+Saudações, @<GetAddress_Form>. Vejo que você é o capitão de um belo navio. Tenho um pedido para lhe fazer — ou talvez uma proposta, se preferir...
+}
+Nobleman_10 {
+Estou ouvindo, @<GetAddress_FormToNPC>. Sobre o que gostaria de conversar?
+}
+Nobleman_11 {
+Desculpe, @<GetAddress_FormToNPC>, mas estou com muita pressa.
+}
+Nobleman_12 {
+, de nobre para nobre
+}
+Nobleman_13 {
+Ah, que bom ver uma pessoa decente nesse fim de mundo! Aposto que você não saiu da Europa há muito tempo. Olha, gostaria de te pedir um favor@<sTemp>. Espero que você me entenda bem.
+}
+Nobleman_14 {
+Bom dia, senhor. Estou ouvindo atentamente.
+}
+Nobleman_15 {
+Bom dia, @<GetAddress_Form>! É um prazer encontrar um membro da nobreza pelas ruas da nossa cidade! Posso tomar alguns minutos do seu precioso tempo?
+}
+Nobleman_16 {
+Claro, senhor. Estou ouvindo atentamente.
+}
+Nobleman_17 {
+Saudações, capitão! Fico feliz em vê-lo, pois parece alguém que poderia me ajudar com um certo assunto.
+}
+Nobleman_18 {
+Muito interessante. E em que exatamente vai consistir a minha ajuda, @<GetAddress_FormToNPC>?
+}
+Nobleman_19 {
+Olá, @<GetAddress_Form>. Você precisava de algo de mim?
+}
+Nobleman_20_m {
+O que posso fazer pelo senhor?
+}
+Nobleman_20_f {
+Em que posso ajudar, senhora?
+}
+Nobleman_21 {
+@<RandPhraseSimple>
+}
+Nobleman_22 {
+@<TimeGreeting>, @<GetAddress_FormToNPC>. Não vou tomar muito do seu tempo, só quero lhe perguntar uma coisa...
+}
+Nobleman_23 {
+Preciso de informações sobre o que está acontecendo na sua colônia.
+}
+Nobleman_24 {
+Preciso de informações.
+}
+Nobleman_25 {
+@<RandPhraseSimple>
+}
+Nobleman_26 {
+Deve ter imaginado, vou indo.
+}
+Nobleman_27_m {
+Não, nada — só estou indo para a taverna.
+}
+Nobleman_27_f {
+Não, não é nada — eu só estava indo para a taverna.
+}
+Nobleman_28 {
+@<RandPhraseSimple>
+}
+Nobleman_29 {
+Tudo bem, deixa pra lá. Boa sorte!
+}
+Nobleman_30 {
+Só estou dando uma olhada na cidade. Até logo.
+}
+Nobleman_31 {
+@<RandPhraseSimple>
+}
+Nobleman_32 {
+O quê? De novo? Não tenho tempo para você. Vá procurar outra pessoa para conversar. Tem muitos desocupados vagando pelas ruas por aqui.
+}
+Nobleman_33 {
+Não, isso está começando a ficar cansativo! Você não entende da primeira vez?
+}
+Nobleman_34_m {
+Senhor, começo a suspeitar que o senhor não é um tolo, mas sim um grosseiro sem educação. Aviso: não procure encrenca!
+}
+Nobleman_34_f {
+Senhora, começo a suspeitar que está sendo bastante rude. Aviso: não procure encrenca!
+}
+Nobleman_35_m {
+Muito bem, chega. Agora vou te dar uma lição, seu insolente!
+}
+Nobleman_35_f {
+Certo, chega. Agora vou te dar uma lição, seu moleque atrevido!
+}
+Nobleman_36 {
+Entendido. Tudo de bom.
+}
+Nobleman_37_m {
+Sim, sim, eu me lembro, só esqueci de perguntar uma coisa...
+}
+Nobleman_37_f {
+Sim, sim, eu me lembro, só esqueci de perguntar uma coisa...
+}
+Nobleman_38 {
+Você me entendeu errado...
+}
+Nobleman_39 {
+O quê?!
+}
+Nobleman_40 {
+Então, diga logo.
+}
+Nobleman_41 {
+Tá bom, o que você quer?
+}
+Nobleman_42 {
+Estamos fazendo perguntas? Tudo bem, capitão, estou ouvindo.
+}
+Nobleman_43 {
+@<LinkRandPhrase>
+}
+Nobleman_44 {
+Você poderia compartilhar as últimas notícias da sua cidade?
+}
+Nobleman_45 {
+Você poderia me dizer, por favor, o que tem acontecido ultimamente? Algo interessante?
+}
+Nobleman_46 {
+Alguma novidade interessante acontecendo pelo arquipélago, senhor? Está por dentro de algo?
+}
+Nobleman_47 {
+@<LinkRandPhrase>
+}
+Nobleman_48_m {
+Senhor, preciso chegar com urgência à colônia em @<XI_ConvertString>, em @<XI_ConvertString>, dentro de @<FindDaysString>. Seu navio parece confiável, ao contrário da maioria das embarcações por aqui. Estou disposto a pagar @<FindMoneyString> pela viagem. O que me diz?
+}
+Nobleman_48_f {
+Senhora, preciso urgentemente chegar à colônia de @<XI_ConvertString>, em @<XI_ConvertString>, dentro de @<FindDaysString>. Seu navio parece resistente o bastante, diferente da maioria das embarcações por aqui. Estou disposto a pagar @<FindMoneyString> pela passagem. O que me diz?
+}
+Nobleman_49_m {
+Hmm. Parece que estamos indo para o mesmo lugar, então estou disposto a levar você a bordo nessas condições.
+}
+Nobleman_49_f {
+Hmm. Estamos indo para o mesmo lado, então estou disposto a levar você a bordo nessas condições.
+}
+Nobleman_50 {
+Sinto muito, @<GetAddress_FormToNPC>, mas estou indo para um caminho totalmente diferente. Não posso ajudar você.
+}
+Nobleman_51 {
+Que pena. Então vou esperar por outro navio. Adeus!
+}
+Nobleman_52 {
+Tudo de bom.
+}
+Nobleman_53 {
+Muito bem, eu já estava cansando de esperar. Você receberá seu pagamento quando chegarmos.
+}
+Nobleman_54 {
+Vá para o meu navio, @<GetAddress_FormToNPC>. Partiremos em breve.
+}
+Nobleman_55 {
+@<XI_ConvertString>, aquele em @<XI_ConvertString>.
+}
+Nobleman_56_m {
+Aqui estamos, excelente! Viajar no seu navio me caiu muito bem. Obrigado. Aqui está o seu pagamento, senhor.
+}
+Nobleman_56_f {
+Aqui estamos, excelente! Viajar no seu navio me caiu muito bem. Obrigada. Aqui está o seu pagamento, senhora.
+}
+Nobleman_57 {
+Boa sorte, @<GetAddress_FormToNPC>! Tudo de bom.
+}
+Nobleman_58 {
+É o seguinte, é um assunto delicado... @<sTemp> Eu preciso de dinheiro com urgência, agora mesmo, senão—vai ser um desastre. Eu jamais teria vindo até você com esse pedido se não fosse uma situação desesperadora.
+}
+Nobleman_59 {
+De quanto dinheiro você precisa exatamente?
+}
+Nobleman_60 {
+Não é muito, só @<FindMoneyString>. Então, vai ajudar?
+}
+Nobleman_61 {
+Sem problema. Aqui está.
+}
+Nobleman_62_m {
+Eu ajudaria, mas estou completamente sem dinheiro agora — não tenho nem uma moeda de oito sobrando no bolso.
+}
+Nobleman_62_f {
+Eu até ajudaria, mas estou completamente sem dinheiro agora — não tenho nem uma moeda comigo.
+}
+Nobleman_63 {
+Meus sinceros agradecimentos a você, @<GetAddress_Form>! Você realmente me salvou! Tenho amigos no palácio do governador e farei questão de mencionar seu gesto nobre quando tiver oportunidade. Muito obrigado novamente!
+}
+Nobleman_64_m {
+Não foi nada, senhor. Tenho certeza de que faria o mesmo no meu lugar.
+}
+Nobleman_64_f {
+Não foi nada, senhor. Tenho certeza de que faria o mesmo no meu lugar.
+}
+Nobleman_65 {
+, e de origem nobre
+}
+Nobleman_66 {
+Gostaria de pedir sua ajuda. Como alguém de posses@<sTemp>, acredito que você vai entender minha situação. Há algum tempo, precisei urgentemente de dinheiro e tive que penhorar algo com o agiota local @<pchar>\nEle ofereceu condições favoráveis—apenas dez por cento ao mês, por três meses. Mas o prazo já passou e, por algumas circunstâncias infelizes, ainda não consegui juntar o dinheiro para recuperar meu bem.\nAgora ele diz que há um comprador interessado em @<XI_ConvertString>, e que vai vender minha posse a menos que eu quite imediatamente tanto os juros quanto o valor principal. Mas simplesmente não tenho o suficiente agora—minha relíquia é muito valiosa...
+}
+Nobleman_67 {
+E como posso ajudar você nessa situação, @<GetAddress_FormToNPC>?
+}
+Nobleman_68 {
+Eu te imploro—fale com o nosso agiota. Prometa algum dinheiro, seja minha garantia, faça o que for preciso. Infelizmente, não tenho mais a quem recorrer—todos os meus conhecidos 'de repente' ficaram sem dinheiro. Em três meses, @<pchar>, eu te devolvo o dobro do que gastar. Dou minha palavra de honra!
+}
+Nobleman_69 {
+Certo, vou tentar ajudar você, dadas as circunstâncias.
+}
+Nobleman_70 {
+Infelizmente, estou sem dinheiro no momento. Então, não posso te ajudar, infelizmente!
+}
+Nobleman_71 {
+Obrigado por entender. Estarei esperando por você na taverna. Venha logo!
+}
+Nobleman_72 {
+O que me diz, @<GetAddress_Form>? Já foi ao agiota? Vai me deixar feliz ou não?
+}
+Nobleman_73_m {
+Sim, fui eu. Paguei três meses de juros e o valor do seu item raro. Você pode ir buscá-lo.
+}
+Nobleman_73_f {
+Sim, fui eu. Paguei três meses de juros e o valor pelo seu item raro. Você pode ir buscá-lo.
+}
+Nobleman_74_m {
+Sim, fui eu. Paguei os juros dos últimos três meses e adiantei os próximos três. Então você pode esperar pelo dinheiro sem preocupação. O principal é quitar a dívida principal em no máximo três meses a partir de agora.
+}
+Nobleman_74_f {
+Sim, paguei. Quitei os juros dos últimos três meses e adiantei os próximos três. Então você pode esperar pelo dinheiro sem preocupação. O principal é quitar a dívida principal em, no máximo, três meses a partir de agora.
+}
+Nobleman_75_m {
+Sim, fui eu. Paguei os juros dos últimos três meses. O agiota concordou em esperar mais três, até você juntar a quantia necessária.
+}
+Nobleman_75_f {
+Sim, paguei. Quitei os juros dos últimos três meses. O agiota concordou em esperar mais três meses enquanto você reúne a quantia necessária.
+}
+Nobleman_76 {
+O que me diz, @<GetAddress_Form>? Já foi ao agiota? Tem boas notícias para me dar, ou não?
+}
+Nobleman_77_m {
+Sim, fui eu. Aquele avarento pediu uma quantia absurda! Não cedeu de jeito nenhum, e eu não tenho esse dinheiro todo. Então, infelizmente, não pude te ajudar!
+}
+Nobleman_77_f {
+Sim, eu fui. Aquele avarento pediu uma quantia absurda! Não cedeu de jeito nenhum, e eu não tenho esse dinheiro todo. Então, infelizmente, não pude te ajudar!
+}
+Nobleman_78 {
+O que me diz, @<GetAddress_Form>? Já foi ao penhorista? Tem boas notícias para mim ou não?
+}
+Nobleman_79 {
+Ainda estou trabalhando nisso, espere um pouco.
+}
+Nobleman_80 {
+Ah, @<GetAddress_Form>... Então agora você viu de perto a ganância insaciável desses malditos agiotas sanguessugas. Lembre-se disso quando for pegar dinheiro com eles — não caia na mesma armadilha que eu. Obrigado por se importar o bastante para pelo menos tentar...
+}
+Nobleman_81_m {
+Nunca gostei de agiotas. Mas, afinal, quem gosta? Sinto muito que tenha terminado assim, @<GetAddress_FormToNPC>. Adeus.
+}
+Nobleman_81_f {
+Nunca gostei de agiotas. Mas, afinal, quem gosta? Sinto muito que tenha terminado assim, @<GetAddress_FormToNPC>. Adeus.
+}
+Nobleman_82 {
+Incrível! Você realmente me salvou, @<GetAddress_Form>! Nunca vou esquecer isso. Fique tranquilo — suas despesas serão reembolsadas, como prometi — em dobro. Daqui a três meses, procure nosso agiota — abrirei um depósito em seu nome — então retire seu dinheiro.
+}
+Nobleman_83 {
+Certo, vamos fazer isso. Tudo de bom!
+}
+Nobleman_84 {
+Muito obrigado mais uma vez, capitão! Boa sorte!
+}
+Nobleman_85 {
+do meu posto comercial
+}
+Nobleman_86 {
+na minha mina
+}
+Nobleman_87 {
+minha plantação
+}
+Nobleman_88 {
+Estou sempre precisando de escravos para trabalhar em @<LinkRandPhrase>. No momento, preciso de @<FindPeoplesString>. Quero encomendar esse lote de escravos com você. Pago bem, @<sti> pepitas de ouro por cabeça.\nNão há muita pressa, então não vou exigir um prazo apertado. Claro, desde que você não demore mais de meio ano. Então, temos um acordo?
+}
+Nobleman_89 {
+Fechado! É um negócio complicado, mas vale a pena.
+}
+Nobleman_90 {
+Desculpe, mas eu não negocio escravos. Esse não é o meu ramo.
+}
+Nobleman_91 {
+Muito bem. Estarei esperando por você com as mercadorias. Você pode me encontrar na igreja da cidade todos os dias, das onze à uma. No restante do tempo, estou fora ou ocupado.
+}
+Nobleman_92 {
+Certo. Vou me lembrar disso. Até mais, @<GetAddress_FormToNPC>.
+}
+Nobleman_93 {
+Você trouxe o @<FindSlavesWithCaseString>, como pedi, capitão?
+}
+Nobleman_94_m {
+Sim. Tenho toda a carga no meu porão. Estou pronto para entregá-la a você.
+}
+Nobleman_94_f {
+Sim. Tenho toda a carga no meu porão. Estou pronto para entregá-la a você.
+}
+Nobleman_95 {
+Não. Ainda estou trabalhando nisso.
+}
+Nobleman_96 {
+Capitão, se você veio por causa dos escravos — já comprei o suficiente e não preciso de mais por enquanto. Você demorou demais para trazê-los até mim.
+}
+Nobleman_97_m {
+Ah, que pena! Mas você tem razão — eu prolonguei isso por tempo demais. Adeus!
+}
+Nobleman_97_f {
+Ah, que pena! Mas você tem razão — eu prolonguei isso demais. Adeus!
+}
+Nobleman_98 {
+Excelente! Vou mandar buscar uma barca para eles imediatamente.
+}
+Nobleman_99 {
+E o meu pagamento?
+}
+Nobleman_100 {
+Não se preocupe, não me esqueci. Aqui, pegue o valor combinado — @<sti> pepitas por escravo.
+}
+Nobleman_101 {
+Obrigado, senhor. É um prazer fazer negócios com você!
+}
+Nobleman_102 {
+Claro... Agora, se me dá licença, o dever me chama. Até logo!
+}
+Nobleman_103 {
+Adeus, @<GetAddress_FormToNPC>.
+}
+Nobleman_104 {
+Perdi no carteado ontem e estou um pouco sem dinheiro para pagar minha dívida. Você poderia me ajudar?
+}
+Nobleman_105 {
+Ontem me diverti muito com uma... moça, e agora ela está tentando me chantagear. Preciso pagar o que ela quer, depois resolvo com ela pessoalmente... Você pode me emprestar um pouco de dinheiro?
+}
+Nobleman_106 {
+Outro dia mesmo, atravessei um idiota com minha espada, e agora o comandante quer um suborno para abafar o caso. Estou um pouco sem dinheiro. Você pode me ajudar?
+}
+Nobleman_107 {
+Tive o azar de perder uma aposta e agora estou sem algumas poucas moedas para pagar minha dívida de honra. Você poderia me ajudar?
+}
+Nobleman_108 {
+Um canalha descobriu meu envolvimento em um certo assunto delicado com uma dama... Enfim, estou só com algumas moedas de ouro a menos para comprar o silêncio dele.
+}
+Nobleman_109 {
+Um canalha roubou alguns documentos importantes da minha casa e está exigindo uma quantia alta para devolvê-los. Já consegui quase tudo o que ele pediu, mas ainda falta um pouco. Você poderia me ajudar?
+}
+Nobleman_110 {
+os pingentes de diamante da minha mãe, feitos por um ourives de Madrid
+}
+Nobleman_111 {
+Vou reivindicar a herança que é meu direito
+}
+Nobleman_112 {
+meu navio vai voltar de sua viagem às costas da África, trazendo uma carga de escravos
+}
+Nobleman_113 {
+@<RandPhraseSimple>
+}
+Nobleman_114 {
+o colar de esmeraldas da minha irmã feito por um joalheiro parisiense
+}
+Nobleman_115 {
+Vou reivindicar meu direito de herdar o condado na Europa
+}
+Nobleman_116 {
+meu navio vai voltar de sua viagem às costas da Índia, carregado de especiarias
+}
+Nobleman_117 {
+@<RandPhraseSimple>
+}
+Nobleman_118 {
+um anel de sinete da família com nosso brasão, passado de pai para filho
+}
+Nobleman_119 {
+minha expedição retorna das profundezas de Main com pepitas de ouro
+}
+Nobleman_120 {
+Vou reivindicar a herança que é meu direito
+}
+Nobleman_121 {
+@<RandPhraseSimple>
+}
+Nobleman_122 {
+pulseira da esposa com rubis e diamantes, presente da mãe dela
+}
+Nobleman_123 {
+Vou receber minha parte com juros de um banco europeu
+}
+Nobleman_124 {
+Vou lucrar com a especulação que está acontecendo agora
+}
+Nobleman_125 {
+@<RandPhraseSimple>
+}
+Nobleman_126 {
+um colar de ouro e diamantes, feito à mão, orgulho da minha esposa
+}
+Nobleman_127 {
+Vou lucrar com essa especulação em andamento.
+}
+Nobleman_128 {
+meu navio voltará de sua viagem às costas da África, carregado de escravos
+}
+Nobleman_129 {
+@<RandPhraseSimple>
+}
+Nobleman_130 {
+uma bengala de marfim com pedras preciosas, presente do meu avô
+}
+Nobleman_131 {
+meu navio vai voltar de sua viagem às costas da Índia, carregado de especiarias
+}
+Nobleman_132 {
+Vou recuperar minha parte com juros de um banco europeu
+}
+Nobleman_133 {
+@<RandPhraseSimple>
+}

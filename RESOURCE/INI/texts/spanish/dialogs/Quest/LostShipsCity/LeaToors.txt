@@ -1,0 +1,639 @@
+LeaToors_1 {
+Bienvenido, @<GetAddress_Form>, a mi casa. Puedes quedarte aquí hasta que pase la tormenta. Mi nombre es @<GetFullName>.
+}
+LeaToors_2 {
+Saludos, mijnheer. Mi nombre es @<GetFullName>.
+}
+LeaToors_3 {
+Y yo soy el capitán @<GetFullName>. ¿Esperar a que pase la tormenta, dices?
+}
+LeaToors_4 {
+Bienvenido, @<GetAddress_Form>, a mi casa. Mi nombre es @<GetFullName>.
+}
+LeaToors_5 {
+Saludos, @<GetAddress_Form>. Mi nombre es @<GetFullName>.
+}
+LeaToors_6_m {
+Y yo soy el capitán @<GetFullName>. Aunque, para ser sincero, debería decir ex capitán...
+}
+LeaToors_6_f {
+Y yo soy el capitán @<GetFullName>. Aunque, para ser sincero, debería decir ex capitán...
+}
+LeaToors_7 {
+¿Puedo ayudarte en algo, @<GetAddress_Form>?
+}
+LeaToors_8 {
+Sabes, estoy buscando a alguien. ¿Podrías ayudarme?
+}
+LeaToors_9_m {
+Quería hacerte una pregunta.
+}
+LeaToors_9_f {
+Quería hacerte una pregunta.
+}
+LeaToors_10 {
+¿Tienes alguna historia interesante para contarme?
+}
+LeaToors_11 {
+¿Qué hay de nuevo en el pueblo?
+}
+LeaToors_12_m {
+Ah, me encantaría escuchar los últimos chismes...
+}
+LeaToors_12_f {
+Ah, me encantaría escuchar los últimos chismes...
+}
+LeaToors_13 {
+@<LinkRandPhrase>
+}
+LeaToors_14_m {
+Leah, escuché que sabes algo sobre un tal Layton Dexter...
+}
+LeaToors_14_f {
+Lea, escuché que sabes algo sobre un tal Layton Dexter...
+}
+LeaToors_15 {
+¡No tienes idea de lo codicioso y egoísta que es realmente Erik Jost!
+}
+LeaToors_16 {
+Escucha, estoy buscando algunas mercancías.
+}
+LeaToors_17 {
+Estoy aquí por la metralla.
+}
+LeaToors_18 {
+¿Sabes por qué nos han reunido? ¡Tengo tantas cosas que hacer en casa! Todavía tengo que salar el pescado...
+}
+LeaToors_19 {
+Sabes, estoy reuniendo una tripulación para salir de aquí. Te ofrezco la oportunidad de venir conmigo al continente.
+}
+LeaToors_20 {
+Nada...
+}
+LeaToors_21 {
+Sí, puedes quedarte aquí todo el tiempo que necesites. La ley establece que todo propietario en la Ciudad debe ofrecer refugio a quienes lo necesiten cuando el clima se vuelve adverso. Y ahora mismo, ese es precisamente el caso.
+}
+LeaToors_22 {
+Sí, eso es evidente... Bueno, muchas gracias.
+}
+LeaToors_23 {
+Entiendo que no es fácil perderlo todo. ¡Pero sobreviviste!
+}
+LeaToors_24 {
+Sí, sí, por supuesto...
+}
+LeaToors_25 {
+Escucha, no deberías perder la esperanza. Te sugiero que te integres a nuestra vida lo antes posible; las cosas aquí no son tan malas como pueden parecer al principio.
+}
+LeaToors_26 {
+Gracias por tu apoyo.
+}
+LeaToors_27_m {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+LeaToors_27_f {
+¡Eres un ladrón! ¡Estás violando la ley de la ciudad!
+}
+LeaToors_28_m {
+¡Vaya, mira eso! Me distraje un instante y te lanzaste de cabeza al cofre. ¡Él rompió la ley!
+}
+LeaToors_28_f {
+¡Vaya, mira eso! Apenas aparté la vista un segundo y ya te lanzaste de cabeza al cofre. ¡Ella rompió la ley!
+}
+LeaToors_29_m {
+¡Milicia! ¡Robo! ¡Deténganlo, está violando la ley!
+}
+LeaToors_29_f {
+¡Milicia! ¡Robo! ¡Deténganla, ha quebrantado la ley!
+}
+LeaToors_30 {
+@<LinkRandPhrase>
+}
+LeaToors_31 {
+¡A-ay, maldición!
+}
+LeaToors_32 {
+¡Ah, así que eso es lo que haces! ¿Te dio por hurgar en los cofres, eh? ¡Ahora la gente del pueblo y la guardia te van a destrozar como a un trapo viejo!
+}
+LeaToors_33 {
+¡Qué tonta es!..
+}
+LeaToors_34_m {
+Oye, mejor guarda tu arma. Me estás poniendo un poco nervioso...
+}
+LeaToors_34_f {
+Escucha, quizá deberías guardar tu arma. Me estás poniendo un poco nervioso...
+}
+LeaToors_35 {
+Mira, por aquí no andamos blandiendo espadas. Guarda tu arma.
+}
+LeaToors_36_m {
+Oye, ¿por qué andas corriendo como uno de los Tres Mosqueteros, blandiendo la espada? Guarda tu arma, eso no le queda bien a un hombre serio...
+}
+LeaToors_36_f {
+Oye, ¿por qué andas corriendo como uno de los Tres Mosqueteros, blandiendo tu espada? Guarda esa arma, eso no le queda bien a una dama...
+}
+LeaToors_37 {
+@<LinkRandPhrase>
+}
+LeaToors_38 {
+De acuerdo.
+}
+LeaToors_39 {
+De acuerdo.
+}
+LeaToors_40 {
+Como usted diga...
+}
+LeaToors_41 {
+@<LinkRandPhrase>
+}
+LeaToors_42_m {
+Escucha, como ciudadano de esta ciudad, te pido que no andes por aquí con la espada desenvainada.
+}
+LeaToors_42_f {
+Sabes, como ciudadano de esta ciudad, te pido que no andes por aquí con el arma desenvainada.
+}
+LeaToors_43 {
+De acuerdo.
+}
+LeaToors_44 {
+De acuerdo.
+}
+LeaToors_45 {
+Como usted diga...
+}
+LeaToors_46 {
+@<LinkRandPhrase>
+}
+LeaToors_47_m {
+Ten cuidado al doblar las esquinas cuando corres con un arma en la mano. Podría ponerme algo nervioso…
+}
+LeaToors_47_f {
+No me gusta que la gente pase frente a mí con las armas preparadas. Me asusta…
+}
+LeaToors_48_m {
+Entendido.
+}
+LeaToors_48_f {
+Entendido.
+}
+LeaToors_49 {
+Lo estoy guardando.
+}
+LeaToors_50 {
+@<RandPhraseSimple>
+}
+LeaToors_51 {
+Por supuesto, estaré encantado de ayudarte si puedo. Entonces, ¿a quién buscas?
+}
+LeaToors_52 {
+Lo siento, pero no tengo idea de quién hablas. Para poder ayudarte, necesito un nombre y apellido.
+}
+LeaToors_53 {
+Hmm. Déjame intentar nombrarlos de nuevo.
+}
+LeaToors_54_m {
+Gracias, pero prefiero buscar yo mismo.
+}
+LeaToors_54_f {
+Gracias, pero prefiero buscarlo yo mismo.
+}
+LeaToors_55 {
+Hmm, disculpe, pero creo que me está buscando. Soy yo.
+}
+LeaToors_56 {
+¡Vaya, mira eso!
+}
+LeaToors_57 {
+@<GetFullName>, ¿te refieres a él?
+}
+LeaToors_58 {
+Ese es.
+}
+LeaToors_59 {
+No, no el suyo.
+}
+LeaToors_60 {
+@<GetFullName>, ¿hablabas de ella?
+}
+LeaToors_61 {
+Exactamente, ese es.
+}
+LeaToors_62 {
+No, no sobre ella. ¿Quizás intente ponerle otro nombre?
+}
+LeaToors_63_m {
+Sabes, te estoy muy agradecida, pero ya no quiero preguntar por nadie más.
+}
+LeaToors_63_f {
+Sabes, te estoy muy agradecida, pero ya no quiero preguntar por nadie más.
+}
+LeaToors_64 {
+Entonces tendrás que dar tu nombre y apellido una vez más.
+}
+LeaToors_65 {
+No tengo idea de dónde está.
+}
+LeaToors_66 {
+No tengo la menor idea de dónde está ahora.
+}
+LeaToors_67 {
+Hace bastante que no lo veo. Así que no sabría decir.
+}
+LeaToors_68 {
+@<LinkRandPhrase>
+}
+LeaToors_69 {
+Entendido.
+}
+LeaToors_70 {
+Ya veo... Bueno, gracias.
+}
+LeaToors_71 {
+@<RandPhraseSimple>
+}
+LeaToors_72 {
+No tengo idea de dónde está.
+}
+LeaToors_73 {
+No tengo la menor idea de dónde está ahora.
+}
+LeaToors_74 {
+Hace bastante que no la veo. Así que no sabría decirte.
+}
+LeaToors_75 {
+@<LinkRandPhrase>
+}
+LeaToors_76 {
+Entendido.
+}
+LeaToors_77 {
+Ya veo... Bueno, gracias.
+}
+LeaToors_78 {
+@<RandPhraseSimple>
+}
+LeaToors_79 {
+Está aquí, en este barco. Por favor, fíjate mejor.
+}
+LeaToors_80 {
+Hmm, pero ahora mismo está en ese barco...
+}
+LeaToors_81 {
+Está en este barco; es curioso que aún no se hayan conocido.
+}
+LeaToors_82 {
+@<LinkRandPhrase>
+}
+LeaToors_83 {
+Lo vi hace poco, @<npchar>.
+}
+LeaToors_84 {
+Sabes, lo vi hace poco en @<npchar>. Así que búscalo allí.
+}
+LeaToors_85 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+LeaToors_86 {
+@<LinkRandPhrase>
+}
+LeaToors_87_m {
+Lo siento, pero él está justo aquí, @<npchar>. Debes prestar atención.
+}
+LeaToors_87_f {
+Lo siento, pero está justo aquí, @<npchar>. Debes prestar más atención.
+}
+LeaToors_88 {
+Hmm, ¡él está aquí, entre nosotros!
+}
+LeaToors_89 {
+Si hubieras mirado con más atención, seguro que ya lo habrías visto...
+}
+LeaToors_90 {
+@<LinkRandPhrase>
+}
+LeaToors_91 {
+Lo vi hace poco, @<npchar>.
+}
+LeaToors_92 {
+Lo conocí hace poco en @<npchar>. Así que podrás encontrarlo allí.
+}
+LeaToors_93 {
+Hasta donde sé, ahora mismo está en @<npchar>.
+}
+LeaToors_94 {
+@<LinkRandPhrase>
+}
+LeaToors_95 {
+Ah, ya veo. ¡Gracias!
+}
+LeaToors_96 {
+Muchas gracias.
+}
+LeaToors_97 {
+@<RandPhraseSimple>
+}
+LeaToors_98 {
+Ella está aquí, en este barco. Por favor, fíjate mejor.
+}
+LeaToors_99 {
+Hmm, pero ahora mismo está en este barco...
+}
+LeaToors_100 {
+Está en este barco; es curioso que aún no se hayan conocido.
+}
+LeaToors_101 {
+@<LinkRandPhrase>
+}
+LeaToors_102 {
+La vi hace poco, @<npchar>.
+}
+LeaToors_103 {
+Sabes, la vi hace poco en @<npchar>. Así que búscala allí.
+}
+LeaToors_104 {
+Hasta donde sé, ella está ahora en @<npchar>.
+}
+LeaToors_105 {
+@<LinkRandPhrase>
+}
+LeaToors_106_m {
+Lo siento, pero ella está justo aquí, @<npchar>. Debes prestar atención.
+}
+LeaToors_106_f {
+Lo siento, pero ella está justo aquí, @<npchar>. Debes prestar atención.
+}
+LeaToors_107 {
+¡Hmm, ella está aquí, entre nosotros!
+}
+LeaToors_108 {
+Si hubieras prestado más atención, seguro que ya la habrías visto...
+}
+LeaToors_109 {
+@<LinkRandPhrase>
+}
+LeaToors_110 {
+La vi hace poco, @<npchar>.
+}
+LeaToors_111 {
+La conocí hace poco en @<npchar>. Así que podrás verla allí.
+}
+LeaToors_112 {
+Hasta donde sé, ella está ahora en @<npchar>.
+}
+LeaToors_113 {
+@<LinkRandPhrase>
+}
+LeaToors_114 {
+Ah, ya veo. ¡Gracias!
+}
+LeaToors_115 {
+Muchas gracias.
+}
+LeaToors_116 {
+@<RandPhraseSimple>
+}
+LeaToors_117 {
+Te escucho atentamente.
+}
+LeaToors_118 {
+¿Y qué te parece ser la dueña de esta casa?
+}
+LeaToors_119 {
+Dime, ¿has vivido aquí mucho tiempo?
+}
+LeaToors_120 {
+No tengo preguntas para ti, lo siento.
+}
+LeaToors_121 {
+Todo está bien, ¿sabes? Lo tengo todo bajo control; mi casa es mi fortaleza.
+}
+LeaToors_122 {
+Eso está muy bien.
+}
+LeaToors_123 {
+Y ni se te ocurra quedarte con algo mío—¡tengo buen ojo para esas cosas!
+}
+LeaToors_124 {
+¡Ni pensarlo!
+}
+LeaToors_125 {
+No, solo alrededor de un año.
+}
+LeaToors_126 {
+Ya veo... Dime, ¿conoces a algún anciano local que haya vivido aquí desde hace mucho tiempo?
+}
+LeaToors_127 {
+Lo sabía. Ese es Hill Brynner.
+}
+LeaToors_128 {
+Je, lo sé. El problema es que está muerto...
+}
+LeaToors_129 {
+¡Sí, una historia terrible! Y además, totalmente desconcertante.
+}
+LeaToors_130 {
+Así es... Bueno, te deseo lo mejor, Lea.
+}
+LeaToors_131 {
+¿Y cómo puedo ayudarte?
+}
+LeaToors_132 {
+Ya has preguntado eso.
+}
+LeaToors_133 {
+Ya lo pregunté...
+}
+LeaToors_134 {
+Ya me preguntaste por esas mercancías. ¡No sé nada!
+}
+LeaToors_135 {
+Busco balas de cañón, bombas, metralla, balas encadenadas, provisiones, medicinas...
+}
+LeaToors_136_m {
+Sí... Perdón, se me pasó.
+}
+LeaToors_136_f {
+Sí... Perdón, lo olvidé.
+}
+LeaToors_137 {
+Ah, claro.
+}
+LeaToors_138_m {
+Entendido, entendido...
+}
+LeaToors_138_f {
+Entendido, entendido...
+}
+LeaToors_139 {
+Tengo metralla en mi barco. ¿Cuánta necesitas?
+}
+LeaToors_140 {
+5 quintales serán más que suficientes.
+}
+LeaToors_141 {
+De acuerdo, te lo daré. Pero primero, tráeme 10 sacos de sal.
+}
+LeaToors_142 {
+¿Qué?
+}
+LeaToors_143 {
+Quiero que me traigas 10 sacos de sal. ¿Qué es lo difícil de entender? Entonces te daré la metralla.
+}
+LeaToors_144 {
+Está bien, tendrás tu sal.
+}
+LeaToors_145 {
+¿Me trajiste las diez bolsas?
+}
+LeaToors_146_m {
+Sí, los tengo y estoy listo para entregártelos.
+}
+LeaToors_146_f {
+Sí, los tengo y estoy listo para entregártelos.
+}
+LeaToors_147 {
+Todavía no, no lo encuentro. ¿Quizás podamos llegar a otro acuerdo?
+}
+LeaToors_148 {
+¡Ni lo sueñes!
+}
+LeaToors_149 {
+Hmm, ya veo...
+}
+LeaToors_150 {
+¡Excelente! Entonces, puedes llevarte tu metralla.
+}
+LeaToors_151 {
+Gracias. Ah, si tan solo pudiera llevarla al 'San Gabriel'...
+}
+LeaToors_152 {
+Hmm... Bueno, te hice dar muchas vueltas, así que ahora te ayudaré. Yo mismo me encargaré de tu pasaje en el 'San Gabriel'; por suerte, conozco a varios hombres que pueden ayudar...
+}
+LeaToors_153 {
+¡Excelente! Ni siquiera sé cómo agradecerte.
+}
+LeaToors_154 {
+Vamos, no hace falta eso. Todo está bien.
+}
+LeaToors_155 {
+Todo lo mejor.
+}
+LeaToors_156 {
+¡Vaya!.. ¿Hablas en serio?
+}
+LeaToors_157 {
+De ninguna manera.
+}
+LeaToors_158 {
+Sabes, estoy bastante cansado de todo esto. Así que si dices la verdad, cuéntame conmigo.
+}
+LeaToors_159 {
+Has tomado la decisión correcta, te lo aseguro.
+}
+LeaToors_160 {
+Eso espero de verdad. ¿Y ahora qué hago?
+}
+LeaToors_161 {
+Dirígete al 'San Gabriel'. Malcolm Fawn te llevará a mi barco. ¡Y no tardes!
+}
+LeaToors_162 {
+De acuerdo, estaré en el San Gabriel pronto.
+}
+LeaToors_163 {
+Por favor, date prisa...
+}
+LeaToors_164 {
+Hmm, ¿y por qué lo preguntas?
+}
+LeaToors_165 {
+Bueno, ¿cómo decirlo?.. Simplemente sentí curiosidad.
+}
+LeaToors_166 {
+Permítame señalar que sus intereses lo están llevando por un camino bastante peligroso...
+}
+LeaToors_167 {
+¿Y eso qué se supone que significa?
+}
+LeaToors_168 {
+Si deseas desafiar al almirante, me temo que correrás la misma suerte que el pobre Layton.
+}
+LeaToors_169 {
+Entonces, ¿quién es? Y, de todos modos, ¿qué le pasó?
+}
+LeaToors_170 {
+¿Estás seguro de que quieres saberlo?
+}
+LeaToors_171 {
+Por supuesto.
+}
+LeaToors_172 {
+Está bien, te lo contaré. Seguramente ya sabes que Dexter era un pirata, igual que Chad Capper, de hecho. Al principio, los dos corsarios no se llevaban muy bien. Pero cuando Chad se convirtió en almirante, no hubo señales de conflicto. Se llevaban perfectamente. El almirante incluso puso a Layton a cargo del ‘Tartarus’. Espero que sepas que esa es nuestra prisión.
+}
+LeaToors_173 {
+Hmm... Supongo que sí. ¿Y luego?
+}
+LeaToors_174 {
+Pero entonces algo se interpuso entre ellos. Una vez, fui a visitar a Maxim Taylor, que había terminado tras las rejas una vez más. Ya era tarde y, bueno, al final me quedé allí hasta la medianoche.\nAsí que, cuando salí a la cubierta, escuché dos voces: Chad y Leighton. Parecían estar discutiendo sobre dinero...
+}
+LeaToors_175 {
+Ajá... ¿Y qué pasó después?
+}
+LeaToors_176 {
+Entonces la discusión se interrumpió por un gran alboroto... No soy tonto, así que me escabullí silenciosamente del Tartarus. Eso es todo lo que sé, pero desde entonces, nadie ha visto a Layton Dexter.
+}
+LeaToors_177 {
+¿Crees que pelearon?
+}
+LeaToors_178 {
+No lo sé, pero ciertamente lo parece.
+}
+LeaToors_179 {
+Ya veo... ¿Se lo has contado a alguien más?
+}
+LeaToors_180 {
+No. Todos saben que el almirante no es de bromear. Nadie se atrevió a preguntarle directamente...
+}
+LeaToors_181 {
+Entiendo. Necesito pensarlo todo. Y gracias por tu sinceridad, Lea.
+}
+LeaToors_182 {
+¿Por qué dices eso?
+}
+LeaToors_183 {
+Ya hemos hablado de esto.
+}
+LeaToors_184 {
+Esto ya se ha hablado, me estoy repitiendo.
+}
+LeaToors_185 {
+¡Basta, detente!..
+}
+LeaToors_186 {
+¡Al hecho de que subió el precio del mapa de la Ciudad de forma escandalosa, imagínate!
+}
+LeaToors_187_m {
+Sí... Perdón, se me pasó.
+}
+LeaToors_187_f {
+Sí... Perdón, lo olvidé.
+}
+LeaToors_188 {
+Exactamente...
+}
+LeaToors_189 {
+De acuerdo, entonces...
+}
+LeaToors_190 {
+Lo siento, prefiero no chismear ni involucrarme en conflictos. Que le vaya bien.
+}
+LeaToors_191 {
+Ya veo...
+}
+LeaToors_192 {
+¡Dios mío, capitán, qué alegría verlo! ¡Dígame que ese canalla de Chad Capper recibió lo que merecía! Si no es así, ¡estoy lista para disparar una andanada de metralla contra su casa yo misma!
+}
+LeaToors_193 {
+Lea, cálmate. El almirante ya no le hará daño a nadie. Y en cuanto a tu metralla, será mejor guardarla por si aparecen piratas sueltos. Ven, te llevarán al barco.
+}

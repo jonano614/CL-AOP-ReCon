@@ -1,0 +1,144 @@
+Sailor_1 {
+Seien Sie gegrüßt, @<GetAddress_Form>. Wie ich gehört habe, sind Sie Kapitän Ihres eigenen Schiffs. Ich habe ein Geschäftsangebot für Sie.
+}
+Sailor_2 {
+Ich höre aufmerksam zu, @<GetAddress_FormToNPC>. Worum geht es?
+}
+Sailor_3 {
+Tut mir leid, @<GetAddress_FormToNPC>, aber ich habe es wirklich eilig.
+}
+Sailor_4 {
+Seid gegrüßt, Captain! Womit habe ich als einfacher Seemann diese Ehre verdient?
+}
+Sailor_5_m {
+Guten Tag, mein Herr. Wie kann ich Ihnen behilflich sein?
+}
+Sailor_5_f {
+Guten Tag, gnädige Frau. Wie kann ich Ihnen behilflich sein?
+}
+Sailor_6_m {
+Guten Tag, mein Herr. Brauchen Sie etwas?
+}
+Sailor_6_f {
+Guten Tag, gnädige Frau. Brauchen Sie etwas?
+}
+Sailor_7 {
+@<LinkRandPhrase>
+}
+Sailor_8 {
+Freut mich, Sie kennenzulernen, mein Herr! Mein Name ist @<GetFullName>. Hätten Sie einen Moment Zeit für ein Gespräch?
+}
+Sailor_9 {
+Ich habe eine Frage an dich.
+}
+Sailor_10 {
+Ich brauche Informationen darüber, was in dieser Kolonie vor sich geht.
+}
+Sailor_11 {
+@<RandPhraseSimple>
+}
+Sailor_12_m {
+Wollte nur kurz Hallo sagen. Leb wohl!
+}
+Sailor_12_f {
+Wollte nur kurz Hallo sagen. Leb wohl!
+}
+Sailor_13_m {
+Sind Sie es schon wieder, mein Herr? Möchten Sie noch etwas?
+}
+Sailor_13_f {
+Sind Sie es schon wieder, gnädige Frau? Wollten Sie noch etwas?
+}
+Sailor_14 {
+Hast du kurz Zeit, um über dies und das zu reden?
+}
+Sailor_15 {
+Ich habe eine Frage an dich.
+}
+Sailor_16 {
+Ich brauche Informationen darüber, was in dieser Kolonie vor sich geht.
+}
+Sailor_17 {
+@<RandPhraseSimple>
+}
+Sailor_18 {
+Nein, mein Freund, nichts. Viel Glück!
+}
+Sailor_19_m {
+@<GetFullName> zu Ihren Diensten, mein Freund! Was möchten Sie wissen?
+}
+Sailor_19_f {
+@<GetFullName> zu Ihren Diensten, meine Liebe! Was möchten Sie wissen?
+}
+Sailor_20 {
+Freut mich, mit Ihnen zu sprechen, Captain!
+}
+Sailor_21 {
+Nun, ich schätze, ich habe noch etwas Zeit...
+}
+Sailor_22 {
+Leider muss ich gehen. Alles Gute!
+}
+Sailor_23 {
+Möchtest du etwas Interessantes erzählen?
+}
+Sailor_24 {
+Möchtest du etwas Interessantes erzählen?
+}
+Sailor_25 {
+Möchtest du etwas Interessantes erzählen?
+}
+Sailor_26 {
+Ja, natürlich. Viel Glück!
+}
+Sailor_27 {
+Ein paar Freunde und ich wurden nach einer Verwundung an Land gesetzt. Jetzt sind wir wieder genesen und suchen eine neue Anstellung als Matrosen. Hätten Sie Interesse, uns in Ihre Mannschaft aufzunehmen?
+}
+Sailor_28 {
+Einige von uns wurden kürzlich von einem Handelsschiff an Land gesetzt – unser Vertrag mit dem Eigner ist abgelaufen. Wir sitzen hier seit Tagen fest und suchen nach einer Anstellung als Matrosen. Könnten Sie vielleicht erfahrene Seeleute für Ihre Mannschaft gebrauchen?
+}
+Sailor_29 {
+Meine Freunde und ich sind vor zwei Wochen von einer Reise zurückgekehrt, der Eigner hat uns ausgezahlt, und wir haben die letzten Tage in vollen Zügen genossen. Aber jetzt pfeift der Wind durch die Taschen eines Seemanns – das heißt, es wird Zeit, wieder aufs Meer zu gehen. Würden Sie uns für Ihr Schiff anheuern, Kapitän?
+}
+Sailor_30_m {
+In Ordnung, ich bin bereit, mir dein Angebot anzuhören. Wie viele seid ihr, und welche Fähigkeiten habt ihr an Bord eines Schiffs?
+}
+Sailor_30_f {
+Gut, dann bin ich bereit, mir dein Angebot anzuhören. Wie viele Leute hast du in deiner Mannschaft, und welche Fähigkeiten gibt es an Bord deines Schiffs?
+}
+Sailor_31 {
+Tut mir leid, Seemann, aber meine Mannschaft ist bereits voll. Du musst dir einen anderen Kapitän suchen.
+}
+Sailor_32 {
+Aber vor allem kennen wir uns mit Segeln und Takelage aus. Falsche Bescheidenheit gibt es bei uns nicht: Wir sind erfahren darin und lassen dich nicht im Stich, selbst im heftigsten Sturm!
+}
+Sailor_33 {
+Am meisten lieben wir jedoch das Geschützdeck. Wir bedienen die Kanonen besser als jeder andere in deiner Mannschaft, das versichere ich dir. Im Gefecht kannst du dich voll und ganz auf uns verlassen!
+}
+Sailor_34 {
+Doch unser eigentliches Element ist der Entermkampf. Das Aufblitzen der Säbel, der Geruch von Pulver und Blut – das ist unsere Bestimmung. Uns im Gefecht gegenüberzutreten, ist kein leichtes Unterfangen. Wenn Gefahr droht, werden unsere Klingen euch beistehen, Captain!
+}
+Sailor_35 {
+Wir sind @<FindPeoplesString>, und wir heuern nur an, wenn wir alle zusammen gehen. Wir wissen alles, was ein Seemann wissen muss. @<sTemp>
+}
+Sailor_36 {
+Klingt ziemlich verlockend. Wie viel Vorschuss möchtest du?
+}
+Sailor_37 {
+Tut mir leid, Seemann, aber auf meinem Schiff ist nicht genug Platz für euch alle. Ihr müsst euch einen anderen Kapitän suchen.
+}
+Sailor_38 {
+@<FindMoneyString> pro Mann. Danach nur noch gewöhnlicher Matrosenlohn. Wir verlangen nicht mehr, Captain.
+}
+Sailor_39 {
+Abgemacht! Hier ist der volle Betrag. Geh zu meinem Schiff, es heißt '@<pchar>' und liegt auf Reede. Der Bootsmann weist dir eine Koje in der Mannschaftsunterkunft zu und gibt dir Arbeit.
+}
+Sailor_40 {
+Leider kann ich mir eure Dienste nicht leisten. Ihr müsst einen anderen Kapitän suchen.
+}
+Sailor_41 {
+Wir sind unterwegs, Captain! Ich hole die Mannschaft, und wir gehen sofort an Bord!
+}
+Sailor_42 {
+Komm schon, beeil dich, ich habe nicht vor, hier lange zu bleiben.
+}

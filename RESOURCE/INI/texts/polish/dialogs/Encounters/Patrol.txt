@@ -1,0 +1,423 @@
+Patrol_1_m {
+Aaa, wygląda na to, że ten drań podniósł alarm w @<XI_ConvertString>! Łapać go!
+}
+Patrol_1_f {
+Aaa, wygląda na to, że ta łajdaczka wszczęła alarm w @<XI_ConvertString>! Złapać ją!
+}
+Patrol_2_m {
+Heh, tylko spójrzcie! Niektórzy @<NationNamePeople> potrafią być w konflikcie z @<NationNameInstrumental>! Łapać drania!
+}
+Patrol_2_f {
+Heh, tylko spójrzcie! Niektórzy @<NationNamePeople> potrafią być w konflikcie z @<NationNameInstrumental>! Łapać tę łajdaczkę!
+}
+Patrol_3 {
+@<RandPhraseSimple>
+}
+Patrol_4_m {
+Wróg agent w pobliżu @<XI_ConvertString>! Złapać go!!
+}
+Patrol_4_f {
+Wróg agentka w pobliżu @<XI_ConvertString>! Złapać ją!
+}
+Patrol_5 {
+Patrzcie, @<NationNamePeople> przechadzają się niemal po @<XI_ConvertString>! Natychmiast ich schwytać!
+}
+Patrol_6 {
+@<RandPhraseSimple>
+}
+Patrol_7 {
+Spróbujcie, jesteśmy tu sami...
+}
+Patrol_8 {
+Heh, tutaj nie masz co liczyć na pomoc.
+}
+Patrol_9 {
+@<RandPhraseSimple>
+}
+Patrol_10 {
+Kim jesteś i czego tutaj chcesz?
+}
+Patrol_11 {
+Stój! Kim jesteś? Na jakiej podstawie kręcisz się w pobliżu miasta?
+}
+Patrol_12 {
+@<RandPhraseSimple>
+}
+Patrol_13 {
+Oficerze, mam @<GetRusNameNationLicence>, więc jestem tu legalnie. Proszę się zapoznać...
+}
+Patrol_14 {
+Oficerze, mój statek pływa pod banderą @<NationNameGenitive>, czego jeszcze ode mnie chcecie?
+}
+Patrol_15 {
+Oficerze, mój statek pływa pod banderą @<NationNameGenitive>, więc mam prawo tu być.
+}
+Patrol_16_m {
+Popatrzcie tylko, co za łajdak! Sam wpadł nam w ręce. Łapcie go!
+}
+Patrol_16_f {
+Popatrzcie tylko, co za łajdaczka! Sama wpadła nam w ręce. Łapcie ją!
+}
+Patrol_17_m {
+Ha, poznałem cię, łajdaku! Łapać go!
+}
+Patrol_17_f {
+Ha, poznałem cię, łajdaczko! Łapać ją!
+}
+Patrol_18 {
+@<RandPhraseSimple>
+}
+Patrol_19 {
+Argh!..
+}
+Patrol_20 {
+No cóż, sami się o to prosiliście...
+}
+Patrol_21 {
+@<RandPhraseSimple>
+}
+Patrol_22 {
+Mam zaszczyt się przedstawić! Jestem dowódcą patrolu z @<XI_ConvertString>, poszukujemy zbiegłego skazańca.
+}
+Patrol_23 {
+Dzień dobry, jestem dowódcą tego patrolu. Poszukujemy zbiegłego niewolnika z @<XI_ConvertString>.
+}
+Patrol_24 {
+Witam, @<GetAddress_Form>. Mój oddział patroluje okolice @<XI_ConvertString>.
+}
+Patrol_25 {
+@<LinkRandPhrase>
+}
+Patrol_26 {
+Wspaniale. W czym mogę pomóc?
+}
+Patrol_27_m {
+Bardzo dobrze. Czy mogę być w czymś pomocny, @<GetAddress_FormToNPC>?
+}
+Patrol_27_f {
+Bardzo dobrze. Czy mogę być w czymś pomocna, @<GetAddress_FormToNPC>?
+}
+Patrol_28 {
+Wspaniale. Co mogę dla was osobiście zrobić?
+}
+Patrol_29 {
+@<LinkRandPhrase>
+}
+Patrol_30 {
+Nie widziałeś tu nic podejrzanego?
+}
+Patrol_31 {
+Czy spotkał(a) pan/pani kogoś, kto wzbudzał podejrzenia, @<GetAddress_Form>?
+}
+Patrol_32 {
+@<RandPhraseSimple>
+}
+Patrol_33 {
+Nie, nic takiego.
+}
+Patrol_34 {
+Nie, oficerze, wszystko jest spokojnie.
+}
+Patrol_35 {
+@<RandPhraseSimple>
+}
+Patrol_36 {
+Cóż, nie będę was dłużej zatrzymywać. Żegnajcie, @<GetAddress_Form>.
+}
+Patrol_37 {
+Rozumiem. W takim razie, żegnajcie.
+}
+Patrol_38 {
+@<RandPhraseSimple>
+}
+Patrol_39 {
+Powodzenia.
+}
+Patrol_40 {
+Nie przeszkadzaj nam w wykonywaniu obowiązków.
+}
+Patrol_41 {
+Proszę, nie przeszkadzajcie nam!
+}
+Patrol_42 {
+A, to znowu wy... Idźcie swoją drogą, nie przeszkadzajcie nam.
+}
+Patrol_43 {
+@<LinkRandPhrase>
+}
+Patrol_44 {
+Dobrze.
+}
+Patrol_45_m {
+Wydaje mi się, że to oszustwo... Zaprowadzimy cię do komendantury, tam wszystko wyjaśnimy...
+}
+Patrol_45_f {
+Wydaje mi się, że to podstęp... Zaprowadzimy cię do komendantury, panienko, tam wszystko wyjaśnimy...
+}
+Patrol_46_m {
+Hm, coś mi mówi, że nie jesteś tym, za kogo się podajesz... Natychmiast oddaj broń, @<GetAddress_Form>, i chodź ze mną na dalsze przesłuchanie!
+}
+Patrol_46_f {
+Hm, coś mi mówi, że nie jesteś tą, za którą się podajesz... Natychmiast oddaj broń, @<GetAddress_Form>, i chodź ze mną na dalsze przesłuchanie!
+}
+Patrol_47 {
+@<RandPhraseSimple>
+}
+Patrol_48 {
+A gdzie tam!
+}
+Patrol_49 {
+Po deszczu, w czwartek...
+}
+Patrol_50 {
+@<RandPhraseSimple>
+}
+Patrol_51 {
+Cóż, nie będę was dłużej zatrzymywać. Żegnajcie, @<GetAddress_Form>.
+}
+Patrol_52 {
+Rozumiem. W takim razie, żegnajcie.
+}
+Patrol_53 {
+@<RandPhraseSimple>
+}
+Patrol_54 {
+Powodzenia.
+}
+Patrol_55 {
+Pańska licencja zostaje odebrana, ponieważ jest przeterminowana i tym samym nieważna. Proszę oddać broń i pójść za mną na dalsze przesłuchanie!
+}
+Patrol_56 {
+A gdzie tam!
+}
+Patrol_57 {
+Po deszczu, w czwartek...
+}
+Patrol_58 {
+@<RandPhraseSimple>
+}
+Patrol_59 {
+Hm, wszystko się zgadza. Jednak pozwolę sobie zauważyć, że ważność waszej licencji upływa dziś. Przepuszczę was tym razem, ale będziecie musieli wymienić licencję na aktualną.
+}
+Patrol_60 {
+Dziękuję, przy najbliższej okazji zdobędę nową.
+}
+Patrol_61 {
+Hm, wszystko się zgadza. Pozwolę sobie jednak zauważyć, że ważność twojej licencji wkrótce wygasa — obowiązuje jeszcze tylko przez @<FindDaysString>. Proszę mieć to na uwadze, @<GetAddress_Form>.
+}
+Patrol_62 {
+Dziękuję, przy najbliższej okazji zdobędę nową.
+}
+Patrol_63 {
+No dobrze, bardzo dobrze, wasza licencja jest ważna jeszcze przez @<FindDaysString>. Możecie przejść.
+}
+Patrol_64 {
+Wszystko jasne, @<GetAddress_Form>. Może pan/pani swobodnie wejść do miasta, pańska licencja jest ważna jeszcze przez @<FindDaysString>. Przepraszam za kłopot.
+}
+Patrol_65 {
+Wszystko w porządku, @<GetAddress_Form>, nie śmiem was zatrzymywać.
+}
+Patrol_66 {
+@<LinkRandPhrase>
+}
+Patrol_67 {
+Świetnie. Wszystkiego dobrego.
+}
+Patrol_68 {
+Dziękuję, oficerze.
+}
+Patrol_69 {
+@<RandPhraseSimple>
+}
+Patrol_70_m {
+Hm... Nie widziałem cię tu wcześniej. Kim jesteś?
+}
+Patrol_70_f {
+Hm... Nie widziałem cię tu wcześniej. Kim jesteś?
+}
+Patrol_71_m {
+Jestem tym, na kogo czekasz...
+}
+Patrol_71_f {
+Jestem tą, na którą czekasz...
+}
+Patrol_72 {
+Jestem kapitanem @<GetFullName>. Chciałbym wiedzieć, po co się tak spieszyłeś, że mało co nie zostawiłeś spodni w burdelu...
+}
+Patrol_73 {
+Jestem kapitanem @<GetFullName>. Przechadzam się tutaj, oddycham morskim wiatrem...
+}
+Patrol_74_m {
+W końcu przyszedłeś. Już myślałem, że się nie doczekam... A ten facet jest z tobą, czy co?
+}
+Patrol_74_f {
+W końcu przyszłaś. Już myślałem, że się nie doczekam... A ten facet jest z tobą, czy co?
+}
+Patrol_75 {
+Jaki typ?
+}
+Patrol_76_m {
+Nie bardzo wyglądasz na kogoś, komu @<GetName> by zaufał.
+}
+Patrol_76_f {
+Nie wyglądasz na kogoś, komu @<GetName> by zaufał.
+}
+Patrol_77 {
+Dobrze, tak mu przekażę.
+}
+Patrol_78 {
+A kim jest ten @<GetName>?
+}
+Patrol_79 {
+Ciekawość to niby nie grzech, ale potrafi czasem mocno skrócić życie...
+}
+Patrol_80 {
+No, no!
+}
+Patrol_81 {
+Zaraz będzie przypływ. Lepiej opuśćcie zatokę — woda sięga tu aż do palmowych zarośli.
+}
+Patrol_82 {
+Nic nie szkodzi, dobrze pływam.
+}
+Patrol_83 {
+szafirowych
+}
+Patrol_84 {
+diamentów
+}
+Patrol_85 {
+rubinów
+}
+Patrol_86 {
+szmaragdów
+}
+Patrol_87 {
+Dobrze, dobrze. Masz ze sobą obiecane 30 @<sItemName>?
+}
+Patrol_88 {
+@<GetName> powiedział, że było za mało czasu, żeby zebrać tyle kamyków. Kazał zaproponować pieniądze.
+}
+Patrol_89 {
+Weź.
+}
+Patrol_90 {
+Heh! Dowiesz się po tamtej stronie!
+}
+Patrol_91 {
+Jaka pewność siebie...
+}
+Patrol_92 {
+Świetnie, w takim razie płacisz @<FindMoneyString>, tak jak się umawialiśmy.
+}
+Patrol_93 {
+Czy nie prosisz o zbyt wiele?
+}
+Patrol_94 {
+Masz.
+}
+Patrol_95 {
+Ale nie mam przy sobie takiej sumy!
+}
+Patrol_96 {
+Wszystko zgodnie z umową. Proszę, trzymaj. Tę mapę zabrano temu powieszonemu piratowi, o którego pytał @<GetName>.
+}
+Patrol_97 {
+Sprawa załatwiona!
+}
+Patrol_98_m {
+O kwocie z @<GetName> umówiliśmy się wcześniej... Coś mi tu nie pasuje... Załatwcie go, chłopaki!
+}
+Patrol_98_f {
+O kwocie z @<GetName> umówiliśmy się wcześniej... Coś mi się tu nie podoba... Załatwcie ją, chłopaki!
+}
+Patrol_99 {
+No dobrze, spróbuj!
+}
+Patrol_100 {
+Świetnie! Teraz do rzeczy. Przechwyciliśmy ten @<GetStrSmallRegister> „@<sTemp1>” z ładunkiem @<GetGoodsNameAlt>, cała załoga już siedzi w lochach, a „towar” wciąż jest na pokładzie. Drużyna transportowa to portowi pijacy, więc raczej nie dotrą do portu przed jutrem. Zrób z nimi, co uznasz za stosowne.
+}
+Patrol_101 {
+Dobrze. Przekażę wszystko dokładnie tak, @<GetName>.
+}
+Patrol_102 {
+Posag swojej córeczki
+}
+Patrol_103 {
+Prezenty dla wicekróla
+}
+Patrol_104 {
+Prezenty na swoją rocznicę
+}
+Patrol_105 {
+Własna „emerytura”
+}
+Patrol_106 {
+Spryciara
+}
+Patrol_107 {
+Złośnica
+}
+Patrol_108 {
+Psotnica
+}
+Patrol_109 {
+Psotnica
+}
+Patrol_110 {
+Świetnie! @<sTemp1> gubernator trzyma u siebie w buduarze. Statek kurierski do transportu przypłynie lada dzień, ale zdążysz. Lokaj to 'nasz' człowiek. Hasło: '@<pchar>', odzew: '@<sTemp2>'.
+}
+Patrol_111 {
+Dobrze. Przekażę wszystko dokładnie tak, @<GetName>.
+}
+Patrol_112 {
+Próbujesz mnie oszukać?! Ty psie!
+}
+Patrol_113 {
+Zamknij się!
+}
+Patrol_114_m {
+Przepiłeś! Moje! Pieniądze!... Argh.
+}
+Patrol_114_f {
+Przepiłaś! Moje! Pieniądze!... Argh.
+}
+Patrol_115 {
+Cholera jasna!
+}
+Patrol_116 {
+Lepiej opuśćcie zatokę, przypływ już się zaczął...
+}
+Patrol_117 {
+Tak, tak, już sobie idę.
+}
+Patrol_118 {
+Przecież umawialiśmy się, że posłaniec ma być tylko jeden!
+}
+Patrol_119 {
+Mała pomyłka się wkradła. Widzisz, posłaniec się zgubił? Przysłali mnie na zastępstwo.
+}
+Patrol_120_m {
+A przyszedłem sam, tylko nie po to, o czym myślisz.
+}
+Patrol_120_f {
+A przyszłam tu sama, tylko nie po to, o czym myślisz.
+}
+Patrol_121_m {
+A więc jednak mnie wytropiłeś... No cóż, nie miej mi tego za złe.
+}
+Patrol_121_f {
+A więc jednak mnie wytropiłaś... No cóż, nie miej mi tego za złe.
+}
+Patrol_122 {
+Argh...
+}
+Patrol_123_m {
+Ach, drań! O mało co się nie dałem złapać!.. Straż! Złapać go...
+}
+Patrol_123_f {
+Ach, łajdaczka! O mało co się nie dałem złapać!.. Straż! Złapać ją...
+}
+Patrol_124 {
+Argh...
+}

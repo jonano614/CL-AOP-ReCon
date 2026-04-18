@@ -1,0 +1,207 @@
+Marginal_1 {
+Hey, captain! Yes, you. Come a little closer, I’ve got business with you...
+}
+Marginal_2 {
+And what kind of business is this, huh?
+}
+Marginal_3 {
+Friend, I'm in a hurry. Maybe another time...
+}
+Marginal_4 {
+Hey, Cap’n, I’m busy here. What d’you want?
+}
+Marginal_5 {
+What do you want, cap’n?
+}
+Marginal_6_m {
+Cap’n, I don’t have time for idle chatter. What do you want?
+}
+Marginal_6_f {
+Cap’n, I don’t have time for idle chatter. What did you want?
+}
+Marginal_7 {
+@<LinkRandPhrase>
+}
+Marginal_8 {
+Greetings, @<GetAddress_FormToNPC>. Hold on a moment, I want you to tell me something.
+}
+Marginal_9 {
+I have a question for you.
+}
+Marginal_10 {
+I need information.
+}
+Marginal_11 {
+@<RandPhraseSimple>
+}
+Marginal_12 {
+Oh, nothing much, just heading to the tavern...
+}
+Marginal_13 {
+What do you want?
+}
+Marginal_14 {
+Nothing.
+}
+Marginal_15 {
+I have a question for you.
+}
+Marginal_16 {
+I need information.
+}
+Marginal_17 {
+@<RandPhraseSimple>
+}
+Marginal_18 {
+Hmm. You’re a ship’s captain, not a merchant by the looks of you, and it seems you’ve got some coin to spare... How about a bit of very interesting information in exchange for a handful of piastres?
+}
+Marginal_19 {
+First, tell me if your information is worth even a single silver coin. And what’s it about?
+}
+Marginal_20 {
+It's worth it, Cap'n, it is. She's worth far more than what I'm asking. You give me the gold, and I'll tell you when and on which ship a certain passenger will be sailing—a passenger who could fetch quite a handsome ransom... And I’ll even tell you who’s got him. Interested?
+}
+Marginal_21 {
+And how do I know you won't lie to me, huh?
+}
+Marginal_22 {
+Not a chance. I don’t deal in kidnapping. Get lost!
+}
+Marginal_23_m {
+I won't lie to you, salty coat. I live in this town, and I don't need any trouble. For just @<FindMoneyString>, I'll give you all the information you need. You'll make much more off this.
+}
+Marginal_23_f {
+I won’t deceive you, miss. I live in this town, and I don’t need any trouble. For just @<FindMoneyString>, I’ll give you all the information you need. You’ll make much more off this deal.
+}
+Marginal_24 {
+You’ve convinced me. Here, take it. But just try telling me some nonsense or lying to me...
+}
+Marginal_25 {
+I don't have that amount on me right now.
+}
+Marginal_26 {
+Are you kidding me? Pay a pile of gold for who knows what? You’d better get out of here...
+}
+Marginal_27 {
+No? All right. I can wait a day or two, and so can this information. Once you find the gold, come see me—it won’t be hard to track me down, at least not today, ha-ha!
+}
+Marginal_28 {
+Why are you grinning like that? Fine, if I change my mind, I’ll bring you a couple of sacks...
+}
+Marginal_29_m {
+So, did you bring the gold after all?
+}
+Marginal_29_f {
+So, did you bring the gold after all?
+}
+Marginal_30 {
+Yes. Here, take it. But just try telling me some nonsense or lying to me...
+}
+Marginal_31 {
+Not yet. Maybe later...
+}
+Marginal_32_m {
+Don’t waste your powder for nothing—you’ll need it. Now listen: in @<FindDaysString>, a @<GetStrSmallRegister> called '@<pchar>' will leave our colony and head toward @<XI_ConvertString>. There’ll be a passenger on board—@<pchar>, name’s @<pchar>.\nThe captain of the @<GetStrSmallRegister> is a bit of a coward—what can you do, he’s a merchant... so you might not even have to fight him. Give him a good scare, and he’ll hand over his passenger himself, heh-heh... After that, all that’s left is to collect the ransom.\nAs you understand, @<pchar>, you’ll probably get your money, but after that the authorities will hunt you to death. Better take your prize to @<XI_ConvertString>. There, look for a man named @<pchar>.\n@<pchar> won’t even ask your name. As for how much money to ask for—that’s up to you, think for yourself, and don’t forget the saying—a big spoon tears the mouth... But you can safely demand @<FindMoneyString>. Got all that?
+}
+Marginal_32_f {
+Don’t waste your powder for nothing, you’ll need it. Now listen: in @<FindDaysString>, a @<GetStrSmallRegister> called '@<pchar>' will leave our colony and head toward @<XI_ConvertString>. There’ll be a passenger on board—@<pchar>, name’s @<pchar>.\nThe captain of the @<GetStrSmallRegister> is a bit of a coward—what can you do, he’s a merchant... so you might not even have to fight him. Give him a good scare and he’ll hand over his passenger himself, heh-heh... After that, all that’s left is to collect the ransom.\nAs you understand, @<pchar>, you’ll probably get your money, but after that the authorities will hunt you down. Better take your prize to @<XI_ConvertString>. There, look for someone named @<pchar>.\n@<pchar> won’t even ask your name. As for how much to ask for—that’s up to you, think for yourself, and don’t forget the saying—a big spoon tears the mouth... But you can safely demand @<FindMoneyString>. Got all that?
+}
+Marginal_33 {
+Yes. I’ll head to the ship now and write it down so I don’t forget.
+}
+Marginal_34 {
+Exactly! A very wise decision. Well then, good luck with this simple task. Oh, almost forgot: @<GetStrSmallRegister> won’t be leaving from the port, but from one of the nearby coves—I don’t know which one. So keep your eyes open. Farewell, and thanks for the coin!
+}
+Marginal_35 {
+You're welcome. I hope you won't blow it all in the tavern in one night...
+}
+Marginal_36 {
+Then don’t beat around the bush. Out with it!
+}
+Marginal_37 {
+Oh, all right. What do you want?
+}
+Marginal_38 {
+Are we asking questions? All right, captain, I’m listening.
+}
+Marginal_39 {
+@<LinkRandPhrase>
+}
+Marginal_40 {
+Care to share the latest news from your town?
+}
+Marginal_41 {
+Tell me, what's been happening lately? Anything interesting?
+}
+Marginal_42 {
+Heard any interesting news around the archipelago?
+}
+Marginal_43 {
+@<LinkRandPhrase>
+}
+Marginal_44 {
+He wants to marry her and won’t hesitate to pay a hefty sum for the girl.
+}
+Marginal_45 {
+the merchant’s daughter, owner of the shop
+}
+Marginal_46 {
+at her father's, the shopkeeper
+}
+Marginal_47 {
+the shipyard owner's daughter
+}
+Marginal_48 {
+at her father's, the shipyard owner
+}
+Marginal_49 {
+the innkeeper’s daughter
+}
+Marginal_50 {
+at her father's, the innkeeper
+}
+Marginal_51 {
+the moneylender’s daughter
+}
+Marginal_52 {
+with her father, the moneylender
+}
+Marginal_53 {
+the port authority chief’s daughter
+}
+Marginal_54 {
+with her father, the head of the port authority
+}
+Marginal_55 {
+He’s been wanting to win this family’s trust for a long time—he won’t hesitate to pay a hefty sum for the prisoner.
+}
+Marginal_56 {
+a close relative of the merchant, the shop owner
+}
+Marginal_57 {
+at his relative’s, the shopkeeper’s
+}
+Marginal_58 {
+a close relative of the shipyard owner
+}
+Marginal_59 {
+at his relative’s, the shipyard owner
+}
+Marginal_60 {
+a close relative of the innkeeper
+}
+Marginal_61 {
+at his relative’s, the innkeeper
+}
+Marginal_62 {
+a close relative of the moneylender
+}
+Marginal_63 {
+at his relative’s, the moneylender
+}
+Marginal_64 {
+a close relative of the port authority chief
+}
+Marginal_65 {
+with his relative, the head of the port authority
+}

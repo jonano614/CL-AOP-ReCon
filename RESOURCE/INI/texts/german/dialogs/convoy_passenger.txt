@@ -1,0 +1,234 @@
+convoy_passenger_1_m {
+Verdammt!! Ich weiß, wer du bist! Nur ein kompletter Narr würde als Passagier auf dein Schiff gehen. Leb wohl!
+}
+convoy_passenger_1_f {
+Verdammt!! Ich weiß, wer du bist! Nur ein kompletter Narr würde als Passagier auf dein Schiff gehen. Leb wohl!
+}
+convoy_passenger_2 {
+Ah, ich weiß, wer du bist! Ich setze keinen Fuß auf dein Deck. Such dir einen anderen Dummen...
+}
+convoy_passenger_3 {
+@<RandPhraseSimple>
+}
+convoy_passenger_4 {
+Heh, was für ein Feigling...
+}
+convoy_passenger_5 {
+Was für ein nervöser Haufen die Leute doch geworden sind!
+}
+convoy_passenger_6 {
+@<RandPhraseSimple>
+}
+convoy_passenger_7 {
+@<TimeGreeting>, @<GetAddress_Form>! Ich bin @<GetFullName>. Ich habe gehört, Sie nehmen Passagiere an Bord?
+}
+convoy_passenger_8 {
+Vielleicht, ja. Es kommt ganz darauf an, was ich davon habe.
+}
+convoy_passenger_9 {
+Ich muss innerhalb von @<FindDaysString> zur Taverne @<XI_ConvertString> auf @<XI_ConvertString> gebracht werden und zahle dir dafür @<FindMoneyString>. Was sagst du dazu?
+}
+convoy_passenger_10_m {
+Ich stimme zu.
+}
+convoy_passenger_10_f {
+Ich stimme zu.
+}
+convoy_passenger_11 {
+Ich glaube nicht, dass das für mich von Interesse ist.
+}
+convoy_passenger_12 {
+@<XI_ConvertString>, der auf @<XI_ConvertString>,
+}
+convoy_passenger_13 {
+Danke. Du hast deinen Teil der Abmachung erfüllt. Ich bin jetzt hier. Hier ist deine Belohnung.
+}
+convoy_passenger_14 {
+Danke.
+}
+convoy_passenger_15_m {
+Ein gewisser Mann namens @<GetFullName> sagt, dass man Kapitän @<GetMainCharacterNameDat> vertrauen kann, da er ihn ohne Schwierigkeiten nach @<XI_ConvertString> gebracht hat.
+}
+convoy_passenger_15_f {
+Eine gewisse Person namens @<GetFullName> meint, dass man Kapitänin @<GetMainCharacterNameDat> vertrauen kann, da sie ihn ohne große Schwierigkeiten nach @<XI_ConvertString> gebracht hat.
+}
+convoy_passenger_16_m {
+Ein Passagier namens @<GetFullName> sagt, dass man Captain @<GetMainCharacterNameDat> vertrauen kann. Er hat ihn sicher nach @<XI_ConvertString> gebracht.
+}
+convoy_passenger_16_f {
+Ein Passagier namens @<GetFullName> sagt, dass man Captain @<GetMainCharacterNameDat> vertrauen kann. Sie hat ihn sicher nach @<XI_ConvertString> gebracht.
+}
+convoy_passenger_17 {
+Ich habe gehört, Captain, dass Sie Ihr Wort gegenüber Ihren Passagieren halten. Ein gewisser Herr namens @<GetFullName> spricht sehr lobend von Ihnen.
+}
+convoy_passenger_18 {
+@<LinkRandPhrase>
+}
+convoy_passenger_19 {
+@<RandSwear> Captain, die Zeit ist um. Wann bekomme ich endlich @<XI_ConvertString>?
+}
+convoy_passenger_20 {
+@<RandSwear> Kapitän, wie lange sollen wir noch ziellos umherirren?! Wann erreichen wir endlich @<XI_ConvertString>?
+}
+convoy_passenger_21 {
+@<RandSwear> Hören Sie, Captain, ich muss nach @<XI_ConvertString> und will eine klare, eindeutige Antwort, wann das endlich passiert!
+}
+convoy_passenger_22 {
+@<LinkRandPhrase>
+}
+convoy_passenger_23 {
+Kapitän, das ist das zweite Mal, dass ich Ihre Versprechen anspreche. Wann erreichen wir @<XI_ConvertString>?
+}
+convoy_passenger_24 {
+Kapitän, dies ist bereits das zweite Mal, dass ich wegen meiner Überfahrt nachfrage. Wann endlich werden wir die Küste von @<XI_ConvertString> erreichen?
+}
+convoy_passenger_25 {
+@<RandPhraseSimple>
+}
+convoy_passenger_26 {
+@<RandSwear> Kapitän, das ist jetzt das dritte Mal, dass ich Sie dasselbe frage – wann erreichen wir @<XI_ConvertString>?
+}
+convoy_passenger_27 {
+Kapitän, wir haben schon unzählige Zeit verloren! Wann bringen Sie mich endlich nach @<XI_ConvertString>?
+}
+convoy_passenger_28 {
+@<RandPhraseSimple>
+}
+convoy_passenger_29 {
+Hören Sie, Captain, das gerät langsam außer Kontrolle...
+}
+convoy_passenger_30_m {
+Bitte verzeih mir, ich war völlig mit Geschäften überlastet... In 7 Tagen wirst du ganz sicher dort sein.
+}
+convoy_passenger_30_f {
+Bitte verzeih mir, ich war in letzter Zeit sehr beschäftigt ... In 7 Tagen wirst du ganz sicher dort sein.
+}
+convoy_passenger_31 {
+Es tut mir leid, @<GetAddress_FormToNPC>, ich hatte einfach keine Möglichkeit, meine Verpflichtungen Ihnen gegenüber zu erfüllen. Aber machen Sie sich keine Sorgen, wir sind in einer Woche da.
+}
+convoy_passenger_32 {
+@<RandPhraseSimple>
+}
+convoy_passenger_33_m {
+Ich muss mich noch einmal entschuldigen... In einer Woche sind wir da.
+}
+convoy_passenger_33_f {
+Ich muss mich ein zweites Mal entschuldigen ... In einer Woche sind wir dort.
+}
+convoy_passenger_34 {
+Ich entschuldige mich noch einmal. In einer Woche sind wir dort.
+}
+convoy_passenger_35 {
+@<RandPhraseSimple>
+}
+convoy_passenger_36_m {
+Und zum dritten Mal muss ich um Verzeihung bitten... Wir sind in einer Woche dort.
+}
+convoy_passenger_36_f {
+Und zum dritten Mal muss ich mich bei Ihnen entschuldigen... Wir sind in einer Woche dort.
+}
+convoy_passenger_37 {
+Ich entschuldige mich zum dritten Mal. Wir sind in einer Woche dort, das verspreche ich...
+}
+convoy_passenger_38 {
+@<RandPhraseSimple>
+}
+convoy_passenger_39 {
+Ich verstehe, @<GetAddress_FormToNPC>, aber ich bitte dich, noch ein wenig Geduld zu haben... In sieben Tagen bringe ich dich an dein Ziel!
+}
+convoy_passenger_40_m {
+Ah... der Passagier... ich hatte dich ganz vergessen. Im Laderaum bist du sicherer, und du gehst mir nicht mehr auf die Nerven.
+}
+convoy_passenger_40_f {
+Ah... der Passagier... ich hatte dich ganz vergessen. Im Laderaum wirst du es sicher bequemer haben – und du gehst mir nicht mehr auf die Nerven.
+}
+convoy_passenger_41 {
+Heh, na so was! Ein Eindringling auf meinem Schiff!.. Ich denke, du solltest meinen Laderaum kennenlernen.
+}
+convoy_passenger_42 {
+@<RandPhraseSimple>
+}
+convoy_passenger_43 {
+Schon zum zweiten Mal? Na, stell dir das vor... Vielleicht schicke ich dich gleich mal auf einen kleinen Rundgang durch den Kerker.
+}
+convoy_passenger_44 {
+Schon das dritte Mal? Das ist gar nicht gut, heh-heh... Hör zu, Freund, es wird Zeit, dass du in den Laderaum gehst—kein Herumstreifen mehr auf meinem Schiff.
+}
+convoy_passenger_45 {
+Die Tore? Ach, ich verstehe, das ist wirklich ärgerlich! Nun, ich schätze, es ist Zeit, mit den Spielchen aufzuhören… Willkommen im Laderaum, @<GetAddress_FormToNPC>.
+}
+convoy_passenger_46 {
+In Ordnung, aber ich werde dir wegen dieser Verzögerung den Lohn kürzen.
+}
+convoy_passenger_47 {
+Na gut, ich nehme dich beim Wort... Aber denk daran, ich werde deine Bezahlung kürzen!
+}
+convoy_passenger_48 {
+Hm, ich kann diesem Schiff zwar nicht entkommen, aber denk daran – deine Belohnung wird geringer ausfallen...
+}
+convoy_passenger_49 {
+@<LinkRandPhrase>
+}
+convoy_passenger_50 {
+Einverstanden.
+}
+convoy_passenger_51 {
+Na gut...
+}
+convoy_passenger_52 {
+In Ordnung, so sei es.
+}
+convoy_passenger_53 {
+@<LinkRandPhrase>
+}
+convoy_passenger_54 {
+Ich möchte glauben, dass die Vereinbarung dieses Mal eingehalten wird.
+}
+convoy_passenger_55 {
+Ich hoffe, dies ist unser letztes Gespräch über ein so unangenehmes Thema...
+}
+convoy_passenger_56 {
+@<RandPhraseSimple>
+}
+convoy_passenger_57 {
+Natürlich.
+}
+convoy_passenger_58 {
+@<RandSwear> Welcher Laderaum? Ich verstehe dich nicht!
+}
+convoy_passenger_59 {
+Was ist daran so schwer zu verstehen? Du bist jetzt mein Gefangener! Ab in den Laderaum!
+}
+convoy_passenger_60 {
+Nur ein Scherz... In etwa sieben Tagen sind wir ganz sicher in der richtigen Stadt.
+}
+convoy_passenger_61_m {
+@<RandSwear> Dafür wirst du bezahlen, Schurke!
+}
+convoy_passenger_61_f {
+@<RandSwear> Dafür wirst du bezahlen, du Schlampe!
+}
+convoy_passenger_62 {
+Das sagen alle, aber am Ende läuft es immer anders – sie zahlen schließlich mir!
+}
+convoy_passenger_63_m {
+Man hört, ein gewisser Captain @<GetFullName> habe sich bereit erklärt, einen Passagier namens @<GetFullName> zu befördern, sein Versprechen aber gebrochen. Schlimmer noch, er hat die arme Person gefangen genommen. So viel zum Vertrauen in Fremde...
+}
+convoy_passenger_63_f {
+Man hört, dass eine gewisse Kapitänin @<GetFullName> sich bereit erklärt hat, eine Passagierin namens @<GetFullName> zu befördern, ihr Wort aber nicht gehalten hat. Schlimmer noch, sie hat die arme Frau gefangen genommen. So viel zum Vertrauen in Fremde...
+}
+convoy_passenger_64_m {
+Ach, was ist nur aus der Welt geworden?! Captain @<GetFullName> hat einen armen Kerl namens @<GetFullName> gefangen genommen, obwohl er nur ein Passagier auf seinem Schiff war...
+}
+convoy_passenger_64_f {
+Ach, was ist nur aus der Welt geworden?! Captain @<GetFullName> hat einen armen Kerl namens @<GetFullName> gefangen genommen, obwohl er nur ein Passagier auf ihrem Schiff war...
+}
+convoy_passenger_65_m {
+Man munkelt, Captain, Sie seien ein ziemlicher Halunke. Es heißt, der arme @<GetFullName> sei auf Ihrem Schiff gefangen genommen worden. Und Sie hatten doch versprochen, ihn nach @<XI_ConvertString> zu bringen. Das ist nicht gerade ehrenhaft von Ihnen...
+}
+convoy_passenger_65_f {
+Man munkelt, Captain, Sie seien ein ziemlicher Halunke. Es heißt, der arme @<GetFullName> wurde auf Ihrem Schiff gefangen genommen. Und Sie hatten doch versprochen, ihn nach @<XI_ConvertString> zu bringen. Das ist nicht gerade ehrenhaft von Ihnen...
+}
+convoy_passenger_66 {
+@<LinkRandPhrase>
+}

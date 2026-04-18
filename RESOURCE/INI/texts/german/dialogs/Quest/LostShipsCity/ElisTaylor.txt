@@ -1,0 +1,654 @@
+ElisTaylor_1 {
+Hallo, @<GetAddress_Form>. Ich freue mich sehr, dass du dieses schreckliche Unglück überstanden hast... Aber wir haben es ja alle durchgemacht, nicht wahr? Weißt du, der Sturm wird bald vorüberziehen, und deine Stimmung wird sich bestimmt heben. Ach ja, mein Name ist @<GetFullName>.
+}
+ElisTaylor_2 {
+@<GetFullName> zu Ihren Diensten, Miss... Sagen Sie, kommen nach jedem Sturm neue Leute an?
+}
+ElisTaylor_3 {
+Hallo, @<GetAddress_Form>. Ich freue mich sehr, dass Sie dieses schreckliche Unglück überstanden haben... Aber wir haben es ja alle erlebt, nicht wahr? Ja, mein Name ist @<GetFullName>.
+}
+ElisTaylor_4 {
+@<GetFullName> zu Ihren Diensten, Fräulein...
+}
+ElisTaylor_5 {
+Ich habe eine Bitte... Mein Mann, dieser Narr Maksim, sitzt schon wieder im Gefängnis. Ich möchte ihm ein letztes Mal helfen.
+}
+ElisTaylor_6 {
+Willst du ihn aus dem Gefängnis befreien?
+}
+ElisTaylor_7 {
+Was willst du?
+}
+ElisTaylor_8 {
+Wissen Sie, ich suche jemanden. Könnten Sie mir helfen?
+}
+ElisTaylor_9_m {
+Ich wollte dir eine Frage stellen.
+}
+ElisTaylor_9_f {
+Ich wollte dir eine Frage stellen.
+}
+ElisTaylor_10 {
+Hast du interessante Geschichten für mich?
+}
+ElisTaylor_11 {
+Was gibt es Neues in der Stadt?
+}
+ElisTaylor_12_m {
+Ach, ich würde zu gern den neuesten Klatsch hören...
+}
+ElisTaylor_12_f {
+Ach, ich würde zu gern den neuesten Klatsch hören...
+}
+ElisTaylor_13 {
+@<LinkRandPhrase>
+}
+ElisTaylor_14 {
+Du hast keine Ahnung, wie gierig und egoistisch Erik Yost ist!
+}
+ElisTaylor_15_m {
+Ich habe gehört, du suchst Hilfe bei etwas ...
+}
+ElisTaylor_15_f {
+Ich habe gehört, du suchst Hilfe bei etwas ...
+}
+ElisTaylor_16 {
+Ihr Ehemann, Maxim Taylor, hat mich zu Ihnen geschickt.
+}
+ElisTaylor_17 {
+Alice, der Admiral wird deinen Mann freilassen.
+}
+ElisTaylor_18 {
+Hören Sie, ich suche nach bestimmten Waren.
+}
+ElisTaylor_19 {
+Weißt du, worum es bei dem Treffen geht?
+}
+ElisTaylor_20 {
+Weißt du, ich stelle eine Mannschaft zusammen, um hier wegzukommen. Ich biete dir die Chance, mit mir aufs Festland zu kommen.
+}
+ElisTaylor_21 {
+Nichts...
+}
+ElisTaylor_22 {
+Nein, das stimmt leider ganz und gar nicht. Es kommen zwar viele Schiffe hierher, aber an Bord sind nur wenige lebende Seelen. Ich weiß nicht, warum... Und übrigens, ich bin eine Frau.
+}
+ElisTaylor_23 {
+Oh, Entschuldigung...
+}
+ElisTaylor_24 {
+Gnädige Frau. Ich bin verheiratet.
+}
+ElisTaylor_25 {
+Oh, Entschuldigung...
+}
+ElisTaylor_26 {
+Übrigens, falls du unseren Anführer, Admiral Chad Capper, noch nicht besucht hast, solltest du dich beeilen. Andernfalls wird er selbst nach dir suchen.
+}
+ElisTaylor_27 {
+Hm, ich verstehe.
+}
+ElisTaylor_28_m {
+Schon getroffen. Alles Gute.
+}
+ElisTaylor_28_f {
+Schon getroffen. Alles Gute.
+}
+ElisTaylor_29_m {
+Du bist ein Dieb! Du verstößt gegen das Gesetz der Stadt!
+}
+ElisTaylor_29_f {
+Du bist ein Dieb! Du verstößt gegen das Gesetz der Stadt!
+}
+ElisTaylor_30_m {
+Na, sieh einer an! Kaum habe ich dich aus den Augen gelassen, stürzt du dich schon kopfüber in die Truhe! Er hat das Gesetz gebrochen!
+}
+ElisTaylor_30_f {
+Na, sieh einer an! Kaum schaue ich kurz weg, schon stürzt du dich kopfüber in die Truhe! Sie hat das Gesetz gebrochen!
+}
+ElisTaylor_31_m {
+Miliz! Überfall! Haltet ihn, er hat das Gesetz gebrochen!
+}
+ElisTaylor_31_f {
+Miliz! Raubüberfall! Haltet ihn, sie hat das Gesetz gebrochen!
+}
+ElisTaylor_32 {
+@<LinkRandPhrase>
+}
+ElisTaylor_33 {
+A-verdammter Mist!!!
+}
+ElisTaylor_34 {
+Ach, so ist das also?! Du hast dich also entschieden, in den Truhen zu wühlen, was?! Jetzt werden die Stadtbewohner und die Wachen dich in Stücke reißen wie altes Gerede!
+}
+ElisTaylor_35 {
+Was für eine Närrin sie ist!
+}
+ElisTaylor_36_m {
+Hör zu, du solltest deine Waffe wegstecken. Du machst mich ein wenig nervös...
+}
+ElisTaylor_36_f {
+Hey, vielleicht solltest du deine Waffe wegstecken. Du machst mich ein wenig nervös...
+}
+ElisTaylor_37 {
+Weißt du, hier fuchtelt man nicht einfach so mit Klingen herum. Steck deine Waffe weg.
+}
+ElisTaylor_38_m {
+Hey, warum rennst du hier herum und schwingst dein Schwert so? Steck deine Waffe weg, das passt nicht zu einem ernsthaften Mann...
+}
+ElisTaylor_38_f {
+Hey, warum rennst du hier herum und fuchtelst so mit deinem Schwert? Steck deine Waffe weg, das passt nicht zu einer Dame…
+}
+ElisTaylor_39 {
+@<LinkRandPhrase>
+}
+ElisTaylor_40 {
+In Ordnung.
+}
+ElisTaylor_41 {
+In Ordnung.
+}
+ElisTaylor_42 {
+Wie du sagst...
+}
+ElisTaylor_43 {
+@<LinkRandPhrase>
+}
+ElisTaylor_44_m {
+Hören Sie, als Bürger dieser Stadt bitte ich Sie, hier nicht mit gezogenem Säbel herumzulaufen.
+}
+ElisTaylor_44_f {
+Steck deine Waffe weg! Mein Mann ist Schmied, und ich habe von diesen eisernen Dingern wirklich mehr als genug gesehen...
+}
+ElisTaylor_45 {
+In Ordnung.
+}
+ElisTaylor_46 {
+In Ordnung.
+}
+ElisTaylor_47 {
+Wie du willst...
+}
+ElisTaylor_48 {
+@<LinkRandPhrase>
+}
+ElisTaylor_49_m {
+Hör auf, dieses Stück Metall herumzuschwingen! Als ob mein Mann nicht schon genug wäre, jetzt auch du... Steck es weg!
+}
+ElisTaylor_49_f {
+Mit deinen Spielchen kannst du mir keine Angst machen... Steck deine Waffe weg!
+}
+ElisTaylor_50 {
+In Ordnung.
+}
+ElisTaylor_51 {
+Ich lege es weg.
+}
+ElisTaylor_52 {
+@<RandPhraseSimple>
+}
+ElisTaylor_53 {
+Ich helfe Ihnen gern, wenn ich kann. Wen suchen Sie denn?
+}
+ElisTaylor_54 {
+Tut mir leid, aber ich habe keine Ahnung, von wem du sprichst. Um dir zu helfen, brauche ich Vor- und Nachnamen.
+}
+ElisTaylor_55 {
+Hm. Lass mich versuchen, sie noch einmal zu benennen.
+}
+ElisTaylor_56_m {
+Danke, aber ich sehe mich lieber selbst um.
+}
+ElisTaylor_56_f {
+Danke, aber ich suche lieber selbst danach.
+}
+ElisTaylor_57 {
+Hm, tut mir leid, aber ich bin die Person, die Sie suchen. Das bin ich.
+}
+ElisTaylor_58 {
+Na, schau einer an!
+}
+ElisTaylor_59 {
+@<GetFullName>, meinst du ihn?
+}
+ElisTaylor_60 {
+Das ist der.
+}
+ElisTaylor_61 {
+Nein, nicht seiner.
+}
+ElisTaylor_62 {
+@<GetFullName>, hast du über sie gesprochen?
+}
+ElisTaylor_63 {
+Genau, es geht um sie.
+}
+ElisTaylor_64 {
+Nein, nicht wegen ihr. Vielleicht sollte ich es noch einmal benennen?
+}
+ElisTaylor_65 {
+Weißt du, ich danke dir, aber ich möchte niemanden sonst mehr fragen.
+}
+ElisTaylor_66 {
+Dann müssen Sie Ihren Namen und Nachnamen noch einmal angeben.
+}
+ElisTaylor_67 {
+Ich habe keine Ahnung, wo er ist.
+}
+ElisTaylor_68 {
+Ich habe nicht die geringste Ahnung, wo er jetzt ist.
+}
+ElisTaylor_69 {
+Ich habe ihn schon eine ganze Weile nicht gesehen. Deshalb kann ich es nicht sagen.
+}
+ElisTaylor_70 {
+@<LinkRandPhrase>
+}
+ElisTaylor_71 {
+Verstanden.
+}
+ElisTaylor_72 {
+Ich verstehe... Nun, danke.
+}
+ElisTaylor_73 {
+@<RandPhraseSimple>
+}
+ElisTaylor_74 {
+Ich habe keine Ahnung, wo sie ist.
+}
+ElisTaylor_75 {
+Ich habe nicht die geringste Ahnung, wo er jetzt ist.
+}
+ElisTaylor_76 {
+Ich habe sie schon eine ganze Weile nicht gesehen. Deshalb kann ich es nicht sagen.
+}
+ElisTaylor_77 {
+@<LinkRandPhrase>
+}
+ElisTaylor_78 {
+Verstanden.
+}
+ElisTaylor_79 {
+Ich verstehe... Nun, danke.
+}
+ElisTaylor_80 {
+@<RandPhraseSimple>
+}
+ElisTaylor_81 {
+Er ist hier, auf diesem Schiff. Bitte schauen Sie genauer hin.
+}
+ElisTaylor_82 {
+Hm, aber er ist gerade auf diesem Schiff...
+}
+ElisTaylor_83 {
+Er ist auf diesem Schiff – seltsam, dass ihr euch noch nicht begegnet seid.
+}
+ElisTaylor_84 {
+@<LinkRandPhrase>
+}
+ElisTaylor_85 {
+Ich habe ihn erst vor Kurzem gesehen, @<npchar>.
+}
+ElisTaylor_86 {
+Weißt du, ich habe ihn neulich getroffen, @<npchar>. Also such dort nach ihm.
+}
+ElisTaylor_87 {
+Soweit ich weiß, ist er im Moment bei @<npchar>.
+}
+ElisTaylor_88 {
+@<LinkRandPhrase>
+}
+ElisTaylor_89 {
+Tut mir leid, aber er ist direkt hier, @<npchar>. Du solltest besser aufpassen.
+}
+ElisTaylor_90 {
+Hm, er ist hier, unter uns!
+}
+ElisTaylor_91 {
+Wenn du dich genauer umgesehen hättest, hättest du ihn sicher schon entdeckt...
+}
+ElisTaylor_92 {
+@<LinkRandPhrase>
+}
+ElisTaylor_93 {
+Ich habe ihn erst vor Kurzem gesehen, @<npchar>.
+}
+ElisTaylor_94 {
+Ich habe ihn kürzlich bei @<npchar> getroffen. Du wirst ihn also dort finden.
+}
+ElisTaylor_95 {
+Soweit ich weiß, ist er im Moment bei @<npchar>.
+}
+ElisTaylor_96 {
+@<LinkRandPhrase>
+}
+ElisTaylor_97 {
+Ach so. Danke!
+}
+ElisTaylor_98 {
+Vielen Dank.
+}
+ElisTaylor_99 {
+@<RandPhraseSimple>
+}
+ElisTaylor_100 {
+Sie ist hier, auf diesem Schiff. Bitte schauen Sie genauer hin.
+}
+ElisTaylor_101 {
+Hm, aber sie ist gerade auf diesem Schiff...
+}
+ElisTaylor_102 {
+Sie ist auf diesem Schiff – seltsam, dass ihr euch noch nicht begegnet seid.
+}
+ElisTaylor_103 {
+@<LinkRandPhrase>
+}
+ElisTaylor_104 {
+Ich habe sie erst vor Kurzem gesehen, @<npchar>.
+}
+ElisTaylor_105 {
+Weißt du, ich habe sie neulich bei @<npchar> getroffen. Such also dort nach ihr.
+}
+ElisTaylor_106 {
+Soweit ich weiß, ist sie momentan bei @<npchar>.
+}
+ElisTaylor_107 {
+@<LinkRandPhrase>
+}
+ElisTaylor_108_m {
+Tut mir leid, aber sie ist genau hier, @<npchar>. Du solltest besser aufpassen.
+}
+ElisTaylor_108_f {
+Tut mir leid, aber sie ist direkt hier, @<npchar>. Du solltest besser aufpassen.
+}
+ElisTaylor_109 {
+Hm, sie ist hier, unter uns!
+}
+ElisTaylor_110 {
+Wenn du dich hier genauer umgesehen hättest, hättest du sie sicher schon entdeckt...
+}
+ElisTaylor_111 {
+@<LinkRandPhrase>
+}
+ElisTaylor_112 {
+Ich habe sie erst vor Kurzem gesehen, @<npchar>.
+}
+ElisTaylor_113 {
+Ich habe sie neulich bei @<npchar> getroffen. Du kannst sie also dort sehen.
+}
+ElisTaylor_114 {
+Soweit ich weiß, ist sie momentan bei @<npchar>.
+}
+ElisTaylor_115 {
+@<LinkRandPhrase>
+}
+ElisTaylor_116 {
+Ah, ich verstehe. Danke!
+}
+ElisTaylor_117 {
+Vielen Dank.
+}
+ElisTaylor_118 {
+@<RandPhraseSimple>
+}
+ElisTaylor_119 {
+Ich höre dir aufmerksam zu.
+}
+ElisTaylor_120 {
+Hör zu, was ist das für eine Insel?
+}
+ElisTaylor_121 {
+Sind Sie Engländer?
+}
+ElisTaylor_122 {
+Sag mal, lebst du schon lange in der Stadt?
+}
+ElisTaylor_123 {
+Ich habe keine Fragen an dich, tut mir leid.
+}
+ElisTaylor_124 {
+Was, du weißt es noch nicht? Das hier ist die Stadt der verlorenen Schiffe. Und wir alle hier – wir sind verlorene Seelen... Ach, ich bin das alles so leid!
+}
+ElisTaylor_125 {
+Ich verstehe...
+}
+ElisTaylor_126 {
+Ja, ich bin Engländer. Na und?
+}
+ElisTaylor_127 {
+Gibt es hier viele Engländer?
+}
+ElisTaylor_128 {
+Gibt es, aber ich habe sie nicht gezählt. Weißt du, hier spielt es überhaupt keine Rolle, aus welchem Land du kommst. Es bedeutet nichts und ändert nichts.
+}
+ElisTaylor_129 {
+Ich verstehe...
+}
+ElisTaylor_130 {
+Nicht wirklich, etwa ein halbes Jahr.
+}
+ElisTaylor_131 {
+Verstanden.
+}
+ElisTaylor_132 {
+Welche genau?
+}
+ElisTaylor_133 {
+Du hast danach schon gefragt.
+}
+ElisTaylor_134 {
+Schon gefragt...
+}
+ElisTaylor_135 {
+Du hast mich schon nach diesen Waren gefragt. Ich weiß nichts darüber!
+}
+ElisTaylor_136 {
+Ich suche Kanonenkugeln, Bomben, Kartätschen, Kettenkugeln, Vorräte, Medizin ...
+}
+ElisTaylor_137_m {
+Ja... Tut mir leid, das ist mir entfallen.
+}
+ElisTaylor_137_f {
+Ja... Entschuldigung, ich habe es vergessen.
+}
+ElisTaylor_138 {
+Ach so.
+}
+ElisTaylor_139_m {
+Schon gut, schon gut...
+}
+ElisTaylor_139_f {
+Schon gut, schon gut...
+}
+ElisTaylor_140 {
+Nun, ich habe weder Vorräte noch Medizin. Aber ich habe noch jede Menge Kanonenkugeln auf dem Schiff, aus der Zeit, als es noch unter eigener Flagge fuhr. Wie viele brauchst du?
+}
+ElisTaylor_141 {
+Hundert Stück sollten ausreichen.
+}
+ElisTaylor_142 {
+Na gut, nimm es.
+}
+ElisTaylor_143 {
+Vielen Dank! Können Sie mir sagen, wer sie auf die 'San Gabriel' bringen kann?
+}
+ElisTaylor_144 {
+Hm, also, ich weiß nicht ... Frag Felix Mendoza!
+}
+ElisTaylor_145 {
+In Ordnung, das mache ich. Danke!
+}
+ElisTaylor_146 {
+Aber... Und warum sollte ich dir vertrauen?
+}
+ElisTaylor_147 {
+Du schuldest mir nichts. Aber wenn du jetzt nicht mit mir gehst, wirst du sicher zugrunde gehen. Die Sache ist die: Der herannahende Sturm wird die Stadt zerstören.
+}
+ElisTaylor_148 {
+Und woher weißt du das?
+}
+ElisTaylor_149 {
+Der Mechaniker hat es herausgefunden.
+}
+ElisTaylor_150 {
+Oh, ich glaube ihm, so wird es wohl sein.\nNa gut, du hast mich überzeugt.
+}
+ElisTaylor_151 {
+Dann geh zum 'San Gabriel'. Malcolm bringt dich zu meinem Schiff. Und dein Ehemann?
+}
+ElisTaylor_152 {
+Dieser Narr und Säufer? Ich konnte ihn nicht rausholen. Und ich habe es satt, ihn immer wieder aus Schwierigkeiten zu ziehen!.. Ich will ihn nie wiedersehen!
+}
+ElisTaylor_153 {
+Jammern kannst du später. Jetzt los!
+}
+ElisTaylor_154 {
+Danke. Machen Sie sich keine Sorgen, ich rufe meinen Mann selbst. Er läuft nicht weg – darauf können Sie sich verlassen.
+}
+ElisTaylor_155 {
+Aye. Aber lass dir nicht zu viel Zeit!
+}
+ElisTaylor_156 {
+Ganz genau, @<GetAddress_Form>. Mein Mann, dieser Narr Maksim, sitzt schon wieder im Gefängnis. Ich will ihm ein letztes Mal helfen.
+}
+ElisTaylor_157 {
+Wenn ich das richtig verstehe, wollen Sie ihn aus dem Gefängnis holen.
+}
+ElisTaylor_158 {
+Genau. Tu das, und ich kann dich belohnen.
+}
+ElisTaylor_159 {
+Womit, wenn ich fragen darf?
+}
+ElisTaylor_160_m {
+Nun, du bist also der neue Bürger der Stadt. Ich kann dir etwas geben, das dir sehr nützlich sein wird.
+}
+ElisTaylor_160_f {
+Nun, Sie sind also der neue Bürger der Stadt. Ich kann Ihnen etwas anbieten, das Sie sehr nützlich finden werden.
+}
+ElisTaylor_161 {
+Was genau?
+}
+ElisTaylor_162 {
+Einer der Schlüssel, die alle Truhen in der Stadt verschließen.
+}
+ElisTaylor_163 {
+Das ist wirklich etwas, das du brauchst. Ich helfe dir.
+}
+ElisTaylor_164 {
+Tut mir leid, das brauche ich nicht.
+}
+ElisTaylor_165 {
+Das ist wirklich schade. Dann suche ich mir woanders Hilfe.
+}
+ElisTaylor_166 {
+Pass auf dich auf.
+}
+ElisTaylor_167 {
+Sehr gut. Dann warte ich hier auf meinen Mann. Viel Glück!
+}
+ElisTaylor_168 {
+Ich kümmere mich darum, warte einfach.
+}
+ElisTaylor_169 {
+Und was will dieser Halunke?
+}
+ElisTaylor_170 {
+Soweit ich es verstehe, will er aus dem Gefängnis raus.
+}
+ElisTaylor_171 {
+Ich habe ihn so satt!
+}
+ElisTaylor_172_m {
+Hör zu, willst du ihn da rausholen oder nicht? Wenn ja, könnte ich dabei helfen.
+}
+ElisTaylor_172_f {
+Hör zu, willst du ihn da rausholen oder nicht? Wenn ja, könnte ich dabei helfen.
+}
+ElisTaylor_173 {
+In Ordnung, ich nehme deine Hilfe an. Befreie ihn, und ich gebe dir etwas, das du dringend brauchst.
+}
+ElisTaylor_174 {
+Hm ... Und was genau, wenn ich fragen darf?
+}
+ElisTaylor_175 {
+Einer der Schlüssel, die die Truhen in der Stadt öffnen.
+}
+ElisTaylor_176 {
+Genau das brauche ich! Ich bin dabei.
+}
+ElisTaylor_177 {
+Tut mir leid, aber ich lehne lieber ab. Klär deine Angelegenheiten selbst.
+}
+ElisTaylor_178 {
+Mein Gott, ist das wirklich wahr? Wie hast du das geschafft?
+}
+ElisTaylor_179_m {
+Nun, ich habe ein paar Dinge herausgefunden und dem Admiral berichtet. Chad hat zugestimmt, deinem Mann noch eine Chance zu geben, sich zu beruhigen.
+}
+ElisTaylor_179_f {
+Nun, ich habe ein paar Dinge herausgefunden und dem Admiral berichtet. Chad hat zugestimmt, deinem Mann noch eine Chance zu geben, sich zu beruhigen.
+}
+ElisTaylor_180 {
+Ausgezeichnet! Ich glaube, nach so einem Schock wird er nicht mehr so trinken.
+}
+ElisTaylor_181 {
+Das hoffe ich wirklich.
+}
+ElisTaylor_182 {
+Du hast dein Wort gehalten, und ich halte meines. Hier ist der Schlüssel, wie versprochen.
+}
+ElisTaylor_183 {
+Danke, ich brauche es wirklich.
+}
+ElisTaylor_184 {
+Aber denk daran, du solltest nicht in fremden Truhen herumwühlen. Wenn du erwischt wirst, bist du geliefert.
+}
+ElisTaylor_185 {
+Das verstehe ich, danke.
+}
+ElisTaylor_186 {
+Damit hatte ich schon früher zu tun, aber worauf willst du hinaus?
+}
+ElisTaylor_187 {
+Wir haben darüber schon gesprochen.
+}
+ElisTaylor_188 {
+Das wurde bereits besprochen, ich wiederhole mich.
+}
+ElisTaylor_189 {
+Genug, hör auf!..
+}
+ElisTaylor_190 {
+Er verlangt einen unverschämten Preis für die Stadtkarte, kannst du dir das vorstellen! Das ist doch glatter Raub!
+}
+ElisTaylor_191_m {
+Ja... Tut mir leid, das ist mir entfallen.
+}
+ElisTaylor_191_f {
+Ja... Entschuldigung, ich habe es vergessen.
+}
+ElisTaylor_192 {
+Ganz genau...
+}
+ElisTaylor_193 {
+Na gut...
+}
+ElisTaylor_194 {
+Ich verstehe deinen Ärger, aber ich weiß nicht, wie ich dir helfen kann.
+}
+ElisTaylor_195 {
+Schon gut, ich spreche mit jemand anderem.
+}
+ElisTaylor_196 {
+Gott sei Dank, dass du hier bist! Dieser... Mein verdammter Säufer! Ich hab’s gewusst! Gott ist mein Zeuge, in dem Moment, als ich ein Schiff betrat... Ich! Ich...
+}
+ElisTaylor_197 {
+Alice, beruhige dich! Jetzt ist nicht der richtige Moment dafür! Du musst zu unserem Schiff gehen.
+}
+ElisTaylor_198 {
+Ja, ja... Ich bin bereit, Captain. Ich weiß, wir haben wenig Zeit. Sag mir einfach, wann wir übersetzen sollen, und ich tue, was getan werden muss.\nEntschuldige mein Verhalten und danke für alles, @<GetAddress_Form>. Ich hoffe, wir sehen uns wieder, wenn dieser Albtraum vorbei ist.\nOh, ich hätte es fast vergessen... Hier, nimm das – es stammt aus Maxims Schmiede. Ich denke, du kannst es viel besser gebrauchen als ich.
+}
+ElisTaylor_199 {
+Der Weg ist frei, Alice. Geh nach oben zu Malcolm auf das Hauptdeck. Er bringt dich und die anderen zum Schiff. Beeil dich – der Sturm wird immer schlimmer, und wir müssen es schaffen, bevor alles untergeht.
+}

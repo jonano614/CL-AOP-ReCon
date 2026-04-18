@@ -1,0 +1,1494 @@
+Common_Tavern_1 {
+La ciudad está en máxima alerta, te buscan por todas partes. Si fuera tú, no me quedaría aquí.
+}
+Common_Tavern_2 {
+Toda la guardia de la ciudad está registrando el pueblo buscándote. No soy ningún tonto, ¡y no voy a hablar contigo!
+}
+Common_Tavern_3_m {
+Corre, amigo, antes de que los soldados te llenen de agujeros...
+}
+Common_Tavern_3_f {
+Corre, muchacha, antes de que los soldados te llenen de agujeros...
+}
+Common_Tavern_4 {
+@<LinkRandPhrase>
+}
+Common_Tavern_5_m {
+¿Qué quieres, canalla? ¡La guardia de la ciudad ya está tras de ti—no llegarás lejos, sucio pirata!
+}
+Common_Tavern_5_f {
+¿Qué quieres, desgraciado? La guardia de la ciudad ya te está buscando; no llegarás lejos.
+}
+Common_Tavern_6_m {
+¡Asesino despreciable, sal de mi casa! ¡Guardias!
+}
+Common_Tavern_6_f {
+¡Asesino despreciable, sal de mi casa! ¡Guardias!
+}
+Common_Tavern_7_m {
+¡No te tengo miedo, canalla! Pronto estarás colgando en nuestro fuerte—no llegarás muy lejos…
+}
+Common_Tavern_7_f {
+¡No te tengo miedo, bruja! Pronto estarás colgando de la horca en nuestro fuerte—no llegarás muy lejos…
+}
+Common_Tavern_8 {
+@<LinkRandPhrase>
+}
+Common_Tavern_9 {
+Je, la alarma no es problema para mí...
+}
+Common_Tavern_10 {
+Nunca me atraparán.
+}
+Common_Tavern_11 {
+@<RandPhraseSimple>
+}
+Common_Tavern_12 {
+¡Cierra esa boca sucia, @<GetWorkTypeOfMan>, o te arranco la lengua podrida!
+}
+Common_Tavern_13 {
+Je, @<GetWorkTypeOfMan>, ¿sigues persiguiendo piratas, eh? Déjame decirte algo, amigo: mantén la cabeza baja y vivirás para contarlo...
+}
+Common_Tavern_14 {
+@<RandPhraseSimple>
+}
+Common_Tavern_15 {
+¡Hola, Doctor Blood! @<TimeGreeting>.
+}
+Common_Tavern_16 {
+Me alegra verte, Peter Blood.
+}
+Common_Tavern_17 {
+Me alegra que hayas pasado, @<GetFullName>. ¿Cómo está el coronel Bishop?
+}
+Common_Tavern_18 {
+@<LinkRandPhrase>
+}
+Common_Tavern_19 {
+Lamentablemente, ya me voy, @<NPChar>. Hasta que nos volvamos a ver.
+}
+Common_Tavern_20 {
+Hola, amigo @<NPChar>, ¿podrías decirme cómo encontrar al Doctor Wacker?
+}
+Common_Tavern_21 {
+Tengo un asunto delicado que quiero tratar contigo.
+}
+Common_Tavern_22 {
+Busco a un hombre llamado Rafael Guinness. ¿Cómo puedo encontrarlo?
+}
+Common_Tavern_23 {
+¡Por el amor de Dios, capitán, ayúdeme! ¡Van a arruinarlo todo! ¡Mi taberna!
+}
+Common_Tavern_24 {
+¿Eres un hombre lobo o algo así?
+}
+Common_Tavern_25 {
+Capitán, prometió que iría a ver al hombre lobo...
+}
+Common_Tavern_26 {
+Lo recuerdo.
+}
+Common_Tavern_27 {
+Bueno, ¿qué dice, capitán? ¿Lo encontró?
+}
+Common_Tavern_28_m {
+Lo encontré. Pero ahora no es momento de hablar; te lo contaré todo después…
+}
+Common_Tavern_28_f {
+Lo encontré. Pero ahora no es momento de hablar; te lo contaré todo después...
+}
+Common_Tavern_29 {
+¡Capitán, me alegra verlo!
+}
+Common_Tavern_30 {
+¿Qué pasó con ese huésped tuyo?
+}
+Common_Tavern_31_m {
+Vaya, vaya, otro capitán audaz viene de visita. Póngase cómodo, señor. Me llamo Lucky Rosin, siempre a su disposición. Hace buen tiempo hoy, ¿no le parece? ¿Le apetece un poco de ron?
+}
+Common_Tavern_31_f {
+Vaya, mira quién ha venido—¡otra valiente marinera honrándonos con su presencia! Siéntase como en casa, señora. Me llamo Lucky Rosin, siempre a su disposición. Buen clima hoy, ¿no le parece? ¿Le apetece un poco de ron?
+}
+Common_Tavern_32_m {
+¿Cómo dijiste que te llamabas? ¿La Kerosin? ¡Nunca imaginé que habría castellanos entre piratas!
+}
+Common_Tavern_32_f {
+¿Cómo dijiste que te llamabas? ¿La Kerosin? ¡Nunca habría imaginado que hubiera castellanos entre los piratas!
+}
+Common_Tavern_33 {
+Bienvenido, @<GetAddress_Form>. Comida, bebida y entretenimiento, todo a precios justos. Mi nombre es @<GetFullName>. Soy el dueño de esta taberna.
+}
+Common_Tavern_34_m {
+¿One-Eyed Steed? He oído hablar de ti. Dicen que hace poco te hiciste famoso cazando galeones españoles. Aunque cuesta creerlo...
+}
+Common_Tavern_34_f {
+¿One-Eyed Steed? He oído hablar de ti. Dicen que hace poco te hiciste famoso cazando galeones españoles. Aunque cuesta creerlo...
+}
+Common_Tavern_35 {
+Bienvenido, @<GetAddress_Form>. Comida, bebida y entretenimiento, todo a precios justos. Mi nombre es @<GetFullName>, aunque la mayoría me conoce como el Zorro Catalán. Soy el dueño de esta taberna.
+}
+Common_Tavern_36_m {
+¿El Zorro Catalán? He oído hablar de ti. Dicen que una vez les diste un buen susto a los ingleses en Barbados: capturaste una corbeta de la marina justo en el puerto con un viejo cascarón y te la llevaste navegando delante de las narices del fuerte.
+}
+Common_Tavern_36_f {
+¿El Zorro Catalán? He oído hablar de ti. Dicen que una vez diste un buen susto a los ingleses en Barbados: tomaste una fragata de guerra justo en el puerto con poco más que una chatarra flotante, y te la llevaste navegando delante mismo del fuerte.
+}
+Common_Tavern_37 {
+¡Bienvenido, @<GetAddress_Form>. @<GetFullName> a su servicio! ¿Me permitiría ofrecerle lo único que considero realmente valioso en este mundo: un poco de ron? ¡Je, je, je!
+}
+Common_Tavern_38 {
+Ah, @<npchar>, lo más valioso del mundo es la información.
+}
+Common_Tavern_39 {
+Bienvenido a la taberna '@<GetConvertStr>', @<GetAddress_Form>. Comida, bebida y entretenimiento, todo a precios justos.
+}
+Common_Tavern_40 {
+Bienvenido, @<GetAddress_Form>. Comida, bebida y entretenimiento, todo a precios justos.
+}
+Common_Tavern_41 {
+Veamos... Soy @<GetFullName>.
+}
+Common_Tavern_42 {
+Entonces, capitán, ¿me trajiste @<FindMoneyString>?
+}
+Common_Tavern_43_m {
+Sí, los traje. Aquí están...
+}
+Common_Tavern_43_f {
+Sí, los traje. Aquí están...
+}
+Common_Tavern_44_m {
+No, todavía no lo he traído...
+}
+Common_Tavern_44_f {
+No, todavía no lo he traído…
+}
+Common_Tavern_45_m {
+¿Cuál es su deseo, buen señor?
+}
+Common_Tavern_45_f {
+¿Cuál es su deseo, distinguida señora?
+}
+Common_Tavern_46 {
+Una botella de ron para mi amigo, en esa mesa.
+}
+Common_Tavern_47 {
+¡Hola, @<GetAddress_Form> @<PChar>! @<TimeGreeting>.
+}
+Common_Tavern_48 {
+¡Vaya, qué visita tenemos! Me alegra verte, @<GetAddress_Form> @<PChar>.
+}
+Common_Tavern_49 {
+Me alegra que hayas venido, @<GetFullName>. ¿Qué vas a pedir hoy?
+}
+Common_Tavern_50 {
+@<LinkRandPhrase>
+}
+Common_Tavern_51 {
+¿Hay muchachos en la isla listos para zarpar?
+}
+Common_Tavern_52 {
+Espero que puedas responder un par de preguntas.
+}
+Common_Tavern_53 {
+Escucha, tenemos que hablar sobre asuntos financieros.
+}
+Common_Tavern_54 {
+¿Puede decirme algo sobre el reciente robo en la iglesia?
+}
+Common_Tavern_55 {
+¿Qué sabes sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_56 {
+¿Has oído algo sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_57 {
+@<LinkRandPhrase>
+}
+Common_Tavern_58_m {
+Quisiera preguntar dónde puedo encontrar a alguien llamado @<pchar>. ¿Vive aquí en su ciudad?
+}
+Common_Tavern_58_f {
+Quisiera preguntar dónde puedo encontrar a alguien llamado @<pchar>. ¿Vive aquí en su ciudad?
+}
+Common_Tavern_59 {
+¿Tienes una perrera libre en tu choza llena de pulgas?
+}
+Common_Tavern_60_m {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_60_f {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_61 {
+Lamentablemente, ya me voy, @<NPChar>. Hasta que nos volvamos a ver.
+}
+Common_Tavern_62_m {
+¿Qué puedo hacer por usted, buen señor?
+}
+Common_Tavern_62_f {
+¿Cuál es su deseo, amable dama?
+}
+Common_Tavern_63 {
+Una botella de ron para mi amigo en esa mesa.
+}
+Common_Tavern_64 {
+Oh, no te tomes mis palabras tan a pecho, @<GetAddress_Form>. Me gusta refunfuñar y quejarme de la vida de vez en cuando... Bueno, te escucho, capitán.
+}
+Common_Tavern_65 {
+Necesito una tripulación, @<NPChar>.
+}
+Common_Tavern_66 {
+@<NPChar>, hablemos un momento...
+}
+Common_Tavern_67 {
+Escucha, tenemos que hablar de asuntos financieros.
+}
+Common_Tavern_68 {
+¿Puede contarme algo sobre el reciente robo en la iglesia?
+}
+Common_Tavern_69 {
+¿Qué sabes sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_70 {
+¿Has oído algo sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_71 {
+@<LinkRandPhrase>
+}
+Common_Tavern_72 {
+¿Tienes una perrera libre en tu guarida llena de pulgas?
+}
+Common_Tavern_73_m {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_73_f {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_74 {
+Creo que pasaré más tarde.
+}
+Common_Tavern_75 {
+Bueno, siempre me alegra conversar con una compañía agradable... Entonces, ¿qué era lo que querías, @<GetAddress_Form>?
+}
+Common_Tavern_76 {
+Necesito una tripulación, @<NPChar>.
+}
+Common_Tavern_77 {
+@<NPChar>, hablemos un momento...
+}
+Common_Tavern_78 {
+Escucha, tenemos que hablar de asuntos financieros.
+}
+Common_Tavern_79 {
+¿Puede decirme algo sobre el reciente robo en la iglesia?
+}
+Common_Tavern_80 {
+¿Qué sabes sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_81 {
+¿Has oído algo sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_82 {
+@<LinkRandPhrase>
+}
+Common_Tavern_83 {
+¿Tienes una perrera libre en tu cuchitril lleno de pulgas?
+}
+Common_Tavern_84_m {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_84_f {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_85 {
+Creo que pasaré más tarde.
+}
+Common_Tavern_86 {
+Oh, siempre me alegra conversar contigo, @<GetAddress_Form>. ¿En qué puedo ayudarte?
+}
+Common_Tavern_87 {
+Necesito una tripulación, @<NPChar>.
+}
+Common_Tavern_88 {
+@<NPChar>, hablemos un momento...
+}
+Common_Tavern_89 {
+Escucha, tenemos que hablar sobre asuntos financieros.
+}
+Common_Tavern_90 {
+¿Puede decir algo sobre el reciente robo en la iglesia?
+}
+Common_Tavern_91 {
+¿Qué sabes sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_92 {
+¿Has oído algo sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_93 {
+@<LinkRandPhrase>
+}
+Common_Tavern_94 {
+¿Tienes una perrera libre en tu choza llena de pulgas?
+}
+Common_Tavern_95_m {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_95_f {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_96 {
+Creo que pasaré más tarde.
+}
+Common_Tavern_97_m {
+Solo soy un viejo y alegre tabernero, siempre dispuesto a animarte, amigo. ¿Te apetece un poco de ron? Je, je, je.
+}
+Common_Tavern_97_f {
+Solo soy un viejo y alegre tabernero, siempre dispuesto a animarte, querida. ¿Te apetece un poco de ron? Je, je, je.
+}
+Common_Tavern_98 {
+Necesito una tripulación, @<NPChar>.
+}
+Common_Tavern_99 {
+@<NPChar>, hablemos un momento...
+}
+Common_Tavern_100 {
+Escucha, tenemos que hablar sobre asuntos financieros.
+}
+Common_Tavern_101 {
+¿Puede decirme algo sobre el reciente robo en la iglesia?
+}
+Common_Tavern_102 {
+¿Qué sabes sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_103 {
+¿Has oído algo sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_104 {
+@<LinkRandPhrase>
+}
+Common_Tavern_105 {
+¿Tienes una perrera libre en tu choza llena de pulgas?
+}
+Common_Tavern_106_m {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_106_f {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_107 {
+Creo que pasaré más tarde.
+}
+Common_Tavern_108 {
+Ya lo verá por sí mismo, @<GetAddress_Form>. Mi nombre es @<GetFullName>. Soy el dueño de esta taberna.
+}
+Common_Tavern_109 {
+Necesito una tripulación, @<NPChar>.
+}
+Common_Tavern_110 {
+@<NPChar>, hablemos un momento...
+}
+Common_Tavern_111 {
+Escucha, tenemos que hablar de asuntos financieros.
+}
+Common_Tavern_112 {
+¿Puede decir algo sobre el reciente robo en la iglesia?
+}
+Common_Tavern_113 {
+¿Qué sabes sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_114 {
+¿Has oído algo sobre el reciente robo en la iglesia local?
+}
+Common_Tavern_115 {
+@<LinkRandPhrase>
+}
+Common_Tavern_116_m {
+Quisiera preguntar dónde puedo encontrar a alguien llamado @<pchar>. ¿Vive aquí en su ciudad?
+}
+Common_Tavern_116_f {
+Quisiera preguntar dónde puedo encontrar a alguien llamado @<pchar>. ¿Vive aquí en su ciudad?
+}
+Common_Tavern_117 {
+¿Tienes una perrera libre en tu guarida llena de pulgas?
+}
+Common_Tavern_118_m {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_118_f {
+¿Tiene una habitación disponible? Me gustaría quedarme aquí un tiempo.
+}
+Common_Tavern_119 {
+Creo que pasaré más tarde.
+}
+Common_Tavern_120 {
+¿Y para qué necesitas marineros? No veo tu barco en el puerto.
+}
+Common_Tavern_121_m {
+Cierto... Lo amarré en el lugar equivocado.
+}
+Common_Tavern_121_f {
+Cierto... Lo atracé en el lugar equivocado.
+}
+Common_Tavern_122_m {
+Olvidé entrar al puerto...
+}
+Common_Tavern_122_f {
+Olvidé entrar al puerto...
+}
+Common_Tavern_123 {
+@<RandPhraseSimple>
+}
+Common_Tavern_124 {
+Normalmente, mi taberna está llena de gente buscando embarcarse como marineros, pero ahora es demasiado tarde; no aparecerán hasta la mañana. ¿Quizás quieras alquilar una habitación y esperar?
+}
+Common_Tavern_125 {
+De acuerdo. ¿Tiene habitaciones disponibles?
+}
+Common_Tavern_126 {
+No me interesa una habitación en este momento. Adiós.
+}
+Common_Tavern_127 {
+¿Y crees que alguien se unirá a ti mientras estés en conflicto con nosotros? Da gracias que no llamo a los guardias.
+}
+Common_Tavern_128 {
+Gracias.
+}
+Common_Tavern_129 {
+Lo siento, pero ahora no hay nadie aquí. Todos se fueron con el valiente capitán @<GetFullName>.
+}
+Common_Tavern_130 {
+¡Ah, qué lástima!
+}
+Common_Tavern_131 {
+Capitán, dicen que es usted un poco tacaño. Nadie tiene muchas ganas de unirse a su tripulación.
+}
+Common_Tavern_132 {
+Ya veo...
+}
+Common_Tavern_133 {
+Te escucho.
+}
+Common_Tavern_134 {
+Busco trabajo. ¿Puedes ayudarme?
+}
+Common_Tavern_135 {
+¿Me cuentas las últimas noticias?
+}
+Common_Tavern_136 {
+¿Qué hay de nuevo por aquí?
+}
+Common_Tavern_137 {
+¿Cómo va la vida en tierra?
+}
+Common_Tavern_138 {
+@<LinkRandPhrase>
+}
+Common_Tavern_139 {
+Estoy aquí por otros asuntos.
+}
+Common_Tavern_140 {
+Actúo por orden del gobernador. Dime, ¿has visto a alguien sospechoso en la ciudad últimamente?
+}
+Common_Tavern_141 {
+¿Sabe dónde puedo encontrar a alguien llamado @<pchar>?
+}
+Common_Tavern_142 {
+¿Podría decirme dónde puedo encontrar a alguien llamado @<pchar>?
+}
+Common_Tavern_143_m {
+Hola, he venido por invitación de su hijo.
+}
+Common_Tavern_143_f {
+Hola, he venido por invitación de su hijo.
+}
+Common_Tavern_144 {
+¿Podría decirme dónde puedo encontrar a André Abel?
+}
+Common_Tavern_145 {
+Así que @<pchar> no se ha pasado por aquí, ¿eh?
+}
+Common_Tavern_146 {
+¿Podría decirme dónde puedo encontrar a alguien llamado @<pchar>?
+}
+Common_Tavern_147 {
+¿Sabe dónde puedo encontrar al capitán de la patrulla, @<GetStrSmallRegister> @<pchar>?
+}
+Common_Tavern_148 {
+Así que @<GetName> no ha pasado por aquí, ¿eh?
+}
+Common_Tavern_149 {
+¿Sabes algo sobre el capitán del barco patrulla, @<GetStrSmallRegister> @<pchar>?
+}
+Common_Tavern_150 {
+¿Podría decirme dónde puedo encontrar a un caballero llamado @<pchar>?
+}
+Common_Tavern_151_m {
+Me encontré unos papeles de barco por aquí...
+}
+Common_Tavern_151_f {
+Me encontré unos documentos de un barco por aquí...
+}
+Common_Tavern_152 {
+¿Puede decirme dónde encontrar a Carlos Cassir?
+}
+Common_Tavern_153 {
+Oye, amigo, dime, ¿sabes si alguien por aquí se dedica al tráfico de esclavos?
+}
+Common_Tavern_154 {
+Te he traído 1,000 piastras. Ahora dime lo que sabes.
+}
+Common_Tavern_155 {
+Gracias, nada. Adiós.
+}
+Common_Tavern_156_m {
+¡Pues has venido a preguntar a la persona indicada! En el siguiente asentamiento, los piratas lo resuelven todo de forma mucho más sencilla.
+}
+Common_Tavern_156_f {
+¡Pues has venido a preguntarle a la persona indicada! En el próximo asentamiento, los piratas lo resuelven todo de forma mucho más sencilla.
+}
+Common_Tavern_157_m {
+He estado allí. Ahora mismo no tienen nada, y no puedo esperar; este es un trato muy rentable que se me está escapando de las manos. Solo tengo un par de días, después ya no importará.
+}
+Common_Tavern_157_f {
+Yo estuve allí. Ahora mismo no tienen nada, y no puedo esperar—este es un trato muy rentable que se me está escapando. Solo tengo un par de días, después ya no importará.
+}
+Common_Tavern_158 {
+Hmm, bueno, tal vez sí sé algo... Pero no voy a hablar gratis—no soy una organización benéfica. Mi información cuesta 1,000 piastras. Paga o sigue tu camino.
+}
+Common_Tavern_159 {
+Muy bien, aquí tienes 1,000 piastras... Ahora dime lo que sabes.
+}
+Common_Tavern_160 {
+No tengo ese dinero... Volveré cuando consiga algo.
+}
+Common_Tavern_161 {
+Bueno, no lo sé. Es un asunto ilegal, así que nadie te ofrecerá esclavos abiertamente. Los plantadores los compran por su cuenta, dondequiera que puedan encontrarlos. Las compañías comerciales nacionales—especialmente las holandesas—han controlado este negocio durante mucho tiempo, y es poco probable que alguien se atreva a desafiar abiertamente su monopolio. Quizás deberías preguntarles a los contrabandistas.
+}
+Common_Tavern_162 {
+Entiendo. ¿Por casualidad sabe si la goleta 'Sentblu' atracó en su puerto recientemente?
+}
+Common_Tavern_163 {
+¿"Sentblu"? No, definitivamente no he estado allí. Y el nombre tampoco me suena.
+}
+Common_Tavern_164 {
+Muy bien, gracias. Has sido de gran ayuda. Nos vemos.
+}
+Common_Tavern_165 {
+¿Qué dijiste, @<pchar>? Hmm, nunca he oído hablar de eso.
+}
+Common_Tavern_166 {
+¿Estás seguro de que realmente es de nuestro asentamiento? Nunca antes había oído hablar de él.
+}
+Common_Tavern_167 {
+Nunca ha pasado algo así en nuestro asentamiento. En todos mis años aquí, nunca había oído de algo semejante.
+}
+Common_Tavern_168 {
+@<LinkRandPhrase>
+}
+Common_Tavern_169 {
+¿Estás seguro?
+}
+Common_Tavern_170 {
+a la iglesia
+}
+Common_Tavern_171 {
+al astillero
+}
+Common_Tavern_172 {
+a la iglesia
+}
+Common_Tavern_173 {
+al prestamista
+}
+Common_Tavern_174 {
+a la tienda
+}
+Common_Tavern_175 {
+Ve a ver a @<pchar>, suele estar allí.
+}
+Common_Tavern_176 {
+Gracias, me aseguraré de pasar.
+}
+Common_Tavern_177 {
+¿Qué dijiste? @<pchar>? Hmm, nunca he oído ese nombre. ¿Estás seguro de que realmente son de nuestro asentamiento?
+}
+Common_Tavern_178 {
+Je, je, je... Solo el Señor sabe dónde buscarlo ahora—si está en el cielo o en las profundidades. Está muerto... se fue hace ya dos años, y aun así la gente sigue preguntando por él, husmeando, sin dejar que el pobre alma descanse...
+}
+Common_Tavern_179 {
+@<RandPhraseSimple>
+}
+Common_Tavern_180 {
+Ya no lo encontrarás, no en este mundo, eso seguro. Falleció hace poco, la fiebre amarilla se lo llevó… Que descanse en paz… ¡Y qué hombre tan fuerte era! Dicen que en su juventud hizo cosas que ni te imaginarías. Pero así es — la novia vino por él, y ahora solo queda su recuerdo…
+}
+Common_Tavern_181 {
+¡Vaya, llegas tarde! Hace mucho que se fue. Tal vez fue a ver a sus hijos, tal vez zarpó hacia Europa—nadie lo sabe con certeza. Simplemente recogió sus cosas y desapareció.
+}
+Common_Tavern_182 {
+@<RandPhraseSimple>
+}
+Common_Tavern_183 {
+Ah, ¿no estarás buscando a ese @<pchar> que de repente se hizo rico y compró una casa en New Albion? Hubo un tiempo en que le invitaba a ron fiado. Todavía me debe, incluso ahora. ¡Pero intenta sacarle algo hoy en día! No, la gente nunca recuerda un buen gesto...
+}
+Common_Tavern_184 {
+@<LinkRandPhrase>
+}
+Common_Tavern_185 {
+Ya veo. Bueno, gracias de todos modos.
+}
+Common_Tavern_186 {
+¿Y dónde más lo buscarías, si no es aquí en nuestra taberna? Suele venir bastante seguido, ahogando sus viejos pecados en ron, jeje. Pasa más tarde; si aparece, le diré que te espere.
+}
+Common_Tavern_187 {
+Gracias, pasaré por ahí.
+}
+Common_Tavern_188 {
+¿Cómo no voy a estar seguro, si conozco a cada colono de aquí como la palma de mi mano? No es mi primer año al frente de esta taberna, ¿sabes? Los he visto de todas las maneras: algunos arrastrados a casa por sus esposas, otros que siempre regresan al puerto con la bodega llena por su cuenta, y a algunos hasta me ha tocado echarlos yo mismo. ¡Y todavía me preguntas si estoy seguro!
+}
+Common_Tavern_189 {
+Está bien, gracias por eso al menos...
+}
+Common_Tavern_190 {
+Suele pasar por aquí bastante a menudo, pero ahora mismo no lo veo. Pásate de vez en cuando; si aparece, le diré que te espere.
+}
+Common_Tavern_191 {
+Viene por aquí a menudo. Si pasas más tarde, seguro que lo encuentras.
+}
+Common_Tavern_192 {
+Pásate de vez en cuando, él suele venir por aquí. Le avisaré que lo estabas buscando.
+}
+Common_Tavern_193 {
+@<LinkRandPhrase>
+}
+Common_Tavern_194 {
+Gracias, pasaré más tarde...
+}
+Common_Tavern_195 {
+Él estuvo aquí. Debe estar cerca...
+}
+Common_Tavern_196 {
+Gracias.
+}
+Common_Tavern_197 {
+¿Quién no ha oído hablar de él? Es de lo único que se ha estado hablando en el asentamiento estos días.
+}
+Common_Tavern_198 {
+¿Puedes contarme más?
+}
+Common_Tavern_199 {
+Así que ejecutaron a ese capitán junto con parte de su tripulación, dispersaron al resto por todo el archipiélago, despojándolos de su rango y servicio... ¿Y para qué? La sentencia leída antes de la ejecución afirmaba que, durante una patrulla, supuestamente hundió un barco que pasaba por aguas locales y ocultó la carga de su bodega.\nPero es difícil de creer: nunca se encontró ni al dueño del barco ni la carga... Hasta hoy siguen revisando cada cala.
+}
+Common_Tavern_200 {
+¿Entonces nadie de la tripulación confesó dónde está el escondite?
+}
+Common_Tavern_201 {
+¡Ni uno solo!.. No puedo entender cómo el gobernador creyó esa calumnia tan fácilmente. El capitán @<pchar> tenía una reputación intachable, y la forma en que mantenía a su tripulación bajo control—cualquier almirante la envidiaría, se lo aseguro.
+}
+Common_Tavern_202 {
+¿Y dónde debería buscar a los miembros de la tripulación que sobrevivieron?
+}
+Common_Tavern_203 {
+Bueno, no sabría decir, se los llevaron a todos... En realidad, no, uno de ellos se quedó, pero dudo que te sirva de algo. Está en estado de shock, antes era artillero de @<pchar>. Lo encontraron inconsciente en una cala dos días después de aquel desafortunado incidente. Al principio lo enviaron al hospital como a un héroe, pero cuando la situación cambió, lo metieron en el calabozo e intentaron interrogarlo. Más tarde, decidieron que necesitaba tratamiento después de todo.
+}
+Common_Tavern_204 {
+¿Así que ahora está en el asentamiento?
+}
+Common_Tavern_205 {
+Sí, se llama @<GetName>. A veces pasa por aquí pidiendo ron. Si lo veo, le diré que te espere.
+}
+Common_Tavern_206 {
+Gracias, pasaré más tarde.
+}
+Common_Tavern_207 {
+¿Cómo no iba a saberlo? Por supuesto que sí. ¿Y para qué lo necesitas?
+}
+Common_Tavern_208 {
+Tengo asuntos con él.
+}
+Common_Tavern_209 {
+Será mejor que tengas cuidado con este “negocio”, @<GetAddress_Form>. @<pchar> ha sido arrestado bajo sospecha de mala conducta oficial, y ahora los sabuesos del gobernador están peinando la isla en busca de sus cómplices.
+}
+Common_Tavern_210 {
+Pero... ¿qué hizo exactamente?
+}
+Common_Tavern_211 {
+No sé qué tan cierto sea, pero dicen que escondió la carga que tomó de un barco pirata que pasaba. Sin embargo, nadie ha logrado encontrar ni al pirata ni a la carga. No entiendo por qué el gobernador fue tan rápido en creer semejante calumnia. Después de todo, el capitán @<pchar> tenía una reputación intachable, y es un buen soldado, créame, @<GetAddress_Form>.
+}
+Common_Tavern_212 {
+Bueno, gracias por la advertencia. Que te vaya bien.
+}
+Common_Tavern_213 {
+¿Y para qué la necesitas?
+}
+Common_Tavern_214 {
+Tengo asuntos con ella...
+}
+Common_Tavern_215 {
+La mitad de los hombres de nuestro asentamiento tienen negocios con ella. Si las mujeres la atraparan, la echarían desnuda por las puertas de la ciudad.
+}
+Common_Tavern_216_m {
+Hmm. Parece que me he sumado al final de una larga fila. Si alguien viene preguntando por ella, dile que espere detrás de mí…
+}
+Common_Tavern_216_f {
+Hmm. Ya veo...
+}
+Common_Tavern_217 {
+Suele venir aquí buscando trabajo, pero ahora mismo no lo veo. Pásate de vez en cuando; si aparece, le diré que te espere.
+}
+Common_Tavern_218 {
+Gracias, pasaré más tarde...
+}
+Common_Tavern_219_m {
+Ah, ¿así que eres el capitán que trajo de regreso a mi hijo descarriado junto con su joven esposa?
+}
+Common_Tavern_219_f {
+Ah, así que tú eres la joven que trajo a mi hijo descarriado de regreso a casa con su nueva esposa.
+}
+Common_Tavern_220_m {
+Sí, fui yo quien les ayudó a escapar.
+}
+Common_Tavern_220_f {
+Sí, fui yo quien les ayudó a escapar.
+}
+Common_Tavern_221_m {
+Ah, ahí estás, mi benefactor. ¿Esperando una recompensa, verdad?
+}
+Common_Tavern_221_f {
+Ah, así que apareciste, benefactora. ¿Esperas una recompensa, verdad?
+}
+Common_Tavern_222 {
+Bueno, quizá no sea una recompensa, pero unas palabras de agradecimiento no estarían de más.
+}
+Common_Tavern_223 {
+Le estoy sinceramente agradecido por no haber abandonado a mi hijo en una situación difícil y por haberle ayudado a superar un asunto tan delicado con honor. Permítame expresarle mi agradecimiento de la mejor manera posible. Acepte esta suma modesta y un obsequio de mi parte.
+}
+Common_Tavern_224 {
+Gracias, me alegró poder ayudar a esos jóvenes.
+}
+Common_Tavern_225 {
+¿Gratitud? ¿Qué gratitud? ¿Por qué, exactamente? ¡Ese holgazán lleva medio año sin trabajar y ahora le sobra tiempo para andar de galán! A su edad, yo ya tenía mi propio negocio. Pero míralo, todo entusiasmado. La hija del gobernador está lista para casarse, y él aparece en casa con una desconocida—Dios me perdone—y ahora viene a pedir la bendición de sus padres.
+}
+Common_Tavern_226 {
+¿Hmm, así que no crees en los sentimientos verdaderos?
+}
+Common_Tavern_227 {
+¡¿Qué sentimientos?! ¿De qué hablas, sentimientos? Eres una persona adulta y aun así... ¡sentimientos! Debería darte vergüenza, alentando a los jóvenes en esas cosas, haciendo de casamentera. Arrancaste a la muchacha de su familia y arruinaste la vida de mi hijo. No esperes ningún agradecimiento de mi parte. Adiós.
+}
+Common_Tavern_228 {
+Bueno, cuídate...
+}
+Common_Tavern_229 {
+¡Déjame echar un vistazo! Hmm... Pero tú eres el capitán. Creo que deberías ir a ver al maestro del puerto.
+}
+Common_Tavern_230 {
+Gracias por el consejo.
+}
+Common_Tavern_231 {
+¡Déjame ver! ¡Oh! Por el nombre, estos pertenecen a uno de mis clientes habituales, un caballero muy respetable. Puedo entregar los documentos al dueño personalmente.
+}
+Common_Tavern_232 {
+Probablemente no...
+}
+Common_Tavern_233_m {
+Me alegra haber podido ayudarlo.
+}
+Common_Tavern_233_f {
+Me alegra haber podido ayudarlo.
+}
+Common_Tavern_234_m {
+No me importa a quién sirvo; el dinero no tiene nacionalidad. Pero no te ayudaré, ya que viniste bajo la bandera de @<NationNameGenitive>.
+}
+Common_Tavern_234_f {
+No me importa a quién sirva: el dinero no tiene nacionalidad. Pero no te ayudaré, ya que viniste bajo la bandera de @<NationNameGenitive>.
+}
+Common_Tavern_235 {
+Solo soy un humilde tabernero, pero no tengo ningún deseo de tratar con @<NationNameInstrumental>.
+}
+Common_Tavern_236 {
+@<RandPhraseSimple>
+}
+Common_Tavern_237 {
+Hmm, esa es tu decisión...
+}
+Common_Tavern_238 {
+Bueno, como quieras...
+}
+Common_Tavern_239 {
+@<RandPhraseSimple>
+}
+Common_Tavern_240 {
+Normalmente hay suficientes pasajeros. Pero dudo que encuentres a algún ingenuo entre ellos dispuesto a viajar en tu barco. Tu mala reputación te precede, y primero tendrás que ganarte el nombre de capitán honesto.
+}
+Common_Tavern_241 {
+Los comerciantes suelen venir a mí en busca de escolta. Pero tu mala reputación te precede a donde vayas, y no voy a recomendar tus servicios a nadie. Mi propia reputación vale más para mí.
+}
+Common_Tavern_242 {
+@<RandPhraseSimple>
+}
+Common_Tavern_243 {
+No le des tanta importancia a esos rumores...
+}
+Common_Tavern_244 {
+Sí, no puedes hacer callar a todos...
+}
+Common_Tavern_245 {
+Ah, la gente de hoy en día sí que es muy tímida...
+}
+Common_Tavern_246 {
+@<LinkRandPhrase>
+}
+Common_Tavern_247 {
+Siempre hay trabajo, si no te asusta pisar asentamientos piratas o puertos de naciones enemigas. Por lo general, por eso acuden a mí: mercaderes que buscan escolta, o pasajeros que no se atreven a ir a la autoridad portuaria. ¿Buscas algo en particular?
+}
+Common_Tavern_248_m {
+Bueno, eso no es nada de qué preocuparse. Yo me encargaría del trabajo de escolta.
+}
+Common_Tavern_248_f {
+Bueno, eso no es nada de qué preocuparse. Yo me encargaría del trabajo de escolta.
+}
+Common_Tavern_249 {
+¿Algún pasajero? Te llevo a donde quieras, incluso al mismo diablo, siempre que pagues.
+}
+Common_Tavern_250 {
+No, ese tipo de trabajo no es para mí. Gracias.
+}
+Common_Tavern_251 {
+¿Y dónde está tu barco? Amarra tu nave en el muelle y luego hablaremos de negocios.
+}
+Common_Tavern_252 {
+Hmm, es cierto...
+}
+Common_Tavern_253_m {
+¿Qué pasa, quieres armar toda una caravana? Ya tienes a alguien a quien escoltar; termina con esa persona primero y luego busca a otra. Si no, no sabrás a quién proteger si hay un ataque.
+}
+Common_Tavern_253_f {
+¿Qué pasa, quieres armar toda una caravana? Ya tienes a alguien a quien escoltar; termina con esa persona primero y luego busca a otro. De lo contrario, si hay un ataque, no sabrás a quién proteger.
+}
+Common_Tavern_254 {
+Qué lástima... Bueno, cuídate.
+}
+Common_Tavern_255_m {
+Sí, tienes razón, no lo pensé. Bueno, adiós.
+}
+Common_Tavern_255_f {
+Sí, tienes razón, no lo había pensado. Bueno, entonces, adiós.
+}
+Common_Tavern_256 {
+@<RandPhraseSimple>
+}
+Common_Tavern_257 {
+Lo siento, pero no tengo a nadie dispuesto a emprender un viaje contigo.
+}
+Common_Tavern_258 {
+Entendido. Como desee.
+}
+Common_Tavern_259 {
+Hmm, pero tu escuadrón es demasiado grande para ser solo una escolta. Deberías preocuparte por no perder tus propios barcos, y mucho menos por proteger a otros.
+}
+Common_Tavern_260 {
+Vamos, no voy a perder los míos... tal vez venda un par. Está bien, pasaré más tarde si cambio de opinión.
+}
+Common_Tavern_261 {
+Hmm, puedo sugerirte que hables con el hombre que está sentado junto a las escaleras. Justo estaba buscando a alguien que lo acompañe. Parece que tiene algún problema...
+}
+Common_Tavern_262 {
+Gracias...
+}
+Common_Tavern_263_m {
+Je, parece que ya tengo trabajo.
+}
+Common_Tavern_263_f {
+Je, parece que ya tengo trabajo.
+}
+Common_Tavern_264 {
+@<RandPhraseSimple>
+}
+Common_Tavern_265 {
+Bueno, entonces ve a hablar con ese tipo que acaba de entrar en la taberna. Hoy estuvo preguntando por un escolta.
+}
+Common_Tavern_266 {
+¿Lo conoces bien? ¿Quizás sea un pirata?
+}
+Common_Tavern_267 {
+¿Y quién es él? ¿Vale la pena tratar con él?
+}
+Common_Tavern_268 {
+@<RandPhraseSimple>
+}
+Common_Tavern_269 {
+Hoy, para variar, nadie ha venido a pedir escolta. Vuelve en un par de días, quizá aparezca alguien.
+}
+Common_Tavern_270 {
+De acuerdo, entonces no ha pasado nada.
+}
+Common_Tavern_271 {
+Sí, qué mala suerte... Bueno, adiós.
+}
+Common_Tavern_272 {
+@<RandPhraseSimple>
+}
+Common_Tavern_273 {
+Hoy no hay nadie aquí. Vuelve en un par de días.
+}
+Common_Tavern_274 {
+De acuerdo. Como digas.
+}
+Common_Tavern_275 {
+Lo siento, pero no tengo a nadie dispuesto a emprender un viaje contigo.
+}
+Common_Tavern_276 {
+Entendido. Como desee.
+}
+Common_Tavern_277 {
+Ese tipo acaba de entrar en la taberna; estaba preguntando por un barco que vaya en su dirección, buscando cómo llegar a algún sitio. Si quieres, ve a hablar con él.
+}
+Common_Tavern_278 {
+¿Y quién es este tipo? ¿Será algún bribón, o un hombre buscado?
+}
+Common_Tavern_279 {
+¿Y quién es él? ¿Va a causar algún problema?
+}
+Common_Tavern_280 {
+@<RandPhraseSimple>
+}
+Common_Tavern_281 {
+No, nadie preguntó hoy. Quizás otro día...
+}
+Common_Tavern_282 {
+Bueno, si no es así, no hay más que decir...
+}
+Common_Tavern_283 {
+Sí, qué mala suerte... Bueno, adiós.
+}
+Common_Tavern_284 {
+@<RandPhraseSimple>
+}
+Common_Tavern_285 {
+Hoy no hay nadie aquí. Vuelve en un par de días.
+}
+Common_Tavern_286 {
+De acuerdo. Como digas.
+}
+Common_Tavern_287_m {
+Quién sabe. Preguntaste, te respondí.
+}
+Common_Tavern_287_f {
+Quién sabe. Preguntaste, te respondí.
+}
+Common_Tavern_288_m {
+Bueno, eso lo decides tú. Yo no pondría las manos en el fuego por nadie aquí.
+}
+Common_Tavern_288_f {
+Bueno, eso lo decides tú. Yo no pondría las manos en el fuego por nadie aquí.
+}
+Common_Tavern_289_m {
+Tú decides, por aquí pasa todo tipo de gente. Esto es una taberna, no la mansión del gobernador.
+}
+Common_Tavern_289_f {
+Como quieras, aquí viene todo tipo de gente. Esto es una taberna, no la mansión del gobernador.
+}
+Common_Tavern_290 {
+@<LinkRandPhrase>
+}
+Common_Tavern_291 {
+Bueno, gracias, vamos a negociar un poco.
+}
+Common_Tavern_292_m {
+Quién sabe. Preguntaste, te respondí.
+}
+Common_Tavern_292_f {
+Quién sabe. Preguntaste, te respondí.
+}
+Common_Tavern_293_m {
+Bueno, eso lo decides tú. Yo no pondría las manos en el fuego por nadie aquí.
+}
+Common_Tavern_293_f {
+Bueno, eso lo decides tú. Yo no pondría las manos en el fuego por nadie aquí.
+}
+Common_Tavern_294_m {
+Como quieras, por aquí pasa todo tipo de gente. Esto es una taberna, no la mansión del gobernador.
+}
+Common_Tavern_294_f {
+Como quieras, aquí viene todo tipo de gente. Esto es una taberna, no la mansión del gobernador.
+}
+Common_Tavern_295 {
+@<LinkRandPhrase>
+}
+Common_Tavern_296 {
+Bien, veamos qué clase de tipo es este.
+}
+Common_Tavern_297 {
+La habitación está ocupada en este momento, @<GetAddress_Form>, no puedo ayudarte.
+}
+Common_Tavern_298 {
+Qué pena, qué lástima...
+}
+Common_Tavern_299 {
+Ya me pagaste una semana por adelantado; no puedo aceptar más dinero de ti. La habitación es tuya, ve y descansa…
+}
+Common_Tavern_300 {
+Muy bien, gracias.
+}
+Common_Tavern_301 {
+¿Quieres alquilar una habitación? No hay problema. Son 100 monedas, y puedes pasar enseguida.
+}
+Common_Tavern_302 {
+Toma tu dinero, abre la habitación, amigo...
+}
+Common_Tavern_303 {
+Hmm, creo que volveré más tarde…
+}
+Common_Tavern_304 {
+La habitación es tuya, ve y descansa...
+}
+Common_Tavern_305 {
+Muy bien, gracias.
+}
+Common_Tavern_306 {
+¿Quieres alquilar una habitación? No hay problema. Son 10 monedas, y puedes pasar enseguida.
+}
+Common_Tavern_307 {
+Toma tu dinero, abre la habitación, amigo...
+}
+Common_Tavern_308 {
+Hmm, creo que volveré más tarde...
+}
+Common_Tavern_309 {
+¿Quieres alquilar una habitación? No hay problema. Son 100 monedas, y puedes pasar.
+}
+Common_Tavern_310 {
+Toma tu dinero, abre la habitación, amigo...
+}
+Common_Tavern_311 {
+Hmm, creo que volveré más tarde...
+}
+Common_Tavern_312 {
+La habitación es tuya, ve y descansa...
+}
+Common_Tavern_313 {
+Muy bien, gracias.
+}
+Common_Tavern_314 {
+¿Cuánto tiempo piensas quedarte?
+}
+Common_Tavern_315 {
+Hasta la mañana.
+}
+Common_Tavern_316 {
+Hasta la noche.
+}
+Common_Tavern_317 {
+Hasta la mañana siguiente.
+}
+Common_Tavern_318 {
+Ahora no. Hablemos de otra cosa.
+}
+Common_Tavern_319 {
+Eso te costará 5 piastras.
+}
+Common_Tavern_320 {
+Trato hecho. Aquí tienes tu dinero.
+}
+Common_Tavern_321 {
+¿Me está ofreciendo la suite real? No, gracias, a ese precio prefiero quedarme en la sala común.
+}
+Common_Tavern_322 {
+Por desgracia, parece que un lujo como una cama está fuera de mi alcance. Pasaré la noche en la sala común.
+}
+Common_Tavern_323 {
+Ahora no. Hablemos de otra cosa.
+}
+Common_Tavern_324 {
+Eso te costará 10 piastras.
+}
+Common_Tavern_325 {
+Trato hecho. Aquí tienes tu dinero.
+}
+Common_Tavern_326 {
+¿Me está ofreciendo la suite real? Ni pensarlo, a ese precio prefiero quedarme en la sala común.
+}
+Common_Tavern_327 {
+Por desgracia, parece que un lujo como una cama está fuera de mi alcance. Pasaré la noche en la sala común.
+}
+Common_Tavern_328 {
+Ahora no. Hablemos de otra cosa.
+}
+Common_Tavern_329 {
+Eso te costará 5 piastras.
+}
+Common_Tavern_330 {
+Trato hecho. Aquí tienes tu dinero.
+}
+Common_Tavern_331 {
+¿Está alquilando la suite real? Ni pensarlo, por ese precio prefiero quedarme en la sala común.
+}
+Common_Tavern_332 {
+Por desgracia, parece que un lujo como una cama está fuera de mi alcance. Pasaré la noche en la sala común.
+}
+Common_Tavern_333 {
+Ahora no. Hablemos de otra cosa.
+}
+Common_Tavern_334_m {
+¡Fuera de aquí, mocoso! No puedes quedarte en la sala común sin pagar.
+}
+Common_Tavern_334_f {
+¡Fuera de aquí, mocosa andrajosa! No puedes quedarte en la sala común sin pagar.
+}
+Common_Tavern_335 {
+Está bien, está bien... Ya me voy.
+}
+Common_Tavern_336_m {
+¡Fuera de aquí, mocoso! No puedes quedarte en la sala común sin pagar.
+}
+Common_Tavern_336_f {
+¡Fuera de aquí, muchacha harapienta! No puedes quedarte en la sala común sin pagar.
+}
+Common_Tavern_337 {
+Está bien, está bien... Ya me voy.
+}
+Common_Tavern_338 {
+¡Señoras y señores, les pido que detengan este escándalo en mi taberna, o llamaré a la guardia!
+}
+Common_Tavern_339 {
+Está bien, está bien, ya me voy.
+}
+Common_Tavern_340 {
+Hmm, déjame pensar... Sabes, hay un tipo en quien no confío para nada. Parece un ciudadano común, pero siempre anda por ahí, recorriendo la ciudad y haciendo preguntas extrañas. No creo que venga por aquí—ayer lo eché. Pero intenta buscarlo en la ciudad.
+}
+Common_Tavern_341 {
+Ya hemos hablado de esto y no tengo nada más que decirte.
+}
+Common_Tavern_342 {
+Otra vez lo mismo... Ya te he contado todo.
+}
+Common_Tavern_343 {
+¿Cuántas veces vas a preguntar lo mismo?
+}
+Common_Tavern_344 {
+Gracias, amigo. Bien, iré a buscar a ese tipo.
+}
+Common_Tavern_345 {
+Hm, bueno, lo siento...
+}
+Common_Tavern_346 {
+Hmm, sí...
+}
+Common_Tavern_347 {
+Lo siento, amigo...
+}
+Common_Tavern_348 {
+No, no he visto a nadie que me haga sospechar.
+}
+Common_Tavern_349 {
+Ya hemos hablado de esto y no tengo nada más que decirte.
+}
+Common_Tavern_350 {
+Otra vez lo mismo... Ya te he contado todo.
+}
+Common_Tavern_351 {
+¡¿Cuántas veces vas a preguntar lo mismo?!
+}
+Common_Tavern_352 {
+Bueno, gracias por eso, amigo.
+}
+Common_Tavern_353 {
+Hm, bueno, lo siento...
+}
+Common_Tavern_354 {
+Hmm, sí...
+}
+Common_Tavern_355 {
+Lo siento, amigo...
+}
+Common_Tavern_356 {
+La puerta al final del pasillo. No estaba hablando contigo.
+}
+Common_Tavern_357 {
+Gracias.
+}
+Common_Tavern_358 {
+¿Qué asuntos tiene conmigo, estimado doctor?
+}
+Common_Tavern_359 {
+Así es la vida... No me molestaría tener a mano un par de sables de abordaje y un par de pistolas, por si acaso, querido amigo. ¿Puedes encargarte de eso, verdad? O al menos indicarme a alguien que pueda hacerlo. Sabes que no tiene sentido que vaya a la tienda...
+}
+Common_Tavern_360 {
+Bueno, por supuesto que no.
+}
+Common_Tavern_361 {
+¿No puedes hacerlo? ¿O no tiene sentido?
+}
+Common_Tavern_362 {
+¿Acaso no mencioné que tengo una recompensa para alguien entendido... digamos, mil piastras? Y recuerda cómo traté a tu hija, sin escatimar ni mi tiempo ni mi esfuerzo.
+}
+Common_Tavern_363 {
+No puedo ayudarte con eso, doctor.
+}
+Common_Tavern_364 {
+Todo lo mejor.
+}
+Common_Tavern_365 {
+Por supuesto, tengo lo que necesita, Doctor Blood. El señor Griffin, a quien le trató la fractura hace poco, es un viejo armero de profesión. Su casa está cerca de la finca del gobernador Steed; visítelo. Estoy seguro de que no le rechazará.
+}
+Common_Tavern_366 {
+Que te vaya bien.
+}
+Common_Tavern_367 {
+Creo que recuerdo a alguien así... o quizás no era él... no parece que fuera él...
+}
+Common_Tavern_368 {
+¿Quinientos te refrescan la memoria?
+}
+Common_Tavern_369 {
+¿Es así o no?
+}
+Common_Tavern_370 {
+¡Por supuesto! ¡Es él, sin duda! Estuvo aquí hace poco, hablando de comprar un barco... No estoy seguro de cuál exactamente, ni de quién.
+}
+Common_Tavern_371 {
+¿Y qué sabes tú? Me parece que por 500 piastras podrías recordar muchos más detalles que solo el hecho de que solía venir aquí.
+}
+Common_Tavern_372 {
+No, lamentablemente... definitivamente no es él. Te has equivocado, sucede.
+}
+Common_Tavern_373 {
+Qué lástima...
+}
+Common_Tavern_374 {
+Creo que lo encontrarás en el astillero, si te das prisa.
+}
+Common_Tavern_375 {
+Muchas gracias.
+}
+Common_Tavern_376_m {
+¡No, no! Está arriba, el inquilino—dicen que de verdad es un cambiaformas.\nCapitán, usted es valiente, se lo ruego, haga algo. Si esa gente de la calle entra aquí… No quiero ni imaginar lo que podría pasar.
+}
+Common_Tavern_376_f {
+¡No, no! Está arriba, huésped, dicen que de verdad es un hombre lobo.\nCapitana, usted es valiente, se lo ruego, ¡haga algo! Si esa gente de la calle entra aquí... ¡Prefiero no imaginar lo que podría pasar!
+}
+Common_Tavern_377 {
+No sé quién tiene más miedo, si tú o los que esperan detrás de la puerta. Está bien, hablaré con tu invitado.
+}
+Common_Tavern_378 {
+¡Gracias a Dios que me deshice de él! Tenía que abrir la puerta, al fin y al cabo, la mayoría de la gente eran mis clientes. Un par de botellas de ron rotas es un precio pequeño a pagar...
+}
+Common_Tavern_379 {
+Te pregunto, ¿qué pasa con el invitado?
+}
+Common_Tavern_380_m {
+¿El hombre lobo? Por supuesto, lo enviaron a la hoguera. ¿No viste el humo de la pira cuando venías de la iglesia? Ese que sigue ardiendo es él, el hombre lobo...
+}
+Common_Tavern_380_f {
+¿Ah, te refieres al hombre lobo? Por supuesto, lo enviaron a la hoguera. ¿No viste el humo de la pira cuando venías de la iglesia? Ese que sigue ardiendo es él, el hombre lobo...
+}
+Common_Tavern_381 {
+Veo que ustedes son rápidos.
+}
+Common_Tavern_382 {
+Ah, ¡capitán @<GetFullName>! André Abel fue asesinado hace dos días. Los asesinos lo esperaban justo en la entrada de la taberna... ¡Qué lástima! Era un hombre tan agradable—generoso, cortés, nunca alzaba la voz, nunca se metía en peleas. Y ahora, así de repente—¡una muerte así! Tsk-tsk-tsk...
+}
+Common_Tavern_383_m {
+¡Vaya!.. No me lo esperaba para nada. De verdad siento lástima por esa pobre alma, de verdad...
+}
+Common_Tavern_383_f {
+¡Vaya!.. No me lo esperaba. De verdad siento lástima por esa pobre alma, de verdad...
+}
+Common_Tavern_384 {
+No sé mucho sobre eso… Mejor pregúntale a uno de los habituales.
+}
+Common_Tavern_385 {
+Entendido, gracias.
+}
+Common_Tavern_386_m {
+No damos crédito, señor.
+}
+Common_Tavern_386_f {
+No damos crédito, señora.
+}
+Common_Tavern_387_m {
+Estoy acostumbrado a pagar en moneda sonante, buen hombre. ¿O es que el oro ya no es bien recibido aquí?
+}
+Common_Tavern_387_f {
+Estoy acostumbrado a pagar en moneda sonante, querida. ¿O es que el oro ya no es bien recibido aquí?
+}
+Common_Tavern_388_m {
+Lo siento, capitán, pero su amigo tiene una deuda, y pensé...
+}
+Common_Tavern_388_f {
+Lo siento, capitana, pero su amigo tiene una deuda, y pensé...
+}
+Common_Tavern_389 {
+Menos pensar, buen hombre, y un poco más de rapidez con el servicio. Entonces, ¿cuánto le debe mi valiente amigo?
+}
+Common_Tavern_390_m {
+@<FindMoneyString>, señor capitán, y dejó los libros de la iglesia como garantía — era todo lo de valor que llevaba consigo.
+}
+Common_Tavern_390_f {
+@<FindMoneyString>, capitana, y dejó los libros de la iglesia como garantía — era todo lo de valor que tenía consigo.
+}
+Common_Tavern_391 {
+Aquí tienes tus monedas, ahora entrega los manuscritos. Y ten cuidado con ellos—no son barriles de cerveza, sino los escritos de los propios santos de Dios.
+}
+Common_Tavern_392 {
+Espera un momento... Te traeré el dinero enseguida.
+}
+Common_Tavern_393_m {
+@<FindMoneyString>, señor capitán.
+}
+Common_Tavern_393_f {
+@<FindMoneyString>, capitana.
+}
+Common_Tavern_394 {
+Pagaré su deuda y tomaré lo que dejó como garantía.
+}
+Common_Tavern_395_m {
+No, señor, eso no servirá.
+}
+Common_Tavern_395_f {
+No, señora, eso no será posible.
+}
+Common_Tavern_396_m {
+¿Cómo que “eso no sirve”? El capitán recibe el pago de su deuda y está contento. Tú recibes tu dinero y estás contento. Yo recupero mi depósito y también estoy contento. Todos quedan satisfechos, todo está bien. Entonces, ¿por qué “eso no sirve”?
+}
+Common_Tavern_396_f {
+¿Cómo que “eso no sirve”?! El capitán recibe su pago y está contento. Tú recibes tu dinero y estás contento. Yo recupero mi depósito y también estoy contento. Todos quedan satisfechos, todos ganan. Entonces, ¿por qué “eso no sirve”?
+}
+Common_Tavern_397_m {
+Porque, capitán, no necesito dinero. Conozco demasiado bien a su capitán y nunca esperé que pudiera pagar, ni que viniera a pedir que le devolvieran estos manuscritos.
+}
+Common_Tavern_397_f {
+Porque, señora capitana, no necesito dinero. Conozco demasiado bien a su capitán, y nunca pensé que pudiera pagar, ni que vendría a pedir que le devolviera esos manuscritos.
+}
+Common_Tavern_398 {
+¿Cómo que no necesitas el dinero? ¿Entonces querías quedarte con los libros para ti? ¡Pero por qué, por el amor de Dios!
+}
+Common_Tavern_399_m {
+Precisamente en nombre del Señor, señor. Mi pequeño hijo estaba gravemente enfermo, y mi esposa y yo prometimos hacer una ofrenda a la iglesia si el Creador salvaba a nuestro hijo de la fiebre. La misericordia de Dios no tiene límites: nuestro niño está sano y salvo, y ahora debemos cumplir nuestra promesa. Y justo entonces, el capitán @<PChar> aparece y deja los libros de la iglesia como garantía. No podía permitir tal deshonra—pagar por bebida con la Palabra de Dios—así que decidí donar hoy los libros a nuestro párroco.
+}
+Common_Tavern_399_f {
+Así es, en nombre del Señor, señora. Mi pequeño hijo estuvo gravemente enfermo, y mi esposa y yo prometimos hacer una ofrenda a la iglesia si el Creador salvaba a nuestro niño de la fiebre. La misericordia del Señor no tiene límites: nuestro hijo está sano y salvo, y ahora debemos cumplir nuestra promesa. Y justo a tiempo, el capitán @<PChar> aparece y deja los libros de la iglesia como garantía. No podía permitir semejante sacrilegio—pagar la bebida con la Palabra de Dios—por eso decidí donar hoy los libros a nuestro párroco.
+}
+Common_Tavern_400_m {
+Sin duda, es una causa noble, pero debes saber que estos manuscritos pertenecen a otro sacerdote—bueno, no solo un sacerdote, sino un obispo poderoso, mi guía espiritual. Se enfurecerá, tal vez incluso maldiga a quien los toque… Me gustaría comprártelos y entregárselos sano y salvo.
+}
+Common_Tavern_400_f {
+Sin duda, es una causa noble, pero debes saber que estos manuscritos pertenecen a otro sacerdote—bueno, no solo un sacerdote, sino un obispo poderoso, mi guía espiritual. Se enfurecerá, quizá incluso maldiga a quien los toque... Me gustaría comprártelos y entregárselos a salvo.
+}
+Common_Tavern_401_m {
+Señor... Capitán, señor... Por supuesto, lo devolveré, no hace falta dinero. Solo hable bien de nosotros con el obispo, que nos bendiga y dé por cumplido nuestro voto...
+}
+Common_Tavern_401_f {
+Señora... Capitán... Por supuesto, lo devolveré, no hace falta dinero. Solo hable bien de nosotros con el obispo, que nos bendiga y considere cumplido nuestro voto...
+}
+Common_Tavern_402 {
+Por supuesto, buen hombre, tu promesa con tu esposa será respetada, ya que, después de todo, renunciaste a tu recompensa y devolviste los manuscritos a su lugar legítimo. A qué iglesia asistan no importa; todos caminamos bajo el mismo Dios. Entrégalos, entonces, y que tengas suerte...
+}
+Common_Tavern_403 {
+mes
+}
+Common_Tavern_404 {
+tres semanas
+}
+Common_Tavern_405 {
+dos meses
+}
+Common_Tavern_406 {
+Falleció repentinamente por fiebre
+}
+Common_Tavern_407 {
+Apuñalado fuera de las puertas de la ciudad—bandidos, o tal vez salvajes de piel roja.
+}
+Common_Tavern_408 {
+Herido en un duelo
+}
+Common_Tavern_409 {
+Eh, señor, bueno, @<pchar> falleció hace @<LinkRandPhrase>. @<LinkRandPhrase>. Que la tierra le sea leve, que Dios lo tenga en su gloria...
+}
+Common_Tavern_410 {
+Vaya, mira eso... Entonces, ¿qué se supone que debo hacer con su... ejem, ahora? Bien, gracias por la información. Adiós, @<npchar>.
+}
+Common_Tavern_411 {
+@<pchar>? Sí, debería estar en algún lugar de la ciudad. Búscalo por las calles. Solo ten en cuenta que cada día, hasta el mediodía, está en la oficina del gobernador, y después de las nueve se encierra en su casa.
+}
+Common_Tavern_412 {
+¡Gracias! Iré a mirar...
+}
+Common_Tavern_413_m {
+¡Ustedes, caballeros de fortuna, ven españoles por todas partes! Todas esas riquezas se les han subido a la cabeza... No es La Kerosin, sino Lucky Rosin, o la Suerte del Violinista—eso es lo que significa. Tal vez lo hayan escuchado.\nEn realidad, mi nombre es Vaynard d’Alto, aunque... dudo que eso les diga algo. Ya pocos se interesan por la historia, je, je. En fin.
+}
+Common_Tavern_413_f {
+¡Ustedes, señoras de fortuna, ven españoles por todas partes! Los grandes botines se les han subido a la cabeza... No es La Kerosin, es Lucky Rosin, o el Lucky Fiddler, eso es lo que significa. ¿Quizás lo han oído?\nEn realidad, mi nombre es Vaynard d’Alto, aunque... dudo que eso les diga algo. Hoy en día, pocos se interesan por la historia, je, je. En fin.
+}
+Common_Tavern_414_m {
+Espera... Creo que ya lo recuerdo. ¡Eres ese corsario que se enfrentó a la Corona francesa y desapareció hace un par de años! ¡Que me lleve el diablo! ¡Vaya encuentro! Y he oído que el Fiddler todavía sale de vez en cuando para darle a españoles y franceses una probadita de los viejos tiempos.
+}
+Common_Tavern_414_f {
+Espera... Creo que ya lo recuerdo. ¡Eres ese corsario que se peleó con la corona francesa y desapareció hace un par de años! ¡Maldita sea! ¡Qué encuentro! Y escuché que el Fiddler todavía se escabulle de vez en cuando para darles una buena lección a los españoles y franceses, igual que en los viejos tiempos.
+}
+Common_Tavern_415_m {
+Cuidado con las velas... señor. Quien habla de más atrae malos vientos. Si me entiende.
+}
+Common_Tavern_415_f {
+Con calma con las velas... señora. Las lenguas sueltas atraen malos vientos. Si me entiende.
+}
+Common_Tavern_416 {
+Sí, quizás tengas razón. Dejemos las charlas y vayamos al grano.
+}
+Common_Tavern_417 {
+Y haces bien en no creerlo. La gente miente... Bueno, una vez surgió una oportunidad: una tormenta dispersó un convoy español, así que tuve que escoltarlo hasta Jamaica. No podía llevarlo a La Habana, ¿verdad? Je, je, je...
+}
+Common_Tavern_418 {
+Ah, te estás guardando algo... Está bien, no insistiré. Vayamos al grano.
+}
+Common_Tavern_419 {
+Sí, sí, así fue exactamente, @<GetAddress_Form>! La gente dice la verdad. ¡Todos en el archipiélago conocen las hazañas del Zorro Catalán!
+}
+Common_Tavern_420 {
+Y también he oído que no te llevas bien con Morgan. Que pasaste un mes en la cárcel de Port Royal. Y que escapaste de tu celda haciéndote pasar por Lady Taylor...
+}
+Common_Tavern_421_m {
+Shh... Mejor no hablar de eso tan alto, amigo. Solo son rumores... nada más que rumores. Y además, Morgan nunca llegará hasta mí aquí, je, je.
+}
+Common_Tavern_421_f {
+Shh... Mejor no hablar de eso tan alto, amigo. Solo rumores... nada más que rumores. Y en cuanto a Morgan, nunca llegará hasta mí aquí, jeje.
+}
+Common_Tavern_422 {
+Muy bien, @<npchar>, basta de charla, vayamos al grano.
+}
+Common_Tavern_423 {
+Je, je, je... ¿Información, dices? Has venido al lugar indicado, capitán. He oído que una mercante, Virginie Audric, encalló en unos arrecifes en algún punto entre nuestra bendita Martinique y Guadeloupe. Nadie ha oído hablar de arrecifes en esas aguas, así que supongo que ese “arrecife” tenía al menos una docena de cañones. ¡Je, je, je, je! Y bien, ¿qué tal un trago de ron para calmar los nervios? ¡Je, je, je!
+}
+Common_Tavern_424 {
+Muy gracioso, @<npchar>. Habla más claro, o te vas a reír hasta enfermarte.
+}
+Common_Tavern_425 {
+¿Hablas más claro? Je, je. Bueno, de cualquier manera, ya es hora de ponerse un poco serio.
+}
+Common_Tavern_426_m {
+Estás bromeando. ¿TÚ? ¿EN SERIO? Por supuesto, eso es imposible. ¿En qué estaba pensando?
+}
+Common_Tavern_426_f {
+Estás bromeando. ¿TÚ? ¿EN SERIO? Por supuesto, eso es imposible. ¿En qué estaba pensando?
+}
+Common_Tavern_427_m {
+Oh, amigo. Hablo completamente en serio. Je, je, je, je. De verdad.
+}
+Common_Tavern_427_f {
+Oh, cariño. Hablo completamente en serio. Je, je, je, je. De verdad.
+}
+Common_Tavern_428 {
+Muy bien, @<npchar>. Ya nos divertimos, ahora vamos al grano.
+}
+Common_Tavern_429 {
+¡Ja! Así que está por aquí, en la taberna. Lo vi hace unos cinco minutos. Mira a tu alrededor, debería seguir aquí.
+}
+Common_Tavern_430 {
+Hmm... Estuvo aquí hace como una hora. Ahora ya no está—parece que se dirigía al burdel.
+}
+Common_Tavern_431 {
+¡Gracias! ¡De verdad me ayudaste!
+}
+Common_Tavern_432 {
+Necesito desembarcar a parte de mi tripulación.
+}

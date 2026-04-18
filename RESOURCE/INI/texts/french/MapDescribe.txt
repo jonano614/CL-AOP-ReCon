@@ -1,0 +1,135 @@
+type_full_0
+{
+Ceci est #sMapIslName#. L’emplacement du trésor caché est indiqué ici : c’est #sMaplocName#. Un célèbre pirate y a dissimulé son butin.
+Les taches brunes de sang prouvent l’authenticité de la carte – elles montrent aussi qu’elle a souvent changé de mains.
+}
+type_full_0_isl {île}
+type_full_0_mein {continent}
+type_full_1
+{
+Sur la carte de #sMapIslName#. Les trésors se trouvent #sMaplocName#. Mais il faut aller voir sur place pour savoir s'ils y sont encore.
+La carte est assez ancienne et il n'y a aucun doute sur son authenticité.
+}
+type_full_1_isl {île}
+type_full_1_mein {continent}
+type_full_2 {Cette carte est toute récente – le papier n’a même pas jauni. Si la légende dit vrai, le trésor est caché à #sMaplocName# sur #sMapIslName#. Est-il vraiment là ? Ça vaut la peine d’aller voir !}
+type_full_2_isl {île}
+type_full_2_mein {continent}
+type_quest_0
+{
+Ceci est #sMapIslName#. L’emplacement du trésor caché est indiqué ici : c’est #sMaplocName#. #sMapOwner# y a dissimulé son trésor.
+Les taches brunes de sang prouvent l’authenticité de la carte – elles montrent aussi qu’elle a souvent changé de mains.
+}
+type_quest_0_isl {île}
+type_quest_0_mein {continent}
+type_part
+{
+Ceci est l’une des parties de la carte qui, apparemment, mène au trésor. Il n’y a pas assez d’informations, et ce fragment seul ne permet pas de localiser le trésor. Il ne reste plus qu’à espérer mettre la main sur la seconde partie de la carte, qui doit bien se trouver quelque part.
+Alors tout deviendra clair !
+}
+type_fake
+{
+Cette carte indique l’emplacement du trésor. Bien sûr, tu peux vérifier s’il s’y trouve ou non, mais il est certain que ce n’est qu’un faux.
+Tu ferais mieux de te débarrasser de ce bout de papier.
+}
+Antigua_Grot {dans la grotte à droite de Willoughby Bay}
+Antigua_Grot_box1 {un coffre sur une grande pierre}
+SentJons_TownCave {dans le donjon de Saint John's}
+SentJons_TownCave_box1 {sous les planches, dans une impasse}
+SentJons_TownCave_box2 {dans une impasse de la mine}
+SentJons_TownCave_box3 {près de l’éboulement}
+Barbados_Cave {dans une grotte non loin de Bridgetown}
+Barbados_Cave_box1 {sous les planches dans une impasse}
+Beliz_Cave {dans une grotte à droite de la sortie de Belize}
+Beliz_Cave_box1 {un coffre près du pont de pierre}
+Beliz_Cave_box2 {un coffre sur une grande pierre}
+Beliz_Cave_box3 {un coffre près de la corde suspendue au plafond}
+Beliz_Cave_2 {dans une grotte en face de la sortie de Belize}
+Beliz_Cave_2_box1 {sous les planches dans une impasse}
+Bermudes_Dungeon {dans un cachot sous le chantier naval de Scullshores}
+Bermudes_Dungeon_box1 {un coffre derrière une porte fermée}
+Bermudes_Dungeon_box2 {un coffre derrière une porte ouverte}
+Bermudes_Dungeon_box3 {un coffre dans une impasse}
+Bermudes_Dungeon_box4 {un coffre derrière les tonneaux}
+Caracas_Grot {dans une grotte à droite de la sortie de Caracas}
+Caracas_Grot_box1 {un coffre sur une grande pierre}
+Cartahena_Cave {dans une grotte en face de la sortie de Cartagena}
+Cartahena_Cave_box1 {un coffre sous la torche}
+Cartahena_Cave_box2 {un coffre dans une impasse}
+Cartahena_Cave_box3 {un coffre près de la torche}
+Caiman_Grot {dans une grotte à droite de la Côte Déserte}
+Caiman_Grot_box1 {un coffre sur une grande pierre}
+Charles_Grot {dans une grotte à droite de White Bay}
+Charles_Grot_box1 {un coffre sur la rive}
+Cuba_Grot {dans une grotte à droite du cap Camaguey}
+Cuba_Grot_box1 {un coffre sur la rive}
+Cumana_Cave {dans une grotte à droite de la crique de Carupano}
+Cumana_Cave_box1 {un coffre près du pont de pierre}
+Cumana_Cave_box2 {un coffre sur une grande pierre}
+Cumana_Cave_box3 {un coffre près de la corde suspendue au plafond}
+Curacao_Cave {dans une grotte à droite de la lagune Blanca}
+Curacao_Cave_box1 {un coffre sous la torche}
+Curacao_Cave_box2 {un coffre dans une impasse}
+Curacao_Cave_box3 {un coffre près de la torche}
+Dominica_Grot {dans une grotte à droite de la plage de Castle Bruce}
+Dominica_Grot_box1 {un coffre sur la rive}
+Guadeloupe_Cave {dans une grotte à gauche du phare de Guadeloupe}
+Guadeloupe_Cave_box1 {un coffre dans une niche derrière la torche}
+Guadeloupe_Cave_box2 {un coffre dans une niche derrière le pilier}
+Guadeloupe_Cave_box3 {un coffre derrière les pierres près du mur}
+Hispaniola_Cave {dans une grotte non loin de la ville de Port-au-Prince}
+Hispaniola_Cave_box1 {un coffre près du pont de pierre}
+Hispaniola_Cave_box2 {un coffre sur une grande pierre}
+Hispaniola_Cave_box3 {un coffre près de la corde suspendue au plafond}
+Jamaica_Grot {dans une grotte à droite du phare de Port Royal}
+Jamaica_Grot_box1 {un coffre sur une grande pierre}
+Orange_mines {dans la réserve souterraine de Fort Orange}
+Orange_mines_box1 {petit tonneau sous les grands}
+Maracaibo_Cave {dans une grotte en face de la sortie de Maracaibo}
+Maracaibo_Cave_box1 {un coffre sous la torche}
+Maracaibo_Cave_box2 {un coffre dans une impasse}
+Maracaibo_Cave_box3 {un coffre près de la torche}
+Marigo_Cave {dans une grotte en face de la sortie de Marigot}
+Marigo_Cave_box1 {un coffre sous la torche}
+Marigo_Cave_box2 {un coffre dans une impasse}
+Marigo_Cave_box3 {un coffre près de la torche}
+Panama_Cave {dans une grotte à gauche en sortant de Portobelo}
+Panama_Cave_box1 {sous les planches, dans une impasse}
+Pearl_Grot {dans une grotte près de la côte ouest entre Belize et Santa Catalina}
+Pearl_Grot_box1 {un coffre sur une grande pierre}
+PortoBello_Cave {dans une grotte à droite de Mosquitoes Bay}
+PortoBello_Cave_box1 {sous les planches, dans une impasse}
+SanJuan_Cave {dans une grotte non loin de San Juan}
+SanJuan_Cave_box1 {un coffre près du pont de pierre}
+SanJuan_Cave_box2 {un coffre sur une grande pierre}
+SanJuan_Cave_box3 {un coffre près de la corde suspendue au plafond}
+SantaCatalina_Cave {dans une grotte à droite du cap Perlas}
+SantaCatalina_Cave_box1 {un coffre sous la torche}
+SantaCatalina_Cave_box2 {un coffre dans une impasse}
+SantaCatalina_Cave_box3 {un coffre près de la torche}
+SantaCatalina_Grot {dans une grotte à droite de la baie de San Juan del Norte}
+SantaCatalina_Grot_box1 {un coffre sur la rive}
+SantaCatalina_PearlCave {dans une grotte à gauche de la baie de San Juan del Norte}
+SantaCatalina_PearlCave_box1 {un coffre près du pont de pierre}
+SantaCatalina_PearlCave_box2 {un coffre sur une grande pierre}
+SantaCatalina_PearlCave_box3 {un coffre près de la corde suspendue au plafond}
+Tenotchitlan_Cave {dans une grotte au nord du temple aztèque}
+Tenotchitlan_Cave_box1 {coffre près du pont de pierre}
+Tenotchitlan_Cave_box2 {un coffre sur une grande pierre}
+Tenotchitlan_Cave_box3 {un coffre près de la corde suspendue au plafond}
+Terks_Grot {dans une grotte à droite de la baie du Nord}
+Terks_Grot_box1 {un coffre sur une grande pierre}
+Tortuga_Grot {dans une grotte en face de Fisheye Beach}
+Tortuga_Grot_box1 {un coffre sur la rive}
+Tortuga_Cave {dans un cachot de Tortuga}
+Tortuga_Cave_box1 {un coffre derrière une porte fermée}
+Trinidad_Grot {dans une grotte en face du phare de Trinidad et Tobago}
+Trinidad_Grot_box1 {un coffre sur la rive}
+FortFrance_Dungeon {dans un cachot de Fort-de-France}
+FortFrance_Dungeon_box1 {un coffre sur la hauteur}
+FortFrance_Dungeon_box2 {un coffre derrière une porte ouverte à l’étage supérieur}
+FortFrance_Dungeon_box3 {un coffre non loin de l’ascenseur}
+FortFrance_Dungeon_box4 {un coffre derrière une porte ouverte à l’étage inférieur}
+FortFrance_Dungeon_box5 {sous les caisses en bois}
+Providence_Cavern {dans la grotte traversante reliant Morgan's Head à Old Providence Island}
+Providence_Cavern_box1 {un coffre derrière des stalagmites dans une impasse}

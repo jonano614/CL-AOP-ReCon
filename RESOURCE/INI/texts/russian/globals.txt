@@ -1,0 +1,106 @@
+CARDS_RULE {"Правила простые. Играем в 'двадцать одно'. В колоде 36 карт, от тузов до шестёрок. Туз - 11, король - 4, дама - 3, валет - 2, остальные как написано. Нужно набрать 21 очко.\nРаздаем по одной карте, далее набираем себе недостающие (клик по колоде). Ход передаётся кликом по портрету с профилем в правом верхнем углу окошка. Если перебор, то игра заканчивается. Каждая карта - это наша ставка. Начать игру можно, если у тебя есть деньги хотя бы для трёх ставок. Повтор игры клик по колоде, выход - крестик или Esc."}
+DICE_RULE {"Играем в 'покер-джокер'. Пять кубиков у каждого, бросаем по очереди все пять. Можно перебросить любое число кубиков, сделав ставку за каждый, но только один раз. Нужно выкинуть максимальный результат.\nРезультаты по возрастанию: одна пара (2), две пары (2+2), триада (3), фул (3+2), каре (4), стрит (кубики подряд) и покер (5). Если одинаково выпало, то победил тот, у кого старше комбинация.\nУправление: клик по стакану - бросок кубиков, клик по кубику - на переброс (деньги на ставку должны быть), клик по портрету - передать ход (когда переброс не нужен)."}
+
+Address_Form_Spa {сеньор}
+Address_Form_Fra {месье}
+Address_Form_Eng {сэр}
+Address_Form_Por {сеньор}
+Address_Form_Hol {минхер}
+Address_Form_Pir {сэр}
+
+Address_Form_SpaWoman {сеньорита}
+Address_Form_FraWoman {мадемуазель}
+Address_Form_EngWoman {мисс}
+Address_Form_HolWoman {мефрау}
+Address_Form_PirWoman {мисс}
+
+Address_Form_SpaWoman2 {сеньора}
+Address_Form_FraWoman2 {мадам}
+Address_Form_EngWoman2 {миссис}
+Address_Form_HolWoman2 {фрау}
+Address_Form_PirWoman2 {миссис}
+
+BaronTitle {барон}
+BaronWomanTitle {баронесса}
+
+Officer_Attack {Офицеры в атаку!}
+Officer_Follow {Офицеры за мной!}
+Officer_Stay {Офицеры стоять!}
+
+Potion_Not_Found {Зелье не найдено!}
+Used_Antidote {Использовано противоядие}
+No_Search_Anyone {Некого обыскивать}
+
+Address_Form_Spa_Title1 {Капер}
+Address_Form_Fra_Title1 {Корсар}
+Address_Form_Eng_Title1 {Приватир}
+Address_Form_Hol_Title1 {Флибустьер}
+Address_Form_Pir_Title1 {Буканьер}
+
+Address_Form_Spa_Title2 {Лейтенант}
+Address_Form_Fra_Title2 {Лейтенант}
+Address_Form_Eng_Title2 {Лейтенант}
+Address_Form_Hol_Title2 {Лейтенант}
+Address_Form_Pir_Title2 {Морской волк}
+
+Address_Form_Spa_Title3 {Капитан}
+Address_Form_Fra_Title3 {Капитан}
+Address_Form_Eng_Title3 {Капитан}
+Address_Form_Hol_Title3 {Капитан}
+Address_Form_Pir_Title3 {Ветеран}
+
+Address_Form_Spa_Title4 {Коммодор}
+Address_Form_Fra_Title4 {Коммодор}
+Address_Form_Eng_Title4 {Коммодор}
+Address_Form_Hol_Title4 {Коммодор}
+Address_Form_Pir_Title4 {Барон}
+
+Address_Form_Spa_Title5 {Адмирал}
+Address_Form_Fra_Title5 {Адмирал}
+Address_Form_Eng_Title5 {Адмирал}
+Address_Form_Hol_Title5 {Адмирал}
+Address_Form_Pir_Title5 {Легенда}
+
+NationKingsName_Spa {Его Католического Величества Карла II Габсбурга}
+NationKingsName_Fra {Его Величества Людовика XIV}
+NationKingsName_Eng {Его Величества Карла II Стюарта}
+NationKingsName_Hol {Его Величества Вильгельма III Оранского}
+NationKingsName_Por {Его Величества Альфонсу VI Победоносного}
+NationKingsName_Pir {берегового пиратского братства}
+
+NationKingsCrown_Spa {Испанской короне}
+NationKingsCrown_Fra {Французской короне}
+NationKingsCrown_Eng {Английскому престолу}
+NationKingsCrown_Hol {Королевству Нидерланды}
+NationKingsCrown_Por {Португальской короне}
+NationKingsCrown_Pir {Береговому братству}
+
+Swear_1 {Карамба!}
+Swear_2 {Проклятье!}
+Swear_3 {Дьявол!}
+Swear_4 {Чёрт!}
+Swear_5 {Якорь мне в ...}
+Swear_6 {Тысяча акул!}
+Swear_7 {Аргкх!!!}
+Swear_8 {Тысяча чертей!}
+Swear_9 {Алле Хагель!}
+Swear_10 {Разрази меня гром!}
+Swear_11 {Ар-х, твою бизань!}
+Swear_12 {А, чтоб тебя...}
+Swear_13 {Дюжина акул!}
+Swear_14 {Укуси меня селёдка!}
+Swear_15 {Три тысячи чертей!}
+
+Exclamation_1 {О, Боже!!}
+Exclamation_2 {О, Небеса!}
+Exclamation_3 {Святая Мадонна!}
+
+MorningGreeting {Доброе утро}
+DayGreeting {Добрый день}
+EveningGreeting {Добрый вечер}
+NightGreeting {Доброй ночи}
+TimeGreeting {Добрый день}
+
+rat_spoiled {испортили}
+rat_damaged {повредили}
+rat_destroyed {уничтожили}

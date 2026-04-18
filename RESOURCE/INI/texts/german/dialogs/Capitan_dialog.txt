@@ -1,0 +1,585 @@
+Capitan_dialog_1 {
+beim englischen Fort
+}
+Capitan_dialog_2 {
+beim französischen Fort
+}
+Capitan_dialog_3 {
+beim spanischen Fort
+}
+Capitan_dialog_4 {
+Niederländisches Fort
+}
+Capitan_dialog_5 {
+Mit dem Piratenfort
+}
+Capitan_dialog_6 {
+@<TimeGreeting>, @<GetAddress_Form>! Ich bin @<GetFullName>, Kapitän der Flotte von @<NationKingsName>. Was führt Sie an Bord meines Schiffs?
+}
+Capitan_dialog_7 {
+@<TimeGreeting>, @<GetAddress_Form>! Ich bin Kapitän @<GetFullName>. Was führt Sie an Bord meines Schiffs?
+}
+Capitan_dialog_8 {
+Mein Name ist @<GetFullName>. Ich habe ein Anliegen mit Ihnen!
+}
+Capitan_dialog_9 {
+Wie kann ich Ihnen helfen?
+}
+Capitan_dialog_10 {
+Ich habe mit Ihnen zu tun!
+}
+Capitan_dialog_11_m {
+Nichts Besonderes, ich wollte nur kurz Hallo sagen!
+}
+Capitan_dialog_11_f {
+Nichts Besonderes, ich wollte nur kurz Hallo sagen!
+}
+Capitan_dialog_12 {
+Ist dir aufgefallen, @<GetAddress_Form>, dass hier gerade gekämpft wird? Jetzt ist nicht die Zeit zum Reden!
+}
+Capitan_dialog_13 {
+Du hast recht! Ich gehe zurück zu meinem Schiff.
+}
+Capitan_dialog_14 {
+Ich höre aufmerksam zu, @<GetAddress_Form>.
+}
+Capitan_dialog_15_m {
+Ich würde gern die neuesten Nachrichten aus dem Archipel hören.
+}
+Capitan_dialog_15_f {
+Ich würde gern die neuesten Nachrichten aus dem Archipel hören.
+}
+Capitan_dialog_16 {
+Weißt du, wer ich bin? Ich denke, es ist offensichtlich, dass meine Kanonen dein Boot in ein Sieb verwandeln könnten. Lass uns das friedlich regeln. Ein Lösegeld wäre mir recht.
+}
+Capitan_dialog_17 {
+Das Meer... Und nur wir zwei... Wie wäre es, wenn du meiner Mannschaft ein kleines Trinkgeld gibst – zu deiner eigenen Sicherheit?
+}
+Capitan_dialog_18 {
+@<RandPhraseSimple>
+}
+Capitan_dialog_19 {
+Woher kommst du?
+}
+Capitan_dialog_20 {
+Möchtest du handeln?
+}
+Capitan_dialog_21 {
+Ich suche nach einem Piratenschiff, das in diesen Gewässern unterwegs ist. Haben Sie etwas Verdächtiges gesehen?
+}
+Capitan_dialog_22 {
+Möchtest du dich entspannen?
+}
+Capitan_dialog_23 {
+Ich glaube, es ist Zeit für mich zu gehen!
+}
+Capitan_dialog_24 {
+Ich bin nicht befugt, Angelegenheiten mit Ihnen zu klären. Bitte wenden Sie sich an den Kommandanten unseres Geschwaders. Sein Name ist @<GetFullName>, und er befindet sich an Bord des Schiffs @<XI_ConvertString> '@<GetCharacterIndex>'.
+}
+Capitan_dialog_25 {
+Danke. Das werde ich tun.
+}
+Capitan_dialog_26 {
+Warum nicht?
+}
+Capitan_dialog_27 {
+Schauen wir uns die Waren mal an.
+}
+Capitan_dialog_28_m {
+Ich habe es mir anders überlegt.
+}
+Capitan_dialog_28_f {
+Ich habe es mir anders überlegt.
+}
+Capitan_dialog_29 {
+Was schlägst du vor?
+}
+Capitan_dialog_30 {
+Wie wäre es mit einem Kartenspiel um echten Einsatz?
+}
+Capitan_dialog_31 {
+Wie wäre es, wenn wir beim Poker-Joker ein paar Knochen klappern lassen?
+}
+Capitan_dialog_32 {
+Bitte verzeihen Sie mir, aber ich habe noch etwas zu erledigen.
+}
+Capitan_dialog_33 {
+Ich werde doch nicht mit jedem zwielichtigen Kerl spielen, dem ich begegne!
+}
+Capitan_dialog_34 {
+Wie du willst.
+}
+Capitan_dialog_35 {
+In Ordnung! Ich mache eine kleine Pause von den Schiffsgeschäften...
+}
+Capitan_dialog_36 {
+Wunderbar.
+}
+Capitan_dialog_37 {
+Was sind die Regeln des Spiels?
+}
+Capitan_dialog_38 {
+Na dann, fangen wir an!
+}
+Capitan_dialog_39 {
+Nein, das ist nichts für mich…
+}
+Capitan_dialog_40 {
+Einigen wir uns auf den Einsatz.
+}
+Capitan_dialog_41 {
+Wir spielen um 100 Münzen.
+}
+Capitan_dialog_42 {
+Sagen wir 500 Piaster pro Person.
+}
+Capitan_dialog_43 {
+Ich denke, es ist Zeit für mich zu gehen.
+}
+Capitan_dialog_44 {
+Machst du Witze? Du hast doch kein Geld!
+}
+Capitan_dialog_45 {
+Das kommt vor.
+}
+Capitan_dialog_46 {
+Das reicht mir, sonst bleibt nichts mehr übrig, um das Schiff über Wasser zu halten...
+}
+Capitan_dialog_47 {
+Schade.
+}
+Capitan_dialog_48 {
+Gut, wir spielen um 100 Münzen.
+}
+Capitan_dialog_49 {
+Lass uns anfangen!
+}
+Capitan_dialog_50 {
+Machst du Witze? Du hast doch keine 1.500 Piaster!
+}
+Capitan_dialog_51 {
+Das werden sie!
+}
+Capitan_dialog_52 {
+Nein, solche Wetten bringen nur Ärger.
+}
+Capitan_dialog_53 {
+Wie du willst.
+}
+Capitan_dialog_54 {
+Gut, wir spielen um 500 Münzen.
+}
+Capitan_dialog_55 {
+Lass uns anfangen!
+}
+Capitan_dialog_56 {
+Ich werde nicht mit jedem Halunken, dem ich begegne, spielen!
+}
+Capitan_dialog_57 {
+Wie du willst.
+}
+Capitan_dialog_58 {
+Komm schon! Ein wenig Ruhe hat noch niemandem geschadet... Nur dem Geldbeutel...
+}
+Capitan_dialog_59 {
+Wunderbar.
+}
+Capitan_dialog_60 {
+Was sind die Regeln des Spiels?
+}
+Capitan_dialog_61 {
+Nein, das reicht für heute. Ich habe noch zu tun.
+}
+Capitan_dialog_62 {
+Wie du willst.
+}
+Capitan_dialog_63 {
+Na dann, fangen wir an!
+}
+Capitan_dialog_64 {
+Nein, das ist nichts für mich...
+}
+Capitan_dialog_65 {
+Einigen wir uns auf den Einsatz.
+}
+Capitan_dialog_66 {
+Wir spielen um 50 Münzen pro Würfel.
+}
+Capitan_dialog_67 {
+Gehen wir mit 200 Piastern pro Würfel.
+}
+Capitan_dialog_68 {
+Ich denke, es ist Zeit für mich zu gehen.
+}
+Capitan_dialog_69_m {
+Du bist überall als unschlagbarer Betrüger bekannt. Ich spiele überhaupt nicht mit dir um Würfel.
+}
+Capitan_dialog_69_f {
+Du hast den Ruf, ein unschlagbarer Spieler zu sein. Ich werde überhaupt nicht mit dir würfeln.
+}
+Capitan_dialog_70 {
+Alle lügen! Ist mir egal.
+}
+Capitan_dialog_71 {
+Machst du Witze? Du hast doch kein Geld!
+}
+Capitan_dialog_72 {
+Das kommt vor.
+}
+Capitan_dialog_73 {
+Das war’s! Jetzt ist Schluss mit Spielereien, sonst halten sie mich noch für einen Verschwender und lassen mich an Land sitzen...
+}
+Capitan_dialog_74 {
+Schade.
+}
+Capitan_dialog_75 {
+Gut, wir spielen um 50 Münzen.
+}
+Capitan_dialog_76 {
+Lass uns anfangen!
+}
+Capitan_dialog_77_m {
+Du bist überall als unschlagbarer Betrüger bekannt. Ich spiele überhaupt nicht mit dir Würfel.
+}
+Capitan_dialog_77_f {
+Du hast den Ruf, ein unschlagbarer Spieler zu sein. Mit dir würfle ich ganz bestimmt nicht.
+}
+Capitan_dialog_78 {
+Alle lügen! Na gut, ich brauche es sowieso nicht.
+}
+Capitan_dialog_79 {
+Man sagt, du bist ein ziemlicher Spieler. Mit dir spiele ich nicht um so hohe Einsätze.
+}
+Capitan_dialog_80 {
+Wie wäre es, wenn wir den Einsatz senken?
+}
+Capitan_dialog_81 {
+Tut mir leid, ich muss gehen.
+}
+Capitan_dialog_82 {
+Machst du Witze? Du hast doch keine 1.500 Piaster!
+}
+Capitan_dialog_83 {
+Das werden sie!
+}
+Capitan_dialog_84 {
+Nein, solche Wetten bringen nur Ärger.
+}
+Capitan_dialog_85 {
+Wie du willst.
+}
+Capitan_dialog_86 {
+In Ordnung, wir spielen um 200 Münzen pro Würfel.
+}
+Capitan_dialog_87 {
+Lass uns anfangen!
+}
+Capitan_dialog_88 {
+Warum willst du das wissen? Das geht nur mich etwas an.
+}
+Capitan_dialog_89 {
+Wie du willst.
+}
+Capitan_dialog_90 {
+Ich komme aus der Stadt @<GetCityName>.
+}
+Capitan_dialog_91 {
+Wie sind die Preise im Laden vor Ort?
+}
+Capitan_dialog_92 {
+Ich sollte jetzt gehen.
+}
+Capitan_dialog_93 {
+Ich habe dir schon alles gesagt. Belästige mich nicht mit Kleinigkeiten.
+}
+Capitan_dialog_94 {
+Ja, du hast recht. Leb wohl.
+}
+Capitan_dialog_95 {
+Einfach so ...
+}
+Capitan_dialog_96 {
+Vielen Dank!
+}
+Capitan_dialog_97 {
+Ha-ha! Guter Witz. Vor allem, weil ich mehr Schiffe habe. Geh zurück auf dein Schiff und geh mit ihm unter.
+}
+Capitan_dialog_98 {
+Größer heißt nicht gleich stärker...
+}
+Capitan_dialog_99 {
+Es war töricht von Ihnen, Ihr schmutziges Geschäft auf meinem Schiff zu beginnen, Captain. Ich zeige Gnade und lasse Sie zu Ihrem eigenen Schiff zurückkehren – um mit ihm unterzugehen.
+}
+Capitan_dialog_100 {
+Wir werden ja sehen, wer heute als Haifutter endet!
+}
+Capitan_dialog_101 {
+@<RandSwear> Ja, ich habe von deinen Verfehlungen gehört. Mach, was du willst, aber denk daran, @<XI_ConvertString> wird das nicht ungestraft lassen!
+}
+Capitan_dialog_102 {
+Ausgezeichnet. Die Summe von @<FindMoneyString> passt mir sehr gut, @<GetAddress_FormToNPC>.
+}
+Capitan_dialog_103_m {
+Oh. Komm schon. Ich habe doch nur Spaß gemacht!
+}
+Capitan_dialog_103_f {
+Oh. Komm schon. Ich habe doch nur Spaß gemacht!
+}
+Capitan_dialog_104 {
+Runter von meinem Schiff!
+}
+Capitan_dialog_105 {
+Ich gehe schon.
+}
+Capitan_dialog_106 {
+Unser Gespräch ist beendet. Ich habe Ihnen nichts Neues zu sagen, @<GetAddress_Form>.
+}
+Capitan_dialog_107 {
+Verstanden. Wir sehen uns auf See!
+}
+Capitan_dialog_108 {
+Nimm das! Und jetzt verschwinde!
+}
+Capitan_dialog_109 {
+Wunderbar!
+}
+Capitan_dialog_110 {
+Halt, so könntest du jemanden töten. Was willst du von mir?
+}
+Capitan_dialog_111 {
+Töten!
+}
+Capitan_dialog_112 {
+Gefangen nehmen.
+}
+Capitan_dialog_113 {
+Gib die Karte her, Billy.
+}
+Capitan_dialog_114 {
+Na, das werden wir ja sehen!
+}
+Capitan_dialog_115 {
+Was gibt es zu sehen?
+}
+Capitan_dialog_116 {
+Na gut, du hast gewonnen!
+}
+Capitan_dialog_117 {
+So gefällt mir das!
+}
+Capitan_dialog_118 {
+Na los, nimm es!
+}
+Capitan_dialog_119 {
+Gut, jetzt ergeben Sie sich.
+}
+Capitan_dialog_120_m {
+Du tauchst auf, richtest Chaos an, nimmst alles an dich, und jetzt willst du mich auch noch versklaven? Keine Chance!
+}
+Capitan_dialog_120_f {
+Du bist aufgetaucht, hast alles durcheinandergebracht, alles mitgenommen, und jetzt willst du mich auch noch versklaven? Niemals!
+}
+Capitan_dialog_121 {
+Dann halt deine weißen Pantoffeln bereit.
+}
+Capitan_dialog_122 {
+Nein, ich habe kein verdächtiges Schiff gesehen, das wie ein Piratenschiff aussah.
+}
+Capitan_dialog_123 {
+Verstanden.
+}
+Capitan_dialog_124_m {
+Im Namen von @<NationKingsName>, ergebt euch, elender Pirat! Euer Leben wird bis zu einem fairen Prozess verschont, bei dem ihr euch für jedes geplünderte @<NationNameSK>-Schiff verantworten müsst.
+}
+Capitan_dialog_124_f {
+Im Namen von @<NationKingsName>, ergebe dich, niederträchtige Schurkin! Dein Leben wird bis zu einem fairen Prozess verschont, bei dem du dich für all die von dir überfallenen @<NationNameSK>-Schiffe verantworten wirst.
+}
+Capitan_dialog_125 {
+Keine Chance – du gibst zuerst auf.
+}
+Capitan_dialog_126 {
+Ich höre zu, aber fassen Sie sich bitte kurz – sagen Sie schnell, was Sie wollen. Wir sind mitten im Gefecht mit @<fort>, und ich muss das Kommando führen.
+}
+Capitan_dialog_127 {
+Genau deshalb bin ich hier, @<GetAddress_FormToNPC>.
+}
+Capitan_dialog_128 {
+In diesem Fall will ich Sie nicht länger aufhalten. Leben Sie wohl, @<GetAddress_FormToNPC>.
+}
+Capitan_dialog_129 {
+Ich bin nicht befugt, Angelegenheiten mit Ihnen zu klären. Bitte wenden Sie sich an den Kommandanten unseres Geschwaders. Sein Name ist @<GetFullName>, und er befindet sich an Bord der @<XI_ConvertString> „@<rchar>“.
+}
+Capitan_dialog_130 {
+Danke. Das werde ich tun.
+}
+Capitan_dialog_131 {
+Und worüber sprechen wir hier genau?
+}
+Capitan_dialog_132 {
+Ich kann dir helfen, das Fort der Kolonie bei @<GetConvertStr> zu stürmen und die Stadt einzunehmen. Wenn wir Erfolg haben, teilen wir die Beute unter uns auf.
+}
+Capitan_dialog_133 {
+Ehrlich gesagt ist mein Geschäft kaum Ihrer Aufmerksamkeit wert. Leben Sie wohl, @<GetAddress_FormToNPC>.
+}
+Capitan_dialog_134 {
+Bist du schon wieder hier? Ich dachte, wir hätten bereits alles besprochen.
+}
+Capitan_dialog_135_m {
+Du hast recht – ich habe es vergessen.
+}
+Capitan_dialog_135_f {
+Du hast recht – ich habe es vergessen.
+}
+Capitan_dialog_136 {
+Und welchen Anteil an der Beute erwartest du zu bekommen?
+}
+Capitan_dialog_137 {
+Die Hälfte.
+}
+Capitan_dialog_138 {
+Ein Drittel.
+}
+Capitan_dialog_139 {
+Ein Viertel.
+}
+Capitan_dialog_140 {
+Ich brauche Ihre Dienste nicht, Captain! Ich brauche überhaupt keine Hilfe, denn ich werde diese Kolonie so oder so einnehmen.
+}
+Capitan_dialog_141 {
+Was macht dich da so sicher, @<GetAddress_FormToNPC>? Unglück kann jeden treffen.
+}
+Capitan_dialog_142 {
+In diesem Fall will ich Sie nicht länger aufhalten, @<GetAddress_FormToNPC>. Lebwohl!
+}
+Capitan_dialog_143 {
+Andererseits haben meine Schiffe in dieser Schlacht ziemlich gelitten, und wir könnten wirklich Verstärkung gebrauchen. Wenn Sie @<GetPart> zustimmen, denke ich, dass wir uns einigen können.
+}
+Capitan_dialog_144 {
+Das passt für mich, @<GetAddress_FormToNPC>. Ich werde versuchen, das Fort zu stürmen, und du unterstützt uns mit den Kanonen deines Schiffs.
+}
+Capitan_dialog_145_m {
+Ich bin nicht billig, @<GetAddress_FormToNPC>. Entschuldigen Sie, dass ich Sie von Ihren wichtigen Angelegenheiten abgehalten habe. Leben Sie wohl.
+}
+Capitan_dialog_145_f {
+Ich bin nicht billig, @<GetAddress_FormToNPC>. Entschuldige, dass ich dich von deinen wichtigen Geschäften abgehalten habe. Leb wohl.
+}
+Capitan_dialog_146 {
+Mein Geschwader hat genug Schiffe, um diese Festung in Stücke zu schießen – es ist nur eine Frage der Zeit. Verlassen Sie jetzt bitte mein Schiff; der Sieg erwartet mich!
+}
+Capitan_dialog_147 {
+Nun denn, in diesem Fall, @<GetAddress_FormToNPC>, erlaube mir, mich zu verabschieden. Leb wohl!
+}
+Capitan_dialog_148 {
+Die Kanonen des Forts haben die Schiffe meines Geschwaders schwer beschädigt, und der Ausgang dieser Schlacht könnte sich gegen uns wenden. Ich akzeptiere eure Bedingungen und euer Hilfsangebot.
+}
+Capitan_dialog_149 {
+Ausgezeichnet, @<GetAddress_FormToNPC>, in diesem Fall stürmen wir das Fort und du unterstützt uns mit den Kanonen deines Schiffs.
+}
+Capitan_dialog_150 {
+Ist das nicht ein bisschen viel, Captain? Sie haben @<GetNumShips>, und mein Geschwader hat @<GetNumShips>. Ich kann Ihnen @<GetPart> anbieten. Und ich denke, das ist fair.
+}
+Capitan_dialog_151_m {
+Einverstanden, @<GetAddress_FormToNPC>. In diesem Fall übernehme ich die Einnahme des Forts, und du unterstützt uns mit den Kanonen deines Schiffs.
+}
+Capitan_dialog_151_f {
+Ich stimme zu, @<GetAddress_FormToNPC>. In diesem Fall übernehme ich die Eroberung des Forts, und du unterstützt uns mit den Kanonen deines Schiffs.
+}
+Capitan_dialog_152 {
+Leider glaube ich das nicht, @<GetAddress_FormToNPC>. Wir haben nichts mehr zu besprechen. Lebwohl.
+}
+Capitan_dialog_153 {
+Sobald das Fort eingenommen ist, werden wir sofort Sturmtrupps an Land bringen und den Kampf in der Stadt selbst fortsetzen – wo wir Sie hoffentlich treffen werden.
+}
+Capitan_dialog_154 {
+Belassen wir es dabei. Bis bald, @<GetAddress_FormToNPC>!
+}
+Capitan_dialog_155 {
+Ich nehme deine Bedingungen an. Wenn wir zusammenarbeiten, stehen meine Chancen besser, diese Schlacht zu überleben. Wenn wir Erfolg haben, bekommst du deinen Anteil an der Beute.
+}
+Capitan_dialog_156 {
+Nun, das ist großartig, wir sind uns einig geworden, @<GetAddress_FormToNPC>. Ich werde meinen Männern sofort den Befehl geben, das Fort anzugreifen.
+}
+Capitan_dialog_157 {
+Ist das nicht ein bisschen viel, Captain? Sie haben @<GetNumShips>, und mein Geschwader hat @<GetNumShips>. Ich kann Ihnen @<GetPart> anbieten. Und ich denke, das ist fair.
+}
+Capitan_dialog_158_m {
+Einverstanden, @<GetAddress_FormToNPC>. In diesem Fall führe ich den Angriff auf das Fort an, und du unterstützt uns mit den Kanonen deines Schiffs.
+}
+Capitan_dialog_158_f {
+Ich stimme zu, @<GetAddress_FormToNPC>. In diesem Fall werde ich den Angriff auf das Fort anführen, und du unterstützt uns mit den Kanonen deines Schiffs.
+}
+Capitan_dialog_159 {
+Leider glaube ich das nicht, @<GetAddress_FormToNPC>. Wir haben nichts mehr zu besprechen. Lebwohl.
+}
+Capitan_dialog_160 {
+Die Schiffe meines Geschwaders sind vom Kampf mitgenommen, daher kämen frische Kräfte gelegen. Ich akzeptiere diese Bedingungen und nehme Ihr Angebot an.
+}
+Capitan_dialog_161_m {
+Es freut mich, dass wir eine Einigung erzielen konnten, @<GetAddress_FormToNPC>. Ich werde meinen Männern sofort den Befehl geben, anzugreifen und den Sturm auf das Fort zu beginnen.
+}
+Capitan_dialog_161_f {
+Es freut mich, dass wir eine Einigung erzielen konnten, @<GetAddress_FormToNPC>. Ich werde meinen Männern sofort den Befehl geben, anzugreifen und den Sturm auf das Fort zu beginnen.
+}
+Capitan_dialog_162 {
+Seid gegrüßt, Captain! Der Kampf war heftig, aber wir konnten den hartnäckigen Widerstand der Verteidiger brechen. Die Beute beträgt @<FindMoneyString>. Wie vereinbart, ist Ihr Anteil @<ilt>. Hier ist Ihr Geld – Sie haben es sich wirklich verdient. Und nun entschuldigen Sie mich bitte, ich habe noch einiges zu erledigen.
+}
+Capitan_dialog_163 {
+In diesem Fall gestatten Sie mir, mich zu verabschieden, @<GetAddress_FormToNPC>. Lebwohl!
+}
+Capitan_dialog_164 {
+Man munkelt, Sie hätten unserem Geschwader beim Angriff auf die @<NationNameSK>-Kolonie geholfen — @<GetConvertStr>! Wir sind Ihnen sehr dankbar, @<GetAddress_Form>.
+}
+Capitan_dialog_165 {
+Seid gegrüßt, Captain! Habt Ihr ein Anliegen bei mir?
+}
+Capitan_dialog_166 {
+Kein Geschäft mit Ihnen, @<GetAddress_FormToNPC>. Leben Sie wohl!
+}
+Capitan_dialog_167 {
+Ich höre zu, aber kommen Sie bitte zur Sache – ich habe es eilig. Ich bin auf einer wichtigen Geheimmission und habe den Befehl, alle verdächtigen Schiffe zu versenken, die unsere Eskorte auf See bedrohen könnten.
+}
+Capitan_dialog_168 {
+In diesem Fall will ich Sie nicht länger aufhalten. Leben Sie wohl, @<GetAddress_FormToNPC>.
+}
+Capitan_dialog_169 {
+Ich bin nicht befugt, Angelegenheiten mit Ihnen zu klären. Bitte wenden Sie sich an den Kommandanten unseres Geschwaders. Sein Name ist @<GetFullName>, und er befindet sich an Bord des Schiffs @<XI_ConvertString> „@<rch>“.
+}
+Capitan_dialog_170 {
+Danke. Das werde ich tun.
+}
+Capitan_dialog_171 {
+kein einziges Schiff
+}
+Capitan_dialog_172 {
+ein Schiff
+}
+Capitan_dialog_173 {
+zwei Schiffe
+}
+Capitan_dialog_174 {
+drei Schiffe
+}
+Capitan_dialog_175 {
+vier Schiffe
+}
+Capitan_dialog_176 {
+fünf Schiffe
+}
+Capitan_dialog_177 {
+sechs Schiffe
+}
+Capitan_dialog_178 {
+die ganze Beute
+}
+Capitan_dialog_179 {
+die Hälfte der Beute
+}
+Capitan_dialog_180 {
+ein Drittel der Beute
+}
+Capitan_dialog_181 {
+ein Viertel der Beute
+}
+Capitan_dialog_182 {
+@<TimeGreeting>, @<GetAddress_Form>! Ich bin @<GetFullName>. Was führt Sie an Bord meines Schiffs?
+}

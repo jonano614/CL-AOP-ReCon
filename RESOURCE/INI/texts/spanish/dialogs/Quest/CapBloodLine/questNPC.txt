@@ -1,0 +1,942 @@
+questNPC_1 {
+¿Robo a plena luz del día? ¿Pero qué demonios está pasando? Ya verás, amigo...
+}
+questNPC_2 {
+¡Oye, ¿con qué estás jugando ahí?! ¿Planeas robarme, eh? Pues hasta aquí llegaste...
+}
+questNPC_3 {
+Espera, ¿a dónde crees que vas? Así que al final eres un ladrón. Bueno, parece que tu suerte se acabó, amigo...
+}
+questNPC_4 {
+@<LinkRandPhrase>
+}
+questNPC_5 {
+¡Demonio!
+}
+questNPC_6 {
+¡Caramba!
+}
+questNPC_7 {
+¡A-ay, maldición!
+}
+questNPC_8 {
+@<LinkRandPhrase>
+}
+questNPC_9 {
+¡Ahí está, agárrenlo!
+}
+questNPC_10 {
+¡Agárrenlo, muchachos!
+}
+questNPC_11 {
+¡Eh, detente ahí!
+}
+questNPC_12 {
+@<LinkRandPhrase>
+}
+questNPC_13 {
+¡Demonio!
+}
+questNPC_14 {
+¡Ni pensarlo!
+}
+questNPC_15 {
+¡A-ay, maldición!
+}
+questNPC_16 {
+@<LinkRandPhrase>
+}
+questNPC_17 {
+Error
+}
+questNPC_18 {
+Sigue tu camino y no me distraigas.
+}
+questNPC_19 {
+Me temo que es grave. Un espía español se ha infiltrado en la ciudad—quizás incluso un mercenario. Fue a la casa del armero, y ahora la puerta de Griffin está bien cerrada.
+}
+questNPC_20 {
+¡Alto! ¡Entrega tus armas! ¡Sígueme!
+}
+questNPC_21 {
+¡Esclavo fugitivo! ¡Atrápenlo de inmediato!
+}
+questNPC_22 {
+@<RandPhraseSimple>
+}
+questNPC_23 {
+¡Cállate, imbécil!
+}
+questNPC_24 {
+¡Ni pensarlo!
+}
+questNPC_25 {
+@<RandPhraseSimple>
+}
+questNPC_26 {
+¿Por qué ese esclavo está aquí sin hacer nada?
+}
+questNPC_27 {
+Estoy cumpliendo las órdenes del coronel Bishop.
+}
+questNPC_28 {
+Ah, es usted, Doctor Blood. Me atendió cuando me dieron de baja del "Pride of Devon".
+}
+questNPC_29 {
+Me alegra que te hayas recuperado.
+}
+questNPC_30 {
+¡Lárgate, esclavo!
+}
+questNPC_31 {
+Me alegra verte también, seas quien seas.
+}
+questNPC_32 {
+Vaya clima, y aun así tengo que quedarme aquí. Lo único que me entretiene es espantar moscas de mi cara.
+}
+questNPC_33 {
+Lo siento. Pero no puedo ayudarte—es simplemente el trabajo que tienes.
+}
+questNPC_34 {
+Si tienes ganas de conversar, busca a otra persona, o mejor aún, regresa a las plantaciones.
+}
+questNPC_35 {
+Por supuesto.
+}
+questNPC_36 {
+Sigue tu camino y no me distraigas.
+}
+questNPC_37 {
+Como usted diga, soldado.
+}
+questNPC_38 {
+@<TimeGreeting>, doctor.
+}
+questNPC_39 {
+Hola.
+}
+questNPC_40 {
+¿Podría decirme dónde puedo encontrar al doctor Wacker?
+}
+questNPC_41 {
+Necesito al doctor Wacker. ¿Lo has visto?
+}
+questNPC_42 {
+@<RandPhraseSimple>
+}
+questNPC_43 {
+Necesito llegar a un lugar, ¿podrías recomendarme un capitán competente?
+}
+questNPC_44 {
+Busco un capitán que pueda llevar a mi amigo a algún lugar por un precio razonable. ¿Conoces a alguien?
+}
+questNPC_45 {
+@<RandPhraseSimple>
+}
+questNPC_46_m {
+¡Oh, Doctor Blood, hola! Nunca le agradecí por salvar a mi pequeño en aquel entonces, algo que aún recuerdo a menudo y lamento. ¡Qué alegría verlo hoy!
+}
+questNPC_46_f {
+¡Oh, Doctor Blood, hola! Nunca le agradecí por salvar a mi pequeño en aquel entonces, y todavía lo pienso a menudo y lo lamento. ¡Qué alegría haberlo encontrado hoy!
+}
+questNPC_47_m {
+De verdad, es maravilloso cuando la gente siente el impulso de mostrar su gratitud en el momento justo. Dime, amigo, ¿dónde podría conseguir rápidamente un par de sables de abordaje y un par de pistolas, discretamente, sin llamar la atención?
+}
+questNPC_47_f {
+De verdad, es maravilloso cuando la gente tiene ganas de mostrar su gratitud en el momento justo. Dime, querida, ¿dónde podría conseguir rápidamente un par de sables de abordaje y un par de pistolas, discretamente, sin llamar la atención?
+}
+questNPC_48 {
+@<TimeGreeting>, doctor.
+}
+questNPC_49 {
+Hola.
+}
+questNPC_50 {
+Estás bloqueando mi mercancía. ¡Lárgate, basura de esclavo!
+}
+questNPC_51 {
+Ya me voy.
+}
+questNPC_52 {
+Estoy tan cansado que apenas puedo mantenerme en pie.
+}
+questNPC_53 {
+¡No puedo seguir viviendo así!
+}
+questNPC_54 {
+@<RandPhraseSimple>
+}
+questNPC_55 {
+Este trabajo es demasiado difícil para mí.
+}
+questNPC_56 {
+¡Los capataces ya me han azotado hasta dejarme en carne viva!
+}
+questNPC_57 {
+@<RandPhraseSimple>
+}
+questNPC_58 {
+@<RandPhraseSimple>
+}
+questNPC_59 {
+Sí, la vida en cautiverio es una dura prueba. Dime, ¿@<pchar> está entre ustedes?
+}
+questNPC_60 {
+Sí, lo tienes difícil... Hay un esclavo llamado @<pchar> que trabaja en alguna parte de la plantación. ¿No lo conocerás, verdad?
+}
+questNPC_61 {
+@<RandPhraseSimple>
+}
+questNPC_62 {
+Lamento tus problemas, amigo.
+}
+questNPC_63 {
+Me das lástima.
+}
+questNPC_64 {
+@<RandPhraseSimple>
+}
+questNPC_65 {
+Eh, muchacho, ¿me das una moneda...? Ah, eres tú, Doctor Blood.
+}
+questNPC_66 {
+Buena suerte.
+}
+questNPC_67 {
+@<TimeGreeting>, doctor.
+}
+questNPC_68 {
+Igualmente.
+}
+questNPC_69 {
+¿Desde cuándo los esclavos andan por donde quieren, armados?
+}
+questNPC_70 {
+Eres esclavo del coronel Bishop, ¿por qué estás armado?
+}
+questNPC_71 {
+@<RandPhraseSimple>
+}
+questNPC_72 {
+Eh...
+}
+questNPC_73 {
+Ni yo mismo lo entiendo...
+}
+questNPC_74 {
+@<RandPhraseSimple>
+}
+questNPC_75 {
+¡¿Qué demonios haces aquí?! ¡Sal de aquí, ahora!
+}
+questNPC_76 {
+Lo siento, pero esta mujer está conmigo.
+}
+questNPC_77 {
+¡¿Qué demonios haces aquí?! ¡Sal de aquí, ahora!
+}
+questNPC_78 {
+¡No hace falta ser grosero! Tengo asuntos contigo.
+}
+questNPC_79 {
+¡Hic! Oye, amigo, pareces todo un veterano del mar. ¿Qué tal si me invitas un vaso de ron?
+}
+questNPC_80 {
+Puede que sea un lobo de mar, pero eso no significa que vaya a servir grog a cualquier vagabundo que aparezca...
+}
+questNPC_81 {
+¡Sal de mi casa!
+}
+questNPC_82 {
+Ya me voy.
+}
+questNPC_83 {
+¡Lárgate!
+}
+questNPC_84 {
+Ya me voy.
+}
+questNPC_85 {
+¡Por fin! Ya empezaba a pensar que no vendrías. Entonces, ejem, ¿lograste averiguar algo?
+}
+questNPC_86 {
+Eh... sí, por supuesto.
+}
+questNPC_87 {
+Me has confundido con otra persona.
+}
+questNPC_88 {
+¿No me sirves un trago, eh? Hip...
+}
+questNPC_89 {
+No lo creo.
+}
+questNPC_90 {
+¿Qué quieres?
+}
+questNPC_91 {
+Estoy aquí para averiguar si planeas irte de la ciudad, olvidando que le debes treinta mil a alguien.
+}
+questNPC_92 {
+Me temo que tu situación es bastante grave. Tu engaño, eh... Raph, ha sido descubierto.
+}
+questNPC_93 {
+Hola, viejo amigo, ¿qué pasa? ¿Ya te has olvidado de mí?
+}
+questNPC_94 {
+Hoy no tuvo suerte. Al pobre lo azotaron y lo metieron en los grilletes. Lo encontrarás en el patio de los barracones. Me temo que no aguantará mucho bajo este sol abrasador...
+}
+questNPC_95 {
+Gracias, amigo.
+}
+questNPC_96 {
+Corrió hacia la taberna; búscalo allí. No olvides mirar debajo de las mesas.
+}
+questNPC_97 {
+Estuve en la taberna hace poco, creo. Si no me equivoco, no he salido desde entonces.
+}
+questNPC_98 {
+Acaba de pasar por la taberna... ¿de resaca, tal vez?
+}
+questNPC_99 {
+@<LinkRandPhrase>
+}
+questNPC_100 {
+Gracias.
+}
+questNPC_101 {
+No lo sé, ¡lárgate!
+}
+questNPC_102 {
+No puedo ayudarte con eso.
+}
+questNPC_103 {
+@<RandPhraseSimple>
+}
+questNPC_104 {
+¡Lárgate, basura de esclavo!
+}
+questNPC_105 {
+¿Y quién es este? Solo conozco al doctor Blood... Ah, eres tú, hola.
+}
+questNPC_106 {
+@<RandPhraseSimple>
+}
+questNPC_107 {
+@<RandPhraseSimple>
+}
+questNPC_108 {
+Gracias.
+}
+questNPC_109 {
+Doctor, ya me ha preguntado esto.
+}
+questNPC_110 {
+Lo siento.
+}
+questNPC_111 {
+No puedo ayudarte con nada.
+}
+questNPC_112 {
+Con todo respeto, doctor, eso no es algo sobre lo que deba preguntar en su posición.
+}
+questNPC_113 {
+Lamentablemente, no tengo a nadie que pueda recomendarle, Doctor Blood.
+}
+questNPC_114 {
+@<LinkRandPhrase>
+}
+questNPC_115 {
+Gracias.
+}
+questNPC_116 {
+No voy a preguntar para qué necesitas esto, y si alguien me pregunta, no tendré que mentir ni dar explicaciones. Sin embargo, no me pedirán un informe hasta pasado mañana, así que...
+}
+questNPC_117 {
+Pasado mañana, podrás decir con toda confianza que le prestaste unas cuantas sables y pistolas, sin cobrar nada, al doctor Peter Blood—el mismo que fue médico en Bridgetown. Dudo que el coronel Bishop se oponga...
+}
+questNPC_118 {
+Mi hijo te debe la vida, igual que yo. Tome esto, Doctor Blood. ¡Y le deseo buena suerte!
+}
+questNPC_119 {
+Muchas gracias.
+}
+questNPC_120 {
+¡Y buena suerte para usted, Doctor Blood!
+}
+questNPC_121 {
+Gracias.
+}
+questNPC_122 {
+¡Entrega todas tus armas, ahora! Alguien tiene que avisar al coronel Bishop para que te dé una buena paliza...
+}
+questNPC_123 {
+Toma, quédate con esto y olvidemos que esto pasó.
+}
+questNPC_124 {
+¡Veamos ahora quién le da una paliza a quién!
+}
+questNPC_125 {
+Ah, está bien, lárgate.
+}
+questNPC_126 {
+¿Qué demonios haces corriendo por la ciudad con el arma desenvainada? ¡Guarda tu arma, ahora!
+}
+questNPC_127 {
+¡Te ordeno que envaines tu arma de inmediato!
+}
+questNPC_128 {
+¡Oye, amigo, deja de asustar a la gente! Guarda tu arma.
+}
+questNPC_129 {
+@<LinkRandPhrase>
+}
+questNPC_130 {
+De acuerdo.
+}
+questNPC_131 {
+De acuerdo.
+}
+questNPC_132 {
+Como usted diga...
+}
+questNPC_133 {
+@<LinkRandPhrase>
+}
+questNPC_134 {
+¡Ni pensarlo!
+}
+questNPC_135 {
+Sigue soñando...
+}
+questNPC_136 {
+Cuando las ranas críen pelo.
+}
+questNPC_137 {
+@<LinkRandPhrase>
+}
+questNPC_138 {
+¿Desde cuándo los esclavos andan por ahí armados, como les da la gana?
+}
+questNPC_139 {
+Eres esclavo del coronel Bishop, ¿por qué estás armado?
+}
+questNPC_140 {
+¡Oye, entrega todas tus armas ahora mismo! Alguien tiene que avisar al coronel Bishop para que te dé una buena lección...
+}
+questNPC_141 {
+Toma, quédate con esto y olvidemos el asunto.
+}
+questNPC_142 {
+¡Veamos ahora quién le da una paliza a quién!
+}
+questNPC_143 {
+Ah, está bien, lárgate.
+}
+questNPC_144 {
+El coronel Bishop te ha estado buscando por todas partes. Ve a la plantación de inmediato...
+}
+questNPC_145 {
+Como usted diga.
+}
+questNPC_146 {
+¿Un español? ¡No me lo puedo creer!.. Un español no podría haberlo hecho... ¿o sí...?
+}
+questNPC_147 {
+Te aseguro que era un español.
+}
+questNPC_148 {
+Voy para allá de inmediato. ¿Dónde está esa casa?
+}
+questNPC_149 {
+Esta es la casa del señor Griffin, no está lejos de la residencia del gobernador.
+}
+questNPC_150 {
+Hola, señor Blood, me alegra verlo en buen estado. En la condición en que llegó a la plantación, no habría durado mucho. Menos mal que los muchachos y yo logramos cuidarlo, aunque no somos médicos.\nPero usted, si no me equivoco, sí lo es, ¿verdad? ¿Podría darme algo para el dolor de cabeza? A veces me duele de forma insoportable desde aquella maldita tormenta. ¿Por qué tuvo que ir el capitán allí en primer lugar...?
+}
+questNPC_151 {
+Por supuesto, Sandro. Después de lo que tú y Hopkins hicieron por mí y los muchachos, es mi deber ayudarte. Toma esta poción, te curará la migraña.
+}
+questNPC_152 {
+Lamentablemente, no tengo nada para el dolor de cabeza, Sandro. Y lo más probable es que el coronel Bishop no dé dinero para comprar la medicina necesaria, ya que cree que todas las enfermedades de sus esclavos provienen de la holgazanería. Por desgracia, lo único que puedo recomendarte es que descanses todo lo que puedas, siempre que sea posible.
+}
+questNPC_153 {
+Doctor, en mi situación, es difícil seguir su consejo. No tengo dinero, pero sí tengo algo que podría serle muy útil. Así que si logra encontrar algo para mí, no olvidaré su amabilidad.
+}
+questNPC_154 {
+De acuerdo, intentaré conseguirte algo de medicina. Veré si el médico del pueblo tiene algo de sobra.
+}
+questNPC_155 {
+Oh, ¿espero que me dé algún remedio, doctor?
+}
+questNPC_156 {
+Sí, traje el remedio para la migraña, Sandro.
+}
+questNPC_157 {
+Probablemente no.
+}
+questNPC_158 {
+No, todavía no he conseguido la poción correcta.
+}
+questNPC_159 {
+¡Gracias! Como muestra de mi gratitud, acepta este puñal. Lo he mantenido oculto de los capataces durante mucho tiempo, pero creo que ahora te será más útil. Dadas las circunstancias...
+}
+questNPC_160 {
+Sí, pero los esclavos no pueden tener armas, ¿verdad? ¿Y de qué situación hablas?
+}
+questNPC_161 {
+No se preocupe, doctor, es fácil de ocultar bajo la ropa, así que nadie notará nada. A menos que empiece a agitarlo delante de los soldados. Y llegará el momento en que tendrá que mostrarlo, y creo saber por qué... Pero no se lo diré a nadie, no se preocupe—estoy de su lado.
+}
+questNPC_162 {
+Gracias, amigo. Te sugiero que hables con Jeremy. ¡Que te mejores pronto!
+}
+questNPC_163 {
+¿De qué estás balbuceando, miserable esclavo? ¿Qué asunto podrías tener tú conmigo?
+}
+questNPC_164 {
+Necesito este anillo...
+}
+questNPC_165 {
+¿Un anillo? ¡No te lo vendería por nada del mundo! Ve a comprarle otro a alguna mercader que quiera tratar con un esclavo.
+}
+questNPC_166 {
+No solo necesito el anillo, sino también el dedo en el que está.
+}
+questNPC_167 {
+¡Vas a pagar caro por tus palabras!
+}
+questNPC_168 {
+Lo sabía. Es mejor ocuparse de esto sin testigos. Encuéntrame junto a la puerta de la ciudad en una hora.
+}
+questNPC_169 {
+Muy bien, entonces nos vemos fuera de las puertas en una hora. Incluso te traeré algún tipo de espada, para que se sienta un poco más como un duelo de verdad.
+}
+questNPC_170 {
+Hasta pronto.
+}
+questNPC_171 {
+Bueno, ¿y ahora qué quieres?
+}
+questNPC_172 {
+No tengo mucho tiempo—¡quiero acabar contigo ahora mismo!
+}
+questNPC_173 {
+Solo quería recordarte nuestra reunión.
+}
+questNPC_174 {
+Hm, ¡tú elegiste tu propio destino!
+}
+questNPC_175 {
+Vamos al grano.
+}
+questNPC_176 {
+Entonces, ¿estás listo para adentrarte en el infierno?
+}
+questNPC_177 {
+Sí. ¡Veamos quién sale ganando!
+}
+questNPC_178 {
+¿De qué estás balbuceando, miserable esclavo?
+}
+questNPC_179 {
+Te traigo noticias de que el agradable pasatiempo ha sido cancelado.
+}
+questNPC_180 {
+Tienes tres segundos para largarte de donde viniste y rezar para que no volvamos a cruzarnos.
+}
+questNPC_181 {
+Tengo una idea mejor. ¿Por qué no te enfadas y me retas a un duelo, mientras yo me quedo aquí esperando?
+}
+questNPC_182 {
+¡Hic! Oye, amigo, tienes pinta de marinero experimentado. ¿Qué tal si compartimos un vaso de ron? Yo invito.
+}
+questNPC_183 {
+Puede que sea un lobo de mar, pero eso no significa que beba con cualquiera.
+}
+questNPC_184 {
+Me encantaría acompañarte yo mismo, por la compañía.
+}
+questNPC_185 {
+¡Hic! ¡Eso es lo que quería ver! ¡Así se hace! ¡Esta noche invito yo!
+}
+questNPC_186 {
+¡Tabernero, ron!
+}
+questNPC_187 {
+¡Eres un verdadero amigo! ¡Por nuevos encuentros!
+}
+questNPC_188 {
+¡Hic! ¡Qué ron! Bueno... ¡salud!
+}
+questNPC_189 {
+¡Por tu salud y por tu pronta liberación!
+}
+questNPC_190 {
+@<LinkRandPhrase>
+}
+questNPC_191 {
+Dime, hermano, ¿qué historias se cuentan en las tabernas?
+}
+questNPC_192 {
+Nada especialmente nuevo... Hace poco llegó un comerciante de viaje desde Jamaica. Se rumorea que trajo una carga muy valiosa. Si no me equivoco, es un viejo conocido del coronel Bishop. Se hospeda en una de las casas del pueblo y planea quedarse aquí uno o dos días más.
+}
+questNPC_193 {
+Sí, fue un buen momento, pero ahora debería irme.
+}
+questNPC_194 {
+¡Entonces lárgate!
+}
+questNPC_195 {
+¿Entonces cuántos son?
+}
+questNPC_196 {
+Todos están ahí.
+}
+questNPC_197 {
+Son cinco.
+}
+questNPC_198 {
+Había más de ellos de los que podía contar.
+}
+questNPC_199 {
+¿Eso es todo? ¿De qué estás hablando? ¡Lárgate de aquí, maldito aventurero!
+}
+questNPC_200 {
+Cinco de ellos... hmm. Eso lo explica. ¿Están armados?
+}
+questNPC_201 {
+Llevan armas ligeras y no las exhiben.
+}
+questNPC_202 {
+No, se están comportando de manera bastante tranquila.
+}
+questNPC_203 {
+¿Ellos... qué?! ¡Fuera de mi casa, mentiroso!
+}
+questNPC_204 {
+¡Lo sabía! ¡Griffin les vendió las armas! ¿Preguntan por mí o por mi mercancía?
+}
+questNPC_205 {
+Estaban preguntando por ti, interrogando a los guardias.
+}
+questNPC_206 {
+Intentaron sacarle información sobre ti al posadero.
+}
+questNPC_207 {
+¿Pacíficamente? ¿Estás loco?
+}
+questNPC_208 {
+¿Guardias? ¡Un bufón, aunque ingenioso! ¡Vete al diablo!
+}
+questNPC_209 {
+El viejo no me traicionará. ¿Cómo lograron entrar en la ciudad?
+}
+questNPC_210 {
+Un barco español atracó; llegaron en él.
+}
+questNPC_211 {
+Entraron en el pueblo de noche atravesando la selva.
+}
+questNPC_212 {
+Han estado aquí desde hace bastante tiempo, solo manteniéndose fuera de la vista.
+}
+questNPC_213 {
+¿En... el barco? Pero... ¡estás mintiendo! ¡Maldito seas!
+}
+questNPC_214 {
+¿La selva... y solo son cinco? ¡No me hagas reír! ¡Lárguense!
+}
+questNPC_215 {
+Así es, estoy seguro de haberlos visto antes. Bien, hiciste un buen trabajo, muchacho. Pero aún así... ¿quiénes son?
+}
+questNPC_216 {
+Los españoles.
+}
+questNPC_217 {
+Piratas.
+}
+questNPC_218 {
+Cazarrecompensas.
+}
+questNPC_219 {
+No estuvo mal... Supongo que ya te pagaron. Solo vete.
+}
+questNPC_220 {
+¿Piratas? ¡Ja, ja! Sí que sabes hacerme reír. ¡Lárgate de aquí!
+}
+questNPC_221 {
+Toma tu dinero. Dile que estoy satisfecho con tu trabajo.
+}
+questNPC_222 {
+Ahh... hoy, supongo que las bebidas corren por mi cuenta. Igual que ayer, y anteayer, y todos los días desde... bueno, no importa.
+}
+questNPC_223 {
+¡No, déjame invitar al mejor pescador de Barbados!
+}
+questNPC_224 {
+Como ordene, señor... de los peces.
+}
+questNPC_225 {
+¡Claro que sí, por supuesto! ¡Brindemos por eso!
+}
+questNPC_226 {
+¡Por el mejor pescador! (apurando el contenido de la jarra) ¿Cuánto tiempo llevas en esto, Arnie?
+}
+questNPC_227 {
+¿Cuál es tu problema, eh? ¡Vamos, soy el mejor pescador de todo el archipiélago!
+}
+questNPC_228 {
+No me extraña que seas el mejor donde no hay peces... Yo también he pescado... peces.
+}
+questNPC_229 {
+Han pasado décadas ya, amigo mío. Décadas... pero nunca había visto algo así antes, por el ancla...
+}
+questNPC_230 {
+Nunca había visto algo así, ¿verdad? Bien, ¡brindemos otra vez por eso!
+}
+questNPC_231 {
+¿No? ¿Nada de pescado? ¡Tienes que conocer los lugares adecuados, torpe! Yo encontré un sitio especial... la red se llena hasta el tope de la noche a la mañana, ¡Dios es testigo!
+}
+questNPC_232 {
+Lugares... Yo también buscaba buenos lugares, probé por todas partes... aquí no hay peces, ni buenos sitios tampoco. Al diablo la pesca, ¡es una pérdida de tiempo!
+}
+questNPC_233 {
+Tomemos algo... Este... este lugar... es...
+}
+questNPC_234 {
+¿Y bien? ¿Qué es este lugar?
+}
+questNPC_235 {
+¡No sabes buscar! Puedo enseñarte cómo se hace... cómo se siente...
+}
+questNPC_236 {
+¿Y bien? ¿Qué es este lugar?
+}
+questNPC_237 {
+…está muy cerca. @<Pchar>
+}
+questNPC_238 {
+¡Increíble!.. Pero debo irme ahora.
+}
+questNPC_239 {
+¡Tú... lárgate, espía llorón!
+}
+questNPC_240 {
+¡Que te lleve el diablo del mar!
+}
+questNPC_241 {
+¿Y tú quién demonios eres? ¡Me llamo Alex Winner, soy comerciante! ¡Lárgate, o te compro a tu amo y te mando al fondo abrazado a una bala de cañón!
+}
+questNPC_242 {
+Eh...
+}
+questNPC_243 {
+Mmm... ¿nos conocemos? Puede que lo haya olvidado, ¿quién eres..?
+}
+questNPC_244 {
+¡Por supuesto, Raph! Pero... si has olvidado lo que te debo, entonces...
+}
+questNPC_245 {
+¿De qué hablas? ¿Para qué? ¿Qué engaño es este?
+}
+questNPC_246 {
+Entrégale 30,000 piastras al prestamista estafado y le diré al gobernador Steed que las devolviste por tu propia voluntad. Después te dejaré ir y no tendrás que acabar en la horca.
+}
+questNPC_247 {
+Lo recuerdo... creo. Bien. Entonces, ¿cuándo me vas a devolver el dinero?
+}
+questNPC_248 {
+La deuda de la vida, amigo... ¿Dónde elegirías morir? ¿Quizás aquí mismo?
+}
+questNPC_249 {
+¡¿Qué?! ¡No te atreverías!..
+}
+questNPC_250 {
+¡Me traicionaste, Guinness! ¡Por tu culpa lo perdí todo!.. ¡Vas a morir!
+}
+questNPC_251 {
+No, espera... Mira... ¡Tengo 55,000 piastras! Llévatelas y vete. Es todo lo que tengo, te lo suplico...
+}
+questNPC_252 {
+Vaya, cómo han cambiado las cosas, querido amigo. Me alegra que hayamos llegado a un acuerdo. Ahora lárgate, gusano miserable.
+}
+questNPC_253 {
+Tú... Maldita sea... Está bien. Toma, es tuyo. Casi lo logro...
+}
+questNPC_254 {
+Muy agradecido, querido amigo. Ahora lárgate de mi vista.
+}
+questNPC_255 {
+Hola, forastero. ¿Vienes por negocios? Si no, sigue tu camino.
+}
+questNPC_256 {
+No muy cortés... ¿Y tú quién eres? No he oído nada sobre que hayan reemplazado a nuestro factor.
+}
+questNPC_257 {
+Quizás... es porque él nunca cambió, ¿eh, amigo?
+}
+questNPC_258 {
+No tengo el honor de llamarte amigo. Déjame adivinar... ¿Eres pirata?
+}
+questNPC_259 {
+¡Eres increíblemente ignorante! ¿De verdad nunca has oído hablar del capitán Jacques Solovey?
+}
+questNPC_260 {
+¿Se suponía que debía haberme enterado?
+}
+questNPC_261 {
+Hm, permíteme llenar esa lamentable laguna en tu conocimiento. Así que, déjame presentarme. Capitán Jacques Nightingale, también conocido como...
+}
+questNPC_262 {
+Todo eso es muy interesante, pero… ¿dónde está tu barco, capitán?
+}
+questNPC_263 {
+Eh... Está en el fondeadero... En algún lugar...
+}
+questNPC_264 {
+¿Vigilándolo aquí?.. Si es así, ya tengo a alguien en mente.
+}
+questNPC_265 {
+Vamos... ¿De qué sirve tanta charla? ¡Mi barco ha desaparecido! A menos que tengas una vela escondida bajo esos harapos...
+}
+questNPC_266 {
+Créeme, pienso conseguir mucho más que solo una vela en un futuro cercano.
+}
+questNPC_267 {
+¿Galera de esclavos? Ni pensarlo.\nSeamos sinceros—al fin y al cabo, ya somos amigos, ¿no? Cuando dos personas entran a la fuerza en la misma tienda, al mismo tiempo, sin que el dueño lo sepa, es como si el mismísimo Señor les estuviera diciendo que deben hacerse amigos, ¿entiendes?
+}
+questNPC_268 {
+Supongo que sí.
+}
+questNPC_269 {
+Bueno, ya le “tomé prestados” unos cuantos piastras al dueño de este buen lugar…
+}
+questNPC_270 {
+Eso es precisamente el tipo de cosa que me vendría bien.
+}
+questNPC_271 {
+¿Crees que es sensato buscar pelea con un pirata?.. Yo diría que no te conviene. Así que escucha bien: encuentra a alguien dispuesto a llevarme a Port Royal por tres mil, y te daré mil quinientos. ¿Trato hecho? En tu situación, cada moneda cuenta.
+}
+questNPC_272 {
+Sí... Es una oferta tentadora. No es que tenga muchas opciones. Trato hecho.
+}
+questNPC_273 {
+Sabes qué, mejor ve a engañar a algún joven ingenuo. Yo ya he tenido suficiente por hoy.
+}
+questNPC_274 {
+Estupendo. Una condición, mon chéri: nada de nombres. Bueno, puedes dar el tuyo si quieres... pero el mío... Solo di que lo olvidaste. O mejor aún, di que soy una joven hermosa. Digamos... Taylor. Sí, Taylor. ¿Entendido?
+}
+questNPC_275 {
+¿Señorita joven?.. Está bien, ya se me ocurrirá algo.
+}
+questNPC_276 {
+Me alegra verte, mi nuevo amigo. Entonces, ¿pudiste hacerme ese favor del que hablamos?
+}
+questNPC_277 {
+La corbeta 'Floating Briton' al mando del capitán John Miner ya te está esperando.
+}
+questNPC_278 {
+Bueno, ¿qué puedo decir? Una reverencia y mi más profundo agradecimiento para ti, oh...
+}
+questNPC_279 {
+Mil quinientos, Jacques.
+}
+questNPC_280 {
+¡Por supuesto, por supuesto! Solo quería expresar mi sincero agradecimiento y ofrecerte una copa de este magnífico ron, para que podamos sellar los lazos de nuestra buena amistad con un brindis compartido, que a partir de hoy...
+}
+questNPC_281 {
+¡Mil quinientos! Estoy esperando... mi nuevo amigo.
+}
+questNPC_282 {
+¡Cállate! Toma, aquí tienes tu dinero...
+}
+questNPC_283 {
+Gracias.
+}
+questNPC_284 {
+Te lo agradezco... amigo. Adelante, gasta tu dinero en algo bueno.
+}
+questNPC_285 {
+Y buena suerte para ti... hmm.
+}
+questNPC_286 {
+John Miner, capitán de la corbeta 'Floating Briton', a su servicio. ¿En qué puedo ayudarle?
+}
+questNPC_287 {
+Buenos días, mi nombre es Peter Blood. ¿Puedo pedirle un favor, capitán? Un, eh... amigo mío necesita llegar a Port Royal, y está dispuesto a pagar tres mil piezas de a ocho.
+}
+questNPC_288 {
+¿Puedo saber el nombre de su amigo, señor Blood?
+}
+questNPC_289 {
+Por supuesto. Su nombre es... ella... bueno, sí — en realidad, es ella...
+}
+questNPC_290 {
+Por supuesto. Se llama Jacques Nightingale, ¿lo has oído nombrar?
+}
+questNPC_291 {
+No.
+}
+questNPC_292 {
+¿Señorita? ¿Su amiga... o mejor dicho, su amiga especial, va rumbo a Port Royal?
+}
+questNPC_293 {
+¿Y por qué no? Port Royal es un puerto perfectamente respetable. ¿Por qué no podría ir una joven allí?
+}
+questNPC_294 {
+Sí... lo he oído, sí. Bien, lo esperaré a bordo. Gracias por su respuesta sincera, señor Blood.
+}
+questNPC_295 {
+La honestidad es un arma de doble filo. Te deseo lo mejor. Espero que no te arrepientas de tu decisión.
+}
+questNPC_296 {
+¿No? ¿Cómo voy a aceptar llevar a un pasajero si ni siquiera sé su nombre?
+}
+questNPC_297 {
+Por supuesto que puedes. Digamos que se trata de cierta señorita Taylor... Sí, exacto — la señorita Taylor, quien te dará tres mil en plata si dejas de hacer preguntas.
+}
+questNPC_298 {
+De acuerdo, lo llevaré... la llevaré. Dile a mi futuro pasajero que el ‘Floating Briton’ está listo para zarpar.
+}
+questNPC_299 {
+Gracias.
+}
+questNPC_300 {
+¡Eso deberías haberlo dicho desde el principio! Trato hecho—esperaré a la señorita Taylor a bordo.
+}
+questNPC_301 {
+Se lo haré saber. Le deseo lo mejor, capitán.
+}
+questNPC_302 {
+¡Ah, perro inglés!
+}
+questNPC_303 {
+Espero que estés listo para encontrarte con tu creador.
+}
+questNPC_304 {
+¿Tú me salvaste? ¿Quién eres?
+}
+questNPC_305 {
+Soy Peter Blood, eh... el médico local. ¿Vas a esperar mientras te muestro mis documentos? ¿Y qué demonios está pasando aquí?
+}
+questNPC_306 {
+Los españoles... ellos... Ese gran barco, el que hoy dejaron entrar tan tranquilamente en nuestra bahía bajo una bandera falsa, resultó ser un corsario español. Su engaño con la bandera pasó desapercibido, tanto que, sin despertar sospechas, navegaron directo hasta la bahía y dispararon una andanada al fuerte a quemarropa con veinte cañones...
+}
+questNPC_307 {
+¿Y ahora, según entiendo, la tripulación de este corsario está saqueando la ciudad?
+}
+questNPC_308 {
+Sí, al atardecer nuestra guarnición se había rendido, y doscientos cincuenta españoles se convirtieron en los dueños de Bridgetown.
+}
+questNPC_309 {
+Eso sí que es un giro del destino en el momento justo. Aunque solo el diablo sabe cómo acabará todo esto. Y tú, escápate al bosque y escóndete hasta que los españoles se marchen del pueblo.
+}
+questNPC_310 {
+¡Capitán Hobart! Según la información de nuestro espía, los rebeldes se esconden en esta hacienda. Tiene cinco dragones a su disposición. Registre el edificio y capture a cualquiera que se encuentre dentro. No trate a esta escoria con delicadeza. ¡Está actuando en nombre del Rey!
+}
+questNPC_311 {
+¡Sí, señor!
+}
+questNPC_312 {
+¿Oíste al coronel? ¡Los rebeldes se esconden ahí! ¡Revisen todo, registren la casa de arriba abajo y detengan a todos los que encuentren! ¡Vamos!
+}

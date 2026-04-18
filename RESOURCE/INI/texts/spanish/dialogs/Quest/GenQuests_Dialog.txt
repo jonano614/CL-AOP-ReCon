@@ -1,0 +1,4072 @@
+GenQuests_Dialog_1 {
+Esto es claramente un error. ¿Cómo llegó hasta aquí? Por favor, repórtalo al soporte y describe en detalle cómo lo encontraste.
+}
+GenQuests_Dialog_2 {
+@<RandSwear> ¡Te avisaré sin falta!
+}
+GenQuests_Dialog_3 {
+No estoy autorizado para hablar con usted. Por favor, diríjase a nuestro oficial.
+}
+GenQuests_Dialog_4 {
+Por supuesto...
+}
+GenQuests_Dialog_5 {
+Entendido.
+}
+GenQuests_Dialog_6 {
+¡Por supuesto!
+}
+GenQuests_Dialog_7 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_8 {
+Preséntese, quiero saber con quién estoy hablando.
+}
+GenQuests_Dialog_9 {
+Me llamo @<GetFullName>. ¿Qué está pasando aquí?
+}
+GenQuests_Dialog_10 {
+Capitán, ¿tu nombre es @<GetFullName>, verdad?
+}
+GenQuests_Dialog_11 {
+Sí, así es...
+}
+GenQuests_Dialog_12 {
+No. Debe estar confundiéndome con otra persona...
+}
+GenQuests_Dialog_13 {
+@<PChar>, ¡muchísimas gracias! Si no fuera por usted, mi destino habría sido muy triste... ¿Cómo podría agradecerle?
+}
+GenQuests_Dialog_14 {
+No necesito nada...
+}
+GenQuests_Dialog_15_m {
+No le diría que no a una pequeña recompensa.
+}
+GenQuests_Dialog_15_f {
+No me vendría mal una pequeña recompensa.
+}
+GenQuests_Dialog_16_m {
+... Hmm, sí que es él... Gracias, muchacho, sin tu ayuda lo habríamos pasado mal—todas las salidas de la ciudad están cerradas para nosotros. Toma, aquí tienes @<FindMoneyString> y sigue tu camino. Nosotros vamos a tener una charla con nuestro amigo...
+}
+GenQuests_Dialog_16_f {
+... Hmm, sí que es él... Gracias, muchacha, sin tu ayuda lo habríamos pasado mal—todas las salidas del pueblo están cerradas para nosotros. Toma, aquí tienes @<FindMoneyString> y sigue tu camino. Nosotros vamos a tener una charla con nuestro amigo...
+}
+GenQuests_Dialog_17_m {
+... Hmm, sí que es él... Gracias, muchacho, sin tu ayuda estaríamos en apuros; no tenemos salida del pueblo. Toma @<FindMoneyString> y vete. No te interpongas mientras nos encargamos de este traidor...
+}
+GenQuests_Dialog_17_f {
+... Hmm, sí que es él... Gracias, muchacha, sin tu ayuda estaríamos en apuros; todos los caminos fuera de la ciudad están cerrados para nosotros. Toma @<FindMoneyString> y vete. No te interpongas mientras nos encargamos de este traidor...
+}
+GenQuests_Dialog_18 {
+Por supuesto. Hasta luego, caballeros...
+}
+GenQuests_Dialog_19 {
+¡¿Qué?! No, no voy a permitir un asesinato, sin importar quién sea... ¡Y no quiero su dinero manchado de sangre!
+}
+GenQuests_Dialog_20 {
+Vaya, vaya, vaya... ¿Qué tenemos aquí? ¿Piratas? Tendrán que acompañarnos a la oficina del comandante para ser interrogados...
+}
+GenQuests_Dialog_21_m {
+¡No somos piratas en absoluto! ¡Ni siquiera conozco a esta persona! Él acaba de entrar en esta habitación, y simplemente no tuve tiempo de salir.
+}
+GenQuests_Dialog_21_f {
+¡No somos piratas en absoluto! ¡Ni siquiera conozco a este hombre! Él acaba de entrar en esta habitación y simplemente no tuve tiempo de salir.
+}
+GenQuests_Dialog_22_m {
+Entonces, ¿qué decías? ¿Tienes un mensaje para mí? ¡Vamos, dilo!
+}
+GenQuests_Dialog_22_f {
+Entonces, ¿qué decías? ¿Tienes un mensaje para mí? ¡Vamos, dilo!
+}
+GenQuests_Dialog_23 {
+Aquí tienes...
+}
+GenQuests_Dialog_24_m {
+¡Eh, tú! Sí, tú. Veo que eres una persona respetable, no te falta dinero.
+}
+GenQuests_Dialog_24_f {
+¡Eh, tú! Sí, tú. Veo que eres una dama respetable, y no te falta dinero.
+}
+GenQuests_Dialog_25_m {
+Lo tomaría como un cumplido, si no viniera de un sinvergüenza como tú.
+}
+GenQuests_Dialog_25_f {
+Lo tomaría como un cumplido, si no viniera de un sinvergüenza como tú.
+}
+GenQuests_Dialog_26_m {
+¡Alto! A ver, amigo, ¿no será que llevas la bolsa demasiado llena?
+}
+GenQuests_Dialog_26_f {
+¡Alto! A ver, muchacha, veamos si tu bolsa no pesa demasiado.
+}
+GenQuests_Dialog_27 {
+Entonces, ¿ya le han encontrado nuevo destino a los fondos de la iglesia?..
+}
+GenQuests_Dialog_28 {
+¡Eh, tú en el bote! Despeja el canal, tengo que hablar con los muchachos...
+}
+GenQuests_Dialog_29 {
+Has bebido de más, amigo. Ve a dormir un poco.
+}
+GenQuests_Dialog_30 {
+¡Eh, capitán! Echa el ancla, hemos llegado...
+}
+GenQuests_Dialog_31_m {
+¿Y por qué debería yo...
+}
+GenQuests_Dialog_31_f {
+¿Y por qué debería yo...
+}
+GenQuests_Dialog_32 {
+¿A quién crees que le estás hablando así?
+}
+GenQuests_Dialog_33 {
+¡Saludos! Por fin, Dios ha escuchado nuestras plegarias e inspirado a un valiente capitán a desembarcar en esta costa.
+}
+GenQuests_Dialog_34 {
+¡Alabado sea el destino! ¡Ahora nuestros huesos podridos no acabarán siendo comida para los carroñeros locales!
+}
+GenQuests_Dialog_35 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_36 {
+Saludos, buen amigo, soy el capitán @<GetFullName>. Veo que tienes serios problemas...
+}
+GenQuests_Dialog_37_m {
+Querido, estoy aquí por mis propios asuntos y simplemente no tengo tiempo para resolver tus problemas.
+}
+GenQuests_Dialog_37_f {
+Querido, he venido aquí por mis propios asuntos y no tengo absolutamente ningún tiempo para resolver tus problemas.
+}
+GenQuests_Dialog_38 {
+¡Ah, capitán! ¡Qué suerte que Dios le haya enviado un viento favorable y lo haya guiado hasta este lugar solitario!
+}
+GenQuests_Dialog_39 {
+¡Capitán! ¡Alabado sea el destino que decidió desembarcar en esta costa!
+}
+GenQuests_Dialog_40 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_41 {
+Saludos, buen amigo, soy el capitán @<GetFullName>. Veo que tienes serios problemas.
+}
+GenQuests_Dialog_42_m {
+Querido, he venido aquí por mis propios asuntos y simplemente no tengo tiempo para resolver tus problemas.
+}
+GenQuests_Dialog_42_f {
+Querido, he venido aquí por mis propios asuntos y no tengo absolutamente tiempo para resolver tus problemas.
+}
+GenQuests_Dialog_43 {
+Espere, @<GetAddress_Form>. ¿Podría dedicarme un momento de su valioso tiempo?
+}
+GenQuests_Dialog_44_m {
+¿Estaría el noble caballero dispuesto a escuchar la humilde petición de sus indignos compañeros?
+}
+GenQuests_Dialog_44_f {
+¿Estaría la noble dama dispuesta a escuchar la humilde petición de sus indignos compañeros?
+}
+GenQuests_Dialog_45_m {
+Noble señor, ¿podría dedicar unos minutos de su valioso tiempo para hablar con los desfavorecidos?
+}
+GenQuests_Dialog_45_f {
+Noble señora, ¿podría dedicar unos minutos de su valioso tiempo para hablar con los desafortunados?
+}
+GenQuests_Dialog_46 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_47 {
+No tengo tiempo para eso.
+}
+GenQuests_Dialog_48 {
+Apártate, ya tengo suficientes problemas.
+}
+GenQuests_Dialog_49 {
+Déjame en paz. No tengo tiempo para ti.
+}
+GenQuests_Dialog_50 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_51 {
+¿Qué quieres?
+}
+GenQuests_Dialog_52 {
+¿Qué quieres?
+}
+GenQuests_Dialog_53 {
+¿Qué pasa?
+}
+GenQuests_Dialog_54 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_55 {
+¡Saludos, capitán! ¿Le interesan algunas baratijas indias o mercancía que no encontrará en ninguna tienda?
+}
+GenQuests_Dialog_56 {
+Por lo general, sinvergüenzas como tú asaltan a viajeros desprevenidos. ¿A qué viene tanta cortesía de repente?
+}
+GenQuests_Dialog_57 {
+¿Contrabandistas, eh? ¿Huyendo de la ley, supongo? Pues parece que la justicia los ha alcanzado...
+}
+GenQuests_Dialog_58_m {
+¿Acaso nadie te enseñó que es de mala educación molestar a desconocidos con tonterías? Parece que necesitas una lección...
+}
+GenQuests_Dialog_58_f {
+¿Acaso nadie te enseñó que es de mala educación molestar a una dama con tonterías? Parece que necesitas una lección...
+}
+GenQuests_Dialog_59 {
+¡Con gente como tú, normalmente es mi pistola la que habla!
+}
+GenQuests_Dialog_60 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_61 {
+Le escucho, capitán. ¿Se trata de un asunto?
+}
+GenQuests_Dialog_62 {
+Busco a un caballero llamado @<pchar>.
+}
+GenQuests_Dialog_63 {
+Yo soy @<pchar> en persona. ¿Y con quién tengo el honor de hablar, si se me permite preguntar?
+}
+GenQuests_Dialog_64 {
+Lo has encontrado. ¿En qué puedo ayudarte?
+}
+GenQuests_Dialog_65 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_66 {
+Soy el capitán @<GetFullName>, y tengo asuntos que tratar con usted sobre @<pchar>.
+}
+GenQuests_Dialog_67 {
+¿Y quién es?
+}
+GenQuests_Dialog_68 {
+Espera, ¿tú eres @<pchar> y no sabes quién es @<pchar>?
+}
+GenQuests_Dialog_69 {
+Oh, hace tiempo que no sabemos nada de ese viejo bribón, ¿verdad? ¿Qué le ha pasado esta vez?
+}
+GenQuests_Dialog_70 {
+Esta vez está en serios problemas... Lo han capturado y está pidiendo tu ayuda.
+}
+GenQuests_Dialog_71 {
+De acuerdo, te escucho con atención.
+}
+GenQuests_Dialog_72 {
+Su barco fue atacado por piratas y él mismo fue hecho prisionero. Me pidió que viniera a usted para negociar su rescate.
+}
+GenQuests_Dialog_73 {
+Sí, me alegra saber de un viejo amigo. ¿Cómo está?
+}
+GenQuests_Dialog_74 {
+Está en una situación tan grave que cuesta incluso imaginarlo.
+}
+GenQuests_Dialog_75 {
+Exactamente, soy @<pchar>! Pero ¿por qué debería conocer a un tal @<pchar>?!
+}
+GenQuests_Dialog_76 {
+Disculpe, debe de haber habido un error...
+}
+GenQuests_Dialog_77 {
+¡Vaya! ¿Y cómo se supone que debo ayudarlo? ¿Acaso debería liberarlo acabando con todos sus enemigos, ja, ja, ja?
+}
+GenQuests_Dialog_78 {
+No, eso no será necesario... Solo tienes que entregar @<FindMoneyString> como rescate.
+}
+GenQuests_Dialog_79 {
+¡Vaya descaro! ¿Por qué tendría yo que pagar su rescate? ¿Quién es él para mí, de todos modos?
+}
+GenQuests_Dialog_80 {
+Hmm, me dijo que usted era su última esperanza. Y también insinuó que había alguna deuda...
+}
+GenQuests_Dialog_81 {
+¡Ah, qué sinvergüenza! Él mismo me debe una buena suma. Pero eso no es motivo para pagar también su rescate, esperando que devuelva ambas deudas.
+}
+GenQuests_Dialog_82 {
+¿No es un sinvergüenza? No solo me robó cuando repartimos el negocio, ¡ahora encima tiene el descaro de pedirme un rescate!
+}
+GenQuests_Dialog_83 {
+¡Vaya, no me lo esperaba! ¿Por qué tendría que gastar dinero por él? No somos tan cercanos.
+}
+GenQuests_Dialog_84 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_85 {
+¿Entonces eso es lo que debo decirle, que se niega a pagar el rescate y no reconoce la deuda?
+}
+GenQuests_Dialog_86 {
+¡Dios mío! ¿De qué deuda hablas? ¡Ya te lo he explicado todo! Y sinceramente, si no tienes más preguntas aparte de esta historia absurda, me gustaría retirarme.
+}
+GenQuests_Dialog_87 {
+Bien, entonces ya no tengo más preguntas para usted... Pero sí tengo muchas para su amigo...
+}
+GenQuests_Dialog_88_m {
+Hmm, así que eres tú quien lo detiene... Bien, con gusto le echaré una mano.
+}
+GenQuests_Dialog_88_f {
+Hmm, así que eres tú quien lo está deteniendo... Bueno, estaré encantado de ayudarlo.
+}
+GenQuests_Dialog_89 {
+Perfecto, entonces. El rescate es de @<FindMoneyString>.
+}
+GenQuests_Dialog_90_m {
+Me ha entendido mal: ante usted está un miembro del consejo municipal encargado de supervisar el cumplimiento de la carta.\n¡Guardias! ¡Guardias! ¡Arresten a esta persona bajo sospecha de tráfico de esclavos y piratería contra los barcos de @<NationNameGenitive>!
+}
+GenQuests_Dialog_90_f {
+Me ha entendido mal: ante usted está un miembro del consejo municipal encargado de supervisar el cumplimiento de la carta.\n¡Guardias! ¡Guardias! ¡Arréstenla bajo sospecha de tráfico de esclavos y piratería contra los barcos de @<NationNameGenitive>!
+}
+GenQuests_Dialog_91 {
+Bueno, "amigo", ya llegaré a ti...
+}
+GenQuests_Dialog_92 {
+¿De verdad? ¿Puedo hacer algo para ayudarlo?
+}
+GenQuests_Dialog_93 {
+Lo capturaron y me pidió que hablara con usted sobre un rescate.
+}
+GenQuests_Dialog_94 {
+Por supuesto, por supuesto. Haré todo lo que pueda. ¿Dónde está? ¿De cuánto estamos hablando?
+}
+GenQuests_Dialog_95_m {
+Los piratas exigen @<FindMoneyString>. Tengo que llevar el dinero al puerto, y entonces tu amigo quedará libre.
+}
+GenQuests_Dialog_95_f {
+Los piratas exigen @<FindMoneyString>. Tengo que llevar el dinero al puerto, y entonces tu amigo quedará libre.
+}
+GenQuests_Dialog_96 {
+Aquí tienes el dinero. Por suerte, tenía suficiente conmigo.
+}
+GenQuests_Dialog_97 {
+Sí, salió bastante bien. Dirígete al puerto, pronto podrás ver a tu amigo.
+}
+GenQuests_Dialog_98 {
+Hola, capitán, no he tenido el honor de presentarme. Me dijeron que me está buscando.
+}
+GenQuests_Dialog_99_m {
+Así es, si en verdad es usted el señor @<pchar>. Soy el capitán @<GetFullName> y quería hablar con usted sobre un asunto.
+}
+GenQuests_Dialog_99_f {
+Así es, si en verdad es usted el señor @<pchar>. Soy el capitán @<GetFullName>, y quería hablar sobre un asunto.
+}
+GenQuests_Dialog_100 {
+¿Y de qué se trata este asunto, capitán @<GetFullName>?
+}
+GenQuests_Dialog_101 {
+Me han dicho que tienes un objeto del que no te importaría deshacerte.
+}
+GenQuests_Dialog_102 {
+¿A qué quiere llegar?
+}
+GenQuests_Dialog_103 {
+No seas terco, querido amigo; sé todo sobre tu turbio pasado y sobre ese mapa casero que indica dónde está escondido el tesoro de @<GetName>.
+}
+GenQuests_Dialog_104 {
+¡Maldita sea! Sabía que ese canalla de @<pchar> acabaría contándolo todo tarde o temprano. ¿Por qué demonios tuve que abrir la boca y ofrecerle este trabajo?
+}
+GenQuests_Dialog_105 {
+Está bien, basta de lamentos. No vengo con malas intenciones... Véndeme ese mapa y sigue con tu vida como siempre.
+}
+GenQuests_Dialog_106 {
+Hm, sería bueno si es cierto... Entonces, ¿cuánto me darás por ella? Ten en cuenta que ese cofre estaba lleno de oro: hicieron falta cuatro hombres solo para traerlo aquí... Que Dios los tenga en su gloria...
+}
+GenQuests_Dialog_107 {
+Pero @<GetName> quizá ya, bueno... se haya llevado su tesoro...
+}
+GenQuests_Dialog_108 {
+Tienes razón... Bah, qué más da, te la dejo por @<FindMoneyString>. De todos modos, yo no me atrevería a molestar a los muertos.
+}
+GenQuests_Dialog_109 {
+De acuerdo, trato hecho...
+}
+GenQuests_Dialog_110 {
+No, señor, su pedazo de papel no vale tanto dinero. Adiós...
+}
+GenQuests_Dialog_111 {
+¿Eso es siquiera posible, capitán? Dios no le perdonará esto.
+}
+GenQuests_Dialog_112 {
+Eso depende de él.
+}
+GenQuests_Dialog_113 {
+Hola, soy @<pchar>, capitán del @<GetStrSmallRegister> '@<pchar>'. Mi barco naufragó en los arrecifes cerca de la costa. Solo unos pocos de mi tripulación lograron sobrevivir. La marea nos arrastró hasta esta playa desierta. Llevamos @<dRand> pasando hambre y sed.
+}
+GenQuests_Dialog_114 {
+Hola, soy @<pchar>, capitán del @<GetStrSmallRegister> '@<pchar>'. Nuestro barco naufragó no muy lejos de aquí. Logramos llegar a esta costa sobre sus restos, pero resultó estar deshabitada. Tuvimos que sobrevivir a base de mariscos y frutos de palma durante @<dRand>.
+}
+GenQuests_Dialog_115 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_116 {
+¿Y cuántos de ustedes quedan?
+}
+GenQuests_Dialog_117 {
+¿Y cuántos de ustedes tuvieron la suerte de sobrevivir?
+}
+GenQuests_Dialog_118 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_119 {
+como primer oficial
+}
+GenQuests_Dialog_120 {
+como médico del barco
+}
+GenQuests_Dialog_121 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_122 {
+como navegante
+}
+GenQuests_Dialog_123 {
+como contramaestre
+}
+GenQuests_Dialog_124 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_125 {
+como cocinero
+}
+GenQuests_Dialog_126 {
+como maestro carpintero
+}
+GenQuests_Dialog_127 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_128 {
+Oh, capitán, son problemas que no le desearías ni a tu peor enemigo... Saludos, soy @<pchar>, capitán y propietario del @<GetStrSmallRegister> '@<pchar>'. O mejor dicho, era el capitán y propietario. Ese canalla de @<pchar>, a quien contraté @<LinkRandPhrase> en @<XI_ConvertString>, incitó a la tripulación a amotinarse. Al final, nos dejaron en este lugar desolado. Eso ocurrió hace @<dRand>.
+}
+GenQuests_Dialog_129 {
+¿Entonces toda la tripulación se puso del lado de los amotinados?
+}
+GenQuests_Dialog_130 {
+De toda la tripulación, solo @<ShipWreck_GetStringQty> tuvieron la suerte de sobrevivir. El resto pereció... algunos aquí mismo, por heridas y fiebre.
+}
+GenQuests_Dialog_131 {
+Solo @<ShipWreck_GetStringQty> tuvieron suerte. Los demás descansan—unos en las profundidades del mar, otros en las dunas de arena de esta playa...
+}
+GenQuests_Dialog_132 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_133 {
+Tienes mi simpatía. Pero así es la vida de marinero: cualquiera de nosotros podría haber estado en tu lugar.
+}
+GenQuests_Dialog_134 {
+Lo entiendo... Todos estamos en manos del Señor, pero parece que tiene demasiadas preocupaciones para acordarse de cada uno de nosotros.
+}
+GenQuests_Dialog_135 {
+Sí. El hombre propone, pero Dios dispone...
+}
+GenQuests_Dialog_136 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_137 {
+¡No, por supuesto que no! Hubo bastantes que se negaron a unirse a los cabecillas, pero los canallas tomaron el arsenal, y menos mal que tuvimos el buen juicio de no resistirnos. Muchos murieron aquí mismo por la fiebre y los insectos venenosos; solo @<ShipWreck_GetStringQty> tuvimos la suerte de sobrevivir. Pero ahora, por fin, nuestro tormento ha terminado...
+}
+GenQuests_Dialog_138 {
+Vaya, te has metido en un buen lío...
+}
+GenQuests_Dialog_139 {
+Sí, aquí pueden pasar todo tipo de cosas...
+}
+GenQuests_Dialog_140 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_141_m {
+No hay prisa, buen hombre. ¿Y por qué debería creer que no los desembarcaron como cabecillas de un motín?
+}
+GenQuests_Dialog_141_f {
+No hay prisa, querido. ¿Y por qué debería creer que no los desembarcaron por ser los cabecillas de un motín?
+}
+GenQuests_Dialog_142 {
+Capitán, de verdad espero que haya algo de espacio libre en los cofres de su barco. Cada uno de nosotros tiene familia, que seguramente ya nos da por perdidos. Le estaríamos muy agradecidos.
+}
+GenQuests_Dialog_143 {
+Capitán, estamos completamente desesperados, no nos queda nadie a quien acudir. Por favor, no nos rechace—sáquenos de este lugar olvidado de Dios.
+}
+GenQuests_Dialog_144 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_145 {
+Bueno... ¿y adónde quiere que la lleve?
+}
+GenQuests_Dialog_146 {
+Lamentablemente, lo siento mucho, pero no queda ni una sola hamaca libre en el barco, y mucho menos camarotes. Los marineros duermen en la cubierta, sin oportunidad de recuperarse después de una dura guardia...
+}
+GenQuests_Dialog_147 {
+No quisiera decepcionarte, pero la tripulación ya está por encima de su capacidad: hay gente durmiendo al aire libre. Si se desata una enfermedad, perderé a la mitad de mis hombres.
+}
+GenQuests_Dialog_148 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_149 {
+Lo siento, pero los camarotes de la tripulación en el barco están llenos. Los marineros ya están apretados y simplemente no puedo aceptar más pasajeros.
+}
+GenQuests_Dialog_150_m {
+Me temo que tengo que decepcionarte, pero la tripulación está sobrecargada. Temo un brote de enfermedad.
+}
+GenQuests_Dialog_150_f {
+Me temo que debo decepcionarte, pero la tripulación de este barco está sobrecargada. Temo un brote de enfermedad.
+}
+GenQuests_Dialog_151 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_152 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_153 {
+Tú, un marinero experimentado, deberías saber mejor que nadie que tener a un náufrago a bordo trae mala suerte. Mi tripulación simplemente los echará a todos por la borda.
+}
+GenQuests_Dialog_154 {
+¿Qué hace, @<GetAddress_Form> @<pchar>?! ¡Por el amor de Dios! Soy un comerciante bastante conocido en el Caribe... Bueno, lo era. Ahora ya no sé... sin barco, sin recursos...
+}
+GenQuests_Dialog_155 {
+Bueno... Seguro hubo un motín en tu barco, o te atraparon robando. Bien merecido lo tienes.
+}
+GenQuests_Dialog_156 {
+¡Pero qué sinvergüenza es ese @<pchar> suyo! ¿De verdad va a dejar que se salga con la suya y aceptar su destino así, sin más?
+}
+GenQuests_Dialog_157 {
+A cualquier asentamiento de @<NationNameGenitive>.
+}
+GenQuests_Dialog_158 {
+Bueno, hay suficientes cofres y hamacas en el barco. Suban al bote.
+}
+GenQuests_Dialog_159 {
+Hmm. Vaya situación... Nos esperan combates duros, y no está claro dónde estarás más seguro: a bordo de mi barco o en esta acogedora laguna.
+}
+GenQuests_Dialog_160 {
+¡A Dunkirk!... Mi madre está allí...
+}
+GenQuests_Dialog_161 {
+¿Estás loco? Seguro que te golpeaste la cabeza fuerte durante el naufragio...
+}
+GenQuests_Dialog_162 {
+¡Da igual a dónde! Ni siquiera tenemos con qué pagarte...
+}
+GenQuests_Dialog_163 {
+Bueno, hay suficientes cofres y hamacas en el barco. Suban al bote.
+}
+GenQuests_Dialog_164 {
+Hmm. Vaya situación... Nos esperan combates duros, y no está claro dónde estarás más seguro: a bordo de mi barco o en esta acogedora laguna.
+}
+GenQuests_Dialog_165 {
+¡Pero si te niegas, nos condenas a todos! ¡Estamos dispuestos a abrirnos paso hasta el barco, aunque nos cueste la vida!
+}
+GenQuests_Dialog_166 {
+¿De qué pelea hablas? Apenas puedes mantenerte en pie...
+}
+GenQuests_Dialog_167 {
+Pruébalo...
+}
+GenQuests_Dialog_168 {
+¡Pero no puede dejarnos así! Sin su ayuda, no sobreviviremos mucho tiempo aquí...
+}
+GenQuests_Dialog_169 {
+Lo único que puedo hacer por ti es dejarte algo de provisiones y medicinas, y darte un bote. No morirás de hambre ni de sed, y ya conoces el mar...
+}
+GenQuests_Dialog_170 {
+Lo único que puedo hacer por ti es dejarte algo de provisiones y medicinas, y darte un bote. No morirás de hambre ni de sed, y ya sabes cómo manejarte en el mar...
+}
+GenQuests_Dialog_171_m {
+Puedo dejarte suficiente medicina, armas, ron y provisiones para un mes. En ese tiempo, o regresaré yo mismo o enviaré a alguien.
+}
+GenQuests_Dialog_171_f {
+Puedo dejarte suficientes medicinas, armas, ron y provisiones para un mes. En ese tiempo, o volveré yo misma o enviaré a alguien.
+}
+GenQuests_Dialog_172 {
+¡Pero si se niega, nos condena a una muerte segura! ¡Tenemos la intención de abrirnos paso hasta el barco, aunque nos cueste la vida!
+}
+GenQuests_Dialog_173 {
+¿De qué pelea hablas? Apenas tienes fuerzas para mantenerte en pie...
+}
+GenQuests_Dialog_174 {
+Pruébalo...
+}
+GenQuests_Dialog_175 {
+Lo único que puedo hacer por ti es dejarte algo de provisiones y medicinas, y darte un bote. No morirás de hambre ni de sed, y ya sabes moverte por el mar...
+}
+GenQuests_Dialog_176 {
+¡Pero si se niega, nos condena a una muerte segura! Estamos decididos a abrirnos paso hasta el barco, ¡aunque nos cueste la vida!
+}
+GenQuests_Dialog_177 {
+¿De qué pelea hablas? Apenas puedes mantenerte en pie...
+}
+GenQuests_Dialog_178 {
+Inténtalo...
+}
+GenQuests_Dialog_179 {
+¡Cómo te atreves a actuar así?!.. ¡No solo has olvidado el código del mar! ¡Has pisoteado tu propio honor!
+}
+GenQuests_Dialog_180 {
+¡No eres quién para juzgar mi honor, mocoso!
+}
+GenQuests_Dialog_181 {
+Lo único que puedo hacer por ti es dejarte algo de provisiones y medicinas, y darte un bote. No morirás de hambre ni de sed, y ya sabes cómo manejarte en el mar...
+}
+GenQuests_Dialog_182 {
+Tienes razón, no tenemos ninguna oportunidad... Pues bien, que Dios sea tu juez. Que Él le pague a cada uno según sus actos...
+}
+GenQuests_Dialog_183_m {
+Bueno, esto lo resuelvo yo mismo...
+}
+GenQuests_Dialog_183_f {
+Bueno, eso lo resolveré yo misma...
+}
+GenQuests_Dialog_184 {
+Bien... No nos dejas otra opción... Recemos para que las tormentas y la sed no acaben con nuestras vidas antes de llegar a tierras civilizadas...
+}
+GenQuests_Dialog_185 {
+Adiós. Que el Señor te proteja...
+}
+GenQuests_Dialog_186 {
+Parece que no tenemos opción... Pero le ruego, capitán, regrese lo antes posible o envíe un barco de expedición.
+}
+GenQuests_Dialog_187 {
+Ya se me ocurrirá algo. Espera aquí...
+}
+GenQuests_Dialog_188 {
+Capitán, recuerde que ya no tenemos a nadie más en quien confiar...
+}
+GenQuests_Dialog_189 {
+¿Qué están esperando? Cada minuto que pasamos aquí es insoportable para nosotros...
+}
+GenQuests_Dialog_190 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_191 {
+Haré todo lo que pueda. Adiós...
+}
+GenQuests_Dialog_192 {
+Adiós, capitán... Tenemos que prepararnos para zarpar.
+}
+GenQuests_Dialog_193 {
+Adiós... y enciendan unas velas por la salvación de nuestras almas...
+}
+GenQuests_Dialog_194 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_195 {
+Adiós. Que el Señor te proteja...
+}
+GenQuests_Dialog_196 {
+¡Cómo se atreve a actuar así?!.. ¡No solo ha olvidado el código del mar! ¡Ha pisoteado su propio honor!
+}
+GenQuests_Dialog_197 {
+¡No eres quien para juzgar mi honor, mocoso!
+}
+GenQuests_Dialog_198 {
+¡Gracias, capitán! La carga no llevará mucho tiempo. Todos hemos estado esperando ansiosos este momento...
+}
+GenQuests_Dialog_199 {
+Muy bien. Pronto terminarán tus penurias.
+}
+GenQuests_Dialog_200 {
+¡Gracias, capitán! La carga no llevará mucho tiempo. Todos hemos estado esperando este momento...
+}
+GenQuests_Dialog_201 {
+Muy bien. Pronto terminarán tus penurias.
+}
+GenQuests_Dialog_202 {
+¡Pero qué dice!.. ¡Qué dice, capitán! ¿Acaso somos de los que temen a la muerte? Ya la hemos engañado una vez, y lo haremos de nuevo. Pero no tiene sentido despedirse de la vida de manera tan absurda. Pudrirse aquí, lejos de la gente, y acabar siendo presa de los carroñeros...\nNos uniríamos a su tripulación con gusto y seríamos un ejemplo para los demás en cualquier pelea... Solo no nos deje aquí...
+}
+GenQuests_Dialog_203 {
+Veo que están dispuestos a hacer cualquier cosa con tal de salir de aquí. Pero mírense, ¿realmente parecen marineros?
+}
+GenQuests_Dialog_204_m {
+No es mala idea. Supongo que estoy listo para contratarte.
+}
+GenQuests_Dialog_204_f {
+No es mala idea. Supongo que estoy listo para contratarte.
+}
+GenQuests_Dialog_205 {
+¡No, no, no estoy bromeando! Sáqueme de este matadero caribeño... de este infierno. Soy rico, de verdad. Tengo más oro del que el propio Papa podría soñar... Le colmaré de oro...
+}
+GenQuests_Dialog_206 {
+¡Uf! Qué fastidio... suban al bote.
+}
+GenQuests_Dialog_207 {
+¿Qué espera, capitán? Dé la orden de levar anclas.
+}
+GenQuests_Dialog_208 {
+Lo siento, capitán, tenemos que prepararnos para la partida.
+}
+GenQuests_Dialog_209 {
+¡Qué suerte que decidiste desembarcar aquí!
+}
+GenQuests_Dialog_210 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_211 {
+Date prisa. El barco no va a esperar a nadie.
+}
+GenQuests_Dialog_212 {
+Capitán, no nos queda nada que perder. La muerte ya nos acecha... Mejor morir por la espada en combate que por los asquerosos dientes de un coyote.
+}
+GenQuests_Dialog_213_m {
+¡Vaya! ¿Eso es un desafío? Entonces resolvamos nuestra disputa como verdaderos hombres.
+}
+GenQuests_Dialog_213_f {
+¡Vaya! ¿Eso es un desafío? ¡Entonces resolvámoslo de una vez por todas!
+}
+GenQuests_Dialog_214 {
+¡Lo juro, capitán, no se va a arrepentir! Seremos los mejores marineros de todo el archipiélago.
+}
+GenQuests_Dialog_215 {
+¡Perfecto! Suban al bote...
+}
+GenQuests_Dialog_216 {
+Lo juro, capitán, no se va a arrepentir.
+}
+GenQuests_Dialog_217 {
+Hiciste exactamente lo correcto, capitán.
+}
+GenQuests_Dialog_218 {
+Capitán, puede estar seguro de que ha tenido tanta suerte como nosotros.
+}
+GenQuests_Dialog_219 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_220 {
+Quiero creerlo.
+}
+GenQuests_Dialog_221 {
+Date prisa. El barco no va a esperar a nadie.
+}
+GenQuests_Dialog_222 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_223 {
+Capitán, ¿por qué ofender a gente honesta con tus sospechas? Mira esas caras, ¿acaso parecen amotinados para ti?..
+}
+GenQuests_Dialog_224 {
+¿Y qué se supone que debo hacer contigo ahora?
+}
+GenQuests_Dialog_225 {
+¿Qué puedo hacer?.. Al menos por ahora. ¡Le agradezco a Dios seguir con vida! Pero si me ayudas a recuperar mi barco y vengar esta humillación, estoy dispuesto a darte todo lo que ese canalla logre saquear y guardar en la bodega.
+}
+GenQuests_Dialog_226 {
+Muy bien, entonces trato hecho.
+}
+GenQuests_Dialog_227 {
+¿Quiénes somos nosotros para dar órdenes? Usted decide: llévenos al asentamiento si quiere, o súmenos a su tripulación.
+}
+GenQuests_Dialog_228 {
+De acuerdo, estás en la tripulación. Pero escúchame bien: aquí no se permiten tonterías. ¡Mantengo todo en orden!
+}
+GenQuests_Dialog_229 {
+No voy a llevarte a ningún lado. Ya tengo suficientes asesinos en mi propia tripulación.
+}
+GenQuests_Dialog_230 {
+Está bien, sube al bote, te llevaré a algún lugar.
+}
+GenQuests_Dialog_231 {
+Bien... No nos dejas otra opción... Recemos para que la Providencia se apiade de nosotros y nos permita salir de este lugar maldito. Con la ayuda de Dios, quizá aún logremos regresar a tierras civilizadas...
+}
+GenQuests_Dialog_232 {
+Adiós. Que el Señor te proteja...
+}
+GenQuests_Dialog_233 {
+¡Muchísimas gracias, capitán @<GetFullName>! Ha hecho tanto por nosotros que cualquier agradecimiento se quedaría corto... Y aunque todas nuestras pertenencias no valen ni un centavo, por favor acepte este amuleto como obsequio. Puede ser muy útil para un capitán que a menudo se encuentra en batallas navales.
+}
+GenQuests_Dialog_234 {
+Gracias por el regalo. Realmente era algo que necesitaba... Adiós, capitán @<pchar>, y que la fortuna le acompañe en sus travesías.
+}
+GenQuests_Dialog_235 {
+Capitán, muchísimas gracias. Ha hecho tanto por nosotros que ninguna recompensa podría igualar nuestra gratitud. Por favor, no lo rechace—acepte este humilde obsequio como muestra de nuestro agradecimiento.
+}
+GenQuests_Dialog_236 {
+De verdad, no hacía falta... Ahora tú necesitas el dinero mucho más. Aun así, es un gesto amable. Gracias y adiós.
+}
+GenQuests_Dialog_237 {
+Capitán, sepa que hay personas en este mundo dispuestas a hacer cualquier cosa por usted. Ojalá tuviera más para agradecerle. Aun así... tome este objeto, lo encontré en esa cala maldita. Que le traiga suerte.
+}
+GenQuests_Dialog_238 {
+Cualquiera en mi lugar habría hecho lo mismo. Adiós.
+}
+GenQuests_Dialog_239 {
+¿Capitán, ya hemos llegado a Dunkirk?
+}
+GenQuests_Dialog_240 {
+¿De verdad estamos en Dunkirk, capitán?
+}
+GenQuests_Dialog_241 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_242 {
+¿Capitán, esto es Europa?
+}
+GenQuests_Dialog_243 {
+¿Llegamos a Europa tan rápido?
+}
+GenQuests_Dialog_244 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_245 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_246 {
+Ajá...
+}
+GenQuests_Dialog_247 {
+Todavía no...
+}
+GenQuests_Dialog_248 {
+¿Dunkirk, Europa? Mira a tu alrededor...
+}
+GenQuests_Dialog_249 {
+¡Dios mío!..
+}
+GenQuests_Dialog_250 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_251 {
+¡Pero capitán, me lo prometió!
+}
+GenQuests_Dialog_252 {
+¿Cómo pudo faltar a su palabra, capitán?
+}
+GenQuests_Dialog_253 {
+¿Y cuándo será Europa?
+}
+GenQuests_Dialog_254 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_255_m {
+Está bien. Escucha, amigo, lleva a tu gente y tus cosas y desaparece. ¡No pienso estar cuidándote para siempre!
+}
+GenQuests_Dialog_255_f {
+Muy bien. Escuche, señor, lleve a su gente y sus cosas y márchese. ¡No voy a estar cuidándolo para siempre!
+}
+GenQuests_Dialog_256 {
+¿Está seguro de que Dunkirk es realmente adonde quiere ir?
+}
+GenQuests_Dialog_257 {
+Mi barco no está hecho para cruzar el Atlántico.
+}
+GenQuests_Dialog_258 {
+Capitán, ¿qué tiene usted en contra del Caribe?
+}
+GenQuests_Dialog_259 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_260 {
+Pero yo tengo planes muy distintos...
+}
+GenQuests_Dialog_261 {
+¿Por qué te importa tanto Europa...?
+}
+GenQuests_Dialog_262 {
+Mira nada más a estas mujeres mulatas... no encontrarás ninguna así en Europa...
+}
+GenQuests_Dialog_263 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_264 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_265 {
+¿Cómo pudiste?.. ¡¿Cómo te atreves?! ¡Qué traición!.. ¡Te enseñaré a cumplir tu palabra!
+}
+GenQuests_Dialog_266 {
+Bueno, tú mismo lo pediste...
+}
+GenQuests_Dialog_267 {
+¡No! Necesito Dunkirk, y nada más.
+}
+GenQuests_Dialog_268 {
+En vez de darme una lección de geografía, será mejor que cumplas tu promesa.
+}
+GenQuests_Dialog_269 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_270 {
+¡No quiero oír ni una palabra más! ¡Prometiste llevarme a Europa!
+}
+GenQuests_Dialog_271 {
+No, capitán, eso no sirve. Vamos rumbo a Europa.
+}
+GenQuests_Dialog_272 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_273 {
+¡No pienso pudrirme en este agujero para siempre!
+}
+GenQuests_Dialog_274 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_275 {
+Ya ni siquiera sé si esto terminará algún día...
+}
+GenQuests_Dialog_276 {
+¡Ahí está! Eso sí es propio de una persona honorable... ¡Ah, Europa! Vieja Europa... Y el humo de la patria... Sí, sí, sí. Has cumplido tu promesa, y como caballero, debo cumplir la mía. Aquí tienes la mitad del mapa; la otra mitad pertenecía a mi socio, pero se ahogó aquel fatídico día en que naufragamos... Que descanse en paz... ¿o en el mar? Bueno, da igual. Hace medio año, un amigo me invitó a patrocinar esta arriesgada empresa.
+}
+GenQuests_Dialog_277 {
+¿Entonces no eres marinero? ¿El capitán era tu amigo?
+}
+GenQuests_Dialog_278 {
+¡Dios mío!.. ¡Por supuesto que no! Es decir, sí—no soy marinero. Una ola gigante lo arrastró por la borda cuando decidió alejarse más de la costa. Fue entonces cuando tomé el mando del barco y ordené dirigirnos a la laguna... Atravesamos los arrecifes con valentía, pero el destino tenía otros planes. El barco chocó contra una roca afilada y se hundió...
+}
+GenQuests_Dialog_279 {
+Qué manera tan inútil de perder vidas...
+}
+GenQuests_Dialog_280_m {
+¿Perdón, qué decías?.. Ah, sí, nos desviamos del tema... Dime, ¿estás seguro de que esto es Dunkirk? Imagínate, solo he estado fuera medio año y todo ha cambiado tanto. En fin, aquí tienes el mapa—o mejor dicho, la mitad de él. Pero esta mitad es la más importante: muestra el lugar exacto—¡el tesoro está en una cueva! El problema es que no sé en qué isla está, eso estaba en la otra mitad. Pero tú, como marinero experimentado, seguro que descubrirás en qué isla es... Te aseguro que este tesoro guarda las riquezas inimaginables del pirata M-e-e...
+}
+GenQuests_Dialog_280_f {
+¿Qué dices?.. Ah, cierto, nos desviamos del tema... Dime, ¿estás seguro de que esto es Dunkirk? Cuesta creerlo, solo estuve fuera medio año y todo ha cambiado tanto.\nEn fin, aquí tienes el mapa—o mejor dicho, la mitad de él. Pero esta mitad es la más importante: marca el lugar exacto—¡el tesoro está en una cueva! No sé en qué isla, eso estaba en la otra mitad. Pero tú, como marinero experimentado, seguro que podrás averiguar en qué isla es... Te aseguro que este tesoro guarda las riquezas inimaginables del pirata M-e-e...
+}
+GenQuests_Dialog_281 {
+Gracias, querido. Si no hay tesoro allí, no me decepcionaré. Adiós, de verdad espero que no volvamos a vernos...
+}
+GenQuests_Dialog_282 {
+Dicen que un loco ha aparecido en la isla. Afirma que perdió sus papeles y está intentando conseguir trabajo como capitán en un barco rumbo a Dunkirk...
+}
+GenQuests_Dialog_283 {
+Dicen que ha aparecido un maniático en la isla. Robó una pala de la tienda y está cavando un hoyo fuera de las puertas de la ciudad...
+}
+GenQuests_Dialog_284 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_285 {
+¿Te imaginas? Hace poco, un europeo extranjero con un traje gastado intentó entrar a la fuerza para ver al Gobernador. Gritaba que necesitaba reunirse urgentemente con el Gobernador de Dunkirk.
+}
+GenQuests_Dialog_286 {
+Hace poco hubo un escándalo en el ayuntamiento: atraparon a un vagabundo que decía conocer personalmente al gobernador de Dunkirk.
+}
+GenQuests_Dialog_287 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_288 {
+Hace poco te estuvo buscando un loco, decía que supuestamente le debes dinero...
+}
+GenQuests_Dialog_289 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_290 {
+¡Capitán, qué alegría que no se haya olvidado de nosotros! ¡Todos rezamos por usted!..
+}
+GenQuests_Dialog_291 {
+Capitán, ¿será posible que nuestro rescate esté cerca? ¡Hemos rezado tanto para que llegara este momento! Algunos ya empezaban a perder la esperanza...
+}
+GenQuests_Dialog_292 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_293_m {
+¡Saludos, @<pchar>! ¿Cómo podría abandonar a mis compañeros en una situación así?.. ¿A dónde necesitas ir?
+}
+GenQuests_Dialog_293_f {
+¡Saludos, @<pchar>! ¿Cómo podría abandonar a mis compañeros en una situación así?.. ¿A dónde necesitas ir?
+}
+GenQuests_Dialog_294 {
+Saludos, @<pchar>! Me temo que tengo malas noticias. Las circunstancias han cambiado y no podré llevarte a bordo.
+}
+GenQuests_Dialog_295 {
+No nos importa adónde vayamos, mientras sea lejos de este lugar maldito... ¿Permite que empecemos a cargar?
+}
+GenQuests_Dialog_296 {
+Suban a bordo. Pronto terminarán sus penurias.
+}
+GenQuests_Dialog_297 {
+Gracias, capitán. Casi habíamos perdido la esperanza, pero usted nos devolvió la vida.
+}
+GenQuests_Dialog_298 {
+No hay de qué... Adiós.
+}
+GenQuests_Dialog_299 {
+¿Qué demonios quieres?
+}
+GenQuests_Dialog_300_m {
+Vengo a traerte saludos de @<pchar>. ¿Lo conoces?
+}
+GenQuests_Dialog_300_f {
+Vengo a darte saludos de parte de @<pchar>. ¿Lo conoces?
+}
+GenQuests_Dialog_301 {
+Lástima no haber estrangulado a ese canalla antes... Ahora me toca pagar por mi indulgencia...
+}
+GenQuests_Dialog_302 {
+Ajá... Y ese tiempo ya pasó...
+}
+GenQuests_Dialog_303 {
+¡Buen trabajo, capitán! Tal como acordamos: el barco es nuestro, la bodega es tuya.
+}
+GenQuests_Dialog_304 {
+De acuerdo, trato hecho. Tómalo, ahora es tuyo.
+}
+GenQuests_Dialog_305 {
+Saludos, capitán @<GetFullName>.
+}
+GenQuests_Dialog_306 {
+Entonces, ¿qué te parece tu barco?
+}
+GenQuests_Dialog_307 {
+Je, se ha puesto tan chirriante como yo. Parece que a ninguno de los dos nos queda mucho tiempo para navegar estos mares...
+}
+GenQuests_Dialog_308 {
+Cuídate...
+}
+GenQuests_Dialog_309 {
+Capitán, ayúdenos a conseguir un barco—ya sea una barca o una tartana, nos da igual. Las circunstancias nos obligan a dejar este lugar tan poco hospitalario, pero no podemos dejarnos ver en el asentamiento.
+}
+GenQuests_Dialog_310 {
+¿Y qué clase de circunstancias serían esas?
+}
+GenQuests_Dialog_311 {
+Capitán, ¿podría prestarnos unos cientos de piastras? No lo pediríamos, pero la necesidad nos obliga.
+}
+GenQuests_Dialog_312 {
+¿A eso le llamas necesidad? Más bien se te acabó el ron, ese es tu verdadero problema.
+}
+GenQuests_Dialog_313 {
+Capitán, ¿sería tan amable de llevar a nuestra humilde compañía hasta el faro @<XI_ConvertString>?
+}
+GenQuests_Dialog_314 {
+No veo mucha modestia en sus caras.
+}
+GenQuests_Dialog_315 {
+No atiendo los viernes.
+}
+GenQuests_Dialog_316 {
+No tengo tiempo para estas tonterías.
+}
+GenQuests_Dialog_317 {
+No voy a ayudar a cualquiera.
+}
+GenQuests_Dialog_318 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_319 {
+Somos fugitivos... con @<GetStrSmallRegister>. En cualquier momento, nuestro antiguo amo podría venir a buscarnos—y entonces, la horca es segura...
+}
+GenQuests_Dialog_320 {
+Así que sabes manejar las velas, ¿verdad?
+}
+GenQuests_Dialog_321 {
+¿Y cómo piensa pagar?
+}
+GenQuests_Dialog_322 {
+El ron es lo último en lo que pensamos ahora. Hace, ¿qué?, una semana que huimos de @<GetStrSmallRegister>, y ahora estamos escondidos en la selva, solo tratando de no morirnos de hambre...
+}
+GenQuests_Dialog_323 {
+Supongamos que te doy el dinero, ¿y luego qué? ¿Vas a seguir escondiéndote hasta que llegue la patrulla?
+}
+GenQuests_Dialog_324 {
+De acuerdo, ¿cuánto pides?
+}
+GenQuests_Dialog_325 {
+Con gente como tú, no me ando con rodeos: cabeza al tajo y sentencia cumplida.
+}
+GenQuests_Dialog_326 {
+¿Y entonces qué quiere que hagamos? No nos importaría enrolarnos como marineros, pero ¿quién aceptaría a un grupo de fugitivos como nosotros?
+}
+GenQuests_Dialog_327 {
+Te acepto si sabes manejar una vela y no huyes de una bala.
+}
+GenQuests_Dialog_328 {
+Ya hemos hecho un trato con los pescadores locales. Solo nos faltan tres mil para irnos de aquí.
+}
+GenQuests_Dialog_329 {
+Aquí tienes tus tres mil, si es que realmente sirve de algo.
+}
+GenQuests_Dialog_330 {
+Bueno, no sé... Ese es tu problema, arréglalo sin mí.
+}
+GenQuests_Dialog_331 {
+Tómelo, capitán, no se va a arrepentir. En el Adriático, @<GetName> y yo éramos piratas juntos, hasta que lo ahorcaron y los hombres de @<pchar> nos enviaron aquí.
+}
+GenQuests_Dialog_332 {
+Bien, está decidido. Hay un lugar no muy lejos de aquí, se llama @<XI_ConvertString>. Te recogeré allí cerca de la medianoche. No te vayas a perder.
+}
+GenQuests_Dialog_333 {
+¡Por supuesto que ayudará! Zarparemos hoy mismo, si el viento acompaña y los pescadores no nos fallan. Gracias, capitán, y que el Señor lo proteja...
+}
+GenQuests_Dialog_334 {
+Y buena suerte deshaciéndote de eso.
+}
+GenQuests_Dialog_335 {
+¡Qué suerte! No esperábamos conseguir dinero tan rápido. Permítame, capitán, ofrecerle algo que le quitamos a nuestro antiguo amo, de todo corazón. Quizás también le traiga suerte a usted.
+}
+GenQuests_Dialog_336 {
+Gracias, es un buen objeto. Buena suerte.
+}
+GenQuests_Dialog_337 {
+Eso sí que es señal de alguien generoso—alguien que no teme desprenderse de unas monedas, porque sabe bien cómo ganarlas.
+Anoche vimos a unos contrabandistas cargando mercancía @<MerPrm> en sus botes. Estaba oscuro, pero en uno de los botes logramos leer el nombre del barco—‘@<MerPrm>’... La nave navega bajo la bandera de @<MerPrm>. Creo que eso podría serte útil, je, je.
+}
+GenQuests_Dialog_338 {
+¿Hmm? Podría ser útil... Bueno, adiós, rastreadores.
+}
+GenQuests_Dialog_339 {
+Por favor, tenga piedad, ¿quiénes somos nosotros para poner condiciones? Lo que nos dé, se lo agradeceremos todo.
+}
+GenQuests_Dialog_340 {
+300 piastras.
+}
+GenQuests_Dialog_341 {
+1.000 piastras.
+}
+GenQuests_Dialog_342 {
+3.000 piastras.
+}
+GenQuests_Dialog_343 {
+Gracias, capitán, que el Señor lo proteja...
+}
+GenQuests_Dialog_344 {
+Y buena suerte para ti.
+}
+GenQuests_Dialog_345 {
+¡Qué suerte! Jamás imaginamos conseguir dinero tan rápido. Permítame, capitán, entregarle algo que le quitamos a nuestro antiguo amo, de todo corazón. Tal vez también le traiga suerte a usted.
+}
+GenQuests_Dialog_346 {
+Gracias, es un buen objeto. Buena suerte.
+}
+GenQuests_Dialog_347 {
+Gracias, capitán. Que el Señor lo proteja...
+}
+GenQuests_Dialog_348 {
+Y buena suerte para usted.
+}
+GenQuests_Dialog_349 {
+¡Qué suerte! No esperábamos conseguir dinero tan rápido. Permítame, capitán, ofrecerle algo que le quitamos a nuestro antiguo amo, de todo corazón. Tal vez también le traiga buena fortuna.
+}
+GenQuests_Dialog_350 {
+Gracias, es un buen objeto. Buena suerte.
+}
+GenQuests_Dialog_351 {
+Eso sí que es señal de alguien generoso—alguien que entrega su dinero sin temor, porque sabe bien cómo ganarlo.\nAnoche vimos a unos contrabandistas cargando @<MerPrm> en sus botes. Estaba oscuro, pero en uno de los botes logramos ver el nombre del barco—‘@<MerPrm>’... La nave navega bajo la bandera de @<MerPrm>. Pensé que eso podría serte útil, je, je.
+}
+GenQuests_Dialog_352 {
+¿Hmm? Podría ser útil... Bueno, adiós, rastreadores.
+}
+GenQuests_Dialog_353 {
+¡No lo hagas, capitán! Tenemos algo valioso—tómalo como rescate y déjanos ir en paz...
+}
+GenQuests_Dialog_354 {
+Entrega tu baratija y lárgate mientras puedas.
+}
+GenQuests_Dialog_355 {
+No tenemos elección: nadie muere dos veces, y nadie escapa a la muerte una vez. ¡Vamos, brindemos una última vez!
+}
+GenQuests_Dialog_356 {
+¡Así sí! ¡Nada de esas tonterías de hablar bonito!
+}
+GenQuests_Dialog_357 {
+Bueno, no somos santos, eso seguro, pero no tiene sentido discutir por tonterías... Somos fugitivos, mejor salgamos de aquí mientras podamos.
+}
+GenQuests_Dialog_358 {
+¿Tienes con qué pagar el viaje?
+}
+GenQuests_Dialog_359 {
+Así que así son las cosas... No puedo arriesgar mi reputación por ti. Adiós.
+}
+GenQuests_Dialog_360 {
+¿Cómo no íbamos a estarlo? También estamos acostumbrados a los abordajes. Durante casi dos años, junto al difunto @<GetName>, mantuvimos a los comerciantes locales temblando, hasta que lo ahorcaron y a nosotros—@<FindPeoplesString>—nos vendieron a trabajos forzados.
+}
+GenQuests_Dialog_361_m {
+¿Te gustaría unirte a mi tripulación? Pago bien, pero no puedo prometerte una vida tranquila.
+}
+GenQuests_Dialog_361_f {
+¿Te gustaría unirte a mi tripulación? Pago bien, pero no puedo prometerte una vida tranquila.
+}
+GenQuests_Dialog_362 {
+Sí, nos llevamos algo de @<GetStrSmallRegister>, así que no nos faltará dinero por un tiempo y te pagaremos el doble. Pero el trato será en persona. Ni se te ocurra traer a los guardias. No perdonamos las ofensas...
+}
+GenQuests_Dialog_363 {
+De acuerdo, espérame en @<XI_ConvertString>. Para la medianoche, tu barco estará listo... Y ni se te ocurra intentar engañarme.
+}
+GenQuests_Dialog_364_m {
+No, señores, ¿y si les doy un barco y ustedes me lo pagan con una puñalada? En resumen, no puedo ayudarlos en este asunto.
+}
+GenQuests_Dialog_364_f {
+No, señores, ¿y si les doy un barco y me pagan con una puñalada? En resumen, no puedo ayudarles en este asunto.
+}
+GenQuests_Dialog_365_m {
+Con mucho gusto, capitán. Conocemos bien este negocio, y en cuanto a la Royal Navy... bueno, con nuestras referencias, esa puerta está cerrada para nosotros, je, je.
+}
+GenQuests_Dialog_365_f {
+Con mucho gusto, capitana. Este trabajo lo conocemos bien, y en cuanto a la Royal Navy... bueno, esa puerta está cerrada para nosotros, con nuestra reputación, je-je.
+}
+GenQuests_Dialog_366 {
+Bien, está decidido. Hay un lugar no muy lejos de aquí llamado @<XI_ConvertString>. Te recogeré allí después de la medianoche. No te vayas a perder.
+}
+GenQuests_Dialog_367_m {
+Pero, capitán, nosotros estamos corriendo un riesgo mayor que usted. ¿Y si decide denunciarnos ante el comandante?
+}
+GenQuests_Dialog_367_f {
+Pero, capitana, estamos corriendo un riesgo mayor que usted. ¿Y si decide informarle al comandante?
+}
+GenQuests_Dialog_368 {
+Es cierto... Si no aparezco para la mañana, el trato se cancela.
+}
+GenQuests_Dialog_369 {
+Ah, capitán, teníamos tantas esperanzas...
+}
+GenQuests_Dialog_370 {
+No es nada. Si tienes dinero, encontrarás un cochero. Adiós.
+}
+GenQuests_Dialog_371_m {
+Eres astuto, capitán, ya lo veo. Seguro que vas directo a la oficina del comandante. ¿Crees que podrás escaparte tan fácil?
+}
+GenQuests_Dialog_371_f {
+Eres astuto, capitán, ya lo veo. Seguro que vas directo a la oficina del comandante. ¿Crees que podrás escaparte tan fácil?
+}
+GenQuests_Dialog_372 {
+Así que has decidido interponerte en mi camino, ¿eh? ¡Pues adelante!
+}
+GenQuests_Dialog_373 {
+Hay algo. Rebuscamos un poco en los cofres del dueño, aunque eso causó bastante alboroto — tuvimos que abrirnos paso a la fuerza. Solo @<FindPeoplesString> logró salir con vida.
+}
+GenQuests_Dialog_374 {
+Dadas las circunstancias, no te llevaré por menos de @<FindMoneyString> por cabeza.
+}
+GenQuests_Dialog_375 {
+Veo que no le temes al peligro. ¿Te unirás a mi tripulación?
+}
+GenQuests_Dialog_376 {
+¿Acaso tenemos opción? Llévanos a @<FindMoneyString>...
+}
+GenQuests_Dialog_377 {
+Entonces dirígete a @<XI_ConvertString>. Te enviaré un bote después de la medianoche.
+}
+GenQuests_Dialog_378 {
+en Gibraltar
+}
+GenQuests_Dialog_379 {
+La Mancha
+}
+GenQuests_Dialog_380 {
+¿Por qué no iríamos? Conocemos bien este asunto; con @<GetName> ya trabajábamos en @<RandPhraseSimple>, antes de acabar aquí.
+}
+GenQuests_Dialog_381 {
+Bien, está decidido. Hay un lugar no muy lejos de aquí, se llama @<XI_ConvertString>. Te recogeré allí cerca de la medianoche. No te vayas a perder.
+}
+GenQuests_Dialog_382_m {
+Ah, capitán, apuesto a que no hace mucho también andabas con la bolsa vacía, pero ahora que las monedas tintinean en tus bolsillos, miras por encima del hombro a la gente común.
+}
+GenQuests_Dialog_382_f {
+Ah, capitán, apuesto a que no hace mucho también andabas con la bolsa vacía, pero ahora que tienes monedas en los bolsillos, miras por encima del hombro a la gente común.
+}
+GenQuests_Dialog_383 {
+Capitán, no está bien tratar así a la gente común. Todos vivimos bajo el mismo Dios.
+}
+GenQuests_Dialog_384 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_385 {
+Je, je, la gente se ha vuelto realmente insensible. Viven como si tuvieran dos siglos por delante.
+}
+GenQuests_Dialog_386 {
+Se nota que acabas de llegar de Europa; aún no has olido la pestilencia de nuestros trópicos.
+}
+GenQuests_Dialog_387 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_388 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_389 {
+¿Estás intentando hacerme sentir culpable? ¡Te corto la lengua ahora mismo!
+}
+GenQuests_Dialog_390 {
+¿Así que te atreves a amenazarme? ¡Pues ahora sí que te las vas a ver conmigo!
+}
+GenQuests_Dialog_391 {
+¿Eres filósofo, eh? ¡Déjame hacerte entrar en razón!
+}
+GenQuests_Dialog_392 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_393 {
+Entonces, capitán, ¿trajo el barco?
+}
+GenQuests_Dialog_394 {
+Bienvenido, capitán. Entonces, ¿ya está hecho?
+}
+GenQuests_Dialog_395 {
+Hola, capitán. Ya estábamos empezando a preocuparnos. ¿Todo salió bien?
+}
+GenQuests_Dialog_396 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_397_m {
+Está bien, llévate tu barcaza. Y no te olvides del dinero. Pagué @<pchar> monedas por ella, así que me debes @<sti>, tal como acordamos.
+}
+GenQuests_Dialog_397_f {
+Sí, llévate tu barquito. Y no te olvides del dinero. Yo pagué @<pchar> monedas por él, así que me debes @<sti>, tal como acordamos.
+}
+GenQuests_Dialog_398_m {
+No, he cambiado de opinión. Busca a otro ayudante. Adiós...
+}
+GenQuests_Dialog_398_f {
+No, he cambiado de opinión. Busque a otro ayudante. Adiós...
+}
+GenQuests_Dialog_399 {
+¿De qué vamos a hablar?! Nos quitaron la libertad, pero no el honor; aquí tienes tu pago y nuestro más profundo agradecimiento. Nos has ayudado mucho. Te pagaremos con pepitas de plata, ¿te parece bien?
+}
+GenQuests_Dialog_400 {
+No, por supuesto que no. Buen viaje. Solo procura no cruzarte conmigo en mar abierto — ahí no me ando con rodeos.
+}
+GenQuests_Dialog_401 {
+Capitán, hemos estado pensando: el dinero no lo es todo en esta vida. Y seguramente ahora lo necesita más usted que nosotros. Pero tenemos algo que le quitamos a nuestro antiguo amo, y tal vez le interese más que cualquier moneda. Échele un vistazo...
+}
+GenQuests_Dialog_402 {
+Sí, tienes razón. Es algo realmente fascinante. Bueno, gracias y adiós.
+}
+GenQuests_Dialog_403 {
+¿Por qué necesita tanto dinero, capitán? No es que le falte precisamente. Pero sin este barco, estamos perdidos. Así que, sin resentimientos. Nos llevamos el barco, eso es todo.
+}
+GenQuests_Dialog_404 {
+Aquí es donde te equivocaste. Sin bote, podrías haber escapado nadando, pero ahora te quedarás aquí para siempre.
+}
+GenQuests_Dialog_405 {
+Bueno, capitán, ¿estamos listos para cargar?
+}
+GenQuests_Dialog_406 {
+¡Por fin! Ya empezábamos a preocuparnos, pensamos que habías cambiado de opinión.
+}
+GenQuests_Dialog_407 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_408 {
+Mis planes han cambiado. Tendrás que buscar otro capitán.
+}
+GenQuests_Dialog_409 {
+Suban al bote, no tengo mucho tiempo.
+}
+GenQuests_Dialog_410 {
+Suban al bote, no tengo mucho tiempo.
+}
+GenQuests_Dialog_411_m {
+¡Ah, maldición!.. ¿A que ya has mandado a la patrulla tras nosotros?! ¡No te saldrás con la tuya!
+}
+GenQuests_Dialog_411_f {
+¡Ah, maldita sea!.. ¡Apuesto a que ya has enviado la patrulla tras nosotros, ¿verdad?! ¡No te saldrás con la tuya!
+}
+GenQuests_Dialog_412 {
+¿De qué estás hablando? ¿Tienes ganas de morir?
+}
+GenQuests_Dialog_413_m {
+¿Qué pasa, capitán, que te comportas como una doncella sonrojada? No puedes decidirte ni por un solo día...
+}
+GenQuests_Dialog_413_f {
+¿Qué pasa, capitán? ¿No puedes decidirte de un día para otro...?
+}
+GenQuests_Dialog_414 {
+Oye, cuida cómo me hablas...
+}
+GenQuests_Dialog_415_m {
+Muchas gracias, buena persona.
+}
+GenQuests_Dialog_415_f {
+Gracias, amable dama.
+}
+GenQuests_Dialog_416_m {
+Gracias, capitán — me has salvado del lazo.
+}
+GenQuests_Dialog_416_f {
+Gracias, capitán — me has salvado de la horca.
+}
+GenQuests_Dialog_417 {
+Gracias por el agradable viaje.
+}
+GenQuests_Dialog_418 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_419 {
+Todo eso está muy bien, pero sigo esperando mi pago.
+}
+GenQuests_Dialog_420 {
+Es hora de saldar cuentas.
+}
+GenQuests_Dialog_421 {
+El dinero sobre la mesa, tal como acordamos.
+}
+GenQuests_Dialog_422 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_423 {
+¡Por supuesto, por supuesto! ¡Sin hacer preguntas! Aquí tienes la suma acordada en pepitas de oro, y nuestra gratitud infinita.
+}
+GenQuests_Dialog_424 {
+Buena suerte para usted también... Adiós.
+}
+GenQuests_Dialog_425 {
+Capitán, hemos estado pensando... el dinero no lo es todo en esta vida. Pero seguramente ahora lo necesita más usted que nosotros. Tenemos algo que le quitamos a nuestro antiguo amo, y puede que le interese más que cualquier moneda. Échele un vistazo...
+}
+GenQuests_Dialog_426 {
+Sí, tienes razón. Es un objeto realmente interesante. Bueno, gracias y adiós.
+}
+GenQuests_Dialog_427 {
+¿Por qué necesitas tanto dinero? No es que te falte precisamente. Nos ayudaste; cuando llegue el momento, te devolveremos el favor.
+}
+GenQuests_Dialog_428 {
+No habrá. Recen, canallas—no perdono deudas.
+}
+GenQuests_Dialog_429 {
+@<GetName> me envió aquí personalmente...
+}
+GenQuests_Dialog_430 {
+@<GetName> lleva esperando tu respuesta unas dos horas. También me envió a buscarte.
+}
+GenQuests_Dialog_431_m {
+Hace mucho que voy tras tus pasos, pero eres difícil de alcanzar.
+}
+GenQuests_Dialog_431_f {
+Hace tiempo que voy tras de ti, pero eres demasiado rápida.
+}
+GenQuests_Dialog_432 {
+¿Y qué?
+}
+GenQuests_Dialog_433 {
+Dime, ¿el gobernador les paga bien a sus lacayos?
+}
+GenQuests_Dialog_434 {
+¡Maldita sea!...
+}
+GenQuests_Dialog_435 {
+No estaba bebiendo en absoluto, solo buscaba al contramaestre...
+}
+GenQuests_Dialog_436 {
+Anda, anda... Le diré a @<GetName> que te perdiste en la selva.
+}
+GenQuests_Dialog_437_m {
+Resultaste ser bastante rápido. Ruega a Dios que @<GetName> no se entere de tus trucos.
+}
+GenQuests_Dialog_437_f {
+Resultaste ser bastante rápida. Ruega a Dios que @<GetName> no se entere de tus trucos.
+}
+GenQuests_Dialog_438 {
+No se enterará a menos que tú se lo digas... Y no lo harás, ¿verdad?
+}
+GenQuests_Dialog_439 {
+¡Por qué no! Lo haré con mucho gusto.
+}
+GenQuests_Dialog_440 {
+Igual te va a ahorcar. Por la tontería que cometiste. Así que no pierdas tiempo, y yo te ayudaré a escapar de la horca.
+}
+GenQuests_Dialog_441 {
+Hmm... ¿Cómo así?
+}
+GenQuests_Dialog_442_m {
+Te acabaré yo mismo...
+}
+GenQuests_Dialog_442_f {
+Te acabaré yo misma...
+}
+GenQuests_Dialog_443 {
+¿Está aquí por negocios, @<GetAddress_Form>?
+}
+GenQuests_Dialog_444 {
+No, estoy aquí por invitación de la encantadora esposa del gobernador, admirando esta residencia realmente espléndida.
+}
+GenQuests_Dialog_445_m {
+Traigo noticias de personas que conoces.
+}
+GenQuests_Dialog_445_f {
+Traigo un mensaje de personas que conoces.
+}
+GenQuests_Dialog_446 {
+Sí. ¡Quiero entregarte a la justicia!
+}
+GenQuests_Dialog_447 {
+Oh sí, tengo suerte de servir en una casa tan grandiosa.
+}
+GenQuests_Dialog_448 {
+No es de extrañar...
+}
+GenQuests_Dialog_449 {
+¡No olvides echar un vistazo a nuestro jardín!
+}
+GenQuests_Dialog_450 {
+¡Gracias, buen amigo!
+}
+GenQuests_Dialog_451 {
+Eh... @<pchar>?
+}
+GenQuests_Dialog_452 {
+¡No te saldrás con la tuya, Judas!
+}
+GenQuests_Dialog_453 {
+¡Detente, canalla!
+}
+GenQuests_Dialog_454 {
+¡Rápido, toma los objetos de valor y sal de aquí!
+}
+GenQuests_Dialog_455 {
+Creo que ya es hora de que tú también desaparezcas.
+}
+GenQuests_Dialog_456 {
+Mm, disculpe, debo irme de inmediato.
+}
+GenQuests_Dialog_457 {
+¡Detente, canalla!
+}
+GenQuests_Dialog_458_m {
+¡Pero si eres un ladrón, buen hombre! ¡Guardias, deténganlo!
+}
+GenQuests_Dialog_458_f {
+¡Eres una ladrona! ¡Guardias, deténganla!
+}
+GenQuests_Dialog_459_m {
+¡Vaya, mira eso! Me distraigo un segundo y ya estás metido de cabeza en el cofre. ¡Ladrón! ¡Alto, ese ladrón!
+}
+GenQuests_Dialog_459_f {
+¡Vaya, mira eso! Me distraigo un segundo y ya estás metida de cabeza en el cofre. ¡Atrapen a esa ladrona!
+}
+GenQuests_Dialog_460_m {
+¡Guardias! ¡Me están robando! ¡Detengan al ladrón!
+}
+GenQuests_Dialog_460_f {
+¡Guardias! ¡Me están robando! ¡Detengan a esa ladrona!
+}
+GenQuests_Dialog_461 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_462 {
+¡Argh, maldición!
+}
+GenQuests_Dialog_463_m {
+¡Hola, amigo! Tengo una sorpresa para ti: encendí la mecha que va directo al polvorín. Pronto habrá una explosión que hasta los demonios en el infierno oirán.
+}
+GenQuests_Dialog_463_f {
+¡Hola, amiga! Tengo una sorpresa para ti: encendí la mecha que va directo al polvorín. ¡Va a haber una explosión que hasta los demonios en el infierno la oirán!
+}
+GenQuests_Dialog_464 {
+¿Qué haces ahí parado? ¡Hay un incendio en el polvorín! Si no hacemos algo, habrá un espectáculo de fuegos artificiales que se verá hasta en Europa.
+}
+GenQuests_Dialog_465 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_466 {
+¡Ah, bribón! No me engañas. ¡Pelea, cobarde!
+}
+GenQuests_Dialog_467 {
+Veo que las ratas huyen del barco, ¿y tú eres el primero en salir?
+}
+GenQuests_Dialog_468 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_469 {
+Corre tú también, si quieres seguir con vida... Bueno, no tengo tiempo, la lancha me espera. ¡Buena suerte con la pesca!
+}
+GenQuests_Dialog_470_m {
+No tengo tiempo para hacerme el caballero; mi tripulación en el bote no va a esperar. ¡Suerte con la pesca, campeón!
+}
+GenQuests_Dialog_470_f {
+No tengo tiempo para hacerme el noble; mi tripulación en el bote no va a esperar. ¡Suerte con la pesca, campeona!
+}
+GenQuests_Dialog_471 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_472 {
+¡Maldita sea!.. ¡Corta las amarras! ¡Nos vamos de aquí!
+}
+GenQuests_Dialog_473 {
+¡En qué lío nos hemos metido!.. ¡Abran los grifos de fondo! ¡Soltamos amarras!
+}
+GenQuests_Dialog_474 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_475_m {
+¿Qué?! ¿Crees que has ganado el duelo?! No cantes victoria todavía. He encendido la mecha que lleva al polvorín, así que no saldrás vivo de este barco.
+}
+GenQuests_Dialog_475_f {
+¿Qué?! ¿Crees que has ganado el duelo?! No te alegres todavía. He encendido la mecha que lleva al polvorín, así que no saldrás vivo de este barco.
+}
+GenQuests_Dialog_476 {
+¡Ah, sinvergüenza! No me vas a engañar. ¡Pelea, cobarde!
+}
+GenQuests_Dialog_477 {
+Veo que las ratas huyen del barco, ¿y tú eres el primero en salir?
+}
+GenQuests_Dialog_478 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_479 {
+Cumplo con mi juramento, pero eso no significa que deba morir de forma tan absurda. Lo siento, no puedo ofrecerte un lugar en el bote salvavidas; me temo que la tripulación no lo aceptaría bien.
+}
+GenQuests_Dialog_480 {
+Los barcos están firmemente trabados en el abordaje, así que tu destino está decidido. Lo siento, el bote te espera...
+}
+GenQuests_Dialog_481 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_482 {
+¡Maldita sea!.. ¡Corta las amarras! ¡Nos vamos de aquí!
+}
+GenQuests_Dialog_483 {
+¡En qué lío me he metido!.. ¡Abran las válvulas de fondo! ¡Nos vamos!
+}
+GenQuests_Dialog_484 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_485_m {
+¿Y bien, campeón? ¡Bienvenido al inframundo! Ya encendí la mecha que lleva directo al polvorín.
+}
+GenQuests_Dialog_485_f {
+¿Y bien, vencedora? ¡Bienvenida al inframundo! He encendido la mecha que lleva al polvorín.
+}
+GenQuests_Dialog_486_m {
+Bueno, querida, ¡ahora sí que estás atrapada! Esta vez no podrás escapar—he prendido fuego al polvorín.
+}
+GenQuests_Dialog_486_f {
+Bueno, querida, ¡te han atrapado! Ya no puedes escapar—he prendido fuego al polvorín.
+}
+GenQuests_Dialog_487 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_488 {
+¡Ah, canalla! No me vas a engañar. ¡Pelea, cobarde!
+}
+GenQuests_Dialog_489 {
+Veo que las ratas huyen del barco, ¿y tú eres el primero en salir corriendo?
+}
+GenQuests_Dialog_490 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_491 {
+Te he estado siguiendo desde hace mucho tiempo. Lástima tener que sacrificar mi barco. No importa—tu recompensa basta para comprarme un par de nuevos. ¡Buena pesca!
+}
+GenQuests_Dialog_492_m {
+¿Ves cómo tengo que deshacerme de ti? Con fuegos artificiales, como si fueras un príncipe indio. Pero bueno, no salgo perdiendo. Tu cabeza vale más que mi pequeño barco. Adiós, la lancha no va a esperar...
+}
+GenQuests_Dialog_492_f {
+¿Ves cómo tengo que deshacerme de ti? Con fuegos artificiales, como si fueras una princesa india. Pero bueno, no salgo perdiendo. Tu cabeza vale más que mi pequeño barco. Adiós, la lancha no va a esperar...
+}
+GenQuests_Dialog_493 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_494 {
+¡Maldita sea!.. ¡Corta las amarras! ¡Nos vamos de aquí!
+}
+GenQuests_Dialog_495 {
+¡En qué lío nos hemos metido!.. ¡Abran los grifos de fondo! ¡Nos vamos!
+}
+GenQuests_Dialog_496 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_497 {
+¡Espera, capitán! Quiero hablar contigo.
+}
+GenQuests_Dialog_498 {
+¡Espera, capitán! Creo que querrá escuchar esto.
+}
+GenQuests_Dialog_499 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_500 {
+¿A qué viene la charla en medio de una pelea?
+}
+GenQuests_Dialog_501_m {
+¿Qué asunto tengo yo hablando con los muertos?
+}
+GenQuests_Dialog_501_f {
+¿Qué se supone que debo decirle a un muerto?
+}
+GenQuests_Dialog_502 {
+¿Qué pasa? ¿Vas a dejarme tu testamento?
+}
+GenQuests_Dialog_503 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_504 {
+Hay una epidemia a bordo. Perdí a un cuarto de mi tripulación durante el viaje. Así que todos están condenados...
+}
+GenQuests_Dialog_505 {
+¡Ah, saco podrido! ¿Por qué no diste la señal de que había problemas en el barco?
+}
+GenQuests_Dialog_506 {
+¿Olvidaste las reglas del mar? ¡Debe haber una señal en el mástil para indicar que el barco está en peligro!
+}
+GenQuests_Dialog_507 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_508 {
+De todos modos estábamos condenados a morir. Por eso no nos rendimos: para llevarte a ti y a tus secuaces con nosotros. Ahora estoy satisfecho. Vamos, termina tu sucio trabajo.
+}
+GenQuests_Dialog_509 {
+¡Ya verás, me las vas a pagar!
+}
+GenQuests_Dialog_510_m {
+Yo también estoy satisfecho, sabiendo que morirás primero. Y estaré allí para verlo...
+}
+GenQuests_Dialog_510_f {
+Yo también estoy satisfecha, sabiendo que morirás primero. Y estaré ahí para verlo...
+}
+GenQuests_Dialog_511 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_512 {
+No voy a manchar mi espada con tu sucia sangre—vive... aunque, ¿para qué? Me llevo a la tripulación de este cascarón podrido.
+}
+GenQuests_Dialog_513 {
+Por eso te colgarían, pero ya no vas a necesitar la horca. Me llevo a la tripulación... Vive el tiempo que te quede.
+}
+GenQuests_Dialog_514 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_515 {
+Hola, capitán. Me dijeron que me estaba buscando.
+}
+GenQuests_Dialog_516 {
+A ti, si de verdad eres @<pchar>.
+}
+GenQuests_Dialog_517 {
+Sí, soy yo. ¿Tiene algo importante?
+}
+GenQuests_Dialog_518_m {
+No sé cuánto te importa esto, pero traje a @<pchar>. Se escapó de casa y te está esperando cerca de la taberna.
+}
+GenQuests_Dialog_518_f {
+No sé cuánto te importa esto, pero traje a @<pchar>. Se escapó de casa y te está esperando cerca de la taberna.
+}
+GenQuests_Dialog_519 {
+Dios, sabía que todo terminaría así... ¿Dijo por qué se fue?
+}
+GenQuests_Dialog_520 {
+La están casando con el hijo del prestamista.
+}
+GenQuests_Dialog_521 {
+¡Oh, no, eso no puede ser! Capitán, estoy en una situación realmente absurda... En resumen, quisiera pedirle que nos lleve a @<XI_ConvertString> en el asentamiento de @<XI_ConvertString>, pero estoy completamente sin dinero—todavía no he encontrado trabajo. Pero mis padres tienen buena posición y tengo posibilidades de conseguir un puesto allí.\nLe aseguro que mis padres estarán encantados de verme con mi joven esposa y le recompensarán generosamente. Entonces, ¿qué dice—nos lleva?
+}
+GenQuests_Dialog_522 {
+... Escucha, ahora mismo tengo planes completamente distintos. Te sugiero que te embarques como marinero en cualquier barco y, en vez de salario, reserves un camarote para tu prometida. Así es como la gente de Europa cruza el mar, y hasta tu asentamiento — hasta un cormorán llegaría en una noche.
+}
+GenQuests_Dialog_523 {
+¡Ah, la juventud! ¿Acaso entiendes lo que pides? ¿Llevarte a una hija lejos de sus padres sin su bendición?.. Por supuesto que lo haré.
+}
+GenQuests_Dialog_524 {
+¿Escuchaste? @<pchar> se escapó con su amante justo antes de la boda. No quería atar su vida a un lisiado. Todo es culpa de sus padres; se dejaron tentar por el dinero del novio. Nunca debieron intentar casar a una belleza así con un desgraciado.
+}
+GenQuests_Dialog_525 {
+¿Has oído la noticia? @<pchar> dejó plantados tanto a su padre como a su flamante prometido. Dicen que un capitán noble ayudó a ella y a su amante a escapar a otra isla, donde viven los padres de su amado... Ah, todavía hay gente que no ha olvidado lo que es la verdadera pasión.
+}
+GenQuests_Dialog_526 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_527 {
+Gracias, capitán. Nunca olvidaremos este favor mientras vivamos.
+}
+GenQuests_Dialog_528 {
+No hace falta que me lo agradezcas. Lo importante es que ahora todo te salga bien.
+}
+GenQuests_Dialog_529 {
+a la tienda
+}
+GenQuests_Dialog_530 {
+al astillero
+}
+GenQuests_Dialog_531 {
+a la autoridad portuaria
+}
+GenQuests_Dialog_532 {
+a la taberna
+}
+GenQuests_Dialog_533 {
+al banco
+}
+GenQuests_Dialog_534 {
+Te prometí presentarte a mis padres. Cuando tengas un momento libre, pasa por @<sTemp>, ahí trabaja mi padre. Le contaré lo que has hecho por nosotros. Te aseguro que estará encantado de conocerte.
+}
+GenQuests_Dialog_535 {
+Está bien, está bien, pasaré. Sean felices...
+}
+GenQuests_Dialog_536 {
+¡Espera!.. ¡Espera, capitán! Espera un momento.
+}
+GenQuests_Dialog_537 {
+Capitán, espera, te lo suplico...
+}
+GenQuests_Dialog_538 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_539 {
+¿Qué, ya te falta el aire?
+}
+GenQuests_Dialog_540 {
+¡Alza tu espada! Cobarde.
+}
+GenQuests_Dialog_541 {
+¿Qué pasa? ¿Se te olvidó hacer tu testamento?
+}
+GenQuests_Dialog_542 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_543 {
+Espera, estoy herido y ya no puedo resistir... No voy a suplicar piedad, pero me queda una tarea pendiente. Prométeme que no le negarás a un moribundo su última petición.
+}
+GenQuests_Dialog_544 {
+No sea cobarde, capitán—enfrente la muerte como un hombre.
+}
+GenQuests_Dialog_545 {
+Capitán, ¿qué sentimentalismos? La batalla ruge a nuestro alrededor. Terminemos lo que empezamos con dignidad.
+}
+GenQuests_Dialog_546 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_547 {
+Habla, pero hazlo rápido.
+}
+GenQuests_Dialog_548 {
+Dile a @<pchar> del asentamiento de @<XI_ConvertString> que no pude cumplir con su encargo... o mejor dicho, que no llegué a tiempo. Que me perdone...
+}
+GenQuests_Dialog_549 {
+¿Eso es todo? Está bien, lo haré. Eh, buen señor...
+}
+GenQuests_Dialog_550 {
+De acuerdo, lo transmitiré si encuentro tiempo. Eh, buen señor...
+}
+GenQuests_Dialog_551 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_552 {
+No creo que me rebaje a semejantes tonterías. Terminemos lo que empezamos con dignidad.
+}
+GenQuests_Dialog_553 {
+Dile al capitán del patrullero @<GetStrSmallRegister> '@<pchar>' @<pchar> que no debe aparecer en @<XI_ConvertString>... Las autoridades ya conocen las circunstancias de la muerte de @<GetStrSmallRegister> '@<pchar>'... el tiempo apremia, lo espera un arresto... @<GetStrSmallRegister> navega hacia @<XI_ConvertString> desde @<XI_ConvertString> y en unos 15 días echará anclas en el puerto... debemos intentar interceptarlo...
+}
+GenQuests_Dialog_554 {
+No prometo nada, pero si tengo la oportunidad, lo transmitiré. Eh, buen señor...
+}
+GenQuests_Dialog_555 {
+De acuerdo, lo transmitiré si llego a tiempo. Eh, caballero...
+}
+GenQuests_Dialog_556 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_557 {
+¡Qué crueldad! Espero que en el más allá te lo hagan pagar.
+}
+GenQuests_Dialog_558 {
+Y no solo eso...
+}
+GenQuests_Dialog_559 {
+A sus órdenes, @<GetAddress_Form>.
+}
+GenQuests_Dialog_560 {
+¿Qué quería?
+}
+GenQuests_Dialog_561 {
+¿En qué puedo servirle?
+}
+GenQuests_Dialog_562 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_563 {
+¿Es usted @<pchar>? Tengo una tarea para usted. El capitán @<pchar> me pidió entregarle información importante.
+}
+GenQuests_Dialog_564 {
+No, nada...
+}
+GenQuests_Dialog_565 {
+¿Ah, sí? Pues hablemos entonces. ¿Qué te pidió el capitán @<pchar>?
+}
+GenQuests_Dialog_566 {
+Me pidió que le dijera que no podrá cumplir con su solicitud.
+}
+GenQuests_Dialog_567 {
+¡¿Qué está diciendo?! Lo conozco desde hace años, es la persona más honesta—jamás haría algo así.
+}
+GenQuests_Dialog_568 {
+Digamos que las circunstancias se interpusieron en su camino. En otras palabras, está muerto.
+}
+GenQuests_Dialog_569 {
+¡Ah, qué mal momento! Hemos perdido mucho tiempo.\nCapitán, en ese caso, debo pedirle su ayuda. Unos piratas de @<XI_ConvertString> han capturado a mi @<GetStrSmallRegister> @<pchar> y exigen un rescate. ¿Estaría dispuesto a aceptar esta misión? La recompensa será generosa.
+}
+GenQuests_Dialog_570 {
+Lamentablemente, tengo otros planes.
+}
+GenQuests_Dialog_571 {
+Intentaré ayudarte si explicas el asunto con más detalle.
+}
+GenQuests_Dialog_572 {
+¡Ah, qué mal momento! Tanto tiempo perdido...\n¿Y dónde están los cofres?
+}
+GenQuests_Dialog_573 {
+Hmm... ¿qué cofres?
+}
+GenQuests_Dialog_574 {
+Qué lástima, capitán... de verdad es una pena que no quiera ayudarme.
+}
+GenQuests_Dialog_575 {
+No se trata de lo que yo quiera, señor. Usted mismo lo entiende... Adiós.
+}
+GenQuests_Dialog_576 {
+Ayer recibí una carta de @<ChangeNameCase>, en la que decía que aumentaba el rescate y amenazaba con vender al prisionero como esclavo. El difunto capitán debía informarles que yo aceptaba las condiciones anteriores y pagar un adelanto. Pero ahora entiendo por qué los piratas subieron las apuestas.
+}
+GenQuests_Dialog_577 {
+¿Y qué propone?
+}
+GenQuests_Dialog_578_m {
+Oh, amigo, tengo la sensación de que aquí alguien está jugando sucio. Te lo advierto de una vez: esto es peligroso y podrías meterte en problemas. El capitán @<pchar> tenía tres cofres de oro que debía entregar a @<ChangeNameCase> en @<XI_ConvertString> como rescate por una persona—@<pchar>. Si él te envió a tratar con nosotros, seguro te habló de los cofres.
+}
+GenQuests_Dialog_578_f {
+Oh, amiga, tengo la sensación de que aquí alguien está jugando sucio. Te advierto de inmediato: esto es peligroso y puede traer problemas. El capitán @<pchar> tenía tres cofres de oro que debía entregar a @<ChangeNameCase> en @<XI_ConvertString> como rescate por una persona—@<pchar>. Si te envió a tratar con nosotros, seguro te habló de los cofres.
+}
+GenQuests_Dialog_579 {
+¿Quizás simplemente no llegó a tiempo?
+}
+GenQuests_Dialog_580 {
+No tengo alternativa... Ya he reunido la suma necesaria: 150,000 piastras. Quiero pedirte que la lleves a @<XI_ConvertString> y traigas a @<GetStrSmallRegister> de regreso aquí. Por tu trabajo, estoy dispuesto a pagarte 40,000, que recibirás al volver.
+}
+GenQuests_Dialog_581_m {
+De acuerdo, estoy listo para encargarme de eso.
+}
+GenQuests_Dialog_581_f {
+De acuerdo, estoy listo para encargarme de eso.
+}
+GenQuests_Dialog_582 {
+Por desgracia, tengo otros planes.
+}
+GenQuests_Dialog_583 {
+Entonces tome el dinero, y que el Señor lo bendiga... Pero debe darse prisa; temo que @<ChangeNameCase> no esperará y venderá al pobre desgraciado como esclavo.
+}
+GenQuests_Dialog_584 {
+Espérame aquí. No creo que esto tarde mucho.
+}
+GenQuests_Dialog_585 {
+O quizás simplemente no quisiste... eso no cambia nada.\nA quienes reunieron el rescate no les importa. Quieren resultados: @<pchar> vivo y sin daño. Así que no pierdas tiempo.
+}
+GenQuests_Dialog_586 {
+¿Y si me niego?
+}
+GenQuests_Dialog_587 {
+No necesito tu consentimiento. Solo te aviso: si no traes a @<pchar> vivo a esta taberna en treinta días, enviaré cazadores de recompensas tras de ti...
+}
+GenQuests_Dialog_588 {
+Hmm, pero ¿y si sí lo traigo?
+}
+GenQuests_Dialog_589 {
+Bueno, entonces hablaremos...
+}
+GenQuests_Dialog_590 {
+Muy bien... veamos cómo resulta.
+}
+GenQuests_Dialog_591 {
+Hola, capitán @<GetFullName>. ¿Alguna novedad?
+}
+GenQuests_Dialog_592 {
+Bueno, capitán, ¿ya ha traído el rescate?
+}
+GenQuests_Dialog_593 {
+Hola, ¿espero que traigas buenas noticias?
+}
+GenQuests_Dialog_594 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_595_m {
+Lamentablemente, mis planes han cambiado y me veo obligado a romper nuestro acuerdo.
+}
+GenQuests_Dialog_595_f {
+Lamentablemente, mis planes han cambiado y me veo obligada a romper nuestro acuerdo.
+}
+GenQuests_Dialog_596 {
+Todavía no. Estoy en ello.
+}
+GenQuests_Dialog_597 {
+Ah, saludos, capitán @<GetFullName>. ¿Cómo va su fortuna?
+}
+GenQuests_Dialog_598 {
+Entonces, capitán, ¿ha rescatado a nuestro pobre hombre?
+}
+GenQuests_Dialog_599 {
+Me alegra verlo bien, capitán. ¿Cómo va nuestro negocio en común?
+}
+GenQuests_Dialog_600 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_601 {
+Aún no hay noticias, pero estoy en ello.
+}
+GenQuests_Dialog_602 {
+Escuche, señor, ¿en qué se basa para obligarme a encargarme de este asunto?
+}
+GenQuests_Dialog_603 {
+Hola, capitán @<GetFullName>. ¿Alguna novedad?
+}
+GenQuests_Dialog_604 {
+Bueno, capitán, ¿ya ha traído el rescate?
+}
+GenQuests_Dialog_605 {
+Hola, ¿espero que traigas buenas noticias?
+}
+GenQuests_Dialog_606 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_607 {
+Sí. Tu encargo está cumplido, @<pchar> está a bordo de mi barco y se prepara para desembarcar.
+}
+GenQuests_Dialog_608 {
+Ah, saludos, capitán @<GetFullName>. ¿Cómo va su suerte?
+}
+GenQuests_Dialog_609 {
+Entonces, capitán, ¿ha rescatado a nuestro pobre desgraciado?
+}
+GenQuests_Dialog_610 {
+Me alegra verlo bien, capitán. ¿Cómo va nuestro asunto?
+}
+GenQuests_Dialog_611 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_612_m {
+He traído a la persona de la que habló. Está a bordo de mi barco.
+}
+GenQuests_Dialog_612_f {
+He traído a la persona de la que habló. Está a bordo de mi barco.
+}
+GenQuests_Dialog_613 {
+Hola, capitán @<GetFullName>. ¿Alguna novedad?
+}
+GenQuests_Dialog_614 {
+Bueno, capitán, ¿ya ha entregado el rescate?
+}
+GenQuests_Dialog_615 {
+Hola, ¿espero que traigas buenas noticias?
+}
+GenQuests_Dialog_616 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_617_m {
+Hola @<pchar>, me temo que tengo malas noticias para ti.
+}
+GenQuests_Dialog_617_f {
+Hola @<pchar>, me temo que tengo malas noticias para ti.
+}
+GenQuests_Dialog_618 {
+Ah, saludos, capitán @<GetFullName>. ¿Cómo va todo?
+}
+GenQuests_Dialog_619 {
+Entonces, capitán, ¿ha rescatado a nuestro pobre hombre?
+}
+GenQuests_Dialog_620 {
+Me alegra verlo bien, capitán. ¿Cómo va nuestro negocio en común?
+}
+GenQuests_Dialog_621 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_622 {
+La persona por la que preguntó está muerta.
+}
+GenQuests_Dialog_623 {
+Gracias, capitán, ha hecho un servicio invaluable para toda nuestra familia. Aquí tiene su recompensa... Hay tres cofres aquí, son exactamente 40,000 piastras. Disculpe, pero debo apresurarme a encontrarme con él.
+}
+GenQuests_Dialog_624 {
+Por supuesto, por supuesto. Adiós, y que te vaya muy bien.
+}
+GenQuests_Dialog_625 {
+Entiendo su impaciencia, pero han surgido circunstancias que me obligaron a asumir gastos adicionales.
+}
+GenQuests_Dialog_626 {
+No te entiendo... Acordamos la cantidad de la recompensa de antemano.
+}
+GenQuests_Dialog_627 {
+Sí, pero en vez de 150,000 piastras, tuve que soltar 200,000. Y además tuve que ir hasta Barbados.
+}
+GenQuests_Dialog_628 {
+Capitán, esto es simplemente resultado de su propia negligencia. No he recibido ninguna exigencia adicional de los piratas. ¡Qué costumbre tan extraña, intentar sacar provecho de las desgracias ajenas!
+}
+GenQuests_Dialog_629 {
+Veo que no tiene sentido explicarte nada...
+}
+GenQuests_Dialog_630 {
+¡Estupendo! Y pensabas que no haríamos buen equipo.
+}
+GenQuests_Dialog_631 {
+Pero tuve que gastar bastante en esta empresa.
+}
+GenQuests_Dialog_632 {
+Lo sé, lo sé... Pero en parte, solo tienes la culpa tú. ¿Cómo pudiste perder tres cofres enteros de oro—oro que tanto nos costó sacar del tesoro—solo para que @<NationNameNominative> consiguiera a este experto, @<pchar>?
+}
+GenQuests_Dialog_633_m {
+Ten en cuenta que no pienso entregártelo sin recibir una compensación adecuada.
+}
+GenQuests_Dialog_633_f {
+Ten en cuenta que no tengo intención de entregártelo sin una compensación adecuada.
+}
+GenQuests_Dialog_634_m {
+Bueno, como persona inteligente, debe darse cuenta de que ya es demasiado tarde para negociar. Podríamos simplemente apoderarnos de su barco junto con todas sus pertenencias.\nPero la compensación ya fue acordada de antemano... Así que, en nombre del gobierno de @<NationNameGenitive>, permítame felicitarle por la exitosa finalización de la operación y entregarle este valioso obsequio junto con una modesta recompensa monetaria.
+}
+GenQuests_Dialog_634_f {
+Bueno, como mujer inteligente, debe darse cuenta de que ya es tarde para negociar. Podríamos haber confiscado su barco junto con todas sus pertenencias.\nPero la compensación se acordó de antemano... Así que, en nombre del gobierno de @<NationNameGenitive>, permítame felicitarla por la exitosa finalización de la operación y entregarle este valioso obsequio y una modesta recompensa monetaria.
+}
+GenQuests_Dialog_635 {
+Ejem... Bueno, gracias por eso, al menos. Llévate a tu preciado especialista.
+}
+GenQuests_Dialog_636 {
+¡Ah, qué lástima! Ya he perdido demasiado tiempo. Me has decepcionado mucho, capitán.
+}
+GenQuests_Dialog_637 {
+Lo entiendo, pero las circunstancias fueron más fuertes. Aquí tiene su dinero.
+}
+GenQuests_Dialog_638 {
+¿Podríamos darnos prisa? Me preocupa que los piratas cambien los términos otra vez.
+}
+GenQuests_Dialog_639 {
+No te preocupes, llegaremos a tiempo.
+}
+GenQuests_Dialog_640 {
+Espero que comprendas que el tiempo no está de tu lado.
+}
+GenQuests_Dialog_641 {
+Repito, estoy ocupándome de su asunto.
+}
+GenQuests_Dialog_642_m {
+¡Dios no lo quiera! Ningún compromiso, solo un puritano ayudando por voluntad propia.\nNo tenías por qué meterte. Mataste al capitán @<pchar>, arruinaste nuestro rescate por un hombre valioso y hasta dejaste que se nos escapara el oro. Tú causaste este lío, ahora arréglalo. Y no creas que te saldrá gratis...
+}
+GenQuests_Dialog_642_f {
+¡Dios no lo quiera! Ningún compromiso, solo un puritano ayudando por voluntad propia.\nNo tenías por qué meterte. Mataste al capitán @<pchar>, arruinaste nuestro rescate por un hombre valioso y hasta perdiste nuestro oro. Tú causaste este lío, ahora arréglalo. Y no creas que te saldrá gratis...
+}
+GenQuests_Dialog_643 {
+Malditos sean todos...
+}
+GenQuests_Dialog_644 {
+Hola, capitán. ¿Cómo podría agradecerle? Cuesta creer que esta pesadilla por fin terminó.
+}
+GenQuests_Dialog_645 {
+No deberías darme las gracias a mí, sino a tu pariente @<pchar> de @<XI_ConvertString>. Él reunió el rescate por ti.
+}
+GenQuests_Dialog_646 {
+Hola, capitán. Me dijeron que fue usted quien pagó la fianza. Gracias, aunque entiendo que solo es el mensajero.
+}
+GenQuests_Dialog_647 {
+No pareces muy contento con tu recién adquirida libertad. ¿Te preocupa algo?
+}
+GenQuests_Dialog_648 {
+Le ruego, si no altera sus planes, por favor lléveme con él. Debo agradecerle.
+}
+GenQuests_Dialog_649 {
+Por supuesto, te llevaré. Ven, te acompaño a bordo.
+}
+GenQuests_Dialog_650 {
+Para estar seguro de mi libertad, necesito saber los nombres de quienes la pagaron.
+}
+GenQuests_Dialog_651_m {
+Bueno, pagué por ella, aunque no fue precisamente por elección.
+}
+GenQuests_Dialog_651_f {
+Bueno, supongo que la pagué yo, aunque no fue precisamente por elección propia.
+}
+GenQuests_Dialog_652 {
+Así que se confirman mis temores. ¿Fuiste obligado a hacer esto por los @<NationNamePeople>?
+}
+GenQuests_Dialog_653 {
+Sí, es @<pchar> de @<XI_ConvertString>.
+}
+GenQuests_Dialog_654 {
+Ya veo... No sé qué te prometieron, pero aquí tienes mi propuesta: llévame a la taberna @<XI_ConvertString>, donde de verdad estaré a salvo, y compartiré contigo parte de la información que tengo.
+}
+GenQuests_Dialog_655 {
+De acuerdo. Además, nunca prometieron nada. Síganme, los llevo al barco.
+}
+GenQuests_Dialog_656 {
+No pienso arriesgarme a tener problemas por información dudosa.
+}
+GenQuests_Dialog_657 {
+Lamentablemente, no puedo revelarte sus propiedades en este momento. Podría perjudicarnos a ambos.
+}
+GenQuests_Dialog_658 {
+Con más razón... Te escoltarán hasta el barco, y ni se te ocurra causar problemas. Considérate bajo arresto otra vez.
+}
+GenQuests_Dialog_659 {
+¿Qué? ¿Los piratas cambiaron las condiciones otra vez? Pero no puedo seguir sacando dinero de la circulación. ¡Pronto todo mi negocio se vendrá abajo!
+}
+GenQuests_Dialog_660 {
+No... Tu familiar murió en las plantaciones de Barbados durante un intento fallido de escape.
+}
+GenQuests_Dialog_661 {
+Ah... estoy destrozado... ¿Cómo pudo pasar esto?
+}
+GenQuests_Dialog_662_m {
+Los piratas, al no esperar el rescate, lo vendieron como esclavo. Lo seguí hasta Barbados, pero no pude salvarlo...
+}
+GenQuests_Dialog_662_f {
+Los piratas, sin esperar el rescate, lo vendieron como esclavo. Lo seguí hasta Barbados, pero no pude salvarlo...
+}
+GenQuests_Dialog_663 {
+¡Dios mío! ¿Qué está pasando? Está bien, capitán, gracias por su ayuda... Y por favor, devuélvame el dinero que le di para el rescate.
+}
+GenQuests_Dialog_664 {
+Mis gastos han superado todas las expectativas, así que me quedaré con su dinero... Adiós.
+}
+GenQuests_Dialog_665_m {
+Sí, por supuesto, tómelo... Lamento no haber podido ayudarle... Adiós.
+}
+GenQuests_Dialog_665_f {
+Sí, por supuesto, tómalo... Perdón por no poder ayudarte... Adiós.
+}
+GenQuests_Dialog_666 {
+Esto es grave... ni siquiera se imagina lo grave que es...
+}
+GenQuests_Dialog_667_m {
+No puedo ayudarte... De hecho, hasta me alegra que haya sido así. Adiós.
+}
+GenQuests_Dialog_667_f {
+No puedo ayudarte... De hecho, hasta me alegra que haya sido así. Adiós.
+}
+GenQuests_Dialog_668 {
+Beber... Capitán, tráigame un poco de agua...
+}
+GenQuests_Dialog_669 {
+Hola, amigo, ¿no serás tú @<pchar>?
+}
+GenQuests_Dialog_670 {
+Sí... soy yo...
+}
+GenQuests_Dialog_671 {
+Escucha, si no quieres acabar muerto aquí como un lenguado en aguas poco profundas, te sugiero que espabiles y me prestes atención. ¿Sabes dónde está el @<SlaveEscapeLocationText>?
+}
+GenQuests_Dialog_672 {
+Lo sé...
+}
+GenQuests_Dialog_673 {
+En cuanto tengas la oportunidad, corre allí. Haré todo lo posible para que tengas esa oportunidad.
+}
+GenQuests_Dialog_674 {
+Pregunte, capitán, pero sea breve—estoy de servicio.
+}
+GenQuests_Dialog_675 {
+Habla, pero ve al grano; no puedo perder el tiempo en cosas sin importancia.
+}
+GenQuests_Dialog_676 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_677 {
+¿Podría decirme cómo encontrar a un esclavo en particular? Se llama @<pchar>.
+}
+GenQuests_Dialog_678 {
+Debe haber un esclavo llamado @<pchar> trabajando en algún lugar de la plantación. ¿Puedes decirme cómo puedo hablar con él?
+}
+GenQuests_Dialog_679 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_680 {
+Hoy está castigado y bajo vigilancia.
+}
+GenQuests_Dialog_681 {
+Gracias.
+}
+GenQuests_Dialog_682 {
+Gracias... capitán, me ha salvado la vida...
+}
+GenQuests_Dialog_683 {
+Corre al @<SlaveEscapeLocationText> y espérame allí.
+}
+GenQuests_Dialog_684 {
+Capitán, ¿cómo podría agradecerle? Cuesta creer que esta pesadilla por fin terminó.
+}
+GenQuests_Dialog_685 {
+Ya me ha agradecido tu pariente @<pchar> de @<XI_ConvertString>. Actúo en su nombre.
+}
+GenQuests_Dialog_686 {
+Gracias, capitán. No sé a quién representa, pero una mala libertad siempre es mejor que una buena esclavitud.
+}
+GenQuests_Dialog_687 {
+¿De qué estás hablando?
+}
+GenQuests_Dialog_688 {
+Si no altera tus planes, por favor llévame con él. Estoy demasiado cansado de todo esto.
+}
+GenQuests_Dialog_689 {
+Por supuesto que te llevaré, si logramos salir de aquí con vida.
+}
+GenQuests_Dialog_690 {
+¿Puedo saber los nombres de las personas que pagaron por mi liberación?
+}
+GenQuests_Dialog_691 {
+Bueno, digamos que nadie me pagó nada... Simplemente no me dieron opción.
+}
+GenQuests_Dialog_692 {
+Así que se confirman mis temores. ¿Fuiste obligado a hacer esto por los @<NationNamePeople>?
+}
+GenQuests_Dialog_693 {
+Sí, es @<pchar> de @<XI_ConvertString>.
+}
+GenQuests_Dialog_694 {
+Ya veo... No sé qué te prometieron, pero aquí tienes mi propuesta: llévame a la taberna en @<XI_ConvertString>, donde de verdad estaré a salvo, y compartiré contigo parte de la información que tengo.
+}
+GenQuests_Dialog_695 {
+De acuerdo. Además, nunca prometieron nada. Síganme, los llevo al barco.
+}
+GenQuests_Dialog_696 {
+No voy a arriesgarme a tener problemas por información dudosa.
+}
+GenQuests_Dialog_697 {
+Lamentablemente, no puedo revelarte sus propiedades en este momento. Podría perjudicarnos a ambos.
+}
+GenQuests_Dialog_698 {
+Más motivo aún... Sígueme y no intentes nada imprudente. Considérate arrestado otra vez.
+}
+GenQuests_Dialog_699 {
+Gracias, capitán. Ahora sí me siento seguro. No te ofreceré dinero, porque creo que el conocimiento, y la habilidad para usarlo, valen mucho más que el simple oro mortal.
+}
+GenQuests_Dialog_700 {
+Esperando la información prometida.
+}
+GenQuests_Dialog_701 {
+La cuestión es que soy un erudito, un especialista. @<pchar> y los @<NationNamePeople> me ofrecieron cooperación desde hace tiempo, pero como ingeniero militar, seguí fiel a mi juramento. Fue entonces cuando intentaron secuestrarme. Pero eso solo fue la mitad del problema: la verdadera pesadilla comenzó cuando los líderes piratas se enteraron de lo importante que era yo.\nAl final lograron capturarme, pero solo les interesaba el oro; mis conocimientos no significaban nada para ellos. Las partes interesadas—tanto mis aliados como mis enemigos—fueron retrasando el pago del rescate por alguna razón, y así terminé en las plantaciones... Bueno, el resto ya lo sabes.
+}
+GenQuests_Dialog_702 {
+Sí, demasiado listo para tu propio bien — eso es todo.
+}
+GenQuests_Dialog_703 {
+proteger el barco y la tripulación durante el combate.
+}
+GenQuests_Dialog_704 {
+recargar los cañones rápidamente y disparar artillería con precisión incluso en mares agitados
+}
+GenQuests_Dialog_705 {
+maniobrar las velas con rapidez y dirigir el barco durante el combate
+}
+GenQuests_Dialog_706 {
+Bueno, se podría decir así. Si me prestas atención, estarás un paso adelante de tus rivales en cuanto a @<sTemp>
+}
+GenQuests_Dialog_707 {
+Gracias, la información que recibí es realmente muy útil.
+}
+GenQuests_Dialog_708 {
+Bueno, adiós y gracias por todo.
+}
+GenQuests_Dialog_709 {
+Gracias a usted también. Adiós, y procure que no lo vuelva a ver.
+}
+GenQuests_Dialog_710 {
+Saludos, soy el capitán @<GetFullName>. ¿Qué lo trae a bordo de mi barco, '@<pchar>'?
+}
+GenQuests_Dialog_711 {
+Hola, siempre doy la bienvenida a los invitados a bordo de mi barco. Capitán @<GetFullName> a su servicio.
+}
+GenQuests_Dialog_712 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_713 {
+Saludos, soy el capitán @<GetFullName>, y actúo en nombre de cierto capitán @<pchar>. Me pidió informarle que en @<XI_ConvertString> le espera un arresto. Las autoridades se han enterado de algo sobre un barco, si no me equivoco, el @<GetStrSmallRegister>.
+}
+GenQuests_Dialog_714 {
+¿Qué demonios haces aquí? ¡Ya lo hemos arreglado todo! ¡Vuelve a tu barco!
+}
+GenQuests_Dialog_715 {
+Eh... Sí, eso es.
+}
+GenQuests_Dialog_716 {
+¡Ah, qué mala suerte! Espera, déjame pensar...\nAh, ¿dónde está el propio capitán @<pchar>?
+}
+GenQuests_Dialog_717 {
+Está muerto.
+}
+GenQuests_Dialog_718 {
+¡Maldita sea! Las cosas no hacen más que empeorar... Escuche, @<GetFullName>, no estaba preparado para este giro de los acontecimientos. El capitán @<pchar> y yo acordamos encontrarnos en @<XI_ConvertString> para cargar algo de mercancía en su barco. Y ahora resulta que el capitán está muerto, y ni siquiera puedo aparecerme en el pueblo para organizar el envío.\nParece que no me queda otra opción que pedirle su ayuda.
+}
+GenQuests_Dialog_719 {
+Mi acuerdo dependerá del tipo de ayuda que necesites.
+}
+GenQuests_Dialog_720 {
+Ayúdame con hombres y botes para sacar la carga de @<XI_ConvertString>, y a cambio puedes quedarte con todo lo que no quepa en mi bodega.
+}
+GenQuests_Dialog_721 {
+Hmm, parece que te has metido en más de lo que puedes manejar.
+}
+GenQuests_Dialog_722 {
+Lamentablemente, las circunstancias no me permiten dedicar tiempo a esto.
+}
+GenQuests_Dialog_723 {
+Muy bien, para no dejarte con la duda, te lo contaré todo desde el principio.\nDurante una de mis patrullas, me crucé con un barco que navegaba bajo la bandera de @<NationNameGenitive>. Mi orden de detenerse fue ignorada. Tras una breve persecución, alcanzamos al @<sTemp> '@<pchar>', y los fugitivos izaron la bandera pirata. Como ya estábamos lejos del fuerte, no tuve más opción que enfrentarlos solo. Nuestro bauprés resultó dañado, así que no pudimos evitar el abordaje.\nEstábamos preparados para morir, pero gracias a la Virgen María y a un pelotón de mosqueteros, logramos abatir a los piratas. Imagínate nuestra alegría al descubrir que la bodega estaba repleta de @<GetStrSmallRegister>. Lo tomamos como una señal de Dios y una recompensa merecida por nuestras heridas y los compañeros caídos.\nPara entonces, ya había oscurecido. Entramos en la bahía más cercana, descargamos la mercancía en la orilla y la escondimos bien. Luego llevamos el barco mar adentro y lo volamos. A la mañana siguiente, informé del hundimiento del barco pirata, pero no mencioné ni una palabra sobre la carga en la bodega.
+}
+GenQuests_Dialog_724 {
+Pero parece que alguien lo contó después de todo...
+}
+GenQuests_Dialog_725 {
+Qué lástima, capitán... qué lástima que no quiera ayudarme.
+}
+GenQuests_Dialog_726 {
+No se trata de lo que yo quiera, señor. Usted mismo lo entiende... Adiós...
+}
+GenQuests_Dialog_727 {
+No creo que sean mis hombres. Lo más probable es que sea el dueño de la carga intentando desquitarse por su propia mala suerte.\nEntonces, ¿qué dices? ¿Puedo contar con tu ayuda?
+}
+GenQuests_Dialog_728 {
+Sí, supongo que me interesa.
+}
+GenQuests_Dialog_729 {
+No, señor. Primero, no sé cuánta carga cabe en mi bodega, y segundo, no hay garantía de que las autoridades no la hayan encontrado y llevado, o que no hayan dejado una emboscada en el escondite.
+}
+GenQuests_Dialog_730 {
+Entonces reunámonos junto a @<XI_ConvertString> justo después de la medianoche. En mi situación actual, quedarse en los caminos es demasiado arriesgado. No queremos que la patrulla nos vea.
+}
+GenQuests_Dialog_731 {
+De acuerdo, espérame allí.
+}
+GenQuests_Dialog_732 {
+Lo siento, pero no me dejas otra opción. Un @<GetStrSmallRegister> no es suficiente para llevar toda la carga por la que sacrifiqué una carrera prometedora y por la que ahora arriesgo mi vida. Además, a diferencia de ti, tu tripulación probablemente estará más que dispuesta a ayudarme a cambio de su parte.
+}
+GenQuests_Dialog_733 {
+¿Y qué sugieres?
+}
+GenQuests_Dialog_734 {
+Me quedaré con tu barco y te dejaré varado en la costa @<XI_ConvertString>.
+}
+GenQuests_Dialog_735 {
+Dudo que lo consigas. Volveré a mi barco, aunque tenga que acabar con toda tu tripulación para lograrlo.
+}
+GenQuests_Dialog_736_m {
+Parece que tampoco me dejas otra opción. Bien, no me queda más remedio que recurrir a la violencia…
+}
+GenQuests_Dialog_736_f {
+Parece que tampoco me dejas otra opción. Entonces, no me queda más remedio que ceder ante la violencia…
+}
+GenQuests_Dialog_737 {
+Capitán, tenemos que darnos prisa. Me temo que la patrulla podría vernos.
+}
+GenQuests_Dialog_738 {
+Bien, vamos, date prisa.
+}
+GenQuests_Dialog_739 {
+Capitán, ordene que bajen todos los botes. Tendremos que hacer más de un viaje, y me temo que una patrulla podría entrar en la bahía.
+}
+GenQuests_Dialog_740 {
+No te preocupes, todo saldrá bien. Las embarcaciones ya están llegando a la orilla.
+}
+GenQuests_Dialog_741 {
+¡Ah, maldición! Y ahora llegan los invitados...
+}
+GenQuests_Dialog_742 {
+Lo dicen por algo: habla del tonto y aparecerá...
+}
+GenQuests_Dialog_743 {
+Capitán, estamos buscando al criminal de guerra @<pchar>, que ha estado ocultando cargamento valioso a las autoridades. Muéstrenos sus documentos.
+}
+GenQuests_Dialog_744 {
+Oficial, ¿qué documentos? Solo desembarcamos para reponer nuestras reservas de agua dulce.
+}
+GenQuests_Dialog_745 {
+Y aquí está en persona, por lo que veo. Entreguen sus armas y síganme... Los dos.
+}
+GenQuests_Dialog_746 {
+Ah, oficial, llega en el peor momento...
+}
+GenQuests_Dialog_747 {
+Debemos darnos prisa antes de que lleguen los refuerzos. La carga está casi lista; tu parte es de @<pchar> piezas. @<GetStrSmallRegister>.
+}
+GenQuests_Dialog_748 {
+Excelente. Es hora de irnos. Ha sido un placer hacer negocios contigo.
+}
+GenQuests_Dialog_749 {
+Un favor más. Las autoridades seguramente enviarán a alguien tras nosotros—¿podrías escoltar mi barco hasta @<XI_ConvertString>, en @<XI_ConvertString>?
+}
+GenQuests_Dialog_750 {
+No, buen señor, de aquí en adelante cada uno por su cuenta. Adiós...
+}
+GenQuests_Dialog_751_m {
+Por supuesto que podría, si la recompensa es adecuada.
+}
+GenQuests_Dialog_751_f {
+Por supuesto que podría, si la recompensa lo merece.
+}
+GenQuests_Dialog_752 {
+Eso ni se pregunta. Estoy dispuesto a pagar @<FindMoneyString> por la escolta. Pero solo si no tardamos más de @<pchar> días. Eso es importante.
+}
+GenQuests_Dialog_753 {
+De acuerdo. Nos vamos de inmediato.
+}
+GenQuests_Dialog_754 {
+Capitán, estamos perdiendo el tiempo. Podrían descubrirnos en cualquier momento.
+}
+GenQuests_Dialog_755 {
+Capitán, el tiempo no está de nuestro lado. No lo olvide, me están buscando.
+}
+GenQuests_Dialog_756 {
+Capitán, no podemos permitirnos ningún retraso. Mi @<GetStrSmallRegister> llama demasiado la atención para la patrulla.
+}
+GenQuests_Dialog_757 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_758 {
+Sí, tienes razón, debemos darnos prisa...
+}
+GenQuests_Dialog_759 {
+Entonces suban a los botes sin más charla.
+}
+GenQuests_Dialog_760 {
+Eso es... Reúne a tu tripulación. Nos vamos.
+}
+GenQuests_Dialog_761 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_762 {
+Capitán, necesito hablar con mi tripulación.
+}
+GenQuests_Dialog_763 {
+Permiso concedido.
+}
+GenQuests_Dialog_764 {
+Saludos, capitán @<pchar>. Entonces, ¿trajo toda la carga? ¿Y dónde está el capitán @<pchar>?
+}
+GenQuests_Dialog_765_m {
+@<pchar> ha muerto. Tuve que recurrir a los servicios de este caballero. Permítame presentarle al capitán @<pchar>.
+}
+GenQuests_Dialog_765_f {
+@<pchar> ha muerto. Tuve que pedir la ayuda de esta dama. Permítame presentarle al capitán @<pchar>.
+}
+GenQuests_Dialog_766_m {
+¿Qué clase de tipo es? ¿Sabe algo sobre nuestro asunto?
+}
+GenQuests_Dialog_766_f {
+¿Y quién es ella? ¿Sabe algo de nuestro asunto?
+}
+GenQuests_Dialog_767_m {
+En términos generales, sí. Pero hay un problema: está convencido de que la mitad de la carga le pertenece. Tenemos que convencerlo de que no es exactamente así.
+}
+GenQuests_Dialog_767_f {
+En general, sí. Pero hay un problema: está convencida de que la mitad de la carga le pertenece. Tenemos que convencerla de que no es así.
+}
+GenQuests_Dialog_768_m {
+Estimado @<GetFullName>, ya ha escuchado todo lo necesario. Necesitamos acceder a su bodega.
+}
+GenQuests_Dialog_768_f {
+Estimado @<GetFullName>, ya ha escuchado todo lo necesario. Necesitamos acceder a su bodega.
+}
+GenQuests_Dialog_769 {
+¿Crees que mi tripulación se quedará de brazos cruzados mientras un grupo de desarrapados saquea su bodega?
+}
+GenQuests_Dialog_770 {
+Me parece justo. Un pago en efectivo de, digamos, @<FindMoneyString> nos evitará el problema de enfrentarnos a tu tripulación. Ten en cuenta que eso es solo la mitad del valor de nuestra carga, así que es un trato razonable... Si aceptas, nadie saldrá herido.
+}
+GenQuests_Dialog_771 {
+¿Y si me niego?
+}
+GenQuests_Dialog_772 {
+Entonces la violencia será inevitable. Pero tú serás el primero en caer, encontrando la paz en esta tranquila cala, mientras que tu tripulación ni siquiera tendrá tiempo de ayudarte... ¿Qué te parece esa perspectiva?
+}
+GenQuests_Dialog_773_m {
+No me dejas otra opción. Me veo obligado a luchar.
+}
+GenQuests_Dialog_773_f {
+No me dejas otra opción. Me veo obligado a luchar.
+}
+GenQuests_Dialog_774 {
+Parece que no tengo otra opción. Aquí tienes tu oro.
+}
+GenQuests_Dialog_775_m {
+Bueno, una decisión digna de un verdadero caballero.
+}
+GenQuests_Dialog_775_f {
+Bueno, una elección digna de una valiente dama.
+}
+GenQuests_Dialog_776 {
+¡Basta de filosofar! ¡Vayamos al grano!
+}
+GenQuests_Dialog_777 {
+Una decisión sensata. Le deseo lo mejor.
+}
+GenQuests_Dialog_778 {
+Atrágantate...
+}
+GenQuests_Dialog_779 {
+Capitán @<GetFullName>, llegamos demasiado tarde. Confío en que entiende que no puede haber recompensa.
+}
+GenQuests_Dialog_780_m {
+Por supuesto que lo entiendo. Ya he ganado bastante gracias a ti. Adiós...
+}
+GenQuests_Dialog_780_f {
+Por supuesto que lo entiendo. Ya he ganado bastante gracias a ti. Adiós...
+}
+GenQuests_Dialog_781 {
+¿No invitarías a un viejo soldado, herido en feroces batallas navales por la gloria de la corona, a un poco de ron?
+}
+GenQuests_Dialog_782 {
+¡Rum para nosotros, tabernero!
+}
+GenQuests_Dialog_783 {
+Bueno, gracias, @<GetAddress_Form>, has honrado a un pobre alma que ha perdido la memoria...
+}
+GenQuests_Dialog_784 {
+Así que, ¿alguien que lo ha perdido, eh?
+}
+GenQuests_Dialog_785_m {
+Desapareció por completo, capitán—como si me hubieran dado un mazazo. No recuerdo nada, solo una bala encadenada volando directo a mi cabeza. Mire aquí, ¿ve el agujero que me dejó en el cráneo? Seguro que por ahí se me escaparon todos los recuerdos.
+}
+GenQuests_Dialog_785_f {
+Desapareció por completo, señora capitana—como si me hubieran dado un mazazo. No recuerdo nada, solo vi una bala encadenada volando directo a mi cabeza. Mire aquí, vea el agujero que me dejó en el cráneo. Debe ser que por ahí se me escapó toda la memoria.
+}
+GenQuests_Dialog_786_m {
+Amigo, guarda tus historias lacrimógenas para las amas de casa ingenuas. He visto lo que queda de la gente tras un impacto directo de metralla: sus recuerdos se van junto con sus cabezas. Y tú te has inventado toda una descarga de cadena para ti mismo... Mejor hablemos del capitán @<pchar>.
+}
+GenQuests_Dialog_786_f {
+Amigo, guarda tus historias lacrimógenas para las amas de casa ingenuas. He visto a gente después de recibir metralla de frente—sus recuerdos volaron junto con sus cabezas. Y tú te inventaste toda una descarga de cadena para ti mismo... Mejor hablemos del capitán @<pchar>.
+}
+GenQuests_Dialog_787 {
+Oh, es solo que hay que ganarse la vida de alguna manera... Y sobre el capitán @<pchar>, hablar de esa persona no es asunto mío. Si me dieran cien monedas por cada pregunta sobre él, tendría más oro que el gobernador recauda en todo el asentamiento en un año...
+}
+GenQuests_Dialog_788 {
+¿Y no intentaste vender la carga que el capitán escondió?
+}
+GenQuests_Dialog_789 {
+¿Mandaste a otro sabueso tras de mí, eh? ¡No recuerdo a ningún capitán @<pchar>! ¡Ya te lo dije—tengo la cabeza hecha un lío, y tengo los papeles que lo demuestran! ¿Qué más quieres?
+}
+GenQuests_Dialog_790_m {
+Está bien, está bien, cálmate. Mira, lo que pasa es que... llegué tarde. El capitán @<pchar> me pidió que te advirtiera que no fueras a ese asentamiento, ya que las autoridades se enteraron de las circunstancias de la muerte de @<GetStrSmallRegister> '@<pchar>, y te espera un arresto.
+}
+GenQuests_Dialog_790_f {
+Está bien, está bien, no te alteres. Mira, la cosa es... Bueno, llegué tarde. El capitán @<pchar> me pidió que te advirtiera que no vayas a ese asentamiento, porque las autoridades ya saben las circunstancias de la muerte de @<GetStrSmallRegister> '@<pchar>, y te espera un arresto.
+}
+GenQuests_Dialog_791 {
+Tch, deberías haberlo dicho desde el principio, en vez de andar con rodeos... Fui yo quien le pidió al capitán @<pchar> que interceptara nuestro @<GetStrSmallRegister> cuando regresaba de los astilleros de @<XI_ConvertString>. Lo remolcaron allí para reparaciones después de esa maldita batalla... ¿De dónde salió ese pirata con su @<GetStrSmallRegister>? Tantos de los nuestros perdieron la vida por su culpa—unos en combate, otros en la horca.
+}
+GenQuests_Dialog_792 {
+¿Y cómo lograste sobrevivir?
+}
+GenQuests_Dialog_793 {
+Por error. Sobreviví por mi propio error, así es la ironía del destino. Corté demasiado la mecha del polvorín, así que el bote no había avanzado mucho cuando la pólvora explotó. Y solo a mí la explosión me arrojó por la borda, aturdido por una astilla del resguardo... Los muchachos no pudieron encontrarme en la oscuridad, y cómo llegué a la orilla... sinceramente, no lo recuerdo.
+}
+GenQuests_Dialog_794 {
+¿Y cómo lograste salirte del interrogatorio?
+}
+GenQuests_Dialog_795 {
+Les dije que me quedé aturdido durante el abordaje, así que no sé nada de ninguna carga—ni siquiera había oído hablar de eso. Incluso fingí estar un poco atontado, dije que apenas acababa de recuperarme, justo antes de que @<GetStrSmallRegister> apareciera. Antes de eso, apenas podía moverme, no lograba mantener el equilibrio después del golpe.
+}
+GenQuests_Dialog_796 {
+Escucha, ¿quién terminó contando lo del cargamento?
+}
+GenQuests_Dialog_797 {
+Los piratas enviaron una carta al gobernador, fingiendo que era del comerciante agraviado. Querían vengarse del capitán por su terquedad. Si no hubiera sido por su obstinación, no habríamos alcanzado a @<GetStrSmallRegister>... y el capitán—temerario como era—seguiría vivo.
+}
+GenQuests_Dialog_798 {
+Entonces, ¿cómo te encontraste con ese pirata?
+}
+GenQuests_Dialog_799 {
+Ni idea... Solo era una patrulla de rutina, un barco común navegando bajo la bandera de @<NationNameGenitive>. No sé por qué el capitán decidió inspeccionarlo. El barco no respondió a nuestro disparo de advertencia, y cuando lo alcanzamos, los piratas izaron la Black Roger. Ya estábamos lejos del fuerte, así que la cosa se puso fea. Luego hubo una pelea durante el abordaje... Todavía no entiendo cómo logramos salir victoriosos.\nBueno, cuando bajamos a la bodega y la vimos llena de @<GetStrSmallRegister>, ahí fue cuando empezó el verdadero caos. Debió de ser el mismo diablo quien nos mandó ese botín... Tuvimos que descargar la carga en la costa y volar la @<GetStrSmallRegister>; el barco estaba escorado casi hasta la borda, y el aparejo también estaba muy dañado...
+}
+GenQuests_Dialog_800 {
+¿No temes que todos tus esfuerzos y sacrificios sean en vano si los hombres del gobernador encuentran el escondite?
+}
+GenQuests_Dialog_801 {
+No lo van a encontrar. Volé la entrada de la cueva tan herméticamente que ni un mosquito podría pasar—al fin y al cabo, soy el mejor experto en explosivos de toda la escuadra. Si alguien llega a encontrarlo, solo serán los contrabandistas; ellos conocen cada rincón de esta isla.\nMira, he estado dándole vueltas a qué hacer con esta carga, sobre todo después de la ejecución de la tripulación. Solo, no puedo venderla ni sacarla de la isla, y nadie quiere hacer negocios serios con alguien que ha quedado aturdido por las explosiones... No quiero lucrar con la muerte de mis compañeros, pero por @<FindMoneyString> te muestro el escondite—con la condición de que, después de cargarlo, me lleves al asentamiento en @<XI_ConvertString>.
+}
+GenQuests_Dialog_802_m {
+De acuerdo. Aquí tienes el dinero. Ahora te toca a ti.
+}
+GenQuests_Dialog_802_f {
+De acuerdo. Aquí tienes el dinero. Ahora te toca a ti.
+}
+GenQuests_Dialog_803 {
+¡Maldita sea! Quédate aquí, ahora mismo traigo el dinero.
+}
+GenQuests_Dialog_804 {
+Pides demasiado, amigo. Y de todas formas, no tengo el barco adecuado para eso. Buena suerte y adiós...
+}
+GenQuests_Dialog_805 {
+Entonces está decidido. Nos vemos esta noche después de la medianoche cerca de @<XI_ConvertString>. Y asegúrate de tener espacio en tu bodega para @<pchar> unidades de @<GetStrSmallRegister>. Sería una pena dejar atrás algo por lo que tanto trabajamos…
+}
+GenQuests_Dialog_806 {
+Me encargaré de eso, seguro. Nos vemos en la cala...
+}
+GenQuests_Dialog_807 {
+Así que por fin has llegado. Ya empezaba a preocuparme. Pensé que tal vez me entregarías a las autoridades, con todo y agallas.
+}
+GenQuests_Dialog_808_m {
+Todavía no he perdido la cabeza. Aquí tienes el dinero. Ahora te toca a ti.
+}
+GenQuests_Dialog_808_f {
+Todavía no he perdido la cabeza. Aquí tienes el dinero. Ahora te toca a ti.
+}
+GenQuests_Dialog_809 {
+Entonces, ¿dónde está el dinero?
+}
+GenQuests_Dialog_810 {
+¡Maldita sea! Quédate ahí, ahora mismo te lo llevo.
+}
+GenQuests_Dialog_811 {
+Capitán, parece que llegamos demasiado tarde. Los contrabandistas ya han llegado al escondite.
+}
+GenQuests_Dialog_812_m {
+No tengo intención de dejar que mi premio se me escape, aunque venga el mismo diablo por él.
+}
+GenQuests_Dialog_812_f {
+No pienso dejar que mi recompensa se me escape, aunque venga el mismo diablo por ella.
+}
+GenQuests_Dialog_813_m {
+¡Maldita sea! Me lavo las manos de esto; encárgate tú mismo de tus rivales.
+}
+GenQuests_Dialog_813_f {
+¡Maldita sea! Me lavo las manos de esto—arregla tus problemas con tus rivales tú mismo.
+}
+GenQuests_Dialog_814 {
+Capitán, tenemos asuntos importantes aquí. Será mejor que retire su escuadrón antes de que lleguen nuestros barcos para cargar.
+}
+GenQuests_Dialog_815 {
+Señores, parece que intentan llevarse algo que no les pertenece.
+}
+GenQuests_Dialog_816 {
+¡Oye! ¿Con quién estás hablando ahora?
+}
+GenQuests_Dialog_817 {
+Contigo, querida. Las mercancías que pretendes reclamar ya tienen dueño, cuyos intereses represento en este momento.
+}
+GenQuests_Dialog_818 {
+¡Aunque fueras el propio Mesías, no te dejaremos entrometerte en nuestros asuntos! ¡Despeja el canal si valoras tu vida!
+}
+GenQuests_Dialog_819 {
+¿No lo entiendes? Esta carga es mía y no me iré sin ella.
+}
+GenQuests_Dialog_820 {
+¡Maldito seas! ¡Entonces te quedarás aquí para siempre!..
+}
+GenQuests_Dialog_821 {
+¡Veamos quién se queda aquí!
+}
+GenQuests_Dialog_822 {
+Capitán, ordene que se apuren— una patrulla podría aparecer en cualquier momento. Y esos contrabandistas claramente estaban esperando un barco para cargar su mercancía.
+}
+GenQuests_Dialog_823 {
+Por supuesto, vamos rápido... Carguen la mercancía en las bodegas, deprisa, y salgamos de aquí.
+}
+GenQuests_Dialog_824 {
+Gracias, capitán @<GetFullName>. Si no fuera por usted, nuestra carga habría terminado en manos de los contrabandistas, y ni siquiera tendríamos algo para recordar a los muchachos que dieron la vida por ella...
+}
+GenQuests_Dialog_825 {
+Gracias por confiar en mí.
+}
+GenQuests_Dialog_826 {
+Tengo algo pequeño que quizá sea la razón por la que sigo vivo. Quiero dártelo como amuleto. Tómalo, y adiós.
+}
+GenQuests_Dialog_827_m {
+Gracias por el regalo, no me lo esperaba. Deberías curarte antes de quedarte sin dinero.
+}
+GenQuests_Dialog_827_f {
+Gracias por el regalo, no me lo esperaba. Deberías cuidar tu salud antes de quedarte sin dinero.
+}
+GenQuests_Dialog_828 {
+Parece que hoy es mi día de recibir visitas... Supongo que has venido a verme.
+}
+GenQuests_Dialog_829 {
+Si eres el capitán @<pchar>, entonces estoy aquí por ti.
+}
+GenQuests_Dialog_830 {
+...antiguo capitán @<pchar>...
+}
+GenQuests_Dialog_831 {
+Soy @<GetFullName>, y tengo un par de preguntas.
+}
+GenQuests_Dialog_832 {
+¿Y por qué crees que voy a responderlas?
+}
+GenQuests_Dialog_833_m {
+El capitán @<pchar> me pidió que te advirtiera que las autoridades ya conocen las circunstancias de la muerte de @<GetStrSmallRegister> '@<pchar>', pero no logré interceptar tu @<GetStrSmallRegister> en el camino desde @<XI_ConvertString>.
+}
+GenQuests_Dialog_833_f {
+El capitán @<pchar> me pidió que te advirtiera que las autoridades se han enterado de las circunstancias de la muerte de @<GetStrSmallRegister> '@<pchar>', pero no logré interceptar a tu @<GetStrSmallRegister> en el camino desde @<XI_ConvertString>.
+}
+GenQuests_Dialog_834 {
+¿Y dónde está el propio capitán @<pchar>?
+}
+GenQuests_Dialog_835 {
+Está muerto.
+}
+GenQuests_Dialog_836 {
+Ajá... Así que de eso se trata. Bueno, eso lo explica todo... Así que alguien contó que despachamos a @<GetStrSmallRegister>. Tarde o temprano encontrarán la carga, y entonces me ahorcarán. El capitán @<pchar> está muerto, así que ya no queda nadie que pueda ayudarme\nExcepto tú\nCapitán @<GetFullName>, sáqueme de aquí y le recompensaré generosamente.
+}
+GenQuests_Dialog_837 {
+El propietario de la carga ha presentado un informe al gobernador. Se mencionan cifras impresionantes.
+}
+GenQuests_Dialog_838 {
+Pero no esperarás que te ayude a ciegas, ¿verdad?
+}
+GenQuests_Dialog_839 {
+Se ha presentado un informe al gobernador a nombre del propietario de la carga. Las cifras mencionadas allí son bastante considerables.
+}
+GenQuests_Dialog_840 {
+Se rumorea en la colonia que tienes tratos con contrabandistas...
+}
+GenQuests_Dialog_841 {
+Veo que tendré que contarte todo desde el principio, para que no tengas dudas sobre mí.\nDurante una de mis patrullas, me crucé con un barco que navegaba bajo la bandera de @<NationNameGenitive>. Mi orden de detenerse fue ignorada. Tras una breve persecución, cuando alcanzamos al @<sTemp> '@<pchar>', los fugitivos izaron la bandera pirata. Como ya estábamos lejos del fuerte, tuve que enfrentarlos solo. Nuestro bauprés resultó dañado, así que no pudimos evitar el abordaje.\nYa nos habíamos resignado a morir, pero gracias a la Virgen María y a un pelotón de mosqueteros, logramos acabar con los piratas. Imagina nuestra alegría al descubrir que la bodega estaba repleta de @<GetStrSmallRegister>. Lo tomamos como una señal de Dios y una justa compensación por nuestras heridas y la pérdida de nuestros compañeros.\nPara entonces, ya había oscurecido. Entramos en la bahía más cercana, descargamos la mercancía en la orilla y la escondimos bien, luego llevamos el barco mar adentro y lo volamos. A la mañana siguiente, informé de la destrucción del barco pirata, pero no mencioné nada sobre lo que había en la bodega.
+}
+GenQuests_Dialog_842 {
+No creo que tengas motivos para mentirme... Así que aquí tienes mi propuesta: me enseñas el escondite y te llevo a cualquier lugar del archipiélago que quieras.
+}
+GenQuests_Dialog_843 {
+Ja-ja-ja... No, capitán, no me iré del asentamiento sin mi parte, aunque eso signifique acabar en la horca.
+}
+GenQuests_Dialog_844 {
+De acuerdo. Recibirás tu parte.
+}
+GenQuests_Dialog_845 {
+Hmm... No voy a arriesgar el cuello por tu bienestar. Adiós...
+}
+GenQuests_Dialog_846 {
+Así está mejor. Ahora sí estoy listo para enfrentarme al diablo.\nPrimero, tienes que esconderme a bordo de tu barco. Una vez allí, te mostraré la bahía donde está escondido el botín.
+}
+GenQuests_Dialog_847 {
+Entonces nos movemos rápido y coordinados: yo abriré la celda y tú me sigues. No te quedes atrás y no digas nada hasta que salgamos del fuerte.
+}
+GenQuests_Dialog_848 {
+Gracias por salvarme. Ahora tenemos que ir a @<XI_ConvertString>, donde te mostraré la ubicación del escondite. Pero debemos darnos prisa antes de que los rastreadores lleguen.
+}
+GenQuests_Dialog_849 {
+¿Estás seguro de que podemos llevarnos toda la mercancía?
+}
+GenQuests_Dialog_850 {
+Sí, tienes razón, debemos asegurarnos de que haya espacio en tus bodegas para @<pchar> unidades de @<GetStrSmallRegister>. El botín resultó ser considerable, y sería una lástima perder una carga ganada a costa de tantas vidas. No tendremos una segunda oportunidad para mover esta mercancía.
+}
+GenQuests_Dialog_851 {
+Me aseguraré de ello.
+}
+GenQuests_Dialog_852 {
+Capitán, no necesitamos testigos. Intente sacar a estas personas de la bahía.
+}
+GenQuests_Dialog_853 {
+De acuerdo, nos encargaremos ahora...
+}
+GenQuests_Dialog_854 {
+Capitán, ha elegido un mal lugar para pasear. Este muelle ya está ocupado.
+}
+GenQuests_Dialog_855_m {
+Señores, no he venido aquí para admirar el paisaje. Tengo asuntos que atender.
+}
+GenQuests_Dialog_855_f {
+Señores, no he venido aquí para admirar el paisaje. Tengo asuntos que atender.
+}
+GenQuests_Dialog_856 {
+Tampoco estamos aquí para atrapar medusas—da la vuelta a tu escuadrón y llévala a favor del viento.
+}
+GenQuests_Dialog_857 {
+No tengo ni el tiempo ni las ganas de convencerte. O te vas ahora y vives feliz para siempre, o te quedas aquí... para siempre.
+}
+GenQuests_Dialog_858 {
+Veo que las palabras no te llegan. Muy bien, prepárate...
+}
+GenQuests_Dialog_859 {
+Así sí...
+}
+GenQuests_Dialog_860 {
+Aquí estamos. El escondite está en una hendidura de esa roca de allí. La entrada está bloqueada por piedras. El botín contiene @<pchar> uds. de @<GetStrSmallRegister>. No habrás olvidado que la mitad es mía, ¿verdad?
+}
+GenQuests_Dialog_861_m {
+No lo he olvidado. Mientras mi tripulación se encarga de la carga, averigüemos a dónde deben ir tú y tu mercancía.
+}
+GenQuests_Dialog_861_f {
+No lo he olvidado. Mientras mi tripulación se encarga de la carga, veamos a dónde deben ir tú y tu mercancía.
+}
+GenQuests_Dialog_862 {
+Bueno, está bien. Ahora dime, ¿por qué motivo debería compartir contigo?
+}
+GenQuests_Dialog_863_m {
+Capitán @<pchar>, me temo que tengo malas noticias para usted. De verdad estoy actuando por orden del gobernador. Pienso entregar toda la carga que ha ocultado. Y tendrá que volver a prisión y esperar allí su destino.
+}
+GenQuests_Dialog_863_f {
+Capitán @<pchar>, me temo que tengo malas noticias para usted. De verdad estoy actuando por orden del gobernador. Pienso entregar toda la carga que ha ocultado. Y tendrá que volver a prisión y esperar allí su destino.
+}
+GenQuests_Dialog_864 {
+Bueno, está bien. Mira, al principio pensaba entregarte a las autoridades, pero luego pensé: ¿para qué iba a hacer eso, y encima compartir contigo?
+}
+GenQuests_Dialog_865 {
+Necesito llegar a @<XI_ConvertString>, que está en @<XI_ConvertString>, en @<pchar> días. Mi gente debería haber organizado la venta de las mercancías allí.
+}
+GenQuests_Dialog_866 {
+Muy bien. Es hora de irnos.
+}
+GenQuests_Dialog_867 {
+Sí... “No importa lo que la vida nos enseñe, el corazón sigue creyendo en los milagros...” Anótalo, o lo olvidarás.\nDe verdad eres un canalla, capitán. No me dejas otra opción que matarte por tu traición.
+}
+GenQuests_Dialog_868 {
+Bueno, eso es si tienes suerte...
+}
+GenQuests_Dialog_869 {
+Sí... “No importa lo que la vida nos enseñe, el corazón sigue creyendo en los milagros...” Anótalo, o lo olvidarás.\nAunque no esperaba que las cosas terminaran así, siempre estoy listo para pelear. Tendrás que responder por tu traición.
+}
+GenQuests_Dialog_870 {
+A su servicio...
+}
+GenQuests_Dialog_871 {
+Parece que llegamos demasiado tarde... Los compradores no esperaron, y no hay manera de que pueda encargarme solo de almacenar y vender la mercancía...
+}
+GenQuests_Dialog_872 {
+¿Tienes alguna sugerencia específica sobre este asunto?
+}
+GenQuests_Dialog_873 {
+Capitán @<GetFullName>, me resulta un poco incómodo pedirlo, pero ¿podría pagarme mi parte en oro? Creo que @<FindMoneyString> sería un acuerdo justo.
+}
+GenQuests_Dialog_874 {
+Sí, es un precio justo. No tengo objeciones. Toma tu dinero y sigue tu camino.
+}
+GenQuests_Dialog_875 {
+Oiga, buen señor, eso no fue lo que acordamos. No puedo estar cuidándolo para siempre. Si no quiere llevarse la carga, me la quedaré yo sin ningún remordimiento. Ya encontraré la forma de guardarla y venderla, no se preocupe.
+}
+GenQuests_Dialog_876 {
+Espere, capitán. Quiero agradecerle por salvarme. Había perdido toda esperanza... Esto le será útil en muchas situaciones... Y ahora, adiós.
+}
+GenQuests_Dialog_877_m {
+Gracias. No me lo esperaba. Ha sido un placer hacer negocios contigo.
+}
+GenQuests_Dialog_877_f {
+Gracias. No me lo esperaba. Ha sido un placer hacer negocios contigo.
+}
+GenQuests_Dialog_878 {
+No esperaba algo así de ti... Parece que no me queda más remedio que retarte a un duelo.
+}
+GenQuests_Dialog_879 {
+A su servicio...
+}
+GenQuests_Dialog_880 {
+Capitán, necesito hablar con mi tripulación.
+}
+GenQuests_Dialog_881 {
+Permiso concedido.
+}
+GenQuests_Dialog_882 {
+Saludos, capitán @<GetFullName>. Entonces, ¿trajo toda la carga? ¿Y dónde está el capitán @<pchar>?
+}
+GenQuests_Dialog_883_m {
+@<pchar> fue asesinado y me arrestaron tras una denuncia. Sinceramente, si el capitán @<pchar> no me hubiera ayudado, ahora no me verías ni a mí ni a la mercancía.
+}
+GenQuests_Dialog_883_f {
+Mataron a @<pchar>, y me arrestaron tras una denuncia. Sinceramente, si el capitán @<pchar> no me hubiera ayudado, ahora no me verías ni a mí ni a la mercancía.
+}
+GenQuests_Dialog_884_m {
+¿Qué clase de tipo es? ¿Sabe algo de nuestro asunto?
+}
+GenQuests_Dialog_884_f {
+¿Y quién es ella? ¿Sabe algo de nuestro asunto?
+}
+GenQuests_Dialog_885_m {
+Más que eso. Me sacó de la cárcel y aceptó traer la mitad de la carga aquí; le prometí la otra mitad como pago por su ayuda.
+}
+GenQuests_Dialog_885_f {
+Más que eso. Ella me sacó de la cárcel y aceptó traer la mitad de la carga aquí; le prometí la otra mitad como pago por su ayuda.
+}
+GenQuests_Dialog_886_m {
+¡Oh no, capitán, ahora ese es su problema! Le advertí desde el principio que deberíamos esconder el @<GetStrSmallRegister> en un lugar seguro, pero usted estaba demasiado ocupado persiguiendo su carrera. Ahora mire, su preciado gobernador lo ha metido en la cárcel. Y su parte en este trabajo nunca fue ni la mitad, así que debería haberse conformado con eso. ¡No nos jugamos el cuello bajo el fuego de los cañones solo para que un advenedizo se quedara con la mitad del botín para sí mismo!
+}
+GenQuests_Dialog_886_f {
+¡Oh no, capitán, ese es tu problema ahora! Te lo dije desde el principio: deberíamos haber llevado a @<GetStrSmallRegister> a un lugar seguro, pero estabas demasiado ocupado persiguiendo tu carrera. Ahora mírate: tu preciado gobernador te ha metido en la cárcel. Y tu parte en este trabajo nunca fue ni la mitad, ¡así que deberías haberte conformado con eso! Nos jugamos el cuello bajo el fuego de los cañones, ¡no para que una chica se fuera con la mitad del botín!
+}
+GenQuests_Dialog_887_m {
+Escucha, contramaestre, ¿olvidaste que @<GetStrSmallRegister> tenía la vela mayor destrozada? ¿Y también se te olvidó la escora hasta la borda? ¿Te das cuenta de que si no le hubiera dado la mitad a este hombre, antes verías nevar por aquí que recibir alguna mercancía?
+}
+GenQuests_Dialog_887_f {
+Escucha, contramaestre, ¿olvidaste que @<GetStrSmallRegister> tenía la vela mayor destrozada? ¿Y también se te olvidó la escora hasta la borda? ¿Te das cuenta de que si no le hubiera dado la mitad, antes verías nevar aquí que conseguir la mercancía?
+}
+GenQuests_Dialog_888 {
+Hablas muy bien, pero no me vas a engañar. ¿Cómo sabemos que ustedes dos no están compinchados? ¡Quizás ni siquiera hubo un arresto! ¿O fue la avaricia la que te hizo ir tras el botín de los marineros? ¿O acaso crees que hemos olvidado cómo manejar nuestras espadas?
+}
+GenQuests_Dialog_889 {
+Veo que has perdido completamente la cabeza; seguro que ya escuchas el tintinear de los doblones en tus oídos.
+}
+GenQuests_Dialog_890_m {
+¡Hermanos! ¡Miren cómo canta ahora nuestro capitán! Así es como la avaricia cambia a un hombre. ¡Vendió nuestra parte a un sinvergüenza!
+}
+GenQuests_Dialog_890_f {
+¡Hermanos! ¡Miren cómo ha cambiado el tono de nuestro capitán! Así es como la avaricia transforma a un hombre. ¡Vendió nuestra parte a esa aventurera!
+}
+GenQuests_Dialog_891 {
+¡Cierra esa boca sucia! ¡O te haré callar para siempre!..
+}
+GenQuests_Dialog_892 {
+Lo siento, capitán, que haya tenido que presenciar y ser parte de este triste espectáculo. Cuesta creer que hace apenas un mes éramos una sola tripulación, dispuestos a dar la vida por un compañero.
+}
+GenQuests_Dialog_893 {
+Lo admito, ni siquiera mi imaginación puede llegar a imaginar algo así.
+}
+GenQuests_Dialog_894 {
+Lamentablemente, ahora no tengo manera de organizar por mi cuenta el almacenamiento y la venta de la mercancía...
+}
+GenQuests_Dialog_895 {
+¿Tienes alguna sugerencia concreta sobre eso?
+}
+GenQuests_Dialog_896 {
+Capitán @<GetFullName>, me siento un poco incómodo al pedirlo, pero ¿podría pagar mi parte en oro? Creo que @<FindMoneyString> sería un compromiso justo.
+}
+GenQuests_Dialog_897 {
+Muy bien entonces. No me importa. Toma tu dinero y sigue tu camino.
+}
+GenQuests_Dialog_898 {
+No, esa propuesta no me conviene. Puedes llevarte la carga o dejarla en la bodega, pero no te daré ningún dinero.
+}
+GenQuests_Dialog_899 {
+Espera, quiero darte las gracias por salvarme. Había perdido toda esperanza... Aquí tienes algo que te será útil en muchas ocasiones... Y ahora, adiós.
+}
+GenQuests_Dialog_900_m {
+Gracias. No me lo esperaba. Ha sido un placer hacer negocios contigo.
+}
+GenQuests_Dialog_900_f {
+Gracias. No me lo esperaba. Ha sido un placer hacer negocios contigo.
+}
+GenQuests_Dialog_901 {
+Espera... He estado pensando. Mi carrera ya terminó, mi tripulación se fue y en casa soy un paria. Pero podrías necesitar gente leal que sepa manejar una espada y guardar silencio. Llévame contigo, no te arrepentirás.
+}
+GenQuests_Dialog_902_m {
+Para ser sincero, he estado esperando mucho tiempo a que dieras este paso. Por supuesto que lo aceptaré. Nos vemos a bordo.
+}
+GenQuests_Dialog_902_f {
+Para ser sincero, he estado esperando mucho tiempo a que te decidieras. Por supuesto que lo aceptaré. Nos vemos a bordo.
+}
+GenQuests_Dialog_903 {
+Hmm... Creo que eres demasiado inteligente para estar bajo las órdenes de otra persona. Adiós...
+}
+GenQuests_Dialog_904 {
+Bueno, parece que hoy no es mi día... Capitán, desenfundemos las espadas y resolvamos esto de una vez por todas...
+}
+GenQuests_Dialog_905 {
+A su servicio...
+}
+GenQuests_Dialog_906 {
+Eso no es asunto tuyo. Dímelo ahora mismo, ¿qué andas buscando? ¿Estás buscando a la misma persona que acabamos de detener?
+}
+GenQuests_Dialog_907 {
+¿Una persona? No...
+}
+GenQuests_Dialog_908_m {
+Y eso es bueno... Para ti... De lo contrario, estarías pudriéndote en una celda junto a él. Ahora, no te interpongas, marinero. Y no te atrevas a distraerme otra vez...
+}
+GenQuests_Dialog_908_f {
+Y eso es bueno... Para ti... De lo contrario, estarías pudriéndote en la cárcel con él. Ahora no te interpongas en nuestro camino, chica marinera. Y no te atrevas a distraerme otra vez...
+}
+GenQuests_Dialog_909 {
+Sí, será mejor que me vaya...
+}
+GenQuests_Dialog_910 {
+¡Excelente! Tenemos que ir a la taberna para ver al contrabandista de inmediato; preferiría no quedarme aquí más tiempo.
+}
+GenQuests_Dialog_911 {
+No veo ningún problema. Vamos...
+}
+GenQuests_Dialog_912_m {
+Je, je... Parece que, muchacho, vas a irte al infierno con él... Oye, amigo, ¡vamos a destriparlos!
+}
+GenQuests_Dialog_912_f {
+Je, je... Parece que vas al infierno con él, muchacha... Oye, amigo, ¡vamos a destriparlos!
+}
+GenQuests_Dialog_913 {
+¡Ah, cerdo asqueroso! ¡Defiéndete!
+}
+GenQuests_Dialog_914 {
+Gracias una vez más, @<PChar>. Adiós...
+}
+GenQuests_Dialog_915 {
+¿Recompensas? Ah, sí, por supuesto... Toma @<FindMoneyString> y sigue tu camino...
+}
+GenQuests_Dialog_916 {
+Nos vemos...
+}
+GenQuests_Dialog_917 {
+¿Y crees que vamos a tragarnos esa tontería? Muy bien, muchachos, ¡agarren a estos dos desgraciados!
+}
+GenQuests_Dialog_918 {
+Oficial, créame, está cometiendo un grave error y tratando de arrestar a personas inocentes. Le aseguro que no conozco a esta persona en absoluto, ni deseo hacerlo. Creo que su comandante estará muy disgustado si arresta a dos ciudadanos respetuosos de la ley...
+}
+GenQuests_Dialog_919 {
+Ejem, sí, probablemente tienes razón. El comandante estará muy disgustado. ¿Sabes qué? Mejor olvidemos este pequeño malentendido.
+}
+GenQuests_Dialog_920 {
+Gracias, oficial, nos has ahorrado algo de tiempo. En el futuro, te pido que seas más atento; seguro que no querrás perder ese alto rango tuyo, ¿verdad, oficial?
+}
+GenQuests_Dialog_921 {
+En absoluto, no deseo eso. Ahora debo pedirle que se retire. Que tenga un buen día...
+}
+GenQuests_Dialog_922 {
+¡Así sí!
+}
+GenQuests_Dialog_923 {
+Excelente. ¡Ahora lárgate!
+}
+GenQuests_Dialog_924 {
+¡¿Qué?! ¿Y el dinero? Teníamos un trato...
+}
+GenQuests_Dialog_925 {
+Gracias por la entrega. Ahora puedes... Hmm, alguien se acerca...
+}
+GenQuests_Dialog_926 {
+¡¿Qué?!
+}
+GenQuests_Dialog_927 {
+Excelente. Gracias por la entrega. Toma, @<FindMoneyString>. Y recuerda: los contrabandistas no olvidan a la buena gente...
+}
+GenQuests_Dialog_928 {
+Eso espero de verdad. Adiós.
+}
+GenQuests_Dialog_929 {
+Escucha bien: tú y yo no hicimos ningún trato. Quien haya hecho un trato contigo, ese es quien te debe dinero.
+}
+GenQuests_Dialog_930 {
+Hoy no es mi día de suerte, ¿qué más puedo decir? Está bien, adiós...
+}
+GenQuests_Dialog_931 {
+@<RandSwear> ¡Vas a pagar por eso! ¡Prepárate para morir!
+}
+GenQuests_Dialog_932_m {
+¿Te atreves a desafiarme, mocoso? Pues ese es tu error. ¡Te destriparé aquí mismo!
+}
+GenQuests_Dialog_932_f {
+¿Te atreviste a desafiarme, desgraciado? Pues ese fue tu error. ¡Te destriparé ahora mismo!
+}
+GenQuests_Dialog_933 {
+¡Quinientos hombres! ¡Y un cofre! cof... cof... de un muerto!.. ¡Hic!
+}
+GenQuests_Dialog_934 {
+¡Bebe—hip! El diablo te llevará a tu... hip... f-fin.
+}
+GenQuests_Dialog_935 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_936 {
+Oh... eh, sí. Saludos para usted, señor @<GetFullname>.
+}
+GenQuests_Dialog_937 {
+Veamos qué tenemos aquí... Tres rollos de lona y tablones para el casco, hay que reemplazar los bitones, y cuerdas nuevas para las brazas...
+}
+GenQuests_Dialog_938 {
+Saludos a usted, señor @<GetFullName>. Soy el capitán @<PChar>.
+}
+GenQuests_Dialog_939 {
+¡Bájate de mi barco, ya tengo suficientes problemas contigo!
+}
+GenQuests_Dialog_940 {
+¡Ya tienes los libros, ¿qué más quieres?!
+}
+GenQuests_Dialog_941 {
+Hice lo que me pediste, ¿qué más quieres de mí?
+}
+GenQuests_Dialog_942 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_943 {
+No te alteres tanto, o te vas a desmayar.
+}
+GenQuests_Dialog_944 {
+¡Ron, ron! Dame un poco de ron... ¡hip!
+}
+GenQuests_Dialog_945 {
+Hace mucho que no... ¡hip! me emborracho así...
+}
+GenQuests_Dialog_946 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_947 {
+Sí, la bodega está llena hasta el tope—¿es hora de poner rumbo al puerto?
+}
+GenQuests_Dialog_948 {
+¡Tome asiento, capitán! ¿Qué le sirvo de beber?
+}
+GenQuests_Dialog_949 {
+¡Venga a la mesa, capitán! ¿Qué va a tomar... hic?
+}
+GenQuests_Dialog_950 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_951_m {
+Gracias, pero prefiero tener una conversación agradable con una buena persona.
+}
+GenQuests_Dialog_951_f {
+Gracias, pero prefiero disfrutar de una conversación agradable con una buena persona.
+}
+GenQuests_Dialog_952 {
+¿Quieres insultarme?... hic... No hay ni un alma decente en toda esta taberna. Solo bandidos, malditos asesinos. Todos ustedes son unos chantajistas, y ese de allá—¡ese es el peor! El cabecilla. El jefe—¡ojalá una morena lo ahogue!
+}
+GenQuests_Dialog_953_m {
+En realidad, me refería a ti. Y contigo quería hablar. En cuanto a quién es el cabecilla de estos bandidos extorsionadores y lo que se le debe...
+}
+GenQuests_Dialog_953_f {
+En realidad, me refería a ti. Y contigo es con quien quería hablar. En cuanto a quién es el líder de estos bandidos extorsionadores y lo que ha hecho...
+}
+GenQuests_Dialog_954_m {
+¡Señor! ¡Buen hombre! ¿Cómo dijo que se llamaba? ¡Le tengo respeto! ¡Nadie jamás ha llamado a este viejo lobo de mar agradable o amable! ¡Vaya, yo… yo haría cualquier cosa por usted! ¡Todo! ¡Hasta mi último peso! Ah, pero… lo olvidé… Los piastras se han ido. Incluso los rouleaux se han ido. Justo ahora ese sinvergüenza, ese chupasangre, se llevó mi último rouleau—¡que los demonios del infierno carguen un mortero con sus tripas!
+}
+GenQuests_Dialog_954_f {
+¡Milady! ¡Querida dama! ¿Cómo dijo que se llamaba? ¡La respeto! ¡Nadie jamás ha llamado a este viejo lobo de mar agradable y amable! ¡Por usted, yo… Por usted haría cualquier cosa! ¡Le daría todo! ¡Hasta mi último peso! Ah, pero olvidé… Ya no me quedan piastras. Ni siquiera los rouleaux. Justo ahora ese sinvergüenza, ese usurero, se llevó mi último rouleau—¡ojalá los demonios del infierno carguen un mortero con sus tripas!
+}
+GenQuests_Dialog_955 {
+Capitán, señor... ¿Debería llamar al médico? No se encuentra bien, tiene fiebre... Ahora está viendo unos pergaminos...
+}
+GenQuests_Dialog_956 {
+¡Eh, cuidado! El viejo capitán podrá estar borracho, pero todavía no ha perdido el juicio. Esos libros y pergaminos se los dio el padre de @<PChar>, y yo los estaba llevando a @<XI_ConvertString>. Así que, esta mañana pasé por la iglesia local y mencioné esos papeles. El padre de aquí mostró mucho interés en verlos, aunque fuera solo un momento. Ya sabes cómo son—no pueden resistirse a una buena lectura sobre sus santos y hombres sagrados. Entonces mandé a un grumete a buscar mi cofre de tesoros al barco. Mientras esperaba, logré perder todo lo que tenía apostando, lo perdí todo y aún debía por las bebidas. El posadero se dio cuenta enseguida, se quedó con los libros como garantía, y después también entregué los pergaminos...
+}
+GenQuests_Dialog_957 {
+¿Así que apostaste los manuscritos y pergaminos que el padre @<XI_ConvertString> te confió?
+}
+GenQuests_Dialog_958 {
+Sé que ahora estoy condenado a las llamas del infierno, porque no puedo presentarme ante el padre que me dio la tarea, ni ante aquel a quien llevaba estos papeles, ni ante el de aquí... ¿Quién rezará ahora por mi alma? ¿Quizás hasta me excomulguen de la Iglesia? Ay, qué desgracia la mía... Me vendría bien un trago...
+}
+GenQuests_Dialog_959_m {
+Vamos, no te lo tomes tan a pecho. Lo que hiciste fue vil e impío, pero estoy dispuesto a ayudarte. Pagaré tu deuda con el posadero y rescataré esos timones... esos manuscritos. Además, como conozco a ambos sacerdotes que mencionaste y voy directamente a @<XI_ConvertString>, entregaré estas obras a salvo en su destino. ¿Estás de acuerdo?
+}
+GenQuests_Dialog_959_f {
+Vamos, no te lo tomes tan a pecho. Lo que hiciste fue vil e impío, pero aún así estoy dispuesto a ayudarte. Pagaré tu deuda con el posadero y recuperaré esos… esos manuscritos. Además, como conozco a ambos sacerdotes que mencionaste y voy directo a @<XI_ConvertString>, entregaré estas obras a salvo en su destino. ¿Estás de acuerdo?
+}
+GenQuests_Dialog_960 {
+¡Salvador! Un ángel de Dios... Por supuesto que acepto. ¡Sí! Lo daré todo, todo lo que tengo, con ambas manos... si tan solo pudiera tomar otro trago...
+}
+GenQuests_Dialog_961 {
+Ya has tenido suficiente... pero no importa. Iré a hablar con el posadero y te pediré un poco de ron.
+}
+GenQuests_Dialog_962_m {
+...¡y las sábanas! ¡Hay que cambiar las sábanas!.. Ah, sí—saludos y todo eso. Sin ánimo de ofender, señor cómo-se-llame, pero estoy bastante ocupado en este momento, así que le pediría que vaya directo al grano sobre la nimiedad que lo trajo a bordo de mi barco.
+}
+GenQuests_Dialog_962_f {
+...¡y las sábanas! ¡Hay que cambiar las sábanas!.. Ah, sí—saludos y todo eso. No se ofenda, señora como-se-llame, pero estoy bastante ocupado en este momento, así que le pediría que vaya directo al grano sobre la nimiedad que la trajo a bordo de mi barco.
+}
+GenQuests_Dialog_963 {
+Ejem... Bueno, el asunto es realmente una nimiedad. Según tengo entendido, en @<XI_ConvertString> recibiste algunos textos teológicos del padre de @<PChar>, que aceptaste entregar en @<XI_ConvertString>, ya que ibas en esa dirección.
+}
+GenQuests_Dialog_964 {
+¡Iba en camino, sí! Pero esa maldita tormenta, maldición, casi acaba con mi viejo cascarón, y ahora estoy atrapado aquí, ¡quién sabe por cuánto tiempo! Esos bribones del muelle están deseando remendar mi casco con tablones podridos de naufragios arrastrados por la tormenta, y para las velas, colgarían cualquier trapo que lleva pudriéndose desde la época de sus bisabuelas.
+}
+GenQuests_Dialog_965_m {
+Eh... Señor, en otro momento me encantaría escuchar sus opiniones sobre la bisabuela de los estibadores locales, pero ahora quisiera saber qué pasó con los libros y manuscritos que recibió en @<XI_ConvertString>.
+}
+GenQuests_Dialog_965_f {
+Eh... Señor, en otro momento me encantaría escuchar su opinión sobre la bisabuela de los estibadores locales, pero ahora quisiera saber qué pasó con los libros y manuscritos que recibió en @<XI_ConvertString>.
+}
+GenQuests_Dialog_966 {
+¡Nadie—nadie, me oyes?! ¡Nadie se atreve a acusarme de retrasarme con la entrega de estos malditos papeles!
+}
+GenQuests_Dialog_967_m {
+¡Dios no lo quiera, ¿quién se atrevería?! Solo quería evitarte preocupaciones innecesarias. Lo que sucede es que el padre de @<PChar> está bastante preocupado porque los libros y manuscritos lleguen a su destino lo antes posible, y resulta que voy directo a @<XI_ConvertString>...
+}
+GenQuests_Dialog_967_f {
+¡Dios no lo quiera, quién se atrevería! Solo quería evitarte preocupaciones innecesarias. Lo que pasa es que el padre de @<PChar> está bastante preocupado porque los libros y manuscritos lleguen a su destino lo antes posible, y resulta que justo voy rumbo a @<XI_ConvertString>...
+}
+GenQuests_Dialog_968_m {
+Tengo la impresión, señor, de que en cada puerto tiene otro guía espiritual que le absuelve los pecados. Pero eso no es asunto mío. Si está tan inquieto con todos sus mentores, tome sus libros y márchese. ¡Buen viento!
+}
+GenQuests_Dialog_968_f {
+Me da la impresión, señora, de que en cada puerto tiene un nuevo consejero espiritual dispuesto a absolver sus pecados. Pero eso no es asunto mío. Si está tan inquieta con todos sus mentores, tome sus libros y márchese. ¡Le deseo buen viento!
+}
+GenQuests_Dialog_969 {
+Gracias, capitán, y le deseo una reparación sin contratiempos.
+}
+GenQuests_Dialog_970_m {
+Será mejor que no se preocupe en vano, señor, y vaya a @<XI_ConvertString> tranquilo, porque yo mismo me encargaré de entregar estos documentos, y lo haré cueste lo que cueste. ¡No hay bribón en el mundo que pueda decir que el capitán @<NPChar> no cumple su palabra!
+}
+GenQuests_Dialog_970_f {
+Le aconsejo que no se preocupe en vano, señora, y vaya a @<XI_ConvertString> tranquila, porque yo mismo me encargaré de entregar estos documentos, y lo haré cueste lo que cueste. ¡Ningún bribón podría decir que el capitán @<NPChar> no cumple su palabra!
+}
+GenQuests_Dialog_971 {
+Pero, capitán, ese no es el asunto...
+}
+GenQuests_Dialog_972 {
+La cuestión es que, en realidad, no tengo ningún asunto contigo. Tengo una encomienda del Santo Padre: entregar estos libros a @<XI_ConvertString> y dárselos al Padre de allí. ¿Qué tienes que ver tú en esto? Nada. No tienes nada que ver con esto. Buen día.
+}
+GenQuests_Dialog_973_m {
+He tolerado tu comportamiento grosero bastante tiempo, pero esta terquedad y descaro pondrían a prueba la paciencia de un santo, y ni hablar de alguien como yo. Tengo un deber que cumplir para mi confesor, y si no entregas lo que no te pertenece por las buenas, ¡tendré que sacar mi arma!
+}
+GenQuests_Dialog_973_f {
+He soportado tu grosería bastante tiempo, pero esta terquedad y descaro pondrían a prueba la paciencia de un santo, y ni hablar de alguien como yo. Debo cumplir con el encargo de mi confesor, y si no entregas lo que no te pertenece por las buenas, ¡tendré que sacar mi arma!
+}
+GenQuests_Dialog_974 {
+Tranquilo, tranquilo, capitán @<PChar>. Te estás alterando demasiado. Parece que es cierto: si no traes esos papeles, todos tus padres espirituales te van a regañar bien, y el Padre Celestial también pondrá lo suyo. Toma tus tesoros teológicos y ve con Dios.
+}
+GenQuests_Dialog_975_m {
+Me alegra que no solo hayas comprendido mi situación, sino que también recuerdes mi nombre. Te sugiero que lo repitas tres veces cada vez que tu mal genio empiece a poner en riesgo tu salud.
+}
+GenQuests_Dialog_975_f {
+Me alegra que no solo hayas entendido mi situación, sino que también recuerdes mi nombre. Te sugiero que lo repitas tres veces cada vez que tu mal genio empiece a afectar tu salud.
+}
+GenQuests_Dialog_976 {
+Lárgate de aquí...
+}
+GenQuests_Dialog_977 {
+¡No me molestes!
+}
+GenQuests_Dialog_978 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_979_m {
+¿De qué dinero hablas? Puede que no sea un santo, pero robar una iglesia es lo peor que se puede hacer.\nNo intentes convencerme, amigo. Vacía los bolsillos, ¡y rápido!
+}
+GenQuests_Dialog_979_f {
+¿De qué dinero hablas? Puede que no sea un santo, pero robar una iglesia es lo peor que se puede hacer.\nNo intentes convencerme, hermanita. Vacía los bolsillos, ¡y rápido!
+}
+GenQuests_Dialog_980 {
+¡De ninguna manera! Lo único que vas a recibir de mí son tres pulgadas de acero entre las costillas.
+}
+GenQuests_Dialog_981 {
+@<RandSwear> Ahora sí que no deberías haber dicho eso... Parece que tendré que enviarte con el Señor, ¡así podré expiar mis pecados!
+}
+GenQuests_Dialog_982 {
+@<RandSwear> Ahora sí que no deberías haber dicho eso... Supongo que tendré que enviarte con el Señor, para que reces por nuestros pecados.
+}
+GenQuests_Dialog_983 {
+@<RandSwear> Ahora sí que no deberías haber dicho eso... Parece que tendré que enviarte a ver al Señor, para que pidas perdón por los pecados de los dos.
+}
+GenQuests_Dialog_984 {
+De ninguna manera, amigo. Ante el Señor, cada uno responde por sí mismo.
+}
+GenQuests_Dialog_985 {
+No hace falta que te alteres, puede que tenga asuntos contigo.
+}
+GenQuests_Dialog_986 {
+¡Eso sí que es noticia! No pierdo palabras contigo.
+}
+GenQuests_Dialog_987 {
+No planeo conversar contigo mucho tiempo. Solo quería hacerte una oferta—¿quizás te interese comprar un par de baratijas? Te las dejamos a buen precio…
+}
+GenQuests_Dialog_988_m {
+¿Acaso parezco un perista para ti?
+}
+GenQuests_Dialog_988_f {
+¿Acaso parezco un perista para ti?
+}
+GenQuests_Dialog_989_m {
+Tranquilo, señor, aquí no hay ladrones. Conseguimos este jarrón trabajando honestamente. Mire, es de oro puro, incrustado con perlas. Pero nosotros no le damos uso. Queremos venderlo y repartir el dinero en partes iguales.
+}
+GenQuests_Dialog_989_f {
+Tranquila, señora, aquí no hay ladrones. Conseguimos este jarrón de manera justa, con trabajo honesto. Mire, es de oro puro, incrustado con perlas. Pero nosotros no le damos ningún uso. Solo queremos venderlo y repartir el dinero de forma justa.
+}
+GenQuests_Dialog_990_m {
+Déjame echar un vistazo más de cerca... ¡Vaya, mira eso! ¡Esto es un cáliz de comunión! ¡Así que ustedes son los herejes que robaron la iglesia en @<XI_ConvertString>! ¡Por fin los he encontrado!
+}
+GenQuests_Dialog_990_f {
+Déjame echar un vistazo más de cerca... ¡Vaya, mira eso! ¡¡¡Es un cáliz de comunión!!! ¿Así que ustedes son los blasfemos que robaron la iglesia en @<XI_ConvertString>? ¡Por fin los he encontrado!
+}
+GenQuests_Dialog_991_m {
+¡Tranquilo, señor puritano! Nos quedamos un poco cortos de dinero durante el viaje y pensamos en vender una que otra cosa. Mire este jarrón: oro puro, incrustado con perlas. Si es una persona decente, se lo dejamos barato... digamos, mil monedas.
+}
+GenQuests_Dialog_991_f {
+Tranquila, señorita recatada. Estamos algo justos después del viaje y pensamos vender un par de cosas. Mire este jarrón: oro puro, incrustado con perlas. Si es de buen corazón, se lo dejamos barato... digamos, mil monedas.
+}
+GenQuests_Dialog_992_m {
+Déjame echar un vistazo más de cerca... ¡Vaya, no puede ser! ¡Eso es un cáliz de comunión! ¡Así que ustedes son los herejes que robaron la iglesia en @<XI_ConvertString>! ¡Por fin los he encontrado!
+}
+GenQuests_Dialog_992_f {
+Déjame echar un vistazo más de cerca... ¡Vaya, mira nada más! ¡Esto es un cáliz de comunión! ¡Así que ustedes son los blasfemos que robaron la iglesia en @<XI_ConvertString>! ¡Por fin los he encontrado!
+}
+GenQuests_Dialog_993_m {
+¡Oiga, cuidado con las vueltas, señor!.. Maldición, le dije a ese tonto que no hiciera ruido antes de tiempo...
+}
+GenQuests_Dialog_993_f {
+¡Eh, tranquila, señora!.. Maldición, le dije a ese tonto que no hiciera ruido antes de tiempo...
+}
+GenQuests_Dialog_994 {
+¿Qué estás murmurando? Elige: o entregas lo robado por las buenas, o llamo a los guardias.
+}
+GenQuests_Dialog_995_m {
+Escuche, buen señor, no queremos problemas... Arreglemos esto en paz. Tiene que creerme: no robamos la iglesia y no tenemos dinero. Sí, nos dieron unos cuantos piastras y una baratija de oro por fingir el robo. Ese maldito cáliz es lo único que nos queda después de pagar a los contrabandistas...
+}
+GenQuests_Dialog_995_f {
+Escuche, señorita, no queremos problemas... Arreglemos esto en paz. Tiene que creerme: no robamos la iglesia y no tenemos dinero. Sí, nos dieron unas pocas piastras y una baratija de oro por simular el robo. Esa maldita copa es lo único que nos quedó después de pagarle a los contrabandistas...
+}
+GenQuests_Dialog_996 {
+¿Y quieres decir que…?
+}
+GenQuests_Dialog_997 {
+¡El maldito sacerdote nos contrató él mismo! ¡Pero, ¿por qué tuvo que enviarnos una persecución?! Bueno, ahora estamos a mano... Lleva el jarrón y muéstraselo al hombre santo, verás cómo se retuerce como un calamar en aguas poco profundas.
+}
+GenQuests_Dialog_998_m {
+Entrega el cáliz y lárgate antes de que cambie de opinión.
+}
+GenQuests_Dialog_998_f {
+Entrega el cáliz y lárgate antes de que cambie de opinión.
+}
+GenQuests_Dialog_999_m {
+Cantas bien. Pero no me dejo convencer tan fácilmente. Si quieres convencerme, primero convence a mi espada.
+}
+GenQuests_Dialog_999_f {
+Cantas bien. Pero no me dejo convencer tan fácilmente. Si quieres convencerme, primero convence a mi espada.
+}
+GenQuests_Dialog_1000 {
+@<RandSwear> Les dije a esos idiotas: mantengan sus manos codiciosas lejos y no le roben nada al sacerdote, salvo su dinero.
+}
+GenQuests_Dialog_1001 {
+@<RandSwear> ¡Ya les dije, malditos codiciosos: mantengan sus manos sucias lejos y no tomen nada del sacerdote, salvo su dinero!
+}
+GenQuests_Dialog_1002 {
+¿De qué estás murmurando? Elige: o entregas lo robado por las buenas, o llamo a los guardias.
+}
+GenQuests_Dialog_1003 {
+Elijo otra cosa: cierras la boca y me entregas lo que llevas en la bolsa, y yo te dejo conservar la vida.
+}
+GenQuests_Dialog_1004 {
+¡Ahora te concederé una audiencia con el Señor!
+}
+GenQuests_Dialog_1005 {
+Está bien, te daré algo de dinero, pero solo por buena voluntad. Así tú y tus amigos podrán empezar una vida honesta. Y no tendrán que rebajarse a robar una iglesia.
+}
+GenQuests_Dialog_1006 {
+Eh... Olvidemos nuestras diferencias y empecemos de nuevo. Entonces, ¿cuánto pedías por este objeto?
+}
+GenQuests_Dialog_1007 {
+Tampoco necesito más problemas, @<GetAddress_Form>, pero los precios han subido. Por este jarrón invaluable, me quedaré con todo lo que tienes.
+}
+GenQuests_Dialog_1008 {
+¡Malditos avaros!.. Solo tengo @<FindMoneyString> encima. ¡Tómenlo y lárguense!
+}
+GenQuests_Dialog_1009_m {
+Pero aquí fallaste, rata codiciosa—¡no vas a aprovecharte de mí! Soy como el viento libre, hoy aquí, mañana quién sabe—pobre hoy, rico mañana…
+}
+GenQuests_Dialog_1009_f {
+Pero aquí fallaste, rata codiciosa — ¡no vas a llenarte los bolsillos a mi costa!
+}
+GenQuests_Dialog_1010_m {
+¿Me estás diciendo que justo hoy, de todos los días, no tienes dinero?
+}
+GenQuests_Dialog_1010_f {
+¿No me digas que hoy, de todos los días, te has quedado sin dinero?
+}
+GenQuests_Dialog_1011_m {
+¡Oh sí, mi pobre y codicioso amigo! Para tu gran desilusión. Ahora debo marcharme; me esperan grandes hazañas.
+}
+GenQuests_Dialog_1011_f {
+¡Oh sí, mi pobre y codicioso amigo! Para tu gran desilusión. Y ahora debo marcharme: me esperan grandes hazañas.
+}
+GenQuests_Dialog_1012_m {
+¡Quieto! Vamos a comprobarlo ahora mismo, y si has mentido, te meteré la lengua mentirosa en un hormiguero.
+}
+GenQuests_Dialog_1012_f {
+¡Alto! Vamos a comprobarlo ahora mismo, y si mentiste, te meteré esa lengua mentirosa en un hormiguero.
+}
+GenQuests_Dialog_1013 {
+¡Después de esas palabras, no vivirás para ver otro día!
+}
+GenQuests_Dialog_1014 {
+No hay nada que decidir. Nos encargaremos de todo nosotros mismos. Solo tomaremos tu pequeño barco para poder salir de aquí.
+}
+GenQuests_Dialog_1015 {
+Con una condición: toma mi espada primero...
+}
+GenQuests_Dialog_1016 {
+¡Saludos, capitán! Sin duda fue Dios mismo quien lo envió a rescatar a @<PChar> y a su tripulación... Mis compañeros y yo estábamos en un verdadero aprieto. Nuestra @<GetStrSmallRegister> fue destrozada por una tormenta contra los arrecifes de la zona, y la marea arrastró lo que quedaba de la tripulación hasta esta costa desierta. Durante @<dRand> semanas enteras, forzamos la vista mirando el horizonte, esperando ver alguna vela pasar.
+}
+GenQuests_Dialog_1017 {
+Tienes mi simpatía. Pero así es la vida de marinero—cualquiera de nosotros podría haber estado en tu lugar.
+}
+GenQuests_Dialog_1018 {
+Lo entiendo... Todos estamos en manos del Señor, pero parece que Él tiene demasiadas preocupaciones para acordarse de cada uno de nosotros...
+}
+GenQuests_Dialog_1019 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1020 {
+Sí. El hombre propone, pero Dios dispone.
+}
+GenQuests_Dialog_1021 {
+Vaya, te has metido en un buen lío...
+}
+GenQuests_Dialog_1022 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1023 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1024 {
+¡¿Qué podría ser más grave?! ¡Ese canalla de @<PChar> no pudo imaginar un castigo peor que abandonar a @<ChangeNameCase> en una isla desierta, como a un gato sarnoso! Esperaba que el sol y la sed nos dejaran secos como caballa en el mercado. ¡Pero volvió a equivocarse: la Providencia estaba de nuestro lado y nos envió la salvación en forma de ti...
+}
+GenQuests_Dialog_1025 {
+No tan rápido, querida. Por lo que veo, son mercenarios, y su presencia aquí no es casualidad.
+}
+GenQuests_Dialog_1026_m {
+¿No es un poco pronto para hablar de rescate? Según tengo entendido, terminaste aquí por unos servicios bastante... especiales, por así decirlo.
+}
+GenQuests_Dialog_1026_f {
+¿No es un poco pronto para hablar de salvación? Según tengo entendido, llegaste aquí por unos méritos bastante… especiales, por así decirlo.
+}
+GenQuests_Dialog_1027 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1028 {
+Capitán, por favor, muéstrenos algo de compasión y ayude a las @<PiratesOnUninhabited_GetStringNum> almas desamparadas. No nos queda nadie más en quien confiar, salvo usted y el Señor.
+}
+GenQuests_Dialog_1029 {
+Capitán, ¿habría algún cofre de sobra en su barco para @<PiratesOnUninhabited_GetStringNum> pobres almas?
+}
+GenQuests_Dialog_1030 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1031 {
+Bien, entonces... ¿y adónde quieres que te lleve?
+}
+GenQuests_Dialog_1032 {
+Lamentablemente, lo siento mucho, pero no queda ni una sola hamaca libre en el barco, mucho menos un camarote. Los marineros duermen en cubierta, sin poder recuperar fuerzas después de una guardia dura...
+}
+GenQuests_Dialog_1033 {
+De verdad no quisiera decepcionarte, pero la tripulación del barco ya está al límite: hay gente durmiendo al aire libre. Si se desata una enfermedad, perderé a la mitad de mi gente...
+}
+GenQuests_Dialog_1034 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1035 {
+Lo siento, pero los camarotes de la tripulación en el barco están llenos. Los marineros ya están apretados y simplemente no puedo aceptar más pasajeros...
+}
+GenQuests_Dialog_1036_m {
+Me temo que tengo que decepcionarte, pero la tripulación de este barco ya está sobrecargada. Temo que pueda haber un brote de enfermedad...
+}
+GenQuests_Dialog_1036_f {
+Me temo que debo decepcionarte, pero la tripulación ya está al límite. Temo que pueda haber un brote de enfermedad...
+}
+GenQuests_Dialog_1037 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1038 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1039 {
+¿Acaso un marinero experimentado como tú no sabe que tener a un náufrago a bordo trae mala suerte? Mi tripulación simplemente los arrojará a todos por la borda.
+}
+GenQuests_Dialog_1040 {
+Mmm, por varias razones, preferimos no encontrarnos con las autoridades... Llévanos a una cala tranquila en una isla habitada o en tierra firme. Desde allí, seguiremos por nuestra cuenta.
+}
+GenQuests_Dialog_1041 {
+Bueno, hay suficientes cofres y hamacas en el barco. Sube al bote.
+}
+GenQuests_Dialog_1042 {
+Hmm. Vaya situación... Nos esperan combates duros, y es difícil decir dónde estarás más seguro: a bordo de mi barco o en esta tranquila laguna.
+}
+GenQuests_Dialog_1043 {
+¡Oh, capitán! En esta vida, ni siquiera bajo las sábanas con tu esposa puedes sentirte realmente seguro. Y en el mar, aún menos... Mira a estos desalmados, dispuestos a lanzarse contra la metralla enemiga con nada más que sus traseros al descubierto. ¿Ves algún deseo de comodidad o seguridad en sus rostros?..
+}
+GenQuests_Dialog_1044 {
+Puedo ver en sus rostros la disposición de apuñalar por la espalda a un benefactor confiado en cuanto tengan la oportunidad.
+}
+GenQuests_Dialog_1045 {
+Hmm, no es mala idea. Dime, amigo, ¿tus hombres están listos para unirse a mi tripulación?
+}
+GenQuests_Dialog_1046 {
+Qué lástima, capitán... Veo que no vamos a resolver esto de manera pacífica. Entonces, tendré que recordarle las leyes del mar. Pero tenga en cuenta que no nos es ajeno abordar barcos...
+}
+GenQuests_Dialog_1047 {
+Ahora veo quién eres en realidad...
+}
+GenQuests_Dialog_1048 {
+¡Vaya, vaya! ¿Qué es lo que oigo? Te juro que todos soñaban con unirse a tu equipo de abordaje. En plena batalla, solo los demonios podrían hacerles frente.
+}
+GenQuests_Dialog_1049 {
+¡Trato hecho, entonces! Suban a los botes...
+}
+GenQuests_Dialog_1050 {
+¡Gracias, capitán! La carga no tomará mucho tiempo. Todos hemos estado rezando para que llegara este momento...
+}
+GenQuests_Dialog_1051 {
+Bueno, eso está perfecto.
+}
+GenQuests_Dialog_1052 {
+¿Qué espera, capitán? Dé la orden de levar anclas...
+}
+GenQuests_Dialog_1053 {
+Lo siento, capitán, tenemos que prepararnos para la partida.
+}
+GenQuests_Dialog_1054 {
+¡Qué suerte que hayas decidido desembarcar aquí!
+}
+GenQuests_Dialog_1055 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_1056 {
+Date prisa. El barco no espera a nadie...
+}
+GenQuests_Dialog_1057 {
+Gracias, capitán. Nuestra fe en la suerte no fue en vano... Tome, aquí tiene esta esmeralda; la encontré en esa cala maldita. Que también le traiga buena fortuna.
+}
+GenQuests_Dialog_1058_m {
+Nunca esperé recibir un regalo así. Gracias, y te deseo suerte... Adiós.
+}
+GenQuests_Dialog_1058_f {
+Nunca esperé recibir un regalo así. Gracias, y que tengas suerte... Adiós.
+}
+GenQuests_Dialog_1059 {
+Capitán, si me permite la osadía, estamos algo escasos de dinero. No es poca cosa perderlo todo. ¿Podría prestarnos unas cuantas piastras para salir del apuro? Se las devolveremos... cuando tengamos la oportunidad...
+}
+GenQuests_Dialog_1060 {
+¡Vaya! Realmente, la audacia humana no tiene límites. Lo único que puedo añadir a lo que ya se ha hecho es no denunciarte ante las autoridades.
+}
+GenQuests_Dialog_1061 {
+Sin embargo... ¿Y cuántos doblones quieres?
+}
+GenQuests_Dialog_1062 {
+Gracias, capitán.
+}
+GenQuests_Dialog_1063 {
+Capitán, le estamos realmente agradecidos.
+}
+GenQuests_Dialog_1064 {
+¡Rezaremos por usted, Capitán @<PChar>!
+}
+GenQuests_Dialog_1065 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_1066 {
+Buena suerte. Adiós...
+}
+GenQuests_Dialog_1067 {
+Ah, capitán... nos estábamos llevando tan bien hasta ahora. Será una lástima tener que matarte...
+}
+GenQuests_Dialog_1068 {
+¡Entonces, inténtalo!
+}
+GenQuests_Dialog_1069 {
+Digamos que @<FindMoneyString> por hombre nos vendría muy bien... A menos, claro, que el capitán piense que es muy poco para compensar todo lo que hemos pasado... je, je...
+}
+GenQuests_Dialog_1070 {
+¡Todo lo contrario! Creo que eso es demasiado... Una soga para cada cuello, eso sí estaría bien.
+}
+GenQuests_Dialog_1071_m {
+¡Por esa cantidad de dinero, yo mismo te colgaría, como a monos en las palmas!
+}
+GenQuests_Dialog_1071_f {
+¡Por esa cantidad de dinero, yo mismo te colgaría, como monos en las palmas!
+}
+GenQuests_Dialog_1072 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1073_m {
+Bueno, aquí tienes... Espero no deberte nada más.
+}
+GenQuests_Dialog_1073_f {
+Bueno, aquí tienes... Espero no deberte nada más.
+}
+GenQuests_Dialog_1074 {
+¡Ah, qué generosidad! Y yo que pensaba que ya te habías dado cuenta de que siempre conseguimos lo que queremos. Esta vez no será diferente; no vamos a echarnos atrás...
+}
+GenQuests_Dialog_1075 {
+¡Entonces, inténtalo!
+}
+GenQuests_Dialog_1076 {
+Oh, vamos, capitán, ¿cómo se le ocurre pensar eso? Seguro que encenderemos una vela por usted… Si es que alguna vez llegamos a una iglesia…
+}
+GenQuests_Dialog_1077 {
+Esperemos que sí...
+}
+GenQuests_Dialog_1078 {
+Vamos, capitán, ¿cómo se le ocurre pensar eso? Por supuesto que encenderemos una vela por usted... Si es que alguna vez llegamos a una iglesia, claro...
+}
+GenQuests_Dialog_1079 {
+Esperemos que sí...
+}
+GenQuests_Dialog_1080 {
+Je, capitán, eso tiene fácil arreglo. Mis muchachos y yo podemos despejar una docena de hamacas en tu barco en un abrir y cerrar de ojos...
+}
+GenQuests_Dialog_1081 {
+Hmm... eso suena a amenaza...
+}
+GenQuests_Dialog_1082 {
+Eso es una amenaza, sí. ¡Necesito tu barco! ¡Y me voy de aquí, lo quieras o no!
+}
+GenQuests_Dialog_1083 {
+Ahora veo quién eres en realidad...
+}
+GenQuests_Dialog_1084 {
+Lo entiendo, capitán. De verdad... ¿Quién querría molestarse con unos pobres piratas, con la horca esperándolos ya?.. Pero, ¿y si le propongo un trato? Nos lleva a cualquier cala de una isla habitada o del continente, y a cambio le entrego un mapa del tesoro... ¿Trato hecho?
+}
+GenQuests_Dialog_1085 {
+Hmm... ¿y cómo puedo estar seguro de que este mapa no es falso?
+}
+GenQuests_Dialog_1086_m {
+Ja, ja, estoy seguro de que tu mapa no vale más que el pedazo de papel en el que está garabateado...
+}
+GenQuests_Dialog_1086_f {
+Ja, estoy seguro de que tu mapa no vale más que el trozo de papel en el que está garabateado...
+}
+GenQuests_Dialog_1087 {
+Bueno... No nos dejas otra opción... Nos vamos de aquí, con o sin tu consentimiento...
+}
+GenQuests_Dialog_1088 {
+Ahora veo quién eres en realidad...
+}
+GenQuests_Dialog_1089 {
+¿Y qué garantías tenemos de que no nos entregarás a las autoridades en el primer puerto que encontremos?.. Los dos estamos navegando a ciegas aquí...
+}
+GenQuests_Dialog_1090 {
+Muy bien, trato hecho.
+}
+GenQuests_Dialog_1091_m {
+Gracias, capitán @<PChar>. Cumpliste tu palabra, ahora le toca a @<ChangeNameCase> cumplir la suya. No tengo el mapa conmigo, pero te diré dónde está el tesoro. Ve a la bahía...
+}
+GenQuests_Dialog_1091_f {
+Gracias, capitán @<PChar>. Cumpliste tu promesa, ahora es el turno de @<ChangeNameCase> de cumplir la suya. No tengo el mapa conmigo, pero te diré dónde está el tesoro. Dirígete a la bahía...
+}
+GenQuests_Dialog_1092 {
+¡Así que ahora cambias de tono! Al final sí planeabas engañarme...
+}
+GenQuests_Dialog_1093_m {
+Y pensar que al principio no te creí... Lástima no haberte entregado a las autoridades; al menos habría ganado algo de dinero.
+}
+GenQuests_Dialog_1093_f {
+Al principio no te creí... Lástima no haberte entregado a las autoridades; al menos habría ganado algo de dinero.
+}
+GenQuests_Dialog_1094 {
+Así que confiar en piratas no sirve de nada. ¿Qué clase de personas son ustedes? No tienen ni una pizca de decencia en el alma...
+}
+GenQuests_Dialog_1095 {
+No te preocupes... No soy ningún santo, claro, ¡pero cumplo mi palabra!
+}
+GenQuests_Dialog_1096 {
+¿Crees que voy a creerte otra vez? ¿Para que mañana todo el archipiélago se burle de mí?
+}
+GenQuests_Dialog_1097 {
+Ejem... Por lo que veo, un final pacífico está descartado. Pero Dios sabe que esto no era lo que yo quería...
+}
+GenQuests_Dialog_1098 {
+¡Desenvaina tu espada! ¡O tendré que aplastarte como a una rata!
+}
+GenQuests_Dialog_1099_m {
+¿Qué más se suponía que debía hacer? ¿Pudrirme en ese charco apestoso junto a mi tripulación? Será mejor que me escuches... @<UpperFirst> el capitán @<ChangeNameCase> tiene un escondite donde guarda su botín. Pero ten cuidado, lo revisa con frecuencia. No es difícil encontrar el escondite, si eres listo...
+}
+GenQuests_Dialog_1099_f {
+¿Qué más se suponía que debía hacer? ¿Pudrirme en ese agujero apestoso junto a mi tripulación? Será mejor que me escuches... El capitán tiene un escondite donde guarda su botín. Pero ten cuidado, lo revisa con frecuencia. No es difícil encontrar el escondite, si sabes mantener la cabeza fría...
+}
+GenQuests_Dialog_1100 {
+¿Crees que volveré a creerte? ¿Para que mañana todo el archipiélago se burle de mí?
+}
+GenQuests_Dialog_1101 {
+Bien, cuídate. Si me has engañado otra vez, te buscaré hasta el fin del mundo.
+}
+GenQuests_Dialog_1102 {
+Escucha a @<sTemp>, tiene razón.
+}
+GenQuests_Dialog_1103 {
+No se lo reproches a @<sTemp>, no tenía otra opción.
+}
+GenQuests_Dialog_1104 {
+Gracias, capitán.
+}
+GenQuests_Dialog_1105 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_1106 {
+Cuídate...
+}
+GenQuests_Dialog_1107_m {
+¿Qué opción tenía? ¿Pudrirme en ese agujero apestoso junto a mi tripulación? Será mejor que me escuches... No muy lejos de @<XI_ConvertString>, el capitán @<ChangeNameCase> tiene un escondite donde guarda su botín. Pero ten cuidado: lo revisa con frecuencia. Encontrar el escondite no es difícil, si sabes mantener la cabeza fría...
+}
+GenQuests_Dialog_1107_f {
+¿Qué más se suponía que debía hacer? ¿Pudrirme en ese charco apestoso junto a mi tripulación? Será mejor que me escuches... No muy lejos de @<XI_ConvertString>, el capitán @<ChangeNameCase> tiene un escondite donde guarda su botín. Pero ten cuidado: lo visita con frecuencia. Encontrar el escondite no es difícil, si sabes mantener la cabeza fría...
+}
+GenQuests_Dialog_1108 {
+¿Crees que voy a confiar en ti otra vez? ¿Para que mañana todo el archipiélago se burle de mí?
+}
+GenQuests_Dialog_1109_m {
+¿Quién eres, amigo? ¿Y qué te trae a este lugar desierto?
+}
+GenQuests_Dialog_1109_f {
+¿Quién eres, muchacha? ¿Y qué te trae a este lugar desierto?
+}
+GenQuests_Dialog_1110_m {
+Me detuve para reponer mis provisiones de agua fresca.
+}
+GenQuests_Dialog_1110_f {
+Me detuve para reponer mis provisiones de agua fresca.
+}
+GenQuests_Dialog_1111 {
+Estoy aquí en nombre de @<ChangeNameCase>.
+}
+GenQuests_Dialog_1112_m {
+Elegiste un mal lugar... Pero está bien, reabastece, solo no tardes demasiado...
+}
+GenQuests_Dialog_1112_f {
+Elegiste un mal lugar... Pero está bien, reabastécete, solo no tardes demasiado...
+}
+GenQuests_Dialog_1113 {
+Ajá...
+}
+GenQuests_Dialog_1114 {
+¿Y qué te hace pensar que puedes darme órdenes?
+}
+GenQuests_Dialog_1115 {
+Porque aquí mando yo. Y quien se pase de listo terminará colgado de una palmera.
+}
+GenQuests_Dialog_1116 {
+Tendré que cortarte la lengua.
+}
+GenQuests_Dialog_1117 {
+Entonces, ¿por qué no vino él mismo?
+}
+GenQuests_Dialog_1118 {
+No quiso, se quedó esperándome.
+}
+GenQuests_Dialog_1119 {
+¡Ah, viejo bribón! ¿Intentas engañarnos otra vez, eh? Pues esta vez no te saldrá. Dile que solo puede llevarse el oro si nos lleva a nosotros también.
+}
+GenQuests_Dialog_1120 {
+Ordenó no regresar sin oro y no llevar a nadie a bordo...
+}
+GenQuests_Dialog_1121 {
+Si confías tanto en él, puedes quedarte aquí. Nosotros tomaremos tu barco, nos llevaremos el oro y partiremos hacia @<LowerFirst>. Estamos ansiosos por ver a @<PChar> cara a cara.
+}
+GenQuests_Dialog_1122 {
+Si lo extrañas tanto, puedes nadar tras él... o morir aquí mismo.
+}
+GenQuests_Dialog_1123 {
+Eres una persona perspicaz. Pero te aseguro que nuestro conflicto con el capitán @<ChangeNameCase> surgió únicamente por un choque de principios. Le advertí que sus malas acciones no quedarían impunes, y ahora yo y mis @<iBanditsCount> compañeros afines debemos sufrir por nuestra devoción a Dios y a la justicia...
+}
+GenQuests_Dialog_1124 {
+Bueno... Debió de haber un motín en tu barco, o quizás te atraparon robando. Entonces, bien merecido lo tienes.
+}
+GenQuests_Dialog_1125 {
+Ajá... También sería bueno escuchar qué opina el capitán @<ChangeNameCase> sobre sus desacuerdos.
+}
+GenQuests_Dialog_1126 {
+Capitán, ¿por qué desconfiar de gente honesta? Mire estos rostros, ¿le parecen rebeldes?.. Son como corderos inocentes... Pero si la causa es justa y tienen un buen líder, no habrá quien los supere en combate. Respondo por cada uno de ellos.
+}
+GenQuests_Dialog_1127 {
+¿Y ahora qué se supone que haga contigo?
+}
+GenQuests_Dialog_1128 {
+Haz lo que quieras. Llévalos a una bahía habitada si lo prefieres, o intégralos a tu tripulación.
+}
+GenQuests_Dialog_1129 {
+Muy bien, estás en la tripulación. Pero que te quede claro: aquí no hay lugar para tonterías. ¡Mantengo todo en orden!
+}
+GenQuests_Dialog_1130 {
+No te voy a llevar a ningún lado. Ya tengo suficientes asesinos en mi tripulación.
+}
+GenQuests_Dialog_1131 {
+Muy bien, sube al bote, te llevaré a algún lugar.
+}
+GenQuests_Dialog_1132 {
+Se lo juro, capitán, no se va a arrepentir.
+}
+GenQuests_Dialog_1133 {
+Hizo exactamente lo correcto, capitán.
+}
+GenQuests_Dialog_1134 {
+Capitán, puede estar seguro, ¡tiene tanta suerte como nosotros!
+}
+GenQuests_Dialog_1135 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_1136 {
+Quiero creer eso.
+}
+GenQuests_Dialog_1137 {
+Date prisa. El barco no espera a nadie.
+}
+GenQuests_Dialog_1138 {
+@<RandPhraseSimple>
+}
+GenQuests_Dialog_1139 {
+Eso se puede arreglar fácilmente. Navega en el @<GetStrSmallRegister> '@<sTitle>' y se dedica al tráfico de esclavos... Mira, el trato es este: si lo encontramos, tú te quedas con la bodega y yo con el barco. Y ya que estás, pregúntale si conoce a @<ChangeNameCase>. Solo asegúrate de que no se orine del susto al oír ese nombre; al fin y al cabo, está navegando en mi barco...
+}
+GenQuests_Dialog_1140 {
+Muy bien, entonces. Trato hecho.
+}
+GenQuests_Dialog_1141 {
+¿Qué demonios quieres?
+}
+GenQuests_Dialog_1142_m {
+Vine a darte saludos de parte de @<ChangeNameCase>. ¿Los conoces?
+}
+GenQuests_Dialog_1142_f {
+Vine a darte saludos de parte de @<ChangeNameCase>. ¿Los conoces?
+}
+GenQuests_Dialog_1143 {
+Lástima no haber estrangulado a ese canalla antes... Ahora me toca pagar por mi indulgencia...
+}
+GenQuests_Dialog_1144 {
+Ajá... Y ese tiempo ya se ha acabado...
+}
+GenQuests_Dialog_1145 {
+¡Buen trabajo, capitán! Tal como acordamos: el barco es nuestro, la bodega es tuya.
+}
+GenQuests_Dialog_1146 {
+De acuerdo, trato hecho. Tómalo, ahora es tuyo.
+}
+GenQuests_Dialog_1147 {
+Saludos, capitán @<PChar>.
+}
+GenQuests_Dialog_1148 {
+Entonces, ¿qué te parece tu barco?
+}
+GenQuests_Dialog_1149 {
+Je, se ha puesto tan achacoso como yo. Parece que ninguno de los dos navegará mucho más por estos mares...
+}
+GenQuests_Dialog_1150 {
+Cuídate...
+}
+GenQuests_Dialog_1151_m {
+¡¿Por qué hundiste mi barco?! ¿En qué habíamos quedado?
+}
+GenQuests_Dialog_1151_f {
+¿Por qué hundiste mi barco? ¿En qué habíamos quedado?
+}
+GenQuests_Dialog_1152_m {
+¿Habría sido mejor si me hubiera ahogado? Mira, él apenas logró salir él mismo.
+}
+GenQuests_Dialog_1152_f {
+¿Habría sido mejor que me hubiera ahogado? Mira, yo apenas logré salir.
+}
+GenQuests_Dialog_1153_m {
+¿Quién pelea así? ¡Destrozaste un barco tan bonito! ¿Cómo te dejó tu madre salir solo?
+}
+GenQuests_Dialog_1153_f {
+¿Quién pelea así? ¡Has destrozado un barco tan bonito! ¿Cómo te dejó tu madre salir solo?
+}
+GenQuests_Dialog_1154 {
+Tendré que cortarte la lengua.
+}
+GenQuests_Dialog_1155_m {
+¿Quién pelea así? ¡Arruinaste un barco tan bueno! ¿Tienes idea de cuánto me costó? ¡Pagué un @<FindMoneyString> entero por él! Así que ahora me debes...
+}
+GenQuests_Dialog_1155_f {
+¿Quién pelea así? ¡Arruinaste mi barco! ¿Tienes idea de cuánto me costó? ¡Pagué @<FindMoneyString> por él! Así que ahora me debes...
+}
+GenQuests_Dialog_1156_m {
+¿No crees que es demasiado? No olvides que ya te hice un favor.
+}
+GenQuests_Dialog_1156_f {
+¿No es eso un poco excesivo? No olvides que ya te hice un favor.
+}
+GenQuests_Dialog_1157 {
+¡Maldito seas tú y tu barco! ¡Toma tus doblones y no quiero volver a verte!
+}
+GenQuests_Dialog_1158 {
+¿De qué me sirve tu ayuda? ¡El capitán @<ChangeNameCase> ya está en el fondo del mar junto con mi bote! No puedo sacar ni una sola parte de él, no puedo quedarme con su barco... ¡Ahora solo me queda morir bajo una cerca como un vagabundo sin un centavo!
+}
+GenQuests_Dialog_1159 {
+¿Por qué conformarte con una zanja? Puedo organizarte un gran funeral. Aquí mismo, si no te molesta...
+}
+GenQuests_Dialog_1160 {
+Creo que podemos llegar a un acuerdo. Haznos un pequeño favor y no lo olvidaremos, je, je.
+}
+GenQuests_Dialog_1161 {
+¿Un favor? ¿De qué se trata y qué ofreces a cambio?
+}
+GenQuests_Dialog_1162 {
+Nuestro capitán @<PChar> fue capturado por una patrulla de @<XI_ConvertString> y encerrado, pero no tienen pruebas en su contra. Nosotros no podemos sacarlo por nuestra cuenta.\nPero usted es una persona respetada, conocida en la ciudad. ¿Quizás podría negociar, pagar la fianza o simplemente comprar su libertad? Créame, nos iremos de inmediato y no volveremos a pisar esta isla; su reputación no se verá afectada en lo más mínimo.
+}
+GenQuests_Dialog_1163_m {
+Supongamos que logro sacarlo. Pero no he oído ni una palabra sobre mi pago.
+}
+GenQuests_Dialog_1163_f {
+Supongamos que puedo sacarlo. Pero no he oído ni una palabra sobre mi pago.
+}
+GenQuests_Dialog_1164 {
+¡Lárgate de aquí, basura ladrona! ¡No quiero tener nada que ver contigo!
+}
+GenQuests_Dialog_1165 {
+@<makeint>
+}
+GenQuests_Dialog_1166 {
+¿Te bastan los amuletos y talismanes de los nativos... o prefieres dinero contante? Digamos, unos cuantos miles de piastras.
+}
+GenQuests_Dialog_1167 {
+Los artefactos indios servirán perfectamente. Creo que aceptaré.
+}
+GenQuests_Dialog_1168_m {
+Una moneda tintineante alegra a cualquier marinero. El dinero, como dicen, no huele mal, así que cuenten conmigo.
+}
+GenQuests_Dialog_1168_f {
+Una moneda tintineante alegra a cualquier marinero. El dinero, como dicen, no huele mal, así que estoy de acuerdo.
+}
+GenQuests_Dialog_1169 {
+No, lo que ofreces no me interesa en absoluto.
+}
+GenQuests_Dialog_1170 {
+@<makeint>
+}
+GenQuests_Dialog_1171 {
+Quizás
+}
+GenQuests_Dialog_1172 {
+Apuesto
+}
+GenQuests_Dialog_1173_m {
+En ese caso, lo siento, amigo, pero no saldrás de aquí con vida. @<RandPhraseSimple> irás corriendo al pueblo y nos delatarás.
+}
+GenQuests_Dialog_1173_f {
+En ese caso, lo siento, muchacha, pero no vas a salir de aquí con vida. @<RandPhraseSimple> Vas a ir al pueblo y delatarnos.
+}
+GenQuests_Dialog_1174 {
+Basta de charla, vayamos al grano.
+}
+GenQuests_Dialog_1175 {
+Esas fueron tus últimas palabras.
+}
+GenQuests_Dialog_1176 {
+No soy un soplón, pero puedo enterrarte sin problema.
+}
+GenQuests_Dialog_1177 {
+@<LinkRandPhrase>
+}
+GenQuests_Dialog_1178 {
+Gracias, capitán. Te reembolsaremos la fianza además de tu recompensa. Creo que deberías hablar con el alcaide sobre nuestro capitán; tal vez puedas convencerlo. Y cuando lo saques, ven a @<XI_ConvertString>, donde está anclado nuestro barco, el @<LowerFirst> '@<PChar>'. No tardes; te esperaremos en la orilla unos días, pero después tendremos que irnos para no llamar demasiado la atención.
+}
+GenQuests_Dialog_1179 {
+Bien, veamos qué se puede hacer.
+}
+GenQuests_Dialog_1180 {
+Gracias, capitán. Te reembolsaremos la fianza además de tu recompensa. Creo que deberías hablar con el comandante de la prisión sobre nuestro capitán; tal vez puedas convencerlo. Y cuando lo saques, ven a @<XI_ConvertString>, donde está anclado nuestro barco, el @<LowerFirst> '@<PChar>'. Date prisa; te esperaremos en la costa unos días, pero después tendremos que irnos para no llamar la atención.
+}
+GenQuests_Dialog_1181 {
+Bien, veamos qué se puede hacer.
+}
+GenQuests_Dialog_1182_m {
+¿Y tú quién eres?
+}
+GenQuests_Dialog_1182_f {
+¿Y tú quién eres?
+}
+GenQuests_Dialog_1183 {
+¿Otra vez tú? ¿Y qué quieres de mí esta vez?
+}
+GenQuests_Dialog_1184_m {
+He llegado a un acuerdo con el comandante para tu liberación. Ahora tenemos que ir a @<LowerFirst>, donde tu tripulación te espera.
+}
+GenQuests_Dialog_1184_f {
+He llegado a un acuerdo con el comandante para tu liberación. Ahora tenemos que ir a @<LowerFirst>, donde tu tripulación te espera.
+}
+GenQuests_Dialog_1185 {
+Eso ya no importa, amigo. Tienes una oportunidad de salvarte, si logras llegar a la selva conmigo.
+}
+GenQuests_Dialog_1186 {
+Hablaremos después.
+}
+GenQuests_Dialog_1187_m {
+¡Gracias, amigo! Te pagaremos en cuanto llegue a la bahía.
+}
+GenQuests_Dialog_1187_f {
+¡Gracias, amigo! Te pagaremos en cuanto llegue a la bahía.
+}
+GenQuests_Dialog_1188 {
+Ese fue nuestro acuerdo.
+}
+GenQuests_Dialog_1189_m {
+Je, ¿así que mis muchachos te enviaron? ¡Abre la celda, amigo! Te sigo.
+}
+GenQuests_Dialog_1189_f {
+Je, ¿así que mi tripulación te envió? ¡Abre la celda, muchacha! Te seguiré.
+}
+GenQuests_Dialog_1190 {
+¡Manos a la obra!
+}
+GenQuests_Dialog_1191 {
+¡Oh, capitán @<GetFullName>! Todos estamos esperando que libere a nuestro pobre compañero del cautiverio. ¿Alguna novedad?
+}
+GenQuests_Dialog_1192 {
+Todavía no, estoy en ello...
+}
+GenQuests_Dialog_1193 {
+Capitán, apúrese, no podemos quedarnos aquí para siempre... Tarde o temprano aparecerá una patrulla.
+}
+GenQuests_Dialog_1194 {
+Sí, intentaré no tardar mucho.
+}
+GenQuests_Dialog_1195 {
+¡La fuga fue un éxito rotundo!
+}
+GenQuests_Dialog_1196 {
+¡De verdad lograste engañar a esos funcionarios barrigones!
+}
+GenQuests_Dialog_1197 {
+¡Aquí estamos, capitán! @<sTemp> Muchachos, traigan las baratijas.
+}
+GenQuests_Dialog_1198 {
+¡Aquí estamos, capitán! @<sTemp> ¡Traigan el cofre, muchachos!
+}
+GenQuests_Dialog_1199 {
+Entrégame lo que me debes y lárgate.
+}
+GenQuests_Dialog_1200 {
+Bueno, aquí estamos, capitán. Veo que lograste organizarlo todo a la perfección... Pero aquí está el problema: lo último que necesitamos son testigos... Muy bien, muchachos, ¡démosle las gracias al capitán!
+}
+GenQuests_Dialog_1201 {
+@<RandSwear> ¡Debí haberte disparado en cuanto te vi!
+}
+GenQuests_Dialog_1202 {
+pirata náufraga
+}
+GenQuests_Dialog_1203 {
+pirata náufrago
+}
+GenQuests_Dialog_1204 {
+náufraga
+}
+GenQuests_Dialog_1205 {
+náufrago
+}
