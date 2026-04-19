@@ -5,7 +5,7 @@
 #define VERSION_NUMBER2       "" // extra DLC
 #define VERSION_NUMBER3       "Seaward&BMS&ReCon" // Devteam
 
-#define MOD_BETTATESTMODE     "On"
+#define MOD_BETTATESTMODE     "Off"
 #define ENCYCLOPEDIA_DISABLED 1
 #define BI_COMPARE_HEIGHT 1080
 
