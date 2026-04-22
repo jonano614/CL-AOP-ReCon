@@ -585,7 +585,6 @@ void SetTreasureBoxFromMap()
 {
     aref   item;
     ref    loc;
-    string box;
     aref   arToBox;
     aref   arFromBox;
 
@@ -596,7 +595,7 @@ void SetTreasureBoxFromMap()
         PlaySound("Notebook");
 		Statistic_AddValue(Pchar, "Treasure", 1);
 		Achievement_AddStats_Treasure();
-		
+
         // немного веселой жизни
         TraderHunterOnMap();
         if( CheckAttribute(Pchar,"location.from_sea") )
@@ -612,7 +611,7 @@ void SetTreasureBoxFromMap()
 
         Items_FindItem("map_full", &item);
 
-        box = item.MapBoxId;
+		string box = item.MapBoxId;
 
         loc = &locations[FindLocation(item.MapLocId)];
         loc.(box).items = "";
@@ -642,14 +641,13 @@ void  TraderHunterOnMap()
 {
     // немного веселой жизни
     ref  sld;
-    int  i;
 
     string sCapId = "Follower0";
     string sGroup = "Sea_" + sCapId + "1";
 
 	Group_DeleteGroup(sGroup);
 	Group_FindOrCreateGroup(sGroup);
-    for (i = 1; i <= GetCompanionQuantity(pchar); i++)
+    for (int i = 1; i <= GetCompanionQuantity(pchar); i++)
     {
         sld = GetCharacter(NPC_GenerateCharacter(sCapId + i, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 15, true));
         SetShipHunter(sld);
@@ -671,22 +669,21 @@ void  TraderHunterOnMap()
 
 void SetTreasureHunter(string temp)
 {
-    int    j, i, k;
-	string sTemp, sCapId;
-	ref    sld;
-	bool   ok;
+    int index, k;
+	ref sld;
 
 	if (chrDisableReloadToLocation) return; // идет некий другой квест с запретом выхода
 	
-    Pchar.GenQuest.Hunter2Pause            = true;
+    Pchar.GenQuest.Hunter2Pause = true;
     
-    j = GetOfficersQuantity(Pchar) + 2;
-    
-	sCapId = "LandHunter0";
-    sTemp = "LAND_HUNTER";
-	ok = true;
+    int j = GetOfficersQuantity(Pchar) + 2;
+
+	string sCapId = "LandHunter0";
+	string sTemp = "LAND_HUNTER";
+	bool ok = true;
 	arrayNPCModelHow = 0;
-    for (i = 1; i <= j; i++)
+
+    for (index = 1; index <= j; index++)
     {
         sld = GetCharacter(NPC_GenerateCharacter(sCapId + i, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 0, true));
         SetFantomParamHunter(sld); //крутые парни
@@ -725,7 +722,7 @@ void SetTreasureHunter(string temp)
 	if (ok)
     {
         PChar.HunterCost = makeint(sti(Pchar.money) / 5) + rand(20)*1000; //сразу генерим
-        PChar.HunterCost.Qty = i;
+        PChar.HunterCost.Qty = index;
         PChar.HunterCost.TempHunterType = "";
         sld = characterFromID(sCapId + "1");
         LAi_type_actor_Reset(sld);
@@ -750,15 +747,15 @@ void Set_TreasureBarrel()
 	int irand;
 	if(CheckCharacterPerk(pchar, "HawkEye"))
 	{
-		irand = drand(100);
+		irand = rand(100);
 	}
 	else
 	{
-		irand = drand(200);
+		irand = rand(200);
 	}
 	if(GetSummonSkillFromName(pchar, "Fortune") > irand)
 	{
-		irand = drand(20);
+		irand = rand(20);
 		switch(irand)
 		{
 			case 1:		trBarrel.items.jewelry1 = rand(18) + 27;	break;
@@ -781,7 +778,7 @@ void Set_TreasureBarrel()
 			case 18:	trBarrel.items.chest = rand(2) + 1;		break;
 			case 19:	trBarrel.items.coins = rand(10) + 7;		break;
 		}
-		irand = drand(25);
+		irand = rand(25);
 		switch(irand)
 		{
 			case 3:		trBarrel.items.indian18 = 1;		break;
@@ -804,7 +801,7 @@ void Set_TreasureBarrel()
 				}
 			break;
 		}
-		irand = drand(39);
+		irand = rand(39);
 		switch (irand)
 		{
 			case  9:	trBarrel.items.lamp = 1;				break;
@@ -813,7 +810,7 @@ void Set_TreasureBarrel()
 			case 39:	trBarrel.items.crucible = 1;			break;
 		}
 
-		irand = drand(35);
+		irand = rand(35);
 		switch(irand)
 		{
 			case 20:	trBarrel.items.sculMa2 = 1;		break;
@@ -832,7 +829,7 @@ void Set_TreasureBarrel()
 		if(rand(1) == 0) trBarrel.items.mineral9 = rand(8) + 2;
 		if(rand(1) == 0) trBarrel.items.mineral10 = rand(16) + 6;
 	}
-	trBarrel.items.gold = drand(5000) + 5000;
+	trBarrel.items.gold = rand(5000) + 5000;
 	LaunchItemsBarrel(&trBarrel);
 }
 //=====================================================================================================================================
