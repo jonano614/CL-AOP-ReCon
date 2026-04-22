@@ -165,7 +165,7 @@ void FillBoxForTreasure(ref treasure)
 		case 2: // bad
 			GenerateBadTreasureContent(treasure);
 		break;
-		default: // 0 and 0, good
+		default: // 0 and 3, good
 			GenerateGoodTreasureContent(treasure);
 		break;
 	}
