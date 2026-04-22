@@ -130,7 +130,7 @@ void FillMapForTreasure(ref item)
 
     // генерим клад
     DeleteAttribute(item, "BoxTreasure");
-    FillBoxForTreasure(item, rand(3));
+    FillBoxForTreasure(item);
     FillBoxForTreasureAddition(item);
 
     if (!CheckAttribute(Pchar, "GenQuest.TreasureBuild") && !CheckAttribute(&TEV, "MapTreasureNoScam"))
@@ -153,226 +153,234 @@ void FillMapForTreasure(ref item)
     }
 }
 
-void FillBoxForTreasure(ref item, int i)
+void FillBoxForTreasure(ref treasure)
 {
-	int iCraft = 0;
+	int quality = rand(3);
 	// определяем тип
-	switch (i)
+	switch (quality)
 	{
-		// good
-		case 0:
-		    if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry2 = 2 + rand(30);
-	        }
-	        else
-	        {
-	            item.BoxTreasure.jewelry3 = 10 + rand(3);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry3 = 1 + rand(30);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry5 = 5 + rand(60);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry7 = 15 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.jewelry10 = 15 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.jewelry13 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.jewelry14 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.jewelry17 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.jewelry18 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral2 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral5 = 5 + rand(100);
-	        }
-	        if (rand(4) == 1)
-	        {
-            	item.BoxTreasure.suit_2 = 1;
-	        }
-			if (rand(4) == 1)
-	        {
-            	item.BoxTreasure.mushket_poor = 1;
-	        }
-
-			iCraft = drand(15); // ~25%
-			switch (iCraft)
-			{
-				case  4:	item.BoxTreasure.lamp = 1;				break;
-				case  6:	item.BoxTreasure.mortar_and_pestle = 1;	break;
-				case  9:	item.BoxTreasure.bullet_mold = 1;		break;
-				case 11:	item.BoxTreasure.crucible = 1;			break;
-			}
-
-			GenerateMapsTreasure(item, 35, 70);
+	    case 1: // best
+			GenerateBestTreasureContent(treasure);
 	    break;
-	    // best
-	    case 1:
-            if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.chest = 1 + rand(14);
-	        }
-	        else
-	        {
-	            item.BoxTreasure.jewelry12 = 10 + rand(3);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.incas_collection = 1 + rand(4);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry1 = 15 + rand(100);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry12 = 15 + rand(100);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry11 = 15 + rand(100);
-	        }
-	        if (rand(1) == 1)
-	        {
-            	item.BoxTreasure.jewelry6 = 5 + rand(100);
-	        }
-	        if (rand(4) == 1)
-	        {
-            	item.BoxTreasure.suit_3 = 1;
-	        }
-			if (rand(4) == 1)
-	        {
-            	item.BoxTreasure.mushket = 1;
-	        }
-			GenerateMapsTreasure(item, 25, 50);
-
-			iCraft = drand(19); // ~20-25%
-			switch (iCraft)
-			{
-				case  0:
-					if (!isMultiObjectKnown("recipe_fulminate_silver"))
-						item.BoxTreasure.recipe_fulminate_silver = 1;
-				break;
-				//case  3:	item.BoxTreasure.carpenter_kit = 1;		break;
-				case  7:	item.BoxTreasure.tailor_kit = 1;		break;
-				case  8:	item.BoxTreasure.mechanic_kit = 1;		break;
-				case 14:	item.BoxTreasure.alchemy_kit = 1;		break;
-			}
-
-			iCraft = drand(14); // ~20%
-			switch (iCraft)
-			{
-				case  2:	item.BoxTreasure.ethanol = 1;			break;
-				case 10:	item.BoxTreasure.nitric_acid = 1;		break;
-				case 13:	item.BoxTreasure.fulminate_silver = 1;	break;
-			}
+	    case 2: // bad
+			GenerateBadTreasureContent(treasure);
 	    break;
-	    // bad
-	    case 2:
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.kocherg = 5 + rand(100);
-	        }
-	        else
-	        {
-                item.BoxTreasure.blade1 = 5 + rand(100);//fix
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.blade1 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.blade5 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.jewelry16 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral4 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral6 = 5 + rand(200);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral7 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral9 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.mineral10 = 25 + rand(300);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.indian4 = 15 + rand(300);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.indian8 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.indian9 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.indian13 = 5 + rand(100);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.indian16 = 5 + rand(200);
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.blade5 = 1;
-	        }
-	        if (rand(2) == 1)
-	        {
-            	item.BoxTreasure.suit_1 = 1;
-	        }
+	    default: // 0 and 0, good
+			GenerateGoodTreasureContent(treasure);
 	    break;
+	}
+}
 
-	    case 3:
-	        FillBoxForTreasure(item, 0);
-	    break;
+void GenerateGoodTreasureContent(ref treasure)
+{
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry2 = 2 + rand(30);
+	}
+	else
+	{
+		treasure.BoxTreasure.jewelry3 = 10 + rand(3);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry3 = 1 + rand(30);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry5 = 5 + rand(60);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry7 = 15 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.jewelry10 = 15 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.jewelry13 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.jewelry14 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.jewelry17 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.jewelry18 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral2 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral5 = 5 + rand(100);
+	}
+	if (rand(4) == 1)
+	{
+		treasure.BoxTreasure.suit_2 = 1;
+	}
+	if (rand(4) == 1)
+	{
+		treasure.BoxTreasure.mushket_poor = 1;
+	}
+
+	int craftRand = rand(15); // ~25%
+	switch (craftRand)
+	{
+		case  4:	treasure.BoxTreasure.lamp = 1;				break;
+		case  6:	treasure.BoxTreasure.mortar_and_pestle = 1;	break;
+		case  9:	treasure.BoxTreasure.bullet_mold = 1;		break;
+		case 11:	treasure.BoxTreasure.crucible = 1;			break;
+	}
+
+	GenerateMapsTreasure(treasure, 35, 70);
+}
+
+void GenerateBestTreasureContent(ref treasure)
+{
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.chest = 1 + rand(14);
+	}
+	else
+	{
+		treasure.BoxTreasure.jewelry12 = 10 + rand(3);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.incas_collection = 1 + rand(4);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry1 = 15 + rand(100);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry12 = 15 + rand(100);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry11 = 15 + rand(100);
+	}
+	if (rand(1) == 1)
+	{
+		treasure.BoxTreasure.jewelry6 = 5 + rand(100);
+	}
+	if (rand(4) == 1)
+	{
+		treasure.BoxTreasure.suit_3 = 1;
+	}
+	if (rand(4) == 1)
+	{
+		treasure.BoxTreasure.mushket = 1;
+	}
+	GenerateMapsTreasure(treasure, 25, 50);
+
+	int craftRand = drand(19); // ~20-25%
+	switch (craftRand)
+	{
+		case  0:
+			if (!isMultiObjectKnown("recipe_fulminate_silver"))
+				treasure.BoxTreasure.recipe_fulminate_silver = 1;
+		break;
+		//case  3:	item.BoxTreasure.carpenter_kit = 1;		break;
+		case  7:	treasure.BoxTreasure.tailor_kit = 1;		break;
+		case  8:	treasure.BoxTreasure.mechanic_kit = 1;		break;
+		case 14:	treasure.BoxTreasure.alchemy_kit = 1;		break;
+	}
+
+	craftRand = drand(14); // ~20%
+	switch (craftRand)
+	{
+		case  2:	treasure.BoxTreasure.ethanol = 1;			break;
+		case 10:	treasure.BoxTreasure.nitric_acid = 1;		break;
+		case 13:	treasure.BoxTreasure.fulminate_silver = 1;	break;
+	}
+}
+
+void GenerateBadTreasureContent(ref treasure)
+{
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.kocherg = 5 + rand(100);
+	}
+	else
+	{
+		treasure.BoxTreasure.blade1 = 5 + rand(100);//fix
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.blade1 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.blade5 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.jewelry16 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral4 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral6 = 5 + rand(200);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral7 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral9 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.mineral10 = 25 + rand(300);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.indian4 = 15 + rand(300);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.indian8 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.indian9 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.indian13 = 5 + rand(100);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.indian16 = 5 + rand(200);
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.blade5 = 1;
+	}
+	if (rand(2) == 1)
+	{
+		treasure.BoxTreasure.suit_1 = 1;
 	}
 }
 
 void FillBoxForTreasureAddition(ref item)
 {
-    float   nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
+    float nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
 
-    if (5*nLuck > rand(55))
+    if (5 * nLuck > rand(55))
     {
 	    if (GetCharacterItem(Pchar, "map_part1") == 0)
 	    {
@@ -475,6 +483,7 @@ void FillBoxForTreasureAddition(ref item)
 		break;
 	}
 	GenerateMapsTreasure(item, 10, 20);
+
 	//добавим тотемы
 	string sName = "Totem_" + (rand(9)+1);
 	if (!CheckMainHeroTotem(sName) && rand(20)==1) item.BoxTreasure.(sName) = 1;
@@ -493,7 +502,7 @@ void FillBoxForTreasureSuper(ref item)
 		item.encyclopedia.page = 3;
 	}
 
-    if (3*nLuck > rand(21))// ещё поди найди 2 куска
+    if (3 * nLuck > rand(21))// ещё поди найди 2 куска
     {
 		i = 0;
 		itmName = "";
