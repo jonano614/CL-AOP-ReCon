@@ -504,86 +504,81 @@ void FillBoxForTreasureSuper(ref item)
 
     if (3 * nLuck > rand(21))// ещё поди найди 2 куска
     {
-		i = 0;
-		itmName = "";
-		while (itmName == "" && i < 15)
-		{
-            switch (rand(16))
-			{
-                case 0:
-                	itmName = GetGeneratedItem("blade13");
-				break;
-				case 1:
-        			itmName = GetGeneratedItem("blade20");
-				break;
-				case 2:
-        			itmName = GetGeneratedItem("blade23");
-				break;
-				case 3:
-        			itmName = GetGeneratedItem("blade24");
-				break;
-				case 4:
-        			itmName = "pistol4";
-				break;
-				case 5:
-        			itmName = "indian11";//"idol";
-				break;
-				case 6:
-                    itmName = GetGeneratedItem("topor2"); // TODO
-					//itmName = "map_good";
-				break;
-				case 7:
-        			itmName = "spyglass4";
-				break;
-				case 8:
-        			//itmName = "cirass5";
-        			itmName = "cirass4";
-				break;
-				case 9:
-        			itmName = "indian11";
-				break;
-				case 10:
-        			itmName = "cirass3";
-        			/*if (GetCharacterItem(Pchar, "cirass5") > 0)
-        			{
-                        itmName = "";
-        			} */
-				break;
-
-				case 11:
-        			itmName = "spyglass5";
-				break;
-				case 12:
-        			itmName = GetGeneratedItem("blade25");
-				break;
-				case 13:
-        			itmName = GetGeneratedItem("blade26");
-				break;
-				case 14:
-        			itmName = GetGeneratedItem("blade30");
-				break;
-				case 15:
-        			itmName = GetGeneratedItem("blade33");
-				break;				
-				case 16:
-        			itmName = "mushket_H2";
-				break;					
-			}
-			/*if (itmName == "idol" && CheckAttribute(pchar, "QuestTemp.IdolUseYet"))
-			{
-			    itmName = "";
-			} */
-			if (GetCharacterItem(Pchar, itmName) > 0)
-		    {
-          		itmName = "";
-		    }
-		    i++;
-	    }
-	    if (itmName != "")
+		string itemName = GetSuperTreasureItem();
+	    if (itemName != "")
 	    {
-	        item.BoxTreasure.(itmName) = 1;
+	        item.BoxTreasure.(itemName) = 1;
 	    }
 	}
+}
+
+string GetSuperTreasureItem()
+{
+	int limit = 0;
+	string  itemName = "";
+	while (itemName == "" && limit < 15)
+	{
+		switch (rand(16))
+		{
+			case 0:
+				itemName = GetGeneratedItem("blade13");
+			break;
+			case 1:
+				itemName = GetGeneratedItem("blade20");
+			break;
+			case 2:
+				itemName = GetGeneratedItem("blade23");
+			break;
+			case 3:
+				itemName = GetGeneratedItem("blade24");
+			break;
+			case 4:
+				itemName = "pistol4";
+			break;
+			case 5:
+				itemName = "indian11";//"idol";
+			break;
+			case 6:
+				itemName = GetGeneratedItem("topor2"); // TODO
+			break;
+			case 7:
+				itemName = "spyglass4";
+			break;
+			case 8:
+				itemName = "cirass4";
+			break;
+			case 9:
+				itemName = "indian11";
+			break;
+			case 10:
+				itemName = "cirass3";
+			break;
+			case 11:
+				itemName = "spyglass5";
+			break;
+			case 12:
+				itemName = GetGeneratedItem("blade25");
+			break;
+			case 13:
+				itemName = GetGeneratedItem("blade26");
+			break;
+			case 14:
+				itemName = GetGeneratedItem("blade30");
+			break;
+			case 15:
+				itemName = GetGeneratedItem("blade33");
+			break;
+			case 16:
+				itemName = "mushket_H2";
+			break;
+		}
+		if (GetCharacterItem(Pchar, itemName) > 0)
+		{
+			itemName = "";
+		}
+		limit++;
+	}
+	return itemName;
 }
 
 void SetTreasureBoxFromMap()
@@ -601,6 +596,7 @@ void SetTreasureBoxFromMap()
         PlaySound("Notebook");
 		Statistic_AddValue(Pchar, "Treasure", 1);
 		Achievement_AddStats_Treasure();
+		
         // немного веселой жизни
         TraderHunterOnMap();
         if( CheckAttribute(Pchar,"location.from_sea") )
