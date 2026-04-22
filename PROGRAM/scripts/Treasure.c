@@ -3,33 +3,31 @@
 //  Карты сокровищ  ГЕНЕРАТОР -->
 string GetIslandForTreasure()
 {
-	int iNum, m;
-	ref Itm;
-	aref arDest, arImt;
-	string sAttr;
+	aref islandArrayRef, islandRef;
+	string islandName;
 	
-	m = 0;
-	string sCurIsland = GetCharacterCurrentIslandId(pchar);
-	makearef(arDest, NullCharacter.TravelMap.Islands);
-	iNum = GetAttributesNum(arDest);
+	int islandsForNewTreasureArrayLength = 0;
+	string currentIslandId = GetCharacterCurrentIslandId(pchar);
+	makearef(islandArrayRef, NullCharacter.TravelMap.Islands);
+	int islandsCount = GetAttributesNum(islandArrayRef);
 	
-	string sArray[50]; // динамические массивы в Шторме не организуешь
-	for (int i = 0; i<iNum; i++)
+	string islandsForNewTreasureArray[50]; // динамические массивы в Шторме не организуешь
+	for (int i = 0; i < islandsCount; i++)
 	{
-		arImt = GetAttributeN(arDest, i);
-		sAttr = GetAttributeName(arImt);
-		if(CheckAttribute(&NullCharacter,"TravelMap.Islands." + sAttr + ".Treasure"))
+		islandRef = GetAttributeN(islandArrayRef, i);
+		islandName = GetAttributeName(islandRef);
+		if(CheckAttribute(&NullCharacter,"TravelMap.Islands." + islandName + ".Treasure"))
 		{
-			if(sCurIsland == sAttr || CheckTreasureMaps(sAttr)) continue;
+			if(currentIslandId == islandName || CheckTreasureMaps(islandName)) continue;
 			else
 			{
-				sArray[m] = sAttr;
-				m++;		
+				islandsForNewTreasureArray[islandsForNewTreasureArrayLength] = islandName;
+				islandsForNewTreasureArrayLength++;
 			}	
 		}
 	}
-	m = rand(m-1);
-	return sArray[m];
+	int islandForNewTreasureSelectedIndex = rand(islandsForNewTreasureArrayLength-1);
+	return islandsForNewTreasureArray[islandForNewTreasureSelectedIndex];
 }
 
 bool CheckTreasureMaps(string sIsland)
