@@ -26,7 +26,7 @@ string GetIslandForTreasure()
 			}	
 		}
 	}
-	int islandForNewTreasureSelectedIndex = rand(islandsForNewTreasureArrayLength-1);
+	int islandForNewTreasureSelectedIndex = rand(islandsForNewTreasureArrayLength - 1);
 	return islandsForNewTreasureArray[islandForNewTreasureSelectedIndex];
 }
 
@@ -38,42 +38,39 @@ bool CheckTreasureMaps(string sIsland)
 	{
 		itm = ItemsFromID("mapQuest");
 		if(CheckAttribute(itm, "MapIslId") && itm.MapIslId == sIsland) return true;
-	}		
+	}
 	if(GetCharacterItem(pchar,"map_full") > 0)
 	{
 		itm = ItemsFromID("map_full");
 		if(CheckAttribute(itm, "MapIslId") && itm.MapIslId == sIsland) return true;
-	}	
+	}
 	return false;
 }
 
 string GetLocationForTreasure(string island)
 {
-    int iNum;
-	aref arDest, arImt;
-	string sAttr;
+	aref treasureLocationArrayRef, treasureLocationRef;
 
-	makearef(arDest, NullCharacter.TravelMap.Islands.(island).Treasure);
-	iNum = GetAttributesNum(arDest);
-    iNum = rand(iNum-1);
-    
-    arImt = GetAttributeN(arDest, iNum);
-	return GetAttributeName(arImt);
+	makearef(treasureLocationArrayRef, NullCharacter.TravelMap.Islands.(island).Treasure);
+	int treasureLocationArrayLength = GetAttributesNum(treasureLocationArrayRef);
+    int selectedTreasureLocationIndex = rand(treasureLocationArrayLength - 1);
+
+	treasureLocationRef = GetAttributeN(treasureLocationArrayRef, selectedTreasureLocationIndex);
+	return GetAttributeName(treasureLocationRef);
 }
 
 string GetBoxForTreasure(string island, string location)
 {
-    int iNum;
-	aref arDest, arImt;
-	string sAttr;
+	aref treasureBoxArrayRef, treasureBoxRef;
 
-	makearef(arDest, NullCharacter.TravelMap.Islands.(island).Treasure.(location));
-	iNum = GetAttributesNum(arDest);
-    iNum = rand(iNum-1);
-    
-    arImt = GetAttributeN(arDest, iNum);
-	return GetAttributeValue(arImt);  // тут не атрибут, а значеие
+	makearef(treasureBoxArrayRef, NullCharacter.TravelMap.Islands.(island).Treasure.(location));
+	int treasureBoxArrayLength = GetAttributesNum(treasureBoxArrayRef);
+	int selectedTreasureBoxIndex = rand(treasureBoxArrayLength - 1);
+
+	treasureBoxRef = GetAttributeN(treasureBoxArrayRef, selectedTreasureBoxIndex);
+	return GetAttributeValue(treasureBoxRef);  // тут не атрибут, а значеие
 }
+
 // не при деле....
 string GetFileMapForTreasure(string island)
 {
