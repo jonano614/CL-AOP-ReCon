@@ -2009,6 +2009,7 @@ int LocationInitLostShipsCity(int n)
 	locations[n].private6.items.potionwine = 12;
 	locations[n].private6.items.potionrum = 13;
 	locations[n].private6.items.recipe_fulminate_silver = 1;
+	locations[n].private6.items.mushket_H2 = 1;
 
 	n = n + 1;
 
