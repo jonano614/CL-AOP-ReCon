@@ -5,12 +5,12 @@ string GetIslandForTreasure()
 {
 	aref islandArrayRef, islandRef;
 	string islandName;
-	
+
 	int islandsForNewTreasureArrayLength = 0;
 	string currentIslandId = GetCharacterCurrentIslandId(pchar);
 	makearef(islandArrayRef, NullCharacter.TravelMap.Islands);
 	int islandsCount = GetAttributesNum(islandArrayRef);
-	
+
 	string islandsForNewTreasureArray[50]; // динамические массивы в Шторме не организуешь
 	for (int i = 0; i < islandsCount; i++)
 	{
@@ -23,7 +23,7 @@ string GetIslandForTreasure()
 			{
 				islandsForNewTreasureArray[islandsForNewTreasureArrayLength] = islandName;
 				islandsForNewTreasureArrayLength++;
-			}	
+			}
 		}
 	}
 	int islandForNewTreasureSelectedIndex = rand(islandsForNewTreasureArrayLength - 1);
@@ -33,7 +33,7 @@ string GetIslandForTreasure()
 bool CheckTreasureMaps(string sIsland)
 {
 	ref Itm;
-	
+
 	if(GetCharacterItem(pchar,"mapQuest") > 0)
 	{
 		itm = ItemsFromID("mapQuest");
@@ -53,7 +53,7 @@ string GetLocationForTreasure(string island)
 
 	makearef(treasureLocationArrayRef, NullCharacter.TravelMap.Islands.(island).Treasure);
 	int treasureLocationArrayLength = GetAttributesNum(treasureLocationArrayRef);
-    int selectedTreasureLocationIndex = rand(treasureLocationArrayLength - 1);
+	int selectedTreasureLocationIndex = rand(treasureLocationArrayLength - 1);
 
 	treasureLocationRef = GetAttributeN(treasureLocationArrayRef, selectedTreasureLocationIndex);
 	return GetAttributeName(treasureLocationRef);
@@ -74,25 +74,25 @@ string GetBoxForTreasure(string island, string location)
 // не при деле....
 string GetFileMapForTreasure(string island)
 {
-    int n;
+	int n;
 
-    for (n = 0; n < ITEMS_QUANTITY; n++)
+	for (n = 0; n < ITEMS_QUANTITY; n++)
 	{
 		if (CheckAttribute(&Items[n], "MapIsland") )
 		{
-            if (Items[n].MapIsland == island)
-            {
-                return Items[n].imageTga;
-            }
+			if (Items[n].MapIsland == island)
+			{
+				return Items[n].imageTga;
+			}
 		}
-    }
-    return "";
+	}
+	return "";
 }
 
 void GenerateMapsTreasure(ref item, int iProbability1, int iProbability2)
 {
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_jam")) item.BoxTreasure.map_jam = 1;
-	
+
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_barbados")) item.BoxTreasure.map_barbados = 1;
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_trinidad")) item.BoxTreasure.map_trinidad = 1;
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_Curacao")) item.BoxTreasure.map_Curacao = 1;
@@ -112,7 +112,7 @@ void GenerateMapsTreasure(ref item, int iProbability1, int iProbability2)
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_maracaibo")) item.BoxTreasure.map_maracaibo = 1;
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_cumana")) item.BoxTreasure.map_cumana = 1;
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_providence")) item.BoxTreasure.map_providence = 1;
-	
+
 	if(rand(iProbability2) == 1 && !CheckMainHeroMap("map_cayman")) item.BoxTreasure.map_cayman = 1;
 	if(rand(iProbability2) == 1 && !CheckMainHeroMap("map_dominica")) item.BoxTreasure.map_dominica = 1;
 	if(rand(iProbability2) == 1 && !CheckMainHeroMap("map_terks")) item.BoxTreasure.map_terks = 1;
@@ -123,34 +123,34 @@ void GenerateMapsTreasure(ref item, int iProbability1, int iProbability2)
 
 void FillMapForTreasure(ref item)
 {
-    item.MapIslId   = GetIslandForTreasure();
-    item.MapLocId   = GetLocationForTreasure(item.MapIslId);
-    item.MapBoxId   = GetBoxForTreasure(item.MapIslId, item.MapLocId);
-    item.MapTypeIdx = rand(2);
+	item.MapIslId   = GetIslandForTreasure();
+	item.MapLocId   = GetLocationForTreasure(item.MapIslId);
+	item.MapBoxId   = GetBoxForTreasure(item.MapIslId, item.MapLocId);
+	item.MapTypeIdx = rand(2);
 
-    // генерим клад
-    DeleteAttribute(item, "BoxTreasure");
-    FillBoxForTreasure(item);
-    FillBoxForTreasureAddition(item);
+	// генерим клад
+	DeleteAttribute(item, "BoxTreasure");
+	FillBoxForTreasure(item);
+	FillBoxForTreasureAddition(item);
 
-    if (!CheckAttribute(Pchar, "GenQuest.TreasureBuild") && !CheckAttribute(&TEV, "MapTreasureNoScam"))
-    {
-        if (rand(15) == 1)
+	if (!CheckAttribute(Pchar, "GenQuest.TreasureBuild") && !CheckAttribute(&TEV, "MapTreasureNoScam"))
+	{
+		if (rand(15) == 1)
 			item.MapTypeIdx = -1;
-    }
-    else
-    {
-       FillBoxForTreasureSuper(item);
-    }
-    DeleteAttribute(Pchar, "GenQuest.TreasureBuild"); //сборный
+	}
+	else
+	{
+		FillBoxForTreasureSuper(item);
+	}
+	DeleteAttribute(Pchar, "GenQuest.TreasureBuild"); //сборный
 	DeleteAttribute(&TEV, "MapTreasureNoScam");
 
-    if (sti(item.MapTypeIdx) != -1)
-    {
-        Pchar.quest.SetTreasureFromMap.win_condition.l1          = "location";
-        Pchar.quest.SetTreasureFromMap.win_condition.l1.location = item.MapLocId;
-        Pchar.quest.SetTreasureFromMap.win_condition             = "SetTreasureFromMap";
-    }
+	if (sti(item.MapTypeIdx) != -1)
+	{
+		Pchar.quest.SetTreasureFromMap.win_condition.l1          = "location";
+		Pchar.quest.SetTreasureFromMap.win_condition.l1.location = item.MapLocId;
+		Pchar.quest.SetTreasureFromMap.win_condition             = "SetTreasureFromMap";
+	}
 }
 
 void FillBoxForTreasure(ref treasure)
@@ -159,15 +159,15 @@ void FillBoxForTreasure(ref treasure)
 	// определяем тип
 	switch (quality)
 	{
-	    case 1: // best
+		case 1: // best
 			GenerateBestTreasureContent(treasure);
-	    break;
-	    case 2: // bad
+		break;
+		case 2: // bad
 			GenerateBadTreasureContent(treasure);
-	    break;
-	    default: // 0 and 0, good
+		break;
+		default: // 0 and 0, good
 			GenerateGoodTreasureContent(treasure);
-	    break;
+		break;
 	}
 }
 
@@ -282,7 +282,7 @@ void GenerateBestTreasureContent(ref treasure)
 	}
 	GenerateMapsTreasure(treasure, 25, 50);
 
-	int craftRand = drand(19); // ~20-25%
+	int craftRand = rand(19); // ~20-25%
 	switch (craftRand)
 	{
 		case  0:
@@ -295,7 +295,7 @@ void GenerateBestTreasureContent(ref treasure)
 		case 14:	treasure.BoxTreasure.alchemy_kit = 1;		break;
 	}
 
-	craftRand = drand(14); // ~20%
+	craftRand = rand(14); // ~20%
 	switch (craftRand)
 	{
 		case  2:	treasure.BoxTreasure.ethanol = 1;			break;
@@ -378,108 +378,108 @@ void GenerateBadTreasureContent(ref treasure)
 
 void FillBoxForTreasureAddition(ref item)
 {
-    float nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
+	float nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
 
-    if (5 * nLuck > rand(55))
-    {
-	    if (GetCharacterItem(Pchar, "map_part1") == 0)
-	    {
-	        item.BoxTreasure.map_part1 = 1;
-	    }
-	    else
-	    {
-	        if (GetCharacterItem(Pchar, "map_part2") == 0)
-		    {
-		        item.BoxTreasure.map_part2 = 1;
-		    }
-	    }
+	if (5 * nLuck > rand(55))
+	{
+		if (GetCharacterItem(Pchar, "map_part1") == 0)
+		{
+			item.BoxTreasure.map_part1 = 1;
+		}
+		else
+		{
+			if (GetCharacterItem(Pchar, "map_part2") == 0)
+			{
+				item.BoxTreasure.map_part2 = 1;
+			}
+		}
 	}
 	// +1 вещи
 	switch (rand(40))
 	{
 		case 1:
-		    item.BoxTreasure.STATUE1 = 1;
+			item.BoxTreasure.STATUE1 = 1;
 		break;
 		case 2:
-		    item.BoxTreasure.jewelry9 = 1;
+			item.BoxTreasure.jewelry9 = 1;
 		break;
 		case 3:
-		    item.BoxTreasure.jewelry15 = 1;
+			item.BoxTreasure.jewelry15 = 1;
 		break;
 		case 4:
-		    item.BoxTreasure.jewelry8 = 1;
+			item.BoxTreasure.jewelry8 = 1;
 		break;
 		case 5:
-		    item.BoxTreasure.indian7 = 1;
+			item.BoxTreasure.indian7 = 1;
 		break;
 		case 6:
-		    item.BoxTreasure.indian2 = 1;
+			item.BoxTreasure.indian2 = 1;
 		break;
 		case 7:
-		    item.BoxTreasure.jewelry4 = 1;
+			item.BoxTreasure.jewelry4 = 1;
 		break;
 		case 8:
-		    item.BoxTreasure.indian3 = 1;
+			item.BoxTreasure.indian3 = 1;
 		break;
 		case 9:
-		    item.BoxTreasure.indian1 = 1;
+			item.BoxTreasure.indian1 = 1;
 		break;
 		case 10:
-		    item.BoxTreasure.indian5 = 1;
+			item.BoxTreasure.indian5 = 1;
 		break;
 		case 11:
-		    item.BoxTreasure.indian6 = 1;
+			item.BoxTreasure.indian6 = 1;
 		break;
 		case 12:
-		    item.BoxTreasure.indian10 = 1;
+			item.BoxTreasure.indian10 = 1;
 		break;
 		case 13:
-		    item.BoxTreasure.indian12 = 1;
+			item.BoxTreasure.indian12 = 1;
 		break;
 		case 14:
-		    item.BoxTreasure.indian14 = 1;
+			item.BoxTreasure.indian14 = 1;
 		break;
 		case 15:
-		    item.BoxTreasure.indian15 = 1;
+			item.BoxTreasure.indian15 = 1;
 		break;
 		case 16:
-		    item.BoxTreasure.indian17 = 1;
+			item.BoxTreasure.indian17 = 1;
 		break;
 		case 17:
-		    item.BoxTreasure.indian18 = 1;
+			item.BoxTreasure.indian18 = 1;
 		break;
 		case 18:
-		    item.BoxTreasure.indian19 = 1;
+			item.BoxTreasure.indian19 = 1;
 		break;
 		case 19:
-		    item.BoxTreasure.indian20 = 1;
+			item.BoxTreasure.indian20 = 1;
 		break;
 		case 20:
-		    item.BoxTreasure.indian21 = 1;
+			item.BoxTreasure.indian21 = 1;
 		break;
 		case 21:
-		    item.BoxTreasure.indian22 = 1;
+			item.BoxTreasure.indian22 = 1;
 		break;
 		case 22:
-		    item.BoxTreasure.Mineral3 = 1;
+			item.BoxTreasure.Mineral3 = 1;
 		break;
 		case 23:
-		    item.BoxTreasure.Mineral8 = 1;
+			item.BoxTreasure.Mineral8 = 1;
 		break;
 		case 24:
-		    item.BoxTreasure.Coins = 1;
+			item.BoxTreasure.Coins = 1;
 		break;
 		case 25:
-		    item.BoxTreasure.sculMa1 = 1;
+			item.BoxTreasure.sculMa1 = 1;
 		break;
 		case 26:
-		    item.BoxTreasure.sculMa2 = 1;
+			item.BoxTreasure.sculMa2 = 1;
 		break;
 		case 27:
-		    item.BoxTreasure.sculMa3 = 1;
+			item.BoxTreasure.sculMa3 = 1;
 		break;
 		case 28:
-		    item.BoxTreasure.mushket_flint = 1;
+			item.BoxTreasure.mushket_flint = 1;
 		break;
 	}
 	GenerateMapsTreasure(item, 10, 20);
@@ -491,10 +491,6 @@ void FillBoxForTreasureAddition(ref item)
 
 void FillBoxForTreasureSuper(ref item)
 {
-    float     nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
-	int     i;
-	string  itmName;
-	
 	// evganat - энциклопедия
 	if (CheckRandomPage("treasurechest", "", -1))
 	{
@@ -502,13 +498,14 @@ void FillBoxForTreasureSuper(ref item)
 		item.encyclopedia.page = 3;
 	}
 
-    if (3 * nLuck > rand(21))// ещё поди найди 2 куска
-    {
+	float nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
+	if (3 * nLuck > rand(21))// ещё поди найди 2 куска
+	{
 		string itemName = GetSuperTreasureItem();
-	    if (itemName != "")
-	    {
-	        item.BoxTreasure.(itemName) = 1;
-	    }
+		if (itemName != "")
+		{
+			item.BoxTreasure.(itemName) = 1;
+		}
 	}
 }
 
@@ -583,46 +580,46 @@ string GetSuperTreasureItem()
 
 void SetTreasureBoxFromMap()
 {
-    aref   item;
-    ref    loc;
-    aref   arToBox;
-    aref   arFromBox;
+	aref   item;
+	ref    loc;
+	aref   arToBox;
+	aref   arFromBox;
 
-    if (GetCharacterItem(Pchar, "map_full")>0 )
-    {
-//        Log_Info(StringFromKey("InfoMessages_105"));
-        notification(StringFromKey("InfoMessages_105"), "Icollection");
-        PlaySound("Notebook");
+	if (GetCharacterItem(Pchar, "map_full")>0 )
+	{
+		//        Log_Info(StringFromKey("InfoMessages_105"));
+		notification(StringFromKey("InfoMessages_105"), "Icollection");
+		PlaySound("Notebook");
 		Statistic_AddValue(Pchar, "Treasure", 1);
 		Achievement_AddStats_Treasure();
 
-        // немного веселой жизни
-        TraderHunterOnMap();
-        if( CheckAttribute(Pchar,"location.from_sea") )
-        {
-            if (rand(2) == 1) //33%
-            {
-                Pchar.quest.SetTreasureHunter.win_condition.l1          = "location";
-                Pchar.quest.SetTreasureHunter.win_condition.l1.location = Pchar.location.from_sea;
-                Pchar.quest.SetTreasureHunter.win_condition             = "";
-                Pchar.quest.SetTreasureHunter.function    = "SetTreasureHunter";
-            }
-        }
+		// немного веселой жизни
+		TraderHunterOnMap();
+		if( CheckAttribute(Pchar,"location.from_sea") )
+		{
+			if (rand(2) == 1) //33%
+			{
+				Pchar.quest.SetTreasureHunter.win_condition.l1          = "location";
+				Pchar.quest.SetTreasureHunter.win_condition.l1.location = Pchar.location.from_sea;
+				Pchar.quest.SetTreasureHunter.win_condition             = "";
+				Pchar.quest.SetTreasureHunter.function    = "SetTreasureHunter";
+			}
+		}
 
-        Items_FindItem("map_full", &item);
+		Items_FindItem("map_full", &item);
 
 		string box = item.MapBoxId;
 
-        loc = &locations[FindLocation(item.MapLocId)];
-        loc.(box).items = "";
+		loc = &locations[FindLocation(item.MapLocId)];
+		loc.(box).items = "";
 
-        makearef(arToBox, loc.(box).items);
-        makearef(arFromBox, item.BoxTreasure);
-        CopyAttributes(arToBox, arFromBox);
+		makearef(arToBox, loc.(box).items);
+		makearef(arFromBox, item.BoxTreasure);
+		CopyAttributes(arToBox, arFromBox);
 
-        loc.(box) = Items_MakeTime(GetTime(), GetDataDay(), GetDataMonth(), GetDataYear());
-        loc.(box).Treasure =  true; // признак сокровища в сундуке
-		
+		loc.(box) = Items_MakeTime(GetTime(), GetDataDay(), GetDataMonth(), GetDataYear());
+		loc.(box).Treasure =  true; // признак сокровища в сундуке
+
 		// evganat - энциклопедия
 		if (!ENCYCLOPEDIA_DISABLED && CheckAttribute(item, "encyclopedia"))
 		{
@@ -630,89 +627,89 @@ void SetTreasureBoxFromMap()
 			loc.(box).encyclopedia.page = item.encyclopedia.page;
 		}
 
-        DeleteAttribute(item, "MapIslId");
-        TakeNItems(Pchar, "map_full", -1);
-    }
+		DeleteAttribute(item, "MapIslId");
+		TakeNItems(Pchar, "map_full", -1);
+	}
 }
 //  Карты сокровищ  ГЕНЕРАТОР <--
 
 // погодня за ГГ на карте
 void  TraderHunterOnMap()
 {
-    // немного веселой жизни
-    ref  sld;
+	// немного веселой жизни
+	ref  sld;
 
-    string sCapId = "Follower0";
-    string sGroup = "Sea_" + sCapId + "1";
+	string sCapId = "Follower0";
+	string sGroup = "Sea_" + sCapId + "1";
 
 	Group_DeleteGroup(sGroup);
 	Group_FindOrCreateGroup(sGroup);
-    for (int i = 1; i <= GetCompanionQuantity(pchar); i++)
-    {
-        sld = GetCharacter(NPC_GenerateCharacter(sCapId + i, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 15, true));
-        SetShipHunter(sld);
-        SetFantomParamHunter(sld); //крутые парни
-        SetCaptanModelByEncType(sld, "war");
-        sld.AlwaysEnemy = true;
-        sld.DontRansackCaptain = true;
-        sld.mapEnc.type = "war";
-        sld.mapEnc.Name = FindPersonalName("Gentlemen_mapEnc");
+	for (int i = 1; i <= GetCompanionQuantity(pchar); i++)
+	{
+		sld = GetCharacter(NPC_GenerateCharacter(sCapId + i, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 15, true));
+		SetShipHunter(sld);
+		SetFantomParamHunter(sld); //крутые парни
+		SetCaptanModelByEncType(sld, "war");
+		sld.AlwaysEnemy = true;
+		sld.DontRansackCaptain = true;
+		sld.mapEnc.type = "war";
+		sld.mapEnc.Name = FindPersonalName("Gentlemen_mapEnc");
 		sld.hunter = "pirate";
-        Group_AddCharacter(sGroup, sCapId + i);
-    }
+		Group_AddCharacter(sGroup, sCapId + i);
+	}
 
-    Group_SetGroupCommander(sGroup, sCapId+ "1");
-    Group_SetTaskAttackInMap(sGroup, PLAYER_GROUP);
-    Group_LockTask(sGroup);
-    Map_CreateWarrior("", sCapId + "1", 8);
+	Group_SetGroupCommander(sGroup, sCapId+ "1");
+	Group_SetTaskAttackInMap(sGroup, PLAYER_GROUP);
+	Group_LockTask(sGroup);
+	Map_CreateWarrior("", sCapId + "1", 8);
 }
 
 void SetTreasureHunter(string temp)
 {
-    int index, k;
+	int index, k;
 	ref sld;
 
 	if (chrDisableReloadToLocation) return; // идет некий другой квест с запретом выхода
-	
-    Pchar.GenQuest.Hunter2Pause = true;
-    
-    int j = GetOfficersQuantity(Pchar) + 2;
+
+	Pchar.GenQuest.Hunter2Pause = true;
+
+	int j = GetOfficersQuantity(Pchar) + 2;
 
 	string sCapId = "LandHunter0";
 	string sTemp = "LAND_HUNTER";
 	bool ok = true;
 	arrayNPCModelHow = 0;
 
-    for (index = 1; index <= j; index++)
-    {
-        sld = GetCharacter(NPC_GenerateCharacter(sCapId + i, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 0, true));
-        SetFantomParamHunter(sld); //крутые парни
-        sld.Dialog.CurrentNode = "TreasureHunter";
-        sld.dialog.filename = "Hunter_dialog.c";
-        sld.greeting = "Gr_HUNTER";
-        sld.location = "none"; // вот где порылась собака!!!!!!!!!!!
+	for (index = 1; index <= j; index++)
+	{
+		sld = GetCharacter(NPC_GenerateCharacter(sCapId + index, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 0, true));
+		SetFantomParamHunter(sld); //крутые парни
+		sld.Dialog.CurrentNode = "TreasureHunter";
+		sld.dialog.filename = "Hunter_dialog.c";
+		sld.greeting = "Gr_HUNTER";
+		sld.location = "none"; // вот где порылась собака!!!!!!!!!!!
 
-        SetModelPirate(sld);
-        k = 0;
+		SetModelPirate(sld);
+		k = 0;
 		while (!CheckNPCModelUniq(sld) && k < 10)
 		{
-		    k++;
+			k++;
 			SetModelPirate(sld);
 		}
 		arrayNPCModel[arrayNPCModelHow] = sld.model;
 		arrayNPCModelHow++;
-		
-        LAi_SetActorTypeNoGroup(sld);
-        LAi_SetCheckMinHP(sld, (LAi_GetCharacterHP(sld) - 1), false, "Battle_Hunters_Land");
-        if (PlaceCharacter(sld, "goto", "random_must_be_near") == "" && i == 1) // fix если вдруг нет в локации
-        {
-            ok = false;
-            break;
-        }
-        LAi_ActorFollow(sld, pchar, "", 8.0);
-        //LAi_Actor2WaitDialog(sld, pchar); // ждать диалог, но бежать
-        LAi_group_MoveCharacter(sld, sTemp);
-    }
+
+		LAi_SetActorTypeNoGroup(sld);
+		LAi_SetCheckMinHP(sld, (LAi_GetCharacterHP(sld) - 1), false, "Battle_Hunters_Land");
+		if (PlaceCharacter(sld, "goto", "random_must_be_near") == "" && index == 1) // fix если вдруг нет в локации
+		{
+			ok = false;
+			break;
+		}
+		LAi_ActorFollow(sld, pchar, "", 8.0);
+		//LAi_Actor2WaitDialog(sld, pchar); // ждать диалог, но бежать
+		LAi_group_MoveCharacter(sld, sTemp);
+	}
 
 	LAi_group_SetRelation(sTemp, LAI_GROUP_PLAYER, LAI_GROUP_NEITRAL);
 	LAi_group_SetRelation(sTemp, LAI_GROUP_PLAYER_OWN, LAI_GROUP_NEITRAL);
@@ -720,16 +717,16 @@ void SetTreasureHunter(string temp)
 	LAi_group_ClearAllTargets();
 	LAi_SetFightModeForOfficers(false);
 	if (ok)
-    {
-        PChar.HunterCost = makeint(sti(Pchar.money) / 5) + rand(20)*1000; //сразу генерим
-        PChar.HunterCost.Qty = index;
-        PChar.HunterCost.TempHunterType = "";
-        sld = characterFromID(sCapId + "1");
-        LAi_type_actor_Reset(sld);
-        LAi_ActorDialog(sld, pchar, "", 4.0, 0);
+	{
+		PChar.HunterCost = makeint(sti(Pchar.money) / 5) + rand(20)*1000; //сразу генерим
+		PChar.HunterCost.Qty = index;
+		PChar.HunterCost.TempHunterType = "";
+		sld = characterFromID(sCapId + "1");
+		LAi_type_actor_Reset(sld);
+		LAi_ActorDialog(sld, pchar, "", 4.0, 0);
 		chrDisableReloadToLocation = true;
 		DoQuestCheckDelay("OpenTheDoors", 5.0);
-    }
+	}
 }
 
 //=====================================================================================================================================
