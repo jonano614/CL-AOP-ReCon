@@ -7,7 +7,7 @@ string GetIslandForTreasure()
 	string islandName;
 
 	int islandsForNewTreasureArrayLength = 0;
-	string currentIslandId = GetCharacterCurrentIslandId(pchar);
+	string currentIslandId = GetCharacterCurrentIslandId(Pchar);
 	makearef(islandArrayRef, NullCharacter.TravelMap.Islands);
 	int islandsCount = GetAttributesNum(islandArrayRef);
 
@@ -34,12 +34,12 @@ bool CheckTreasureMaps(string sIsland)
 {
 	ref Itm;
 
-	if(GetCharacterItem(pchar,"mapQuest") > 0)
+	if(GetCharacterItem(Pchar,"mapQuest") > 0)
 	{
 		itm = ItemsFromID("mapQuest");
 		if(CheckAttribute(itm, "MapIslId") && itm.MapIslId == sIsland) return true;
 	}
-	if(GetCharacterItem(pchar,"map_full") > 0)
+	if(GetCharacterItem(Pchar,"map_full") > 0)
 	{
 		itm = ItemsFromID("map_full");
 		if(CheckAttribute(itm, "MapIslId") && itm.MapIslId == sIsland) return true;
@@ -645,7 +645,7 @@ void  TraderHunterOnMap()
 
 	Group_DeleteGroup(sGroup);
 	Group_FindOrCreateGroup(sGroup);
-	for (int i = 1; i <= GetCompanionQuantity(pchar); i++)
+	for (int i = 1; i <= GetCompanionQuantity(Pchar); i++)
 	{
 		sld = GetCharacter(NPC_GenerateCharacter(sCapId + i, "off_hol_2", "man", "man", sti(PChar.rank) + 5, PIRATE, 15, true));
 		SetShipHunter(sld);
@@ -707,8 +707,8 @@ void SetTreasureHunter(string temp)
 			ok = false;
 			break;
 		}
-		LAi_ActorFollow(sld, pchar, "", 8.0);
-		//LAi_Actor2WaitDialog(sld, pchar); // ждать диалог, но бежать
+		LAi_ActorFollow(sld, Pchar, "", 8.0);
+		//LAi_Actor2WaitDialog(sld, Pchar); // ждать диалог, но бежать
 		LAi_group_MoveCharacter(sld, sTemp);
 	}
 
@@ -724,7 +724,7 @@ void SetTreasureHunter(string temp)
 		PChar.HunterCost.TempHunterType = "";
 		sld = characterFromID(sCapId + "1");
 		LAi_type_actor_Reset(sld);
-		LAi_ActorDialog(sld, pchar, "", 4.0, 0);
+		LAi_ActorDialog(sld, Pchar, "", 4.0, 0);
 		chrDisableReloadToLocation = true;
 		DoQuestCheckDelay("OpenTheDoors", 5.0);
 	}
@@ -743,7 +743,7 @@ void Set_TreasureBarrel()
 
 	makearef(trBarrel, nulChr.GenQuest.Barrel);
 	int irand;
-	if(CheckCharacterPerk(pchar, "HawkEye"))
+	if(CheckCharacterPerk(Pchar, "HawkEye"))
 	{
 		irand = rand(100);
 	}
@@ -751,7 +751,7 @@ void Set_TreasureBarrel()
 	{
 		irand = rand(200);
 	}
-	if(GetSummonSkillFromName(pchar, "Fortune") > irand)
+	if(GetSummonSkillFromName(Pchar, "Fortune") > irand)
 	{
 		irand = rand(20);
 		switch(irand)
@@ -787,13 +787,13 @@ void Set_TreasureBarrel()
 			case 18:	trBarrel.items.indian6 = 1;				break;
 			case 21:	trBarrel.items.incas_collection = 1;	break;
 			case 24:
-				if (GetCharacterItem(pchar, "map_full") == 0)
+				if (GetCharacterItem(Pchar, "map_full") == 0)
 				{
-					if (GetCharacterItem(pchar, "map_part1") == 0)
+					if (GetCharacterItem(Pchar, "map_part1") == 0)
 						trBarrel.items.map_part1 = 1;
 					else
 					{
-						if (GetCharacterItem(pchar, "map_part2") == 0)
+						if (GetCharacterItem(Pchar, "map_part2") == 0)
 							trBarrel.items.map_part2 = 1;
 					}
 				}
