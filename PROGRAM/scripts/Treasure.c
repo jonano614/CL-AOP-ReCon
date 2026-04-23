@@ -128,13 +128,24 @@ void FillMapForTreasure(ref item)
 	item.MapBoxId   = GetBoxForTreasure(item.MapIslId, item.MapLocId);
 	item.MapTypeIdx = rand(2);
 
-	Trace("Generating the treasure");
 	// генерим клад
 	DeleteAttribute(item, "BoxTreasure");
-	FillBoxForTreasure(item);
+
+	bool isSuperTreasure = CheckAttribute(Pchar, "GenQuest.TreasureBuild") || CheckAttribute(&TEV, "MapTreasureNoScam");
+
+	///
+	string treasureLevel = "level 1";
+	if(isSuperTreasure)
+	{
+    	treasureLevel = "level 2";
+	}
+	Trace("Generating the treasure " + treasureLevel);
+	///
+
+	FillBoxForTreasure(item, isSuperTreasure);
 	FillBoxForTreasureAddition(item);
 
-	if (!CheckAttribute(Pchar, "GenQuest.TreasureBuild") && !CheckAttribute(&TEV, "MapTreasureNoScam"))
+	if (!isSuperTreasure)
 	{
 		if (rand(15) == 1)
 			item.MapTypeIdx = -1;
@@ -157,7 +168,7 @@ void FillMapForTreasure(ref item)
 	}
 }
 
-void FillBoxForTreasure(ref treasure)
+void FillBoxForTreasure(ref treasure, bool isSuperTreasure)
 {
 	int luck = GetCharacterSPECIAL(pchar, SPECIAL_L);
 	int fortune = GetCharacterSkill(Pchar, SKILL_FORTUNE);
@@ -168,20 +179,43 @@ void FillBoxForTreasure(ref treasure)
 	// with luck = 3 luckMultiplierFactor = 0.3 and max possible quantity = 100 * 0.3 = 30
 	float luckMultiplierFactor = luck / 10.0;
 
-	Trace("FillBoxForTreasure luck = " + luck + ", fortune = " + fortune);
+	Trace("FillBoxForTreasure luck = " + luck + ", fortune = " + fortune + ", luckMultiplierFactor = " + luckMultiplierFactor);
 
-	// определяем тип
-	float chanceToGetBadTreasure = (SKILL_MAX - fortune) / 2.0;	// 0% when fortune = 100 and 50% when fortune = 0
-	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure);
-	if(rand(100_PERCENT) < chanceToGetBadTreasure)
+	// chance to get bad treasure
+	// for treasure level 1: 0% when fortune = 100 and 50% when fortune = 0
+	// for treasure level 2: 0% when fortune = 100 and 25% when fortune = 0
+	float chanceToGetBadTreasure;
+	if(!isSuperTreasure)
+	{
+	    chanceToGetBadTreasure =  (SKILL_MAX - fortune) / 2.0;
+	}
+	else
+	{
+		chanceToGetBadTreasure =  (SKILL_MAX - fortune) / 4.0;
+	}
+	int roll = rand(100_PERCENT);
+	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure + " roll = " + roll);
+	if(roll < chanceToGetBadTreasure)
 	{
 		GenerateBadTreasureContent(treasure, luckMultiplierFactor);
 		return;
 	}
 
-	float chanceToGetBestTreasure = fortune * 0.8 / 2.0 + 10;	// 50% when fortune = 100 and 10% when fortune = 0
-	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure);
-	if(rand(100_PERCENT) < chanceToGetBestTreasure)
+	// chance to get the best treasure
+	// for treasure level 1: 50% when fortune = 100 and 10% when fortune = 0
+	// for treasure level 2: 70% when fortune = 100 and 30% when fortune = 0
+	float chanceToGetBestTreasure;
+	if(!isSuperTreasure)
+	{
+		chanceToGetBestTreasure = fortune * 0.8 / 2.0 + 10;
+	}
+	else
+	{
+		chanceToGetBestTreasure = fortune * 0.8 / 2.0 + 30;
+	}
+	roll = rand(100_PERCENT);
+	Trace("chanceToGetBestTreasure = " + chanceToGetBestTreasure + " roll = " + roll);
+	if(roll < chanceToGetBestTreasure)
 	{
 		GenerateBestTreasureContent(treasure, luckMultiplierFactor);
 		return;
