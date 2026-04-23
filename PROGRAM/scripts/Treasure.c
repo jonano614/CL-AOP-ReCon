@@ -89,7 +89,7 @@ string GetFileMapForTreasure(string island)
 	return "";
 }
 
-void GenerateMapsTreasure(ref item, int iProbability1, int iProbability2)
+void GenerateMapsInTreasure(ref item, int iProbability1, int iProbability2)
 {
 	if(rand(iProbability1) == 1 && !CheckMainHeroMap("map_jam")) item.BoxTreasure.map_jam = 1;
 
@@ -230,7 +230,7 @@ void GenerateGoodTreasureContent(ref treasure)
 		treasure.BoxTreasure.mushket_poor = 1;
 	}
 
-	int craftRand = rand(15); // ~25%
+	int craftRand = rand(15); // ~26%
 	switch (craftRand)
 	{
 		case  4:	treasure.BoxTreasure.lamp = 1;				break;
@@ -239,7 +239,7 @@ void GenerateGoodTreasureContent(ref treasure)
 		case 11:	treasure.BoxTreasure.crucible = 1;			break;
 	}
 
-	GenerateMapsTreasure(treasure, 35, 70);
+	GenerateMapsInTreasure(treasure, 35, 70);
 }
 
 void GenerateBestTreasureContent(ref treasure)
@@ -302,7 +302,7 @@ void GenerateBestTreasureContent(ref treasure)
 		case 9:	treasure.BoxTreasure.fulminate_silver = 1;	break;
 	}
 
-	GenerateMapsTreasure(treasure, 25, 50);
+	GenerateMapsInTreasure(treasure, 25, 50);
 }
 
 void GenerateBadTreasureContent(ref treasure)
@@ -483,7 +483,7 @@ void FillBoxForTreasureAddition(ref item)
 			item.BoxTreasure.mushket_flint = 1;
 		break;
 	}
-	GenerateMapsTreasure(item, 10, 20);
+	GenerateMapsInTreasure(item, 10, 20);
 
 	//добавим тотемы
 	string sName = "Totem_" + (rand(9)+1);
