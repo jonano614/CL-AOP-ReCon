@@ -1,4 +1,4 @@
-// клады из ВМЛ
+#define 100_PERCENT 100
 
 //  Карты сокровищ  ГЕНЕРАТОР -->
 string GetIslandForTreasure()
@@ -128,6 +128,7 @@ void FillMapForTreasure(ref item)
 	item.MapBoxId   = GetBoxForTreasure(item.MapIslId, item.MapLocId);
 	item.MapTypeIdx = rand(2);
 
+	Trace("Generating the treasure");
 	// генерим клад
 	DeleteAttribute(item, "BoxTreasure");
 	FillBoxForTreasure(item);
@@ -142,6 +143,9 @@ void FillMapForTreasure(ref item)
 	{
 		FillBoxForTreasureSuper(item);
 	}
+
+	TraceGeneratedTreasureBox(item);
+
 	DeleteAttribute(Pchar, "GenQuest.TreasureBuild"); //сборный
 	DeleteAttribute(&TEV, "MapTreasureNoScam");
 
@@ -155,71 +159,88 @@ void FillMapForTreasure(ref item)
 
 void FillBoxForTreasure(ref treasure)
 {
-	int quality = rand(3);
+	int luck = GetCharacterSPECIAL(pchar, SPECIAL_L);
+	int fortune = GetCharacterSkill(Pchar, SKILL_FORTUNE);
+
+	// quantity of items in treasury depends on luck
+	// for example some item in treasure can have max quantity = 100
+	// with luck = 10 luckMultiplierFactor = 1.0 and max possible quantity = 100 * 1.0 = 100
+	// with luck = 3 luckMultiplierFactor = 0.3 and max possible quantity = 100 * 0.3 = 30
+	float luckMultiplierFactor = luck / 10.0;
+
+	Trace("FillBoxForTreasure luck = " + luck + ", fortune = " + fortune);
+
 	// определяем тип
-	switch (quality)
+	float chanceToGetBadTreasure = (SKILL_MAX - fortune) / 2.0;	// 0% when fortune = 100 and 50% when fortune = 0
+	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure);
+	if(rand(100_PERCENT) < chanceToGetBadTreasure)
 	{
-		case 1: // best
-			GenerateBestTreasureContent(treasure);
-		break;
-		case 2: // bad
-			GenerateBadTreasureContent(treasure);
-		break;
-		default: // 0 and 3, good
-			GenerateGoodTreasureContent(treasure);
-		break;
+		GenerateBadTreasureContent(treasure, luckMultiplierFactor);
+		return;
 	}
+
+	float chanceToGetBestTreasure = fortune * 0.8 / 2.0 + 10;	// 50% when fortune = 100 and 10% when fortune = 0
+	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure);
+	if(rand(100_PERCENT) < chanceToGetBestTreasure)
+	{
+		GenerateBestTreasureContent(treasure, luckMultiplierFactor);
+		return;
+	}
+
+	GenerateGoodTreasureContent(treasure, luckMultiplierFactor);
 }
 
-void GenerateGoodTreasureContent(ref treasure)
+void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
 {
+	Trace("Good treasure");
+
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry2 = 2 + rand(30);
+		treasure.BoxTreasure.jewelry2 = 2 + rand(30 * luckMultiplierFactor);
 	}
 	else
 	{
-		treasure.BoxTreasure.jewelry3 = 10 + rand(3);
+		treasure.BoxTreasure.jewelry3 = 10 + rand(3 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry3 = 1 + rand(30);
+		treasure.BoxTreasure.jewelry3 = 1 + rand(30 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry5 = 5 + rand(60);
+		treasure.BoxTreasure.jewelry5 = 5 + rand(60 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry7 = 15 + rand(100);
+		treasure.BoxTreasure.jewelry7 = 15 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry10 = 15 + rand(100);
+		treasure.BoxTreasure.jewelry10 = 15 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry13 = 5 + rand(100);
+		treasure.BoxTreasure.jewelry13 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry14 = 5 + rand(100);
+		treasure.BoxTreasure.jewelry14 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry17 = 5 + rand(100);
+		treasure.BoxTreasure.jewelry17 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry18 = 5 + rand(100);
+		treasure.BoxTreasure.jewelry18 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral2 = 5 + rand(100);
+		treasure.BoxTreasure.mineral2 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral5 = 5 + rand(100);
+		treasure.BoxTreasure.mineral5 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(4) == 1)
 	{
@@ -242,35 +263,37 @@ void GenerateGoodTreasureContent(ref treasure)
 	GenerateMapsInTreasure(treasure, 35, 70);
 }
 
-void GenerateBestTreasureContent(ref treasure)
+void GenerateBestTreasureContent(ref treasure, float luckMultiplierFactor)
 {
+	Trace("Best treasure");
+
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.chest = 1 + rand(14);
+		treasure.BoxTreasure.chest = 1 + rand(14 * luckMultiplierFactor);
 	}
 	else
 	{
-		treasure.BoxTreasure.jewelry12 = 10 + rand(3);
+		treasure.BoxTreasure.jewelry12 = 10 + rand(3 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.incas_collection = 1 + rand(4);
+		treasure.BoxTreasure.incas_collection = 1 + rand(4 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry1 = 15 + rand(100);
+		treasure.BoxTreasure.jewelry1 = 15 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry12 = 15 + rand(100);
+		treasure.BoxTreasure.jewelry12 = 15 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry11 = 15 + rand(100);
+		treasure.BoxTreasure.jewelry11 = 15 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry6 = 5 + rand(100);
+		treasure.BoxTreasure.jewelry6 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(4) == 1)
 	{
@@ -305,67 +328,69 @@ void GenerateBestTreasureContent(ref treasure)
 	GenerateMapsInTreasure(treasure, 25, 50);
 }
 
-void GenerateBadTreasureContent(ref treasure)
+void GenerateBadTreasureContent(ref treasure, float luckMultiplierFactor)
 {
+	Trace("Bad treasure");
+
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.kocherg = 5 + rand(100);
+		treasure.BoxTreasure.kocherg = 5 + rand(100 * luckMultiplierFactor);
 	}
 	else
 	{
-		treasure.BoxTreasure.blade1 = 5 + rand(100);//fix
+		treasure.BoxTreasure.blade1 = 5 + rand(100 * luckMultiplierFactor);//fix
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.blade1 = 5 + rand(100);
+		treasure.BoxTreasure.blade1 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.blade5 = 5 + rand(100);
+		treasure.BoxTreasure.blade5 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry16 = 5 + rand(100);
+		treasure.BoxTreasure.jewelry16 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral4 = 5 + rand(100);
+		treasure.BoxTreasure.mineral4 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral6 = 5 + rand(200);
+		treasure.BoxTreasure.mineral6 = 5 + rand(200 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral7 = 5 + rand(100);
+		treasure.BoxTreasure.mineral7 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral9 = 5 + rand(100);
+		treasure.BoxTreasure.mineral9 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral10 = 25 + rand(300);
+		treasure.BoxTreasure.mineral10 = 25 + rand(300 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian4 = 15 + rand(300);
+		treasure.BoxTreasure.indian4 = 15 + rand(300 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian8 = 5 + rand(100);
+		treasure.BoxTreasure.indian8 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian9 = 5 + rand(100);
+		treasure.BoxTreasure.indian9 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian13 = 5 + rand(100);
+		treasure.BoxTreasure.indian13 = 5 + rand(100 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian16 = 5 + rand(200);
+		treasure.BoxTreasure.indian16 = 5 + rand(200 * luckMultiplierFactor);
 	}
 	if (rand(2) == 1)
 	{
@@ -379,9 +404,9 @@ void GenerateBadTreasureContent(ref treasure)
 
 void FillBoxForTreasureAddition(ref item)
 {
-	float nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
+	float fortune   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
 
-	if (5 * nLuck > rand(55))
+	if (5 * fortune > rand(55))
 	{
 		if (GetCharacterItem(Pchar, "map_part1") == 0)
 		{
@@ -492,6 +517,8 @@ void FillBoxForTreasureAddition(ref item)
 
 void FillBoxForTreasureSuper(ref item)
 {
+	Trace("FillBoxForTreasureSuper");
+
 	// evganat - энциклопедия
 	if (CheckRandomPage("treasurechest", "", -1))
 	{
@@ -499,8 +526,8 @@ void FillBoxForTreasureSuper(ref item)
 		item.encyclopedia.page = 3;
 	}
 
-	float nLuck   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
-	if (3 * nLuck > rand(21))// ещё поди найди 2 куска
+	float fortune   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
+	if (3 * fortune > rand(21))// ещё поди найди 2 куска
 	{
 		string itemName = GetSuperTreasureItem();
 		if (itemName != "")
@@ -833,3 +860,21 @@ void Set_TreasureBarrel()
 //=====================================================================================================================================
 // Ugeen. ГЕНЕРАТОР  "Специальный энкаунтер - бочка"
 //=====================================================================================================================================
+
+void TraceGeneratedTreasureBox(ref treasure)
+{
+	aref arBox;
+
+	makearef(arBox, treasure.BoxTreasure);
+	int itemsCount = GetAttributesNum(arBox);
+	Trace("Generated treasure has + " + itemsCount + " items:");
+
+	for (int i = 0; i < itemsCount; i++)
+	{
+		aref item = GetAttributeN(arBox, i);
+		string name = GetAttributeName(item);
+		int qty = makeint(GetAttributeValue(item));
+
+		Trace("Item: " + name + " quantity = " + qty);
+	}
+}
