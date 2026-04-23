@@ -194,53 +194,67 @@ void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
 {
 	Trace("Good treasure");
 
+	int additionalItemQty;
+
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry2 = 2 + rand(30 * luckMultiplierFactor);
+		additionalItemQty = 30 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry2 = 2 + rand(additionalItemQty);
 	}
 	else
 	{
-		treasure.BoxTreasure.jewelry3 = 10 + rand(3 * luckMultiplierFactor);
+		additionalItemQty = 3 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry3 = 10 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry3 = 1 + rand(30 * luckMultiplierFactor);
+		additionalItemQty = 30 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry3 = 1 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry5 = 5 + rand(60 * luckMultiplierFactor);
+		additionalItemQty = 60 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry5 = 5 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry7 = 15 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry7 = 15 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry10 = 15 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry10 = 15 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry13 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry13 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry14 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry14 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry17 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry17 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry18 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry18 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral2 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral2 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral5 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral5 = 5 + rand(additionalItemQty);
 	}
 	if (rand(4) == 1)
 	{
@@ -267,33 +281,42 @@ void GenerateBestTreasureContent(ref treasure, float luckMultiplierFactor)
 {
 	Trace("Best treasure");
 
+	int additionalItemQty;
+
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.chest = 1 + rand(14 * luckMultiplierFactor);
+		additionalItemQty = 14 * luckMultiplierFactor;
+		treasure.BoxTreasure.chest = 1 + rand(additionalItemQty);
 	}
 	else
 	{
-		treasure.BoxTreasure.jewelry12 = 10 + rand(3 * luckMultiplierFactor);
+		additionalItemQty = 3 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry12 = 10 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.incas_collection = 1 + rand(4 * luckMultiplierFactor);
+		additionalItemQty = 4 * luckMultiplierFactor;
+		treasure.BoxTreasure.incas_collection = 1 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry1 = 15 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry1 = 15 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry12 = 15 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry12 = 15 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry11 = 15 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry11 = 15 + rand(additionalItemQty);
 	}
 	if (rand(1) == 1)
 	{
-		treasure.BoxTreasure.jewelry6 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry6 = 5 + rand(additionalItemQty);
 	}
 	if (rand(4) == 1)
 	{
@@ -332,65 +355,82 @@ void GenerateBadTreasureContent(ref treasure, float luckMultiplierFactor)
 {
 	Trace("Bad treasure");
 
+	int additionalItemQty;
+
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.kocherg = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.kocherg = 5 + rand(additionalItemQty);
 	}
 	else
 	{
-		treasure.BoxTreasure.blade1 = 5 + rand(100 * luckMultiplierFactor);//fix
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.blade1 = 5 + rand(additionalItemQty);//fix
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.blade1 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.blade1 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.blade5 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.blade5 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.jewelry16 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.jewelry16 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral4 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral4 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral6 = 5 + rand(200 * luckMultiplierFactor);
+		additionalItemQty = 200 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral6 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral7 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral7 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral9 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral9 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.mineral10 = 25 + rand(300 * luckMultiplierFactor);
+		additionalItemQty = 300 * luckMultiplierFactor;
+		treasure.BoxTreasure.mineral10 = 25 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian4 = 15 + rand(300 * luckMultiplierFactor);
+		additionalItemQty = 300 * luckMultiplierFactor;
+		treasure.BoxTreasure.indian4 = 15 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian8 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.indian8 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian9 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.indian9 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian13 = 5 + rand(100 * luckMultiplierFactor);
+		additionalItemQty = 100 * luckMultiplierFactor;
+		treasure.BoxTreasure.indian13 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
-		treasure.BoxTreasure.indian16 = 5 + rand(200 * luckMultiplierFactor);
+		additionalItemQty = 200 * luckMultiplierFactor;
+		treasure.BoxTreasure.indian16 = 5 + rand(additionalItemQty);
 	}
 	if (rand(2) == 1)
 	{
@@ -404,7 +444,7 @@ void GenerateBadTreasureContent(ref treasure, float luckMultiplierFactor)
 
 void FillBoxForTreasureAddition(ref item)
 {
-	float fortune   = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
+	float fortune = GetCharacterSkillToOld(Pchar, SKILL_FORTUNE);
 
 	if (5 * fortune > rand(55))
 	{
@@ -867,14 +907,16 @@ void TraceGeneratedTreasureBox(ref treasure)
 
 	makearef(arBox, treasure.BoxTreasure);
 	int itemsCount = GetAttributesNum(arBox);
-	Trace("Generated treasure has + " + itemsCount + " items:");
+	Trace("Generated treasure has " + itemsCount + " items:");
 
 	for (int i = 0; i < itemsCount; i++)
 	{
 		aref item = GetAttributeN(arBox, i);
-		string name = GetAttributeName(item);
+		string itemId = GetAttributeName(item);
+		string localizedName = GetItemName(itemId);
+
 		int qty = makeint(GetAttributeValue(item));
 
-		Trace("Item: " + name + " quantity = " + qty);
+		Trace("Item: " + itemId + "  name = '" + localizedName + "'  quantity = " + qty);
 	}
 }
