@@ -165,7 +165,7 @@ void FillBoxForTreasure(ref treasure)
 		case 2: // bad
 			GenerateBadTreasureContent(treasure);
 		break;
-		default: // 0 and 0, good
+		default: // 0 and 3, good
 			GenerateGoodTreasureContent(treasure);
 		break;
 	}
@@ -280,28 +280,29 @@ void GenerateBestTreasureContent(ref treasure)
 	{
 		treasure.BoxTreasure.mushket = 1;
 	}
-	GenerateMapsTreasure(treasure, 25, 50);
 
-	int craftRand = rand(19); // ~20-25%
+	int craftRand = rand(15); // ~26%
 	switch (craftRand)
 	{
 		case  0:
 			if (!isMultiObjectKnown("recipe_fulminate_silver"))
 				treasure.BoxTreasure.recipe_fulminate_silver = 1;
 		break;
-		//case  3:	item.BoxTreasure.carpenter_kit = 1;		break;
+		//case 3:	item.BoxTreasure.carpenter_kit = 1;		break;
 		case  7:	treasure.BoxTreasure.tailor_kit = 1;		break;
 		case  8:	treasure.BoxTreasure.mechanic_kit = 1;		break;
 		case 14:	treasure.BoxTreasure.alchemy_kit = 1;		break;
 	}
 
-	craftRand = rand(14); // ~20%
+	craftRand = rand(10); // ~30%
 	switch (craftRand)
 	{
-		case  2:	treasure.BoxTreasure.ethanol = 1;			break;
-		case 10:	treasure.BoxTreasure.nitric_acid = 1;		break;
-		case 13:	treasure.BoxTreasure.fulminate_silver = 1;	break;
+		case 2:	treasure.BoxTreasure.ethanol = 1;			break;
+		case 8:	treasure.BoxTreasure.nitric_acid = 1;		break;
+		case 9:	treasure.BoxTreasure.fulminate_silver = 1;	break;
 	}
+
+	GenerateMapsTreasure(treasure, 25, 50);
 }
 
 void GenerateBadTreasureContent(ref treasure)
@@ -772,18 +773,18 @@ void Set_TreasureBarrel()
 			case 15:	trBarrel.items.jewelry16 = rand(35) + 14;	break;
 			case 16:	trBarrel.items.jewelry17 = rand(24) + 18;	break;
 			case 17:	trBarrel.items.jewelry18 = rand(17) + 13;	break;
-			case 18:	trBarrel.items.chest = rand(2) + 1;		break;
+			case 18:	trBarrel.items.chest = rand(2) + 1;			break;
 			case 19:	trBarrel.items.coins = rand(10) + 7;		break;
 		}
 		irand = rand(25);
 		switch(irand)
 		{
-			case 3:		trBarrel.items.indian18 = 1;		break;
-			case 6:		trBarrel.items.indian20 = 1;		break;
-			case 9:		trBarrel.items.indian21 = 1;		break;
-			case 12:	trBarrel.items.indian11 = 1;		break;
-			case 15:	trBarrel.items.indian12 = 1;		break;
-			case 18:	trBarrel.items.indian6 = 1;		break;
+			case 3:		trBarrel.items.indian18 = 1;			break;
+			case 6:		trBarrel.items.indian20 = 1;			break;
+			case 9:		trBarrel.items.indian21 = 1;			break;
+			case 12:	trBarrel.items.indian11 = 1;			break;
+			case 15:	trBarrel.items.indian12 = 1;			break;
+			case 18:	trBarrel.items.indian6 = 1;				break;
 			case 21:	trBarrel.items.incas_collection = 1;	break;
 			case 24:
 				if (GetCharacterItem(pchar, "map_full") == 0)
