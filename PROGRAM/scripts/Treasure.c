@@ -265,7 +265,7 @@ void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
 		treasure.BoxTreasure.mushket_poor = 1;
 	}
 
-	int craftRand = rand(15); // ~26%
+	int craftRand = rand(12); // ~30%
 	switch (craftRand)
 	{
 		case  4:	treasure.BoxTreasure.lamp = 1;				break;
@@ -327,7 +327,7 @@ void GenerateBestTreasureContent(ref treasure, float luckMultiplierFactor)
 		treasure.BoxTreasure.mushket = 1;
 	}
 
-	int craftRand = rand(15); // ~26%
+	int craftRand = rand(12); // ~30%
 	switch (craftRand)
 	{
 		case  0:
@@ -337,15 +337,15 @@ void GenerateBestTreasureContent(ref treasure, float luckMultiplierFactor)
 		//case 3:	item.BoxTreasure.carpenter_kit = 1;		break;
 		case  7:	treasure.BoxTreasure.tailor_kit = 1;		break;
 		case  8:	treasure.BoxTreasure.mechanic_kit = 1;		break;
-		case 14:	treasure.BoxTreasure.alchemy_kit = 1;		break;
+		case 11:	treasure.BoxTreasure.alchemy_kit = 1;		break;
 	}
 
-	craftRand = rand(10); // ~30%
+	craftRand = rand(5); // ~50%
 	switch (craftRand)
 	{
 		case 2:	treasure.BoxTreasure.ethanol = 1;			break;
-		case 8:	treasure.BoxTreasure.nitric_acid = 1;		break;
-		case 9:	treasure.BoxTreasure.fulminate_silver = 1;	break;
+		case 3:	treasure.BoxTreasure.nitric_acid = 1;		break;
+		case 4:	treasure.BoxTreasure.fulminate_silver = 1;	break;
 	}
 
 	GenerateMapsInTreasure(treasure, 25, 50);
