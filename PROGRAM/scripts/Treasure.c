@@ -1,4 +1,7 @@
 #define 100_PERCENT 100
+#define TREASURE_QUALITY_BAD 0
+#define TREASURE_QUALITY_GOOD 1
+#define TREASURE_QUALITY_BEST 2
 
 //  Карты сокровищ  ГЕНЕРАТОР -->
 string GetIslandForTreasure()
@@ -181,47 +184,20 @@ void FillBoxForTreasure(ref treasure, bool isSuperTreasure)
 
 	Trace("FillBoxForTreasure luck = " + luck + ", fortune = " + fortune + ", luckMultiplierFactor = " + luckMultiplierFactor);
 
-	// chance to get bad treasure
-	// for treasure level 1: 0% when fortune = 100 and 50% when fortune = 0
-	// for treasure level 2: 0% when fortune = 100 and 25% when fortune = 0
-	float chanceToGetBadTreasure;
-	if(!isSuperTreasure)
-	{
-	    chanceToGetBadTreasure =  (SKILL_MAX - fortune) / 2.0;
-	}
-	else
-	{
-		chanceToGetBadTreasure =  (SKILL_MAX - fortune) / 4.0;
-	}
-	int roll = rand(100_PERCENT);
-	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure + " roll = " + roll);
-	if(roll < chanceToGetBadTreasure)
-	{
-		GenerateBadTreasureContent(treasure, luckMultiplierFactor);
-		return;
-	}
+	int treasureQuality = GetTreasureQuality(fortune, isSuperTreasure);
 
-	// chance to get the best treasure
-	// for treasure level 1: 50% when fortune = 100 and 10% when fortune = 0
-	// for treasure level 2: 70% when fortune = 100 and 30% when fortune = 0
-	float chanceToGetBestTreasure;
-	if(!isSuperTreasure)
+	switch(treasureQuality)
 	{
-		chanceToGetBestTreasure = fortune * 0.8 / 2.0 + 10;
+		case TREASURE_QUALITY_BAD:
+			GenerateBadTreasureContent(treasure, luckMultiplierFactor);
+		break;
+		case TREASURE_QUALITY_GOOD:
+			GenerateGoodTreasureContent(treasure, luckMultiplierFactor);
+		break;
+		case TREASURE_QUALITY_BEST:
+			GenerateBestTreasureContent(treasure, luckMultiplierFactor);
+		break;
 	}
-	else
-	{
-		chanceToGetBestTreasure = fortune * 0.8 / 2.0 + 30;
-	}
-	roll = rand(100_PERCENT);
-	Trace("chanceToGetBestTreasure = " + chanceToGetBestTreasure + " roll = " + roll);
-	if(roll < chanceToGetBestTreasure)
-	{
-		GenerateBestTreasureContent(treasure, luckMultiplierFactor);
-		return;
-	}
-
-	GenerateGoodTreasureContent(treasure, luckMultiplierFactor);
 }
 
 void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
@@ -836,10 +812,9 @@ void SetTreasureHunter(string temp)
 //=====================================================================================================================================
 void Set_TreasureBarrel()
 {
-	ref			nulChr;
-	aref     	trBarrel;
+	aref trBarrel;
 
-	nulChr = &NullCharacter;
+	ref nulChr = &NullCharacter;
 	if(CheckAttribute(nulChr,"GenQuest.Barrel")) DeleteAttribute(nulChr,"GenQuest.Barrel");
 
 	makearef(trBarrel, nulChr.GenQuest.Barrel);
@@ -934,6 +909,49 @@ void Set_TreasureBarrel()
 //=====================================================================================================================================
 // Ugeen. ГЕНЕРАТОР  "Специальный энкаунтер - бочка"
 //=====================================================================================================================================
+
+int GetTreasureQuality(int fortune, bool isSuperTreasure)
+{
+	// chance to get bad treasure
+	// for treasure level 1: 10% when fortune = 100 and 50% when fortune = 0
+	// for treasure level 2: 5% when fortune = 100 and 25% when fortune = 0
+	float chanceToGetBadTreasure;
+	if(!isSuperTreasure)
+	{
+		chanceToGetBadTreasure =  (SKILL_MAX - fortune * 0.8) / 2.0;
+	}
+	else
+	{
+		chanceToGetBadTreasure =  (SKILL_MAX - fortune * 0.8) / 4.0;
+	}
+	int roll = rand(100_PERCENT - 1);
+	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure + " roll = " + roll);
+	if(roll < chanceToGetBadTreasure)
+	{
+		return TREASURE_QUALITY_BAD;
+	}
+
+	// chance to get the best treasure (either best or good)
+	// for treasure level 1: 50% when fortune = 100 and 20% when fortune = 0
+	// for treasure level 2: 68% when fortune = 100 and 38% when fortune = 0
+	float chanceToGetBestTreasure;
+	if(!isSuperTreasure)
+	{
+		chanceToGetBestTreasure = fortune * 0.6 / 2.0 + 20;
+	}
+	else
+	{
+		chanceToGetBestTreasure = fortune * 0.6 / 2.0 + 38;
+	}
+	roll = rand(100_PERCENT - 1);
+	Trace("chanceToGetBestTreasure = " + chanceToGetBestTreasure + " roll = " + roll);
+	if(roll < chanceToGetBestTreasure)
+	{
+		return TREASURE_QUALITY_BEST;
+	}
+
+	return TREASURE_QUALITY_GOOD;
+}
 
 void TraceGeneratedTreasureBox(ref treasure)
 {
