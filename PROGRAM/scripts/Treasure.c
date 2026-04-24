@@ -136,15 +136,6 @@ void FillMapForTreasure(ref item)
 
 	bool isSuperTreasure = CheckAttribute(Pchar, "GenQuest.TreasureBuild") || CheckAttribute(&TEV, "MapTreasureNoScam");
 
-	///
-	string treasureLevel = "level 1";
-	if(isSuperTreasure)
-	{
-    	treasureLevel = "level 2";
-	}
-	Trace("Generating the treasure " + treasureLevel);
-	///
-
 	FillBoxForTreasure(item, isSuperTreasure);
 	FillBoxForTreasureAddition(item);
 
@@ -158,7 +149,7 @@ void FillMapForTreasure(ref item)
 		FillBoxForTreasureSuper(item);
 	}
 
-	TraceGeneratedTreasureBox(item);
+	//TraceGeneratedTreasureBox(item);
 
 	DeleteAttribute(Pchar, "GenQuest.TreasureBuild"); //сборный
 	DeleteAttribute(&TEV, "MapTreasureNoScam");
@@ -182,8 +173,6 @@ void FillBoxForTreasure(ref treasure, bool isSuperTreasure)
 	// with luck = 3 luckMultiplierFactor = 0.3 and max possible quantity = 100 * 0.3 = 30
 	float luckMultiplierFactor = luck / 10.0;
 
-	Trace("FillBoxForTreasure luck = " + luck + ", fortune = " + fortune + ", luckMultiplierFactor = " + luckMultiplierFactor);
-
 	int treasureQuality = GetTreasureQuality(fortune, isSuperTreasure);
 
 	switch(treasureQuality)
@@ -202,8 +191,6 @@ void FillBoxForTreasure(ref treasure, bool isSuperTreasure)
 
 void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
 {
-	Trace("Good treasure");
-
 	int additionalItemQty;
 
 	if (rand(1) == 1)
@@ -289,8 +276,6 @@ void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
 
 void GenerateBestTreasureContent(ref treasure, float luckMultiplierFactor)
 {
-	Trace("Best treasure");
-
 	int additionalItemQty;
 
 	if (rand(2) == 1)
@@ -363,8 +348,6 @@ void GenerateBestTreasureContent(ref treasure, float luckMultiplierFactor)
 
 void GenerateBadTreasureContent(ref treasure, float luckMultiplierFactor)
 {
-	Trace("Bad treasure");
-
 	int additionalItemQty;
 
 	if (rand(2) == 1)
@@ -567,8 +550,6 @@ void FillBoxForTreasureAddition(ref item)
 
 void FillBoxForTreasureSuper(ref item)
 {
-	Trace("FillBoxForTreasureSuper");
-
 	// evganat - энциклопедия
 	if (CheckRandomPage("treasurechest", "", -1))
 	{
@@ -925,7 +906,6 @@ int GetTreasureQuality(int fortune, bool isSuperTreasure)
 		chanceToGetBadTreasure =  (SKILL_MAX - fortune * 0.8) / 4.0;
 	}
 	int roll = rand(100_PERCENT - 1);
-	Trace("chanceToGetBadTreasure = " + chanceToGetBadTreasure + " roll = " + roll);
 	if(roll < chanceToGetBadTreasure)
 	{
 		return TREASURE_QUALITY_BAD;
@@ -944,7 +924,6 @@ int GetTreasureQuality(int fortune, bool isSuperTreasure)
 		chanceToGetBestTreasure = fortune * 0.6 / 2.0 + 38;
 	}
 	roll = rand(100_PERCENT - 1);
-	Trace("chanceToGetBestTreasure = " + chanceToGetBestTreasure + " roll = " + roll);
 	if(roll < chanceToGetBestTreasure)
 	{
 		return TREASURE_QUALITY_BEST;
@@ -959,7 +938,6 @@ void TraceGeneratedTreasureBox(ref treasure)
 
 	makearef(arBox, treasure.BoxTreasure);
 	int itemsCount = GetAttributesNum(arBox);
-	Trace("Generated treasure has " + itemsCount + " items:");
 
 	for (int i = 0; i < itemsCount; i++)
 	{
