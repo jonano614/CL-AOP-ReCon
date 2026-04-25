@@ -160,6 +160,8 @@ void FillMapForTreasure(ref item)
 		Pchar.quest.SetTreasureFromMap.win_condition.l1.location = item.MapLocId;
 		Pchar.quest.SetTreasureFromMap.win_condition             = "SetTreasureFromMap";
 	}
+
+	AddCharacterExpToSkill(Pchar, SKILL_FORTUNE, 5);
 }
 
 void FillBoxForTreasure(ref treasure, bool isSuperTreasure)
