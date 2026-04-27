@@ -1,23 +1,23 @@
 int CheckHoldBox()
 {
 	aref itemsARef;
-	ref locRef = &locations[FindLocation("My_Deck")];
+	ref holdBoxRef = &locations[FindLocation("My_Deck")];
 	int result = 0;
 
-	if (CheckAttribute(locRef, "box1"))
+	if (CheckAttribute(holdBoxRef, "box1"))
 	{
-		if (CheckAttribute(locRef, "box1.items"))
+		if (CheckAttribute(holdBoxRef, "box1.items"))
 		{
-			makearef(itemsARef, locRef.box1.items);
+			makearef(itemsARef, holdBoxRef.box1.items);
 
 			if (GetAttributesNum(itemsARef) > 0)
 				result += 1;
 		}
 
-		if (CheckAttribute(locRef, "box1.money"))
+		if (CheckAttribute(holdBoxRef, "box1.money"))
 		{
-			if (sti(locRef.box1.money) <= 0) // а вдруг?
-				locRef.box1.money = 0;
+			if (sti(holdBoxRef.box1.money) <= 0) // а вдруг?
+				holdBoxRef.box1.money = 0;
 			else
 				result += 2;
 		}

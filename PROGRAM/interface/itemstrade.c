@@ -1,3 +1,6 @@
+#define BUY_ITEM_EXP_MODIFIER 700.0
+#define SELL_ITEM_EXP_MODIFIER 1000.0
+
 // boal 26/04/06 морма торговли предметами
 int nCurScrollNum = 0;
 int iCharCapacity;
@@ -866,7 +869,7 @@ void ShowGoodsInfo(int iGoodIndex)
 	SetFormatedText("QTY_INFO_STORE_PRICE", XI_ConvertString("Price buy") + NewStr() + its(iStorePrice));
 
 	iCharPrice = GetTradeItemPrice(iGoodIndex, PRICE_TYPE_BUY);
-	SetFormatedText("QTY_INFO_SHIP_PRICE", XI_ConvertString("Price sell") + NewStr() + its(iCharPrice));
+	SetFormatedText("QTY_INFO_SHIP_PRICE", XI_ConvertString("Pric e sell") + NewStr() + its(iCharPrice));
 }
 
 void TransactionOK()
@@ -896,7 +899,7 @@ void TransactionOK()
 		refStoreChar.money = sti(refStoreChar.money) + iTotalPrice;
 		Statistic_AddValue(Pchar, "Money_spend", iTotalPrice);
 		// boal  check skill -->
-		AddCharacterExpToSkill(pchar, "Commerce", iTotalPrice / 700.0);
+		AddCharacterExpToSkill(pchar, "Commerce", iTotalPrice / BUY_ITEM_EXP_MODIFIER);
 		// boal <--
 	}
 	else
@@ -908,20 +911,11 @@ void TransactionOK()
 		refStoreChar.money = sti(refStoreChar.money) - iTotalPrice;
 		Statistic_AddValue(Pchar, "Money_get", iTotalPrice);
 		// boal  check skill -->
-		AddCharacterExpToSkill(pchar, "Commerce", iTotalPrice / 1000.0);
+		AddCharacterExpToSkill(pchar, "Commerce", iTotalPrice / SELL_ITEM_EXP_MODIFIER);
 		// boal <--
 	}
 
-	iTime = makeint(iTime * nTradeQuantity / 2);
-
-	if (CheckOfficer("treasurer"))
-		iTime /= 2;
-
-	if (GetOfficersPerkUsing(refCharacter, "QuickCalculation"))
-		iTime /= 2;
-
-	Restrictor(&iTime, 1, 30);
-	WaitDate("", 0, 0, 0, 0, iTime);
+	WaitTimeAfterTrade(nTradeQuantity, refCharacter);
 
 	AddToTable(FilterMode);
 	EndTooltip();
@@ -1218,4 +1212,18 @@ void SortTradeList(int column, bool preserveState, string tableName)
 	}
 
 	QoLSortTable(tableName, column, datatype, preserveState, 0);
+}
+
+void WaitTimeAfterTrade(int tradeQuantity, ref character)
+{
+	int time = tradeQuantity / 2;
+
+	if (CheckOfficer("treasurer"))
+		time /= 2;
+
+	if (GetOfficersPerkUsing(character, "QuickCalculation"))
+		time /= 2;
+
+	Restrictor(&time, 1, 30);
+	WaitDate("", 0, 0, 0, 0, time);
 }
