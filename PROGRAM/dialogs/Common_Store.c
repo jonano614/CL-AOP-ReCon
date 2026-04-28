@@ -1483,7 +1483,12 @@ void FrachtResult(ref rChar, int iRes)
 
 void SellHoldBoxContents(ref traderChar)
 {
-    //TODO
-	string traderMoney = FindMoneyString(sti(traderChar.money));
-	LogSound_WithNotify(traderMoney, "Took_item", "Money");
+	int income = TakeMoneyFromHoldBox();
+	income += SellItemsFromHoldBox(traderChar);
+
+	if(income > 0)
+	{
+		Pchar.money = sti(Pchar.money) + income;
+		LogSound_WithNotify(StringFromKey("InfoMessages_142", income), "Took_item", "Money");
+	}
 }

@@ -431,8 +431,8 @@ void AddToTable(int _mode)
 			GameInterface.TABLE_LIST.(row).td4.textoffset = "31,0";
 			GameInterface.TABLE_LIST.(row).td4.scale = 0.83;
 			GameInterface.TABLE_LIST.(row).td4.str = LanguageConvertString(idLngFile, rItem.name);
-			GameInterface.TABLE_LIST.(row).td3.str = GetTradeItemPrice(i, PRICE_TYPE_BUY);
-			GameInterface.TABLE_LIST.(row).td5.str = GetTradeItemPrice(i, PRICE_TYPE_SELL);
+			GameInterface.TABLE_LIST.(row).td3.str = GetTradeItemPrice(rItem, PRICE_TYPE_BUY);
+			GameInterface.TABLE_LIST.(row).td5.str = GetTradeItemPrice(rItem, PRICE_TYPE_SELL);
 			n++;
 		}
 	}
@@ -490,8 +490,8 @@ void AddToTable(int _mode)
 			GameInterface.TABLE_LIST.(row).td4.textoffset = "31,0";
 			GameInterface.TABLE_LIST.(row).td4.scale = 0.83;
 			GameInterface.TABLE_LIST.(row).td4.str = LanguageConvertString(idLngFile, rItem.name);
-			GameInterface.TABLE_LIST.(row).td3.str = GetTradeItemPrice(i, PRICE_TYPE_BUY);
-			GameInterface.TABLE_LIST.(row).td5.str = GetTradeItemPrice(i, PRICE_TYPE_SELL);
+			GameInterface.TABLE_LIST.(row).td3.str = GetTradeItemPrice(rItem, PRICE_TYPE_BUY);
+			GameInterface.TABLE_LIST.(row).td5.str = GetTradeItemPrice(rItem, PRICE_TYPE_SELL);
 			n++;
 		}
 	}
@@ -865,10 +865,10 @@ void ShowGoodsInfo(int iGoodIndex)
 	SetFormatedText("QTY_INFO_SHIP_QTY", its(iCharQty));
 	BuyOrSell = 0;
 
-	iStorePrice = GetTradeItemPrice(iGoodIndex, PRICE_TYPE_SELL);
+	iStorePrice = GetTradeItemPrice(arItm, PRICE_TYPE_SELL);
 	SetFormatedText("QTY_INFO_STORE_PRICE", XI_ConvertString("Price buy") + NewStr() + its(iStorePrice));
 
-	iCharPrice = GetTradeItemPrice(iGoodIndex, PRICE_TYPE_BUY);
+	iCharPrice = GetTradeItemPrice(arItm, PRICE_TYPE_BUY);
 	SetFormatedText("QTY_INFO_SHIP_PRICE", XI_ConvertString("Pric e sell") + NewStr() + its(iCharPrice));
 }
 
@@ -899,7 +899,7 @@ void TransactionOK()
 		refStoreChar.money = sti(refStoreChar.money) + iTotalPrice;
 		Statistic_AddValue(Pchar, "Money_spend", iTotalPrice);
 		// boal  check skill -->
-		AddCharacterExpToSkill(pchar, "Commerce", iTotalPrice / BUY_ITEM_EXP_MODIFIER);
+		AddCharacterExpToSkill(pchar, SKILL_COMMERCE, iTotalPrice / BUY_ITEM_EXP_MODIFIER);
 		// boal <--
 	}
 	else
@@ -911,7 +911,7 @@ void TransactionOK()
 		refStoreChar.money = sti(refStoreChar.money) - iTotalPrice;
 		Statistic_AddValue(Pchar, "Money_get", iTotalPrice);
 		// boal  check skill -->
-		AddCharacterExpToSkill(pchar, "Commerce", iTotalPrice / SELL_ITEM_EXP_MODIFIER);
+		AddCharacterExpToSkill(pchar, SKILL_COMMERCE, iTotalPrice / SELL_ITEM_EXP_MODIFIER);
 		// boal <--
 	}
 
@@ -1142,14 +1142,13 @@ void ADD_BUTTON()  // купить
 	ChangeQTY_EDIT();
 }
 
-int GetTradeItemPrice(int itmIdx, int tradeType)
+int GetTradeItemPrice(ref itemToTrade, int tradeType)
 {
-	int itmprice = 0;
-	if (itmIdx < 0 || itmIdx > TOTAL_ITEMS) return 0;
+	int itemPrice = 0;
 
-	if (CheckAttribute(&Items[itmIdx], "price"))
+	if (CheckAttribute(itemToTrade, "price"))
 	{
-		itmprice = sti(Items[itmIdx].price);
+		itemPrice = sti(itemToTrade.price);
 	}
 
 	float skillDelta = GetSummonSkillFromNameToOld(pchar, SKILL_COMMERCE);
@@ -1158,10 +1157,10 @@ int GetTradeItemPrice(int itmIdx, int tradeType)
 	{
 		//ГГ покупает этот предмет
 		skillModify = 1.4 - skillDelta * 0.019;
-		if (CheckAttribute(&Items[itmIdx], "groupID"))
+		if (CheckAttribute(itemToTrade, "groupID"))
 		{
-			if (Items[itmIdx].groupID == BLADE_ITEM_TYPE || Items[itmIdx].groupID == GUN_ITEM_TYPE ||
-                Items[itmIdx].groupID == MUSKET_ITEM_TYPE)
+			if (itemToTrade.groupID == BLADE_ITEM_TYPE || itemToTrade.groupID == GUN_ITEM_TYPE ||
+			itemToTrade.groupID == MUSKET_ITEM_TYPE)
                 skillModify *= 10.0;
 		}
 		if (CheckOfficersPerk(pchar, "ProfessionalCommerce"))
@@ -1180,7 +1179,7 @@ int GetTradeItemPrice(int itmIdx, int tradeType)
 		else if (CheckOfficersPerk(pchar, "AdvancedCommerce")) skillModify += 0.1;
 	}
 
-	return makeint(makefloat(itmprice) * skillModify);
+	return makeint(makefloat(itemPrice) * skillModify);
 }
 
 void OnHeaderClick()
