@@ -1490,6 +1490,10 @@ void SellHoldBoxContents(ref traderChar)
 		Pchar.money = sti(Pchar.money) + income;
 		LogSound_WithNotify(StringFromKey("InfoMessages_142", income), "Took_item", "Money");
 	}
+	else
+	{
+		Notification(XI_ConvertString("LackOfTraderMoney"), "Money");
+	}
 }
 
 bool CheckShipMooredInColony(ref colonyRef)	// проверка наличия корабля в порту указанной колонии

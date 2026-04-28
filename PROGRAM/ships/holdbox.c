@@ -53,7 +53,7 @@ int SellItemsFromHoldBox(ref traderChar)
 {
 	ref holdBoxRef = &Locations[FindLocation("My_Deck")];
 	int traderMoney = sti(traderChar.money);
-	string notSoldItems = "";
+	object notSoldItems;
 	int totalIncome = 0;
 	int tradeQuantity = 0;
 
@@ -96,15 +96,23 @@ int SellItemsFromHoldBox(ref traderChar)
 	}
 
 	DeleteAttribute(holdBoxRef, "box1.items");
-	holdBoxRef.box1.items = notSoldItems;
+	holdBoxRef.box1.items = "";
+	aref itemsRef;
+	makearef(itemsRef, holdBoxRef.box1.items);
+	CopyAttributes(itemsRef, &notSoldItems);
 
 	Pchar.money = sti(Pchar.money) + totalIncome;
 	traderChar.money = traderMoney;
 
 	Trace("Total selled " + tradeQuantity + " items for " + totalIncome);
+	TraceBox(holdBoxRef);
 
-	AddCharacterExpToSkill(Pchar, SKILL_COMMERCE, totalIncome / SELL_ITEM_EXP_MODIFIER);
-	WaitTimeAfterTrade(tradeQuantity, Pchar);
+	if(totalIncome > 0)
+	{
+		AddCharacterExpToSkill(Pchar, SKILL_COMMERCE, totalIncome / SELL_ITEM_EXP_MODIFIER);
+		Statistic_AddValue(Pchar, "Money_get", totalIncome);
+		WaitTimeAfterTrade(tradeQuantity, Pchar);
+	}
 
 	return totalIncome;
 }
