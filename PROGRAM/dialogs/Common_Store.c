@@ -511,7 +511,8 @@ void ProcessDialogEvent()
 			link.l2.go = "items";
 
 			int holdBoxState = CheckHoldBox();
-			if(holdBoxState > 0)
+			bool isShipMoored = CheckShipMooredInColony(rColony);
+			if(holdBoxState > 0 && isShipMoored)
 			{
 				link.l3 = StringFromKey("Common_Store_450");
 				link.l3.go = "menu_sellHoldBoxContents";
@@ -601,8 +602,7 @@ void ProcessDialogEvent()
 		break;
 
 		case "trade_1":
-			ok = (rColony.from_sea == "") || (Pchar.location.from_sea == rColony.from_sea);
-			if (sti(Pchar.Ship.Type) != SHIP_NOTUSED && ok)
+			if (CheckShipMooredInColony(rColony))
 			{
 				NextDiag.CurrentNode = NextDiag.TempNode;
 				DialogExit();
@@ -788,8 +788,7 @@ void ProcessDialogEvent()
 			dialog.text = NPCharRepPhrase(npchar,
 					StringFromKey("Common_Store_313"),
 					StringFromKey("Common_Store_314"));
-			ok = (rColony.from_sea == "") || (Pchar.location.from_sea == rColony.from_sea);
-			if (sti(Pchar.Ship.Type) != SHIP_NOTUSED && ok)
+			if (CheckShipMooredInColony(rColony))
 			{
 				/*if (CheckAttribute(pchar, "CargoQuest.iQuantityGoods"))
 				{
@@ -1492,3 +1491,12 @@ void SellHoldBoxContents(ref traderChar)
 		LogSound_WithNotify(StringFromKey("InfoMessages_142", income), "Took_item", "Money");
 	}
 }
+
+bool CheckShipMooredInColony(ref colonyRef)	// проверка наличия корабля в порту указанной колонии
+{
+	if (!CheckShip(Pchar))
+		return false;
+
+	return (colonyRef.from_sea == "") || (Pchar.location.from_sea == colonyRef.from_sea);
+}
+

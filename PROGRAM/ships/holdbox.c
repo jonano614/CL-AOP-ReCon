@@ -90,12 +90,16 @@ int SellItemsFromHoldBox(ref traderChar)
 
 		if(traderMoney <= 0)
 		{
+			traderMoney = 0;
 			break;	// trader has no more money
 		}
 	}
 
 	DeleteAttribute(holdBoxRef, "box1.items");
 	holdBoxRef.box1.items = notSoldItems;
+
+	Pchar.money = sti(Pchar.money) + totalIncome;
+	traderChar.money = traderMoney;
 
 	Trace("Total selled " + tradeQuantity + " items for " + totalIncome);
 
