@@ -1058,7 +1058,7 @@ void TalkSelf_ClearHoldBoxContents()
 
 	if (moneyInBox > 0)
 	{
-		Pchar.sti(Pchar.money) + moneyInBox;
+		Pchar.money = sti(Pchar.money) + moneyInBox;
 		LogSound_WithNotify(StringFromKey("InfoMessages_142", moneyInBox), "Took_item", "Money");
 	}
 }
