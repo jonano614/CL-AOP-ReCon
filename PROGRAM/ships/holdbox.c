@@ -57,6 +57,7 @@ int SellItemsFromHoldBox(ref traderChar)
 	int totalIncome = 0;
 	int tradeQuantity = 0;
 
+	Trace("Trader money = " + traderMoney);
 	TraceBox(holdBoxRef);
 
 	aref arItems;
@@ -85,7 +86,7 @@ int SellItemsFromHoldBox(ref traderChar)
 			tradeQuantity += itemsToSell;
 			totalIncome += income;
 
-			Trace("Sold Item " + itemId + "  quantity = " + itemsToSell + " for " + income);
+			Trace("Sold Item " + itemId + "  quantity = " + itemsToSell + " for " + income + " current total income = " + totalIncome + " trader money = " + traderMoney);
 		}
 
 		if(traderMoney <= 0)
