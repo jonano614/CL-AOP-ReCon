@@ -1,5 +1,6 @@
 // boal 08/04/04 общий диалог торговцев
 #include "DIALOGS\Rumours\Simple_rumors.c"  //homo 25/06/06
+#include "ships\holdbox.c"
 
 void ProcessDialogEvent()
 {
@@ -491,6 +492,7 @@ void ProcessDialogEvent()
 			dialog.text = StringFromKey("Common_Store_245", RandPhraseSimple(
 						StringFromKey("Common_Store_243"),
 						StringFromKey("Common_Store_244")));
+
 			link.l1 = pcharrepphrase(
 						StringFromKey("Common_Store_249", LinkRandPhrase(
 								StringFromKey("Common_Store_246"),
@@ -501,19 +503,29 @@ void ProcessDialogEvent()
 								StringFromKey("Common_Store_251"),
 								StringFromKey("Common_Store_252"))));
 			link.l1.go = "trade_1";
+
 			link.l2 = StringFromKey("Common_Store_257", LinkRandPhrase(
 						StringFromKey("Common_Store_254"),
 						StringFromKey("Common_Store_255"),
 						StringFromKey("Common_Store_256")));
 			link.l2.go = "items";
-			link.l3 = pcharrepphrase(
+
+			int holdBoxState = CheckHoldBox();
+			bool isShipMoored = CheckShipMooredInColony(rColony);
+			if(holdBoxState > 0 && isShipMoored)
+			{
+				link.l3 = StringFromKey("Common_Store_450");
+				link.l3.go = "menu_sellHoldBoxContents";
+			}
+
+			link.l4 = pcharrepphrase(
 						StringFromKey("Common_Store_260", RandPhraseSimple(
 								StringFromKey("Common_Store_258"),
 								StringFromKey("Common_Store_259"))),
 						StringFromKey("Common_Store_263", RandPhraseSimple(
 								StringFromKey("Common_Store_261"),
 								StringFromKey("Common_Store_262"))));
-			link.l3.go = "exit";
+			link.l4.go = "exit";
 		break;
 
 		case "EncGirl_1":
@@ -590,8 +602,7 @@ void ProcessDialogEvent()
 		break;
 
 		case "trade_1":
-			ok = (rColony.from_sea == "") || (Pchar.location.from_sea == rColony.from_sea);
-			if (sti(Pchar.Ship.Type) != SHIP_NOTUSED && ok)
+			if (CheckShipMooredInColony(rColony))
 			{
 				NextDiag.CurrentNode = NextDiag.TempNode;
 				DialogExit();
@@ -746,6 +757,11 @@ void ProcessDialogEvent()
 			LaunchItemsTrade(NPChar);
 		break;
 
+		case "menu_sellHoldBoxContents":
+			SellHoldBoxContents(NPChar);
+			DialogExit();
+			break;
+
 		case "business":
 			iTest = 0;
 			//квест Синей Птицы, начальный диалог
@@ -772,8 +788,7 @@ void ProcessDialogEvent()
 			dialog.text = NPCharRepPhrase(npchar,
 					StringFromKey("Common_Store_313"),
 					StringFromKey("Common_Store_314"));
-			ok = (rColony.from_sea == "") || (Pchar.location.from_sea == rColony.from_sea);
-			if (sti(Pchar.Ship.Type) != SHIP_NOTUSED && ok)
+			if (CheckShipMooredInColony(rColony))
 			{
 				/*if (CheckAttribute(pchar, "CargoQuest.iQuantityGoods"))
 				{
@@ -1464,3 +1479,28 @@ void FrachtResult(ref rChar, int iRes)
 	pchar.CargoQuest.GiveTraderID = rChar.id;
 	SaveCurrentQuestDateParam("CargoQuest");
 }
+
+void SellHoldBoxContents(ref traderChar)
+{
+	int income = TakeMoneyFromHoldBox();
+	income += SellItemsFromHoldBox(traderChar);
+
+	if(income > 0)
+	{
+		Pchar.money = sti(Pchar.money) + income;
+		LogSound_WithNotify(StringFromKey("InfoMessages_142", income), "Took_item", "Money");
+	}
+	else
+	{
+		Notification(XI_ConvertString("LackOfTraderMoney"), "Money");
+	}
+}
+
+bool CheckShipMooredInColony(ref colonyRef)	// проверка наличия корабля в порту указанной колонии
+{
+	if (!CheckShip(Pchar))
+		return false;
+
+	return (colonyRef.from_sea == "") || (Pchar.location.from_sea == colonyRef.from_sea);
+}
+

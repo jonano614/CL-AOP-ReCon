@@ -1,3 +1,5 @@
+#include "ships\holdbox.c"
+
 void ProcessDialogEvent()
 {
 	ref NPChar, refLoc;
@@ -449,7 +451,7 @@ void ProcessDialogEvent()
 					}
 				}
 
-				if (CheckHoldBox(false) > 0)
+				if (CheckHoldBox() > 0)
 				{
 					Link.l10 = StringFromKey("MainHero_dialog_64");
 					Link.l10.go = "TalkSelf_Looting_Info";
@@ -858,7 +860,7 @@ void ProcessDialogEvent()
 			Link.l1 = StringFromKey("MainHero_dialog_103");
 			Link.l1.go = "TalkSelf_Main";
 
-			if (CheckHoldBox(false) > 2)
+			if (CheckHoldBox() > 2)
 			{
 				Dialog.Text = StringFromKey("MainHero_dialog_104", sti(TEV.LootingInfoMoney));
 				Link.l2 = StringFromKey("MainHero_dialog_105");
@@ -868,7 +870,7 @@ void ProcessDialogEvent()
 			}
 			else
 			{
-				if (CheckHoldBox(false) < 2)
+				if (CheckHoldBox() < 2)
 				{
 					Dialog.Text = StringFromKey("MainHero_dialog_107");
 					Link.l2 = StringFromKey("MainHero_dialog_108");
@@ -892,13 +894,7 @@ void ProcessDialogEvent()
 		break;
 
 		case "TalkSelf_Looting_Erase_Accept":
-			iTemp = sti(pchar.money);
-			CheckHoldBox(true);
-			LogSound_WithNotify(StringFromKey("InfoMessages_141"), "Ship\jakor_00" + (1 + rand(1)) + ".wav", "BoxMinus");
-
-			if (sti(pchar.money) > iTemp)
-				LogSound_WithNotify(StringFromKey("InfoMessages_142", (sti(pchar.money) - iTemp)), "Took_item", "Money");
-
+			TalkSelf_ClearHoldBoxContents();
 			DialogExit_Self();
 		break;
 
@@ -911,14 +907,7 @@ void ProcessDialogEvent()
 		break;
 
 		case "TalkSelf_Looting_Money_Accept":
-			iTemp = sti(pchar.money);
-			refLoc = &locations[FindLocation("My_Deck")];
-			pchar.money = makeint(sti(pchar.money) + sti(refLoc.box1.money));
-			refLoc.box1.money = 0;
-
-			if (sti(pchar.money) > iTemp)
-				LogSound_WithNotify(StringFromKey("InfoMessages_142", (sti(pchar.money) - iTemp)), "Took_item", "Money");
-
+			TalkSelf_TakeMoneyFromHoldBox();
 			DialogExit_Self();
 		break;
 
@@ -1062,38 +1051,24 @@ void DialogExit_Self()
 	DeleteAttributeEx(&TEV, "LootingInfoMoney,LootingTempMode");
 }
 
-int CheckHoldBox(bool del)
+void TalkSelf_ClearHoldBoxContents()
 {
-	aref itemsARef;
-	ref locRef = &locations[FindLocation("My_Deck")];
-	int result = 0;
+	int moneyInBox = TakeMoneyFromHoldBoxAndClearContents();
+	LogSound_WithNotify(StringFromKey("InfoMessages_141"), "Ship\jakor_00" + (1 + rand(1)) + ".wav", "BoxMinus");
 
-	if (del)
+	if (moneyInBox > 0)
 	{
-		DeleteAttribute(locRef, "box1.items");
-		locRef.box1.items = "";
-		pchar.money = makeint(sti(pchar.money) + sti(locRef.box1.money));
-		locRef.box1.money = 0;
-		return 0;
+		Pchar.money = sti(Pchar.money) + moneyInBox;
+		LogSound_WithNotify(StringFromKey("InfoMessages_142", moneyInBox), "Took_item", "Money");
 	}
+}
 
-	if (CheckAttribute(locRef, "box1"))
+void TalkSelf_TakeMoneyFromHoldBox()
+{
+	int moneyInBox = TakeMoneyFromHoldBox();
+	if(moneyInBox > 0)
 	{
-		if (CheckAttribute(locRef, "box1.items"))
-		{
-			makearef(itemsARef, locRef.box1.items);
-
-			if (GetAttributesNum(itemsARef) > 0)
-				result += 1;
-		}
-
-		if (CheckAttribute(locRef, "box1.money"))
-		{
-			if (sti(locRef.box1.money) <= 0) // а вдруг?
-				locRef.box1.money = 0;
-			else
-				result += 2;
-		}
+		Pchar.money = sti(Pchar.money) + moneyInBox;
+		LogSound_WithNotify(StringFromKey("InfoMessages_142", moneyInBox), "Took_item", "Money");
 	}
-	return result;
 }
