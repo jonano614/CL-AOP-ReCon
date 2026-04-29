@@ -869,7 +869,7 @@ void ShowGoodsInfo(int iGoodIndex)
 	SetFormatedText("QTY_INFO_STORE_PRICE", XI_ConvertString("Price buy") + NewStr() + its(iStorePrice));
 
 	iCharPrice = GetTradeItemPrice(arItm, PRICE_TYPE_BUY);
-	SetFormatedText("QTY_INFO_SHIP_PRICE", XI_ConvertString("Pric e sell") + NewStr() + its(iCharPrice));
+	SetFormatedText("QTY_INFO_SHIP_PRICE", XI_ConvertString("Price sell") + NewStr() + its(iCharPrice));
 }
 
 void TransactionOK()
