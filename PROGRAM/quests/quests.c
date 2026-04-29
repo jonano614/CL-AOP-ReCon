@@ -2601,6 +2601,10 @@ void SetMapQuestMarks()
         {
             aref curQmRef = GetAttributeN(qmsRef, i);
             qmCurModelName = GetAttributeValue(curQmRef);
+
+			string questName = GetAttributeName(curQmRef);
+			Trace("SetMapQuestMark name = " + questName + " location = " + locId);
+
             bool condRes = true;
             if (CheckAttribute(curQmRef, "conditionFunc"))
             {
