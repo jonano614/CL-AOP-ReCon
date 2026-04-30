@@ -263,6 +263,11 @@ void GenerateGoodTreasureContent(ref treasure, float luckMultiplierFactor)
 	{
 		treasure.BoxTreasure.mushket_poor = 1;
 	}
+	if (rand(2) == 1)
+	{
+		additionalItemQty = 20 * luckMultiplierFactor;
+		treasure.BoxTreasure.Mineral16 = 10 + rand(additionalItemQty);
+	}
 
 	int craftRand = rand(12); // ~30%
 	switch (craftRand)
@@ -901,7 +906,7 @@ int GetTreasureQuality(int fortune, bool isSuperTreasure)
 	float chanceToGetBadTreasure;
 	if(!isSuperTreasure)
 	{
-		chanceToGetBadTreasure =  (SKILL_MAX - fortune * 0.8) / 2.0;
+		chanceToGetBadTreasure =  (SKILL_MAX - fortune * 0.6) / 2.0 - 10;
 	}
 	else
 	{
@@ -940,6 +945,7 @@ void TraceGeneratedTreasureBox(ref treasure)
 
 	makearef(arBox, treasure.BoxTreasure);
 	int itemsCount = GetAttributesNum(arBox);
+	Trace("Generated treasure has " + itemsCount + " items:");
 
 	for (int i = 0; i < itemsCount; i++)
 	{
