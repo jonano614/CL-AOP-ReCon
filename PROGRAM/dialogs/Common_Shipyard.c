@@ -441,9 +441,16 @@ void ProcessDialogEvent()
 		break;
 
 		case "shipyard":
-			NextDiag.CurrentNode = NextDiag.TempNode;
-			DialogExit();
-			LaunchShipyard(npchar);
+			if (CheckShipMooredInColony(rColony))
+			{
+				NextDiag.CurrentNode = NextDiag.TempNode;
+				DialogExit();
+				LaunchShipyard(npchar);
+			}
+			else
+			{
+				ShowShipIsNotInColonyDialog(link, npChar);
+			}
 		break;
 
 		case "Cannons":
@@ -455,21 +462,7 @@ void ProcessDialogEvent()
 			}
 			else
 			{
-				dialog.text = NPCharRepPhrase(npchar,
-						pcharrepphrase(
-								StringFromKey("Common_Shipyard_78"),
-								StringFromKey("Common_Shipyard_79")),
-						pcharrepphrase(
-								StringFromKey("Common_Shipyard_80", GetFullName(pchar)),
-								StringFromKey("Common_Shipyard_81")));
-				link.l1 = NPCharRepPhrase(npchar,
-						pcharrepphrase(
-								StringFromKey("Common_Shipyard_82", RandSwear()),
-								StringFromKey("Common_Shipyard_83", pchar, GetFullName(npchar))),
-						pcharrepphrase(
-								StringFromKey("Common_Shipyard_84"),
-								StringFromKey("Common_Shipyard_85")));
-				link.l1.go = "exit";
+				ShowShipIsNotInColonyDialog(link, npChar);
 			}
 		break;
 
@@ -991,6 +984,26 @@ string findShipyardCity(ref NPChar)
 	nation = storeArray[rand(howStore - 1)];
 	return colonies[nation].id;
 }
+
+void ShowShipIsNotInColonyDialog(aref link, ref npChar)
+{
+	dialog.text = NPCharRepPhrase(npChar,
+			pcharrepphrase(
+					StringFromKey("Common_Shipyard_78"),
+					StringFromKey("Common_Shipyard_79")),
+			pcharrepphrase(
+					StringFromKey("Common_Shipyard_80", GetFullName(Pchar)),
+					StringFromKey("Common_Shipyard_81")));
+	link.l1 = NPCharRepPhrase(npChar,
+			pcharrepphrase(
+					StringFromKey("Common_Shipyard_82", RandSwear()),
+					StringFromKey("Common_Shipyard_83", Pchar, GetFullName(npChar))),
+			pcharrepphrase(
+					StringFromKey("Common_Shipyard_84"),
+					StringFromKey("Common_Shipyard_85")));
+	link.l1.go = "exit";
+}
+
 /* //HardCoffee отключаю, так как появился интерфейс кастомизации -->
 // проверка какой уже цвет есть
 bool CheckSailsColor(ref chr, int col)
